@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="009" Year="42" PromulgateMonth="03" PromulgateDay="22">
+  <LawNum>明治四十二年法律第九号</LawNum>
+  <LawBody>
+    <LawTitle Kana="せいふにたいするほしょうきんそのたのたんぽにきょうしたるこくさいのかいいれさうきゃくにかんするほうりつ" Abbrev="" AbbrevKana="">明治四十二年法律第九号（政府ニ対スル保証金其ノ他ノ担保ニ供シタル国債ノ買入銷却ニ関スル法律）</LawTitle>
+    <MainProvision>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">政府ニ対スル保証金其ノ他ノ担保トシテ提供シタル国債ヲ法令ノ規定ニ依リ公売スヘキ場合ニ於テハ国債証券買入銷却法ニ依リ其ノ国債ノ債権金額ヲ以テ之ヲ買入レ銷却スルコトヲ得但シ割引ノ方法ヲ以テ発行シタル国債ニシテ買入ノ日ヨリ五年以内ニ償還期限ノ到来セサルモノニ付テハ発行価格ニ財務省令ノ定ムル所ニ依リ発行価格ト額面金額トノ差額ノ一部ニ相当スル金額ヲ加算シタルモノヲ以テ其ノ国債ノ債権金額ト看做シ買入銷却ヲ為スコトヲ得</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </MainProvision>
+    <SupplProvision AmendLawNum="昭和一四年四月一日法律第六一号" Extract="false" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法ハ公布ノ日ヨリ之ヲ施行ス</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
