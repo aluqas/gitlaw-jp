@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Meiji" Year="06" Num="065" PromulgateMonth="2" PromulgateDay="20" LawType="Act"><LawNum>明治六年太政官布告第六十五号</LawNum>
+  
+  <LawBody>
+    <LawTitle Kana="こうざいきかいずしき" Abbrev="" AbbrevKana="">明治六年太政官布告第六十五号（絞罪器械図式）</LawTitle>
+    <Preamble>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>府県ヘ</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </Preamble>
+    <MainProvision>
+      <Paragraph Num="1" OldStyle="true">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>絞罪器械別紙図式ノ通改正相成候間各地方ニ於テ右図式ニ従ヒ製造可致事</Sentence>
+        </ParagraphSentence>
+        <FigStruct>
+          <FigStructTitle>絞架全図　実物　六十分ノ一</FigStructTitle>
+          <Remarks>
+            <RemarksLabel LineBreak="true"/>
+            <Item Num="1">
+              <ItemTitle/>
+              <ItemSentence>
+                <Sentence>本図死囚二人ヲ絞ス可キ装構ナリト雖モ其三人以上ノ処刑ニ用ルモ亦之ニ模倣シテ作リ渋墨ヲ以テ全ク塗ル可シ</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle/>
+              <ItemSentence>
+                <Sentence>凡絞刑ヲ行フニハ先ツ両手ヲ背ニ縛シ紙ニテ面ヲ掩ヒ引テ絞架ニ登セ踏板上ニ立シメ次ニ両足ヲ縛シ次ニ絞繩ヲ首領ニ施シ其咽喉ニ当ラシメ繩ヲ穿ツトコロノ鉄鐶ヲ頂後ニ及ホシ之ヲ緊縮ス次ニ機車ノ柄ヲ挽ケハ踏板忽チ開落シテ囚身<QuoteStruct>
+                  <Table>
+                    <TableRow>
+                      <TableColumn BorderTop="none" BorderBottom="none" BorderRight="none" BorderLeft="none">
+                        <Sentence>地ヲ離ル</Sentence>
+                        <Sentence>凡一尺</Sentence>
+                      </TableColumn>
+                    </TableRow>
+                  </Table>
+                </QuoteStruct>空ニ懸ル凡二分時死相ヲ験シテ解下ス（凡絞刑云々以下ハ原文絞架図面ノ後ニアリ）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Remarks>
+          <Fig src="./pict/M06SE065-001.jpg"/>
+        </FigStruct>
+        <FigStruct>
+          <FigStructTitle>踏板表面図　実物三十分ノ一</FigStructTitle>
+          <Fig src="./pict/M06SE065-002.jpg"/>
+        </FigStruct>
+        <FigStruct>
+          <FigStructTitle>機車　実物三十分ノ一</FigStructTitle>
+          <Fig src="./pict/M06SE065-003.jpg"/>
+        </FigStruct>
+        <FigStruct>
+          <FigStructTitle>機車属鉄板図　実物三十分ノ一</FigStructTitle>
+          <Fig src="./pict/M06SE065-004.jpg"/>
+        </FigStruct>
+        <FigStruct>
+          <FigStructTitle>踏板裏面図　実物三十分ノ一</FigStructTitle>
+          <Fig src="./pict/M06SE065-005.jpg"/>
+        </FigStruct>
+        <FigStruct>
+          <FigStructTitle>機車装置図　実物三十分ノ一</FigStructTitle>
+          <Fig src="./pict/M06SE065-006.jpg"/>
+        </FigStruct>
+        <FigStruct>
+          <FigStructTitle>絞繩鐶図　実物十分ノ一</FigStructTitle>
+          <Fig src="./pict/M06SE065-007.jpg"/>
+        </FigStruct>
+        <FigStruct>
+          <FigStructTitle>鉄板架図　実物十分ノ一</FigStructTitle>
+          <Fig src="./pict/M06SE065-008.jpg"/>
+        </FigStruct>
+        <FigStruct>
+          <FigStructTitle>螺旋図　実物十分ノ一</FigStructTitle>
+          <Fig src="./pict/M06SE065-009.jpg"/>
+        </FigStruct>
+        <FigStruct>
+          <FigStructTitle>絞繩略図　繩長二丈五尺</FigStructTitle>
+          <Fig src="./pict/M06SE065-010.jpg"/>
+        </FigStruct>
+      </Paragraph>
+    </MainProvision>
+  </LawBody>
+</Law>
