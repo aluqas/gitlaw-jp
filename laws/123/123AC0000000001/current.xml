@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Meiji" Year="23" Num="001" PromulgateMonth="01" PromulgateDay="07" LawType="Act"><LawNum>明治二十三年法律第一号</LawNum>
+  
+  <LawBody>
+    <LawTitle Kana="ほかんきんきそく" Abbrev="" AbbrevKana="">保管金規則</LawTitle>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法律勅令又ハ従来ノ規則ニ依リ政府ニ於テ保管スル公有金私有金ハ左ノ計算法ニ従ヒ満五年ヲ過キテ払戻ノ請求ナキトキハ政府ノ所得トス但別ニ法律ヲ以テ失権ノ期限ヲ定メタルモノハ各其定ムル所ニ依ル</Sentence>
+          </ParagraphSentence>
+          <List>
+            <ListSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第一</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">保管義務解除ノ期アルモノハ其義務ヲ解除シタル翌日ヨリ起算ス</Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第二</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">保管義務解除ノ期ナキモノハ保管ノ翌日ヨリ起算ス</Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+          <List>
+            <ListSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第三</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">訴訟事件ノ為ニ払戻ヲ請求スル能ハサル場合ニ於テハ裁判確定ノ翌日ヨリ起算ス</Sentence>
+              </Column>
+            </ListSentence>
+          </List>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">保管金ハ法律勅令又ハ従来ノ規則若クハ契約ニ依ルノ外利子ヲ付セス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">保管金ノ証書ハ売買譲与又ハ書入質入スルコトヲ得ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision AmendLawNum="明治三三年二月二六日法律第一八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法ノ期間ハ本法施行前ノ保管金ニ関シテハ本法施行ノ日ヨリ起算ス</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四二年五月三一日法律第二三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、昭和四十二年六月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
