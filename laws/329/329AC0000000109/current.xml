@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="109" Year="29" PromulgateMonth="05" PromulgateDay="17">
+  <LawNum>昭和二十九年法律第百九号</LawNum>
+  <LawBody>
+    <LawTitle Kana="くにのしょゆうにぞくするじどうしゃとうのこうかんにかんするほうりつ" Abbrev="" AbbrevKana="">国の所有に属する自動車等の交換に関する法律</LawTitle>
+    <MainProvision>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">各省各庁の長（財政法（昭和二十二年法律第三十四号）第二十条第二項に規定する各省各庁の長をいう。）は、必要があると認めるときは、政令で定めるところにより、下取り（物品を買い入れる際、当該物品と同一の用途に供されていた買受人の所有に属する物品を、対価の一部として、当該買入れに係る物品と引換えに売渡人に譲渡することをいう。）の商慣習がある自動車、医療用又は試験用の機械器具その他の政令で定める物品であつて国の所有に属するものを、国以外の者が所有するこれと同種の物品と交換することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">前項の規定により交換する場合において、その価額が等しくないときは、その差額を金銭で補足し、又は補足させなければならない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </MainProvision>
+    <SupplProvision Extract="false" Type="New">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四六年六月一日法律第九六号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日等）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に掲げる日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Delete="false" Hide="false" Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Sentence WritingMode="vertical">略</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Delete="false" Hide="false" Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column LineBreak="false" Num="1">
+              <Sentence WritingMode="vertical">第五条から第十一条まで並びに附則第四項及び第二十三項</Sentence>
+            </Column>
+            <Column LineBreak="false" Num="2">
+              <Sentence WritingMode="vertical">公布の日から起算して六月をこえない範囲内において政令で定める日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
