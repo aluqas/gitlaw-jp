@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="100" Year="35" PromulgateMonth="06" PromulgateDay="23">
+  <LawNum>昭和三十五年法律第百号</LawNum>
+  <LawBody>
+    <LawTitle Kana="さいばんかんのさいがいほしょうにかんするほうりつ" Abbrev="" AbbrevKana="">裁判官の災害補償に関する法律</LawTitle>
+    <MainProvision>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">裁判官の公務上の災害又は通勤による災害に対する補償及び公務上の災害又は通勤による災害を受けた裁判官に対する福祉事業については、一般職の国家公務員の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </MainProvision>
+    <SupplProvision Extract="false" Type="New">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">裁判官の公務上の災害に対する補償に相当する給与で、この法律の施行前に支給すべき事由の生じたものの支給については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四八年八月一〇日法律第六九号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日等）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、労働者災害補償保険法の一部を改正する法律（昭和四十八年法律第八十五号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成七年四月五日法律第六二号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成八年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">目次、第一条第一項、第二条第五号、第二章の章名、第二十二条、第二十五条の見出し及び同条第一項並びに第三十三条の改正規定並びに附則第四条の規定、附則第五条の規定（防衛庁の職員の給与等に関する法律（昭和二十七年法律第二百六十六号）第二十七条第一項の改正規定中「福祉施設」を「福祉事業」に改める部分に限る。）及び附則第六条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">平成七年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
