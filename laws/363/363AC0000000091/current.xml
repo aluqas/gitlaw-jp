@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="091" Year="63" PromulgateMonth="12" PromulgateDay="13">
+  <LawNum>昭和六十三年法律第九十一号</LawNum>
+  <LawBody>
+    <LawTitle Kana="ぎょうせいきかんのきゅうじつにかんするほうりつ" Abbrev="行政機関休日法" AbbrevKana="ぎ">行政機関の休日に関する法律</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（行政機関の休日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>次の各号に掲げる日は、行政機関の休日とし、行政機関の執務は、原則として行わないものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>日曜日及び土曜日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>国民の祝日に関する法律（昭和二十三年法律第百七十八号）に規定する休日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>十二月二十九日から翌年の一月三日までの日（前号に掲げる日を除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の「行政機関」とは、法律の規定に基づき内閣に置かれる各機関、内閣の統轄の下に行政事務をつかさどる機関として置かれる各機関及び内閣の所轄の下に置かれる機関並びに会計検査院をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の規定は、行政機関の休日に各行政機関（前項に掲げる一の機関をいう。以下同じ。）がその所掌事務を遂行することを妨げるものではない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（期限の特例）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">国の行政庁（各行政機関、各行政機関に置かれる部局若しくは機関又は各行政機関の長その他の職員であるものに限る。）に対する申請、届出その他の行為の期限で法律又は法律に基づく命令で規定する期間（時をもつて定める期間を除く。）をもつて定めるものが行政機関の休日に当たるときは、行政機関の休日の翌日をもつてその期限とみなす。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、法律又は法律に基づく命令に別段の定めがある場合は、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true" Type="New">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成四年四月二日法律第二八号" Extract="true" Type="Amend">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
