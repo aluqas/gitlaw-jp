@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="135" Year="32" PromulgateMonth="05" PromulgateDay="27">
+  <LawNum>昭和三十二年法律第百三十五号</LawNum>
+  <LawBody>
+    <LawTitle Kana="じゅんびよきんせいどにかんするほうりつ" Abbrev="" AbbrevKana="">準備預金制度に関する法律</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、通貨調節手段としての準備預金制度を確立し、わが国の金融制度の整備を図るとともに、国民経済の健全な発展に資することを目的とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律において「指定金融機関」とは、次に掲げる者（第三号から第八号までに掲げる者にあつては、これらの者のうち政令で定めるものに限る。）をいう。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>銀行法（昭和五十六年法律第五十九号）第二条第一項に規定する銀行（以下「銀行」という。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>長期信用銀行法（昭和二十七年法律第百八十七号）第二条に規定する長期信用銀行</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>信用金庫</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>信用金庫連合会</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>農林中央金庫</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>株式会社商工組合中央金庫</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>株式会社日本政策投資銀行</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>保険業法（平成七年法律第百五号）第三条第一項の免許を受けた生命保険会社</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この法律において「法定準備預金額」とは、指定金融機関がこの法律の規定により保有しなければならない日本銀行に対する預け金の最低額をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この法律において「指定勘定」とは、次に掲げるものに係る勘定をいう。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>預金（第四号に該当する預金その他政令で定める預金を除くものとし、定期積金を含むものとする。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>指定金融機関が特別の法律により発行する債券のうち政令で定めるもの（債券の券面が発行されていない場合にあつては、当該債券の券面に表示されるべき権利）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>信託業務を兼営する銀行が引き受けた金銭信託で、多数の委託者の信託財産を合同して運用するもののうち政令で定めるものに係る信託契約により受け入れた金銭</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>外国為替及び外国貿易法（昭和二十四年法律第二百二十八号）第六条第一項第五号に規定する居住者に係る外貨預金、同項第六号に規定する非居住者に係る預金その他の指定金融機関の債務で政令で定めるもの</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>前各号に掲げる債務に準ずるものとして政令で定めるもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この法律において「指定勘定区分額」とは、指定金融機関の各指定勘定の残高を政令で定めるところにより区分したそれぞれの金額をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この法律において「指定勘定増加額」とは、指定金融機関の各指定勘定の残高が次の各号に掲げる場合に応じ当該各号に掲げる金額を超える場合におけるその超える部分の金額をいう。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>日本銀行が第四条の規定により基準日を定めた場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>その日の終業時における当該指定勘定の残高</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>日本銀行が第四条の規定により基準期間を定めた場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>その期間中の毎日（当日が休日であるときは、その前日。第七条において同じ。）の終業時における当該指定勘定の残高の合計額をその期間の日数で除して得た金額</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>この法律において「準備率」とは、指定金融機関の各指定勘定の残高、指定勘定区分額又は指定勘定増加額に対する当該指定勘定の残高、指定勘定区分額又は指定勘定増加額に係る法定準備預金額の比率をいう。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（日本銀行預け金の保有義務）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>指定金融機関は、日本銀行が次条の規定により準備率を定めた場合には、第七条第一項又は第二項に規定する方法で計算した法定準備預金額以上の金額を、日本銀行に対する預け金として保有しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（準備率等の設定、変更又は廃止）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>日本銀行は、通貨の調節を図るため必要があると認める場合には、準備率又は基準日等（指定勘定増加額に係る基準日又は基準期間をいう。以下同じ。）を設定し、変更し、又は廃止することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の準備率は、百分の二十（第二条第三項第四号に該当する指定勘定に係る準備率については、百分の百）をこえることができない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>日本銀行は、第一項の規定により準備率又は基準日等を設定し、又は変更しようとするときは、指定金融機関の前条の規定による預け金の保有に伴う負担を考慮しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>日本銀行は、前条の規定により準備率又は基準日等を設定し、変更し、又は廃止する場合には、政令で定める指定勘定又は指定金融機関の別に設定し、変更し、又は廃止することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>日本銀行は、一の指定金融機関の一の指定勘定につき指定勘定の残高に係る準備率と指定勘定区分額に係る準備率とをともに設定することはできない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（公告）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第四条の規定による準備率又は基準日等の設定、変更又は廃止は、日本銀行の公告によつて行う。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（法定準備預金額等の計算方法）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">指定金融機関の法定準備預金額は、当該指定金融機関のその月中の毎日の終業時における各指定勘定の残高、指定勘定区分額又は指定勘定増加額にそれぞれその日における当該指定勘定の残高、指定勘定区分額又は指定勘定増加額に係る準備率を乗じて得た金額の合計額を、その月の日数で除して計算する。</Sentence>
+            <Sentence Num="2">この場合において、その月のうちに当該準備率が定められていない日があるときは、その日については、当該準備率を零として計算するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前項の場合において、一の指定金融機関の一の指定勘定につき指定勘定の残高又は指定勘定区分額に係る準備率と指定勘定増加額に係る準備率とがともに定められているときは、当該指定金融機関の法定準備預金額の計算上、当該指定勘定の残高に係る準備率を乗ずべき金額は、同項に規定する毎日の終業時における当該指定勘定の残高のうち指定勘定増加額を除いた金額とし、当該指定勘定区分額に係る準備率を乗ずべき金額は、政令で定めるところにより、同項に規定する毎日の終業時における当該指定勘定に係る指定勘定区分額から指定勘定増加額を除いた金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>指定金融機関の第三条に規定する日本銀行に対する預け金の額は、その月の政令で定める日から起算して一月間の毎日の終業時における当該指定金融機関に係る日本銀行の預り金（政令で定めるものを除く。）の残高の合計額を、当該期間の日数で除して計算する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（預け金の額が不足する場合の措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前条第三項の規定により計算した指定金融機関の日本銀行に対する預け金の額が同条第一項又は第二項の規定により計算した当該指定金融機関の法定準備預金額に達しない場合には、当該指定金融機関は、その不足額について、当該法定準備預金額の計算の基礎となつた月の日数に応じ、その月の末日における日本銀行の商業手形についての基準となるべき割引率に年三・七五パーセントを加えた率により計算した金額を、政令で定めるところにより、日本銀行に納付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>日本銀行は、前項の規定により納付された金額を、政令で定めるところにより、政府に納付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>第一項の規定により日本銀行に納付された金額又は前項の規定により日本銀行が納付した金額は、日本銀行の法人税法（昭和四十年法律第三十四号）の規定による各事業年度の所得の金額の計算上、それぞれ益金の額又は損金の額に算入しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（報告書の提出）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>指定金融機関は、政令で定めるところにより、その指定勘定又は日本銀行に対する預け金の状況に関する報告書を日本銀行に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律に定めるもののほか、この法律を実施するため必要な事項は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四〇年三月三一日法律第三六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、昭和四十年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（その他の法令の一部改正に伴う経過規定の原則）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>第二章の規定による改正後の法令の規定は、別段の定めがあるものを除き、昭和四十年分以後の所得税又はこれらの法令の規定に規定する法人の施行日以後に終了する事業年度分の法人税について適用し、昭和三十九年分以前の所得税又は当該法人の同日前に終了した事業年度分の法人税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四五年四月一日法律第一三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（準備預金制度に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>準備預金制度に関する法律第八条第一項の規定により納付すべき金額でその計算の基礎となる月の末日が施行日前に到来したものの計算については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四七年五月一日法律第二三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五六年六月一日法律第六一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、銀行法（昭和五十六年法律第五十九号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和六一年五月二七日法律第七二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して、三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成四年六月二六日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成七年六月七日法律第一〇六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、保険業法（平成七年法律第百五号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成九年五月二三日法律第五九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、平成十年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成九年六月一八日法律第八九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、平成十年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一〇年六月一五日法律第一〇七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成十年十二月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条中証券取引法第四章の次に一章を加える改正規定（第七十九条の二十九第一項に係る部分に限る。）並びに同法第百八十九条第二項及び第四項の改正規定、第二十一条の規定、第二十二条中保険業法第二編第十章第二節第一款の改正規定（第二百六十五条の六に係る部分に限る。）、第二十三条の規定並びに第二十五条の規定並びに附則第四十条、第四十二条、第五十八条、第百三十六条、第百四十条、第百四十三条、第百四十七条、第百四十九条、第百五十八条、第百六十四条、第百八十七条（大蔵省設置法（昭和二十四年法律第百四十四号）第四条第七十九号の改正規定を除く。）及び第百八十八条から第百九十条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成十年七月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="190">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百九十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第二条から第百四十六条まで、第百五十三条、第百六十九条及び前条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年七月三一日法律第九八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公社法の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、郵政民営化法の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年六月一日法律第七四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、平成二十年十月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第三条から第二十二条まで、第二十五条から第三十条まで、第百一条及び第百二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日から起算して六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="100">
+        <ArticleCaption>（処分等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前に改正前のそれぞれの法律（これに基づく命令を含む。以下この条において同じ。）の規定によってした処分、手続その他の行為であって、改正後のそれぞれの法律の規定に相当の規定があるものは、この附則に別段の定めがあるものを除き、改正後のそれぞれの法律の相当の規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="102">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年六月一三日法律第八五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第二十六条から第六十条まで及び第六十二条から第六十五条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>平成二十年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
