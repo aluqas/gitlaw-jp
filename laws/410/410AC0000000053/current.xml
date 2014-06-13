@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="053" Year="10" PromulgateMonth="05" PromulgateDay="06">
+  <LawNum>平成十年法律第五十三号</LawNum>
+  <LawBody>
+    <LawTitle Kana="とくていこうきょうでんきつうしんしすてむかいはつかんれんぎじゅつにかんするけんきゅうかいはつのすいしんにかんするほうりつ" Abbrev="" AbbrevKana="">特定公共電気通信システム開発関連技術に関する研究開発の推進に関する法律</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、国立研究開発法人情報通信研究機構（以下「機構」という。）に、特定公共電気通信システムの開発に必要な通信・放送技術に関する研究開発及び特定の公共分野における技術に関する研究開発の総合的な実施並びにその成果の普及の業務を行わせるための措置を講ずることにより、特定公共電気通信システムの開発の促進を図り、もって高度情報通信社会の構築に資することを目的とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律において「特定公共電気通信システム」とは、国又は地方公共団体の業務その他公共性を有する業務の用に供する電気通信システム（電気通信設備の集合体であって電気通信の業務を一体的に行うよう構成されたものをいう。）のうち、次に掲げる機能のうちいずれか一の機能を有するものであって、これらの業務の利便性を効果的に高めるものをいう。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>学校教育及び社会教育において視聴覚教育を行うための機能</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>農業用施設の管理を行うための機能</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>陸上運送、海上運送又は航空運送に係る法令のうち国土交通省の所掌に係るものの規定に基づいてなされる申請、届出その他の手続に係る事務（第四条第一号ニにおいて「運送関係行政事務」という。）を円滑に処理するための機能</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>陸上運送、海上運送及び航空運送の基盤となる施設において、携帯して使用するための無線設備を用いて、高齢者で日常生活又は社会生活に身体の機能上の制限を受けるもの、身体障害者その他日常生活又は社会生活に身体の機能上の制限を受ける者（第四条第一号ホにおいて「高齢者、身体障害者等」という。）に、運送サービスを円滑に利用するために必要となる情報であって総務省令、国土交通省令で定めるものを提供するための機能</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>郵便物の特殊取扱を実施するための機能</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>電波法（昭和二十五年法律第百三十一号）の規定に基づいてなされる無線局に係る免許の申請、届出その他の手続に係る事務（第四条第一号トにおいて「無線局免許関係行政事務」という。）を円滑に処理するための機能</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence>警察通信の安全を確保するための機能</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence>水火災又は地震等の災害の状況を把握し、及びこれらの災害による被害を予測するための機能</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence>漁船の操業の状況、漁況及び海況を把握し、並びにこれらに関する情報を関係機関及び漁船に提供するための機能</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence>地方公共団体に対してなされる申請、届出その他の手続に係る事務（第四条第一号ルにおいて「地方公共団体行政事務」という。）を円滑に処理するための機能</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（基本方針）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">主務大臣は、特定公共電気通信システムの開発に必要な技術に関する内外における研究開発の動向を勘案して、機構に行わせる次条第一号及び第二号に掲げる業務について、その実施のための基本方針を定め、これを機構に指示するとともに、公表しなければならない。</Sentence>
+            <Sentence Num="2">これを変更しようとするときも、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（機構による特定公共電気通信システムの開発）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>機構は、この法律の目的を達成するため、前条の規定に基づいて主務大臣が定める基本方針に従って、次の業務を行う。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>特定公共電気通信システムの開発に必要なイに掲げる技術に関する研究開発とロからルまでに掲げるそれぞれの技術に関する研究開発とを一体的に実施すること。</Sentence>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>通信・放送技術（電気通信業及び放送業（有線放送業を含む。以下同じ。）の技術その他電気通信に係る電波の利用の技術をいう。）</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>学校教育及び社会教育における学習活動の方法に関する技術</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>農業に関する技術のうち農業土木その他の農業工学に係るもの</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="4">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>運送関係行政事務に関する情報の管理の技術</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="5">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>旅客の運送の事業において高齢者、身体障害者等に対して提供する情報の管理の技術</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="6">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>郵便事業の技術のうち特殊取扱とする郵便物の処理に関するもの</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="7">
+              <Subitem1Title>ト</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>無線局免許関係行政事務に関する情報の管理の技術</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="8">
+              <Subitem1Title>チ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>電気通信をその手段とする犯罪の手口に関する情報の管理の技術</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="9">
+              <Subitem1Title>リ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>消防情報の管理の技術</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="10">
+              <Subitem1Title>ヌ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>漁業活動に関する情報の管理の技術</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="11">
+              <Subitem1Title>ル</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence>地方公共団体行政事務に関する情報の管理の技術</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>前号に掲げる業務に係る成果を普及すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>前二号に掲げる業務に附帯する業務を行うこと。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（主務大臣）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律における主務大臣は、前条に規定する業務の次の各号に掲げる区分に応じ、当該各号に定める大臣又は委員会とする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>前条第一号イに掲げる技術及び同号ロに掲げる技術に係る業務</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>総務大臣及び文部科学大臣</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>前条第一号イに掲げる技術及び同号ハ又はヌに掲げる技術に係る業務</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>総務大臣及び農林水産大臣</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>前条第一号イに掲げる技術及び同号ニ又はホに掲げる技術に係る業務</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>総務大臣及び国土交通大臣</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>前条第一号イに掲げる技術及び同号ヘ、ト、リ又はルに掲げる技術に係る業務</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>総務大臣</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>前条第一号イに掲げる技術及び同号チに掲げる技術に係る業務</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>総務大臣及び国家公安委員会</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（試験研究機関の協力等）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>機構は、第四条第一号に掲げる業務に関し、総務省、文部科学省、農林水産省若しくは国土交通省（以下この条において「総務省等」という。）の試験研究機関若しくは総務省等の所管に係る独立行政法人通則法（平成十一年法律第百三号）第二条第一項に規定する独立行政法人（研究開発の業務を行うものに限る。）又は警察庁の附属機関に対して、必要な助言及び協力を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（財務大臣との協議）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>主務大臣は、第三条の基本方針を定めようとするときは、財務大臣に協議しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision Extract="true" AmendLawNum="平成一一年五月一〇日法律第三八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第二二〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律（第一条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前二条に定めるもののほか、この法律の施行に関し必要な事項は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年四月二一日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年一二月六日法律第一三四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律は、平成十六年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号。以下「通則法改正法」という。）の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>附則第十四条第二項、第十八条及び第三十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="28">
+        <ArticleCaption>（処分等の効力）</ArticleCaption>
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>この法律の施行前にこの法律による改正前のそれぞれの法律（これに基づく命令を含む。）の規定によってした又はすべき処分、手続その他の行為であってこの法律による改正後のそれぞれの法律（これに基づく命令を含む。以下この条において「新法令」という。）に相当の規定があるものは、法律（これに基づく政令を含む。）に別段の定めのあるものを除き、新法令の相当の規定によってした又はすべき処分、手続その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（その他の経過措置の政令等への委任）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>附則第三条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令（人事院の所掌する事項については、人事院規則）で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
