@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Showa" Year="33" Num="056" PromulgateMonth="4" PromulgateDay="10" LawType="Act"><LawNum>昭和三十三年法律第五十六号</LawNum>
+  
+  <LawBody>
+    <LawTitle Kana="がっこうほけんあんぜんほう" Abbrev="" AbbrevKana="">学校保健安全法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　学校保健</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一節　学校の管理運営等</SectionTitle>
+          <ArticleRange>（第四条―第七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二節　健康相談等</SectionTitle>
+          <ArticleRange>（第八条―第十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三節　健康診断</SectionTitle>
+          <ArticleRange>（第十一条―第十八条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="4">
+          <SectionTitle>第四節　感染症の予防</SectionTitle>
+          <ArticleRange>（第十九条―第二十一条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="5">
+          <SectionTitle>第五節　学校保健技師並びに学校医、学校歯科医及び学校薬剤師</SectionTitle>
+          <ArticleRange>（第二十二条・第二十三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="6">
+          <SectionTitle>第六節　地方公共団体の援助及び国の補助</SectionTitle>
+          <ArticleRange>（第二十四条・第二十五条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　学校安全</ChapterTitle>
+        <ArticleRange>（第二十六条―第三十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第三十一条・第三十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律は、学校における児童生徒等及び職員の健康の保持増進を図るため、学校における保健管理に関し必要な事項を定めるとともに、学校における教育活動が安全な環境において実施され、児童生徒等の安全の確保が図られるよう、学校における安全管理に関し必要な事項を定め、もつて学校教育の円滑な実施とその成果の確保に資することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「学校」とは、学校教育法（昭和二十二年法律第二十六号）第一条に規定する学校をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「児童生徒等」とは、学校に在学する幼児、児童、生徒又は学生をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（国及び地方公共団体の責務）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国及び地方公共団体は、相互に連携を図り、各学校において保健及び安全に係る取組が確実かつ効果的に実施されるようにするため、学校における保健及び安全に関する最新の知見及び事例を踏まえつつ、財政上の措置その他の必要な施策を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国は、各学校における安全に係る取組を総合的かつ効果的に推進するため、学校安全の推進に関する計画の策定その他所要の措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">地方公共団体は、国が講ずる前項の措置に準じた措置を講ずるように努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　学校保健</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一節　学校の管理運営等</SectionTitle>
+          <Article Delete="false" Hide="false" Num="4">
+            <ArticleCaption>（学校保健に関する学校の設置者の責務）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校の設置者は、その設置する学校の児童生徒等及び職員の心身の健康の保持増進を図るため、当該学校の施設及び設備並びに管理運営体制の整備充実その他の必要な措置を講ずるよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="5">
+            <ArticleCaption>（学校保健計画の策定等）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校においては、児童生徒等及び職員の心身の健康の保持増進を図るため、児童生徒等及び職員の健康診断、環境衛生検査、児童生徒等に対する指導その他保健に関する事項について計画を策定し、これを実施しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="6">
+            <ArticleCaption>（学校環境衛生基準）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">文部科学大臣は、学校における換気、採光、照明、保温、清潔保持その他環境衛生に係る事項（学校給食法（昭和二十九年法律第百六十号）第九条第一項（夜間課程を置く高等学校における学校給食に関する法律（昭和三十一年法律第百五十七号）第七条及び特別支援学校の幼稚部及び高等部における学校給食に関する法律（昭和三十二年法律第百十八号）第六条において準用する場合を含む。）に規定する事項を除く。）について、児童生徒等及び職員の健康を保護する上で維持されることが望ましい基準（以下この条において「学校環境衛生基準」という。）を定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校の設置者は、学校環境衛生基準に照らしてその設置する学校の適切な環境の維持に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">校長は、学校環境衛生基準に照らし、学校の環境衛生に関し適正を欠く事項があると認めた場合には、遅滞なく、その改善のために必要な措置を講じ、又は当該措置を講ずることができないときは、当該学校の設置者に対し、その旨を申し出るものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="7">
+            <ArticleCaption>（保健室）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校には、健康診断、健康相談、保健指導、救急処置その他の保健に関する措置を行うため、保健室を設けるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二節　健康相談等</SectionTitle>
+          <Article Delete="false" Hide="false" Num="8">
+            <ArticleCaption>（健康相談）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校においては、児童生徒等の心身の健康に関し、健康相談を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="9">
+            <ArticleCaption>（保健指導）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">養護教諭その他の職員は、相互に連携して、健康相談又は児童生徒等の健康状態の日常的な観察により、児童生徒等の心身の状況を把握し、健康上の問題があると認めるときは、遅滞なく、当該児童生徒等に対して必要な指導を行うとともに、必要に応じ、その保護者（学校教育法第十六条に規定する保護者をいう。第二十四条及び第三十条において同じ。）に対して必要な助言を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="10">
+            <ArticleCaption>（地域の医療機関等との連携）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校においては、救急処置、健康相談又は保健指導を行うに当たつては、必要に応じ、当該学校の所在する地域の医療機関その他の関係機関との連携を図るよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三節　健康診断</SectionTitle>
+          <Article Delete="false" Hide="false" Num="11">
+            <ArticleCaption>（就学時の健康診断）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">市（特別区を含む。以下同じ。）町村の教育委員会は、学校教育法第十七条第一項の規定により翌学年の初めから同項に規定する学校に就学させるべき者で、当該市町村の区域内に住所を有するものの就学に当たつて、その健康診断を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12">
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">市町村の教育委員会は、前条の健康診断の結果に基づき、治療を勧告し、保健上必要な助言を行い、及び学校教育法第十七条第一項に規定する義務の猶予若しくは免除又は特別支援学校への就学に関し指導を行う等適切な措置をとらなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="13">
+            <ArticleCaption>（児童生徒等の健康診断）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校においては、毎学年定期に、児童生徒等（通信による教育を受ける学生を除く。）の健康診断を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校においては、必要があるときは、臨時に、児童生徒等の健康診断を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="14">
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校においては、前条の健康診断の結果に基づき、疾病の予防処置を行い、又は治療を指示し、並びに運動及び作業を軽減する等適切な措置をとらなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="15">
+            <ArticleCaption>（職員の健康診断）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校の設置者は、毎学年定期に、学校の職員の健康診断を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校の設置者は、必要があるときは、臨時に、学校の職員の健康診断を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16">
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校の設置者は、前条の健康診断の結果に基づき、治療を指示し、及び勤務を軽減する等適切な措置をとらなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleCaption>（健康診断の方法及び技術的基準等）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">健康診断の方法及び技術的基準については、文部科学省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第十一条から前条までに定めるもののほか、健康診断の時期及び検査の項目その他健康診断に関し必要な事項は、前項に規定するものを除き、第十一条の健康診断に関するものについては政令で、第十三条及び第十五条の健康診断に関するものについては文部科学省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二項の文部科学省令は、健康増進法（平成十四年法律第百三号）第九条第一項に規定する健康診査等指針と調和が保たれたものでなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleCaption>（保健所との連絡）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校の設置者は、この法律の規定による健康診断を行おうとする場合その他政令で定める場合においては、保健所と連絡するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="4">
+          <SectionTitle>第四節　感染症の予防</SectionTitle>
+          <Article Delete="false" Hide="false" Num="19">
+            <ArticleCaption>（出席停止）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">校長は、感染症にかかつており、かかつている疑いがあり、又はかかるおそれのある児童生徒等があるときは、政令で定めるところにより、出席を停止させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="20">
+            <ArticleCaption>（臨時休業）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校の設置者は、感染症の予防上必要があるときは、臨時に、学校の全部又は一部の休業を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="21">
+            <ArticleCaption>（文部科学省令への委任）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前二条（第十九条の規定に基づく政令を含む。）及び感染症の予防及び感染症の患者に対する医療に関する法律（平成十年法律第百十四号）その他感染症の予防に関して規定する法律（これらの法律に基づく命令を含む。）に定めるもののほか、学校における感染症の予防に関し必要な事項は、文部科学省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="5">
+          <SectionTitle>第五節　学校保健技師並びに学校医、学校歯科医及び学校薬剤師</SectionTitle>
+          <Article Delete="false" Hide="false" Num="22">
+            <ArticleCaption>（学校保健技師）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">都道府県の教育委員会の事務局に、学校保健技師を置くことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校保健技師は、学校における保健管理に関する専門的事項について学識経験がある者でなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校保健技師は、上司の命を受け、学校における保健管理に関し、専門的技術的指導及び技術に従事する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23">
+            <ArticleCaption>（学校医、学校歯科医及び学校薬剤師）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校には、学校医を置くものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">大学以外の学校には、学校歯科医及び学校薬剤師を置くものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校医、学校歯科医及び学校薬剤師は、それぞれ医師、歯科医師又は薬剤師のうちから、任命し、又は委嘱する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校医、学校歯科医及び学校薬剤師は、学校における保健管理に関する専門的事項に関し、技術及び指導に従事する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5" OldStyle="false">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">学校医、学校歯科医及び学校薬剤師の職務執行の準則は、文部科学省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="6">
+          <SectionTitle>第六節　地方公共団体の援助及び国の補助</SectionTitle>
+          <Article Delete="false" Hide="false" Num="24">
+            <ArticleCaption>（地方公共団体の援助）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">地方公共団体は、その設置する小学校、中学校、義務教育学校、中等教育学校の前期課程又は特別支援学校の小学部若しくは中学部の児童又は生徒が、感染性又は学習に支障を生ずるおそれのある疾病で政令で定めるものにかかり、学校において治療の指示を受けたときは、当該児童又は生徒の保護者で次の各号のいずれかに該当するものに対して、その疾病の治療のための医療に要する費用について必要な援助を行うものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">生活保護法（昭和二十五年法律第百四十四号）第六条第二項に規定する要保護者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">生活保護法第六条第二項に規定する要保護者に準ずる程度に困窮している者で政令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="25">
+            <ArticleCaption>（国の補助）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">国は、地方公共団体が前条の規定により同条第一号に掲げる者に対して援助を行う場合には、予算の範囲内において、その援助に要する経費の一部を補助することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前項の規定により国が補助を行う場合の補助の基準については、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　学校安全</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="26">
+          <ArticleCaption>（学校安全に関する学校の設置者の責務）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">学校の設置者は、児童生徒等の安全の確保を図るため、その設置する学校において、事故、加害行為、災害等（以下この条及び第二十九条第三項において「事故等」という。）により児童生徒等に生ずる危険を防止し、及び事故等により児童生徒等に危険又は危害が現に生じた場合（同条第一項及び第二項において「危険等発生時」という。）において適切に対処することができるよう、当該学校の施設及び設備並びに管理運営体制の整備充実その他の必要な措置を講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="27">
+          <ArticleCaption>（学校安全計画の策定等）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">学校においては、児童生徒等の安全の確保を図るため、当該学校の施設及び設備の安全点検、児童生徒等に対する通学を含めた学校生活その他の日常生活における安全に関する指導、職員の研修その他学校における安全に関する事項について計画を策定し、これを実施しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="28">
+          <ArticleCaption>（学校環境の安全の確保）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">校長は、当該学校の施設又は設備について、児童生徒等の安全の確保を図る上で支障となる事項があると認めた場合には、遅滞なく、その改善を図るために必要な措置を講じ、又は当該措置を講ずることができないときは、当該学校の設置者に対し、その旨を申し出るものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="29">
+          <ArticleCaption>（危険等発生時対処要領の作成等）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">学校においては、児童生徒等の安全の確保を図るため、当該学校の実情に応じて、危険等発生時において当該学校の職員がとるべき措置の具体的内容及び手順を定めた対処要領（次項において「危険等発生時対処要領」という。）を作成するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">校長は、危険等発生時対処要領の職員に対する周知、訓練の実施その他の危険等発生時において職員が適切に対処するために必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">学校においては、事故等により児童生徒等に危害が生じた場合において、当該児童生徒等及び当該事故等により心理的外傷その他の心身の健康に対する影響を受けた児童生徒等その他の関係者の心身の健康を回復させるため、これらの者に対して必要な支援を行うものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、第十条の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="30">
+          <ArticleCaption>（地域の関係機関等との連携）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">学校においては、児童生徒等の安全の確保を図るため、児童生徒等の保護者との連携を図るとともに、当該学校が所在する地域の実情に応じて、当該地域を管轄する警察署その他の関係機関、地域の安全を確保するための活動を行う団体その他の関係団体、当該地域の住民その他の関係者との連携を図るよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="31">
+          <ArticleCaption>（学校の設置者の事務の委任）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">学校の設置者は、他の法律に特別の定めがある場合のほか、この法律に基づき処理すべき事務を校長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="32">
+          <ArticleCaption>（専修学校の保健管理等）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">専修学校には、保健管理に関する専門的事項に関し、技術及び指導を行う医師を置くように努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">専修学校には、健康診断、健康相談、保健指導、救急処置等を行うため、保健室を設けるように努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">第三条から第六条まで、第八条から第十条まで、第十三条から第二十一条まで及び第二十六条から前条までの規定は、専修学校に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律中第十七条及び第十八条第一項の規定は昭和三十三年十月一日から、その他の規定は同年六月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五〇年七月一一日法律第五九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から起算して六月を経過した日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五三年三月三一日法律第一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、昭和五十三年四月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条の規定中学校保健法第八条第二項を削る改正規定、同条第三項及び第九条第一項の改正規定、同条第二項を削る改正規定、第十七条の改正規定、第十八条第二項を削る改正規定並びに同条第三項の改正規定は、昭和五十四年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和六〇年七月一二日法律第九〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一〇年六月一二日法律第一〇一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、平成十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一〇年一〇月二日法律第一一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、平成十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column LineBreak="false" Num="1">
+                <Sentence WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column LineBreak="false" Num="2">
+                <Sentence WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年八月二日法律第一〇三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第九条及び附則第八条から第十九条までの規定は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年三月三一日法律第二三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、平成十七年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年六月二一日法律第八〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、平成十九年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年六月二七日法律第九六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年六月一八日法律第七三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、平成二十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、この法律による改正後の規定の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年六月二四日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">この法律は、平成二十八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
