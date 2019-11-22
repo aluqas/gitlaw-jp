@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="082" Year="20" PromulgateMonth="06" PromulgateDay="18">
+  <LawNum>平成二十年法律第八十二号</LawNum>
+  <LawBody>
+    <LawTitle Kana="はんせんびょうもんだいのかいけつのそくしんにかんするほうりつ" Abbrev="ハンセン病問題基本法,ハンセン病基本法,ハンセン病問題解決促進法" AbbrevKana="は,は,は">ハンセン病問題の解決の促進に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCPreambleLabel>前文</TOCPreambleLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　国立ハンセン病療養所等における療養及び生活の保障</ChapterTitle>
+        <ArticleRange>（第七条―第十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　社会復帰の支援並びに日常生活及び社会生活の援助</ChapterTitle>
+        <ArticleRange>（第十四条―第十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　名誉の回復及び死没者の追悼</ChapterTitle>
+        <ArticleRange>（第十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　親族に対する援護</ChapterTitle>
+        <ArticleRange>（第十九条―第二十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <Preamble>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">「<Ruby>ら<Rt>ヽ</Rt></Ruby><Ruby>い<Rt>ヽ</Rt></Ruby>予防法」を中心とする国の隔離政策により、ハンセン病の患者であった者等が地域社会において平穏に生活することを妨げられ、身体及び財産に係る被害その他社会生活全般にわたる人権上の制限、差別等を受けたことについて、平成十三年六月、我々は悔悟と反省の念を込めて深刻に受け止め、深くお詫びするとともに、「ハンセン病療養所入所者等に対する補償金の支給等に関する法律」を制定し、その精神的苦痛の慰謝並びに名誉の回復及び福祉の増進を図り、あわせて、死没者に対する追悼の意を表することとした。同法に基づき、ハンセン病の患者であった者等の精神的苦痛に対する慰謝と補償の問題は解決しつつあり、名誉の回復及び福祉の増進等に関しても一定の施策が講ぜられているところである。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">しかしながら、国の隔離政策に起因してハンセン病の患者であった者等が受けた身体及び財産に係る被害その他社会生活全般にわたる被害の回復には、未解決の問題が多く残されている。とりわけ、ハンセン病の患者であった者等が、地域社会から孤立することなく、良好かつ平穏な生活を営むことができるようにするための基盤整備は喫緊の課題であり、適切な対策を講ずることが急がれており、また、ハンセン病の患者であった者等に対する偏見と差別のない社会の実現に向けて、真<Ruby>摯<Rt>し</Rt></Ruby>に取り組んでいかなければならない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">ハンセン病の患者であった者等の家族についても、同様の未解決の問題が多く残されているため、「ハンセン病元患者家族に対する補償金の支給等に関する法律」を制定するとともに、これらの者が地域社会から孤立することなく、良好かつ平穏な生活を営むことができるようにするための基盤整備等を行い、偏見と差別のない社会の実現に真摯に取り組んでいかなければならない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">ここに、ハンセン病の患者であった者等及びその家族の福祉の増進、名誉の回復等のための措置を講ずることにより、ハンセン病問題の解決の促進を図るため、この法律を制定する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </Preamble>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（趣旨）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、国によるハンセン病の患者に対する隔離政策に起因して生じた問題であって、ハンセン病の患者であった者等及びその家族の福祉の増進、名誉の回復等に関し現在もなお存在するもの（以下「ハンセン病問題」という。）の解決の促進に関し、基本理念を定め、並びに国及び地方公共団体の責務を明らかにするとともに、ハンセン病問題の解決の促進に関し必要な事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「国立ハンセン病療養所」とは、厚生労働省設置法（平成十一年法律第九十七号）第十六条第一項に規定する国立ハンセン病療養所をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「国立ハンセン病療養所等」とは、国立ハンセン病療養所及び本邦に設置された厚生労働大臣が定めるハンセン病療養所をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「入所者」とは、<Ruby>ら<Rt>ヽ</Rt></Ruby><Ruby>い<Rt>ヽ</Rt></Ruby>予防法の廃止に関する法律（平成八年法律第二十八号。以下本則において「廃止法」という。）により<Ruby>ら<Rt>ヽ</Rt></Ruby><Ruby>い<Rt>ヽ</Rt></Ruby>予防法（昭和二十八年法律第二百十四号。以下「予防法」という。）が廃止されるまでの間に、ハンセン病を発病した後も相当期間日本国内に住所を有していた者であって、現に国立ハンセン病療養所等に入所しているものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（基本理念）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">ハンセン病問題に関する施策は、国によるハンセン病の患者に対する隔離政策によりハンセン病の患者であった者等及びその家族が受けた身体及び財産に係る被害その他の社会生活全般にわたる被害に照らし、その被害を可能な限り回復することを旨として行われなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">ハンセン病問題に関する施策を講ずるに当たっては、入所者が、現に居住する国立ハンセン病療養所等において、その生活環境が地域社会から孤立することなく、安心して豊かな生活を営むことができるように配慮されなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">何人も、ハンセン病の患者であった者等に対して、ハンセン病の患者であったこと若しくはハンセン病に<Ruby>罹<Rt>り</Rt></Ruby>患していることを理由として、又はハンセン病の患者であった者等の家族に対して、ハンセン病の患者であった者等の家族であることを理由として、差別することその他の権利利益を侵害する行為をしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（国及び地方公共団体の責務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、前条に定める基本理念（以下「基本理念」という。）にのっとり、ハンセン病の患者であった者等及びその家族の福祉の増進等を図るための施策を策定し、及び実施する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体は、基本理念にのっとり、国と協力しつつ、その地域の実情を踏まえ、ハンセン病の患者であった者等及びその家族の福祉の増進等を図るための施策を策定し、及び実施する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（関係者の意見の反映のための措置）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、ハンセン病問題に関する施策の策定及び実施に当たっては、ハンセン病の患者であった者等、その家族その他の関係者との協議の場を設ける等これらの者の意見を反映させるために必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　国立ハンセン病療養所等における療養及び生活の保障</ChapterTitle>
+        <Article Num="7">
+          <ArticleCaption>（国立ハンセン病療養所における療養）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、国立ハンセン病療養所において、入所者（国立ハンセン病療養所に入所している者に限る。第九条及び第十四条を除き、以下同じ。）に対して、必要な療養を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（国立ハンセン病療養所への再入所及び新規入所）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所の長は、廃止法により予防法が廃止されるまでの間に、国立ハンセン病療養所等に入所していた者であって、現に国立ハンセン病療養所等を退所しており、かつ、日本国内に住所を有するもの（以下「退所者」という。）又は廃止法により予防法が廃止されるまでの間に、ハンセン病を発病した後も相当期間日本国内に住所を有したことがあり、かつ、国立ハンセン病療養所等に入所したことがない者であって、現に国立ハンセン病療養所等に入所しておらず、かつ、日本国内に住所を有するもののうち、厚生労働大臣が定める者（以下「非入所者」という。）が、必要な療養を受けるために国立ハンセン病療養所への入所を希望したときは、入所させないことについて正当な理由がある場合を除き、国立ハンセン病療養所に入所させるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、前項の規定により国立ハンセン病療養所に入所した者に対して、必要な療養を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（国立ハンセン病療養所以外のハンセン病療養所における療養に係る措置）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、入所者（第二条第二項の厚生労働大臣が定めるハンセン病療養所に入所している者に限る。）に対する必要な療養が確保されるよう、必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（意思に反する退所及び転所の禁止）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、入所者の意思に反して、現に入所している国立ハンセン病療養所から当該入所者を退所させ、又は転所させてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（国立ハンセン病療養所における医療及び介護に関する体制の整備及び充実のための措置）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、医師、看護師及び介護員の確保等国立ハンセン病療養所における医療及び介護に関する体制の整備及び充実のために必要な措置を講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体は、前項の国の施策に協力するよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11_2">
+          <ArticleCaption>（国家公務員法の特例等）</ArticleCaption>
+          <ArticleTitle>第十一条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国立ハンセン病療養所医師等（国立ハンセン病療養所に勤務する一般職の職員の給与に関する法律（昭和二十五年法律第九十五号。第四項において「給与法」という。）別表第八イ医療職俸給表（一）又は別表第十一指定職俸給表の適用を受ける職員をいう。以下この条において同じ。）は、所外診療（病院又は診療所その他これらに準ずるものとして内閣官房令・厚生労働省令で定める施設（これらの職員が国家公務員の身分を有しないものに限る。）において行う医業又は歯科医業（当該国立ハンセン病療養所医師等が団体の役員、顧問又は評議員の職を兼ねることとなるもの及び自ら営利を目的とする私企業を営むこととなるものを除く。）をいう。以下この条において同じ。）を行おうとする場合において、当該所外診療を行うことが、次の各号のいずれかに該当するときは、内閣官房令・厚生労働省令で定めるところにより、厚生労働大臣の承認を受けることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その正規の勤務時間（一般職の職員の勤務時間、休暇等に関する法律（平成六年法律第三十三号）第十三条第一項に規定する正規の勤務時間をいう。以下この条において同じ。）において、勤務しないこととなる場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">報酬を得て、行うこととなる場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の承認を受けた国立ハンセン病療養所医師等が、その正規の勤務時間において、当該承認に係る所外診療を行うため勤務しない場合には、その勤務しない時間については、国家公務員法（昭和二十二年法律第百二十号）第百一条第一項前段の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の承認を受けた国立ハンセン病療養所医師等が、報酬を得て、当該承認に係る所外診療を行う場合には、国家公務員法第百四条の許可を要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の承認を受けた国立ハンセン病療養所医師等が、その正規の勤務時間において、当該承認に係る所外診療を行うため勤務しない場合には、給与法第十五条の規定にかかわらず、その勤務しない一時間につき、給与法第十九条に規定する勤務一時間当たりの給与額を減額して給与を支給する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（良好な生活環境の確保のための措置等）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、入所者の生活環境が地域社会から孤立することのないようにする等入所者の良好な生活環境の確保を図るため、国立ハンセン病療養所の土地、建物、設備等を地方公共団体又は地域住民等の利用に供する等必要な措置を講ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、前項の措置を講ずるに当たっては、入所者の意見を尊重しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（福利の増進）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、入所者の教養を高め、その福利を増進するよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　社会復帰の支援並びに日常生活及び社会生活の援助</ChapterTitle>
+        <Article Num="14">
+          <ArticleCaption>（社会復帰の支援のための措置）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、国立ハンセン病療養所等からの退所を希望する入所者（廃止法により予防法が廃止されるまでの間に、国立ハンセン病療養所等に入所していた者に限る。）の円滑な社会復帰に資するため、退所の準備に必要な資金の支給等必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（ハンセン病療養所退所者給与金等の支給）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、退所者に対し、その者の生活の安定等を図るため、ハンセン病療養所退所者給与金を支給するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、特定配偶者等（前項のハンセン病療養所退所者給与金の支給を受けていた退所者の死亡の当時生計を共にしていた配偶者（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にある者を含む。以下同じ。）又は一親等の尊属のうち、当該退所者に扶養されていたことのある者として厚生労働省令で定める者であって、現に日本国内に住所を有するもの（当該死亡後に婚姻（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にある場合を含む。）をした者を除く。）をいう。）に対し、その者の生活の安定等を図るため、特定配偶者等支援金を支給するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、特定配偶者等支援金の支給を受けるべき者が配偶者及び一親等の尊属であるときは、配偶者に支給するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、非入所者に対し、その者の生活の安定等を図るため、ハンセン病療養所非入所者給与金を支給するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項に定めるもののほか、第一項のハンセン病療養所退所者給与金及び第二項の特定配偶者等支援金並びに前項のハンセン病療養所非入所者給与金（以下「給与金等」という。）の支給に関し必要な事項は、厚生労働省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">租税その他の公課は、給与金等を標準として、課することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（ハンセン病等に係る医療体制の整備）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、退所者及び非入所者が、国立ハンセン病療養所等及びそれ以外の医療機関において、安心してハンセン病及びその後遺症その他の関連疾患の治療を受けることができるよう、医療体制の整備に努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（相談及び情報の提供等）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、退所者及び非入所者が日常生活又は社会生活を円滑に営むことができるようにするため、これらの者からの相談に応じ、必要な情報の提供及び助言を行う等必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、ハンセン病の患者であった者等とその家族との間の家族関係の回復を促進すること等により、ハンセン病の患者であった者等の家族が日常生活又は社会生活を円滑に営むことができるようにするため、ハンセン病の患者であった者等及びその家族からの相談に応じ、必要な情報の提供及び助言を行う等必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　名誉の回復及び死没者の追悼</ChapterTitle>
+        <Article Num="18">
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、ハンセン病の患者であった者等及びその家族の名誉の回復を図るため、国立のハンセン病資料館の設置、歴史的建造物の保存等ハンセン病及びハンセン病対策の歴史に関する正しい知識の普及啓発その他必要な措置を講ずるとともに、ハンセン病の患者であった死没者に対する追悼の意を表するため、国立ハンセン病療養所等において収蔵している死没者の焼骨に係る改葬費の遺族への支給その他必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　親族に対する援護</ChapterTitle>
+        <Article Num="19">
+          <ArticleCaption>（親族に対する援護の実施）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">都道府県知事は、入所者の親族（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にある者を含む。）のうち、当該入所者が入所しなかったならば、主としてその者の収入によって生計を維持し、又はその者と生計を共にしていると認められる者で、当該都道府県の区域内に居住地（居住地がないか、又は明らかでないときは、現在地）を有するものが、生計困難のため、援護を要する状態にあると認めるときは、これらの者に対し、この法律の定めるところにより、援護を行うことができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これらの者が他の法律（生活保護法（昭和二十五年法律第百四十四号）を除く。）に定める扶助を受けることができる場合においては、その受けることができる扶助の限度においては、その法律の定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定による援護（以下「援護」という。）は、金銭を支給することによって行うものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これによることができないとき、これによることが適当でないとき、その他援護の目的を達するために必要があるときは、現物を支給することによって行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">援護のための金品は、援護を受ける者又はその者が属する世帯の世帯主若しくはこれに準ずる者に交付するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">援護の種類、範囲、程度その他援護に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（都道府県の支弁）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、援護に要する費用を支弁しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（費用の徴収）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、援護を行った場合において、その援護を受けた者に対して、民法（明治二十九年法律第八十九号）の規定により扶養の義務を履行しなければならない者（入所者を除く。）があるときは、その義務の範囲内において、その者からその援護の実施に要した費用の全部又は一部を徴収することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">生活保護法第七十七条第二項の規定は、前項の場合に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（国庫の負担）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国庫は、政令で定めるところにより、第二十条の規定により都道府県が支弁する費用の全部を負担する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleCaption>（公課及び差押えの禁止）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">租税その他の公課は、援護として支給される金品を標準として、課することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">援護として支給される金品は、既に支給を受けたものであるとないとにかかわらず、差し押さえることができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleCaption>（事務の区分）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十九条第一項及び第二十一条第一項の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成二十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（<Ruby>ら<Rt>ヽ</Rt></Ruby><Ruby>い<Rt>ヽ</Rt></Ruby>予防法の廃止に関する法律の廃止）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"><Ruby>ら<Rt>ヽ</Rt></Ruby><Ruby>い<Rt>ヽ</Rt></Ruby>予防法の廃止に関する法律は、廃止する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（<Ruby>ら<Rt>ヽ</Rt></Ruby><Ruby>い<Rt>ヽ</Rt></Ruby>予防法の廃止に関する法律の廃止に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日前に行われ、又は行われるべきであった前条の規定による廃止前の<Ruby>ら<Rt>ヽ</Rt></Ruby><Ruby>い<Rt>ヽ</Rt></Ruby>予防法の廃止に関する法律（以下「旧廃止法」という。）第六条の規定による援護については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日前に行われ、又は行われるべきであった旧廃止法第七条に規定する費用についての都道府県の支弁及び国庫の負担については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧廃止法の施行前にした行為に対する罰則の適用については、旧廃止法附則第四条の規定によりなお効力を有することとされる予防法第二十六条の規定は、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（厚生労働省令への委任）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、厚生労働省令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年五月二五日法律第五三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、新非訟事件手続法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年一一月二七日法律第一二一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十七年十月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第三条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正後のハンセン病問題の解決の促進に関する法律（以下「新法」という。）第十五条第二項の規定については、同条第一項のハンセン病療養所退所者給与金の支給を受けていた退所者（新法第八条第一項に規定する退所者をいう。）でこの法律の施行前に死亡したものの死亡の当時生計を共にしていた配偶者（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にある者を含む。）及び一親等の尊属についても、適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国は、非入所者（新法第八条第一項に規定する非入所者をいう。以下同じ。）の生活等の実態について速やかに調査を行い、その結果を踏まえ、非入所者の死亡後の配偶者等の生活の安定等を図るための経済的支援の在り方について検討を加え、必要があると認めるときは、所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一一月二二日法律第五六号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
