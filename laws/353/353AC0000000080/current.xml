@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="080" Year="53" PromulgateMonth="06" PromulgateDay="21">
+  <LawNum>昭和五十三年法律第八十号</LawNum>
+  <LawBody>
+    <LawTitle Kana="しょくいんだんたいとうにたいするほうじんかくのふよにかんするほうりつ" Abbrev="" AbbrevKana="">職員団体等に対する法人格の付与に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　職員団体等に対する法人格の付与</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　法人格の取得等</SectionTitle>
+          <ArticleRange>（第三条―第十二条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　機関</SectionTitle>
+          <ArticleRange>（第十三条―第二十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　解散及び清算</SectionTitle>
+          <ArticleRange>（第二十七条―第四十四条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　雑則</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　登記</SectionTitle>
+          <ArticleRange>（第四十五条―第五十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　法人である認証職員団体等から法人である登録職員団体への移行</SectionTitle>
+          <ArticleRange>（第五十六条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　罰則</ChapterTitle>
+        <ArticleRange>（第五十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、職員団体等が財産を所有し、これを維持運用し、その他その目的達成のための業務を運営することに資するため、職員団体等に法律上の能力を与えることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「職員団体等」とは、国家公務員職員団体、地方公務員職員団体及び混合連合団体をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「国家公務員職員団体」とは、国家公務員法（昭和二十二年法律第百二十号）第百八条の二第一項（裁判所職員臨時措置法（昭和二十六年法律第二百九十九号）において準用する場合を含む。）に規定する職員団体をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「地方公務員職員団体」とは、地方公務員法（昭和二十五年法律第二百六十一号）第五十二条第一項に規定する職員団体をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「混合連合団体」とは、構成員の勤務条件の維持改善を図ることを目的とする団体で、次の各号のいずれかに該当するものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国家公務員職員団体又は地方公務員職員団体の連合団体（国家公務員職員団体又は地方公務員職員団体であるものを除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国家公務員職員団体又は地方公務員職員団体及び国会職員法（昭和二十二年法律第八十五号）による国会職員の組合又は労働組合法（昭和二十四年法律第百七十四号）による労働組合の連合団体で、当該連合団体の構成員の総員中国家公務員法第百八条の二第一項の職員（以下「一般職の国家公務員」という。）の数、裁判所職員（裁判官及び裁判官の秘書官を除く。以下同じ。）の数及び地方公務員法第五十二条第一項の職員（以下「非現業の一般職の地方公務員」という。）の数の合計数が過半数を占めているもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「法人である職員団体等」とは、次条第一項の規定による申出により法人となつた職員団体（以下「法人である登録職員団体」という。）及び同条第二項の規定により設立の登記をすることによつて法人となつた職員団体等（以下「法人である認証職員団体等」という。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　職員団体等に対する法人格の付与</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　法人格の取得等</SectionTitle>
+          <Article Num="3">
+            <ArticleCaption>（法人格の取得）</ArticleCaption>
+            <ArticleTitle>第三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次の各号に掲げる職員団体は、法人となる旨を当該各号に定める機関（以下「登録機関」という。）に申し出ることにより法人となることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">国家公務員法第百八条の三の規定により登録された職員団体</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">人事院</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">裁判所職員臨時措置法において準用する国家公務員法第百八条の三の規定により登録された職員団体</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">最高裁判所</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">地方公務員法第五十三条の規定により登録された職員団体</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該登録を受けた地方公共団体の人事委員会又は公平委員会</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">職員団体等（前項各号に掲げる職員団体を除く。次条から第十条までにおいて同じ。）で、規約について認証機関の認証を受けたものは、その主たる事務所の所在地において設立の登記をすることによつて法人となる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="4">
+            <ArticleCaption>（認証の申請）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">規約について認証を受けようとする職員団体等は、命令（第九条第一号又は第五号の職員団体等に係る事項については人事院規則とし、同条第二号又は第六号の職員団体等に係る事項については最高裁判所規則とする。以下同じ。）で定めるところにより、申請書及び規約を認証機関に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="5">
+            <ArticleCaption>（認証）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認証機関は、前条の規定による申請があつた場合において、当該規約が次の各号に掲げる要件に該当するときは、次条の規定により認証を拒否する場合を除き、命令で定めるところにより、当該規約を認証し、当該職員団体等にその旨を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">少なくとも次に掲げる事項が記載されていること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">名称</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">目的及び業務</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">主たる事務所の所在地</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">構成員の範囲及びその資格の得喪に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">重要な財産の得喪その他資産に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="6">
+                  <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">理事その他の役員に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>ト</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">業務執行、会議及び投票に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="8">
+                  <Subitem1Title>チ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">経費及び会計に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="9">
+                  <Subitem1Title>リ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">規約の変更に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="10">
+                  <Subitem1Title>ヌ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">解散に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">規約の変更、役員の選挙及び解散が、すべての構成員が平等に参加する機会を有する直接かつ秘密の投票による全員の過半数（役員の選挙については、投票者の過半数）によつて決定される旨の手続が定められていること。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、連合団体でない職員団体等で全国的規模をもつもの又は連合団体である職員団体等にあつては、すべての構成員が平等に参加する機会を有する地域若しくは職域ごと又は構成団体ごとの直接かつ秘密の投票による投票者の過半数で代議員を選挙し、この代議員の全員が平等に参加する機会を有する直接かつ秘密の投票による全員の過半数（役員の選挙については、投票者の過半数）によつて決定される旨の手続が定められていることをもつて足りる。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">会計報告は、構成員によつて委嘱された公認会計士（外国公認会計士を含む。）又は監査法人の監査証明とともに少なくとも毎年一回構成員に公表されることとされていること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="6">
+            <ArticleCaption>（認証の拒否）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認証機関は、規約に法令の規定に違反する事項が記載されているとき、又は当該職員団体等が、第八条の規定により認証を取り消され、その取消しの効力が生じた日から三年を経過しないものであるときは、認証を拒否しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="7">
+            <ArticleCaption>（規約の変更の届出）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">職員団体等は、第五条の規定により認証を受けた規約の記載事項に変更があつたときは、命令で定めるところにより、遅滞なく、その旨を認証機関に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="8">
+            <ArticleCaption>（認証の取消し）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認証機関は、次の各号のいずれかに該当する場合においては、命令で定めるところにより、第五条の規定による認証を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">国家公務員職員団体又は地方公務員職員団体が一般職の国家公務員、裁判所職員又は非現業の一般職の地方公務員が組織する団体又はその連合体でなくなつたとき（混合連合団体となつた場合を除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">混合連合団体の構成員の総員中一般職の国家公務員の数、裁判所職員の数及び非現業の一般職の地方公務員の数の合計数が過半数を占めなくなつたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">規約に、構成員の勤務条件の維持改善を図ることを目的とする旨を定めた規定が存しなくなつたとき（団体の活動として規約に定める目的を著しく逸脱する行為等を継続し、又は反覆することにより、構成員の勤務条件の維持改善を図ることを目的としていると認められなくなつたときを含む。）。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他当該職員団体等が職員団体等でなくなつたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">規約が第五条各号に掲げる要件に該当しないものとなつたとき、又は規約に法令の規定に違反する事項が記載されるに至つたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該職員団体等について規約の規定中第五条第二号又は第三号に規定する手続等に係る部分に適合しない事実があつたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による認証の取消しに係る聴聞の期日における審理は、当該職員団体等から請求があつたときは、公開により行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による認証の取消しは、当該処分の取消しの訴えを提起することができる期間内及び当該処分の取消しの訴えの提起があつたときは当該訴訟が裁判所に係属する間は、その効力を生じない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（認証機関）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律における認証機関は、次の各号に掲げる職員団体等の区分に応じ、当該各号に掲げる機関とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">一般職の国家公務員が組織する国家公務員職員団体</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">人事院</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">裁判所職員が組織する国家公務員職員団体</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">最高裁判所</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">一の地方公共団体に属する非現業の一般職の地方公務員が組織する地方公務員職員団体</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該地方公共団体の人事委員会又は公平委員会</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">前号の地方公務員職員団体以外の地方公務員職員団体</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">政令で定める人事委員会又は公平委員会</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">一般職の国家公務員の数と裁判所職員の数の合計数が非現業の一般職の地方公務員の数以上である混合連合団体で、一般職の国家公務員の数が裁判所職員の数以上であるもの及び全国的な組織を有する混合連合団体で、これを直接又は間接に構成する団体に国家公務員職員団体を含むもの（次号の混合連合団体を除く。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">人事院</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">一般職の国家公務員の数と裁判所職員の数の合計数が非現業の一般職の地方公務員の数以上である混合連合団体で、裁判所職員の数が一般職の国家公務員の数を超えるもの及び全国的な組織を有する混合連合団体で、これを直接又は間接に構成する団体に裁判所職員が組織する国家公務員職員団体を含むもの（これを直接又は間接に構成する団体に国家公務員職員団体を含み、かつ、一般職の国家公務員の数が裁判所職員の数以上であるものを除く。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">最高裁判所</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">前二号の混合連合団体以外の混合連合団体</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">政令で定める人事委員会又は公平委員会</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（報告、協力等）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認証機関は、職員団体等に対し、当該職員団体等に係るこの法律の規定に基づく事務に関し必要な限度において、報告又は資料の提出を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認証機関は、この法律の規定に基づく事務に関し必要があると認めるときは、国又は地方公共団体の関係機関に対し、事実の証明、資料の提供その他必要な協力を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（財産目録及び構成員名簿）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">法人である職員団体等は、設立の時及び毎年一月から三月までの間に財産目録を作成し、常にこれをその主たる事務所に備え置かなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特に事業年度を設けるものは、設立の時及び毎事業年度の終了の時に財産目録を作成しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等は、構成員名簿を備え置き、構成員の変更があるごとに必要な変更を加えなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（一般社団法人及び一般財団法人に関する法律の準用）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）第四条及び第七十八条の規定は、法人である職員団体等について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　機関</SectionTitle>
+          <Article Num="13">
+            <ArticleCaption>（理事）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等には、一人又は二人以上の理事を置かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">理事が二人以上ある場合において、規約に別段の定めがないときは、法人である職員団体等の事務は、理事の過半数で決する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（法人である職員団体等の代表）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">理事は、法人である職員団体等のすべての事務について、法人である職員団体等を代表する。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、規約の規定に反することはできず、また、総会の決議に従わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（理事の代理権の制限）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">理事の代理権に加えた制限は、善意の第三者に対抗することができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（理事の代理行為の委任）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">理事は、規約又は総会の決議によつて禁止されていないときに限り、特定の行為の代理を他人に委任することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（利益相反行為）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等と理事との利益が相反する事項については、理事は、代理権を有しない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、裁判所は、利害関係人又は検察官の請求により、特別代理人を選任しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（監事）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等には、規約又は総会の決議で、一人又は二人以上の監事を置くことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（監事の職務）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">監事の職務は、次のとおりとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人である職員団体等の財産の状況を監査すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">理事の業務の執行の状況を監査すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">財産の状況又は業務の執行について、法令若しくは規約に違反し、又は著しく不当な事項があると認めるときは、総会に報告をすること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号の報告をするため必要があるときは、総会を招集すること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（通常総会）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等の理事は、少なくとも毎年一回、構成員の通常総会を開かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（臨時総会）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等の理事は、必要があると認めるときは、いつでも臨時総会を招集することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">総構成員の五分の一以上から会議の目的である事項を示して請求があつたときは、理事は、臨時総会を招集しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、総構成員の五分の一の割合については、規約でこれと異なる割合を定めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（総会の招集）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">総会の招集の通知は、総会の日より少なくとも五日前に、その会議の目的である事項を示し、規約で定めた方法に従つてしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（法人である職員団体等の事務の執行）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等の事務は、規約で理事その他の役員に委任したものを除き、すべて総会の決議によつて行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（総会の決議事項）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">総会においては、第二十二条の規定によりあらかじめ通知をした事項についてのみ、決議をすることができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、規約に別段の定めがあるときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（構成員の表決権）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">各構成員の表決権は、平等とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">総会に出席しない構成員は、書面で、又は代理人によつて表決をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の規定は、規約に別段の定めがある場合には、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleCaption>（表決権のない場合）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等と特定の構成員との関係について議決をする場合には、その構成員は、表決権を有しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　解散及び清算</SectionTitle>
+          <Article Num="27">
+            <ArticleCaption>（法人である職員団体等の解散事由）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等は、次に掲げる事由によつて解散する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">規約で定めた解散事由の発生</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">破産手続開始の決定</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人である登録職員団体にあつては、国家公務員法第百八条の三第六項（裁判所職員臨時措置法において準用する場合を含む。）又は地方公務員法第五十三条第六項の規定による登録の取消し</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人である認証職員団体等にあつては、第八条第一項の規定による認証の取消し</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">総会の決議</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">構成員が欠けたこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="28">
+            <ArticleCaption>（法人である職員団体等についての破産手続の開始）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等がその債務につきその財産をもつて完済することができなくなつた場合には、裁判所は、理事若しくは債権者の申立てにより又は職権で、破産手続開始の決定をする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する場合には、理事は、直ちに破産手続開始の申立てをしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29">
+            <ArticleCaption>（清算中の法人である職員団体等の能力）</ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">解散した法人である職員団体等は、清算の目的の範囲内において、その清算の結了に至るまではなお存続するものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30">
+            <ArticleCaption>（清算人）</ArticleCaption>
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">法人である職員団体等が解散したときは、破産手続開始の決定による解散の場合を除き、理事がその清算人となる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、規約に別段の定めがあるとき、又は総会において理事以外の者を選任したときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="31">
+            <ArticleCaption>（裁判所による清算人の選任）</ArticleCaption>
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条の規定により清算人となる者がないとき、又は清算人が欠けたため損害を生ずるおそれがあるときは、裁判所は、利害関係人若しくは検察官の請求により又は職権で、清算人を選任することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="32">
+            <ArticleCaption>（清算人の解任）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">重要な事由があるときは、裁判所は、利害関係人若しくは検察官の請求により又は職権で、清算人を解任することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33">
+            <ArticleCaption>（清算人の職務及び権限）</ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">清算人の職務は、次のとおりとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">現務の結了</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">債権の取立て及び債務の弁済</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">残余財産の引渡し</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">清算人は、前項各号に掲げる職務を行うために必要な一切の行為をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="34">
+            <ArticleCaption>（債権の申出の催告等）</ArticleCaption>
+            <ArticleTitle>第三十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">清算人は、その就職の日から二月以内に、少なくとも三回の公告をもつて、債権者に対し、一定の期間内にその債権の申出をすべき旨の催告をしなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、その期間は、二月を下ることができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前項の公告には、債権者がその期間内に申出をしないときは清算から除斥されるべき旨を付記しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、清算人は、知れている債権者を除斥することができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">清算人は、知れている債権者には、各別にその申出の催告をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の公告は、官報に掲載してする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="35">
+            <ArticleCaption>（期間経過後の債権の申出）</ArticleCaption>
+            <ArticleTitle>第三十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の期間の経過後に申出をした債権者は、法人である職員団体等の債務が完済された後まだ権利の帰属すべき者に引き渡されていない財産に対してのみ、請求をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="36">
+            <ArticleCaption>（清算中の法人である職員団体等についての破産手続の開始）</ArticleCaption>
+            <ArticleTitle>第三十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">清算中に法人である職員団体等の財産がその債務を完済するのに足りないことが明らかになつたときは、清算人は、直ちに破産手続開始の申立てをし、その旨を公告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">清算人は、清算中の法人である職員団体等が破産手続開始の決定を受けた場合において、破産管財人にその事務を引き継いだときは、その任務を終了したものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する場合において、清算中の法人である職員団体等が既に債権者に支払い、又は権利の帰属すべき者に引き渡したものがあるときは、破産管財人は、これを取り戻すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による公告は、官報に掲載してする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="37">
+            <ArticleCaption>（残余財産の帰属）</ArticleCaption>
+            <ArticleTitle>第三十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">解散した法人である職員団体等の財産は、規約で指定した者に帰属する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">規約で権利の帰属すべき者を指定せず、又はその者を指定する方法を定めなかつたときは、理事は、総会の決議を経て、当該法人である職員団体等の目的に類似する目的のために、その財産を処分することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の規定により処分されない財産は、国庫に帰属する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="38">
+            <ArticleCaption>（裁判所による監督）</ArticleCaption>
+            <ArticleTitle>第三十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等の解散及び清算は、裁判所の監督に属する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、職権で、いつでも前項の監督に必要な検査をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39">
+            <ArticleCaption>（清算結了の届出）</ArticleCaption>
+            <ArticleTitle>第三十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">清算が結了したときは、清算人は、その旨を登録認証機関（法人である登録職員団体にあつては登録機関、法人である認証職員団体等にあつては認証機関をいう。第五十条において同じ。）に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40">
+            <ArticleCaption>（特別代理人の選任等に関する事件の管轄）</ArticleCaption>
+            <ArticleTitle>第四十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次に掲げる事件は、法人である職員団体等の主たる事務所の所在地を管轄する地方裁判所の管轄に属する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">特別代理人の選任に関する事件</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人である職員団体等の解散及び清算の監督に関する事件</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">清算人に関する事件</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="41">
+            <ArticleCaption>（不服申立ての制限）</ArticleCaption>
+            <ArticleTitle>第四十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">清算人の選任の裁判に対しては、不服を申し立てることができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="42">
+            <ArticleCaption>（裁判所の選任する清算人の報酬）</ArticleCaption>
+            <ArticleTitle>第四十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、第三十一条の規定により清算人を選任した場合には、法人である職員団体等が当該清算人に対して支払う報酬の額を定めることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、裁判所は、当該清算人（監事を置く法人である職員団体等にあつては、当該清算人及び監事）の陳述を聴かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="43">
+            <ArticleTitle>第四十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="44">
+            <ArticleCaption>（検査役の選任）</ArticleCaption>
+            <ArticleTitle>第四十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、法人である職員団体等の解散及び清算の監督に必要な調査をさせるため、検査役を選任することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十一条及び第四十二条の規定は、前項の規定により裁判所が検査役を選任した場合について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条中「清算人（監事を置く法人である職員団体等にあつては、当該清算人及び監事）」とあるのは、「法人である職員団体等及び検査役」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　雑則</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　登記</SectionTitle>
+          <Article Num="45">
+            <ArticleCaption>（法人である登録職員団体の設立の登記）</ArticleCaption>
+            <ArticleTitle>第四十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である登録職員団体は、その主たる事務所の所在地において、第三条第一項の規定による申出をした日から二週間以内に設立の登記をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="46">
+            <ArticleCaption>（登記の効力）</ArticleCaption>
+            <ArticleTitle>第四十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である登録職員団体の設立は、その主たる事務所の所在地において登記をしなければ、第三者に対抗することができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定するもののほか、法人である職員団体等に関して登記すべき事項は、登記をしなければ、第三者に対抗することができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="47">
+            <ArticleCaption>（主たる事務所の所在地における設立の登記の登記事項及び変更の登記）</ArticleCaption>
+            <ArticleTitle>第四十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等の主たる事務所の所在地における設立の登記においては、次に掲げる事項を登記しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">目的</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">名称</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">主たる事務所及び従たる事務所の所在場所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人である登録職員団体にあつては、第三条第一項の規定による申出の年月日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人である認証職員団体等にあつては、第五条の規定による認証の年月日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人である職員団体等の存続期間又は解散の事由についての規約の定めがあるときは、その定め</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">資産の総額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">出資の方法を定めたときは、その方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">理事の氏名及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等において前項各号に掲げる事項に変更が生じたときは、二週間以内に、その主たる事務所の所在地において、変更の登記をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="48">
+            <ArticleCaption>（他の登記所の管轄区域内への主たる事務所の移転の登記）</ArticleCaption>
+            <ArticleTitle>第四十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等がその主たる事務所を他の登記所の管轄区域内に移転したときは、二週間以内に、旧所在地においては移転の登記をし、新所在地においては前条第一項各号に掲げる事項を登記しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">新所在地における登記においては、法人である職員団体等の成立の年月日並びに主たる事務所を移転した旨及びその年月日をも登記しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="49">
+            <ArticleCaption>（職務執行停止の仮処分等の登記）</ArticleCaption>
+            <ArticleTitle>第四十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等の理事の職務の執行を停止し、若しくはその職務を代行する者を選任する仮処分命令又はその仮処分命令を変更し、若しくは取り消す決定がされたときは、その主たる事務所の所在地において、その登記をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="50">
+            <ArticleCaption>（清算人及び解散の登記及び届出）</ArticleCaption>
+            <ArticleTitle>第五十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">清算人は、破産手続開始の決定の場合を除き、解散後二週間以内に、主たる事務所の所在地において、その氏名及び住所並びに解散の原因及び年月日の登記をし、かつ、これらの事項を登録認証機関に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">清算中に就職した清算人は、就職後二週間以内に、主たる事務所の所在地において、その氏名及び住所の登記をし、かつ、これらの事項を登録認証機関に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="51">
+            <ArticleCaption>（職員団体等登記簿）</ArticleCaption>
+            <ArticleTitle>第五十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">各登記所に、職員団体等登記簿を備える。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="52">
+            <ArticleCaption>（設立の登記の申請）</ArticleCaption>
+            <ArticleTitle>第五十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等の設立の登記は、法人である登録職員団体にあつては理事、法人である認証職員団体等にあつては法人を代表すべき者の申請によつてする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等の設立の登記の申請書には、次に掲げる書面を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">規約</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人である登録職員団体にあつては、理事の資格を証する書面及び第三条第一項の規定による申出を証する書面</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人である認証職員団体等にあつては、法人を代表すべき者の資格を証する書面及び第五条の規定による通知を証する書面</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="53">
+            <ArticleCaption>（変更の登記の申請）</ArticleCaption>
+            <ArticleTitle>第五十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十七条第一項各号に掲げる事項又は第五十条の規定により登記すべき事項の変更の登記の申請書には、当該事項の変更を証する書面を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="54">
+            <ArticleCaption>（解散の登記の申請）</ArticleCaption>
+            <ArticleTitle>第五十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である職員団体等の解散の登記の申請書には、解散の事由の発生を証する書面及び理事が清算人とならない場合にあつては清算人の資格を証する書面を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="55">
+            <ArticleCaption>（商業登記法の準用）</ArticleCaption>
+            <ArticleTitle>第五十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">商業登記法（昭和三十八年法律第百二十五号）第一条の三から第五条まで、第七条から第十五条まで、第十七条、第十八条、第十九条の二、第十九条の三、第二十一条から第二十三条の二まで、第二十四条（第十四号及び第十五号を除く。）、第二十六条、第二十七条、第五十一条、第五十二条、第九十九条第一項、第百条第三項、第百三十二条から第百三十七条まで及び第百三十九条から第百四十八条までの規定は、法人である職員団体等の登記について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定中「商号」とあるのは「名称」と、「定款」とあるのは「規約」と、同法第一条の三及び第二十四条第一号中「営業所」とあるのは「事務所」と、同法第十二条の二第五項中「営業所（会社にあつては、本店）」とあり、並びに同法第十七条第二項第一号及び第五十一条第一項中「本店」とあるのは「主たる事務所」と、同法第二十七条中「営業所（会社にあつては、本店。以下この条において同じ。）の」とあり、及び「営業所の」とあるのは「主たる事務所の」と、同法第九十九条第一項第一号中「会社法第六百四十七条第一項第一号に掲げる者」とあるのは「理事（次号又は第三号に掲げる者がある場合を除く。）」と、同項第二号中「会社法第六百四十七条第一項第二号に掲げる者」とあるのは「規約で定める者」と、同項第三号中「会社法第六百四十七条第一項第三号に掲げる者」とあるのは「総会において選任された者」と、同法第百四十六条の二中「商業登記法（」とあるのは「職員団体等に対する法人格の付与に関する法律（昭和五十三年法律第八十号）第五十五条において準用する商業登記法（」と、「商業登記法第百四十五条」とあるのは「職員団体等に対する法人格の付与に関する法律第五十五条において準用する商業登記法第百四十五条」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　法人である認証職員団体等から法人である登録職員団体への移行</SectionTitle>
+          <Article Num="56">
+            <ArticleTitle>第五十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人である認証職員団体等が国家公務員法第百八条の三（裁判所職員臨時措置法において準用する場合を含む。）又は地方公務員法第五十三条の規定により登録されたときは、その法人である認証職員団体等は、その登録の日において、法人である登録職員団体となる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定に基づく法人である登録職員団体に関する第四十七条第一項及び第五十二条第二項の規定の適用については、第四十七条第一項第四号及び第五十二条第二項第二号中「第三条第一項の規定による申出」とあるのは、「国家公務員法第百八条の三（裁判所職員臨時措置法において準用する場合を含む。）又は地方公務員法第五十三条の規定による登録」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定に基づく法人である登録職員団体の設立の登記においては、当該法人である登録職員団体となつた法人である認証職員団体等の名称及び主たる事務所並びに法人である認証職員団体等が同項の規定により法人である登録職員団体となつた旨をも登記しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定に基づく法人である登録職員団体の設立の登記がされたときは、登記官は、職権で、当該法人となつた法人である認証職員団体等の登記記録にその事由を記録して、その登記記録を閉鎖しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　罰則</ChapterTitle>
+        <Article Num="57">
+          <ArticleTitle>第五十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人である職員団体等の理事、監事又は清算人は、次の各号のいずれかに該当する場合には、五十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律の規定による登記をすることを怠つたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十一条の規定に違反し、又は財産目録若しくは構成員名簿に不正の記載をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十八条第二項又は第三十六条第一項の規定による破産手続開始の申立てを怠つたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十四条第一項又は第三十六条第一項の公告を怠り、又は不正の公告をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十八条第二項の規定による裁判所の検査を妨げたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">官庁又は総会に対し、不実の申立てをし、又は事実を隠蔽したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五四年一二月二〇日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を経過した日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和六三年六月一一日法律第八一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中不動産登記法第四章の次に一章を加える改正規定のうち第百五十一条ノ三第二項から第四項まで、第百五十一条ノ五及び第百五十一条ノ七の規定に係る部分、第二条中商業登記法の目次の改正規定並びに同法第三章の次に一章を加える改正規定のうち第百十三条の二、第百十三条の三、第百十三条の四第一項、第四項及び第五項並びに第百十三条の五の規定に係る部分並びに附則第八条から第十条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（登記簿の改製等の経過措置）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の規定による不動産登記法、商業登記法その他の法律の改正に伴う登記簿の改製その他の必要な経過措置は、法務省令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三年五月二一日法律第七九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第六条から第二十一条まで、第二十五条及び第三十四条並びに附則第八条から第十三条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、行政手続法（平成五年法律第八十八号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（諮問等がされた不利益処分に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に法令に基づき審議会その他の合議制の機関に対し行政手続法第十三条に規定する聴聞又は弁明の機会の付与の手続その他の意見陳述のための手続に相当する手続を執るべきことの諮問その他の求めがされた場合においては、当該諮問その他の求めに係る不利益処分の手続に関しては、この法律による改正後の関係法律の規定にかかわらず、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（聴聞に関する規定の整理に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に法律の規定により行われた聴聞、聴問若しくは聴聞会（不利益処分に係るものを除く。）又はこれらのための手続は、この法律による改正後の関係法律の相当規定により行われたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成十二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="250">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二百五十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新地方自治法第二条第九項第一号に規定する第一号法定受託事務については、できる限り新たに設けることのないようにするとともに、新地方自治法別表第一に掲げるもの及び新地方自治法に基づく政令に示すものについては、地方分権を推進する観点から検討を加え、適宜、適切な見直しを行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="251">
+        <ArticleTitle>第二百五十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、地方公共団体が事務及び事業を自主的かつ自立的に執行できるよう、国と地方公共団体との役割分担に応じた地方税財源の充実確保の方途について、経済情勢の推移等を勘案しつつ検討し、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、破産法（平成十六年法律第七十五号。次条第八項並びに附則第三条第八項、第五条第八項、第十六項及び第二十一項、第八条第三項並びに第十三条において「新破産法」という。）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、新不動産登記法の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年一二月一日法律第一四七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年一二月三日法律第一五四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日（以下「施行日」という。）から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="121">
+        <ArticleCaption>（処分等の効力）</ArticleCaption>
+        <ArticleTitle>第百二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前のそれぞれの法律（これに基づく命令を含む。以下この条において同じ。）の規定によってした処分、手続その他の行為であって、改正後のそれぞれの法律の規定に相当の規定があるものは、この附則に別段の定めがあるものを除き、改正後のそれぞれの法律の相当の規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="123">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年六月二日法律第五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、一般社団・財団法人法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年五月二五日法律第五三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、新非訟事件手続法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年六月二七日法律第四二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成二十五年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月一一日法律第七一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、会社法改正法の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第九条中社債、株式等の振替に関する法律第二百六十九条の改正規定（「第六十八条第二項」を「第八十六条第一項」に改める部分に限る。）、第二十一条中民間資金等の活用による公共施設等の整備等の促進に関する法律第五十六条第二項及び附則第四条の改正規定、第四十一条中保険業法附則第一条の二の十四第一項の改正規定、第四十七条中保険業法等の一部を改正する法律附則第十六条第一項の改正規定、第五十一条中株式会社海外通信・放送・郵便事業支援機構法第二十七条の改正規定、第七十八条及び第七十九条の規定、第八十九条中農林中央金庫及び特定農水産業協同組合等による信用事業の再編及び強化に関する法律附則第二十六条第一項の改正規定並びに第百二十四条及び第百二十五条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第一条中外国法人の登記及び夫婦財産契約の登記に関する法律第四条の改正規定（次号に掲げる部分を除く。）、第六条の規定（同条中商業登記法第九十条の次に一条を加える改正規定及び同法第九十一条第二項の改正規定（「前条」を「第九十条」に改める部分に限る。）並びに同号に掲げる改正規定を除く。）、第七条の規定、第十五条中一般社団法人及び一般財団法人に関する法律第三百三十条の改正規定（同号に掲げる部分を除く。）、第十六条第五項の規定、第十七条中信託法第二百四十七条の改正規定（同号に掲げる部分を除く。）、第十八条中職員団体等に対する法人格の付与に関する法律第五十八条の改正規定（「第十九条の二」の下に「、第十九条の三、第二十一条」を加え、「第十五号及び第十六号」を「第十四号及び第十五号」に改める部分、「（同法第二十七条中「本店」とある部分を除く。）」を削る部分及び「「事務所」と」の下に「、同法第十二条の二第五項中「営業所（会社にあつては、本店）」とあり、並びに同法第十七条第二項第一号及び第五十一条第一項中「本店」とあるのは「主たる事務所」と」を、「選任された者」と」の下に「、同法第百四十六条の二中「商業登記法（」とあるのは「職員団体等に対する法人格の付与に関する法律（昭和五十三年法律第八十号）第五十五条において準用する商業登記法（」と、「商業登記法第百四十五条」とあるのは「職員団体等に対する法人格の付与に関する法律第五十五条において準用する商業登記法第百四十五条」と」を加える部分に限る。）及び同法第六十条第六号中「隠ぺいした」を「隠蔽した」に改める改正規定、第十九条の規定、第二十五条中金融商品取引法第九十条の改正規定（次号に掲げる部分を除く。）及び同法第百二条の十一の改正規定（次号に掲げる部分を除く。）、第二十六条の規定、第二十七条の規定（次号に掲げる改正規定を除く。）、第二十八条の規定、第三十二条中投資信託及び投資法人に関する法律第百七十七条の改正規定（次号に掲げる部分を除く。）、第三十四条中信用金庫法第八十五条の改正規定（「第二十七条まで（第二十四条第十六号を除く。）」を「第十九条の三まで」に、「、印鑑の提出、」を「）、第二十一条から第二十七条まで（第二十四条第十五号を除く。）（」に改める部分及び「第十二条第一項」を「第十二条第一項第五号」に改める部分に限る。）、第三十五条第四項の規定、第三十六条中労働金庫法第八十九条の改正規定（「第二十七条まで（第二十四条第十六号を除く。）」を「第十九条の三まで」に、「、印鑑の提出、」を「）、第二十一条から第二十七条まで（第二十四条第十五号を除く。）（」に改める部分及び「第十二条第一項」を「第十二条第一項第五号」に改める部分に限る。）、第三十七条第三項の規定、第四十一条中保険業法第六十七条の改正規定（次号に掲げる部分を除く。）及び同法第二百十六条の改正規定（次号に掲げる部分を除く。）、第四十二条第十一項の規定、第四十五条中資産の流動化に関する法律第百八十三条第一項の改正規定（次号に掲げる部分を除く。）、第四十六条第九項の規定、第五十条の規定（次号に掲げる改正規定を除く。）、第五十六条中酒税の保全及び酒類業組合等に関する法律第七十八条の改正規定（「第二十七条まで（第二十四条第十五号及び第十六号を除く。）」を「第十九条の三まで」に、「、添付書面の特例、印鑑の提出、」を「及び添付書面の特例）、第二十一条から第二十七条まで（第二十四条第十四号及び第十五号を除く。）（」に改める部分に限る。）、第五十七条第三項の規定、第六十七条中宗教法人法第六十五条の改正規定（「第十九条の二」の下に「、第十九条の三、第二十一条」を加え、「第十五号及び第十六号」を「第十四号及び第十五号」に改める部分及び「清算人」と」の下に「、同法第百四十六条の二中「商業登記法（」とあるのは「宗教法人法（昭和二十六年法律第百二十六号）第六十五条において準用する商業登記法（」と、「商業登記法第百四十五条」とあるのは「宗教法人法第六十五条において準用する商業登記法第百四十五条」と」を加える部分に限る。）、第六十八条の規定、第六十九条中消費生活協同組合法第九十二条の改正規定（「第十七条から」の下に「第十九条の三まで、第二十一条から」を加え、「第十五号及び第十六号」を「第十四号及び第十五号」に改める部分及び「清算人」と」の下に「、同法第百四十六条の二中「商業登記法（」とあるのは「消費生活協同組合法（昭和二十三年法律第二百号）第九十二条において準用する商業登記法（」と、「商業登記法第百四十五条」とあるのは「消費生活協同組合法第九十二条において準用する商業登記法第百四十五条」と」を加える部分に限る。）、第七十条第三項の規定、第八十条中農村負債整理組合法第二十四条第一項の改正規定（次号に掲げる部分を除く。）、第八十五条中漁船損害等補償法第八十三条の改正規定（「第十七条から」の下に「第十九条の三まで、第二十一条から」を加え、「第十五号及び第十六号」を「第十四号及び第十五号」に改める部分及び「により清算人となつたもの」と」の下に「、同法第百四十六条の二中「商業登記法（」とあるのは「漁船損害等補償法（昭和二十七年法律第二十八号）第八十三条において準用する商業登記法（」と、「商業登記法第百四十五条」とあるのは「漁船損害等補償法第八十三条において準用する商業登記法第百四十五条」と」を加える部分に限る。）、第八十六条の規定、第九十三条中中小企業等協同組合法第百三条の改正規定（次号に掲げる部分を除く。）、第九十四条第三項の規定、第九十六条中商品先物取引法第二十九条の改正規定（「第十七条から」の下に「第十九条の三まで、第二十一条から」を加え、「第十五号及び第十六号」を「第十四号及び第十五号」に改める部分に限る。）、第九十七条、第九十九条及び第百一条の規定、第百二条中技術研究組合法第百六十八条の改正規定（次号に掲げる部分を除く。）、第百三条第三項の規定、第百七条中投資事業有限責任組合契約に関する法律第三十三条の改正規定（「第十九条の二」の下に「、第十九条の三、第二十一条」を加える部分に限る。）、第百八条の規定、第百十一条中有限責任事業組合契約に関する法律第七十三条の改正規定（「第十九条の二」の下に「、第十九条の三、第二十一条」を加える部分に限る。）並びに第百十二条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年三月を超えない範囲内において政令で定める日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Num="3">
+          <ItemTitle>三</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第一条中外国法人の登記及び夫婦財産契約の登記に関する法律第四条の改正規定（「並びに第百三十二条」を「、第百三十二条から第百三十七条まで並びに第百三十九条」に改める部分に限る。）、第三条から第五条までの規定、第六条中商業登記法第七条の二、第十一条の二、第十五条、第十七条及び第十八条の改正規定、同法第四十八条の前の見出しを削る改正規定、同条から同法第五十条まで並びに同法第八十二条第二項及び第三項の改正規定、同条第四項の改正規定（「本店の所在地における」を削る部分に限る。）、同法第八十七条第一項及び第二項並びに第九十一条第一項の改正規定、同条第二項の改正規定（「本店の所在地における」を削る部分に限る。）並びに同法第九十五条、第百十一条、第百十八条及び第百三十八条の改正規定、第九条中社債、株式等の振替に関する法律第百五十一条第二項第一号の改正規定、同法第百五十五条第一項の改正規定（「（以下この条」の下に「及び第百五十九条の二第二項第四号」を加える部分に限る。）、同法第百五十九条の次に一条を加える改正規定、同法第二百二十八条第二項の表第百五十九条第三項第一号の項の次に次のように加える改正規定、同法第二百三十五条第一項の改正規定（「まで」の下に「、第百五十九条の二第二項第四号」を加える部分に限る。）、同条第二項の表第百五十九条第一項の項の次に次のように加える改正規定及び同法第二百三十九条第二項の表に次のように加える改正規定、第十条第二項から第二十三項までの規定、第十一条中会社更生法第二百六十一条第一項後段を削る改正規定、第十四条中会社法の施行に伴う関係法律の整備等に関する法律第四十六条の改正規定、第十五条中一般社団法人及び一般財団法人に関する法律の目次の改正規定（「従たる事務所の所在地における登記（第三百十二条―第三百十四条）」を「削除」に改める部分に限る。）、同法第四十七条の次に五条を加える改正規定、同法第三百一条第二項第四号の次に一号を加える改正規定、同法第六章第四節第三款、第三百十五条及び第三百二十九条の改正規定、同法第三百三十条の改正規定（「第四十九条から第五十二条まで」を「第五十一条、第五十二条」に、「及び第百三十二条」を「、第百三十二条から第百三十七条まで及び第百三十九条」に改め、「、「支店」とあるのは「従たる事務所」と」を削る部分に限る。）並びに同法第三百四十二条第十号の次に一号を加える改正規定、第十七条中信託法第二百四十七条の改正規定（「（第三項を除く。）、第十八条」を削る部分に限る。）、第十八条の規定（前号に掲げる改正規定を除く。）、第二十二条及び第二十三条の規定、第二十五条中金融商品取引法第八十九条の三の改正規定、同法第八十九条の四第二項を削る改正規定、同法第九十条の改正規定（「第十七条から」の下に「第十九条の三まで、第二十一条から」を加え、「第十五号及び第十六号」を「第十四号及び第十五号」に改める部分、「及び第二十条第三項」を削る部分及び「読み替える」を「、同法第百四十六条の二中「商業登記法（」とあるのは「金融商品取引法（昭和二十三年法律第二十五号）第九十条において準用する商業登記法（」と、「商業登記法第百四十五条」とあるのは「金融商品取引法第九十条において準用する商業登記法第百四十五条」と読み替える」に改める部分を除く。）、同法第百条の四、第百一条の二十第一項、第百二条第一項及び第百二条の十の改正規定、同法第百二条の十一の改正規定（「第十七条から」の下に「第十九条の三まで、第二十一条から」を加え、「第十五号及び第十六号」を「第十四号及び第十五号」に改める部分、「及び第二十条第三項」を削る部分及び「読み替える」を「、同法第百四十六条の二中「商業登記法（」とあるのは「金融商品取引法（昭和二十三年法律第二十五号）第百二条の十一において準用する商業登記法（」と、「商業登記法第百四十五条」とあるのは「金融商品取引法第百二条の十一において準用する商業登記法第百四十五条」と読み替える」に改める部分を除く。）並びに同法第百四十五条第一項及び第百四十六条の改正規定、第二十七条中損害保険料率算出団体に関する法律第二十三条から第二十四条の二までの改正規定及び同法第二十五条の改正規定（「第二十三条の二まで、」を「第十九条の三まで（登記申請の方式、申請書の添付書面、申請書に添付すべき電磁的記録、添付書面の特例）、第二十一条から」に、「第十五号及び第十六号」を「第十四号」に改める部分を除く。）、第三十二条中投資信託及び投資法人に関する法律第九十四条第一項の改正規定（「第三百五条第一項本文及び第四項」の下に「から第六項まで」を加える部分を除く。）、同法第百六十四条第四項の改正規定、同法第百六十六条第二項第八号の次に一号を加える改正規定、同法第百七十七条の改正規定（「、第二十条第一項及び第二項」を削る部分及び「、同法第二十四条第七号中「若しくは第三十条第二項若しくは」とあるのは「若しくは」と」を削り、「第百七十五条」と」の下に「、同法第百四十六条の二中「商業登記法（」とあるのは「投資信託及び投資法人に関する法律（昭和二十六年法律第百九十八号）第百七十七条において準用する商業登記法（」と、「商業登記法第百四十五条」とあるのは「投資信託及び投資法人に関する法律第百七十七条において準用する商業登記法第百四十五条」と」を加える部分を除く。）及び同法第二百四十九条第十九号の次に一号を加える改正規定、第三十四条中信用金庫法の目次の改正規定（「第四十八条の八」を「第四十八条の十三」に改める部分に限る。）、同法第四十六条第一項の改正規定、同法第四章第七節中第四十八条の八の次に五条を加える改正規定、同法第六十五条第二項、第七十四条から第七十六条まで及び第七十七条第四項の改正規定、同法第八十五条の改正規定（前号に掲げる部分を除く。）、同法第八十七条の四第四項の改正規定並びに同法第九十一条第一項第十二号の次に一号を加える改正規定、第三十六条中労働金庫法第七十八条から第八十条まで及び第八十一条第四項の改正規定並びに同法第八十九条の改正規定（前号に掲げる部分を除く。）、第三十八条中金融機関の合併及び転換に関する法律第六十四条第一項の改正規定、第四十条の規定（同条中協同組織金融機関の優先出資に関する法律第十四条第二項及び第二十二条第五項第三号の改正規定を除く。）、第四十一条中保険業法第四十一条第一項の改正規定、同法第四十九条第一項の改正規定（「規定中」を「規定（同法第二百九十八条（第一項第三号及び第四号を除く。）、第三百十一条第四項並びに第五項第一号及び第二号、第三百十二条第五項並びに第六項第一号及び第二号、第三百十四条、第三百十八条第四項、第三百二十五条の二並びに第三百二十五条の五第二項を除く。）中「株主」とあるのは「総代」と、これらの規定（同法第二百九十九条第一項及び第三百二十五条の三第一項第五号を除く。）中」に改め、「とあり、及び「取締役会設置会社」」を削り、「相互会社」と、」の下に「これらの規定中」を加え、「、これらの規定（同法第二百九十八条第一項（各号を除く。）及び第四項、第三百十一条第四項、第三百十二条第五項、第三百十四条並びに第三百十八条第四項を除く。）中「株主」とあるのは「総代」と」を削り、「各号を除く。）及び第四項中」を「第三号及び第四号を除く。）中「前条第四項」とあるのは「保険業法第四十五条第二項」と、「株主」とあるのは「社員又は総代」と、「次項本文及び次条から第三百二条まで」とあるのは「次条及び第三百条」と、同条第四項中「取締役会設置会社」とあるのは「相互会社」と、」に、「第三百十一条第四項及び第三百十二条第五項」を「第三百十一条第一項中「議決権行使書面に」とあるのは「議決権行使書面（保険業法第四十八条第三項に規定する議決権行使書面をいう。以下同じ。）に」と、同条第四項並びに第五項第一号及び第二号並びに同法第三百十二条第五項並びに第六項第一号及び第二号」に改め、「共同」を削る部分を除く。）、同法第六十四条第二項及び第三項の改正規定、同法第六十七条の改正規定（「、第四十八条」を「、第五十一条」に改め、「支店所在地における登記、」を削り、「登記）並びに」を「登記）、」に、「第百四十八条」を「第百三十七条」に、「職権抹消、」を「職権抹消）並びに第百三十九条から第百四十八条まで（」に改める部分及び「第四十八条から第五十三条までの規定中「本店」とあるのは「主たる事務所」と、「支店」とあるのは「従たる事務所」を「第四十七条第三項中「前項」とあるのは「保険業法第六十四条第一項」と、同法第五十五条第一項中「会社法第三百四十六条第四項」とあるのは「保険業法第五十三条の十二第四項」と、同法第百四十六条の二中「商業登記法（」とあるのは「保険業法（平成七年法律第百五号）第六十七条において準用する商業登記法（」と、「商業登記法第百四十五条」とあるのは「保険業法第六十七条において準用する商業登記法第百四十五条」と、同法第百四十八条中「この法律に」とあるのは「保険業法に」と、「この法律の施行」とあるのは「相互会社に関する登記」に改める部分に限る。）、同法第八十四条第一項並びに第九十六条の十四第一項及び第二項の改正規定、同法第九十六条の十六第四項の改正規定（「並びに」を「及び」に改め、「及び第四項」を削る部分に限る。）、同法第百六十九条の五第三項を削る改正規定、同法第百七十一条及び第百八十三条第二項の改正規定、同法第二百十六条の改正規定（「、第二十条第一項及び第二項（印鑑の提出）」を削り、「第十一号及び第十二号」を「第十号及び第十一号」に改める部分及び「において」の下に「、同法第十二条第一項第五号中「会社更生法（平成十四年法律第百五十四号）」とあるのは「金融機関等の更生手続の特例等に関する法律」と」を加える部分を除く。）並びに同法第三百三十三条第一項第十七号の次に一号を加える改正規定、第四十三条中金融機関等の更生手続の特例等に関する法律第百六十二条第一項後段を削る改正規定並びに同法第三百三十五条第一項後段及び第三百五十五条第一項後段を削る改正規定、第四十五条中資産の流動化に関する法律第二十二条第二項第七号の次に一号を加える改正規定、同条第四項を削る改正規定、同法第六十五条第三項の改正規定、同法第百八十三条第一項の改正規定（「第二十七条」を「第十九条の三」に、「、印鑑の提出、」を「）、第二十一条から第二十七条まで（」に改める部分、「、同法第二十四条第七号中「書面若しくは第三十条第二項若しくは第三十一条第二項に規定する譲渡人の承諾書」とあるのは「書面」と」を削る部分及び「準用する会社法第五百七条第三項」と」の下に「、同法第百四十六条の二中「商業登記法（」とあるのは「資産の流動化に関する法律（平成十年法律第百五号）第百八十三条第一項において準用する商業登記法（」と、「商業登記法第百四十五条」とあるのは「資産の流動化に関する法律第百八十三条第一項において準用する商業登記法第百四十五条」と」を加える部分を除く。）及び同法第三百十六条第一項第十七号の次に一号を加える改正規定、第四十八条の規定、第五十条中政党交付金の交付を受ける政党等に対する法人格の付与に関する法律第十五条の三の改正規定（「（第三項を除く。）」を削る部分に限る。）、第五十二条、第五十三条及び第五十五条の規定、第五十六条中酒税の保全及び酒類業組合等に関する法律第二十二条の改正規定（「、同法第九百三十七条第一項中「第九百三十条第二項各号」とあるのは「酒税の保全及び酒類業組合等に関する法律第六十七条第二項各号」と」を削る部分に限る。）、同法第三十九条、第五十六条第六項、第五十七条及び第六十七条から第六十九条までの改正規定、同法第七十八条の改正規定（前号に掲げる部分を除く。）並びに同法第八十三条の改正規定、第五十八条及び第六十一条の規定、第六十七条の規定（前号に掲げる改正規定を除く。）、第六十九条中消費生活協同組合法第八十一条から第八十三条まで及び第九十条第四項の改正規定並びに同法第九十二条の改正規定（前号に掲げる部分を除く。）、第七十一条中医療法第四十六条の三の六及び第七十条の二十一第六項の改正規定並びに同法第九十三条の改正規定（同条第四号中「第五十一条の三」を「第五十一条の三第一項」に改める部分を除く。）、第七十七条の規定、第八十条中農村負債整理組合法第二十四条第一項の改正規定（「第十七条（第三項ヲ除ク）」を「第十七条」に改める部分に限る。）、第八十一条中農業協同組合法第三十六条第七項の改正規定、同法第四十三条の六の次に一条を加える改正規定、同法第四十三条の七第三項の改正規定及び同法第百一条第一項第四十号の次に一号を加える改正規定、第八十三条中水産業協同組合法第四十条第七項の改正規定、同法第四十七条の五の次に一条を加える改正規定、同法第八十六条第二項の改正規定及び同法第百三十条第一項第三十八号の次に一号を加える改正規定、第八十五条中漁船損害等補償法第七十一条から第七十三条までの改正規定及び同法第八十三条の改正規定（前号に掲げる部分を除く。）、第八十七条中森林組合法第五十条第七項の改正規定、同法第六十条の三の次に一条を加える改正規定、同法第六十条の四第三項及び第百条第二項の改正規定並びに同法第百二十二条第一項第十二号の次に一号を加える改正規定、第八十九条中農林中央金庫及び特定農水産業協同組合等による信用事業の再編及び強化に関する法律第二十二条第二項の改正規定、第九十条中農林中央金庫法第四十六条の三の次に一条を加える改正規定、同法第四十七条第三項の改正規定及び同法第百条第一項第十六号の次に一号を加える改正規定、第九十三条中中小企業等協同組合法の目次の改正規定、同法第四章第二節第一款及び第二款の款名を削る改正規定、同法第九十三条から第九十五条まで、第九十六条第四項及び第九十七条第一項の改正規定並びに同法第百三条の改正規定（「、第四十八条」を「、第五十一条」に、「並びに第百三十二条」を「、第百三十二条から第百三十七条まで並びに第百三十九条」に改める部分及び「、同法第四十八条第二項中「会社法第九百三十条第二項各号」とあるのは「中小企業等協同組合法第九十三条第二項各号」と」を削る部分に限る。）、第九十六条の規定（同条中商品先物取引法第十八条第二項の改正規定、同法第二十九条の改正規定（前号に掲げる部分に限る。）並びに同法第五十八条、第七十七条第二項及び第百四十四条の十一第二項の改正規定を除く。）、第九十八条中輸出入取引法第十九条第一項の改正規定（「第八項」の下に「、第三十八条の六」を加える部分を除く。）、第百条の規定（同条中中小企業団体の組織に関する法律第百十三条第一項第十三号の改正規定を除く。）、第百二条中技術研究組合法の目次の改正規定、同法第八章第二節の節名の改正規定、同章第三節、第百五十九条第三項から第五項まで及び第百六十条第一項の改正規定並びに同法第百六十八条の改正規定（「、第四十八条」を「、第五十一条」に、「並びに第百三十二条」を「、第百三十二条から第百三十七条まで並びに第百三十九条」に改め、「第四十八条第二項中「会社法第九百三十条第二項各号」とあるのは「技術研究組合法第百五十六条第二項各号」と、同法第五十条第一項、」を削る部分に限る。）、第百七条の規定（前号に掲げる改正規定を除く。）並びに第百十一条の規定（前号に掲げる改正規定を除く。）</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">会社法改正法附則第一条ただし書に規定する規定の施行の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
