@@ -2,7 +2,7 @@
 <Law Lang="ja" Era="Heisei" Year="16" Num="123" PromulgateMonth="06" PromulgateDay="18" LawType="Act"><LawNum>平成十六年法律第百二十三号</LawNum>
   
   <LawBody>
-    <LawTitle Kana="ふどうさんとうきほう" Abbrev="新不動産登記法,不登法" AbbrevKana="し,ふ">不動産登記法</LawTitle>
+    <LawTitle Kana="ふどうさんとうきほう" Abbrev="新不動産登記法,不登法" AbbrevKana="ふ">不動産登記法</LawTitle>
     <EnactStatement>不動産登記法（明治三十二年法律第二十四号）の全部を改正する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -893,7 +893,7 @@
               <Item Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">申請情報の内容である登記義務者（第六十五条、第七十七条、第八十九条第一項（同条第二項（第九十五条第二項において準用する場合を含む。）及び第九十五条第二項において準用する場合を含む。）、第九十三条（第九十五条第二項において準用する場合を含む。）又は第百十条前段の場合にあっては、登記名義人）の氏名若しくは名称又は住所が登記記録と合致しないとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">申請情報の内容である登記義務者（第六十五条、第七十六条の五、第七十七条、第八十九条第一項（同条第二項（第九十五条第二項において準用する場合を含む。）及び第九十五条第二項において準用する場合を含む。）、第九十三条（第九十五条第二項において準用する場合を含む。）又は第百十条前段の場合にあっては、登記名義人）の氏名若しくは名称又は住所が登記記録と合致しないとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="8">
@@ -2290,6 +2290,37 @@
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">第一項の規定による申出の手続及び第三項の規定による登記に関し必要な事項は、法務省令で定める。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="76_4">
+              <ArticleCaption>（所有権の登記名義人についての符号の表示）</ArticleCaption>
+              <ArticleTitle>第七十六条の四</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">登記官は、所有権の登記名義人（法務省令で定めるものに限る。）が権利能力を有しないこととなったと認めるべき場合として法務省令で定める場合には、法務省令で定めるところにより、職権で、当該所有権の登記名義人についてその旨を示す符号を表示することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="76_5">
+              <ArticleCaption>（所有権の登記名義人の氏名等の変更の登記の申請）</ArticleCaption>
+              <ArticleTitle>第七十六条の五</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">所有権の登記名義人の氏名若しくは名称又は住所について変更があったときは、当該所有権の登記名義人は、その変更があった日から二年以内に、氏名若しくは名称又は住所についての変更の登記を申請しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="76_6">
+              <ArticleCaption>（職権による氏名等の変更の登記）</ArticleCaption>
+              <ArticleTitle>第七十六条の六</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">登記官は、所有権の登記名義人の氏名若しくは名称又は住所について変更があったと認めるべき場合として法務省令で定める場合には、法務省令で定めるところにより、職権で、氏名若しくは名称又は住所についての変更の登記をすることができる。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該所有権の登記名義人が自然人であるときは、その申出があるときに限る。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -4543,6 +4574,12 @@
               <Sentence Num="1" WritingMode="vertical">第三十六条、第三十七条第一項若しくは第二項、第四十二条、第四十七条第一項（第四十九条第二項において準用する場合を含む。）、第四十九条第一項、第三項若しくは第四項、第五十一条第一項から第四項まで、第五十七条、第五十八条第六項若しくは第七項、第七十六条の二第一項若しくは第二項又は第七十六条の三第四項の規定による申請をすべき義務がある者が正当な理由がないのにその申請を怠ったときは、十万円以下の過料に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七十六条の五の規定による申請をすべき義務がある者が正当な理由がないのにその申請を怠ったときは、五万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
         </Article>
       </Chapter>
     </MainProvision>
@@ -5499,6 +5536,13 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第二号新不動産登記法第七十六条の二の規定は、第二号施行日前に所有権の登記名義人について相続の開始があった場合についても、適用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「所有権の登記名義人」とあるのは「民法等の一部を改正する法律（令和三年法律第二十四号）附則第一条第二号に掲げる規定の施行の日（以下この条において「第二号施行日」という。）前に所有権の登記名義人」と、「知った日」とあるのは「知った日又は第二号施行日のいずれか遅い日」と、同条第二項中「分割の日」とあるのは「分割の日又は第二号施行日のいずれか遅い日」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定（附則第一条第三号に掲げる改正規定に限る。）による改正後の不動産登記法（以下この項において「第三号新不動産登記法」という。）第七十六条の五の規定は、同号に掲げる規定の施行の日（以下「第三号施行日」という。）前に所有権の登記名義人の氏名若しくは名称又は住所について変更があった場合についても、適用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、第三号新不動産登記法第七十六条の五中「所有権の登記名義人の」とあるのは「民法等の一部を改正する法律（令和三年法律第二十四号）附則第一条第三号に掲げる規定の施行の日（以下この条において「第三号施行日」という。）前に所有権の登記名義人となった者の」と、「あった日」とあるのは「あった日又は第三号施行日のいずれか遅い日」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
