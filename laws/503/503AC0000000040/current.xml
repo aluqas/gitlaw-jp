@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Reiwa" Lang="ja" LawType="Act" Num="040" Year="03" PromulgateMonth="05" PromulgateDay="19">
+  <LawNum>令和三年法律第四十号</LawNum>
+  <LawBody>
+    <LawTitle Kana="ちほうこうきょうだんたいじょうほうしすてむのひょうじゅんかにかんするほうりつ" Abbrev="" AbbrevKana="">地方公共団体情報システムの標準化に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　基本方針</ChapterTitle>
+        <ArticleRange>（第五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　標準化基準等</ChapterTitle>
+        <ArticleRange>（第六条―第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="4">
+        <ChapterTitle>第四章　補則</ChapterTitle>
+        <ArticleRange>（第九条―第十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律は、国民が行政手続において情報通信技術の便益を享受できる環境を整備するとともに、情報通信技術の効果的な活用により持続可能な行政運営を確立することが国及び地方公共団体の喫緊の課題であることに鑑み、地方公共団体情報システムの標準化に関し、基本理念を定め、並びに国及び地方公共団体の責務を明らかにするとともに、基本方針及び地方公共団体情報システムに必要とされる機能等についての基準の策定その他の地方公共団体情報システムの標準化を推進するために必要な事項を定め、もって住民の利便性の向上及び地方公共団体の行政運営の効率化に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「地方公共団体情報システム」とは、地方公共団体が利用する情報システムであって、情報システムによる処理の内容が各地方公共団体において共通し、かつ、統一的な基準に適合する情報システムを利用して処理することが住民の利便性の向上及び地方公共団体の行政運営の効率化に寄与する事務として政令で定める事務（以下「標準化対象事務」という。）の処理に係るものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「機能等」とは、地方公共団体情報システムの標準化のための統一的な基準を定めるべき情報システムの機能、電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下この項及び第五条第二項第三号イにおいて同じ。）の電子計算機の映像面への表示の方法、電磁的記録を出力する書面の様式、電磁的記録において用いられる用語、符号その他の事項、サイバーセキュリティ（サイバーセキュリティ基本法（平成二十六年法律第百四号）第二条に規定するサイバーセキュリティをいう。同号ロにおいて同じ。）に係る事項、クラウド・コンピューティング・サービス関連技術（官民データ活用推進基本法（平成二十八年法律第百三号）第二条第四項に規定するクラウド・コンピューティング・サービス関連技術をいう。同号ハ及び第十条において同じ。）を活用した情報システムの利用に係る事項及び情報システムの保守又は管理に係る事項をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律において「地方公共団体情報システムの標準化」とは、住民の利便性の向上、地方公共団体の行政運営の効率化及び地方公共団体情報システムに係る互換性の確保のため、地方公共団体情報システムに必要とされる機能等についての統一的な基準に適合した地方公共団体情報システムを地方公共団体が利用することをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（基本理念）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">地方公共団体情報システムの標準化の推進及び実施は、情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）、行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）、官民データ活用推進基本法及びデジタル社会形成基本法（令和三年法律第三十五号）その他の関係法律による施策と相まって、地方公共団体における情報通信技術を活用した行政の推進を図り、もって住民の利便性の向上及び地方公共団体の行政運営の効率化に寄与することを旨として、行われなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="4">
+          <ArticleCaption>（国及び地方公共団体の責務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国は、前条の基本理念にのっとり、地方公共団体情報システムの標準化の推進に関する施策を総合的に講ずる責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">地方公共団体は、前条の基本理念にのっとり、国との連携を図りつつ、地方公共団体情報システムの標準化を実施する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　基本方針</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="5">
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">政府は、地方公共団体情報システムの標準化の推進を図るための基本的な方針（以下この条において「基本方針」という。）を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">基本方針には、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Delete="false" Hide="false" Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">地方公共団体情報システムの標準化の意義及び目標に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">地方公共団体情報システムの標準化の推進のために政府が実施すべき施策に関する基本的な方針</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">各地方公共団体情報システムに共通する基準を定めるべき次に掲げる事項に関する基本的な事項</Sentence>
+              </ItemSentence>
+              <Subitem1 Delete="false" Hide="false" Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">電磁的記録において用いられる用語及び符号の相互運用性の確保その他の地方公共団体情報システムに係る互換性の確保に係る事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">サイバーセキュリティに係る事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">クラウド・コンピューティング・サービス関連技術を活用した地方公共団体情報システムの利用に係る事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Delete="false" Hide="false" Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence WritingMode="vertical">イからハまでに掲げるもののほか、各地方公共団体情報システムに共通する基準を定めるべき事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Delete="false" Hide="false" Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">次条第一項及び第七条第一項の基準（以下「標準化基準」という。）の策定の方法及び時期その他の標準化基準の策定に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Delete="false" Hide="false" Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence WritingMode="vertical">前各号に掲げるもののほか、地方公共団体情報システムの標準化の推進に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣、総務大臣及び所管大臣（標準化対象事務に係る法令又は事務を所管する大臣をいう。以下この条及び次条において同じ。）は、基本方針の案を作成し、閣議の決定を求めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="4" OldStyle="false">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣、総務大臣及び所管大臣は、基本方針の案を作成しようとするときは、あらかじめ、関係行政機関の長に協議するとともに、都道府県知事、市長又は町村長の全国的連合組織（地方自治法（昭和二十二年法律第六十七号）第二百六十三条の三第一項に規定する全国的連合組織で同項の規定による届出をしたものをいう。）その他の関係者の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="5" OldStyle="false">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣、総務大臣及び所管大臣は、第三項の規定による閣議の決定があったときは、遅滞なく、基本方針を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="6" OldStyle="false">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">前三項の規定は、基本方針の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　標準化基準等</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="6">
+          <ArticleCaption>（地方公共団体情報システムの標準化のための基準）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">所管大臣は、その所管する標準化対象事務に係る法令又は事務に係る地方公共団体情報システムに必要とされる機能等（前条第二項第三号イからニまでに掲げる事項を除く。）について、主務省令（所管大臣の発する命令をいう。）で、地方公共団体情報システムの標準化のため必要な基準を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">所管大臣は、標準化対象事務に関する制度の見直し及び情報通信技術の進展その他の情報システムを取り巻く環境の変化を勘案し、前項の基準に検討を加え、必要があると認めるときは、これを変更しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">所管大臣は、第一項の基準を定め、又は変更しようとするときは、あらかじめ、内閣総理大臣及び総務大臣に協議するとともに、地方公共団体その他の関係者の意見を反映させるために必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="7">
+          <ArticleCaption>（各地方公共団体情報システムに共通する基準）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣及び総務大臣は、第五条第二項第三号イからニまでに掲げる事項について、デジタル庁令・総務省令で、地方公共団体情報システムの標準化のため必要な基準を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣及び総務大臣は、情報通信技術の進展その他の情報システムを取り巻く環境の変化を勘案し、前項の基準に検討を加え、必要があると認めるときは、これを変更しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">内閣総理大臣及び総務大臣は、第一項の基準を定め、又は変更しようとするときは、あらかじめ、地方公共団体その他の関係者の意見を反映させるために必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="8">
+          <ArticleCaption>（標準化基準に適合する地方公共団体情報システムの利用）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">地方公共団体情報システムは、標準化基準に適合するものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">地方公共団体は、標準化対象事務以外の事務を地方公共団体情報システムを利用して一体的に処理することが効率的であると認めるときは、前項の規定にかかわらず、当該地方公共団体情報システムに係る互換性が確保される場合に限り、標準化基準に適合する当該地方公共団体情報システムの機能等について当該事務を処理するため必要な最小限度の改変又は追加を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="4">
+        <ChapterTitle>第四章　補則</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="9">
+          <ArticleCaption>（国の措置等）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国は、地方公共団体情報システムが標準化基準に適合しているかどうかの確認を地方公共団体が円滑に実施できるようにするために必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="2" OldStyle="false">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国は、地方公共団体における地方公共団体情報システムの標準化の状況を把握するための調査を行うとともに、地方公共団体に対し、地方公共団体情報システムの標準化のために必要な助言、情報の提供その他の措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Hide="false" Num="3" OldStyle="false">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">都道府県は、市町村（特別区を含む。）に対し、地方公共団体情報システムの標準化のために必要な助言、情報の提供その他の措置を講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="10">
+          <ArticleCaption>（クラウド・コンピューティング・サービス関連技術の活用）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">地方公共団体は、デジタル社会形成基本法第二十九条に規定する国による環境の整備に関する措置の状況を踏まえつつ、当該環境においてクラウド・コンピューティング・サービス関連技術を活用して地方公共団体情報システムを利用するよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="11">
+          <ArticleCaption>（財政上の措置）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">国は、地方公共団体情報システムの標準化のために必要な財政上の措置を講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="12">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律の規定に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="13">
+          <ArticleCaption>（政令への委任）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">この法律に定めるもののほか、この法律の実施のため必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">この法律は、令和三年九月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphCaption>（検討）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、この法律の施行の状況について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
