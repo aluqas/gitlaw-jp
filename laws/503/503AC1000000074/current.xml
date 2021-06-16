@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Reiwa" Year="03" Num="074" PromulgateMonth="6" PromulgateDay="16" LawType="Act"><LawNum>令和三年法律第七十四号</LawNum>
+  
+  <LawBody>
+    <LawTitle Kana="とくていいしわたひがいけんせつぎょうむろうどうしゃとうにたいするきゅうふきんとうのしきゅうにかんするほうりつ" Abbrev="" AbbrevKana="">特定石綿被害建設業務労働者等に対する給付金等の支給に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　給付金等の支給</ChapterTitle>
+        <ArticleRange>（第三条―第十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　特定石綿被害建設業務労働者等認定審査会</ChapterTitle>
+        <ArticleRange>（第十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第十七条―第二十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（趣旨）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律は、石綿にさらされる建設業務に従事した労働者等が石綿を吸入することにより発生する中皮腫その他の疾病にかかり精神上の苦痛を受けたことに係る最高裁判所平成三〇年（受）第一四五一号、第一四五二号令和三年五月一七日第一小法廷判決及び最高裁判所平成三一年（受）第四九五号令和三年五月一七日第一小法廷判決並びに大阪高等裁判所平成二八年（ネ）第九八七号平成三〇年八月三一日第四民事部判決において、国が労働安全衛生法（昭和四十七年法律第五十七号）に基づく権限を行使しなかったことは、労働者の安全及び健康の確保という同法の目的等に照らして著しく合理性を欠くものであるとして、国の責任が認められたことに鑑み、これらの判決において国の責任が認められた者と同様の苦痛を受けている者について、その損害の迅速な賠償を図るため、特定石綿被害建設業務労働者等に対する給付金等の支給について定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律において「特定石綿ばく露建設業務」とは、日本国内において行われた石綿にさらされる建設業務（土木、建築その他工作物の建設、改造、保存、修理、変更、破壊若しくは解体の作業若しくはこれらの作業の準備の作業に係る業務又はこれに付随する業務をいう。）のうち、次に掲げる業務をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>石綿の吹付けの作業に係る業務（昭和四十七年十月一日から昭和五十年九月三十日までの間に行われたものに限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>屋内作業場であって厚生労働省令で定めるものにおいて行われた作業に係る業務（昭和五十年十月一日から平成十六年九月三十日までの間に行われたものに限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「石綿関連疾病」とは、石綿を吸入することにより発生する次に掲げる疾病をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>中皮腫</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>気管支又は肺の悪性新生物（第四条において「肺がん」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>著しい呼吸機能障害を伴うびまん性胸膜肥厚</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>石綿肺（じん肺法（昭和三十五年法律第三十号）第四条第二項に規定するじん肺管理区分（第四条第一項及び第五条第二項において単に「じん肺管理区分」という。）が管理二、管理三若しくは管理四である者又はこれに相当する者に係るものに限る。第四条第二項において同じ。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>良性石綿胸水</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>この法律において「特定石綿被害建設業務労働者等」とは、次に掲げる者であって特定石綿ばく露建設業務に従事することにより石綿関連疾病にかかったものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>労働基準法（昭和二十二年法律第四十九号）第九条に規定する労働者（同居の親族のみを使用する事業又は事務所に使用される者及び家事使用人を除く。以下この項において「労働者」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>厚生労働省令で定める数以下の労働者を使用する事業の事業主（事業主が法人その他の団体であるときは、その代表者）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>前号の事業主が行う事業に従事する者（労働者を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>労働者を使用しないで事業を行うことを常態とする者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>前号に掲げる者が行う事業に従事する者（労働者を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　給付金等の支給</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（給付金の支給）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、この法律の定めるところにより、特定石綿被害建設業務労働者等に対し、給付金を支給する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特定石綿被害建設業務労働者等が死亡したときは、その者の遺族は、自己の名で、その者の給付金の支給を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>給付金の支給を受けることができる遺族は、特定石綿被害建設業務労働者等の配偶者（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にあった者を含む。）、子、父母、孫、祖父母又は兄弟姉妹とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>給付金の支給を受けるべき遺族の順位は、前項に規定する順序による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>給付金の支給を受けるべき同順位の遺族が二人以上あるときは、その一人がした請求は、その全額について全員のためにしたものとみなし、その一人に対してした支給は、全員に対してしたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（給付金の額）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>給付金の額は、次の各号に掲げる特定石綿被害建設業務労働者等の区分に応じ、当該各号に定める額とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>石綿関連疾病により死亡した者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>次のイ又はロに掲げる区分に応じ、それぞれイ又はロに定める額</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence>ロ以外の者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>千三百万円</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence>石綿肺により死亡した者（じん肺管理区分が管理二若しくは管理三であった者（じん肺法第二条第一項第二号に規定する合併症のうち厚生労働省令で定めるもの（第三号イ（１）及びロ（１）において「指定合併症」という。）にかかった者を除く。）又はこれに相当する者に限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>千二百万円</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>前号に掲げるもののほか、中皮腫、肺がん若しくは著しい呼吸機能障害を伴うびまん性胸膜肥厚にかかった者、石綿肺にかかった者（じん肺管理区分が管理四である者又はこれに相当する者に限る。）又は良性石綿胸水にかかった者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>千百五十万円</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>前二号に掲げるもののほか、石綿肺にかかった者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>次のイ又はロに掲げる区分に応じ、それぞれイ又はロに定める額</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence>じん肺管理区分が管理三である者又はこれに相当する者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>次の（１）又は（２）に掲げる区分に応じ、それぞれ（１）又は（２）に定める額</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Column Num="1">
+                      <Sentence>指定合併症にかかった者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence>九百五十万円</Sentence>
+                    </Column>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Column Num="1">
+                      <Sentence>（１）以外の者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence>八百万円</Sentence>
+                    </Column>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence>じん肺管理区分が管理二である者又はこれに相当する者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence>次の（１）又は（２）に掲げる区分に応じ、それぞれ（１）又は（２）に定める額</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Column Num="1">
+                      <Sentence>指定合併症にかかった者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence>七百万円</Sentence>
+                    </Column>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Column Num="1">
+                      <Sentence>（１）以外の者</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence>五百五十万円</Sentence>
+                    </Column>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特定石綿被害建設業務労働者等であって、第二条第一項各号に規定する期間のうち特定石綿ばく露建設業務に従事した期間が、次の表の上欄に掲げる石綿関連疾病に応じてそれぞれ同表の下欄に定める期間を下回るものに係る給付金の額は、前項の規定にかかわらず、同項各号に定める額に百分の九十を乗じて得た額とする。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>肺がん又は石綿肺</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>十年</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>著しい呼吸機能障害を伴うびまん性胸膜肥厚</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>三年</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn Valign="top">
+                    <Sentence>中皮腫又は良性石綿胸水</Sentence>
+                  </TableColumn>
+                  <TableColumn Valign="top">
+                    <Sentence>一年</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特定石綿被害建設業務労働者等（肺がんにかかった者に限る。）であって、喫煙の習慣を有したものに係る給付金の額は、前二項の規定にかかわらず、第一項第一号イ又は第二号に定める額（前項の規定の適用がある場合にあっては、同項の規定による額）に百分の九十を乗じて得た額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（給付金に係る認定等）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>厚生労働大臣は、給付金の支給を受けようとする者の請求に基づき、当該支給を受ける権利の認定を行い、当該認定を受けた者に対し、給付金を支給する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">前項の給付金の支給の請求（次条第一項及び第三項並びに第七条第一項において単に「請求」という。）は、石綿関連疾病にかかった旨の医師の診断又は石綿肺に係るじん肺法の規定によるじん肺管理区分の決定（じん肺管理区分が管理二、管理三又は管理四と決定された者に係る決定に限る。）があった日（石綿関連疾病により死亡したときは、その死亡した日）から起算して二十年を経過したときは、することができない。</Sentence>
+              <Sentence Num="2">これらの日がこの法律の施行前である場合であって、その日から起算して二十年を経過したときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（厚生労働大臣による調査）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>厚生労働大臣は、前条第一項の認定（次項及び次条第三項において単に「認定」という。）を行うため必要があると認めるときは、請求をした者（第三項及び次条第一項において「請求者」という。）その他の関係人に対して、報告をさせ、文書その他の物件を提出させ、出頭を命じ、又は厚生労働大臣の指定する医師の診断を受けさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>厚生労働大臣は、認定を行うため必要があると認めるときは、関係機関その他の公務所又は公私の団体に照会して必要な事項の報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>請求者が、正当な理由がなくて、第一項の規定による報告をせず、文書その他の物件を提出せず、出頭をせず、又は医師の診断を拒んだときは、厚生労働大臣は、その請求を却下することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（請求に係る審査）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>厚生労働大臣は、請求を受けたときは、当該請求の内容を特定石綿被害建設業務労働者等認定審査会に通知し、次に掲げる事項について審査を求めなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該請求に係る請求者（当該請求者が遺族の場合にあっては、当該請求に係る死亡した者。以下この項において同じ。）が特定石綿ばく露建設業務に従事した期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該請求に係る請求者がかかった石綿関連疾病の種類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該請求に係る請求者が特定石綿ばく露建設業務に従事したことと石綿関連疾病にかかったこととの関係</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>当該請求に係る請求者の喫煙の習慣の有無</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>特定石綿被害建設業務労働者等認定審査会は、前項の規定による審査を求められたときは、同項各号に掲げる事項について審査を行い、その結果を厚生労働大臣に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>厚生労働大臣は、前項の規定による通知があった特定石綿被害建設業務労働者等認定審査会の審査の結果に基づき認定を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（関係機関等の協力）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>関係機関その他の公務所又は公私の団体は、第六条第二項の規定による必要な事項の報告を求められたときは、これに協力するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（追加給付金の支給）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国は、給付金の支給を受けた特定石綿被害建設業務労働者等であって、吸入した石綿により新たに第四条第一項各号（第三号ロ（２）を除く。次条において同じ。）のいずれかに該当するに至ったものに対し、追加給付金を支給する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第三条第二項から第五項までの規定は、追加給付金の支給について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（追加給付金の額）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>追加給付金の額は、第四条第一項各号に掲げる特定石綿被害建設業務労働者等の区分に応じ、同項各号に定める額（同条第二項又は第三項の規定の適用がある場合にあっては、これらの規定による額）から、次の各号に掲げる場合に応じ、それぞれ当該各号に定める額を控除した額とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>初めて追加給付金の支給を受ける場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>第三条第一項の規定により支給された給付金の額</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence>既に追加給付金の支給を受けたことがある場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence>第三条第一項の規定により支給された給付金の額及び前条第一項の規定により支給された追加給付金の額の合計額</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（追加給付金に係る認定等）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>厚生労働大臣は、追加給付金の支給を受けようとする者の請求に基づき、当該支給を受ける権利の認定を行い、当該認定を受けた者に対し、追加給付金を支給する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>第五条第二項及び第六条から第八条までの規定は、前項の認定について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（損害賠償との調整）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>給付金又は追加給付金（以下「給付金等」という。）の支給を受ける権利を有する者に対し、同一の事由について、国により損害の塡補がされた場合（この法律の施行前に、既に国により損害の塡補がされている場合を含む。）においては、国は、その価額の限度において給付金等を支給する義務を免れる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>給付金等の支給を受ける権利を有する者に対し、同一の事由について、国以外の者により民法（明治二十九年法律第八十九号）その他の法律による損害賠償その他これに類するものにより損害の塡補がされたときは、当該損害の塡補の額と支払われるべき給付金等の額のうち損害の塡補に相当する額として厚生労働省令で定める額の合計額が、支払われるべき給付金等の額の二倍に相当する額を超える場合（この法律の施行前に、既に国以外の者により損害の塡補がされている場合を含む。）においては、国は、その超える価額の限度において給付金等を支給する義務を免れる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>国が国家賠償法（昭和二十二年法律第百二十五号）、民法その他の法律による損害賠償の責任を負う場合において、国が給付金等を支給したときは、同一の事由については、国は、その価額の限度においてその損害賠償の責任を免れる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（不正利得の徴収）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>偽りその他不正の手段により給付金等の支給を受けた者があるときは、厚生労働大臣は、国税徴収の例により、その者から、当該給付金等の価額の全部又は一部を徴収することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定による徴収金の先取特権の順位は、国税及び地方税に次ぐものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（譲渡等の禁止）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>給付金等の支給を受ける権利は、譲渡し、担保に供し、又は差し押さえることができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（非課税）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>租税その他の公課は、給付金等を標準として課することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　特定石綿被害建設業務労働者等認定審査会</ChapterTitle>
+        <Article Num="16">
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>厚生労働省に、特定石綿被害建設業務労働者等認定審査会（以下この条において「審査会」という。）を置く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>審査会は、この法律の規定によりその権限に属させられた事項を処理する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前二項に定めるもののほか、審査会の組織及び委員その他審査会に関し必要な事項については、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Num="17">
+          <ArticleCaption>（戸籍事項の無料証明）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>市町村（特別区を含む。以下この条において同じ。）の長（地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項に規定する指定都市においては、区長又は総合区長とする。）は、厚生労働大臣又は給付金等の支給を受けようとする者に対して、当該市町村の条例で定めるところにより、給付金等の支給を受けようとする者の戸籍に関し、無料で証明を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（独立行政法人労働者健康安全機構への事務の委託）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>厚生労働大臣は、給付金等の支払に関する事務を独立行政法人労働者健康安全機構（次条第一項及び第二十条において「機構」という。）に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（特定石綿被害建設業務労働者等給付金等支払基金）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前条の規定により業務の委託を受けた機構は、給付金等の支払業務（以下この項及び次条第一項において「給付金等支払業務」という。）に要する費用（給付金等支払業務の執行に要する費用を含む。次条第一項において同じ。）に充てるため、特定石綿被害建設業務労働者等給付金等支払基金（次項において「基金」という。）を設ける。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>基金は、次条第一項の規定により交付された資金をもって充てるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（交付金）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>政府は、予算の範囲内において、第十八条の規定により業務の委託を受けた機構に対し、給付金等支払業務に要する費用に充てるための資金を交付するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>政府は、前項の規定により機構に対して交付する資金については、必要な財政上の措置を講じて、確保するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律に定める厚生労働大臣の権限は、厚生労働省令で定めるところにより、その一部を都道府県労働局長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence>前項の規定により都道府県労働局長に委任された権限は、厚生労働省令で定めるところにより、労働基準監督署長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（厚生労働省令への委任）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>この法律に定めるもののほか、給付金等の支給手続その他の必要な事項は、厚生労働省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、第三章、第十八条から第二十条まで及び第二十二条並びに附則第五条から第七条までの規定は、令和四年三月三十一日までの間において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>国は、国以外の者による特定石綿被害建設業務労働者等に対する損害賠償その他特定石綿被害建設業務労働者等に対する補償の在り方について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
