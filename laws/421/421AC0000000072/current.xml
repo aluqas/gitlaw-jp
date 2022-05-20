@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="072" Year="21" PromulgateMonth="07" PromulgateDay="08"><LawNum>平成二十一年法律第七十二号</LawNum><LawBody><LawTitle Kana="えねるぎーきょうきゅうじぎょうしゃによるえねるぎーげんのかんきょうてきごうりようおよびかせきえねるぎーげんりょうのゆうこうなりようのそくしんにかんするほうりつ" Abbrev="エネルギー供給構造高度化法" AbbrevKana="え">エネルギー供給事業者によるエネルギー源の環境適合利用及び化石エネルギー原料の有効な利用の促進に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　基本方針等</ChapterTitle>
+        <ArticleRange>（第三条・第四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　特定エネルギー供給事業者に係る措置</ChapterTitle>
+        <ArticleRange>（第五条―第十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　特定燃料製品供給事業者に係る措置</ChapterTitle>
+        <ArticleRange>（第十一条―第十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <ArticleRange>（第十五条―第二十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第二十一条―第二十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、エネルギー供給事業者によって供給されるエネルギーの供給源の相当部分を化石燃料が占めており、かつ、エネルギー供給事業に係る環境への負荷を低減することが重要となっている状況に鑑み、エネルギー供給事業者によるエネルギー源の環境適合利用及び化石エネルギー原料の有効な利用を促進するために必要な措置を講ずることにより、エネルギー供給事業の持続的かつ健全な発展を通じたエネルギーの安定的かつ適切な供給の確保を図り、もって国民経済の健全な発展に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「エネルギー供給事業者」とは、次に掲げる者をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">電気事業者（電気事業法（昭和三十九年法律第百七十号）第二条第一項第三号に規定する小売電気事業者、同項第九号に規定する一般送配電事業者及び同法第二十七条の十九第一項に規定する登録特定送配電事業者をいう。以下同じ。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">熱供給事業者（熱供給事業法（昭和四十七年法律第八十八号）第二条第三項に規定する熱供給事業者をいう。以下同じ。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">燃料製品供給事業者（化石エネルギー原料から製造される石油製品、可燃性天然ガス製品その他の製品のうち、燃焼の用に供されるものとして政令で定めるもの（以下「燃料製品」という。）の製造（第三者に委託して製造することその他の製造に準ずる行為として燃料製品の種類ごとに政令で定める行為を含む。第七条において同じ。）をして供給する事業を行う者をいう。第八項において同じ。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「非化石エネルギー源」とは、電気、熱又は燃料製品のエネルギー源として利用することができるもののうち、化石燃料（原油、石油ガス、可燃性天然ガス及び石炭並びにこれらから製造される燃料（その製造に伴い副次的に得られるものであって燃焼の用に供されるものを含み、水素その他政令で定めるもの（第九条において「水素等」という。）を除く。）であって政令で定めるものをいう。第四項及び第五項において同じ。）以外のものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「再生可能エネルギー源」とは、太陽光、風力その他非化石エネルギー源のうち、エネルギー源として永続的に利用することができると認められるものとして政令で定めるものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「エネルギー源の環境適合利用」とは、電気、熱若しくは燃料製品のエネルギー源として非化石エネルギー源を利用すること（電気事業者又は熱供給事業者にあっては、エネルギー源として非化石エネルギー源を利用した電気又は熱を他の者から調達することを含む。）又は電気事業者が電気のエネルギー源としての化石燃料の利用に伴って発生する二酸化炭素を回収し、及び貯蔵する措置（これに相当する措置を含む。）として経済産業省令で定めるものを行うこと（当該措置を行った他の者から電気を調達することを含む。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「化石エネルギー原料」とは、化石燃料のうち、燃料製品の原料であってエネルギー源となるものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「化石エネルギー原料の有効な利用」とは、環境への負荷の低減に配慮しつつ、化石エネルギー原料の単位数量当たりの当該化石エネルギー原料から燃料製品を製造（第三者に委託して製造することを含む。）して当該燃料製品を回収した後に残存する物として経済産業省令で定めるものの経済産業省令で定める方法により算出される発生量を減少させること又は化石エネルギー原料の単位数量当たりの当該化石エネルギー原料から製造される燃料製品の経済産業省令で定める方法により算出される生産量を増加させることをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定エネルギー供給事業者」とは、エネルギー供給事業者のうち、エネルギー源の環境適合利用が技術的及び経済的に可能であり、かつ、その促進が特に必要であるものとして政令で定める事業を行うものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定燃料製品供給事業者」とは、燃料製品供給事業者のうち、化石エネルギー原料の有効な利用が技術的及び経済的に可能であり、かつ、その促進が特に必要であるものとして政令で定める事業を行うものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　基本方針等</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（基本方針）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、エネルギー供給事業者によるエネルギー源の環境適合利用及び化石エネルギー原料の有効な利用の促進に関する基本方針（以下「基本方針」という。）を定め、これを公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基本方針は、エネルギー源の環境適合利用及び化石エネルギー原料の有効な利用のためにエネルギー供給事業者が講ずべき措置に関する基本的な事項、エネルギー供給事業者によるエネルギー源の環境適合利用及び化石エネルギー原料の有効な利用の促進のための施策に関する基本的な事項その他エネルギー供給事業者によるエネルギー源の環境適合利用及び化石エネルギー原料の有効な利用の促進に関する事項について、エネルギー需給の長期見通し、エネルギー供給事業者によるエネルギー源の環境適合利用及び化石エネルギー原料の有効な利用の状況、エネルギー源の環境適合利用及び化石エネルギー原料の有効な利用に関する技術水準その他の事情を勘案し、環境の保全に留意しつつ定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、基本方針を定めようとするときは、エネルギー供給事業者によるエネルギー源の環境適合利用の促進に関する事項について環境大臣その他関係行政機関の長に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第二項の事情の変動のため必要があるときは、基本方針を改定するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項から第三項までの規定は、前項の規定による基本方針の改定に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（エネルギー供給事業者の責務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">エネルギー供給事業者は、その事業を行うに際して、基本方針の定めるところに留意して、エネルギー源の環境適合利用及び化石エネルギー原料の有効な利用の促進に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　特定エネルギー供給事業者に係る措置</ChapterTitle>
+        <Article Num="5">
+          <ArticleCaption>（特定エネルギー供給事業者の判断の基準となるべき事項）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、特定エネルギー供給事業者によるエネルギー源の環境適合利用の適切かつ有効な実施を図るため、特定エネルギー供給事業者が行う事業ごとに、エネルギー源の環境適合利用の目標及び次に掲げる事項に関し、特定エネルギー供給事業者の判断の基準となるべき事項を定め、これを公表するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">推進すべきエネルギー源の環境適合利用の実施方法に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">再生可能エネルギー源の利用に係る費用の負担の方法その他の再生可能エネルギー源の円滑な利用の実効の確保に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他エネルギー源の環境適合利用の目標を達成するために計画的に取り組むべき措置に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する判断の基準となるべき事項は、エネルギー需給の長期見通し、特定エネルギー供給事業者によるエネルギー源の環境適合利用の状況、エネルギー源の環境適合利用に関する技術水準、再生可能エネルギー源の利用に係る経済性その他の事情を勘案して定めるものとし、これらの事情の変動に応じて必要な改定をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（指導及び助言）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、特定エネルギー供給事業者によるエネルギー源の環境適合利用の適確な実施を確保するため必要があると認めるときは、特定エネルギー供給事業者に対し、前条第一項に規定する判断の基準となるべき事項を勘案して、エネルギー源の環境適合利用について必要な指導及び助言をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（計画の作成）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定エネルギー供給事業者のうち前事業年度におけるその供給する電気（電気事業者が他の電気事業者に供給したものを除く。）若しくは熱（熱供給事業者が他の熱供給事業者に供給したものを除く。）の供給量又はその製造し供給する燃料製品の供給量が政令で定める要件に該当するものは、経済産業省令で定めるところにより、第五条第一項に規定する判断の基準となるべき事項において定められたエネルギー源の環境適合利用の目標に関し、その達成のための計画を作成し、経済産業大臣に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の前事業年度における供給する電気若しくは熱の供給量又は製造し供給する燃料製品の供給量は、政令で定めるところにより算定する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（勧告及び命令）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前条第一項に規定する特定エネルギー供給事業者のエネルギー源の環境適合利用の状況が第五条第一項に規定する判断の基準となるべき事項に照らして著しく不十分であると認めるときは、当該特定エネルギー供給事業者に対し、その判断の根拠を示して、エネルギー源の環境適合利用に関し必要な措置をとるべき旨の勧告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項に規定する勧告を受けた特定エネルギー供給事業者が、正当な理由がなくてその勧告に係る措置をとらなかったときは、総合資源エネルギー調査会の意見を聴いて、当該特定エネルギー供給事業者に対し、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（独立行政法人エネルギー・金属鉱物資源機構の行う非化石エネルギー源の調達等に関する情報の提供）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">独立行政法人エネルギー・金属鉱物資源機構は、第七条第一項に規定する特定エネルギー供給事業者の依頼に応じて、水素等の調達若しくは貯蔵又は二酸化炭素の貯蔵に関して必要な情報の提供を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（電気に係るエネルギー源の環境適合利用に関する情報の提供）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七条第一項に規定する特定エネルギー供給事業者（他の者から調達する電気の量が政令で定める要件に該当する電気事業者に限る。）に対して電気の供給を行う者は、経済産業省令で定めるところにより、当該特定エネルギー供給事業者の依頼に応じて、その供給した電気に係るエネルギー源の環境適合利用に関して必要な情報を提供するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　特定燃料製品供給事業者に係る措置</ChapterTitle>
+        <Article Num="11">
+          <ArticleCaption>（特定燃料製品供給事業者の判断の基準となるべき事項）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、特定燃料製品供給事業者による化石エネルギー原料の有効な利用の適切かつ有効な実施を図るため、特定燃料製品供給事業者が行う事業ごとに、化石エネルギー原料の有効な利用の目標及び当該目標を達成するために計画的に取り組むべき措置に関し、特定燃料製品供給事業者の判断の基準となるべき事項を定め、これを公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する判断の基準となるべき事項は、エネルギー需給の長期見通し、特定燃料製品供給事業者による化石エネルギー原料の有効な利用の状況、化石エネルギー原料の有効な利用に関する技術水準その他の事情を勘案して定めるものとし、これらの事情の変動に応じて必要な改定をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（指導及び助言）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、特定燃料製品供給事業者による化石エネルギー原料の有効な利用の適確な実施を確保するため必要があると認めるときは、特定燃料製品供給事業者に対し、前条第一項に規定する判断の基準となるべき事項を勘案して、化石エネルギー原料の有効な利用について必要な指導及び助言をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（計画の作成）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定燃料製品供給事業者のうち前事業年度におけるその使用する化石エネルギー原料の数量が政令で定める要件に該当するものは、経済産業省令で定めるところにより、第十一条第一項に規定する判断の基準となるべき事項において定められた化石エネルギー原料の有効な利用の目標に関し、その達成のための計画を作成し、経済産業大臣に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の前事業年度における使用する化石エネルギー原料の数量は、政令で定めるところにより算定する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（勧告及び命令）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前条第一項に規定する特定燃料製品供給事業者の化石エネルギー原料の有効な利用の状況が第十一条第一項に規定する判断の基準となるべき事項に照らして著しく不十分であると認めるときは、当該特定燃料製品供給事業者に対し、その判断の根拠を示して、化石エネルギー原料の有効な利用に関し必要な措置をとるべき旨の勧告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項に規定する勧告を受けた特定燃料製品供給事業者が、正当な理由がなくてその勧告に係る措置をとらなかったときは、総合資源エネルギー調査会の意見を聴いて、当該特定燃料製品供給事業者に対し、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <Article Num="15">
+          <ArticleCaption>（財政上の措置等）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、エネルギー供給事業者によるエネルギー源の環境適合利用及び化石エネルギー原料の有効な利用を促進するために必要な財政上の措置その他の措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（再生可能エネルギー源の利用に要する費用の価格への反映）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、特定エネルギー供給事業者による再生可能エネルギー源の利用の円滑化を図るために再生可能エネルギー源の利用に要する費用を当該特定エネルギー供給事業者による電気、熱又は燃料製品の供給の対価に適切に反映させることが重要であることに鑑み、その費用の円滑かつ適正な転嫁に寄与するため、この法律の趣旨及び内容について、広報活動等を通じて国民に周知を図り、その理解と協力を得るよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（報告及び立入検査）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第八条及び第十四条の規定の施行に必要な限度において、政令で定めるところにより、特定エネルギー供給事業者若しくは特定燃料製品供給事業者に対し、その業務の状況に関し報告させ、又はその職員に、特定エネルギー供給事業者若しくは特定燃料製品供給事業者の事務所、工場若しくは事業場に立ち入り、設備、帳簿、書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係人に提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（環境大臣との関係）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、エネルギー供給事業者によるエネルギー源の環境適合利用の促進のための施策の実施に当たり、当該施策の実施が環境の保全に関する施策に関連する場合には、環境大臣と緊密に連絡し、及び協力して行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定により経済産業大臣の権限に属する事項は、経済産業省令で定めるところにより、経済産業局長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Num="21">
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第八条第二項又は第十四条第二項の規定による命令に違反したときは、当該違反行為をした者は、百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第一項又は第十三条第一項の規定による提出をしなかったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条第一項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前二条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して各本条の刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後三年を経過した場合において、この法律の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、政府は、この法律の施行後二年を経過した場合において、太陽光を変換して得られる電気の買取りに係る価格等の太陽光の利用に係る費用の負担の方法その他の太陽光の円滑な利用の実効の確保に関する取組の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月一八日法律第七二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二〇日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第三十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中エネルギー供給事業者による非化石エネルギー源の利用及び化石エネルギー原料の有効な利用の促進に関する法律第二条第六項の改正規定、第三条の規定、第六条中電気事業法第二十七条の二十七第三項の改正規定、同項を同条第四項とし、同条第二項の次に一項を加える改正規定、同法第三十三条の三の改正規定（「独立行政法人石油天然ガス・金属鉱物資源機構」を「独立行政法人エネルギー・金属鉱物資源機構」に改める部分に限る。）及び同法第百二十八条第一号の改正規定並びに次条並びに附則第五条から第九条まで、第十二条及び第十五条の規定、附則第十六条中租税特別措置法（昭和三十二年法律第二十六号）第二十八条第一項第三号、第五十七条の四第五項第三号及び第六十六条の十一第一項第三号の改正規定並びに附則第十七条、第十八条、第二十四条から第二十六条まで及び第二十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（処分等の効力）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（前条第二号に掲げる規定にあっては、当該規定。以下この条及び附則第十二条において同じ。）の施行前にこの法律による改正前のそれぞれの法律（これらに基づく命令を含む。以下この条において同じ。）の規定によってした処分、手続その他の行為であって、この法律による改正後のそれぞれの法律の規定に相当の規定があるものは、この附則に別段の定めがあるものを除き、この法律による改正後のそれぞれの法律の相当の規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及び附則第五条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後の規定の施行の状況について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
