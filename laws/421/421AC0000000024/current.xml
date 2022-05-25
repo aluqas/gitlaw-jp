@@ -568,7 +568,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">外国等に対する訴状その他これに類する書類及び訴訟手続その他の裁判所における手続の最初の期日の呼出状（以下この条及び次条第一項において「訴状等」という。）の送達は、次に掲げる方法によりするものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外国等に対する訴状その他これに類する書類又は電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。）に記録されている事項を出力することにより作成した書面及び訴訟手続その他の裁判所における手続の最初の期日の呼出状又は電子呼出状（民事訴訟法（平成八年法律第百九号）第九十四条第一項第一号に規定する電子呼出状をいう。）について同法第百九条の規定により作成した書面（以下この条及び次条第一項において「訴状等」という。）の送達は、次に掲げる方法によりするものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -590,7 +590,7 @@
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">当該外国等が送達の方法として受け入れるその他の方法（民事訴訟法（平成八年法律第百九号）に規定する方法であるものに限る。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該外国等が送達の方法として受け入れるその他の方法（民事訴訟法に規定する方法であるものに限る。）</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
@@ -626,19 +626,19 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条第一項及び第二項の規定は、前項に規定する判決についての判決書又は民事訴訟法第二百五十四条第二項の調書（次項及び第四項において「判決書等」という。）の当該外国等に対する送達について準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項及び第二項の規定は、前項に規定する判決についての電子判決書（民事訴訟法第二百五十二条第一項に規定する電子判決書をいう。）又は同法第二百五十四条第二項の電子調書に記録されている事項を記載した書面であって裁判所書記官が当該書面の内容が当該電子判決書又は当該電子調書に記録されている事項と同一であることを証明したもの（次項及び第四項において「電子判決書等記録事項証明書」という。）の当該外国等に対する送達について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項に規定するもののほか、判決書等の送達に関し必要な事項は、最高裁判所規則で定める。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定するもののほか、電子判決書等記録事項証明書の送達に関し必要な事項は、最高裁判所規則で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項に規定する判決に対して外国等がする上訴又は異議の申立ては、民事訴訟法第二百八十五条本文（同法第三百十三条（同法第三百十八条第五項において準用する場合を含む。）において準用する場合を含む。）又は第三百五十七条本文（同法第三百六十七条第二項において準用する場合を含む。）若しくは第三百七十八条第一項本文の規定にかかわらず、判決書等の送達があった日又は第二項において準用する前条第二項の規定により送達があったものとみなされる日から四月の不変期間内に提起しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項に規定する判決に対して外国等がする上訴又は異議の申立ては、民事訴訟法第二百八十五条本文（同法第三百十三条（同法第三百十八条第五項において準用する場合を含む。）において準用する場合を含む。）又は第三百五十七条本文（同法第三百六十七条第二項において準用する場合を含む。）若しくは第三百七十八条第一項本文の規定にかかわらず、電子判決書等記録事項証明書の送達があった日又は第二項において準用する前条第二項の規定により送達があったものとみなされる日から四月の不変期間内に提起しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -705,6 +705,16 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="111">
+        <ArticleCaption>（外国等に対する我が国の民事裁判権に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第百十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条の規定による改正後の外国等に対する我が国の民事裁判権に関する法律第二十一条第二項から第四項までの規定は、訴えに係る事件であって施行日以後に提起されるものに係る判決について適用し、訴えに係る事件であって施行日前に提起されたものに係る判決については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="125">
