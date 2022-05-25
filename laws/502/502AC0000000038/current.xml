@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Reiwa" Lang="ja" LawType="Act" Num="038" Year="02" PromulgateMonth="06" PromulgateDay="03">
+  <LawNum>令和二年法律第三十八号</LawNum>
+  <LawBody>
+    <LawTitle Kana="とくていでじたるぷらっとふぉーむのとうめいせいおよびこうせいせいのこうじょうにかんするほうりつ" Abbrev="" AbbrevKana="">特定デジタルプラットフォームの透明性及び公正性の向上に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　特定デジタルプラットフォームの透明性及び公正性の向上に関する措置等</ChapterTitle>
+        <ArticleRange>（第四条―第十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　雑則</ChapterTitle>
+        <ArticleRange>（第十七条―第二十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　罰則</ChapterTitle>
+        <ArticleRange>（第二十三条―第二十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、近年の情報通信技術の分野における技術革新の進展により、データを活用した新たな産業が創出され、世界的規模で社会経済構造の変化が生じ、デジタルプラットフォームの果たす役割の重要性が増大している中で、デジタルプラットフォーム提供者の自主性及び自律性に配慮しつつ、商品等提供利用者等の利益の保護を図ることが課題となっている状況に鑑み、特定デジタルプラットフォーム提供者の指定、特定デジタルプラットフォーム提供者による提供条件等の開示、特定デジタルプラットフォームの透明性及び公正性についての評価その他の措置を講ずることにより、特定デジタルプラットフォームの透明性及び公正性の向上を図り、もって特定デジタルプラットフォームに関する公正かつ自由な競争の促進を通じて、国民生活の向上及び国民経済の健全な発展に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「デジタルプラットフォーム」とは、多数の者が利用することを予定して電子計算機を用いた情報処理により構築した場であって、当該場において商品、役務又は権利（以下「商品等」という。）を提供しようとする者の当該商品等に係る情報を表示することを常態とするもの（次の各号のいずれかに掲げる関係を利用したものに限る。）を、多数の者にインターネットその他の高度情報通信ネットワーク（放送法（昭和二十五年法律第百三十二号）第二条第一号に規定する放送に用いられるものを除く。）を通じて提供する役務をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該役務を利用して商品等を提供しようとする者（以下この号及び次号において「提供者」という。）の増加に伴い、当該商品等の提供を受けようとする者（以下この号において「被提供者」という。）の便益が著しく増進され、これにより被提供者が増加し、その増加に伴い提供者の便益が著しく増進され、これにより提供者が更に増加する関係</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該役務を利用する者（提供者を除く。以下この号において同じ。）の増加に伴い、他の当該役務を利用する者の便益が著しく増進され、これにより当該役務を利用する者が更に増加するとともに、その増加に伴い提供者の便益も著しく増進され、これにより提供者も増加する関係</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「利用者」とは、デジタルプラットフォームを利用する者をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「商品等提供利用者」とは、デジタルプラットフォームを商品等を提供する目的で利用する者をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「一般利用者」とは、商品等提供利用者以外の利用者をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「デジタルプラットフォーム提供者」とは、デジタルプラットフォームを単独で又は共同して提供する事業者をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定デジタルプラットフォーム」とは、第四条第一項の規定により指定されたデジタルプラットフォーム提供者（以下「特定デジタルプラットフォーム提供者」という。）の当該指定に係るデジタルプラットフォームをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（基本理念）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">デジタルプラットフォームの透明性及び公正性の向上に関する施策は、デジタルプラットフォームが、利用者の便益の増進に寄与し、我が国の経済社会の活力の向上及び持続的発展にとって重要な役割を果たすものであることに鑑み、デジタルプラットフォーム提供者がデジタルプラットフォームの透明性及び公正性の向上のための取組を自主的かつ積極的に行うことを基本とし、国の関与その他の規制を必要最小限のものとすることによりデジタルプラットフォーム提供者の創意と工夫が十分に発揮されること及びデジタルプラットフォーム提供者と商品等提供利用者との間の取引関係における相互理解の促進を図ることを旨として、行われなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　特定デジタルプラットフォームの透明性及び公正性の向上に関する措置等</ChapterTitle>
+        <Article Num="4">
+          <ArticleCaption>（特定デジタルプラットフォーム提供者の指定）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、デジタルプラットフォームのうち、デジタルプラットフォームにより提供される場に係る政令で定める事業の区分ごとに、その事業の規模が当該デジタルプラットフォームにおける商品等の売上額の総額、利用者の数その他の当該事業の規模を示す指標により政令で定める規模以上であるものを提供するデジタルプラットフォーム提供者を、デジタルプラットフォームの透明性及び公正性の自主的な向上に努めることが特に必要な者として、指定するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">デジタルプラットフォーム提供者は、その提供するデジタルプラットフォームが前項に規定するデジタルプラットフォームに該当するときは、経済産業省令で定めるところにより、当該デジタルプラットフォームに関し、同項の政令で定める事業の区分ごとに経済産業省令で定める事項を経済産業大臣に届け出なければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その提供するデジタルプラットフォームが特定デジタルプラットフォームであるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の政令で定める事業の区分及び規模は、デジタルプラットフォームが国民生活において広く利用されている状況及び一部のデジタルプラットフォームに対する利用が集中している状況も踏まえ、デジタルプラットフォーム提供者と商品等提供利用者との間の取引の実情及び動向並びにこの法律に基づく商品等提供利用者の利益の保護の必要性（他の法律によるデジタルプラットフォームにより提供される場に係る事業の規制及び適正化のための措置その他の当該事業に関する施策の実施状況を含む。）を勘案し、前条の基本理念にのっとり、同項の規定による指定が必要な最小限度の範囲に限って行われるよう定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（特定デジタルプラットフォームの提供条件等の開示）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォーム提供者は、利用者（特定デジタルプラットフォームを利用するものに限る。以下この項、第九条第四項並びに第十条第一項及び第二項において同じ。）に対して特定デジタルプラットフォームを提供する場合の条件（以下この条及び次条第一項において「提供条件」という。）を開示するに当たっては、当該提供条件に関する利用者の理解の増進が図られるよう、経済産業省令で定める方法により、これを行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォーム提供者は、次の各号に掲げる者に対して特定デジタルプラットフォームを提供するときは、当該者に対し、当該特定デジタルプラットフォームの提供条件として当該各号に定める事項を開示しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">商品等提供利用者（特定デジタルプラットフォームを利用するものに限る。以下この条、第七条第一項及び第三項、第十二条第三項並びに第十三条第一号及び第二号において同じ。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該特定デジタルプラットフォームの提供を拒絶することがある場合における拒絶するかどうかを判断するための基準</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該特定デジタルプラットフォームの提供に併せて商品等提供利用者に対して自己の指定する商品若しくは権利を購入すること又は自己の指定する他の役務の有償の提供を受けることを要請する場合におけるその内容及び理由</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該特定デジタルプラットフォームにより提供される場において、一般利用者（特定デジタルプラットフォームを利用するものに限る。以下この条において同じ。）が検索により求める商品等に係る情報その他の商品等に係る情報に順位を付して表示する場合における、当該順位を決定するために用いられる主要な事項（商品等提供利用者からの当該特定デジタルプラットフォーム提供者に対する広告宣伝の費用その他の金銭の支払が、当該順位に影響を及ぼす可能性がある場合には、その旨を含む。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該特定デジタルプラットフォーム提供者が商品等提供データ（商品等提供利用者が提供する商品等の売上額の推移に係るデータその他の当該商品等提供利用者が提供する商品等に係るデータをいう。以下このニ及びホにおいて同じ。）を取得し、又は使用する場合における当該商品等提供データの内容及びその取得又は使用に関する条件</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">商品等提供利用者が当該特定デジタルプラットフォーム提供者の保有する商品等提供データを取得し、又は当該特定デジタルプラットフォーム提供者をして当該商品等提供データを他の者に提供させることの可否並びに当該商品等提供データの取得又は提供が可能な場合における当該商品等提供データの内容並びにその取得又は提供に関する方法及び条件</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="6">
+                <Subitem1Title>ヘ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">商品等提供利用者が当該特定デジタルプラットフォーム提供者に対して苦情の申出又は協議の申入れをするための方法</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="7">
+                <Subitem1Title>ト</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">イからヘまでに掲げるもののほか、商品等提供利用者に対する当該特定デジタルプラットフォームの提供条件のうち開示することが特に必要なものとして経済産業省令で定める事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">一般利用者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前号ハに掲げる事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該特定デジタルプラットフォーム提供者が商品等購入データ（一般利用者による商品等に係る情報の検索若しくは閲覧又は商品等の購入に係るデータをいう。以下このロにおいて同じ。）を取得し、又は使用する場合における当該商品等購入データの内容及びその取得又は使用に関する条件</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">イ及びロに掲げるもののほか、一般利用者に対する当該特定デジタルプラットフォームの提供条件のうち開示することが特に必要なものとして経済産業省令で定める事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">特定デジタルプラットフォーム提供者は、次の各号に掲げる行為を行うときは、当該行為の相手方に対し、経済産業省令で定めるところにより、当該各号に定める事項を開示しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、開示することにより一般利用者の利益を害する場合その他の経済産業省令で定める場合は、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">商品等提供利用者に対する当該特定デジタルプラットフォームの提供条件によらない取引の実施の要請</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その内容及び理由</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">継続して当該特定デジタルプラットフォームを利用する商品等提供利用者に対する当該特定デジタルプラットフォームの提供の拒絶（当該提供の全部を拒絶する場合を除く。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その内容及び理由</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げるもののほか、当該特定デジタルプラットフォームの提供条件により行われる行為のうち、当該行為の相手方の利益を損なうおそれがあるため、その内容、理由その他の事項を開示することが特に必要であるものとして経済産業省令で定める行為</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その内容、理由その他の経済産業省令で定める事項</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">特定デジタルプラットフォーム提供者は、次の各号に掲げる行為を行う場合は、当該行為の相手方に対し、経済産業省令で定めるところにより、当該行為を行う日以前の経済産業省令で定める日までに、当該各号に定める事項を開示しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、開示することにより一般利用者の利益を害する場合その他の経済産業省令で定める場合は、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">商品等提供利用者に対する当該特定デジタルプラットフォームの提供条件の変更</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その内容及び理由</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">継続して当該特定デジタルプラットフォームを利用する商品等提供利用者に対する当該特定デジタルプラットフォームの提供の全部の拒絶</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その旨及び理由</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第一項、第二項第一号ト若しくは第二号ハ若しくは第三項第三号の経済産業省令を定め、又はこれを変更するときは、あらかじめ、総務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（開示に関する勧告、命令等）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、特定デジタルプラットフォーム提供者が前条第一項から第四項までの規定を遵守していないと認めるときは、当該特定デジタルプラットフォーム提供者に対し、速やかに同条第一項に規定する方法による提供条件の開示、同条第二項各号、第三項各号又は第四項各号に定める事項の開示その他の必要な措置をとるべき旨の勧告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の勧告をする場合において、当該勧告の内容が情報の電磁的流通に関わるものであるときは、あらかじめ、総務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第一項の勧告をしたときは、その旨を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第一項の勧告を受けた特定デジタルプラットフォーム提供者が、正当な理由がなく、当該勧告に係る措置をとらなかったときは、当該特定デジタルプラットフォーム提供者に対し、当該措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の規定による命令をする場合において、当該命令の内容が情報の電磁的流通に関わるものであるときは、あらかじめ、総務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第四項の規定による命令をしたときは、その旨を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（特定デジタルプラットフォーム提供者が講ずべき措置）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォーム提供者は、特定デジタルプラットフォーム提供者と商品等提供利用者との間の取引関係における相互理解の促進を図るために必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の規定に基づき特定デジタルプラットフォーム提供者が講ずべき措置に関して、その適切かつ有効な実施に資するために必要な指針（以下この条及び第九条第二項において単に「指針」という。）を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指針においては、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォーム提供者と商品等提供利用者との間の取引関係における相互理解の促進を図るために必要な措置に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">商品等提供利用者に対する特定デジタルプラットフォームの提供が公正に行われることを確保するために必要な体制及び手続の整備に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォームについての商品等提供利用者からの苦情の処理及び特定デジタルプラットフォーム提供者と商品等提供利用者との間の紛争の解決のために必要な体制及び手続の整備に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォーム提供者が商品等提供利用者その他の関係者と緊密に連絡を行うために国内において必要な業務の管理を行う者の選任に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、特定デジタルプラットフォーム提供者が商品等提供利用者の意見その他の事情を十分に考慮するために必要な措置に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、指針を定めるときは、あらかじめ、特定デジタルプラットフォームにより提供される場に係る事業を所管する大臣、公正取引委員会及び総務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、指針を定めたときは、遅滞なく、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定は、指針の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（特定デジタルプラットフォーム提供者が講ずべき措置に関する勧告等）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前条第一項の規定に基づき特定デジタルプラットフォーム提供者が講ずべき措置に関して、その適切かつ有効な実施を図るために特に必要があると認めるときは、当該特定デジタルプラットフォーム提供者に対し、必要な措置を講ずべき旨の勧告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六条第二項及び第三項の規定は、前項の勧告について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（特定デジタルプラットフォーム提供者による報告書の提出、評価等）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォーム提供者は、毎年度、経済産業省令で定めるところにより、次に掲げる事項を記載した報告書を経済産業大臣に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォームの事業の概要に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォームについての苦情の処理及び紛争の解決に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第一項から第四項までの規定に基づく開示の状況に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第一項の規定に基づき講じた措置に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前三号に掲げる事項について自ら行った評価に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の規定による報告書の提出を受けたときは、当該報告書の内容及び次条第一項の規定により申出のあった事実その他の経済産業大臣が把握する事実に基づき、指針を勘案して、特定デジタルプラットフォームの透明性及び公正性についての評価を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の評価を行うときは、あらかじめ、総務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第二項の評価を行うときは、あらかじめ、利用者又はその組織する団体、学識経験者その他の経済産業大臣が必要と認める者の意見を聴くことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第二項の規定による評価の結果を第一項の報告書の概要とともに公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォーム提供者は、前項の規定により公表された評価の結果を踏まえ、特定デジタルプラットフォームの透明性及び公正性の自主的な向上に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（経済産業大臣に対する申出等）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">利用者は、第五条第一項から第四項まで及び第七条第一項の規定に基づき特定デジタルプラットフォーム提供者が講ずべき措置が講じられていないと認めるときは、経済産業大臣に対し、その旨を申し出て、適当な措置をとるべきことを求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォーム提供者は、利用者が前項の規定による申出及び求めをしたことを理由として、当該利用者に対し、特定デジタルプラットフォームの提供の拒絶その他の不利益な取扱いをしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、特定デジタルプラットフォーム提供者について、前項の規定に違反する行為があると認めるときは、当該特定デジタルプラットフォーム提供者に対し、速やかにその不利益な取扱いをやめるべきことその他必要な措置をとるべき旨の勧告をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六条第二項及び第三項の規定は、前項の勧告について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（特定デジタルプラットフォーム提供者の指定の取消し）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォーム提供者は、次の各号のいずれかに掲げる事由が生じたときは、経済産業省令で定めるところにより、経済産業大臣に、第四条第一項の規定による指定を取り消すべき旨の申出をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォームの提供を行わなくなったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定デジタルプラットフォームの事業の規模が第四条第一項の政令で定める規模を下回った場合において、再び当該規模以上となることがないと明らかに認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の申出があった場合において、当該申出に理由があると認めるときは、経済産業省令で定めるところにより、遅滞なく、第四条第一項の規定による指定を取り消すものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">前項の申出がない場合において、同項各号のいずれかに掲げる事由が生じたと認められるときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（報告及び検査）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第四条第一項の規定による指定及び前条第二項の規定による指定の取消しを行うために必要な限度において、デジタルプラットフォーム提供者に対し、デジタルプラットフォームにより提供される場に係る事業の状況に関し報告をさせ、又はその職員に、デジタルプラットフォーム提供者の事務所その他の事業場に立ち入り、帳簿、書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第六条第一項及び第四項、第八条第一項並びに第十条第三項の規定の施行に必要な限度において、特定デジタルプラットフォーム提供者に対し、その取引に関し報告をさせ、又はその職員に、特定デジタルプラットフォーム提供者の事務所その他の事業場に立ち入り、帳簿、書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第六条第一項及び第四項、第八条第一項並びに第十条第三項の規定の施行に必要な限度において、商品等提供利用者に対し、その取引に関し報告をさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項及び第二項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係人に提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項及び第二項の規定による立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（公正取引委員会への措置請求）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">経済産業大臣は、特定デジタルプラットフォーム提供者について特定デジタルプラットフォームの透明性及び公正性を阻害する行為があり、その事実が私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）第十九条の規定に違反していると認めるときは、公正取引委員会に対し、同法の規定に従い適当な措置をとるべきことを求めることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げるときは、当該求めをするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該行為が多数の商品等提供利用者に対して行われていると認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該行為によって商品等提供利用者が受ける不利益の程度が大きいと認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、特定デジタルプラットフォームの透明性及び公正性を阻害する重大な事実があると認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（適用除外）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四条から前条までの規定は、デジタルプラットフォームに該当する役務の提供のうち、他の法律の規定によって商品等提供利用者の利益を保護することができると認められるものとして政令で定める役務の提供については、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（資料の提出の要求等）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第四条第一項の政令の制定又は改正の立案に必要な限度において、デジタルプラットフォーム提供者又は商品等提供利用者に対し、必要な資料の提出及び説明を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の規定による資料の提出及び説明の求めを行うときは、あらかじめ、当該求めに係るデジタルプラットフォームにより提供される場に係る事業を所管する大臣及び総務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（政令の立案等）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前条第一項の資料及び説明に基づき、第四条第一項の政令の制定又は改正の立案を行い、及びこの法律の円滑な実施に必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の措置を講ずるときは、あらかじめ、デジタルプラットフォームにより提供される場に係る事業を所管する大臣及び総務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の場合においては、デジタルプラットフォームに関する国際的動向並びにデジタルプラットフォーム提供者及び利用者の意見に十分配慮しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　雑則</ChapterTitle>
+        <Article Num="17">
+          <ArticleCaption>（他の施策との関係）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、この法律の規定による措置を実施するに当たっては、他の法律によるデジタルプラットフォームにより提供される場に係る事業の規制及び適正化のための措置その他の当該事業に関する施策の実施状況を勘案しつつ、必要最小限のものとなるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（送達すべき書類）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四条第一項の規定による指定、第六条第一項の勧告若しくは同条第四項の規定による命令又は第十二条第一項から第三項までの規定による報告の徴収は、経済産業省令で定める書類を送達して行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四条第一項の規定による指定又は第六条第四項の規定による命令に係る行政手続法（平成五年法律第八十八号）第三十条の規定による通知は、同条の書類を送達して行う。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第三十一条において読み替えて準用する同法第十五条第三項の規定は適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（送達に関する民事訴訟法の準用）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定による送達については、民事訴訟法（平成八年法律第百九号）第百条第一項、第百一条、第百二条の二、第百三条、第百五条、第百六条及び第百八条の規定を準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同項中「裁判所」とあり、及び同条中「裁判長」とあるのは「経済産業大臣」と、同法第百一条第一項中「執行官」とあるのは「経済産業大臣の職員」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（公示送達）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、次に掲げる場合には、公示送達をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">送達を受けるべき者の住所、居所その他送達をすべき場所が知れない場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">外国においてすべき送達について、前条において読み替えて準用する民事訴訟法第百八条の規定によることができず、又はこれによっても送達をすることができないと認めるべき場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条において読み替えて準用する民事訴訟法第百八条の規定により外国の管轄官庁に嘱託を発した後六月を経過してもその送達を証する書面の送付がない場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公示送達は、送達をすべき書類を送達を受けるべき者にいつでも交付すべき旨を経済産業省の掲示場に掲示することにより行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公示送達は、前項の規定による掲示を始めた日から二週間を経過することによって、その効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">外国においてすべき送達についてした公示送達にあっては、前項の期間は、六週間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（電子情報処理組織の使用）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣の職員が、情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第三条第九号に規定する処分通知等であって第十九条の規定により書類を送達して行うこととしているものに関する事務を、同法第七条第一項の規定により同法第六条第一項に規定する電子情報処理組織を使用して行ったときは、第二十条において読み替えて準用する民事訴訟法第百条第一項の規定による送達に関する事項を記載した書面の作成及び提出に代えて、当該事項を当該電子情報処理組織を使用して経済産業大臣の使用に係る電子計算機（入出力装置を含む。）に備えられたファイルに記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　罰則</ChapterTitle>
+        <Article Num="23">
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六条第四項の規定による命令に違反した場合には、当該違反行為をした者は、百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四条第二項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第九条第一項の規定による報告書を提出せず、又は報告書に記載すべき事項を記載せず、若しくは虚偽の記載をして報告書を提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条第一項から第三項までの規定による報告をせず、若しくは虚偽の報告をし、又は同条第一項若しくは第二項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前二条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して各本条の刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（検討）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後三年を目途として、この法律の規定の施行の状況及び経済社会情勢の変化を勘案し、この法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二五日法律第四八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して四年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条の規定並びに附則第六十条中商業登記法（昭和三十八年法律第百二十五号）第五十二条第二項の改正規定及び附則第百二十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="124">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="125">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百二十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条及び第二条の規定並びに附則第七条、第十九条及び第二十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条、第十三条及び第二十条の規定、第二十一条中内航海運業法第六条第一項第二号の改正規定、第二十三条、第二十九条、第三十一条、第三十二条、第三十六条及び第三十九条の規定、第四十一条中貨物自動車運送事業法第五条第二号の改正規定、第四十三条、第四十四条及び第四十九条の規定、第五十五条中民間事業者による信書の送達に関する法律第八条第二号の改正規定並びに第五十六条、第五十八条、第六十条、第六十二条及び第六十三条の規定並びに次条並びに附則第十条、第十二条及び第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
