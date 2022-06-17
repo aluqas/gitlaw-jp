@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Heisei" Year="02" Num="030" PromulgateMonth="06" PromulgateDay="13" LawType="Act"><LawNum>平成二年法律第三十号</LawNum><LawBody><LawTitle Kana="こうぎょうしょゆうけんにかんするてつづきとうのとくれいにかんするほうりつ" Abbrev="" AbbrevKana="">工業所有権に関する手続等の特例に関する法律</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="030" Year="02" PromulgateMonth="06" PromulgateDay="13"><LawNum>平成二年法律第三十号</LawNum><LawBody><LawTitle Kana="こうぎょうしょゆうけんにかんするてつづきとうのとくれいにかんするほうりつ" Abbrev="" AbbrevKana="">工業所有権に関する手続等の特例に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -125,59 +125,31 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">経済産業大臣、特許庁長官、審判長又は審査官は、特許等関係法令の規定による通知又は命令であって経済産業省令で定めるもの（以下「特定通知等」という。）については、経済産業省令で定めるところにより、電子情報処理組織を使用して行うことができる。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特定通知等の相手方が電子情報処理組織を使用する方法により特定通知等を受ける旨の経済産業省令で定める方式による届出をしている場合に限る。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特許等関係法令の規定によりその特定通知等を書類の送達により行うものとされている場合において、当該特定通知等の相手方が、送達を受ける旨の経済産業省令で定める方式による表示をしないときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の場合において、当該特定通知等に関する事務を電子情報処理組織を使用して行うときは、当該事務は特許庁長官が指定する職員又は審判書記官が取り扱うものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項ただし書に規定する場合において、当該特定通知等に関する事務を電子情報処理組織を使用して行うときは、当該事務は特許庁長官が指定する職員又は審判書記官が取り扱うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の規定により行われた特定通知等は、次に掲げる時のいずれか早い時に、当該特定通知等の相手方に到達したものとみなす。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により行われた特定通知等は、第二条第一項の手続をする者又はその者の代理人の使用に係る電子計算機（特許庁の使用に係るものを除く。）に備えられたファイルへの記録がされた時に当該特定通知等の相手方に到達したものとみなす。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">特定通知等の相手方が当該特定通知等についてその使用に係る電子計算機（特許庁の使用に係るものを除く。）に備えられたファイルへの記録をした時</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">特許庁が、前号の記録をすることができる措置をとった日から十日を経過した時</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">特定通知等の相手方がその責めに帰することができない事由によって前項第一号の記録をすることができない期間は、同項第二号の期間に算入しない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により行われた特定通知等については、当該特定通知等を手続に係る書面の副本、処分に係る文書の謄本その他の書類の送達等（送達又は送付をいう。以下同じ。）により行うものとして規定した特許等関係法令の規定に規定する書類の送達等により行われたものとみなして、特許等関係法令の規定を適用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の規定により行われた特定通知等については、当該特定通知等を手続に係る書面の副本、処分に係る文書の謄本その他の書類の送達等（送達又は送付をいう。以下同じ。）により行うものとして規定した特許等関係法令の規定に規定する書類の送達等により行われたものとみなして、特許等関係法令の規定を適用する。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>６</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二項に規定する特許庁長官が指定する職員又は審判書記官が特定通知等に関する事務を電子情報処理組織を使用して行ったときは、特許法第百九十条（実用新案法第五十五条第二項、意匠法第六十八条第五項又は商標法第七十七条第五項において準用する場合を含む。）において準用する民事訴訟法（平成八年法律第百九号）第百条第一項の規定による送達に関する事項を記載した書面の作成及び提出に代えて、当該事項を電子情報処理組織を使用してファイルに記録しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="5_2">
-          <ArticleCaption>（電子情報処理組織による特定通知等を受ける旨の届出の特例）</ArticleCaption>
-          <ArticleTitle>第五条の二</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条第一項ただし書の規定にかかわらず、手続について委任を受けた代理人（代理を業として行う者に限る。）に対する特定通知等は、その者が同項ただし書の届出をしていない場合であっても電子情報処理組織を使用して行うことができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二項に規定する特許庁長官が指定する職員又は審判書記官が特定通知等に関する事務を電子情報処理組織を使用して行ったときは、特許法第百九十条（実用新案法第五十五条第二項、意匠法第六十八条第五項又は商標法第七十七条第五項において準用する場合を含む。）において準用する民事訴訟法（平成八年法律第百九号）第百九条の規定による送達に関する事項を記載した書面の作成及び提出に代えて、当該事項を電子情報処理組織を使用してファイルに記録しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2486,29 +2458,6 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和四年五月二五日法律第四八号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して四年を超えない範囲内において政令で定める日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="124">
-        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第百二十四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
     <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
@@ -2585,12 +2534,6 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第六条の規定（附則第一条第三号に掲げる改正規定に限る。）による改正後の工業所有権に関する手続等の特例に関する法律第五条第一項に規定する特定通知等を受けようとする者は、同号に掲げる規定の施行の日（以下この条において「第三号施行日」という。）前においても、同項ただし書の規定の例により、届出を行うことができる。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、当該届出は、第三号施行日以後は、同項ただし書の規定による届出とみなす。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第三号施行日が民事訴訟法等の一部を改正する法律（令和四年法律第四十八号）の施行の日前である場合には、同法附則第七十二条中「第五条第五項」とあるのは、「第五条第六項」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
