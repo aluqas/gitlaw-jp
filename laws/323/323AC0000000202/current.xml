@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="202" Year="23" PromulgateMonth="07" PromulgateDay="30">
-  <LawNum>昭和二十三年法律第二百二号</LawNum>
-  <LawBody>
-    <LawTitle Kana="しかいしほう" Abbrev="" AbbrevKana="">歯科医師法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="202" Year="23" PromulgateMonth="07" PromulgateDay="30"><LawNum>昭和二十三年法律第二百二号</LawNum><LawBody><LawTitle Kana="しかいしほう" Abbrev="" AbbrevKana="">歯科医師法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -413,7 +410,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">学校教育法（昭和二十二年法律第二十六号）に基づく大学（以下単に「大学」という。）において、歯学の正規の課程を修めて卒業した者（大学において歯学を専攻する学生が臨床実習を開始する前に修得すべき知識及び技能を具有しているかどうかを評価するために大学が共用する試験として厚生労働省令で定めるもの（第十七条の二において「共用試験」という。）に合格した者に限る。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">学校教育法（昭和二十二年法律第二十六号）に基づく大学（第十六条の二第一項及び第十七条の二第一項において単に「大学」という。）において、歯学の正規の課程を修めて卒業した者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -429,19 +426,13 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項第一号の厚生労働省令の制定又は改正の立案をしようとするときは、医道審議会の意見を聴かなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
         </Article>
         <Article Num="12">
           <ArticleTitle>第十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">歯科医師国家試験予備試験は、外国の歯科医学校を卒業し、又は外国で歯科医師免許を得た者のうち、前条第一項第三号に該当しない者であつて、厚生労働大臣が適当と認定したものでなければ、これを受けることができない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">歯科医師国家試験予備試験は、外国の歯科医学校を卒業し、又は外国で歯科医師免許を得た者のうち、前条第三号に該当しない者であつて、厚生労働大臣が適当と認定したものでなければ、これを受けることができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -562,7 +553,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">大学において歯学を専攻する学生であつて、共用試験に合格したものは、前条の規定にかかわらず、当該大学が行う臨床実習において、歯科医師の指導監督の下に、歯科医師として具有すべき知識及び技能の修得のために歯科医業（政令で定めるものを除く。次条において同じ。）をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">大学において歯学を専攻する学生であつて、当該学生が臨床実習を開始する前に修得すべき知識及び技能を具有しているかどうかを評価するために大学が共用する試験として厚生労働省令で定めるものに合格したものは、前条の規定にかかわらず、当該大学が行う臨床実習において、歯科医師の指導監督の下に、歯科医師として具有すべき知識及び技能の修得のために歯科医業（政令で定めるものを除く。次条において同じ。）をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の厚生労働省令の制定又は改正の立案をしようとするときは、医道審議会の意見を聴かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -571,8 +568,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条の規定により歯科医業をする者は、正当な理由がある場合を除き、その業務上知り得た人の秘密を他に漏らしてはならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">同条の規定により歯科医業をする者でなくなつた後においても、同様とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定により歯科医業をする者は、正当な理由がある場合を除き、その業務上知り得た人の秘密を他に漏らしてはならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">同項の規定により歯科医業をする者でなくなつた後においても、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1873,16 +1870,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="12">
-        <ArticleCaption>（歯科医師法の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第十二条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第八条の規定の施行の際現に同条の規定による改正前の歯科医師法第十一条第一号に該当する者は、第八条の規定による改正後の歯科医師法第十一条第一項（第一号に係る部分に限る。）の規定にかかわらず、歯科医師国家試験を受けることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
