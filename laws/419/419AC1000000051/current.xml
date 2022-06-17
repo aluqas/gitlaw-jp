@@ -1360,7 +1360,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">投票人名簿又は在外投票人名簿に登録されていない者は、投票をすることができない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、投票人名簿に登録されるべき旨の決定書又は確定判決の判決書の正本若しくは謄本若しくは電子判決書（民事訴訟法（平成八年法律第百九号）第二百五十二条第一項に規定する電子判決書（同法第二百五十三条第二項の規定により裁判所の使用に係る電子計算機に備えられたファイルに記録されたものに限る。）をいう。）に記録されている事項を記載した書面であって裁判所書記官が当該書面の内容が当該ファイルに記録されている事項と同一であることを証明したもの（第百三十二条第二項において「電子判決書記録事項証明書」という。）を所持し、国民投票の当日投票所に至る者があるときは、投票管理者は、その者に投票をさせなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、投票人名簿に登録されるべき旨の決定書又は確定判決書を所持し、国民投票の当日投票所に至る者があるときは、投票管理者は、その者に投票をさせなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2346,7 +2346,7 @@
                       <Sentence Num="1" WritingMode="vertical">国民投票</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">投票人名簿に登録されるべき旨の決定書又は確定判決の判決書の正本若しくは謄本若しくは電子判決書（民事訴訟法（平成八年法律第百九号）第二百五十二条第一項に規定する電子判決書（同法第二百五十三条第二項の規定により裁判所の使用に係る電子計算機に備えられたファイルに記録されたものに限る。）をいう。）に記録されている事項を記載した書面であって裁判所書記官が当該書面の内容が当該ファイルに記録されている事項と同一であることを証明したもの（第百三十二条第二項において「電子判決書記録事項証明書」という。）を所持し、国民投票</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">投票人名簿に登録されるべき旨の決定書又は確定判決書を所持し、国民投票</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -2354,7 +2354,7 @@
                       <Sentence Num="1" WritingMode="vertical">第六十条第一項</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">在外投票人名簿に登録されるべき旨の決定書又は確定判決の判決書の正本若しくは謄本若しくは電子判決書（民事訴訟法（平成八年法律第百九号）第二百五十二条第一項に規定する電子判決書（同法第二百五十三条第二項の規定により裁判所の使用に係る電子計算機に備えられたファイルに記録されたものに限る。）をいう。）に記録されている事項を記載した書面であって裁判所書記官が当該書面の内容が当該ファイルに記録されている事項と同一であることを証明したものを所持し、第六十条第一項</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">在外投票人名簿に登録されるべき旨の決定書又は確定判決書を所持し、第六十条第一項</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -3719,7 +3719,7 @@
             </Paragraph>
           </Article>
           <Article Num="132">
-            <ArticleCaption>（国民投票無効の訴訟についての通知及び電子判決書記録事項証明書の送付）</ArticleCaption>
+            <ArticleCaption>（国民投票無効の訴訟についての通知及び判決書謄本の送付）</ArticleCaption>
             <ArticleTitle>第百三十二条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
@@ -3731,7 +3731,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百二十七条の規定による訴訟につき判決が確定したときは、裁判所の長は、その電子判決書記録事項証明書を、総務大臣及び中央選挙管理会並びに衆議院議長及び参議院議長に送付しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百二十七条の規定による訴訟につき判決が確定したときは、裁判所の長は、その判決書の謄本を、総務大臣及び中央選挙管理会並びに衆議院議長及び参議院議長に送付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4547,26 +4547,6 @@
               </Column>
             </ItemSentence>
           </Item>
-        </Paragraph>
-      </Article>
-      <Article Num="109">
-        <ArticleCaption>（日本国憲法の改正手続に関する法律の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第百九条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前条の規定による改正後の日本国憲法の改正手続に関する法律第百三十二条第二項の規定は、日本国憲法の改正手続に関する法律第百二十七条の規定による訴訟であって施行日以後に提起されたものに係る裁判所の長がする送付について適用し、同条の規定による訴訟であって施行日前に提起されたものに係る裁判所の長がする送付については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="124">
-        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第百二十四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="125">

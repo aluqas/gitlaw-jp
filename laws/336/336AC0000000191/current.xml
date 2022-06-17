@@ -1,0 +1,2393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="191" Year="36" PromulgateMonth="11" PromulgateDay="07"><LawNum>昭和三十六年法律第百九十一号</LawNum><LawBody><LawTitle Kana="たくちぞうせいおよびとくていもりどとうきせいほう" Abbrev="宅造法" AbbrevKana="た">宅地造成及び特定盛土等規制法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　基本方針及び基礎調査</ChapterTitle>
+        <ArticleRange>（第三条―第九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　宅地造成等工事規制区域</ChapterTitle>
+        <ArticleRange>（第十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　宅地造成等工事規制区域内における宅地造成等に関する工事等の規制</ChapterTitle>
+        <ArticleRange>（第十一条―第二十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　特定盛土等規制区域</ChapterTitle>
+        <ArticleRange>（第二十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　特定盛土等規制区域内における特定盛土等又は土石の堆積に関する工事等の規制</ChapterTitle>
+        <ArticleRange>（第二十七条―第四十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　造成宅地防災区域</ChapterTitle>
+        <ArticleRange>（第四十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="8">
+        <ChapterTitle>第八章　造成宅地防災区域内における災害の防止のための措置</ChapterTitle>
+        <ArticleRange>（第四十六条―第四十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="9">
+        <ChapterTitle>第九章　雑則</ChapterTitle>
+        <ArticleRange>（第四十九条―第五十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="10">
+        <ChapterTitle>第十章　罰則</ChapterTitle>
+        <ArticleRange>（第五十五条―第六十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、宅地造成、特定盛土等又は土石の堆積に伴う崖崩れ又は土砂の流出による災害の防止のため必要な規制を行うことにより、国民の生命及び財産の保護を図り、もつて公共の福祉に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">宅地</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">農地、採草放牧地及び森林（以下この条、第二十一条第四項及び第四十条第四項において「農地等」という。）並びに道路、公園、河川その他政令で定める公共の用に供する施設の用に供されている土地（以下「公共施設用地」という。）以外の土地をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">宅地造成</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">宅地以外の土地を宅地にするために行う盛土その他の土地の形質の変更で政令で定めるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">特定盛土等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">宅地又は農地等において行う盛土その他の土地の形質の変更で、当該宅地又は農地等に隣接し、又は近接する宅地において災害を発生させるおそれが大きいものとして政令で定めるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">土石の堆積</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">宅地又は農地等において行う土石の堆積で政令で定めるもの（一定期間の経過後に当該土石を除却するものに限る。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">災害</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">崖崩れ又は土砂の流出による災害をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">設計</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その者の責任において、設計図書（宅地造成、特定盛土等又は土石の堆積に関する工事を実施するために必要な図面（現寸図その他これに類するものを除く。）及び仕様書をいう。第五十五条第二項において同じ。）を作成することをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">工事主</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">宅地造成、特定盛土等若しくは土石の堆積に関する工事の請負契約の注文者又は請負契約によらないで自らその工事をする者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">工事施行者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">宅地造成、特定盛土等若しくは土石の堆積に関する工事の請負人又は請負契約によらないで自らその工事をする者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">造成宅地</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">宅地造成又は特定盛土等（宅地において行うものに限る。）に関する工事が施行された宅地をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　基本方針及び基礎調査</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（基本方針）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、宅地造成、特定盛土等又は土石の堆積に伴う災害の防止に関する基本的な方針（以下「基本方針」という。）を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基本方針においては、次に掲げる事項について定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律に基づき行われる宅地造成、特定盛土等又は土石の堆積に伴う災害の防止に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次条第一項の基礎調査の実施について指針となるべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十条第一項の規定による宅地造成等工事規制区域の指定、第二十六条第一項の規定による特定盛土等規制区域の指定及び第四十五条第一項の規定による造成宅地防災区域の指定について指針となるべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、宅地造成、特定盛土等又は土石の堆積に伴う災害の防止に関する重要事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、基本方針を定めるときは、あらかじめ、関係行政機関の長に協議するとともに、社会資本整備審議会、食料・農業・農村政策審議会及び林政審議会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、基本方針を定めたときは、遅滞なく、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定は、基本方針の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（基礎調査）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県（地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市（以下この項、次条第一項、第十五条第一項及び第三十四条第一項において「指定都市」という。）又は同法第二百五十二条の二十二第一項の中核市（以下この項、次条第一項、第十五条第一項及び第三十四条第一項において「中核市」という。）の区域内の土地については、それぞれ指定都市又は中核市。第十五条第一項及び第三十四条第一項を除き、以下同じ。）は、基本方針に基づき、おおむね五年ごとに、第十条第一項の規定による宅地造成等工事規制区域の指定、第二十六条第一項の規定による特定盛土等規制区域の指定及び第四十五条第一項の規定による造成宅地防災区域の指定その他この法律に基づき行われる宅地造成、特定盛土等又は土石の堆積に伴う災害の防止のための対策に必要な基礎調査として、宅地造成、特定盛土等又は土石の堆積に伴う崖崩れ又は土砂の流出のおそれがある土地に関する地形、地質の状況その他主務省令で定める事項に関する調査（以下「基礎調査」という。）を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、基礎調査の結果を、主務省令で定めるところにより、関係市町村長（特別区の長を含む。以下同じ。）に通知するとともに、公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（基礎調査のための土地の立入り等）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事（指定都市又は中核市の区域内の土地については、それぞれ指定都市又は中核市の長。第五十条を除き、以下同じ。）は、基礎調査のために他人の占有する土地に立ち入つて測量又は調査を行う必要があるときは、その必要の限度において、他人の占有する土地に、自ら立ち入り、又はその命じた者若しくは委任した者に立ち入らせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により他人の占有する土地に立ち入ろうとする者は、立ち入ろうとする日の三日前までに、その旨を当該土地の占有者に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により建築物が存し、又は垣、柵その他の工作物で囲まれた他人の占有する土地に立ち入るときは、その立ち入る者は、立入りの際、あらかじめ、その旨を当該土地の占有者に告げなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">日出前及び日没後においては、土地の占有者の承諾があつた場合を除き、前項に規定する土地に立ち入つてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">土地の占有者は、正当な理由がない限り、第一項の規定による立入りを拒み、又は妨げてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（基礎調査のための障害物の伐除及び土地の試掘等）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定により他人の占有する土地に立ち入つて測量又は調査を行う者は、その測量又は調査を行うに当たり、やむを得ない必要があつて、障害となる植物若しくは垣、柵その他の工作物（以下この条、次条第二項及び第五十八条第二号において「障害物」という。）を伐除しようとする場合又は当該土地に試掘若しくはボーリング若しくはこれに伴う障害物の伐除（以下この条、次条第二項及び同号において「試掘等」という。）を行おうとする場合において、当該障害物又は当該土地の所有者及び占有者の同意を得ることができないときは、当該障害物の所在地を管轄する市町村長の許可を受けて当該障害物を伐除し、又は当該土地の所在地を管轄する都道府県知事の許可を受けて当該土地に試掘等を行うことができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、市町村長が許可を与えるときは障害物の所有者及び占有者に、都道府県知事が許可を与えるときは土地又は障害物の所有者及び占有者に、あらかじめ、意見を述べる機会を与えなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により障害物を伐除しようとする者又は土地に試掘等を行おうとする者は、伐除しようとする日又は試掘等を行おうとする日の三日前までに、その旨を当該障害物又は当該土地若しくは障害物の所有者及び占有者に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により障害物を伐除しようとする場合（土地の試掘又はボーリングに伴う障害物の伐除をしようとする場合を除く。）において、当該障害物の所有者及び占有者がその場所にいないためその同意を得ることが困難であり、かつ、その現状を著しく損傷しないときは、都道府県知事又はその命じた者若しくは委任した者は、前二項の規定にかかわらず、当該障害物の所在地を管轄する市町村長の許可を受けて、直ちに、当該障害物を伐除することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、当該障害物を伐除した後、遅滞なく、その旨をその所有者及び占有者に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（証明書等の携帯）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第五条第一項の規定により他人の占有する土地に立ち入ろうとする者は、その身分を示す証明書を携帯しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定により障害物を伐除しようとする者又は土地に試掘等を行おうとする者は、その身分を示す証明書及び市町村長又は都道府県知事の許可証を携帯しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に規定する証明書又は許可証は、関係人の請求があつたときは、これを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（土地の立入り等に伴う損失の補償）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、第五条第一項又は第六条第一項若しくは第三項の規定による行為により他人に損失を与えたときは、その損失を受けた者に対して、通常生ずべき損失を補償しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による損失の補償については、都道府県と損失を受けた者とが協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による協議が成立しないときは、都道府県又は損失を受けた者は、政令で定めるところにより、収用委員会に土地収用法（昭和二十六年法律第二百十九号）第九十四条第二項の規定による裁決を申請することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（基礎調査に要する費用の補助）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、都道府県に対し、予算の範囲内において、都道府県の行う基礎調査に要する費用の一部を補助することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　宅地造成等工事規制区域</ChapterTitle>
+        <Article Num="10">
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、基本方針に基づき、かつ、基礎調査の結果を踏まえ、宅地造成、特定盛土等又は土石の堆積（以下この章及び次章において「宅地造成等」という。）に伴い災害が生ずるおそれが大きい市街地若しくは市街地となろうとする土地の区域又は集落の区域（これらの区域に隣接し、又は近接する土地の区域を含む。第五項及び第二十六条第一項において「市街地等区域」という。）であつて、宅地造成等に関する工事について規制を行う必要があるものを、宅地造成等工事規制区域として指定することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により宅地造成等工事規制区域を指定しようとするときは、関係市町村長の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の指定は、この法律の目的を達成するため必要な最小限度のものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の指定をするときは、主務省令で定めるところにより、当該宅地造成等工事規制区域を公示するとともに、その旨を関係市町村長に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、宅地造成等に伴い市街地等区域において災害が生ずるおそれが大きいため第一項の指定をする必要があると認めるときは、その旨を都道府県知事に申し出ることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の指定は、第四項の公示によつてその効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　宅地造成等工事規制区域内における宅地造成等に関する工事等の規制</ChapterTitle>
+        <Article Num="11">
+          <ArticleCaption>（住民への周知）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">工事主は、次条第一項の許可の申請をするときは、あらかじめ、主務省令で定めるところにより、宅地造成等に関する工事の施行に係る土地の周辺地域の住民に対し、説明会の開催その他の当該宅地造成等に関する工事の内容を周知させるため必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（宅地造成等に関する工事の許可）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">宅地造成等工事規制区域内において行われる宅地造成等に関する工事については、工事主は、当該工事に着手する前に、主務省令で定めるところにより、都道府県知事の許可を受けなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、宅地造成等に伴う災害の発生のおそれがないと認められるものとして政令で定める工事については、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の許可の申請が次に掲げる基準に適合しないと認めるとき、又はその申請の手続がこの法律若しくはこの法律に基づく命令の規定に違反していると認めるときは、同項の許可をしてはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該申請に係る宅地造成等に関する工事の計画が次条の規定に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">工事主に当該宅地造成等に関する工事を行うために必要な資力及び信用があること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">工事施行者に当該宅地造成等に関する工事を完成するために必要な能力があること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該宅地造成等に関する工事（土地区画整理法（昭和二十九年法律第百十九号）第二条第一項に規定する土地区画整理事業その他の公共施設の整備又は土地利用の増進を図るための事業として政令で定めるものの施行に伴うものを除く。）をしようとする土地の区域内の土地について所有権、地上権、質権、賃借権、使用貸借による権利又はその他の使用及び収益を目的とする権利を有する者の全ての同意を得ていること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の許可に、工事の施行に伴う災害を防止するため必要な条件を付することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の許可をしたときは、速やかに、主務省令で定めるところにより、工事主の氏名又は名称、宅地造成等に関する工事が施行される土地の所在地その他主務省令で定める事項を公表するとともに、関係市町村長に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（宅地造成等に関する工事の技術的基準等）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">宅地造成等工事規制区域内において行われる宅地造成等に関する工事（前条第一項ただし書に規定する工事を除く。第二十一条第一項において同じ。）は、政令（その政令で都道府県の規則に委任した事項に関しては、その規則を含む。）で定める技術的基準に従い、擁壁、排水施設その他の政令で定める施設（以下「擁壁等」という。）の設置その他宅地造成等に伴う災害を防止するため必要な措置が講ぜられたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により講ずべきものとされる措置のうち政令（同項の政令で都道府県の規則に委任した事項に関しては、その規則を含む。）で定めるものの工事は、政令で定める資格を有する者の設計によらなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（許可証の交付又は不許可の通知）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第十二条第一項の許可の申請があつたときは、遅滞なく、許可又は不許可の処分をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の申請をした者に、同項の許可の処分をしたときは許可証を交付し、同項の不許可の処分をしたときは文書をもつてその旨を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">宅地造成等に関する工事は、前項の許可証の交付を受けた後でなければ、することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項の許可証の様式は、主務省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（許可の特例）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国又は都道府県、指定都市若しくは中核市が宅地造成等工事規制区域内において行う宅地造成等に関する工事については、これらの者と都道府県知事との協議が成立することをもつて第十二条第一項の許可があつたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">宅地造成等工事規制区域内において行われる宅地造成又は特定盛土等について当該宅地造成等工事規制区域の指定後に都市計画法（昭和四十三年法律第百号）第二十九条第一項又は第二項の許可を受けたときは、当該宅地造成又は特定盛土等に関する工事については、第十二条第一項の許可を受けたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（変更の許可等）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第十二条第一項の許可を受けた者は、当該許可に係る宅地造成等に関する工事の計画の変更をしようとするときは、主務省令で定めるところにより、都道府県知事の許可を受けなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、主務省令で定める軽微な変更をしようとするときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条第一項の許可を受けた者は、前項ただし書の主務省令で定める軽微な変更をしたときは、遅滞なく、その旨を都道府県知事に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条第二項から第四項まで、第十三条、第十四条及び前条第一項の規定は、第一項の許可について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項又は第二項の場合における次条から第十九条までの規定の適用については、第一項の許可又は第二項の規定による届出に係る変更後の内容を第十二条第一項の許可の内容とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第二項の規定により第十二条第一項の許可を受けたものとみなされた宅地造成又は特定盛土等に関する工事に係る都市計画法第三十五条の二第一項の許可又は同条第三項の規定による届出は、当該工事に係る第一項の許可又は第二項の規定による届出とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（完了検査等）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">宅地造成又は特定盛土等に関する工事について第十二条第一項の許可を受けた者は、当該許可に係る工事を完了したときは、主務省令で定める期間内に、主務省令で定めるところにより、その工事が第十三条第一項の規定に適合しているかどうかについて、都道府県知事の検査を申請しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の検査の結果、工事が第十三条第一項の規定に適合していると認めた場合においては、主務省令で定める様式の検査済証を第十二条第一項の許可を受けた者に交付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十五条第二項の規定により第十二条第一項の許可を受けたものとみなされた宅地造成又は特定盛土等に関する工事に係る都市計画法第三十六条第一項の規定による届出又は同条第二項の規定により交付された検査済証は、当該工事に係る第一項の規定による申請又は前項の規定により交付された検査済証とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">土石の堆積に関する工事について第十二条第一項の許可を受けた者は、当該許可に係る工事（堆積した全ての土石を除却するものに限る。）を完了したときは、主務省令で定める期間内に、主務省令で定めるところにより、堆積されていた全ての土石の除却が行われたかどうかについて、都道府県知事の確認を申請しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の確認の結果、堆積されていた全ての土石が除却されたと認めた場合においては、主務省令で定める様式の確認済証を第十二条第一項の許可を受けた者に交付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（中間検査）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条第一項の許可を受けた者は、当該許可に係る宅地造成又は特定盛土等（政令で定める規模のものに限る。）に関する工事が政令で定める工程（以下この条において「特定工程」という。）を含む場合において、当該特定工程に係る工事を終えたときは、その都度主務省令で定める期間内に、主務省令で定めるところにより、都道府県知事の検査を申請しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の検査の結果、当該特定工程に係る工事が第十三条第一項の規定に適合していると認めた場合においては、主務省令で定める様式の当該特定工程に係る中間検査合格証を第十二条第一項の許可を受けた者に交付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定工程ごとに政令で定める当該特定工程後の工程に係る工事は、前項の規定による当該特定工程に係る中間検査合格証の交付を受けた後でなければ、することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、第一項の検査について、宅地造成又は特定盛土等に伴う災害を防止するために必要があると認める場合においては、同項の政令で定める宅地造成若しくは特定盛土等の規模を当該規模未満で条例で定める規模とし、又は特定工程（当該特定工程後の前項に規定する工程を含む。）として条例で定める工程を追加することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の検査において第十三条第一項の規定に適合することを認められた特定工程に係る工事については、前条第一項の検査において当該工事に係る部分の検査をすることを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（定期の報告）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条第一項の許可（政令で定める規模の宅地造成等に関する工事に係るものに限る。）を受けた者は、主務省令で定めるところにより、主務省令で定める期間ごとに、当該許可に係る宅地造成等に関する工事の実施の状況その他主務省令で定める事項を都道府県知事に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、前項の報告について、宅地造成等に伴う災害を防止するために必要があると認める場合においては、同項の政令で定める宅地造成等の規模を当該規模未満で条例で定める規模とし、同項の主務省令で定める期間を当該期間より短い期間で条例で定める期間とし、又は同項の主務省令で定める事項に条例で必要な事項を付加することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（監督処分）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、偽りその他不正な手段により第十二条第一項若しくは第十六条第一項の許可を受けた者又はその許可に付した条件に違反した者に対して、その許可を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、宅地造成等工事規制区域内において行われている宅地造成等に関する次に掲げる工事については、当該工事主又は当該工事の請負人（請負工事の下請人を含む。）若しくは現場管理者（第四項から第六項までにおいて「工事主等」という。）に対して、当該工事の施行の停止を命じ、又は相当の猶予期限を付けて、擁壁等の設置その他宅地造成等に伴う災害の防止のため必要な措置（以下この条において「災害防止措置」という。）をとることを命ずることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条第一項又は第十六条第一項の規定に違反して第十二条第一項又は第十六条第一項の許可を受けないで施行する工事</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条第三項（第十六条第三項において準用する場合を含む。）の規定により許可に付した条件に違反する工事</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十三条第一項の規定に適合していない工事</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十八条第一項の規定に違反して同項の検査を申請しないで施行する工事</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、宅地造成等工事規制区域内の次に掲げる土地については、当該土地の所有者、管理者若しくは占有者又は当該工事主（第五項第一号及び第二号並びに第六項において「土地所有者等」という。）に対して、当該土地の使用を禁止し、若しくは制限し、又は相当の猶予期限を付けて、災害防止措置をとることを命ずることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条第一項又は第十六条第一項の規定に違反して第十二条第一項又は第十六条第一項の許可を受けないで宅地造成等に関する工事が施行された土地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条第一項の規定に違反して同項の検査を申請せず、又は同項の検査の結果工事が第十三条第一項の規定に適合していないと認められた土地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条第四項の規定に違反して同項の確認を申請せず、又は同項の確認の結果堆積されていた全ての土石が除却されていないと認められた土地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十八条第一項の規定に違反して同項の検査を申請しないで宅地造成又は特定盛土等に関する工事が施行された土地</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第二項の規定により工事の施行の停止を命じようとする場合において、緊急の必要により弁明の機会の付与を行うことができないときは、同項に規定する工事に該当することが明らかな場合に限り、弁明の機会の付与を行わないで、工事主等に対して、当該工事の施行の停止を命ずることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該工事主等が当該工事の現場にいないときは、当該工事に従事する者に対して、当該工事に係る作業の停止を命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、次の各号のいずれかに該当すると認めるときは、自ら災害防止措置の全部又は一部を講ずることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第二号に該当すると認めるときは、相当の期限を定めて、当該災害防止措置を講ずべき旨及びその期限までに当該災害防止措置を講じないときは自ら当該災害防止措置を講じ、当該災害防止措置に要した費用を徴収することがある旨を、あらかじめ、公告しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二項又は第三項の規定により災害防止措置を講ずべきことを命ぜられた工事主等又は土地所有者等が、当該命令に係る期限までに当該命令に係る措置を講じないとき、講じても十分でないとき、又は講ずる見込みがないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二項又は第三項の規定により災害防止措置を講ずべきことを命じようとする場合において、過失がなくて当該災害防止措置を命ずべき工事主等又は土地所有者等を確知することができないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">緊急に災害防止措置を講ずる必要がある場合において、第二項又は第三項の規定により災害防止措置を講ずべきことを命ずるいとまがないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により同項の災害防止措置の全部又は一部を講じたときは、当該災害防止措置に要した費用について、主務省令で定めるところにより、当該工事主等又は土地所有者等に負担させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により負担させる費用の徴収については、行政代執行法（昭和二十三年法律第四十三号）第五条及び第六条の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（工事等の届出）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">宅地造成等工事規制区域の指定の際、当該宅地造成等工事規制区域内において行われている宅地造成等に関する工事の工事主は、その指定があつた日から二十一日以内に、主務省令で定めるところにより、当該工事について都道府県知事に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定による届出を受理したときは、速やかに、主務省令で定めるところにより、工事主の氏名又は名称、宅地造成等に関する工事が施行される土地の所在地その他主務省令で定める事項を公表するとともに、関係市町村長に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">宅地造成等工事規制区域内の土地（公共施設用地を除く。以下この章において同じ。）において、擁壁等に関する工事その他の工事で政令で定めるものを行おうとする者（第十二条第一項若しくは第十六条第一項の許可を受け、又は同条第二項の規定による届出をした者を除く。）は、その工事に着手する日の十四日前までに、主務省令で定めるところにより、その旨を都道府県知事に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">宅地造成等工事規制区域内において、公共施設用地を宅地又は農地等に転用した者（第十二条第一項若しくは第十六条第一項の許可を受け、又は同条第二項の規定による届出をした者を除く。）は、その転用した日から十四日以内に、主務省令で定めるところにより、その旨を都道府県知事に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（土地の保全等）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">宅地造成等工事規制区域内の土地の所有者、管理者又は占有者は、宅地造成等（宅地造成等工事規制区域の指定前に行われたものを含む。次項及び次条第一項において同じ。）に伴う災害が生じないよう、その土地を常時安全な状態に維持するように努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、宅地造成等工事規制区域内の土地について、宅地造成等に伴う災害の防止のため必要があると認める場合においては、その土地の所有者、管理者、占有者、工事主又は工事施行者に対し、擁壁等の設置又は改造その他宅地造成等に伴う災害の防止のため必要な措置をとることを勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleCaption>（改善命令）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、宅地造成等工事規制区域内の土地で、宅地造成若しくは特定盛土等に伴う災害の防止のため必要な擁壁等が設置されておらず、若しくは極めて不完全であり、又は土石の堆積に伴う災害の防止のため必要な措置がとられておらず、若しくは極めて不十分であるために、これを放置するときは、宅地造成等に伴う災害の発生のおそれが大きいと認められるものがある場合においては、その災害の防止のため必要であり、かつ、土地の利用状況その他の状況からみて相当であると認められる限度において、当該宅地造成等工事規制区域内の土地又は擁壁等の所有者、管理者又は占有者（次項において「土地所有者等」という。）に対して、相当の猶予期限を付けて、擁壁等の設置若しくは改造、地形若しくは盛土の改良又は土石の除却のための工事を行うことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、土地所有者等以外の者の宅地造成等に関する不完全な工事その他の行為によつて同項の災害の発生のおそれが生じたことが明らかであり、その行為をした者（その行為が隣地における土地の形質の変更又は土石の堆積であるときは、その土地の所有者を含む。以下この項において同じ。）に前項の工事の全部又は一部を行わせることが相当であると認められ、かつ、これを行わせることについて当該土地所有者等に異議がないときは、都道府県知事は、その行為をした者に対して、同項の工事の全部又は一部を行うことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十条第五項から第七項までの規定は、前二項の場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleCaption>（立入検査）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第十二条第一項、第十六条第一項、第十七条第一項若しくは第四項、第十八条第一項、第二十条第一項から第四項まで又は前条第一項若しくは第二項の規定による権限を行うために必要な限度において、その職員に、当該土地に立ち入り、当該土地又は当該土地において行われている宅地造成等に関する工事の状況を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七条第一項及び第三項の規定は、前項の場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（報告の徴取）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、宅地造成等工事規制区域内の土地の所有者、管理者又は占有者に対して、当該土地又は当該土地において行われている工事の状況について報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　特定盛土等規制区域</ChapterTitle>
+        <Article Num="26">
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、基本方針に基づき、かつ、基礎調査の結果を踏まえ、宅地造成等工事規制区域以外の土地の区域であつて、土地の傾斜度、渓流の位置その他の自然的条件及び周辺地域における土地利用の状況その他の社会的条件からみて、当該区域内の土地において特定盛土等又は土石の堆積が行われた場合には、これに伴う災害により市街地等区域その他の区域の居住者その他の者（第五項及び第四十五条第一項において「居住者等」という。）の生命又は身体に危害を生ずるおそれが特に大きいと認められる区域を、特定盛土等規制区域として指定することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により特定盛土等規制区域を指定しようとするときは、関係市町村長の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の指定は、この法律の目的を達成するため必要な最小限度のものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の指定をするときは、主務省令で定めるところにより、当該特定盛土等規制区域を公示するとともに、その旨を関係市町村長に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、特定盛土等又は土石の堆積に伴う災害により当該市町村の区域の居住者等の生命又は身体に危害を生ずるおそれが特に大きいため第一項の指定をする必要があると認めるときは、その旨を都道府県知事に申し出ることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の指定は、第四項の公示によつてその効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　特定盛土等規制区域内における特定盛土等又は土石の堆積に関する工事等の規制</ChapterTitle>
+        <Article Num="27">
+          <ArticleCaption>（特定盛土等又は土石の堆積に関する工事の届出等）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">特定盛土等規制区域内において行われる特定盛土等又は土石の堆積に関する工事については、工事主は、当該工事に着手する日の三十日前までに、主務省令で定めるところにより、当該工事の計画を都道府県知事に届け出なければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特定盛土等又は土石の堆積に伴う災害の発生のおそれがないと認められるものとして政令で定める工事については、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定による届出を受理したときは、速やかに、主務省令で定めるところにより、工事主の氏名又は名称、特定盛土等又は土石の堆積に関する工事が施行される土地の所在地その他主務省令で定める事項を公表するとともに、関係市町村長に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の規定による届出があつた場合において、当該届出に係る工事の計画について当該特定盛土等又は土石の堆積に伴う災害の防止のため必要があると認めるときは、当該届出を受理した日から三十日以内に限り、当該届出をした者に対し、当該工事の計画の変更その他必要な措置をとるべきことを勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定による勧告を受けた者が、正当な理由がなくて当該勧告に係る措置をとらなかつたときは、その者に対し、相当の期限を定めて、当該勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定盛土等規制区域内において行われる特定盛土等について都市計画法第二十九条第一項又は第二項の許可の申請をしたときは、当該特定盛土等に関する工事については、第一項の規定による届出をしたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（変更の届出等）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定による届出をした者は、当該届出に係る特定盛土等又は土石の堆積に関する工事の計画の変更（主務省令で定める軽微な変更を除く。）をしようとするときは、当該変更後の工事に着手する日の三十日前までに、主務省令で定めるところにより、当該変更後の工事の計画を都道府県知事に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第五項の規定により同条第一項の規定による届出をしたものとみなされた特定盛土等に関する工事に係る都市計画法第三十五条の二第一項の許可の申請は、当該工事に係る前項の規定による届出とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第二項から第四項までの規定は、第一項の規定による届出について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（住民への周知）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">工事主は、次条第一項の許可の申請をするときは、あらかじめ、主務省令で定めるところにより、特定盛土等又は土石の堆積に関する工事の施行に係る土地の周辺地域の住民に対し、説明会の開催その他の当該特定盛土等又は土石の堆積に関する工事の内容を周知させるため必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（特定盛土等又は土石の堆積に関する工事の許可）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">特定盛土等規制区域内において行われる特定盛土等又は土石の堆積（大規模な崖崩れ又は土砂の流出を生じさせるおそれが大きいものとして政令で定める規模のものに限る。以下この条から第三十九条まで及び第五十五条第一項第二号において同じ。）に関する工事については、工事主は、当該工事に着手する前に、主務省令で定めるところにより、都道府県知事の許可を受けなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特定盛土等又は土石の堆積に伴う災害の発生のおそれがないと認められるものとして政令で定める工事については、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の許可の申請が次に掲げる基準に適合しないと認めるとき、又はその申請の手続がこの法律若しくはこの法律に基づく命令の規定に違反していると認めるときは、同項の許可をしてはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該申請に係る特定盛土等又は土石の堆積に関する工事の計画が次条の規定に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">工事主に当該特定盛土等又は土石の堆積に関する工事を行うために必要な資力及び信用があること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">工事施行者に当該特定盛土等又は土石の堆積に関する工事を完成するために必要な能力があること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該特定盛土等又は土石の堆積に関する工事（土地区画整理法第二条第一項に規定する土地区画整理事業その他の公共施設の整備又は土地利用の増進を図るための事業として政令で定めるものの施行に伴うものを除く。）をしようとする土地の区域内の土地について所有権、地上権、質権、賃借権、使用貸借による権利又はその他の使用及び収益を目的とする権利を有する者の全ての同意を得ていること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の許可に、工事の施行に伴う災害を防止するため必要な条件を付することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の許可をしたときは、速やかに、主務省令で定めるところにより、工事主の氏名又は名称、特定盛土等又は土石の堆積に関する工事が施行される土地の所在地その他主務省令で定める事項を公表するとともに、関係市町村長に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の許可を受けた者は、当該許可に係る工事については、第二十七条第一項の規定による届出をすることを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（特定盛土等又は土石の堆積に関する工事の技術的基準等）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定盛土等規制区域内において行われる特定盛土等又は土石の堆積に関する工事（前条第一項ただし書に規定する工事を除く。第四十条第一項において同じ。）は、政令（その政令で都道府県の規則に委任した事項に関しては、その規則を含む。）で定める技術的基準に従い、擁壁等の設置その他特定盛土等又は土石の堆積に伴う災害を防止するため必要な措置が講ぜられたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により講ずべきものとされる措置のうち政令（同項の政令で都道府県の規則に委任した事項に関しては、その規則を含む。）で定めるものの工事は、政令で定める資格を有する者の設計によらなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（条例で定める特定盛土等又は土石の堆積の規模）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、第三十条第一項の許可について、特定盛土等又は土石の堆積に伴う災害を防止するために必要があると認める場合においては、同項の政令で定める特定盛土等又は土石の堆積の規模を当該規模未満で条例で定める規模とすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（許可証の交付又は不許可の通知）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第三十条第一項の許可の申請があつたときは、遅滞なく、許可又は不許可の処分をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の申請をした者に、同項の許可の処分をしたときは許可証を交付し、同項の不許可の処分をしたときは文書をもつてその旨を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定盛土等又は土石の堆積に関する工事は、前項の許可証の交付を受けた後でなければ、することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項の許可証の様式は、主務省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（許可の特例）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国又は都道府県、指定都市若しくは中核市が特定盛土等規制区域内において行う特定盛土等又は土石の堆積に関する工事については、これらの者と都道府県知事との協議が成立することをもつて第三十条第一項の許可があつたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定盛土等規制区域内において行われる特定盛土等について当該特定盛土等規制区域の指定後に都市計画法第二十九条第一項又は第二項の許可を受けたときは、当該特定盛土等に関する工事については、第三十条第一項の許可を受けたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（変更の許可等）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第三十条第一項の許可を受けた者は、当該許可に係る特定盛土等又は土石の堆積に関する工事の計画の変更をしようとするときは、主務省令で定めるところにより、都道府県知事の許可を受けなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、主務省令で定める軽微な変更をしようとするときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十条第一項の許可を受けた者は、前項ただし書の主務省令で定める軽微な変更をしたときは、遅滞なく、その旨を都道府県知事に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十条第二項から第四項まで、第三十一条から第三十三条まで及び前条第一項の規定は、第一項の許可について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項又は第二項の場合における次条から第三十八条までの規定の適用については、第一項の許可又は第二項の規定による届出に係る変更後の内容を第三十条第一項の許可の内容とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第二項の規定により第三十条第一項の許可を受けたものとみなされた特定盛土等に関する工事に係る都市計画法第三十五条の二第一項の許可又は同条第三項の規定による届出は、当該工事に係る第一項の許可又は第二項の規定による届出とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（完了検査等）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定盛土等に関する工事について第三十条第一項の許可を受けた者は、当該許可に係る工事を完了したときは、主務省令で定める期間内に、主務省令で定めるところにより、その工事が第三十一条第一項の規定に適合しているかどうかについて、都道府県知事の検査を申請しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の検査の結果、工事が第三十一条第一項の規定に適合していると認めた場合においては、主務省令で定める様式の検査済証を第三十条第一項の許可を受けた者に交付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十四条第二項の規定により第三十条第一項の許可を受けたものとみなされた特定盛土等に関する工事に係る都市計画法第三十六条第一項の規定による届出又は同条第二項の規定により交付された検査済証は、当該工事に係る第一項の規定による申請又は前項の規定により交付された検査済証とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">土石の堆積に関する工事について第三十条第一項の許可を受けた者は、当該許可に係る工事（堆積した全ての土石を除却するものに限る。）を完了したときは、主務省令で定める期間内に、主務省令で定めるところにより、堆積されていた全ての土石の除却が行われたかどうかについて、都道府県知事の確認を申請しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の確認の結果、堆積されていた全ての土石が除却されたと認めた場合においては、主務省令で定める様式の確認済証を第三十条第一項の許可を受けた者に交付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleCaption>（中間検査）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十条第一項の許可を受けた者は、当該許可に係る特定盛土等（政令で定める規模のものに限る。）に関する工事が政令で定める工程（以下この条において「特定工程」という。）を含む場合において、当該特定工程に係る工事を終えたときは、その都度主務省令で定める期間内に、主務省令で定めるところにより、都道府県知事の検査を申請しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の検査の結果、当該特定工程に係る工事が第三十一条第一項の規定に適合していると認めた場合においては、主務省令で定める様式の当該特定工程に係る中間検査合格証を第三十条第一項の許可を受けた者に交付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定工程ごとに政令で定める当該特定工程後の工程に係る工事は、前項の規定による当該特定工程に係る中間検査合格証の交付を受けた後でなければ、することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、第一項の検査について、特定盛土等に伴う災害を防止するために必要があると認める場合においては、同項の政令で定める特定盛土等の規模を当該規模未満で条例で定める規模とし、又は特定工程（当該特定工程後の前項に規定する工程を含む。）として条例で定める工程を追加することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の検査において第三十一条第一項の規定に適合することを認められた特定工程に係る工事については、前条第一項の検査において当該工事に係る部分の検査をすることを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleCaption>（定期の報告）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十条第一項の許可（政令で定める規模の特定盛土等又は土石の堆積に関する工事に係るものに限る。）を受けた者は、主務省令で定めるところにより、主務省令で定める期間ごとに、当該許可に係る特定盛土等又は土石の堆積に関する工事の実施の状況その他主務省令で定める事項を都道府県知事に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、前項の報告について、特定盛土等又は土石の堆積に伴う災害を防止するために必要があると認める場合においては、同項の政令で定める特定盛土等若しくは土石の堆積の規模を当該規模未満で条例で定める規模とし、同項の主務省令で定める期間を当該期間より短い期間で条例で定める期間とし、又は同項の主務省令で定める事項に条例で必要な事項を付加することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39">
+          <ArticleCaption>（監督処分）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、偽りその他不正な手段により第三十条第一項若しくは第三十五条第一項の許可を受けた者又はその許可に付した条件に違反した者に対して、その許可を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、特定盛土等規制区域内において行われている特定盛土等又は土石の堆積に関する次に掲げる工事については、当該工事主又は当該工事の請負人（請負工事の下請人を含む。）若しくは現場管理者（第四項から第六項までにおいて「工事主等」という。）に対して、当該工事の施行の停止を命じ、又は相当の猶予期限を付けて、擁壁等の設置その他特定盛土等若しくは土石の堆積に伴う災害の防止のため必要な措置（以下この条において「災害防止措置」という。）をとることを命ずることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十条第一項又は第三十五条第一項の規定に違反して第三十条第一項又は第三十五条第一項の許可を受けないで施行する工事</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十条第三項（第三十五条第三項において準用する場合を含む。）の規定により許可に付した条件に違反する工事</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条第一項の規定に適合していない工事</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十七条第一項の規定に違反して同項の検査を申請しないで施行する工事</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、特定盛土等規制区域内の次に掲げる土地については、当該土地の所有者、管理者若しくは占有者又は当該工事主（第五項第一号及び第二号並びに第六項において「土地所有者等」という。）に対して、当該土地の使用を禁止し、若しくは制限し、又は相当の猶予期限を付けて、災害防止措置をとることを命ずることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十条第一項又は第三十五条第一項の規定に違反して第三十条第一項又は第三十五条第一項の許可を受けないで特定盛土等又は土石の堆積に関する工事が施行された土地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十六条第一項の規定に違反して同項の検査を申請せず、又は同項の検査の結果工事が第三十一条第一項の規定に適合していないと認められた土地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十六条第四項の規定に違反して同項の確認を申請せず、又は同項の確認の結果堆積されていた全ての土石が除却されていないと認められた土地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十七条第一項の規定に違反して同項の検査を申請しないで特定盛土等に関する工事が施行された土地</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第二項の規定により工事の施行の停止を命じようとする場合において、緊急の必要により弁明の機会の付与を行うことができないときは、同項に規定する工事に該当することが明らかな場合に限り、弁明の機会の付与を行わないで、工事主等に対して、当該工事の施行の停止を命ずることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該工事主等が当該工事の現場にいないときは、当該工事に従事する者に対して、当該工事に係る作業の停止を命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、次の各号のいずれかに該当すると認めるときは、自ら災害防止措置の全部又は一部を講ずることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第二号に該当すると認めるときは、相当の期限を定めて、当該災害防止措置を講ずべき旨及びその期限までに当該災害防止措置を講じないときは自ら当該災害防止措置を講じ、当該災害防止措置に要した費用を徴収することがある旨を、あらかじめ、公告しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二項又は第三項の規定により災害防止措置を講ずべきことを命ぜられた工事主等又は土地所有者等が、当該命令に係る期限までに当該命令に係る措置を講じないとき、講じても十分でないとき、又は講ずる見込みがないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二項又は第三項の規定により災害防止措置を講ずべきことを命じようとする場合において、過失がなくて当該災害防止措置を命ずべき工事主等又は土地所有者等を確知することができないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">緊急に災害防止措置を講ずる必要がある場合において、第二項又は第三項の規定により災害防止措置を講ずべきことを命ずるいとまがないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により同項の災害防止措置の全部又は一部を講じたときは、当該災害防止措置に要した費用について、主務省令で定めるところにより、当該工事主等又は土地所有者等に負担させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により負担させる費用の徴収については、行政代執行法第五条及び第六条の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="40">
+          <ArticleCaption>（工事等の届出）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定盛土等規制区域の指定の際、当該特定盛土等規制区域内において行われている特定盛土等又は土石の堆積に関する工事の工事主は、その指定があつた日から二十一日以内に、主務省令で定めるところにより、当該工事について都道府県知事に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定による届出を受理したときは、速やかに、主務省令で定めるところにより、工事主の氏名又は名称、特定盛土等又は土石の堆積に関する工事が施行される土地の所在地その他主務省令で定める事項を公表するとともに、関係市町村長に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定盛土等規制区域内の土地（公共施設用地を除く。以下この章において同じ。）において、擁壁等に関する工事その他の工事で政令で定めるものを行おうとする者（第三十条第一項若しくは第三十五条第一項の許可を受け、又は第二十七条第一項、第二十八条第一項若しくは第三十五条第二項の規定による届出をした者を除く。）は、その工事に着手する日の十四日前までに、主務省令で定めるところにより、その旨を都道府県知事に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定盛土等規制区域内において、公共施設用地を宅地又は農地等に転用した者（第三十条第一項若しくは第三十五条第一項の許可を受け、又は第二十七条第一項、第二十八条第一項若しくは第三十五条第二項の規定による届出をした者を除く。）は、その転用した日から十四日以内に、主務省令で定めるところにより、その旨を都道府県知事に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleCaption>（土地の保全等）</ArticleCaption>
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定盛土等規制区域内の土地の所有者、管理者又は占有者は、特定盛土等又は土石の堆積（特定盛土等規制区域の指定前に行われたものを含む。次項及び次条第一項において同じ。）に伴う災害が生じないよう、その土地を常時安全な状態に維持するように努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、特定盛土等規制区域内の土地について、特定盛土等又は土石の堆積に伴う災害の防止のため必要があると認める場合においては、その土地の所有者、管理者、占有者、工事主又は工事施行者に対し、擁壁等の設置又は改造その他特定盛土等又は土石の堆積に伴う災害の防止のため必要な措置をとることを勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleCaption>（改善命令）</ArticleCaption>
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、特定盛土等規制区域内の土地で、特定盛土等に伴う災害の防止のため必要な擁壁等が設置されておらず、若しくは極めて不完全であり、又は土石の堆積に伴う災害の防止のため必要な措置がとられておらず、若しくは極めて不十分であるために、これを放置するときは、特定盛土等又は土石の堆積に伴う災害の発生のおそれが大きいと認められるものがある場合においては、その災害の防止のため必要であり、かつ、土地の利用状況その他の状況からみて相当であると認められる限度において、当該特定盛土等規制区域内の土地又は擁壁等の所有者、管理者又は占有者（次項において「土地所有者等」という。）に対して、相当の猶予期限を付けて、擁壁等の設置若しくは改造、地形若しくは盛土の改良又は土石の除却のための工事を行うことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、土地所有者等以外の者の特定盛土等又は土石の堆積に関する不完全な工事その他の行為によつて同項の災害の発生のおそれが生じたことが明らかであり、その行為をした者（その行為が隣地における土地の形質の変更又は土石の堆積であるときは、その土地の所有者を含む。以下この項において同じ。）に前項の工事の全部又は一部を行わせることが相当であると認められ、かつ、これを行わせることについて当該土地所有者等に異議がないときは、都道府県知事は、その行為をした者に対して、同項の工事の全部又は一部を行うことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十九条第五項から第七項までの規定は、前二項の場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="43">
+          <ArticleCaption>（立入検査）</ArticleCaption>
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第二十七条第四項（第二十八条第三項において準用する場合を含む。）、第三十条第一項、第三十五条第一項、第三十六条第一項若しくは第四項、第三十七条第一項、第三十九条第一項から第四項まで又は前条第一項若しくは第二項の規定による権限を行うために必要な限度において、その職員に、当該土地に立ち入り、当該土地又は当該土地において行われている特定盛土等若しくは土石の堆積に関する工事の状況を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七条第一項及び第三項の規定は、前項の場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="44">
+          <ArticleCaption>（報告の徴取）</ArticleCaption>
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、特定盛土等規制区域内の土地の所有者、管理者又は占有者に対して、当該土地又は当該土地において行われている工事の状況について報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　造成宅地防災区域</ChapterTitle>
+        <Article Num="45">
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、基本方針に基づき、かつ、基礎調査の結果を踏まえ、この法律の目的を達成するために必要があると認めるときは、宅地造成又は特定盛土等（宅地において行うものに限る。第四十七条第二項において同じ。）に伴う災害で相当数の居住者等に危害を生ずるものの発生のおそれが大きい一団の造成宅地（これに附帯する道路その他の土地を含み、宅地造成等工事規制区域内の土地を除く。）の区域であつて政令で定める基準に該当するものを、造成宅地防災区域として指定することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、擁壁等の設置又は改造その他前項の災害の防止のため必要な措置を講ずることにより、造成宅地防災区域の全部又は一部について同項の指定の事由がなくなつたと認めるときは、当該造成宅地防災区域の全部又は一部について同項の指定を解除するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十条第二項から第六項までの規定は、第一項の規定による指定及び前項の規定による指定の解除について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="8">
+        <ChapterTitle>第八章　造成宅地防災区域内における災害の防止のための措置</ChapterTitle>
+        <Article Num="46">
+          <ArticleCaption>（災害の防止のための措置）</ArticleCaption>
+          <ArticleTitle>第四十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">造成宅地防災区域内の造成宅地の所有者、管理者又は占有者は、前条第一項の災害が生じないよう、その造成宅地について擁壁等の設置又は改造その他必要な措置を講ずるように努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、造成宅地防災区域内の造成宅地について、前条第一項の災害の防止のため必要があると認める場合においては、その造成宅地の所有者、管理者又は占有者に対し、擁壁等の設置又は改造その他同項の災害の防止のため必要な措置をとることを勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="47">
+          <ArticleCaption>（改善命令）</ArticleCaption>
+          <ArticleTitle>第四十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、造成宅地防災区域内の造成宅地で、第四十五条第一項の災害の防止のため必要な擁壁等が設置されておらず、又は極めて不完全であるために、これを放置するときは、同項の災害の発生のおそれが大きいと認められるものがある場合においては、その災害の防止のため必要であり、かつ、土地の利用状況その他の状況からみて相当であると認められる限度において、当該造成宅地又は擁壁等の所有者、管理者又は占有者（次項において「造成宅地所有者等」という。）に対して、相当の猶予期限を付けて、擁壁等の設置若しくは改造又は地形若しくは盛土の改良のための工事を行うことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、造成宅地所有者等以外の者の宅地造成又は特定盛土等に関する不完全な工事その他の行為によつて第四十五条第一項の災害の発生のおそれが生じたことが明らかであり、その行為をした者（その行為が隣地における土地の形質の変更であるときは、その土地の所有者を含む。以下この項において同じ。）に前項の工事の全部又は一部を行わせることが相当であると認められ、かつ、これを行わせることについて当該造成宅地所有者等に異議がないときは、都道府県知事は、その行為をした者に対して、同項の工事の全部又は一部を行うことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十条第五項から第七項までの規定は、前二項の場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="48">
+          <ArticleCaption>（準用）</ArticleCaption>
+          <ArticleTitle>第四十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十四条の規定は都道府県知事が前条第一項又は第二項の規定による権限を行うため必要がある場合について、第二十五条の規定は造成宅地防災区域内における造成宅地の所有者、管理者又は占有者について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="9">
+        <ChapterTitle>第九章　雑則</ChapterTitle>
+        <Article Num="49">
+          <ArticleCaption>（標識の掲示）</ArticleCaption>
+          <ArticleTitle>第四十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条第一項若しくは第三十条第一項の許可を受けた工事主又は第二十七条第一項の規定による届出をした工事主は、当該許可又は届出に係る土地の見やすい場所に、主務省令で定めるところにより、氏名又は名称その他の主務省令で定める事項を記載した標識を掲げなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="50">
+          <ArticleCaption>（市町村長の意見の申出）</ArticleCaption>
+          <ArticleTitle>第五十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、宅地造成等工事規制区域、特定盛土等規制区域及び造成宅地防災区域内における宅地造成、特定盛土等又は土石の堆積に伴う災害の防止に関し、都道府県知事に意見を申し出ることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="51">
+          <ArticleCaption>（緊急時の指示）</ArticleCaption>
+          <ArticleTitle>第五十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、宅地造成、特定盛土等又は土石の堆積に伴う災害が発生し、又は発生するおそれがあると認められる場合において、当該災害を防止し、又は軽減するため緊急の必要があると認められるときは、都道府県知事に対し、この法律の規定により都道府県知事が行う事務のうち政令で定めるものに関し、必要な指示をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="52">
+          <ArticleCaption>（都道府県への援助）</ArticleCaption>
+          <ArticleTitle>第五十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第十条第一項の規定による宅地造成等工事規制区域の指定、第二十六条第一項の規定による特定盛土等規制区域の指定及び第四十五条第一項の規定による造成宅地防災区域の指定その他この法律に基づく都道府県が行う事務が適正かつ円滑に行われるよう、都道府県に対する必要な助言、情報の提供その他の援助を行うよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="53">
+          <ArticleCaption>（主務大臣等）</ArticleCaption>
+          <ArticleTitle>第五十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律における主務大臣は、国土交通大臣及び農林水産大臣とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律における主務省令は、主務大臣が共同で発する命令とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="54">
+          <ArticleCaption>（政令への委任）</ArticleCaption>
+          <ArticleTitle>第五十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に特に定めるもののほか、この法律によりなすべき公告の方法その他この法律の実施のため必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="10">
+        <ChapterTitle>第十章　罰則</ChapterTitle>
+        <Article Num="55">
+          <ArticleTitle>第五十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、三年以下の拘禁刑又は千万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条第一項又は第十六条第一項の規定に違反して、宅地造成、特定盛土等又は土石の堆積に関する工事をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十条第一項又は第三十五条第一項の規定に違反して、特定盛土等又は土石の堆積に関する工事をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">偽りその他不正な手段により、第十二条第一項、第十六条第一項、第三十条第一項又は第三十五条第一項の許可を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十条第二項から第四項まで又は第三十九条第二項から第四項までの規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十三条第一項又は第三十一条第一項の規定に違反して宅地造成、特定盛土等又は土石の堆積に関する工事の設計をした場合において、当該工事が施行されたときは、当該違反行為をした当該工事の設計をした者（設計図書を用いないで当該工事を施行し、又は設計図書に従わないで当該工事を施行したときは、当該工事施行者（当該工事施行者が法人である場合にあつては、その代表者）又はその代理人、使用人その他の従業者（次項において「工事施行者等」という。））は、三年以下の拘禁刑又は千万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する違反があつた場合において、その違反が工事主（当該工事主が法人である場合にあつては、その代表者）又はその代理人、使用人その他の従業者（以下この項において「工事主等」という。）の故意によるものであるときは、当該設計をした者又は工事施行者等を罰するほか、当該工事主等に対して前項の刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="56">
+          <ArticleTitle>第五十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、一年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条第一項若しくは第四項、第十八条第一項、第三十六条第一項若しくは第四項又は第三十七条第一項の規定による申請をせず、又は虚偽の申請をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条第一項又は第三十八条第一項の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十三条第一項若しくは第二項、第二十七条第四項（第二十八条第三項において準用する場合を含む。）、第四十二条第一項若しくは第二項又は第四十七条第一項若しくは第二項の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条第一項（第四十八条において準用する場合を含む。）又は第四十三条第一項の規定による検査を拒み、妨げ、又は忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="57">
+          <ArticleTitle>第五十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十七条第一項又は第二十八条第一項の規定による届出をしないでこれらの規定に規定する工事を行い、又は虚偽の届出をしたときは、当該違反行為をした者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="58">
+          <ArticleTitle>第五十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、六月以下の拘禁刑又は三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第一項の規定による土地の立入りを拒み、又は妨げたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六条第一項に規定する場合において、市町村長の許可を受けないで障害物を伐除したとき、又は都道府県知事の許可を受けないで土地に試掘等を行つたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十一条第一項若しくは第四項又は第四十条第一項若しくは第四項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十一条第三項又は第四十条第三項の規定による届出をしないでこれらの規定に規定する工事を行い、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条（第四十八条において準用する場合を含む。）又は第四十四条の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="59">
+          <ArticleTitle>第五十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四十九条の規定に違反したときは、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="60">
+          <ArticleTitle>第六十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務又は財産に関し、次の各号に掲げる規定の違反行為をしたときは、行為者を罰するほか、その法人に対して当該各号に定める罰金刑を、その人に対して各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第五十五条</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">三億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第五十六条第三号</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">一億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第五十六条第一号、第二号若しくは第四号又は前三条</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">各本条の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="61">
+          <ArticleTitle>第六十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十六条第二項又は第三十五条第二項の規定に違反して、届出をせず、又は虚偽の届出をした者は、三十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月をこえない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、昭和三十七年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律による改正後の規定は、この附則に特別の定めがある場合を除き、この法律の施行前にされた行政庁の処分、この法律の施行前にされた申請に係る行政庁の不作為その他この法律の施行前に生じた事項についても適用する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この法律による改正前の規定によつて生じた効力を妨げない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行前に提起された訴願、審査の請求、異議の申立てその他の不服申立て（以下「訴願等」という。）については、この法律の施行後も、なお従前の例による。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">この法律の施行前にされた訴願等の裁決、決定その他の処分（以下「裁決等」という。）又はこの法律の施行前に提起された訴願等につきこの法律の施行後にされる裁決等にさらに不服がある場合の訴願等についても、同様とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">前項に規定する訴願等で、この法律の施行後は行政不服審査法による不服申立てをすることができることとなる処分に係るものは、同法以外の法律の適用については、行政不服審査法による不服申立てとみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">第三項の規定によりこの法律の施行後にされる審査の請求、異議の申立てその他の不服申立ての裁決等については、行政不服審査法による不服申立てをすることができない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <ParagraphNum>６</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行前にされた行政庁の処分で、この法律による改正前の規定により訴願等をすることができるものとされ、かつ、その提起期間が定められていなかつたものについて、行政不服審査法による不服申立てをすることができる期間は、この法律の施行の日から起算する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="8">
+        <ParagraphNum>８</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="9">
+        <ParagraphNum>９</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">前八項に定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三九年七月九日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月をこえない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四三年六月一五日法律第一〇一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律（第一条を除く。）は、新法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五三年五月一日法律第三八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五六年五月三〇日法律第五八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五九年五月二五日法律第四七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、昭和五十九年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三年五月二一日法律第七九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条及び附則第二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（宅地造成等規制法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四条の規定の施行の際現に同条の規定による改正前の宅地造成等規制法（以下この条において「旧法」という。）第三条第一項の規定による申出がされている市街地又は市街地になろうとする土地の区域に対する宅地造成工事規制区域の指定に関しては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定によりした宅地造成工事規制区域の指定は、第四条の規定による改正後の宅地造成等規制法第三条第一項の規定によりした宅地造成工事規制区域の指定とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（その他の処分、申請等に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定については、当該各規定。以下この条及び次条において同じ。）の施行前に改正前のそれぞれの法律の規定によりされた許可等の処分その他の行為（以下この条において「処分等の行為」という。）又はこの法律の施行の際現に改正前のそれぞれの法律の規定によりされている許可等の申請その他の行為（以下この条において「申請等の行為」という。）でこの法律の施行の日においてこれらの行為に係る行政事務を行うべき者が異なることとなるものは、附則第二条から前条までの規定又は改正後のそれぞれの法律（これに基づく命令を含む。）の経過措置に関する規定に定めるものを除き、この法律の施行の日以後における改正後のそれぞれの法律の適用については、改正後のそれぞれの法律の相当規定によりされた処分等の行為又は申請等の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及び附則第二条第一項の規定により従前の例によることとされる場合における第四条の規定の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、行政手続法（平成五年法律第八十八号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（諮問等がされた不利益処分に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に法令に基づき審議会その他の合議制の機関に対し行政手続法第十三条に規定する聴聞又は弁明の機会の付与の手続その他の意見陳述のための手続に相当する手続を執るべきことの諮問その他の求めがされた場合においては、当該諮問その他の求めに係る不利益処分の手続に関しては、この法律による改正後の関係法律の規定にかかわらず、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（聴聞に関する規定の整理に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に法律の規定により行われた聴聞、聴問若しくは聴聞会（不利益処分に係るものを除く。）又はこれらのための手続は、この法律による改正後の関係法律の相当規定により行われたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成六年六月二九日法律第四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律中、第一章の規定及び次項の規定は地方自治法の一部を改正する法律（平成六年法律第四十八号）中地方自治法（昭和二十二年法律第六十七号）第二編第十二章の改正規定の施行の日から、第二章の規定は地方自治法の一部を改正する法律中地方自治法第三編第三章の改正規定の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中地方自治法第二百五十条の次に五条、節名並びに二款及び款名を加える改正規定（同法第二百五十条の九第一項に係る部分（両議院の同意を得ることに係る部分に限る。）に限る。）、第四十条中自然公園法附則第九項及び第十項の改正規定（同法附則第十項に係る部分に限る。）、第二百四十四条の規定（農業改良助長法第十四条の三の改正規定に係る部分を除く。）並びに第四百七十二条の規定（市町村の合併の特例に関する法律第六条、第八条及び第十七条の改正規定に係る部分を除く。）並びに附則第七条、第十条、第十二条、第五十九条ただし書、第六十条第四項及び第五項、第七十三条、第七十七条、第百五十七条第四項から第六項まで、第百六十条、第百六十三条、第百六十四条並びに第二百二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="159">
+        <ArticleCaption>（国等の事務）</ArticleCaption>
+        <ArticleTitle>第百五十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正前のそれぞれの法律に規定するもののほか、この法律の施行前において、地方公共団体の機関が法律又はこれに基づく政令により管理し又は執行する国、他の地方公共団体その他公共団体の事務（附則第百六十一条において「国等の事務」という。）は、この法律の施行後は、地方公共団体が法律又はこれに基づく政令により当該地方公共団体の事務として処理するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="160">
+        <ArticleCaption>（処分、申請等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定については、当該各規定。以下この条及び附則第百六十三条において同じ。）の施行前に改正前のそれぞれの法律の規定によりされた許可等の処分その他の行為（以下この条において「処分等の行為」という。）又はこの法律の施行の際現に改正前のそれぞれの法律の規定によりされている許可等の申請その他の行為（以下この条において「申請等の行為」という。）で、この法律の施行の日においてこれらの行為に係る行政事務を行うべき者が異なることとなるものは、附則第二条から前条までの規定又は改正後のそれぞれの法律（これに基づく命令を含む。）の経過措置に関する規定に定めるものを除き、この法律の施行の日以後における改正後のそれぞれの法律の適用については、改正後のそれぞれの法律の相当規定によりされた処分等の行為又は申請等の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に改正前のそれぞれの法律の規定により国又は地方公共団体の機関に対し報告、届出、提出その他の手続をしなければならない事項で、この法律の施行の日前にその手続がされていないものについては、この法律及びこれに基づく政令に別段の定めがあるもののほか、これを、改正後のそれぞれの法律の相当規定により国又は地方公共団体の相当の機関に対して報告、届出、提出その他の手続をしなければならない事項についてその手続がされていないものとみなして、この法律による改正後のそれぞれの法律の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="161">
+        <ArticleCaption>（不服申立てに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にされた国等の事務に係る処分であって、当該処分をした行政庁（以下この条において「処分庁」という。）に施行日前に行政不服審査法に規定する上級行政庁（以下この条において「上級行政庁」という。）があったものについての同法による不服申立てについては、施行日以後においても、当該処分庁に引き続き上級行政庁があるものとみなして、行政不服審査法の規定を適用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該処分庁の上級行政庁とみなされる行政庁は、施行日前に当該処分庁の上級行政庁であった行政庁とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の場合において、上級行政庁とみなされる行政庁が地方公共団体の機関であるときは、当該機関が行政不服審査法の規定により処理することとされる事務は、新地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="162">
+        <ArticleCaption>（手数料に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前においてこの法律による改正前のそれぞれの法律（これに基づく命令を含む。）の規定により納付すべきであった手数料については、この法律及びこれに基づく政令に別段の定めがあるもののほか、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="163">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="164">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百六十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="250">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二百五十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新地方自治法第二条第九項第一号に規定する第一号法定受託事務については、できる限り新たに設けることのないようにするとともに、新地方自治法別表第一に掲げるもの及び新地方自治法に基づく政令に示すものについては、地方分権を推進する観点から検討を加え、適宜、適切な見直しを行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="251">
+        <ArticleTitle>第二百五十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、地方公共団体が事務及び事業を自主的かつ自立的に執行できるよう、国と地方公共団体との役割分担に応じた地方税財源の充実確保の方途について、経済情勢の推移等を勘案しつつ検討し、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年四月一日法律第三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日（以下「施行日」という。）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第四条の規定（住宅金融公庫法第十七条第八項の改正規定を除く。）並びに第五条並びに附則第五条及び第六条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（宅地造成等規制法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に第一条の規定による改正前の宅地造成等規制法（以下この条において「旧法」という。）第三条第一項の規定により指定されている宅地造成工事規制区域は、第一条の規定による改正後の宅地造成等規制法（以下この条において「新法」という。）第三条第一項の規定により指定された宅地造成工事規制区域とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第八条第一項ただし書の規定は、第二条の規定による改正前の都市計画法（以下「旧都市計画法」という。）第二十九条第一項若しくは第二項の許可又は次条の規定によりその基準についてなお従前の例によることとされる第二条の規定による改正後の都市計画法（以下「新都市計画法」という。）第二十九条第一項若しくは第二項の許可を受けて行われる宅地造成に関する工事については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に旧法第八条第一項の規定によりされた宅地造成に関する工事の計画の変更の許可（以下この項において「旧法による変更許可」という。）又は旧法による変更許可の申請は当該変更が新法第十二条第一項ただし書の国土交通省令で定める軽微な変更に該当する場合以外の場合には同項の規定によりされた許可又は同項の許可の申請とみなし、旧法による変更許可の申請は当該変更が同項ただし書の国土交通省令で定める軽微な変更に該当する場合には同条第二項の規定によりされた変更の届出とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に旧法第十六条の規定によりされた命令は、新法第十七条の規定によりされた命令とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条ただし書に規定する規定については、当該規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年六月一四日法律第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四十条（次号に掲げる改正規定を除く。）、第五十条（同号に掲げる改正規定を除く。）、第五十四条（港湾法第五十条の三第三項の改正規定を除く。）、第五十七条及び第七十四条（鳥獣の保護及び狩猟の適正化に関する法律第三条第四項の改正規定を除く。）の規定並びに附則第八条及び第九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三月を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年五月三〇日法律第四二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">目次の改正規定（「／第二節</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">中核市に関する特例／第三節</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">特例市に関する特例／」を「第二節</Sentence>
+              </Column>
+              <Column Num="4">
+                <Sentence Num="1" WritingMode="vertical">中核市に関する特例」に改める部分に限る。）、第二百五十二条の二十二第一項の改正規定、第二編第十二章第三節を削る改正規定、第二百六十条の三十八を第二百六十条の四十とする改正規定及び第二百六十条の三十七の次に二条を加える改正規定並びに次条、附則第三条、第三十三条、第三十四条、第四十条、第四十一条、第四十五条から第四十八条まで、第五十一条、第五十二条、第五十四条、第五十五条、第五十八条、第五十九条、第六十三条、第六十四条、第六十八条、第六十九条及び第七十一条から第七十五条までの規定</Sentence>
+              </Column>
+              <Column Num="5">
+                <Sentence Num="1" WritingMode="vertical">平成二十七年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="41">
+        <ArticleCaption>（宅地造成等規制法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行時特例市に対する前条の規定による改正後の宅地造成等規制法第三条第一項、第七条第一項及び第十一条の規定の適用については、同法第三条第一項中「又は同法」とあるのは「、同法」と、「「中核市」とあるのは「「中核市」という。）又は地方自治法の一部を改正する法律（平成二十六年法律第四十二号）附則第二条に規定する施行時特例市（以下「施行時特例市」と、同項並びに同法第七条第一項及び第十一条中「又は中核市」とあるのは「、中核市又は施行時特例市」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二七日法律第五五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第四条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現にこの法律による改正前の宅地造成等規制法（以下この条において「旧法」という。）第三条第一項の規定による指定がされている宅地造成工事規制区域（以下この項及び次項において「旧宅地造成工事規制区域」という。）の区域内における宅地造成に関する工事等の規制については、この法律の施行の日（第三項において「施行日」という。）から起算して二年を経過する日（その日までにこの法律による改正後の宅地造成及び特定盛土等規制法（以下「新法」という。）第十条第四項の規定による公示がされた新法第四条第一項の都道府県の区域内にある旧宅地造成工事規制区域にあっては、当該公示の日の前日）までの間（次項において「経過措置期間」という。）は、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧宅地造成工事規制区域の区域内において行われる宅地造成に関する工事について旧法第八条第一項本文（前項の規定によりなお従前の例によることとされる場合を含む。）の許可（経過措置期間の経過前にされた都市計画法（昭和四十三年法律第百号）第二十九条第一項又は第二項の許可を含む。）を受けた者に係る当該許可に係る宅地造成に関する工事の規制については、経過措置期間の経過後においても、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に旧法第二十条第一項の規定による指定がされている造成宅地防災区域（以下この項において「旧造成宅地防災区域」という。）の指定の効力及び解除並びに旧造成宅地防災区域内における災害の防止のための措置については、施行日から起算して二年を経過する日（その日までに新法第四十五条第三項において準用する新法第十条第四項の規定による公示がされた新法第四条第一項の都道府県の区域内にある旧造成宅地防災区域にあっては、当該公示の日の前日）までの間は、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及び前条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年以内に、新法第十条第一項の宅地造成等工事規制区域及び新法第二十六条第一項の特定盛土等規制区域以外の土地における盛土等の状況その他この法律による改正後の規定の施行の状況等を勘案し、盛土等に関する工事、土砂の管理等に係る規制の在り方について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

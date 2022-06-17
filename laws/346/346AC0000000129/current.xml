@@ -1633,8 +1633,19 @@
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">沖縄県の区域における一般消費者の生活及び産業経済に及ぼす影響を考慮してその税負担を調整するため、次の各号に掲げる国税については、政令で当該各号に定める措置を定めることができる。</Sentence>
               </ParagraphSentence>
-              <Item Num="1:2">
-                <ItemTitle>一及び二</ItemTitle>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">酒税</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">沖縄県の区域内にある酒類（酒税法（昭和二十八年法律第六号）第二条第一項に規定する酒類をいう。以下この条及び次条において同じ。）の製造場のうち、当該製造場が沖縄の酒税法（千九百五十二年立法第十一号）の規定による免許を受けてこの法律の施行の日前から引き続いて酒類を製造していたものとして政令で定めるところによりその製造場の所在地の所轄税務署長の指定を受けた製造場において製造された酒類で、同日から令和八年九月三十日（酒税法第三条第十号に規定する単式蒸留焼酎にあつては、令和十四年五月十四日）までの間に、当該区域内にある酒類の製造場から移出されるもの（政令で定めるものを除く。）に係る酒税の軽減に関する措置</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">削除</Sentence>
                 </ItemSentence>
@@ -1688,13 +1699,13 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">沖縄県の区域内にある酒場、料理店その他これらに類する施設のうち、主として外国為替及び外国貿易法第六条第一項第六号に規定する非居住者又は当該区域に入域するその他の旅客に酒類（酒税法（昭和二十八年法律第六号）第二条第一項に規定する酒類をいう。次条第二項において同じ。）を提供する施設として政令で定めるところにより沖縄県知事の指定を受けた施設の経営者が、当該施設において客の飲用に供する目的でウイスキー類（酒税法第三条第九号に規定する酒類をいい、政令で定めるところにより、財務大臣の定める数量の範囲内において沖縄県知事が行う割当てを受けた数量の範囲内のものに限る。）をこの法律の施行の日から起算して三十年以内に保税地域から引き取る場合には、政令で定めるところにより、当該引取りに係る酒税を軽減する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">沖縄県の区域内にある酒場、料理店その他これらに類する施設のうち、主として外国為替及び外国貿易法第六条第一項第六号に規定する非居住者又は当該区域に入域するその他の旅客に酒類を提供する施設として政令で定めるところにより沖縄県知事の指定を受けた施設の経営者が、当該施設において客の飲用に供する目的でウイスキー類（酒税法第三条第九号に規定する酒類をいい、政令で定めるところにより、財務大臣の定める数量の範囲内において沖縄県知事が行う割当てを受けた数量の範囲内のものに限る。）をこの法律の施行の日から起算して三十年以内に保税地域から引き取る場合には、政令で定めるところにより、当該引取りに係る酒税を軽減する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">税務署長又は税関長は、第一項の規定の適用を受ける課税物品（揮発油をいう。以下第八十二条までにおいて同じ。）の製造者又は当該課税物品を保税地域から引き取ろうとする者に対し、政令で定めるところにより、当該課税物品が同項の規定の適用を受ける物品である旨を表示すべきことを命ずることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">税務署長又は税関長は、第一項の規定の適用を受ける課税物品（酒類又は揮発油をいう。以下第八十二条までにおいて同じ。）の製造者又は当該課税物品を保税地域から引き取ろうとする者に対し、政令で定めるところにより、当該課税物品が同項の規定の適用を受ける物品である旨を表示すべきことを命ずることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -1706,11 +1717,29 @@
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定に違反したときは、その違反行為をした者は、十万円以下の罰金又は科料に処する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項第一号の指定を受けようとする者は、当該製造場に係る製造設備の能力その他の政令で定める事項につき、政令で定めるところにより、当該製造場の所在地の所轄税務署長の確認を受けなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項第一号の指定を受けた者は、前項の確認を受けた事項で政令で定めるものを変更しようとする場合には、政令で定めるところにより、同項の税務署長の承認を受けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">税務署長は、第一項第一号の指定を受けた者が前項の承認を受けないで同項の確認に係る事項を変更した場合には、その指定を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第五項の規定に違反した者は、十万円以下の罰金又は科料に処する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務又は財産に関して前項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して同項の罰金刑を科する。</Sentence>
               </ParagraphSentence>
@@ -1721,7 +1750,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前条第一項の規定により内国消費税（揮発油税又は地方揮発油税をいう。以下この節（第八十五条及び第八十七条を除く。）において同じ。）の軽減又は免除を受けた課税物品を沖縄県の区域から当該区域以外の本邦の地域へ移出する目的で船舶又は航空機に積み込む場合には、その積込みをした者を当該課税物品の製造者と、当該積込みの場所を当該課税物品の製造場とみなし、その積込みの時に当該課税物品をその製造場から移出したものとみなして、内国消費税に関する法令の規定を適用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の規定により内国消費税（酒税、揮発油税又は地方揮発油税をいう。以下この節（第八十五条及び第八十七条を除く。）において同じ。）の軽減又は免除を受けた課税物品を沖縄県の区域から当該区域以外の本邦の地域へ移出する目的で船舶又は航空機に積み込む場合には、その積込みをした者を当該課税物品の製造者と、当該積込みの場所を当該課税物品の製造場とみなし、その積込みの時に当該課税物品をその製造場から移出したものとみなして、内国消費税に関する法令の規定を適用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、当該課税物品に課されるべき内国消費税の額は、同項の規定により軽減され又は免除された内国消費税に相当する金額（当該課税物品が次条の規定の適用を受けたものである場合には、当該金額（以下この項において「差額課税額」という。）から同条第一項の規定により課された、若しくは課されるべき内国消費税に相当する金額を控除した金額又は当該差額課税額に同条第二項の規定により控除され、若しくは控除されるべき若しくは還付され、若しくは還付されるべき内国消費税に相当する金額を加算した金額）とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1737,6 +1766,19 @@
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">前二項の規定により課税物品の製造者とみなされる者が提出すべき酒税法第三十条の二第一項、揮発油税法第十条第一項又は地方揮発油税法（昭和三十年法律第百四号）第七条第一項の規定による申告書は、これらの規定にかかわらず、第一項の規定に該当する場合には同項の積込みをした課税物品を沖縄県の区域から当該区域以外の本邦の地域に向けて移出する時までに、前項の規定に該当する場合には同項の規定によりその製造場から移出したものとみなされた日から起算して五日以内に、それぞれ、提出しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、政令で定めるところにより税務署長の承認を受けたときは、当該申告書の提出期限は、当該税務署長の指定した日とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定の適用を受ける酒類を同項に規定する目的で継続的に船舶又は航空機に積み込む者として政令で定める者に該当する者が、政令で定めるところにより当該酒類の主たる積込み場所の所在地の所轄税務署長の承認を受けた場合には、当該承認を受けた者が提出すべき酒税法第三十条の二第一項の規定による申告書については、前項の規定は、適用しない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第一項の規定により当該酒類の製造場とみなされる場所は、その承認の際に指定を受けた場所とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、同項の承認を受けた者が同項の規定の適用を受けることをやめようとする場合の手続その他同項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -6152,18 +6194,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">所得税法等の一部を改正する等の法律（平成二十九年法律第四号）附則第三十九条第十四項及び第十七項の酒類の製造場及び保税地域以外の場所又は同条第二十項及び第二十三項の酒類の製造場及び保税地域以外の場所が沖縄県の区域内の場所であり、かつ、これらの規定に規定する酒類が沖縄の復帰に伴う特別措置に関する法律第八十条第一項の規定の適用を受けて酒税を軽減された酒類である場合には、所得税法等の一部を改正する等の法律附則第三十九条第十四項から第十九項までの規定又は同条第二十項から第二十五項までの規定は、適用しない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この附則に別段の定めがあるものを除き、第六条の規定による改正前の沖縄の復帰に伴う特別措置に関する法律の規定により同条の規定の施行前に課した、又は課すべきであった酒税については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第六条の規定の施行前にした行為及び前項の規定によりなお従前の例によることとされる酒税に係る同条の規定の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

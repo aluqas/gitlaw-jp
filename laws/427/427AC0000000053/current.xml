@@ -1,0 +1,2658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="053" Year="27" PromulgateMonth="07" PromulgateDay="08"><LawNum>平成二十七年法律第五十三号</LawNum><LawBody><LawTitle Kana="けんちくぶつのえねるぎーしょうひせいのうのこうじょうとうにかんするほうりつ" Abbrev="建築物省エネ法" AbbrevKana="け">建築物のエネルギー消費性能の向上等に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　基本方針等</ChapterTitle>
+        <ArticleRange>（第三条―第九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　建築主が講ずべき措置等</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　建築主の基準適合義務等</SectionTitle>
+          <ArticleRange>（第十条―第二十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　分譲型一戸建て規格住宅及び分譲型規格共同住宅等に係る措置</SectionTitle>
+          <ArticleRange>（第二十一条―第二十三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　請負型一戸建て規格住宅及び請負型規格共同住宅等に係る措置</SectionTitle>
+          <ArticleRange>（第二十四条―第二十六条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　販売事業者等による建築物の販売等に係る措置</ChapterTitle>
+        <ArticleRange>（第二十七条・第二十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　建築物エネルギー消費性能向上計画の認定等</ChapterTitle>
+        <ArticleRange>（第二十九条―第三十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　登録建築物エネルギー消費性能判定機関等</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　登録建築物エネルギー消費性能判定機関</SectionTitle>
+          <ArticleRange>（第三十六条―第五十二条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　登録建築物エネルギー消費性能評価機関</SectionTitle>
+          <ArticleRange>（第五十三条―第五十九条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　建築物再生可能エネルギー利用促進区域における措置</ChapterTitle>
+        <ArticleRange>（第六十条―第六十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="8">
+        <ChapterTitle>第八章　雑則</ChapterTitle>
+        <ArticleRange>（第六十五条―第六十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="9">
+        <ChapterTitle>第九章　罰則</ChapterTitle>
+        <ArticleRange>（第六十九条―第七十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、社会経済情勢の変化に伴い建築物におけるエネルギーの消費量が著しく増加していることに鑑み、建築物のエネルギー消費性能の向上及び建築物への再生可能エネルギー利用設備の設置の促進（以下「建築物のエネルギー消費性能の向上等」という。）に関する基本的な方針の策定について定めるとともに、建築物の建築物エネルギー消費性能基準への適合性を確保するための措置、建築物エネルギー消費性能向上計画の認定その他の措置を講ずることにより、エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律（昭和五十四年法律第四十九号）と相まって、建築物のエネルギー消費性能の向上等を図り、もって国民経済の健全な発展と国民生活の安定向上に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義等）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">建築物</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">建築基準法（昭和二十五年法律第二百一号）第二条第一号に規定する建築物をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">エネルギー消費性能</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">建築物の一定の条件での使用に際し消費されるエネルギー（エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律第二条第一項に規定するエネルギーをいい、建築物に設ける空気調和設備その他の政令で定める建築設備（第六条第二項及び第二十九条第三項において「空気調和設備等」という。）において消費されるものに限る。）の量を基礎として評価される性能をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">建築物エネルギー消費性能基準</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">建築物の備えるべきエネルギー消費性能の確保のために必要な建築物の構造及び設備に関する経済産業省令・国土交通省令で定める基準をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">建築主等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">建築主（建築物に関する工事の請負契約の注文者又は請負契約によらないで自らその工事をする者をいう。以下同じ。）又は建築物の所有者、管理者若しくは占有者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">所管行政庁</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Function="main" Num="1" WritingMode="vertical">建築基準法の規定により建築主事又は建築副主事を置く市町村の区域については市町村長をいい、その他の市町村の区域については都道府県知事をいう。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同法第九十七条の二第一項若しくは第二項又は第九十七条の三第一項若しくは第二項の規定により建築主事又は建築副主事を置く市町村の区域内の政令で定める建築物については、都道府県知事とする。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体は、その地方の自然的社会的条件の特殊性により、建築物エネルギー消費性能基準のみによっては建築物のエネルギー消費性能の確保を図ることが困難であると認める場合においては、条例で、建築物エネルギー消費性能基準に必要な事項を付加することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　基本方針等</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（基本方針）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、建築物のエネルギー消費性能の向上等に関する基本的な方針（以下この条、第三十条第一項第二号及び第六十条第一項において「基本方針」という。）を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基本方針においては、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物のエネルギー消費性能の向上等の意義及び目標に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物のエネルギー消費性能の向上等のための施策に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物のエネルギー消費性能の向上等のために建築主等が講ずべき措置に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十条第一項に規定する促進計画に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、建築物のエネルギー消費性能の向上等に関する重要事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基本方針は、エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律第三条第一項に規定する基本方針との調和が保たれたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、基本方針を定めようとするときは、経済産業大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、基本方針を定めたときは、遅滞なく、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項の規定は、基本方針の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（国の責務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、建築物のエネルギー消費性能の向上等に関する施策を総合的に策定し、及び実施する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、地方公共団体が建築物のエネルギー消費性能の向上等に関する施策を円滑に実施することができるよう、地方公共団体に対し、助言その他の必要な援助を行うよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、建築物のエネルギー消費性能の向上等を図るために必要な財政上、金融上及び税制上の措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、建築物のエネルギー消費性能の向上等に関する研究、技術の開発及び普及、人材の育成その他の建築物のエネルギー消費性能の向上等を図るために必要な措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、教育活動、広報活動その他の活動を通じて、建築物のエネルギー消費性能の向上等に関する国民の理解を深めるとともに、その実施に関する国民の協力を求めるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（地方公共団体の責務）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体は、建築物のエネルギー消費性能の向上等に関し、国の施策に準じて施策を講ずるとともに、その地方公共団体の区域の実情に応じた施策を策定し、及び実施する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（建築主等及び建築士の努力）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築主は、その建築（建築物の新築、増築又は改築をいう。以下同じ。）をしようとする建築物について、エネルギー消費性能の一層の向上（建築物エネルギー消費性能基準（第二条第二項の条例で付加した事項を含む。次章第一節において同じ。）に適合する建築物において確保されるエネルギー消費性能を超えるエネルギー消費性能を当該建築物において確保することをいう。）を図るよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築主は、その修繕等（建築物の修繕若しくは模様替、建築物への空気調和設備等の設置又は建築物に設けた空気調和設備等の改修をいう。次項、第二十九条第一項及び第六十二条において同じ。）をしようとする建築物について、建築物の所有者、管理者又は占有者は、その所有し、管理し、又は占有する建築物について、エネルギー消費性能の向上を図るよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築士は、建築物の建築又は修繕等に係る設計を行うときは、国土交通省令で定めるところにより、当該設計の委託をした建築主に対し、当該設計に係る建築物のエネルギー消費性能その他建築物のエネルギー消費性能の向上に資する事項について説明するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（建築物に係る指導及び助言）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">所管行政庁は、建築物のエネルギー消費性能の向上のため必要があると認めるときは、建築主等に対し、建築物の設計、施工及び維持保全に係る事項について必要な指導及び助言をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（建築物の設計等に係る指導及び助言）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、建築物のエネルギー消費性能の向上のため特に必要があると認めるときは、建築物の設計又は施工を行う事業者に対し、建築物のエネルギー消費性能の向上及び建築物のエネルギー消費性能の表示について必要な指導及び助言をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（建築材料に係る指導及び助言）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、建築物のエネルギー消費性能の向上のため特に必要があると認めるときは、建築物の直接外気に接する屋根、壁又は床（これらに設ける窓その他の開口部を含む。）を通しての熱の損失の防止の用に供される建築材料の製造、加工又は輸入を行う事業者に対し、当該建築材料の断熱性に係る品質の向上及び当該品質の表示について必要な指導及び助言をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　建築主が講ずべき措置等</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　建築主の基準適合義務等</SectionTitle>
+          <Article Num="10">
+            <ArticleCaption>（建築主の基準適合義務）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">建築主は、建築物の建築（エネルギー消費性能に及ぼす影響が少ないものとして政令で定める規模以下のものを除く。）をしようとするときは、当該建築物（増築又は改築をする場合にあっては、当該増築又は改築をする建築物の部分）を建築物エネルギー消費性能基準に適合させなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定は、建築基準法第六条第一項に規定する建築基準関係規定とみなす。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同法第六条の四第一項第三号に掲げる建築物の建築をする場合における同法第六条第一項、第四項若しくは第七項若しくは第六条の二第一項、第四項若しくは第六項の規定又は同法第十八条第三項、第四項、第十五項、第十六項若しくは第十九項の規定の適用及び同法第七条の五に規定する同号に掲げる建築物の建築の工事をする場合における同法第七条第四項若しくは第五項、第七条の二第一項、第五項若しくは第七項、第七条の三第四項、第五項若しくは第七項若しくは第七条の四第一項、第三項若しくは第七項の規定又は同法第十八条第二十一項から第二十三項まで、第二十六項、第二十九項、第三十項、第三十二項、第三十四項若しくは第三十七項の規定の適用については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（建築物エネルギー消費性能適合性判定）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">建築主は、前条第一項の規定により建築物エネルギー消費性能基準に適合させなければならない建築物の建築（建築基準法第六条の四第一項第三号に掲げる建築物の建築に該当するものを除く。以下この項並びに次条第一項及び第二項において「特定建築行為」という。）であって、同法第六条第一項の規定による確認を要するもの（以下この条において「要確認特定建築行為」という。）をしようとするときは、その工事に着手する前に、建築物エネルギー消費性能確保計画（特定建築行為に係る建築物（増築又は改築をする場合にあっては、当該増築又は改築をする建築物の部分）のエネルギー消費性能の確保のための構造及び設備に関する計画をいう。以下この条及び次条において同じ。）を提出して所管行政庁の建築物エネルギー消費性能適合性判定（建築物エネルギー消費性能確保計画が建築物エネルギー消費性能基準に適合するかどうかの判定をいう。以下同じ。）を受けなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、要確認特定建築行為が、建築物エネルギー消費性能適合性判定を行うことが比較的容易なものとして国土交通省令で定める特定建築行為である場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">建築主は、前項の建築物エネルギー消費性能適合性判定を受けた建築物エネルギー消費性能確保計画の変更（国土交通省令で定める軽微な変更を除く。）をして要確認特定建築行為をしようとするときは、その工事に着手する前に、その変更後の建築物エネルギー消費性能確保計画を提出して所管行政庁の建築物エネルギー消費性能適合性判定を受けなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合には、同項ただし書の規定を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">所管行政庁は、前二項の規定による建築物エネルギー消費性能確保計画の提出を受けた場合においては、その提出を受けた日から十四日以内に、当該提出に係る建築物エネルギー消費性能適合性判定の結果を記載した通知書を当該提出者に交付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">所管行政庁は、前項の場合において、同項の期間内に当該提出者に同項の通知書を交付することができない合理的な理由があるときは、二十八日の範囲内において、同項の期間を延長することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、その旨及びその延長する期間並びにその期間を延長する理由を記載した通知書を同項の期間内に当該提出者に交付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">所管行政庁は、第三項の場合において、建築物エネルギー消費性能確保計画の記載によっては当該建築物エネルギー消費性能確保計画が建築物エネルギー消費性能基準に適合するかどうかを決定することができない正当な理由があるときは、その旨及びその理由を記載した通知書を同項の期間（前項の規定によりその期間を延長した場合にあっては、当該延長後の期間）内に当該提出者に交付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">建築主は、第三項の規定により交付を受けた通知書が適合判定通知書（当該建築物エネルギー消費性能確保計画が建築物エネルギー消費性能基準に適合するものであると判定された旨が記載された通知書をいう。以下同じ。）である場合においては、当該要確認特定建築行為に係る建築基準法第六条第一項又は第六条の二第一項の規定による確認をする建築主事若しくは建築副主事又は指定確認検査機関（同法第七十七条の二十一第一項に規定する指定確認検査機関をいう。以下同じ。）に、当該適合判定通知書又はその写しを提出しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該要確認特定建築行為に係る建築物の計画（同法第六条第一項又は第六条の二第一項の規定による確認の申請に係る建築物の計画をいう。次項及び第八項において同じ。）について同法第六条第七項又は第六条の二第四項の通知書の交付を受けた場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、要確認特定建築行為に係る建築物の計画が建築基準法第六条第一項の規定による建築主事又は建築副主事の確認に係るものであるときは、前項の規定による適合判定通知書又はその写しの提出は、同条第四項の期間（同条第六項の規定によりその期間が延長された場合にあっては、当該延長後の期間）の末日の三日前までにしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">建築主事又は建築副主事は、建築基準法第六条第一項の規定による確認の申請書を受理した場合において、指定確認検査機関は、同法第六条の二第一項の規定による確認の申請を受けた場合において、建築物の計画が要確認特定建築行為（第一項ただし書に規定する国土交通省令で定める特定建築行為であるものを除く。）に係るものであるときは、建築主から第六項の適合判定通知書又はその写しの提出を受けた場合に限り、同法第六条第一項又は第六条の二第一項の規定による確認をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物エネルギー消費性能確保計画に関する書類及び第三項から第五項までの通知書の様式は、国土交通省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（国等に対する建築物エネルギー消費性能適合性判定に関する手続の特例）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国、都道府県又は建築主事若しくは建築副主事を置く市町村（以下この条及び次条第二項において「国等」という。）の機関の長が行う特定建築行為については、前条の規定は、適用しない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、次項から第九項までの規定に定めるところによる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">国等の機関の長は、特定建築行為であって、建築基準法第十八条第二項の規定による通知を要するもの（以下この条において「要通知特定建築行為」という。）をしようとするときは、その工事に着手する前に、建築物エネルギー消費性能確保計画を所管行政庁に通知し、建築物エネルギー消費性能適合性判定を求めなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、要通知特定建築行為が、建築物エネルギー消費性能適合性判定を行うことが比較的容易なものとして国土交通省令で定める特定建築行為である場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国等の機関の長は、前項の建築物エネルギー消費性能適合性判定を受けた建築物エネルギー消費性能確保計画の変更（国土交通省令で定める軽微な変更を除く。）をして要通知特定建築行為をしようとするときは、その工事に着手する前に、その変更後の建築物エネルギー消費性能確保計画を所管行政庁に通知し、建築物エネルギー消費性能適合性判定を求めなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合には、同項ただし書の規定を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">所管行政庁は、前二項の規定による通知を受けた場合においては、その通知を受けた日から十四日以内に、当該通知に係る建築物エネルギー消費性能適合性判定の結果を記載した通知書を当該通知をした国等の機関の長に交付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">所管行政庁は、前項の場合において、同項の期間内に当該通知をした国等の機関の長に同項の通知書を交付することができない合理的な理由があるときは、二十八日の範囲内において、同項の期間を延長することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、その旨及びその延長する期間並びにその期間を延長する理由を記載した通知書を同項の期間内に当該通知をした国等の機関の長に交付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">所管行政庁は、第四項の場合において、第二項又は第三項の規定による通知の記載によっては当該建築物エネルギー消費性能確保計画が建築物エネルギー消費性能基準に適合するかどうかを決定することができない正当な理由があるときは、その旨及びその理由を記載した通知書を第四項の期間（前項の規定によりその期間を延長した場合にあっては、当該延長後の期間）内に当該通知をした国等の機関の長に交付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">国等の機関の長は、第四項の規定により交付を受けた通知書が適合判定通知書である場合においては、当該要通知特定建築行為に係る建築基準法第十八条第三項又は第四項の規定による審査をする建築主事若しくは建築副主事又は指定確認検査機関に、当該適合判定通知書又はその写しを提出しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該要通知特定建築行為に係る建築物の計画（同条第二項又は第四項の規定による通知に係る建築物の計画をいう。第九項において同じ。）について同条第十五項又は第十六項の通知書の交付を受けた場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、同項の規定による適合判定通知書又はその写しの建築主事又は建築副主事への提出は、建築基準法第十八条第三項の期間（同条第十四項の規定によりその期間が延長された場合にあっては、当該延長後の期間）の末日の三日前までにしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">建築主事若しくは建築副主事又は指定確認検査機関は、建築基準法第十八条第三項又は第四項の場合において、建築物の計画が要通知特定建築行為（第二項ただし書に規定する国土交通省令で定める特定建築行為であるものを除く。）に係るものであるときは、当該通知をした国等の機関の長から第七項の適合判定通知書又はその写しの提出を受けた場合に限り、同条第三項又は第四項の確認済証を交付することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（基準適合命令等）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">所管行政庁は、第十条第一項の規定に違反している事実があると認めるときは、建築主に対し、相当の期限を定めて、当該違反を是正するために必要な措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国等の建築物については、前項の規定は、適用しない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、所管行政庁は、当該建築物が第十条第一項の規定に違反している事実があると認めるときは、直ちに、その旨を当該建築物に係る国等の機関の長に通知し、前項に規定する措置をとるべきことを要請しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（登録建築物エネルギー消費性能判定機関による建築物エネルギー消費性能適合性判定の実施）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">所管行政庁は、第三十六条から第三十九条までの規定の定めるところにより国土交通大臣の登録を受けた者（以下「登録建築物エネルギー消費性能判定機関」という。）に、第十一条第一項及び第二項並びに第十二条第二項及び第三項の建築物エネルギー消費性能適合性判定の全部又は一部を行わせることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関が建築物エネルギー消費性能適合性判定を行う場合における第十一条第一項から第五項まで及び第十二条第二項から第六項までの規定の適用については、これらの規定中「所管行政庁」とあるのは「第十四条第一項の登録を受けた者」と、第十一条第二項及び第十二条第三項中「同項ただし書」とあるのは「前項ただし書」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（報告、検査等）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">所管行政庁は、第十三条の規定の施行に必要な限度において、建築主等に対し、第十条第一項の規定により建築物エネルギー消費性能基準に適合させなければならない建築物の建築物エネルギー消費性能基準への適合に関する事項に関し報告させ、又はその職員に、当該建築物若しくはその工事現場に立ち入り、当該建築物、建築設備、建築材料、書類その他の物件を検査させることができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、住居に立ち入る場合においては、あらかじめ、その居住者の承諾を得なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（特殊の構造又は設備を用いる建築物の認定）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">建築主は、第十条第一項の規定により建築物エネルギー消費性能基準に適合させなければならない建築物の建築をしようとする場合において、当該建築物が特殊の構造又は設備を用いるため建築物エネルギー消費性能基準に適合させることが困難なものであるときは、国土交通大臣に対し、当該建築物が建築物エネルギー消費性能基準に適合する建築物と同等以上のエネルギー消費性能を有するものである旨の認定を申請することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による申請をしようとする者は、国土交通省令で定めるところにより、国土交通省令で定める事項を記載した申請書を提出して、これを行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第一項の規定による申請があった場合において、当該申請に係る建築物が建築物エネルギー消費性能基準に適合する建築物と同等以上のエネルギー消費性能を有するものであると認めるときは、その旨の認定をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の認定をしたときは、遅滞なく、その旨を当該認定を受けた建築物の建築が行われる場所を管轄する所管行政庁に通知するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（審査のための評価）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前条第三項の認定のための審査に当たっては、審査に係る特殊の構造又は設備を用いる建築物のエネルギー消費性能に関する評価（以下「評価」という。）であって、第五十三条から第五十五条までの規定の定めるところにより国土交通大臣の登録を受けた者（以下「登録建築物エネルギー消費性能評価機関」という。）が行うものに基づきこれを行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の規定による申請をしようとする者は、登録建築物エネルギー消費性能評価機関が作成した当該申請に係る特殊の構造又は設備を用いる建築物のエネルギー消費性能に関する評価書を同条第二項の申請書に添えて、これをしなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、国土交通大臣は、当該評価書に基づき同条第三項の認定のための審査を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（認定を受けた特殊の構造又は設備を用いる建築物に関する特例）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条第三項の認定を受けた建築物は、建築物エネルギー消費性能基準に適合するものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条第一項の特殊の構造又は設備を用いて建築物の建築をしようとする者が当該建築物について同条第三項の認定を受けたときは、当該建築物の建築のうち第十一条第一項の建築物エネルギー消費性能適合性判定を受けなければならないものについては、同条第三項の規定により適合判定通知書の交付を受けたものとみなして、同条第六項から第八項までの規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（手数料）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条第一項の規定による申請をしようとする者は、国土交通省令で定めるところにより、実費を勘案して国土交通省令で定める額の手数料を国に納めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（適用除外）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この節の規定は、次の各号のいずれかに該当する建築物については、適用しない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">居室を有しないこと又は高い開放性を有することにより空気調和設備を設ける必要がないものとして政令で定める用途に供する建築物</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法令又は条例の定める現状変更の規制及び保存のための措置その他の措置がとられていることにより建築物エネルギー消費性能基準に適合させることが困難なものとして政令で定める建築物</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">仮設の建築物であって政令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　分譲型一戸建て規格住宅及び分譲型規格共同住宅等に係る措置</SectionTitle>
+          <Article Num="21">
+            <ArticleCaption>（特定一戸建て住宅建築主及び特定共同住宅等建築主の努力）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定一戸建て住宅建築主（自らが定めた一戸建ての住宅の構造及び設備に関する規格に基づき一戸建ての住宅を新築し、これを分譲することを業として行う建築主であって、その一年間に新築する当該規格に基づく一戸建ての住宅（以下この項及び次条第一項において「分譲型一戸建て規格住宅」という。）の戸数が政令で定める数以上であるものをいう。同項において同じ。）は、第六条第一項及び第二項に定めるもののほか、その新築する分譲型一戸建て規格住宅を次条第一項に規定する基準に適合させるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定共同住宅等建築主（自らが定めた共同住宅等（共同住宅又は長屋をいう。以下この項及び第二十四条第二項において同じ。）の構造及び設備に関する規格に基づき共同住宅等を新築し、これを分譲することを業として行う建築主であって、その一年間に新築する当該規格に基づく共同住宅等（以下この項及び次条第一項において「分譲型規格共同住宅等」という。）の住戸の数が政令で定める数以上であるものをいう。同項において同じ。）は、第六条第一項及び第二項に定めるもののほか、その新築する分譲型規格共同住宅等を次条第一項に規定する基準に適合させるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（分譲型一戸建て規格住宅等のエネルギー消費性能の一層の向上に関する基準）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣及び国土交通大臣は、経済産業省令・国土交通省令で、分譲型一戸建て規格住宅又は分譲型規格共同住宅等（以下この条及び次条において「分譲型一戸建て規格住宅等」という。）ごとに、特定一戸建て住宅建築主又は特定共同住宅等建築主（次項及び同条において「特定一戸建て住宅建築主等」という。）の新築する分譲型一戸建て規格住宅等のエネルギー消費性能の一層の向上（建築物エネルギー消費性能基準に適合する建築物において確保されるエネルギー消費性能を超えるエネルギー消費性能を当該建築物において確保することをいう。以下同じ。）のために必要な住宅の構造及び設備に関する基準を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する基準は、特定一戸建て住宅建築主等の新築する分譲型一戸建て規格住宅等のうちエネルギー消費性能が最も優れているものの当該エネルギー消費性能、分譲型一戸建て規格住宅等に関する技術開発の将来の見通しその他の事情を勘案して、建築物エネルギー消費性能基準に必要な事項を付加して定めるものとし、これらの事情の変動に応じて必要な改定をするものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（特定一戸建て住宅建築主等に対する勧告及び命令等）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、特定一戸建て住宅建築主等の新築する分譲型一戸建て規格住宅等につき、前条第一項に規定する基準に照らしてエネルギー消費性能の一層の向上を相当程度行う必要があると認めるときは、当該特定一戸建て住宅建築主等に対し、その目標を示して、その新築する分譲型一戸建て規格住宅等のエネルギー消費性能の一層の向上を図るべき旨の勧告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の勧告を受けた特定一戸建て住宅建築主等がその勧告に従わなかったときは、その旨を公表することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第一項の勧告を受けた特定一戸建て住宅建築主等が、正当な理由がなくてその勧告に係る措置をとらなかった場合において、前条第一項に規定する基準に照らして特定一戸建て住宅建築主等が行うべきその新築する分譲型一戸建て規格住宅等のエネルギー消費性能の一層の向上を著しく害すると認めるときは、社会資本整備審議会の意見を聴いて、当該特定一戸建て住宅建築主等に対し、相当の期限を定めて、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前三項の規定の施行に必要な限度において、特定一戸建て住宅建築主等に対し、その新築する分譲型一戸建て規格住宅等に係る業務の状況に関し報告させ、又はその職員に、特定一戸建て住宅建築主等の事務所その他の事業場若しくは特定一戸建て住宅建築主等の新築する分譲型一戸建て規格住宅等若しくはその工事現場に立ち入り、特定一戸建て住宅建築主等の新築する分譲型一戸建て規格住宅等、帳簿、書類その他の物件を検査させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条第二項及び第三項の規定は、前項の規定による立入検査について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　請負型一戸建て規格住宅及び請負型規格共同住宅等に係る措置</SectionTitle>
+          <Article Num="24">
+            <ArticleCaption>（特定一戸建て住宅建設工事業者及び特定共同住宅等建設工事業者の努力）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定一戸建て住宅建設工事業者（自らが定めた一戸建ての住宅の構造及び設備に関する規格に基づき一戸建ての住宅を新たに建設する工事を業として請け負う者であって、その一年間に新たに建設する当該規格に基づく一戸建ての住宅（以下この項及び次条第一項において「請負型一戸建て規格住宅」という。）の戸数が政令で定める数以上であるものをいう。同項において同じ。）は、その新たに建設する請負型一戸建て規格住宅を同項に規定する基準に適合させるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定共同住宅等建設工事業者（自らが定めた共同住宅等の構造及び設備に関する規格に基づき共同住宅等を新たに建設する工事を業として請け負う者であって、その一年間に新たに建設する当該規格に基づく共同住宅等（以下この項及び次条第一項において「請負型規格共同住宅等」という。）の住戸の数が政令で定める数以上であるものをいう。同項において同じ。）は、その新たに建設する請負型規格共同住宅等を同項に規定する基準に適合させるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（請負型一戸建て規格住宅等のエネルギー消費性能の一層の向上に関する基準）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣及び国土交通大臣は、経済産業省令・国土交通省令で、請負型一戸建て規格住宅又は請負型規格共同住宅等（以下この条及び次条において「請負型一戸建て規格住宅等」という。）ごとに、特定一戸建て住宅建設工事業者又は特定共同住宅等建設工事業者（次項及び同条において「特定一戸建て住宅建設工事業者等」という。）の新たに建設する請負型一戸建て規格住宅等のエネルギー消費性能の一層の向上のために必要な住宅の構造及び設備に関する基準を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する基準は、特定一戸建て住宅建設工事業者等の新たに建設する請負型一戸建て規格住宅等のうちエネルギー消費性能が最も優れているものの当該エネルギー消費性能、請負型一戸建て規格住宅等に関する技術開発の将来の見通しその他の事情を勘案して、建築物エネルギー消費性能基準に必要な事項を付加して定めるものとし、これらの事情の変動に応じて必要な改定をするものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleCaption>（特定一戸建て住宅建設工事業者等に対する勧告及び命令等）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、特定一戸建て住宅建設工事業者等の新たに建設する請負型一戸建て規格住宅等につき、前条第一項に規定する基準に照らしてエネルギー消費性能の一層の向上を相当程度行う必要があると認めるときは、当該特定一戸建て住宅建設工事業者等に対し、その目標を示して、その新たに建設する請負型一戸建て規格住宅等のエネルギー消費性能の一層の向上を図るべき旨の勧告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の勧告を受けた特定一戸建て住宅建設工事業者等がその勧告に従わなかったときは、その旨を公表することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第一項の勧告を受けた特定一戸建て住宅建設工事業者等が、正当な理由がなくてその勧告に係る措置をとらなかった場合において、前条第一項に規定する基準に照らして特定一戸建て住宅建設工事業者等が行うべきその新たに建設する請負型一戸建て規格住宅等のエネルギー消費性能の一層の向上を著しく害すると認めるときは、社会資本整備審議会の意見を聴いて、当該特定一戸建て住宅建設工事業者等に対し、相当の期限を定めて、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前三項の規定の施行に必要な限度において、特定一戸建て住宅建設工事業者等に対し、その新たに建設する請負型一戸建て規格住宅等に係る業務の状況に関し報告させ、又はその職員に、特定一戸建て住宅建設工事業者等の事務所その他の事業場若しくは特定一戸建て住宅建設工事業者等の新たに建設する請負型一戸建て規格住宅等若しくはその工事現場に立ち入り、特定一戸建て住宅建設工事業者等の新たに建設する請負型一戸建て規格住宅等、帳簿、書類その他の物件を検査させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条第二項及び第三項の規定は、前項の規定による立入検査について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　販売事業者等による建築物の販売等に係る措置</ChapterTitle>
+        <Article Num="27">
+          <ArticleCaption>（販売事業者等の表示）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築物の販売又は賃貸（以下この項並びに次条第一項及び第四項において「販売等」という。）を行う事業者（次項及び同条において「販売事業者等」という。）は、その販売等を行う建築物について、エネルギー消費性能を表示するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の規定による建築物のエネルギー消費性能の表示について、次に掲げる事項を定め、これを告示するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物のエネルギー消費性能に関し販売事業者等が表示すべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">表示の方法その他建築物のエネルギー消費性能の表示に際して販売事業者等が遵守すべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（販売事業者等に対する勧告及び命令等）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、販売事業者等が、その販売等を行う建築物について前条第二項の規定により告示されたところに従ってエネルギー消費性能の表示をしていないと認めるときは、当該販売事業者等に対し、その販売等を行う建築物について、その告示されたところに従ってエネルギー消費性能に関する表示をすべき旨の勧告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の勧告を受けた販売事業者等がその勧告に従わなかったときは、その旨を公表することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第一項の勧告を受けた販売事業者等が、正当な理由がなくてその勧告に係る措置をとらなかった場合において、建築物のエネルギー消費性能の向上を著しく害すると認めるときは、社会資本整備審議会の意見を聴いて、当該販売事業者等に対し、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前三項の規定の施行に必要な限度において、販売事業者等に対し、その販売等を行う建築物に係る業務の状況に関し報告させ、又はその職員に、販売事業者等の事務所その他の事業場若しくは販売事業者等の販売等を行う建築物に立ち入り、販売事業者等の販売等を行う建築物、帳簿、書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十五条第二項及び第三項の規定は、前項の規定による立入検査について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　建築物エネルギー消費性能向上計画の認定等</ChapterTitle>
+        <Article Num="29">
+          <ArticleCaption>（建築物エネルギー消費性能向上計画の認定）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築主等は、エネルギー消費性能の一層の向上に資する建築物の新築又はエネルギー消費性能の一層の向上のための建築物の増築、改築若しくは修繕等（以下「エネルギー消費性能の一層の向上のための建築物の新築等」という。）をしようとするときは、国土交通省令で定めるところにより、エネルギー消費性能の一層の向上のための建築物の新築等に関する計画（以下「建築物エネルギー消費性能向上計画」という。）を作成し、所管行政庁の認定を申請することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築物エネルギー消費性能向上計画には、次に掲げる事項を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物の位置</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物の延べ面積、構造、設備及び用途並びに敷地面積</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">エネルギー消費性能の一層の向上のための建築物の新築等に係る資金計画</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他国土交通省令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築主等は、第一項の規定による認定の申請に係る建築物（以下「申請建築物」という。）以外の建築物（以下「他の建築物」という。）のエネルギー消費性能の一層の向上にも資するよう、当該申請建築物に自他供給型熱源機器等（申請建築物及び他の建築物に熱又は電気を供給するための熱源機器等（熱源機器、発電機その他の熱又は電気を発生させ、これを建築物に供給するための国土交通省令で定める機器であって空気調和設備等を構成するものをいう。以下この項において同じ。）をいう。）を設置しようとするとき（当該他の建築物に熱源機器等（エネルギー消費性能に及ぼす影響が少ないものとして国土交通省令で定めるものを除く。）が設置されているとき又は設置されることとなるときを除く。）は、建築物エネルギー消費性能向上計画に、前項各号に掲げる事項のほか、次に掲げる事項を記載することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">他の建築物の位置</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">他の建築物の延べ面積、構造、設備及び用途並びに敷地面積</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他国土交通省令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築主等は、次に掲げる場合においては、第一項の規定による認定の申請をすることができない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該申請をしようとする建築物エネルギー消費性能向上計画に係る申請建築物が他の建築物エネルギー消費性能向上計画に他の建築物として記載されているとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該申請をしようとする建築物エネルギー消費性能向上計画に係る他の建築物が他の建築物エネルギー消費性能向上計画に他の建築物として記載されているとき（当該申請をしようとする建築物エネルギー消費性能向上計画に係る申請建築物が当該他の建築物エネルギー消費性能向上計画に係る申請建築物と同一であるときを除く。）。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（建築物エネルギー消費性能向上計画の認定基準等）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">所管行政庁は、前条第一項の規定による認定の申請があった場合において、当該申請に係る建築物エネルギー消費性能向上計画が次に掲げる基準に適合すると認めるときは、その認定をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">申請建築物のエネルギー消費性能が建築物エネルギー消費性能誘導基準（建築物のエネルギー消費性能の一層の向上の促進のために誘導すべき経済産業省令・国土交通省令で定める基準をいう。第四号及び第三十五条第一項において同じ。）に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物エネルギー消費性能向上計画に記載された事項が基本方針に照らして適切なものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第二項第三号の資金計画がエネルギー消費性能の一層の向上のための建築物の新築等を確実に遂行するため適切なものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物エネルギー消費性能向上計画に前条第三項各号に掲げる事項が記載されている場合にあっては、当該建築物エネルギー消費性能向上計画に係る他の建築物のエネルギー消費性能が建築物エネルギー消費性能誘導基準に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定による認定の申請をする者は、所管行政庁に対し、当該所管行政庁が当該申請に係る建築物エネルギー消費性能向上計画（他の建築物に係る部分を除く。以下この条において同じ。）を建築主事又は建築副主事に通知し、当該建築物エネルギー消費性能向上計画が建築基準法第六条第一項に規定する建築基準関係規定に適合するかどうかの審査を受けるよう申し出ることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、当該申請に併せて、同項の規定による確認の申請書を提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による申出を受けた所管行政庁は、速やかに、当該申出に係る建築物エネルギー消費性能向上計画を建築主事又は建築副主事に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築基準法第十八条第三項及び第十五項の規定は、建築主事又は建築副主事が前項の規定による通知を受けた場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">所管行政庁が、前項において準用する建築基準法第十八条第三項の規定による確認済証の交付を受けた場合において、第一項の認定をしたときは、当該認定を受けた建築物エネルギー消費性能向上計画は、同法第六条第一項の確認済証の交付があったものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">所管行政庁は、第四項において準用する建築基準法第十八条第十五項の規定による通知書の交付を受けた場合においては、第一項の認定をしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築基準法第十二条第八項及び第九項並びに第九十三条から第九十三条の三までの規定は、第四項において準用する同法第十八条第三項及び第十五項の規定による確認済証及び通知書の交付について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">エネルギー消費性能の一層の向上のための建築物の新築等をしようとする者がその建築物エネルギー消費性能向上計画について第一項の認定を受けたときは、当該エネルギー消費性能の一層の向上のための建築物の新築等のうち、第十一条第一項の建築物エネルギー消費性能適合性判定を受けなければならないものについては、第二項の規定による申出があった場合及び第二条第二項の条例が定められている場合を除き、第十一条第三項の規定により適合判定通知書の交付を受けたものとみなして、同条第六項から第八項までの規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（建築物エネルギー消費性能向上計画の変更）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の認定を受けた者（次条から第三十四条までにおいて「認定建築主」という。）は、当該認定を受けた建築物エネルギー消費性能向上計画の変更（国土交通省令で定める軽微な変更を除く。）をしようとするときは、国土交通省令で定めるところにより、所管行政庁の認定を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定は、前項の認定について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（認定建築主に対する報告の徴収）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">所管行政庁は、認定建築主に対し、第三十条第一項の認定を受けた建築物エネルギー消費性能向上計画（変更があったときは、その変更後のもの。次条及び第三十五条において「認定建築物エネルギー消費性能向上計画」という。）に基づくエネルギー消費性能の一層の向上のための建築物の新築等の状況に関し報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（認定建築主に対する改善命令）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">所管行政庁は、認定建築主が認定建築物エネルギー消費性能向上計画に従ってエネルギー消費性能の一層の向上のための建築物の新築等を行っていないと認めるときは、当該認定建築主に対し、相当の期限を定めて、その改善に必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（建築物エネルギー消費性能向上計画の認定の取消し）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">所管行政庁は、認定建築主が前条の規定による命令に違反したときは、第三十条第一項の認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（認定建築物エネルギー消費性能向上計画に係る建築物の容積率の特例）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築基準法第五十二条第一項、第二項、第七項、第十二項及び第十四項、第五十七条の二第三項第二号、第五十七条の三第二項、第五十九条第一項及び第三項、第五十九条の二第一項、第六十条第一項、第六十条の二第一項及び第四項、第六十八条の三第一項、第六十八条の四、第六十八条の五（第二号イを除く。）、第六十八条の五の二（第二号イを除く。）、第六十八条の五の三第一項（第一号ロを除く。）、第六十八条の五の四（第一号ロを除く。）、第六十八条の五の五第一項第一号ロ、第六十八条の八、第六十八条の九第一項、第八十六条第三項及び第四項、第八十六条の二第二項及び第三項、第八十六条の五第三項並びに第八十六条の六第一項に規定する建築物の容積率（同法第五十九条第一項、第六十条の二第一項及び第六十八条の九第一項に規定するものについては、これらの規定に規定する建築物の容積率の最高限度に係る場合に限る。）の算定の基礎となる延べ面積には、同法第五十二条第三項及び第六項に定めるもののほか、認定建築物エネルギー消費性能向上計画に係る建築物の床面積のうち、建築物エネルギー消費性能誘導基準に適合させるための措置をとることにより通常の建築物の床面積を超えることとなる場合における政令で定める床面積は、算入しないものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定建築物エネルギー消費性能向上計画に第二十九条第三項各号に掲げる事項が記載されている場合における前項の規定の適用については、同項中「建築物の床面積のうち、」とあるのは、「申請建築物の床面積のうち、当該認定建築物エネルギー消費性能向上計画に係る申請建築物及び他の建築物を」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　登録建築物エネルギー消費性能判定機関等</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　登録建築物エネルギー消費性能判定機関</SectionTitle>
+          <Article Num="36">
+            <ArticleCaption>（登録）</ArticleCaption>
+            <ArticleTitle>第三十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十四条第一項の登録（以下この節において「登録」という。）は、国土交通省令で定めるところにより、建築物エネルギー消費性能適合性判定の業務（以下「判定の業務」という。）を行おうとする者の申請により行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="37">
+            <ArticleCaption>（欠格条項）</ArticleCaption>
+            <ArticleTitle>第三十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、登録を受けることができない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">未成年者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">破産手続開始の決定を受けて復権を得ない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、又はこの法律の規定により刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から起算して二年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五十二条第一項又は第二項の規定により登録を取り消され、その取消しの日から起算して二年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">心身の故障により判定の業務を適正に行うことができない者として国土交通省令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人であって、その役員のうちに前各号のいずれかに該当する者があるもの</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="38">
+            <ArticleCaption>（登録基準等）</ArticleCaption>
+            <ArticleTitle>第三十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、登録の申請をした者（以下この項において「登録申請者」という。）が次に掲げる基準の全てに適合しているときは、その登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十二条の適合性判定員が建築物エネルギー消費性能適合性判定を実施し、その数が次のいずれにも適合するものであること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次の（１）から（６）までに掲げる建築物の区分に応じ、それぞれ（１）から（６）までに定める数（その数が二未満であるときは、二）以上であること。</Sentence>
+                  </Subitem1Sentence>
+                  <Subitem2 Num="1">
+                    <Subitem2Title>（１）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">床面積の合計が三百平方メートル未満の建築物</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">建築物エネルギー消費性能適合性判定を行う建築物の棟数を八百二十で除した数</Sentence>
+                      </Column>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="2">
+                    <Subitem2Title>（２）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">床面積の合計が三百平方メートル以上千平方メートル未満の建築物</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">建築物エネルギー消費性能適合性判定を行う建築物の棟数を六百二十で除した数</Sentence>
+                      </Column>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="3">
+                    <Subitem2Title>（３）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">床面積の合計が千平方メートル以上二千平方メートル未満の建築物</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">建築物エネルギー消費性能適合性判定を行う建築物の棟数を四百二十で除した数</Sentence>
+                      </Column>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="4">
+                    <Subitem2Title>（４）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">床面積の合計が二千平方メートル以上一万平方メートル未満の建築物</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">建築物エネルギー消費性能適合性判定を行う建築物の棟数を三百五十で除した数</Sentence>
+                      </Column>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="5">
+                    <Subitem2Title>（５）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">床面積の合計が一万平方メートル以上五万平方メートル未満の建築物</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">建築物エネルギー消費性能適合性判定を行う建築物の棟数を二百五十で除した数</Sentence>
+                      </Column>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="6">
+                    <Subitem2Title>（６）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Column Num="1">
+                        <Sentence Num="1" WritingMode="vertical">床面積の合計が五万平方メートル以上の建築物</Sentence>
+                      </Column>
+                      <Column Num="2">
+                        <Sentence Num="1" WritingMode="vertical">建築物エネルギー消費性能適合性判定を行う建築物の棟数を百二十で除した数</Sentence>
+                      </Column>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">イ（１）から（６）までに掲げる建築物の区分の二以上にわたる建築物について建築物エネルギー消費性能適合性判定を行う場合にあっては、第四十二条の適合性判定員の総数が、それらの区分に応じそれぞれイ（１）から（６）までに定める数を合計した数（その数が二未満であるときは、二）以上であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録申請者が、業として、建築物を設計し若しくは販売し、建築物の販売を代理し若しくは媒介し、又は建築物の建設工事を請け負う者（以下この号及び第五十五条第一項第二号において「建築物関連事業者」という。）に支配されているものとして次のいずれかに該当するものでないこと。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">登録申請者が株式会社である場合にあっては、建築物関連事業者がその親法人（会社法（平成十七年法律第八十六号）第八百七十九条第一項に規定する親法人をいう。第五十五条第一項第二号イにおいて同じ。）であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">登録申請者の役員（持分会社（会社法第五百七十五条第一項に規定する持分会社をいう。第五十五条第一項第二号ロにおいて同じ。）にあっては、業務を執行する社員）に占める建築物関連事業者の役員又は職員（過去二年間に当該建築物関連事業者の役員又は職員であった者を含む。）の割合が二分の一を超えていること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">登録申請者（法人にあっては、その代表権を有する役員）が、建築物関連事業者の役員又は職員（過去二年間に当該建築物関連事業者の役員又は職員であった者を含む。）であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">判定の業務を適正に行うために判定の業務を行う部門に専任の管理者が置かれていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">債務超過の状態にないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録は、登録建築物エネルギー消費性能判定機関登録簿に次に掲げる事項を記載してするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録年月日及び登録番号</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関が判定の業務を行う事務所の所在地</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十二条の適合性判定員の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、国土交通省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="39">
+            <ArticleCaption>（登録の公示等）</ArticleCaption>
+            <ArticleTitle>第三十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、登録をしたときは、前条第二項第二号から第四号までに掲げる事項その他国土交通省令で定める事項を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関は、前条第二項第二号から第五号までに掲げる事項を変更しようとするときは、変更しようとする日の二週間前までに、その旨を国土交通大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の規定による届出があったときは、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40">
+            <ArticleCaption>（登録の更新）</ArticleCaption>
+            <ArticleTitle>第四十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録は、五年以上十年以内において政令で定める期間ごとにその更新を受けなければ、その期間の経過によって、その効力を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十六条から第三十八条までの規定は、前項の登録の更新の場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="41">
+            <ArticleCaption>（承継）</ArticleCaption>
+            <ArticleTitle>第四十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関が当該登録に係る事業の全部を譲渡し、又は登録建築物エネルギー消費性能判定機関について相続、合併若しくは分割（当該登録に係る事業の全部を承継させるものに限る。）があったときは、その事業の全部を譲り受けた者又は相続人（相続人が二人以上ある場合において、その全員の同意により当該事業を承継すべき相続人を選定したときは、その者。以下この項において同じ。）、合併後存続する法人若しくは合併により設立した法人若しくは分割によりその事業の全部を承継した法人は、その登録建築物エネルギー消費性能判定機関の地位を承継する。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該事業の全部を譲り受けた者又は相続人、合併後存続する法人若しくは合併により設立した法人若しくは分割により当該事業の全部を承継した法人が第三十七条各号のいずれかに該当するときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により登録建築物エネルギー消費性能判定機関の地位を承継した者は、遅滞なく、国土交通省令で定めるところにより、その旨を国土交通大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="42">
+            <ArticleCaption>（適合性判定員）</ArticleCaption>
+            <ArticleTitle>第四十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関は、建築に関する専門的知識及び技術を有する者として国土交通省令で定める要件を備えるもののうちから適合性判定員を選任しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="43">
+            <ArticleCaption>（秘密保持義務）</ArticleCaption>
+            <ArticleTitle>第四十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関（その者が法人である場合にあっては、その役員）及びその職員（適合性判定員を含む。）並びにこれらの者であった者は、判定の業務に関して知り得た秘密を漏らし、又は盗用してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="44">
+            <ArticleCaption>（判定の業務の義務）</ArticleCaption>
+            <ArticleTitle>第四十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関は、判定の業務を行うべきことを求められたときは、正当な理由がある場合を除き、遅滞なく、判定の業務を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関は、公正に、かつ、国土交通省令で定める基準に適合する方法により判定の業務を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="45">
+            <ArticleCaption>（判定業務規程）</ArticleCaption>
+            <ArticleTitle>第四十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関は、判定の業務に関する規程（以下「判定業務規程」という。）を定め、判定の業務の開始前に、国土交通大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">判定業務規程には、判定の業務の実施の方法、判定の業務に関する料金その他の国土交通省令で定める事項を定めておかなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関は、判定業務規程を変更するときは、当該変更に係る判定の業務の開始の日までに、変更後の判定業務規程を国土交通大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第一項又は前項の規定による届出のあった判定業務規程が、この節の規定に従って判定の業務を公正かつ適確に実施する上で不適当であり、又は不適当となったと認めるときは、その判定業務規程を変更すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="46">
+            <ArticleCaption>（財務諸表等の備付け及び閲覧等）</ArticleCaption>
+            <ArticleTitle>第四十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関は、毎事業年度経過後三月以内に、その事業年度の財産目録、貸借対照表及び損益計算書又は収支計算書並びに事業報告書（その作成に代えて電磁的記録（電子的方式、磁気的方式その他の人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下この条において同じ。）の作成がされている場合における当該電磁的記録を含む。次項第一号及び第三号並びに第七十六条第二号において「財務諸表等」という。）を作成し、五年間事務所に備えて置かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">利害関係人は、登録建築物エネルギー消費性能判定機関の業務時間内は、いつでも、次に掲げる請求をすることができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二号又は第四号の請求をするには、登録建築物エネルギー消費性能判定機関の定めた費用を支払わなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">財務諸表等が書面をもって作成されているときは、当該書面の閲覧又は謄写の請求</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号の書面の謄本又は抄本の請求</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">財務諸表等が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を国土交通省令で定める方法により表示したものの閲覧又は謄写の請求</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号の電磁的記録に記録された事項を電磁的方法であって国土交通省令で定めるものにより提供することの請求又は当該事項を記載した書面の交付の請求</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="47">
+            <ArticleCaption>（帳簿の備付け等）</ArticleCaption>
+            <ArticleTitle>第四十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関は、国土交通省令で定めるところにより、判定の業務に関する事項で国土交通省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、登録建築物エネルギー消費性能判定機関は、国土交通省令で定めるところにより、判定の業務に関する書類で国土交通省令で定めるものを保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="48">
+            <ArticleCaption>（適合命令）</ArticleCaption>
+            <ArticleTitle>第四十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、登録建築物エネルギー消費性能判定機関が第三十八条第一項各号のいずれかに適合しなくなったと認めるときは、その登録建築物エネルギー消費性能判定機関に対し、これらの規定に適合するため必要な措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="49">
+            <ArticleCaption>（改善命令）</ArticleCaption>
+            <ArticleTitle>第四十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、登録建築物エネルギー消費性能判定機関が第四十四条の規定に違反していると認めるときは、その登録建築物エネルギー消費性能判定機関に対し、判定の業務を行うべきこと又は判定の業務の方法その他の業務の方法の改善に関し必要な措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="50">
+            <ArticleCaption>（報告、検査等）</ArticleCaption>
+            <ArticleTitle>第五十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、判定の業務の公正かつ適確な実施を確保するため必要があると認めるときは、登録建築物エネルギー消費性能判定機関に対し判定の業務若しくは経理の状況に関し必要な報告を求め、又はその職員に、登録建築物エネルギー消費性能判定機関の事務所に立ち入り、判定の業務の状況若しくは設備、帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条第二項及び第三項の規定は、前項の規定による立入検査について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="51">
+            <ArticleCaption>（判定の業務の休廃止等）</ArticleCaption>
+            <ArticleTitle>第五十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能判定機関は、判定の業務の全部又は一部を休止し、又は廃止しようとするときは、国土交通省令で定めるところにより、その旨を国土交通大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により判定の業務の全部を廃止しようとする届出があったときは、当該届出に係る登録は、その効力を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第一項の規定による届出があったときは、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="52">
+            <ArticleCaption>（登録の取消し等）</ArticleCaption>
+            <ArticleTitle>第五十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、登録建築物エネルギー消費性能判定機関が第三十七条各号（第四号を除く。）のいずれかに該当するに至ったときは、その登録を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、登録建築物エネルギー消費性能判定機関が次の各号のいずれかに該当するときは、その登録を取り消し、又は期間を定めて判定の業務の全部若しくは一部の停止を命ずることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十九条第二項、第四十一条第二項、第四十六条第一項、第四十七条又は前条第一項の規定に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十五条第一項又は第三項の規定による届出のあった判定業務規程によらないで判定の業務を行ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">正当な理由がないのに第四十六条第二項各号の請求を拒んだとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十五条第四項、第四十八条又は第四十九条の規定による命令に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">判定の業務に関し著しく不適当な行為をしたとき、又はその業務に従事する適合性判定員若しくは法人にあってはその役員が、判定の業務に関し著しく不適当な行為をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">不正な手段により登録を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前二項の規定により登録を取り消し、又は前項の規定により判定の業務の全部若しくは一部の停止を命じたときは、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　登録建築物エネルギー消費性能評価機関</SectionTitle>
+          <Article Num="53">
+            <ArticleCaption>（登録）</ArticleCaption>
+            <ArticleTitle>第五十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条第一項の登録（以下この節において「登録」という。）は、国土交通省令で定めるところにより、第十六条第三項の認定のための審査に必要な評価の業務を行おうとする者の申請により行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条第一項及び第四十条の規定は登録について、第三十九条第二項及び第三項、第四十一条並びに第四十三条から第五十一条までの規定は登録建築物エネルギー消費性能評価機関について、それぞれ準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十九条第一項及び第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">前条第二項第二号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十五条第二項第二号</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第四十条第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十六条から第三十八条まで</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十三条第一項、第五十四条及び第五十五条</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第四十一条第一項ただし書</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条各号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十四条各号</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第四十三条</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">適合性判定員</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十六条の評価員</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第四十三条から第四十五条まで、第四十七条、第四十九条、第五十条第一項、第五十一条第一項及び第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">判定の業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">評価の業務</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第四十五条</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">判定業務規程</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">評価業務規程</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第四十八条</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十八条第一項各号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十五条第一項各号</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+          </Article>
+          <Article Num="54">
+            <ArticleCaption>（欠格条項）</ArticleCaption>
+            <ArticleTitle>第五十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、登録を受けることができない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十七条第一号から第三号までに掲げる者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五十七条第一項又は第二項の規定により登録を取り消され、その取消しの日から起算して二年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">心身の故障により評価の業務を適正に行うことができない者として国土交通省令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人であって、その役員のうちに前三号のいずれかに該当する者があるもの</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="55">
+            <ArticleCaption>（登録基準等）</ArticleCaption>
+            <ArticleTitle>第五十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、登録の申請をした者（以下この項において「登録申請者」という。）が次に掲げる基準の全てに適合しているときは、その登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次条の評価員が評価を実施し、その数が三以上であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録申請者が、建築物関連事業者に支配されているものとして次のいずれかに該当するものでないこと。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">登録申請者が株式会社である場合にあっては、建築物関連事業者がその親法人であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">登録申請者の役員（持分会社にあっては、業務を執行する社員）に占める建築物関連事業者の役員又は職員（過去二年間に当該建築物関連事業者の役員又は職員であった者を含む。）の割合が二分の一を超えていること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">登録申請者（法人にあっては、その代表権を有する役員）が、建築物関連事業者の役員又は職員（過去二年間に当該建築物関連事業者の役員又は職員であった者を含む。）であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">評価の業務を適正に行うために評価の業務を行う部門に専任の管理者が置かれていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">債務超過の状態にないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録は、登録建築物エネルギー消費性能評価機関登録簿に次に掲げる事項を記載してするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録年月日及び登録番号</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能評価機関の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能評価機関が評価の業務を行う事務所の所在地</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次条の評価員の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、国土交通省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="56">
+            <ArticleCaption>（評価員）</ArticleCaption>
+            <ArticleTitle>第五十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能評価機関は、次に掲げる者のうちから評価員を選任しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">学校教育法（昭和二十二年法律第二十六号）に基づく大学において建築学、機械工学、電気工学若しくは衛生工学を担当する教授若しくは准教授の職にあり、又はこれらの職にあった者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">建築、機械、電気又は衛生に関する分野の試験研究機関において十年以上試験研究の業務に従事した経験を有する者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前二号に掲げる者と同等以上の知識及び経験を有する者</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="57">
+            <ArticleCaption>（登録の取消し等）</ArticleCaption>
+            <ArticleTitle>第五十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、登録建築物エネルギー消費性能評価機関が第五十四条第一号、第三号又は第四号に該当するに至ったときは、その登録を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、登録建築物エネルギー消費性能評価機関が次の各号のいずれかに該当するときは、その登録を取り消し、又は期間を定めて評価の業務の全部若しくは一部の停止を命ずることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五十三条第二項において準用する第三十九条第二項、第四十一条第二項、第四十六条第一項、第四十七条又は第五十一条第一項の規定に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五十三条第二項において読み替えて準用する第四十五条第一項又は第三項の規定による届出のあった評価業務規程によらないで評価の業務を行ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">正当な理由がないのに第五十三条第二項において準用する第四十六条第二項各号の請求を拒んだとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五十三条第二項において準用する第四十五条第四項、第四十八条又は第四十九条の規定による命令に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">評価の業務に関し著しく不適当な行為をしたとき、又はその業務に従事する評価員若しくは法人にあってはその役員が、評価の業務に関し著しく不適当な行為をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">不正な手段により登録を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十二条第三項の規定は、前二項の規定による登録の取消し又は前項の規定による評価の業務の停止について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="58">
+            <ArticleCaption>（国土交通大臣による評価の実施）</ArticleCaption>
+            <ArticleTitle>第五十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、次の各号のいずれかに該当するときその他必要があると認めるときは、評価の業務の全部又は一部を自ら行うことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録を受ける者がいないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五十三条第二項において読み替えて準用する第五十一条第一項の規定により登録建築物エネルギー消費性能評価機関から評価の業務の全部又は一部の休止又は廃止の届出があったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第一項若しくは第二項の規定により登録を取り消し、又は同項の規定により評価の業務の全部若しくは一部の停止を命じたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録建築物エネルギー消費性能評価機関が天災その他の事由により評価の業務の全部又は一部を実施することが困難となったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の規定により評価の業務を行い、又は同項の規定により行っている評価の業務を行わないこととするときは、あらかじめ、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣が第一項の規定により評価の業務を行うこととした場合における評価の業務の引継ぎその他の必要な事項は、国土交通省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="59">
+            <ArticleCaption>（手数料）</ArticleCaption>
+            <ArticleTitle>第五十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の規定により国土交通大臣が行う評価の申請をしようとする者は、国土交通省令で定めるところにより、実費を勘案して国土交通省令で定める額の手数料を国に納めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　建築物再生可能エネルギー利用促進区域における措置</ChapterTitle>
+        <Article Num="60">
+          <ArticleCaption>（建築物再生可能エネルギー利用促進区域）</ArticleCaption>
+          <ArticleTitle>第六十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、基本方針に基づき、当該市町村の区域内の一定の区域であって、建築物への再生可能エネルギー利用設備（再生可能エネルギー電気の利用の促進に関する特別措置法（平成二十三年法律第百八号）第二条第二項に規定する再生可能エネルギー発電設備その他の再生可能エネルギー源（太陽光、風力その他非化石エネルギー源のうち、エネルギー源として永続的に利用することができると認められるものをいう。）の利用に資する設備として国土交通省令で定めるものをいう。以下同じ。）の設置の促進を図ることが必要であると認められるもの（以下「建築物再生可能エネルギー利用促進区域」という。）について、建築物への再生可能エネルギー利用設備の設置の促進に関する計画（以下この条、次条及び第六十四条において「促進計画」という。）を作成することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">促進計画には、次に掲げる事項について定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物再生可能エネルギー利用促進区域の位置及び区域</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物再生可能エネルギー利用促進区域において建築物への設置を促進する再生可能エネルギー利用設備の種類に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建築物再生可能エネルギー利用促進区域内において再生可能エネルギー利用設備を設置する建築物について建築基準法第五十二条第十四項、第五十三条第五項、第五十五条第三項又は第五十八条第二項の規定（第五項及び第六十四条において「特例対象規定」という。）の適用を受けるための要件に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">促進計画には、前項各号に掲げる事項のほか、建築物への再生可能エネルギー利用設備の設置に関する啓発及び知識の普及に関する事項その他建築物再生可能エネルギー利用促進区域内における建築物への再生可能エネルギー利用設備の設置の促進に関し必要な事項を定めるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、促進計画を作成するときは、あらかじめ、当該建築物再生可能エネルギー利用促進区域内の住民の意見を反映させるために必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、促進計画を作成するときは、あらかじめ、これに定めようとする第二項第三号に掲げる事項について、当該建築物再生可能エネルギー利用促進区域内の建築物について特例対象規定による許可の権限を有する特定行政庁（建築基準法第二条第三十五号に規定する特定行政庁をいう。）と協議をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、促進計画を定めたときは、遅滞なく、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項の規定は、促進計画の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="61">
+          <ArticleCaption>（建築物再生可能エネルギー利用促進区域内の建築物の建築主等への支援）</ArticleCaption>
+          <ArticleTitle>第六十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">促進計画を作成した市町村（第六十三条第一項において「計画作成市町村」という。）は、建築物への再生可能エネルギー利用設備の設置を促進するため、建築物再生可能エネルギー利用促進区域内の建築物の建築主等に対し、情報の提供、助言その他の必要な支援を行うよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="62">
+          <ArticleCaption>（建築物再生可能エネルギー利用促進区域内の建築主の努力）</ArticleCaption>
+          <ArticleTitle>第六十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築物再生可能エネルギー利用促進区域内においては、建築主は、その建築又は修繕等をしようとする建築物について、再生可能エネルギー利用設備を設置するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="63">
+          <ArticleCaption>（建築物再生可能エネルギー利用促進区域内の建築物に設置することができる再生可能エネルギー利用設備に係る説明）</ArticleCaption>
+          <ArticleTitle>第六十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築士は、建築物再生可能エネルギー利用促進区域内において、計画作成市町村の条例で定める用途に供する建築物の建築で当該条例で定める規模以上のものに係る設計を行うときは、当該設計の委託をした建築主に対し、当該設計に係る建築物に設置することができる再生可能エネルギー利用設備について、国土交通省令で定める事項を記載した書面を交付して説明しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定は、同項に規定する設計の委託をした建築主から同項の規定による説明を要しない旨の意思の表明があった場合については、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建築士は、第一項の規定による書面の交付に代えて、国土交通省令で定めるところにより、当該建築主の承諾を得て、当該書面に記載すべき事項を電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であって国土交通省令で定めるものをいう。）により提供することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該建築士は、当該書面を交付したものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="64">
+          <ArticleCaption>（建築基準法の特例）</ArticleCaption>
+          <ArticleTitle>第六十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">促進計画が第六十条第六項（同条第七項において準用する場合を含む。）の規定により公表されたときは、当該公表の日以後は、建築物再生可能エネルギー利用促進区域内の建築物に対する特例対象規定の適用については、建築基準法第五十二条第十四項第三号中「定めるもの」とあるのは「定めるもの又は同法第六十条第六項（同条第七項において準用する場合を含む。）の規定により公表された同条第一項に規定する促進計画に定められた同条第二項第三号に掲げる事項（次条第五項第四号、第五十五条第三項及び第五十八条第二項において「特例適用要件」という。）に適合する建築物」と、同法第五十三条第五項第四号、第五十五条第三項及び第五十八条第二項中「定めるもの」とあるのは「定めるもの又は特例適用要件に適合する建築物」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="8">
+        <ChapterTitle>第八章　雑則</ChapterTitle>
+        <Article Num="65">
+          <ArticleCaption>（審査請求）</ArticleCaption>
+          <ArticleTitle>第六十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定による登録建築物エネルギー消費性能判定機関又は登録建築物エネルギー消費性能評価機関の行う処分又はその不作為については、国土交通大臣に対し、審査請求をすることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、国土交通大臣は、行政不服審査法（平成二十六年法律第六十八号）第二十五条第二項及び第三項、第四十六条第一項及び第二項、第四十七条並びに第四十九条第三項の規定の適用については、登録建築物エネルギー消費性能判定機関又は登録建築物エネルギー消費性能評価機関の上級行政庁とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="66">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第六十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に規定する国土交通大臣の権限は、国土交通省令で定めるところにより、その一部を地方整備局長又は北海道開発局長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67">
+          <ArticleCaption>（国土交通省令への委任）</ArticleCaption>
+          <ArticleTitle>第六十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律の実施のため必要な事項は、国土交通省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="68">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第六十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="9">
+        <ChapterTitle>第九章　罰則</ChapterTitle>
+        <Article Num="69">
+          <ArticleTitle>第六十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四十三条（第五十三条第二項において準用する場合を含む。）の規定に違反して、その職務に関して知り得た秘密を漏らし、又は盗用した者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第五十二条第二項又は第五十七条第二項の規定による判定の業務又は評価の業務の停止の命令に違反したときは、その違反行為をした者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="70">
+          <ArticleTitle>第七十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十三条第一項の規定による命令に違反したときは、その違反行為をした者は、三百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="71">
+          <ArticleTitle>第七十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十三条第三項、第二十六条第三項又は第二十八条第三項の規定による命令に違反したときは、その違反行為をした者は、百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="72">
+          <ArticleTitle>第七十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条第一項、第二十三条第四項、第二十六条第四項若しくは第二十八条第四項の規定による報告をせず、若しくは虚偽の報告をし、又はこれらの規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十条第一項（第五十三条第二項において準用する場合を含む。以下この号において同じ。）の規定による報告をせず、若しくは虚偽の報告をし、又は第五十条第一項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="73">
+          <ArticleTitle>第七十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十七条第一項（第五十三条第二項において準用する場合を含む。）の規定に違反して帳簿を備え付けず、帳簿に記載せず、若しくは帳簿に虚偽の記載をし、又は帳簿を保存しなかったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十七条第二項（第五十三条第二項において準用する場合を含む。）の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十一条第一項（第五十三条第二項において準用する場合を含む。）の規定による届出をしないで業務の全部を廃止し、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="74">
+          <ArticleTitle>第七十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十二条の規定による報告をせず、又は虚偽の報告をしたときは、その違反行為をした者は、二十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="75">
+          <ArticleTitle>第七十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、第六十九条第二項又は第七十条から前条までの違反行為をしたときは、行為者を罰するほか、その法人又は人に対して各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="76">
+          <ArticleTitle>第七十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、二十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十一条第二項（第五十三条第二項において準用する場合を含む。）の規定による届出をせず、又は虚偽の届出をした者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十六条第一項（第五十三条第二項において準用する場合を含む。）の規定に違反して財務諸表等を備えて置かず、財務諸表等に記載すべき事項を記載せず、若しくは虚偽の記載をし、又は正当な理由がないのに第四十六条第二項各号（第五十三条第二項において準用する場合を含む。）の請求を拒んだ者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第八条から第十条まで、第三章、第三十条第八項及び第九項、第六章、第六十三条、第六十四条、第六十七条から第六十九条まで、第七十条第一号（第三十八条第一項に係る部分を除く。）、第七十条第二号及び第三号、第七十一条（第一号を除く。）、第七十三条（第六十七条第二号、第六十八条、第六十九条、第七十条第一号（第三十八条第一項に係る部分を除く。）、第七十条第二号及び第三号並びに第七十一条（第一号を除く。）に係る部分に限る。）並びに第七十四条並びに次条並びに附則第三条及び第五条から第九条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第二号に掲げる規定の施行前にした行為及び附則第七条の規定によりなお従前の例によることとされる場合における同号に掲げる規定の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後三年を経過した場合において、建築物の建築物エネルギー消費性能基準への適合の状況、建築物のエネルギー消費性能に関する技術開発の状況その他この法律の施行の状況等を勘案し、建築物のエネルギー消費性能の向上に関する制度全般について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月一七日法律第四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条並びに附則第三条及び第七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定による改正後の建築物のエネルギー消費性能の向上に関する法律（次項において「新法」という。）第十九条第四項の規定は、この法律の施行の日（次項において「施行日」という。）から起算して二十一日を経過した日以後にその工事に着手する建築物のエネルギー消費性能の向上に関する法律第十九条第一項各号に掲げる行為について適用し、同日前にその工事に着手する同項各号に掲げる行為については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法附則第三条第五項の規定は、施行日から起算して二十一日を経過した日以後にその工事に着手する特定増改築（建築物のエネルギー消費性能の向上に関する法律附則第三条第一項に規定する特定増改築をいい、同法附則第一条第二号に掲げる規定の施行の際現に存する建築物について行うものに限る。以下この項において同じ。）について適用し、同日前にその工事に着手する特定増改築については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定による改正後の建築物のエネルギー消費性能の向上に関する法律（以下この条において「第二号新法」という。）第十一条第一項に規定する特定建築行為に該当する行為のうち第二条の規定による改正前の建築物のエネルギー消費性能の向上に関する法律（以下この条において「第二号旧法」という。）第十一条第一項に規定する特定建築行為に該当しないもの（次項において「新特定建築行為」という。）については、第二号新法第三章第一節の規定は、附則第一条第二号に掲げる規定の施行の日（以下この条において「第二号施行日」という。）以後に建築基準法（昭和二十五年法律第二百一号）第六条第一項若しくは第六条の二第一項の規定による確認の申請又は同法第十八条第二項の規定による通知（次項において「確認申請等」という。）がされたもの（第二号施行日前に第二号旧法第十九条第一項の規定による届出又は第二号旧法第二十条第二項の規定による通知（次項において「届出等」という。）がされたものを除く。）について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号施行日前に確認申請等がされた新特定建築行為（第二号施行日前に届出等がされたものを除く。）については、第二号新法第十九条第一項各号に掲げる行為とみなして、第二号新法第三章第二節の規定（これらの規定に係る罰則を含む。）を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号施行日前に第二号旧法第十九条第一項の規定による届出をした建築主に対する当該届出に係る指示及び命令並びに当該指示及び命令に係る報告及び立入検査については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号施行日前に第二号旧法第二十条第二項の規定による通知をした国等（建築物のエネルギー消費性能の向上に関する法律第十三条第一項に規定する国等をいう。）の機関の長に対する当該通知に係る協議の求め並びに当該協議の求めに係る報告及び立入検査については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号新法第二十七条の規定は、第二号施行日以後に建築士が委託を受けた同条第一項に規定する小規模建築物の建築に係る設計について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条第二号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前三条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、この法律による改正後の建築物のエネルギー消費性能の向上に関する法律の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四十条、第五十九条、第六十一条、第七十五条（児童福祉法第三十四条の二十の改正規定に限る。）、第八十五条、第百二条、第百七条（民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律第二十六条の改正規定に限る。）、第百十一条、第百四十三条、第百四十九条、第百五十二条、第百五十四条（不動産の鑑定評価に関する法律第二十五条第六号の改正規定に限る。）及び第百六十八条並びに次条並びに附則第三条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（行政庁の行為等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（前条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行の日前に、この法律による改正前の法律又はこれに基づく命令の規定（欠格条項その他の権利の制限に係る措置を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、会社法（平成十七年法律第八十六号）及び一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）における法人の役員の資格を成年被後見人又は被保佐人であることを理由に制限する旨の規定について、この法律の公布後一年以内を目途として検討を加え、その結果に基づき、当該規定の削除その他の必要な法制上の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二〇日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条（建築物のエネルギー消費性能の向上に関する法律の題名の改正規定、同法の目次の改正規定（「特定建築主の新築する分譲型一戸建て規格住宅」を「分譲型一戸建て規格住宅及び分譲型規格共同住宅等」に、「特定建設工事業者の新たに建設する請負型規格住宅」を「請負型一戸建て規格住宅及び請負型規格共同住宅等」に改める部分を除く。）、同法第一条の改正規定、同法第三条の改正規定、同法第四条の改正規定、同法第五条の改正規定、同法第六条第二項の改正規定、同法第七条の改正規定、同法第三章の次に一章を加える改正規定、同法第六章の次に一章を加える改正規定、同法第七十二条の改正規定、同法第七十三条の改正規定、同法第七十四条の改正規定、同法第七十五条の改正規定、同法第七十六条の改正規定、同法第七十七条の改正規定及び同法第七十八条の改正規定を除く。）及び第三条の規定並びに附則第十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条（建築物のエネルギー消費性能の向上に関する法律の題名の改正規定、同法の目次の改正規定（「特定建築主の新築する分譲型一戸建て規格住宅」を「分譲型一戸建て規格住宅及び分譲型規格共同住宅等」に、「特定建設工事業者の新たに建設する請負型規格住宅」を「請負型一戸建て規格住宅及び請負型規格共同住宅等」に改める部分を除く。）、同法第一条の改正規定、同法第三条の改正規定、同法第四条の改正規定、同法第五条の改正規定、同法第六条第二項の改正規定、同法第七条の改正規定、同法第三章の次に一章を加える改正規定、同法第六章の次に一章を加える改正規定、同法第七十二条の改正規定、同法第七十三条の改正規定、同法第七十四条の改正規定、同法第七十五条の改正規定、同法第七十六条の改正規定、同法第七十七条の改正規定及び同法第七十八条の改正規定に限る。）、第四条（建築基準法第二条の改正規定（同条第十七号の改正規定を除く。）、同法第二十一条の改正規定、同法第二十三条の改正規定、同法第二十六条の改正規定、同法第二十七条の改正規定、同法第五十二条第十四項第三号の改正規定、同法第六十一条に一項を加える改正規定、同法第八十六条の七の改正規定、同法第八十七条第四項の改正規定及び同法第八十八条第一項の改正規定（「から第三号まで」を「又は第二号」に、「同項第四号」を「同項第三号」に改める部分及び「それぞれ」を削る部分を除く。）に限る。）及び第七条の規定並びに附則第四条、第八条（登録免許税法（昭和四十二年法律第三十五号）別表第一第百五十五号の二（一）の改正規定（「第十五条第一項」を「第十四条第一項」に改める部分を除く。）及び同号（二）の改正規定（「第二十四条第一項」を「第十七条第一項」に改める部分を除く。）に限る。）及び第九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（建築物のエネルギー消費性能の向上等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定による改正後の建築物のエネルギー消費性能の向上等に関する法律第十条から第十三条まで及び第十五条の規定は、この法律の施行の日（以下この条、次条及び附則第十三条において「施行日」という。）以後にその工事に着手する建築物の建築について適用し、施行日前にその工事に着手した建築物の建築に関して当該建築物のエネルギー消費性能の向上のために第二条の規定による改正前の建築物のエネルギー消費性能の向上等に関する法律に規定する建築主、国等の機関の長及び所管行政庁が講ずべき措置については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条第四号に掲げる規定にあっては、当該規定）の施行前にした行為及び附則第二条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前三条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の規定について、その施行の状況等を勘案して検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（調整規定）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日が刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行の日前である場合には、同法第四百十八条のうち、建築物のエネルギー消費性能の向上等に関する法律第四十五条第三号の改正規定中「第四十五条第三号」とあるのは「第三十七条第三号」と、同法第七十二条の改正規定中「第七十二条」とあるのは「第六十九条」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第五八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第七条の規定並びに附則第四条、第六条、第八条から第十四条まで、第十六条から第十九条まで及び第二十一条から第二十三条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月一九日法律第五三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和七年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第七条の規定並びに附則第四条、第十一条から第十三条まで、第十五条及び第十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

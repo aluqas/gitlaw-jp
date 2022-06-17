@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="071" Year="08" PromulgateMonth="06" PromulgateDay="12">
-  <LawNum>平成八年法律第七十一号</LawNum>
-  <LawBody>
-    <LawTitle Kana="がいこくせんぱくせいぞうじぎょうしゃによるせんぱくのふとうれんかけんぞうけいやくのぼうしにかんするほうりつ" Abbrev="" AbbrevKana="">外国船舶製造事業者による船舶の不当廉価建造契約の防止に関する法律</LawTitle>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="071" Year="08" PromulgateMonth="06" PromulgateDay="12"><LawNum>平成八年法律第七十一号</LawNum><LawBody><LawTitle Kana="がいこくせんぱくせいぞうじぎょうしゃによるせんぱくのふとうれんかけんぞうけいやくのぼうしにかんするほうりつ" Abbrev="" AbbrevKana="">外国船舶製造事業者による船舶の不当廉価建造契約の防止に関する法律</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -10,7 +7,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律は、商業的造船業における正常な競争条件に関する協定（以下「協定」という。）の円滑な実施を確保するため、外国船舶製造事業者による不当廉価建造契約を防止する措置等を講ずることにより、船舶製造業における公正な競争の確保を図り、もって国民経済の健全な発展に寄与することを目的とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、商業的造船業における正常な競争条件に関する協定（以下「協定」という。）の円滑な実施を確保するため、外国船舶製造事業者による不当廉価建造契約を防止する措置等を講ずることにより、船舶製造業における公正な競争の確保を図り、もって国民経済の健全な発展に寄与することを目的とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -20,42 +17,42 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律において「船舶製造事業者」とは、船舶製造業を営む者をいう。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律において「船舶製造事業者」とは、船舶製造業を営む者をいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>この法律において「外国船舶製造事業者」とは、我が国以外の協定の締約国（第五項において「締約国」という。）において船舶製造業を営む者をいう。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律において「外国船舶製造事業者」とは、我が国以外の協定の締約国（第五項において「締約国」という。）において船舶製造業を営む者をいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>この法律において「本邦法人等」とは、本邦の法令に基づいて設立された法人その他の団体又は日本の国籍を有する者をいう。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律において「本邦法人等」とは、本邦の法令に基づいて設立された法人その他の団体又は日本の国籍を有する者をいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>この法律において「外国子会社」とは、外国の法令に基づいて設立された法人その他の団体であって一の本邦法人等がその株式又は持分の百分の五十を超える株式又は持分を所有しているものその他本邦法人等と特別の関係にあるものとして国土交通省令で定めるものをいう。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律において「外国子会社」とは、外国の法令に基づいて設立された法人その他の団体であって一の本邦法人等がその株式又は持分の百分の五十を超える株式又は持分を所有しているものその他本邦法人等と特別の関係にあるものとして国土交通省令で定めるものをいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>この法律において「廉価建造契約」とは、外国船舶製造事業者が、推進機関を備える総トン数百トン以上の船舶（船舶その他の物件を引くための構造を有する船舶にあっては、出力三百六十五キロワット以上の推進機関を備えるもの）について締結する次に掲げる建造契約であって、当該建造契約において定められた船舶の価格（次条第八項において「契約価格」という。）が、当該船舶が建造される事業場が存する締約国における通常の商取引における価格として国土交通省令・経済産業省令で定める方法により算定されるもの（同項において「正常価格」という。）を下回るものをいう。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律において「廉価建造契約」とは、外国船舶製造事業者が、推進機関を備える総トン数百トン以上の船舶（船舶その他の物件を引くための構造を有する船舶にあっては、出力三百六十五キロワット以上の推進機関を備えるもの）について締結する次に掲げる建造契約であって、当該建造契約において定められた船舶の価格（次条第八項において「契約価格」という。）が、当該船舶が建造される事業場が存する締約国における通常の商取引における価格として国土交通省令・経済産業省令で定める方法により算定されるもの（同項において「正常価格」という。）を下回るものをいう。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence>本邦法人等又は外国子会社との間で締結する建造契約</Sentence>
+              <Sentence Num="1" WritingMode="vertical">本邦法人等又は外国子会社との間で締結する建造契約</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence>本邦法人等及び外国子会社以外の者との間で締結する建造契約であって、当該建造契約の締結時において、本邦法人等又は外国子会社が国土交通省令で定める期間以上運航の用に供すること又は取得することを目的とする契約を締結している船舶に係るもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">本邦法人等及び外国子会社以外の者との間で締結する建造契約であって、当該建造契約の締結時において、本邦法人等又は外国子会社が国土交通省令で定める期間以上運航の用に供すること又は取得することを目的とする契約を締結している船舶に係るもの</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -66,49 +63,49 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>外国船舶製造事業者の締結した建造契約に係る船舶を建造する能力を有する本邦の船舶製造事業者又はその団体は、国土交通大臣に対し、当該建造契約が本邦の船舶製造業（当該船舶と同種の船舶に係る船舶製造業に限る。第五条第一項ただし書において同じ。）に損害を与え、又は与えるおそれがある廉価建造契約（以下「不当廉価建造契約」という。）であることについて、十分な証拠を添えて、調査の実施を求めることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">外国船舶製造事業者の締結した建造契約に係る船舶を建造する能力を有する本邦の船舶製造事業者又はその団体は、国土交通大臣に対し、当該建造契約が本邦の船舶製造業（当該船舶と同種の船舶に係る船舶製造業に限る。第五条第一項ただし書において同じ。）に損害を与え、又は与えるおそれがある廉価建造契約（以下「不当廉価建造契約」という。）であることについて、十分な証拠を添えて、調査の実施を求めることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>国土交通大臣及び経済産業大臣は、前項の規定による求めがあった場合その他外国船舶製造事業者の締結した建造契約が不当廉価建造契約であることについての十分な証拠がある場合において、必要があると認めるときは、当該建造契約が不当廉価建造契約であるか否かについて調査を行うものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣及び経済産業大臣は、前項の規定による求めがあった場合その他外国船舶製造事業者の締結した建造契約が不当廉価建造契約であることについての十分な証拠がある場合において、必要があると認めるときは、当該建造契約が不当廉価建造契約であるか否かについて調査を行うものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>国土交通大臣及び経済産業大臣は、第一項の規定による求めがあった場合には、当該求めのあった日から起算して四十五日以内に、前項の規定による調査を開始する旨又は開始しない旨の決定をしなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣及び経済産業大臣は、第一項の規定による求めがあった場合には、当該求めのあった日から起算して四十五日以内に、前項の規定による調査を開始する旨又は開始しない旨の決定をしなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第二項の規定による調査は、当該調査を開始した日から起算して一年以内に終了するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の規定による調査は、当該調査を開始した日から起算して一年以内に終了するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>国土交通大臣及び経済産業大臣は、第二項の規定による調査を開始した場合において、当該調査に係る建造契約の解除その他の事情の変更により当該調査を続ける必要がなくなったときは、当該調査を取りやめることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣及び経済産業大臣は、第二項の規定による調査を開始した場合において、当該調査に係る建造契約の解除その他の事情の変更により当該調査を続ける必要がなくなったときは、当該調査を取りやめることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>国土交通大臣及び経済産業大臣は、第二項の規定による調査を終了しようとするときは、あらかじめ、当該調査に係る建造契約を締結した外国船舶製造事業者その他の当該調査に関係する者として国土交通省令・経済産業省令で定める者（次項において「調査関係者」という。）に対し、当該調査の予定される結果及びその基礎となる重要な事実を通知し、証言又は証拠の提出の機会を与えなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣及び経済産業大臣は、第二項の規定による調査を終了しようとするときは、あらかじめ、当該調査に係る建造契約を締結した外国船舶製造事業者その他の当該調査に関係する者として国土交通省令・経済産業省令で定める者（次項において「調査関係者」という。）に対し、当該調査の予定される結果及びその基礎となる重要な事実を通知し、証言又は証拠の提出の機会を与えなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="7">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、第二項の規定による調査を終了したときは、調査関係者に対し、当該調査の結果を通知するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第二項の規定による調査を終了したときは、調査関係者に対し、当該調査の結果を通知するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="8">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、第二項の規定による調査により外国船舶製造事業者の締結した建造契約が不当廉価建造契約であると認める場合には、当該外国船舶製造事業者に対し、当該不当廉価建造契約に係る船舶の正常価格と契約価格との差額に相当する金額の国庫への納付を書面で通告するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第二項の規定による調査により外国船舶製造事業者の締結した建造契約が不当廉価建造契約であると認める場合には、当該外国船舶製造事業者に対し、当該不当廉価建造契約に係る船舶の正常価格と契約価格との差額に相当する金額の国庫への納付を書面で通告するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -118,13 +115,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、独立行政法人鉄道建設・運輸施設整備支援機構（次項において「機構」という。）に、前条第二項の規定による調査のうち国土交通省令で定めるもの（次項において「調査業務」という。）を行わせることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、独立行政法人鉄道建設・運輸施設整備支援機構（次項において「機構」という。）に、前条第二項の規定による調査のうち国土交通省令で定めるもの（次項において「調査業務」という。）を行わせることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>前項の規定により調査業務に従事する機構の役員若しくは職員又はこれらの職にあった者は、調査業務に関して知り得た秘密を漏らしてはならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定により調査業務に従事する機構の役員若しくは職員又はこれらの職にあった者は、調査業務に関して知り得た秘密を漏らしてはならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -134,44 +131,44 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">国土交通大臣は、第三条第八項の規定による通告をした日から起算して百八十日を経過した日以後において、当該通告を受けた外国船舶製造事業者を、四年以内の期間を定めて、当該期間内にその者が締結した建造契約に係る船舶（次条において「対象船舶」という。）について次条の規定が適用される者として、告示により指定することができる。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、当該外国船舶製造事業者が不当廉価建造契約の本邦の船舶製造業に及ぼす影響を除去するための措置として次に掲げるもののいずれかを講じた場合にあっては、この限りでない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">国土交通大臣は、第三条第八項の規定による通告をした日から起算して百八十日を経過した日以後において、当該通告を受けた外国船舶製造事業者を、四年以内の期間を定めて、当該期間内にその者が締結した建造契約に係る船舶（次条において「対象船舶」という。）について次条の規定が適用される者として、告示により指定することができる。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該外国船舶製造事業者が不当廉価建造契約の本邦の船舶製造業に及ぼす影響を除去するための措置として次に掲げるもののいずれかを講じた場合にあっては、この限りでない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence>第三条第八項に規定する金額の国庫への納付</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三条第八項に規定する金額の国庫への納付</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence>当該不当廉価建造契約の解除</Sentence>
+              <Sentence Num="1" WritingMode="vertical">当該不当廉価建造契約の解除</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence>前二号に掲げるもののほか、国土交通省令で定める措置</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、国土交通省令で定める措置</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第三条第八項の規定による通告を受けた外国船舶製造事業者は、前項第一号に掲げる措置を講じようとする場合には、国土交通省令で定めるところにより、国土交通大臣にその旨を申し出なければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第三条第八項の規定による通告を受けた外国船舶製造事業者は、前項第一号に掲げる措置を講じようとする場合には、国土交通省令で定めるところにより、国土交通大臣にその旨を申し出なければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第一項の規定により定める期間（以下「指定期間」という。）の開始の日は、同項の規定により告示をした日から起算して三十日を経過する日以後とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一項の規定により定める期間（以下「指定期間」という。）の開始の日は、同項の規定により告示をした日から起算して三十日を経過する日以後とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、第一項の規定による指定をしたときは、当該指定を受けた外国船舶製造事業者（以下「指定外国船舶製造事業者」という。）に対し、指定をした旨その他国土交通省令で定める事項を通知するとともに、国土交通省令で定めるところにより、同項の告示の内容を船舶運航事業（海上運送法（昭和二十四年法律第百八十七号）第二条第二項に規定する船舶運航事業をいう。第十二条において同じ。）及び船舶貸渡業（同法第二条第十項に規定する船舶貸渡業をいう。第十二条において同じ。）を営む者に周知させるため必要な措置を講じなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第一項の規定による指定をしたときは、当該指定を受けた外国船舶製造事業者（以下「指定外国船舶製造事業者」という。）に対し、指定をした旨その他国土交通省令で定める事項を通知するとともに、国土交通省令で定めるところにより、同項の告示の内容を船舶運航事業（海上運送法（昭和二十四年法律第百八十七号）第二条第二項に規定する船舶運航事業をいう。第十二条において同じ。）及び船舶貸渡業（同法第二条第十項に規定する船舶貸渡業をいう。第十二条において同じ。）を営む者に周知させるため必要な措置を講じなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -181,7 +178,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、対象船舶が引き渡された場合には、当該対象船舶の運航者に対し、引渡しの日から起算して四年以内の期間を定めて、本邦における当該対象船舶への貨物の積込み又は当該対象船舶からの貨物の取卸しの禁止を命ずることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、対象船舶が引き渡された場合には、当該対象船舶の運航者に対し、引渡しの日から起算して四年以内の期間を定めて、本邦における当該対象船舶への貨物の積込み又は当該対象船舶からの貨物の取卸しの禁止を命ずることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -191,19 +188,19 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、指定外国船舶製造事業者が第五条第一項ただし書に掲げる措置のいずれかを講じた場合には、当該指定外国船舶製造事業者に係る同項の規定による指定を、告示により取り消さなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、指定外国船舶製造事業者が第五条第一項ただし書に掲げる措置のいずれかを講じた場合には、当該指定外国船舶製造事業者に係る同項の規定による指定を、告示により取り消さなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>前項の規定により第五条第一項の規定による指定を取り消した場合には、当該指定に係る前条の規定による命令は、その効力を失う。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定により第五条第一項の規定による指定を取り消した場合には、当該指定に係る前条の規定による命令は、その効力を失う。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第五条第四項の規定は、第一項の規定により同条第一項の規定による指定を取り消した場合について準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第五条第四項の規定は、第一項の規定により同条第一項の規定による指定を取り消した場合について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -213,7 +210,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、第三条第八項の規定による通告をした後に、当該通告を受けた外国船舶製造事業者の締結した不当廉価建造契約に係る同条第二項の規定による調査に関する検討を行うための協定第八条１に規定する小委員会が、当該外国船舶製造事業者の締結した建造契約が不当廉価建造契約でない旨の決定をした場合には、第五条第一項の規定による指定をすることができない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第三条第八項の規定による通告をした後に、当該通告を受けた外国船舶製造事業者の締結した不当廉価建造契約に係る同条第二項の規定による調査に関する検討を行うための協定第八条１に規定する小委員会が、当該外国船舶製造事業者の締結した建造契約が不当廉価建造契約でない旨の決定をした場合には、第五条第一項の規定による指定をすることができない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -222,19 +219,19 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、第五条第一項の規定による指定をした後に、当該指定又は第六条の規定による命令に関する検討を行うための協定第八条１０に規定する小委員会が、指定期間を短縮すべき旨の決定をした場合には、当該指定期間を、告示により短縮するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第五条第一項の規定による指定をした後に、当該指定又は第六条の規定による命令に関する検討を行うための協定第八条１０に規定する小委員会が、指定期間を短縮すべき旨の決定をした場合には、当該指定期間を、告示により短縮するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、第六条の規定による命令をした後に、前項に規定する小委員会が、同条の規定により国土交通大臣が定めた期間を短縮すべき旨の決定をした場合には、当該期間を短縮するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第六条の規定による命令をした後に、前項に規定する小委員会が、同条の規定により国土交通大臣が定めた期間を短縮すべき旨の決定をした場合には、当該期間を短縮するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>第五条第四項の規定は、第一項の規定により指定期間を短縮した場合について準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第五条第四項の規定は、第一項の規定により指定期間を短縮した場合について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -243,13 +240,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、前条第一項に規定する小委員会が、期間を定めて第六条の規定による命令の効力を停止すべき旨の決定をした場合には、当該期間、当該命令の効力を停止するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前条第一項に規定する小委員会が、期間を定めて第六条の規定による命令の効力を停止すべき旨の決定をした場合には、当該期間、当該命令の効力を停止するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、前条第一項に規定する小委員会が、期間を定めて当該期間内に指定外国船舶製造事業者が締結した建造契約に係る船舶の運航者に対して第六条の規定による命令をすべきでない旨の決定をした場合には、同条の規定による命令をしないものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前条第一項に規定する小委員会が、期間を定めて当該期間内に指定外国船舶製造事業者が締結した建造契約に係る船舶の運航者に対して第六条の規定による命令をすべきでない旨の決定をした場合には、同条の規定による命令をしないものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -259,8 +256,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">本邦の船舶製造事業者は、総トン数が国土交通省令で定める総トン数以上の船舶の建造契約を締結したときは、速やかに建造契約の概要その他の国土交通省令で定める事項を国土交通大臣に届け出なければならない。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、当該建造契約に係る船舶の建造について、臨時船舶建造調整法（昭和二十八年法律第百四十九号）第二条の規定による許可の申請をしたとき及び海上運送法第三十九条の十一第四項の認定（同条第五項の規定による変更の認定を含む。）の申請をしたとき（当該認定を受けることによって同法第三十九条の十二の規定により臨時船舶建造調整法第二条の許可を受けたものとみなされることとなる場合に限る。）は、この限りでない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">本邦の船舶製造事業者は、総トン数が国土交通省令で定める総トン数以上の船舶の建造契約を締結したときは、速やかに建造契約の概要その他の国土交通省令で定める事項を国土交通大臣に届け出なければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該建造契約に係る船舶の建造について、臨時船舶建造調整法（昭和二十八年法律第百四十九号）第二条の規定による許可の申請をしたとき及び海上運送法第三十九条の十一第四項の認定（同条第五項の規定による変更の認定を含む。）の申請をしたとき（当該認定を受けることによって同法第三十九条の十二の規定により臨時船舶建造調整法第二条の許可を受けたものとみなされることとなる場合に限る。）は、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -270,7 +267,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、この法律の施行に必要な限度において、本邦の船舶製造事業者又は船舶運航事業若しくは船舶貸渡業を営む者に対し、その業務に関し報告をさせることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、この法律の施行に必要な限度において、本邦の船舶製造事業者又は船舶運航事業若しくは船舶貸渡業を営む者に対し、その業務に関し報告をさせることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -280,7 +277,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>国土交通大臣は、第五条第一項の規定による指定をし、又は第六条の規定による命令をしようとするときは、あらかじめ、経済産業大臣その他関係行政機関の長に協議しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第五条第一項の規定による指定をし、又は第六条の規定による命令をしようとするときは、あらかじめ、経済産業大臣その他関係行政機関の長に協議しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -290,7 +287,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律に規定する国土交通大臣の権限は、国土交通省令で定めるところにより、地方運輸局長（運輸監理部長を含む。）に委任することができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律に規定する国土交通大臣の権限は、国土交通省令で定めるところにより、地方運輸局長（運輸監理部長を含む。）に委任することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -300,7 +297,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律に規定するもののほか、この法律の実施のため必要な手続その他の事項は、国土交通省令又は国土交通省令・経済産業省令で定める。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律に規定するもののほか、この法律の実施のため必要な手続その他の事項は、国土交通省令又は国土交通省令・経済産業省令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -310,7 +307,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>第四条第二項の規定に違反した者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第四条第二項の規定に違反した者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -319,7 +316,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>第六条の規定による命令に違反した者は、六月以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第六条の規定による命令に違反した者は、六月以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -328,7 +325,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>第十二条の規定による報告をせず、又は虚偽の報告をした者は、二十万円以下の罰金に処する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第十二条の規定による報告をせず、又は虚偽の報告をした者は、二十万円以下の罰金に処する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -337,7 +334,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前二条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前二条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -350,7 +347,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律は、協定が日本国について効力を生ずる日から施行する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、協定が日本国について効力を生ずる日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -363,17 +360,17 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence>第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>公布の日</Sentence>
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
               </Column>
             </ItemSentence>
           </Item>
@@ -388,7 +385,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律は、平成十三年三月一日から施行する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成十三年三月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -398,13 +395,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>前条の規定の施行の日において不当廉価建造契約防止法がすでに施行されている場合にあっては、同条の規定による改正前の不当廉価建造契約防止法第四条第一項の規定による調査に従事する協会の役員又は職員であった者に係るその調査に関して知り得た秘密を漏らしてはならない義務については、前条の規定の施行後も、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前条の規定の施行の日において不当廉価建造契約防止法がすでに施行されている場合にあっては、同条の規定による改正前の不当廉価建造契約防止法第四条第一項の規定による調査に従事する協会の役員又は職員であった者に係るその調査に関して知り得た秘密を漏らしてはならない義務については、前条の規定の施行後も、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence>前項の規定により従前の例によることとされる事項に係る前条の規定の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定により従前の例によることとされる事項に係る前条の規定の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -414,7 +411,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -427,7 +424,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律は、平成十四年七月一日から施行する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成十四年七月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -437,7 +434,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律の施行前にこの法律による改正前のそれぞれの法律若しくはこれに基づく命令（以下「旧法令」という。）の規定により海運監理部長、陸運支局長、海運支局長又は陸運支局の事務所の長（以下「海運監理部長等」という。）がした許可、認可その他の処分又は契約その他の行為（以下「処分等」という。）は、国土交通省令で定めるところにより、この法律による改正後のそれぞれの法律若しくはこれに基づく命令（以下「新法令」という。）の規定により相当の運輸監理部長、運輸支局長又は地方運輸局、運輸監理部若しくは運輸支局の事務所の長（以下「運輸監理部長等」という。）がした処分等とみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にこの法律による改正前のそれぞれの法律若しくはこれに基づく命令（以下「旧法令」という。）の規定により海運監理部長、陸運支局長、海運支局長又は陸運支局の事務所の長（以下「海運監理部長等」という。）がした許可、認可その他の処分又は契約その他の行為（以下「処分等」という。）は、国土交通省令で定めるところにより、この法律による改正後のそれぞれの法律若しくはこれに基づく命令（以下「新法令」という。）の規定により相当の運輸監理部長、運輸支局長又は地方運輸局、運輸監理部若しくは運輸支局の事務所の長（以下「運輸監理部長等」という。）がした処分等とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -446,7 +443,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律の施行前に旧法令の規定により海運監理部長等に対してした申請、届出その他の行為（以下「申請等」という。）は、国土交通省令で定めるところにより、新法令の規定により相当の運輸監理部長等に対してした申請等とみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に旧法令の規定により海運監理部長等に対してした申請、届出その他の行為（以下「申請等」という。）は、国土交通省令で定めるところにより、新法令の規定により相当の運輸監理部長等に対してした申請等とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -455,7 +452,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -468,8 +465,8 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、平成十五年十月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、第二十七条、次条、附則第三条及び第二十一条の規定は、同年七月一日から施行する。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十五年十月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二十七条、次条、附則第三条及び第二十一条の規定は、同年七月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -479,7 +476,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律の施行前にした行為及び前条の規定によりなお従前の例によることとされる事項に係るこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及び前条の規定によりなお従前の例によることとされる事項に係るこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -489,7 +486,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>附則第二条から第十五条まで、前二条及び第二十一条に定めるもののほか、機構の設立に伴い必要な経過措置その他この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から第十五条まで、前二条及び第二十一条に定めるもののほか、機構の設立に伴い必要な経過措置その他この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -502,7 +499,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -512,7 +509,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -525,7 +522,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence>この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -536,17 +533,17 @@
         <ParagraphCaption>（施行期日）</ParagraphCaption>
         <ParagraphNum>１</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Function="main" Num="1">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
-          <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
         </ParagraphSentence>
         <Item Num="1">
           <ItemTitle>一</ItemTitle>
           <ItemSentence>
             <Column Num="1">
-              <Sentence>第五百九条の規定</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
             </Column>
             <Column Num="2">
-              <Sentence>公布の日</Sentence>
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
             </Column>
           </ItemSentence>
         </Item>
@@ -560,23 +557,23 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
           </ParagraphSentence>
           <Item Num="1:3">
             <ItemTitle>一から三まで</ItemTitle>
             <ItemSentence>
-              <Sentence>略</Sentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence>第三条の規定（次号に掲げる改正規定を除く。）並びに附則第六条、第七条、第十三条、第十四条及び第十六条から第十八条までの規定、附則第十九条の規定（外国人観光旅客の来訪の促進等による国際観光の振興に関する法律（平成九年法律第九十一号）第六条第二項の改正規定（「第二十三条」を「第二十一条の五」に改める部分に限る。）を除く。）、附則第二十条の規定（中心市街地の活性化に関する法律（平成十年法律第九十二号）第四十条第二項の改正規定（「第二十三条」を「第二十一条の五」に改める部分に限る。）を除く。）、附則第二十一条の規定、附則第二十二条の規定（流通業務の総合化及び効率化の促進に関する法律（平成十七年法律第八十五号）第十二条第二項の改正規定を除く。）、附則第二十三条の規定、附則第二十四条の規定（地域公共交通の活性化及び再生に関する法律（平成十九年法律第五十九号）第二十七条の五第二項の改正規定（「第十五条第一項」を「第十六条第一項」に改める部分に限る。）、同法第二十七条の十九の改正規定（「第十五条」を「第十六条」に改める部分に限る。）及び同法第三十五条第二項の改正規定（「第十五条第一項」を「第十六条第一項」に改める部分に限る。）を除く。）、附則第二十五条の規定（観光圏の整備による観光旅客の来訪及び滞在の促進に関する法律（平成二十年法律第三十九号）第十三条第二項の改正規定（「第二十三条」を「第二十一条の五」に改める部分に限る。）を除く。）、附則第二十六条の規定（総合特別区域法（平成二十三年法律第八十一号）第十九条の三の改正規定（「第八条第一項」を「第六条」に改める部分に限る。）を除く。）、附則第二十七条及び第二十八条の規定、附則第二十九条の規定（文化観光拠点施設を中核とした地域における文化観光の推進に関する法律（令和二年法律第十八号）第八条第二項の改正規定（「第二十三条」を「第二十一条の五」に改める部分に限る。）を除く。）並びに附則第三十条及び第三十一条の規定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三条の規定（次号に掲げる改正規定を除く。）並びに附則第六条、第七条、第十三条、第十四条及び第十六条から第十八条までの規定、附則第十九条の規定（外国人観光旅客の来訪の促進等による国際観光の振興に関する法律（平成九年法律第九十一号）第六条第二項の改正規定（「第二十三条」を「第二十一条の五」に改める部分に限る。）を除く。）、附則第二十条の規定（中心市街地の活性化に関する法律（平成十年法律第九十二号）第四十条第二項の改正規定（「第二十三条」を「第二十一条の五」に改める部分に限る。）を除く。）、附則第二十一条の規定、附則第二十二条の規定（流通業務の総合化及び効率化の促進に関する法律（平成十七年法律第八十五号）第十二条第二項の改正規定を除く。）、附則第二十三条の規定、附則第二十四条の規定（地域公共交通の活性化及び再生に関する法律（平成十九年法律第五十九号）第二十七条の五第二項の改正規定（「第十五条第一項」を「第十六条第一項」に改める部分に限る。）、同法第二十七条の十九の改正規定（「第十五条」を「第十六条」に改める部分に限る。）及び同法第三十五条第二項の改正規定（「第十五条第一項」を「第十六条第一項」に改める部分に限る。）を除く。）、附則第二十五条の規定（観光圏の整備による観光旅客の来訪及び滞在の促進に関する法律（平成二十年法律第三十九号）第十三条第二項の改正規定（「第二十三条」を「第二十一条の五」に改める部分に限る。）を除く。）、附則第二十六条の規定（総合特別区域法（平成二十三年法律第八十一号）第十九条の三の改正規定（「第八条第一項」を「第六条」に改める部分に限る。）を除く。）、附則第二十七条及び第二十八条の規定、附則第二十九条の規定（文化観光拠点施設を中核とした地域における文化観光の推進に関する法律（令和二年法律第十八号）第八条第二項の改正規定（「第二十三条」を「第二十一条の五」に改める部分に限る。）を除く。）並びに附則第三十条及び第三十一条の規定</Sentence>
               </Column>
               <Column Num="2">
-                <Sentence>公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
               </Column>
             </ItemSentence>
           </Item>

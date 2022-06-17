@@ -1,0 +1,3814 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="079" Year="33" PromulgateMonth="04" PromulgateDay="24"><LawNum>昭和三十三年法律第七十九号</LawNum><LawBody><LawTitle Kana="げすいどうほう" Abbrev="" AbbrevKana="">下水道法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="1_2">
+        <ChapterTitle>第一章の二　流域別下水道整備総合計画</ChapterTitle>
+        <ArticleRange>（第二条の二）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　公共下水道</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　公共下水道の管理等</SectionTitle>
+          <ArticleRange>（第三条―第二十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　浸水被害対策区域における特別の措置</SectionTitle>
+          <ArticleRange>（第二十五条の二―第二十五条の二十一）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="2_2">
+        <ChapterTitle>第二章の二　流域下水道</ChapterTitle>
+        <ArticleRange>（第二十五条の二十二―第二十五条の三十）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　都市下水路</ChapterTitle>
+        <ArticleRange>（第二十六条―第三十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第三十一条の二―第四十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <ArticleRange>（第四十四条―第五十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（この法律の目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、流域別下水道整備総合計画の策定に関する事項並びに公共下水道、流域下水道及び都市下水路の設置その他の管理の基準等を定めて、下水道の整備を図り、もつて都市の健全な発達及び公衆衛生の向上に寄与し、あわせて公共用水域の水質の保全に資することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（用語の定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">下水</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">生活若しくは事業（耕作の事業を除く。）に起因し、若しくは付随する廃水（以下「汚水」という。）又は雨水をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">下水道</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">下水を排除するために設けられる排水管、排水<Ruby>渠<Rt>きよ</Rt></Ruby>その他の排水施設（かんがい排水施設を除く。）、これに接続して下水を処理するために設けられる処理施設（<Ruby>屎<Rt>し</Rt></Ruby>尿浄化槽を除く。）又はこれらの施設を補完するために設けられるポンプ施設、貯留施設その他の施設の総体をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">公共下水道</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次のいずれかに該当する下水道をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">主として市街地における下水を排除し、又は処理するために地方公共団体が管理する下水道で、終末処理場を有するもの又は流域下水道に接続するものであり、かつ、汚水を排除すべき排水施設の相当部分が暗<Ruby>渠<Rt>きよ</Rt></Ruby>である構造のもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">主として市街地における雨水のみを排除するために地方公共団体が管理する下水道で、河川その他の公共の水域若しくは海域に当該雨水を放流するもの又は流域下水道に接続するもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">流域下水道</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次のいずれかに該当する下水道をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">専ら地方公共団体が管理する下水道により排除される下水を受けて、これを排除し、及び処理するために地方公共団体が管理する下水道で、二以上の市町村の区域における下水を排除するものであり、かつ、終末処理場を有するもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">公共下水道（終末処理場を有するもの又は前号ロに該当するものに限る。）により排除される雨水のみを受けて、これを河川その他の公共の水域又は海域に放流するために地方公共団体が管理する下水道で、二以上の市町村の区域における雨水を排除するものであり、かつ、当該雨水の流量を調節するための施設を有するもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">都市下水路</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">主として市街地における下水を排除するために地方公共団体が管理している下水道（公共下水道及び流域下水道を除く。）で、その規模が政令で定める規模以上のものであり、かつ、当該地方公共団体が第二十七条の規定により指定したものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">終末処理場</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">下水を最終的に処理して河川その他の公共の水域又は海域に放流するために下水道の施設として設けられる処理施設及びこれを補完する施設をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">排水区域</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">公共下水道により下水を排除することができる地域で、第九条第一項の規定により公示された区域をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">処理区域</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">排水区域のうち排除された下水を終末処理場により処理することができる地域で、第九条第二項において準用する同条第一項の規定により公示された区域をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">浸水被害</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">排水区域において、一時的に大量の降雨が生じた場合において排水施設に当該雨水を排除できないこと又は排水施設から河川その他の公共の水域若しくは海域に当該雨水を排除できないことによる浸水により、国民の生命、身体又は財産に被害を生ずることをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="1_2">
+        <ChapterTitle>第一章の二　流域別下水道整備総合計画</ChapterTitle>
+        <Article Num="2_2">
+          <ArticleTitle>第二条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、環境基本法（平成五年法律第九十一号）第十六条第一項の規定に基づき水質の汚濁に係る環境上の条件について生活環境を保全する上で維持されることが望ましい基準（以下「水質環境基準」という。）が定められた河川その他の公共の水域又は海域で政令で定める要件に該当するものについて、その環境上の条件を当該水質環境基準に達せしめるため、それぞれの公共の水域又は海域ごとに、下水道の整備に関する総合的な基本計画（以下「流域別下水道整備総合計画」という。）を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流域別下水道整備総合計画においては、国土交通省令で定めるところにより、次に掲げる事項を定めなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">下水道の整備に関する基本方針</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">下水道により下水を排除し、及び処理すべき区域に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号の区域に係る下水道の根幹的施設の配置、構造及び能力に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二号の区域に係る下水道の整備事業の実施の順位に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の公共の水域又は海域でその水質を保全するため当該水域又は海域に排出される下水の窒素含有量又は<Ruby>燐<Rt>りん</Rt></Ruby>含有量を削減する必要があるものとして政令で定める要件に該当するものについて定められる流域別下水道整備総合計画にあつては、第二号の区域に係る下水道の終末処理場から放流される下水の窒素含有量又は<Ruby>燐<Rt>りん</Rt></Ruby>含有量についての当該終末処理場ごとの削減目標量（以下単に「削減目標量」という。）及び削減方法に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流域別下水道整備総合計画は、次に掲げる事項を勘案して定めなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該地域における地形、降水量、河川の流量その他の自然的条件</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該地域における土地利用の見通し</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該公共の水域に係る水の利用の見通し</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該地域における汚水の量及び水質の見通し</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">下水の放流先の状況</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">下水道の整備に関する費用効果分析</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流域別下水道整備総合計画において削減目標量が定められた終末処理場（以下「特定終末処理場」という。）で放流する下水の窒素含有量又は<Ruby>燐<Rt>りん</Rt></Ruby>含有量に係る水質を政令で定める基準に適合させることができる構造のもの（以下「高度処理終末処理場」という。）を管理する地方公共団体は、当該高度処理終末処理場について定められた削減目標量を超える量の窒素含有量又は<Ruby>燐<Rt>りん</Rt></Ruby>含有量を削減する場合には、その削減目標量を超えて削減する窒素含有量又は<Ruby>燐<Rt>りん</Rt></Ruby>含有量のうち一定量のものについては、他の地方公共団体のため、当該他の地方公共団体が管理する特定終末処理場（当該高度処理終末処理場に係る下水道と同じ第二項第二号の区域に係る下水道のものに限る。）について定められた削減目標量の一部に相当するものとして削減するものである旨を、あらかじめ当該他の地方公共団体の同意を得て、国土交通省令で定めるところにより、都道府県に対し、申し出ることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による申出を受けた都道府県は、第二項第五号に掲げる事項に、当該申出に係る窒素含有量又は<Ruby>燐<Rt>りん</Rt></Ruby>含有量の削減方法、当該高度処理終末処理場の設置、改築、修繕、維持その他の管理に要する費用の予定額及び当該他の地方公共団体による費用の負担に関する事項を記載することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、第一項の規定により流域別下水道整備総合計画（次項に規定するものを除く。）を定めようとするときは、あらかじめ、関係市町村の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都府県は、第一項の規定により二以上の都府県の区域にわたる水系に係る河川その他の公共の水域又は二以上の都府県の区域における汚水により水質の汚濁が生じる海域の全部又は一部についての流域別下水道整備総合計画を定めようとするときは、あらかじめ、関係都府県及び関係市町村の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、都府県の求めに応じ、前項に規定する流域別下水道整備総合計画の作成に関し必要な助言を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の助言を行うに際し必要と認めるときは、環境大臣に対し、意見を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都府県は、第一項の規定により第七項に規定する流域別下水道整備総合計画を定めたときは、国土交通省令で定めるところにより、これを国土交通大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の規定による届出を受けたときは、当該届出の内容を環境大臣に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="12">
+            <ParagraphNum>１２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、第一項の水質環境基準が改定された場合、第三項各号に掲げる事項に変更を生じた場合その他の場合において流域別下水道整備総合計画を変更する必要が生じたときは、遅滞なく、当該流域別下水道整備総合計画を変更しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、第二項から前項までの規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　公共下水道</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　公共下水道の管理等</SectionTitle>
+          <Article Num="3">
+            <ArticleCaption>（管理）</ArticleCaption>
+            <ArticleTitle>第三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道の設置、改築、修繕、維持その他の管理は、市町村が行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、都道府県は、二以上の市町村が受益し、かつ、関係市町村のみでは設置することが困難であると認められる場合においては、関係市町村と協議して、当該公共下水道の設置、改築、修繕、維持その他の管理を行うことができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、関係市町村が協議に応じようとするときは、あらかじめその議会の議決を経なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="4">
+            <ArticleCaption>（事業計画の策定）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条の規定により公共下水道を管理する者（以下「公共下水道管理者」という。）は、公共下水道を設置しようとするときは、あらかじめ、政令で定めるところにより、事業計画を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、前項の規定により事業計画を定めようとするときは、あらかじめ、政令で定めるところにより、都道府県知事（都道府県が設置する公共下水道の事業計画その他政令で定める事業計画にあつては、国土交通大臣）に協議しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の規定による協議（第二条第三号ロに該当する公共下水道（以下「雨水公共下水道」という。）に係るものを除く。）を受けたときは、政令で定める場合を除き、保健衛生上の観点からする環境大臣の意見を聴かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二項の規定にかかわらず、都道府県である公共下水道管理者は、流域別下水道整備総合計画が定められている地域において公共下水道の事業計画を定めようとするときは、同項の規定による協議をすることを要しない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該公共下水道管理者は、事業計画を定めたときは、国土交通省令で定めるところにより、遅滞なく、これを国土交通大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の規定による届出（雨水公共下水道に係るものを除く。）を受けたときは、政令で定める場合を除き、当該届出の内容を環境大臣に通知するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前各項の規定は、公共下水道の事業計画の変更（政令で定める軽微な変更を除く。）について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="5">
+            <ArticleCaption>（事業計画に定めるべき事項）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の事業計画においては、次に掲げる事項を定めなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">排水施設（これを補完する施設を含む。）の配置、構造及び能力並びに点検の方法及び頻度</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">終末処理場を設ける場合には、その配置、構造及び能力</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">終末処理場以外の処理施設（これを補完する施設を含む。）を設ける場合には、その配置、構造及び能力</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">流域下水道と接続する場合には、その接続する位置</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">予定処理区域（雨水公共下水道に係るものにあつては、予定排水区域。第三項及び次条第四号において同じ。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">工事の着手及び完成の予定年月日</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の事業計画においては、前項各号に掲げるもののほか、浸水被害の発生を防ぐべき目標となる降雨（以下「計画降雨」という。）を定めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">予定処理区域の全部又は一部について水防法（昭和二十四年法律第百九十三号）第十四条の二第一項又は第二項の規定による雨水出水浸水想定区域の指定があつた場合における前項の規定の適用については、同項中「定めることができる」とあるのは、「定めなければならない」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項又は第二項の事業計画の記載方法その他その記載に関し必要な事項は、国土交通省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="6">
+            <ArticleCaption>（事業計画の要件）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第四条第一項の事業計画は、次に掲げる要件に該当するものでなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公共下水道の配置及び能力が当該地域における降水量、人口その他の下水の量及び水質（水温その他の水の状態を含む。以下同じ。）に影響を及ぼすおそれのある要因、地形及び土地利用の状況並びに下水の放流先の状況を考慮して適切に定められていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公共下水道の構造が次条の技術上の基準に適合し、かつ、排水施設の点検の方法及び頻度が第七条の三第二項の技術上の基準に適合していること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">計画降雨が定められているものにあつては、排水施設及び終末処理場（雨水公共下水道に係るものにあつては、排水施設。次号において同じ。）の配置及び能力が計画降雨に相応していること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">予定処理区域が排水施設及び終末処理場の配置及び能力に相応していること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">流域下水道に接続する公共下水道（以下「流域関連公共下水道」という。）に係るものにあつては、流域下水道の事業計画に適合していること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該地域に関し流域別下水道整備総合計画が定められている場合には、これに適合していること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該地域に関し都市計画法（昭和四十三年法律第百号）第二章の規定により都市計画が定められている場合又は同法第五十九条の規定により都市計画事業の認可若しくは承認がされている場合には、公共下水道の配置及び工事の時期がその都市計画又は都市計画事業に適合していること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="7">
+            <ArticleCaption>（構造の基準）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道の構造は、公衆衛生上重大な危害が生じ、又は公共用水域の水質に重大な影響が及ぶことを防止する観点から政令で定める技術上の基準に適合するものでなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定するもののほか、公共下水道の構造は、政令で定める基準を参酌して公共下水道管理者である地方公共団体の条例で定める技術上の基準に適合するものでなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="7_2">
+            <ArticleCaption>（操作規則）</ArticleCaption>
+            <ArticleTitle>第七条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、その管理する排水施設を補完する施設のうち、河川その他の公共の水域又は海域から当該排水施設への逆流を防止するために設けられる<Ruby>樋<Rt>ひ</Rt></Ruby>門又は<Ruby>樋<Rt>ひ</Rt></Ruby>管（操作を伴うものに限る。次項において「操作施設」という。）については、国土交通省令で定めるところにより、操作規則を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の操作規則は、洪水、津波又は高潮の発生時における操作施設の操作に従事する者の安全の確保が図られるように配慮されたものでなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定は、第一項の操作規則の変更について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="7_3">
+            <ArticleCaption>（公共下水道の維持又は修繕）</ArticleCaption>
+            <ArticleTitle>第七条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、公共下水道を良好な状態に保つように維持し、修繕し、もつて公衆衛生上重大な危害が生じ、及び公共用水域の水質に重大な影響が及ぶことのないように努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道の維持又は修繕に関する技術上の基準その他必要な事項は、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の技術上の基準は、公共下水道の修繕を効率的に行うための点検及び災害の発生時において公共下水道の機能を維持するための応急措置の実施に関する基準を含むものでなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="8">
+            <ArticleCaption>（放流水の水質の基準）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道から河川その他の公共の水域又は海域に放流される水（以下「公共下水道からの放流水」という。）の水質は、政令で定める技術上の基準に適合するものでなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（供用開始の公示等）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、公共下水道の供用を開始しようとするときは、あらかじめ、供用を開始すべき年月日、下水を排除すべき区域その他国土交通省令で定める事項を公示し、かつ、これを表示した図面を当該公共下水道管理者である地方公共団体の事務所において一般の縦覧に供しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">公示した事項を変更しようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定は、公共下水道管理者が終末処理場による下水の処理を開始しようとする場合又は当該公共下水道が接続する流域下水道の終末処理場による下水の処理が開始される場合に準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同項中「供用を開始すべき年月日」とあるのは「下水の処理を開始すべき年月日」と、「下水を排除すべき区域」とあるのは「下水を処理すべき区域」と、「国土交通省令」とあるのは「国土交通省令・環境省令」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（排水設備の設置等）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">公共下水道の供用が開始された場合においては、当該公共下水道の排水区域内の土地の所有者、使用者又は占有者は、遅滞なく、次の区分に従つて、その土地の下水を公共下水道に流入させるために必要な排水管、排水<Ruby>渠<Rt>きよ</Rt></Ruby>その他の排水施設（以下「排水設備」という。）を設置しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特別の事情により公共下水道管理者の許可を受けた場合その他政令で定める場合においては、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">建築物の敷地である土地にあつては、当該建築物の所有者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">建築物の敷地でない土地（次号に規定する土地を除く。）にあつては、当該土地の所有者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">道路（道路法（昭和二十七年法律第百八十号）による道路をいう。）その他の公共施設（建築物を除く。）の敷地である土地にあつては、当該公共施設を管理すべき者</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により設置された排水設備の改築又は修繕は、同項の規定によりこれを設置すべき者が行うものとし、その清掃その他の維持は、当該土地の占有者（前項第三号の土地にあつては、当該公共施設を管理すべき者）が行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の排水設備の設置又は構造については、建築基準法（昭和二十五年法律第二百一号）その他の法令の規定の適用がある場合においてはそれらの法令の規定によるほか、政令で定める技術上の基準によらなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（排水に関する受忍義務等）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の規定により排水設備を設置しなければならない者は、他人の土地又は排水設備を使用しなければ下水を公共下水道に流入させることが困難であるときは、他人の土地に排水設備を設置し、又は他人の設置した排水設備を使用することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、他人の土地又は排水設備にとつて最も損害の少い場所又は箇所及び方法を選ばなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により他人の排水設備を使用する者は、その利益を受ける割合に応じて、その設置、改築、修繕及び維持に要する費用を負担しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定により他人の土地に排水設備を設置することができる者又は前条第二項の規定により当該排水設備の維持をしなければならない者は、当該排水設備の設置、改築若しくは修繕又は維持をするためやむを得ない必要があるときは、他人の土地を使用することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、あらかじめその旨を当該土地の占有者に告げなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により他人の土地を使用した者は、当該使用により他人に損失を与えた場合においては、その者に対し、通常生ずべき損失を補償しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11_2">
+            <ArticleCaption>（使用の開始等の届出）</ArticleCaption>
+            <ArticleTitle>第十一条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">継続して政令で定める量又は水質の下水を排除して公共下水道を使用しようとする者は、国土交通省令で定めるところにより、あらかじめ、当該下水の量又は水質及び使用開始の時期を公共下水道管理者に届け出なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">その届出に係る下水の量又は水質を変更しようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">継続して下水を排除して公共下水道を使用しようとする水質汚濁防止法（昭和四十五年法律第百三十八号）第二条第二項に規定する特定施設又はダイオキシン類対策特別措置法（平成十一年法律第百五号）第十二条第一項第六号に規定する水質基準対象施設（以下単に「特定施設」という。）の設置者は、前項の規定により届出をする場合を除き、国土交通省令で定めるところにより、あらかじめ、使用開始の時期を公共下水道管理者に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11_3">
+            <ArticleCaption>（水洗便所への改造義務等）</ArticleCaption>
+            <ArticleTitle>第十一条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">処理区域内においてくみ取便所が設けられている建築物を所有する者は、当該処理区域についての第九条第二項において準用する同条第一項の規定により公示された下水の処理を開始すべき日から三年以内に、その便所を水洗便所（汚水管が公共下水道に連結されたものに限る。以下同じ。）に改造しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">建築基準法第三十一条第一項の規定に違反している便所が設けられている建築物の所有者については、前項の規定は、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">公共下水道管理者は、第一項の規定に違反している者に対し、相当の期間を定めて、当該くみ取便所を水洗便所に改造すべきことを命ずることができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該建築物が近く除却され、又は移転される予定のものである場合、水洗便所への改造に必要な資金の調達が困難な事情がある場合等当該くみ取便所を水洗便所に改造していないことについて相当の理由があると認められる場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の期限後に同項の違反に係る建築物の所有権を取得した者に対しても、前項と同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村は、くみ取便所を水洗便所に改造しようとする者に対し、必要な資金の融通又はそのあつせん、その改造に関し利害関係を有する者との間に紛争が生じた場合における和解の仲介その他の援助に努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、市町村が前項の資金の融通を行なう場合には、これに必要な資金の融通又はそのあつせんに努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（除害施設の設置等）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、著しく公共下水道若しくは流域下水道の施設の機能を妨げ、又は公共下水道若しくは流域下水道の施設を損傷するおそれのある下水を継続して排除して公共下水道を使用する者に対し、政令で定める基準に従い、条例で、下水による障害を除去するために必要な施設（以下「除害施設」という。）を設け、又は必要な措置をしなければならない旨を定めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の条例は、公共下水道又は流域下水道の機能及び構造を保全するために必要な最小限度のものであり、かつ、公共下水道を使用する者に不当な義務を課することとならないものでなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12_2">
+            <ArticleCaption>（特定事業場からの下水の排除の制限）</ArticleCaption>
+            <ArticleTitle>第十二条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定施設（政令で定めるものを除く。第十二条の十二、第十八条の二及び第三十九条の二を除き、以下同じ。）を設置する工場又は事業場（以下「特定事業場」という。）から下水を排除して公共下水道（終末処理場を設置しているもの又は終末処理場を設置している流域下水道に接続しているものに限る。以下この条、次条、第十二条の五、第十二条の九、第十二条の十一第一項及び第三十七条の二において同じ。）を使用する者は、政令で定める場合を除き、その水質が当該公共下水道への排出口において政令で定める基準に適合しない下水を排除してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の政令で定める基準は、下水に含まれる物質のうち人の健康に係る被害又は生活環境に係る被害を生ずるおそれがあり、かつ、終末処理場において処理することが困難なものとして政令で定めるものの量について、当該物質の種類ごとに、公共下水道からの放流水又は流域下水道から河川その他の公共の水域若しくは海域に放流される水（以下「流域下水道からの放流水」という。）の水質を第八条（第二十五条の三十において準用する場合を含む。第四項（第十二条の十一第二項において準用する場合を含む。）及び第十三条第一項において同じ。）の技術上の基準に適合させるため必要な限度において定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の政令で定める物質に係るものを除き、公共下水道管理者は、政令で定める基準に従い、条例で、特定事業場から公共下水道に排除される下水の水質の基準を定めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の条例は、公共下水道からの放流水又は流域下水道からの放流水の水質を第八条の技術上の基準に適合させるために必要な最小限度のものであり、かつ、公共下水道を使用する者に不当な義務を課することとならないものでなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三項の規定により公共下水道管理者が条例で水質の基準を定めた場合においては、特定事業場から下水を排除して公共下水道を使用する者は、政令で定める場合を除き、その水質が当該公共下水道への排出口において当該条例で定める基準に適合しない下水を排除してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第一項及び前項の規定は、一の施設が特定施設となつた際現にその施設を設置している者（設置の工事をしている者を含む。）が当該施設を設置している工場又は事業場から公共下水道に排除する下水については、当該施設が特定施設となつた日から六月間（当該施設が政令で定める施設である場合にあつては、一年間）は、適用しない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該施設が特定施設となつた際既に当該工場又は事業場が特定事業場であるとき、及びその者に適用されている地方公共団体の条例の規定で河川その他の公共の水域又は海域に排除される汚水の水質につき第一項及び前項に規定する規制に相当するものがあるとき（当該規定の違反行為に対する処罰規定がないときを除く。）は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12_3">
+            <ArticleCaption>（特定施設の設置等の届出）</ArticleCaption>
+            <ArticleTitle>第十二条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">工場又は事業場から継続して下水を排除して公共下水道を使用する者は、当該工場又は事業場に特定施設を設置しようとするときは、国土交通省令で定めるところにより、次の各号に掲げる事項を公共下水道管理者に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあつては、その代表者の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">工場又は事業場の名称及び所在地</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定施設の種類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定施設の構造</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定施設の使用の方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定施設から排出される汚水の処理の方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公共下水道に排除される下水の量及び水質その他の国土交通省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">一の施設が特定施設となつた際現にその施設を設置している者（設置の工事をしている者を含む。）で当該施設に係る工場又は事業場から継続して下水を排除して公共下水道を使用するものは、当該施設が特定施設となつた日から三十日以内に、国土交通省令で定めるところにより、前項各号に掲げる事項を公共下水道管理者に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定施設の設置者は、前二項の規定により届出をしている場合を除き、当該特定施設を設置している工場又は事業場から継続して下水を排除して公共下水道を使用することとなつたときは、その日から三十日以内に、国土交通省令で定めるところにより、第一項各号に掲げる事項を公共下水道管理者に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12_4">
+            <ArticleCaption>（特定施設の構造等の変更の届出）</ArticleCaption>
+            <ArticleTitle>第十二条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条の規定による届出をした者は、その届出に係る同条第一項第四号から第七号までに掲げる事項を変更しようとするときは、国土交通省令で定めるところにより、その旨を公共下水道管理者に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12_5">
+            <ArticleCaption>（計画変更命令）</ArticleCaption>
+            <ArticleTitle>第十二条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、第十二条の三第一項又は前条の規定による届出があつた場合において、当該特定事業場から公共下水道に排除される下水の水質が公共下水道への排出口において第十二条の二第一項の政令で定める基準又は同条第三項の規定による条例で定める基準に適合しないと認めるときは、その届出を受理した日から六十日以内に限り、その届出をした者に対し、その届出に係る特定施設の構造若しくは使用の方法若しくは特定施設から排出される汚水の処理の方法に関する計画の変更（前条の規定による届出に係る計画の廃止を含む。）又は第十二条の三第一項の規定による届出に係る特定施設の設置に関する計画の廃止を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12_6">
+            <ArticleCaption>（実施の制限）</ArticleCaption>
+            <ArticleTitle>第十二条の六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の三第一項又は第十二条の四の規定による届出をした者は、その届出が受理された日から六十日を経過した後でなければ、その届出に係る特定施設を設置し、又は特定施設の構造若しくは使用の方法若しくは特定施設から排出される汚水の処理の方法を変更してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、第十二条の三第一項又は第十二条の四の規定による届出に係る事項の内容が相当であると認めるときは、前項の期間を短縮することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12_7">
+            <ArticleCaption>（氏名の変更等の届出）</ArticleCaption>
+            <ArticleTitle>第十二条の七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の三の規定による届出をした者は、その届出に係る同条第一項第一号若しくは第二号に掲げる事項に変更があつたとき、又は特定施設の使用を廃止したときは、その日から三十日以内に、その旨を公共下水道管理者に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12_8">
+            <ArticleCaption>（承継）</ArticleCaption>
+            <ArticleTitle>第十二条の八</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の三の規定による届出をした者からその届出に係る特定施設を譲り受け、又は借り受けた者は、当該届出をした者の地位を承継する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の三の規定による届出をした者について相続、合併又は分割（その届出に係る特定施設を承継させるものに限る。）があつたときは、相続人、合併後存続する法人若しくは合併により設立された法人又は分割により当該特定施設を承継した法人は、当該届出をした者の地位を承継する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の規定により第十二条の三の規定による届出をした者の地位を承継した者は、その承継があつた日から三十日以内に、その旨を公共下水道管理者に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12_9">
+            <ArticleCaption>（事故時の措置）</ArticleCaption>
+            <ArticleTitle>第十二条の九</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定事業場から下水を排除して公共下水道を使用する者は、人の健康に係る被害又は生活環境に係る被害を生ずるおそれがある物質又は油として政令で定めるものを含む下水が当該特定事業場から排出され、公共下水道に流入する事故が発生したときは、政令で定める場合を除き、直ちに、引き続く当該下水の排出を防止するための応急の措置を講ずるとともに、速やかに、その事故の状況及び講じた措置の概要を公共下水道管理者に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、特定事業場から下水を排除して公共下水道を使用する者が前項の応急の措置を講じていないと認めるときは、その者に対し、同項の応急の措置を講ずべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12_10">
+            <ArticleCaption>（流域下水道管理者への通知）</ArticleCaption>
+            <ArticleTitle>第十二条の十</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">流域関連公共下水道の管理者は、第十二条の三、第十二条の四、第十二条の七又は第十二条の八第三項の規定による届出を受理したときは当該届出に係る事項を、第十二条の五の規定による命令をしたときは当該命令の内容を、遅滞なく、当該流域関連公共下水道に係る流域下水道（第二条第四号ロに該当する流域下水道（以下「雨水流域下水道」という。）を除く。次項において同じ。）の管理者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">流域関連公共下水道の管理者は、前条第一項の規定による届出を受理したときは当該届出に係る事項を、同条第二項の規定による命令をしたときは当該命令の内容を、速やかに、当該流域関連公共下水道に係る流域下水道の管理者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12_11">
+            <ArticleCaption>（除害施設の設置等）</ArticleCaption>
+            <ArticleTitle>第十二条の十一</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、継続して次に掲げる下水（第十二条の二第一項又は第五項の規定により公共下水道に排除してはならないこととされるものを除く。）を排除して公共下水道を使用する者に対し、条例で、除害施設を設け、又は必要な措置をしなければならない旨を定めることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その水質が第十二条の二第二項の政令で定める物質に関し政令で定める基準に適合しない下水</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その水質（第十二条の二第二項の政令で定める物質に係るものを除く。）が政令で定める基準に従い条例で定める基準に適合しない下水</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の二第四項の規定は、前項の条例について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12_12">
+            <ArticleCaption>（水質の測定義務等）</ArticleCaption>
+            <ArticleTitle>第十二条の十二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">継続して政令で定める水質の下水を排除して公共下水道を使用する者で政令で定めるもの及び継続して下水を排除して公共下水道を使用する特定施設の設置者は、国土交通省令で定めるところにより、当該下水の水質を測定し、その結果を記録しておかなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（排水設備等の検査）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">公共下水道管理者は、公共下水道若しくは流域下水道の機能及び構造を保全し、又は公共下水道からの放流水若しくは流域下水道からの放流水の水質を第八条の技術上の基準に適合させるために必要な限度において、その職員をして排水区域内の他人の土地又は建築物に立ち入り、排水設備、特定施設、除害施設その他の物件を検査させることができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、人の住居に使用する建築物に立ち入る場合においては、あらかじめ、その居住者の承諾を得なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により、検査を行う職員は、その身分を示す証明書を携帯し、関係者の請求があつたときは、これを提示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（使用制限）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、公共下水道に関する工事を施行する場合、第二十五条の二十七第二項の規定による通知を受けた場合その他やむを得ない理由がある場合には、排水区域の全部又は一部の区域を指定して、当該公共下水道の使用を一時制限することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、前項の規定により公共下水道の使用を制限しようとするときは、使用を制限しようとする区域及び期間並びに時間制限をする場合にあつてはその時間をあらかじめ関係者に周知させる措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（兼用工作物の工事）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、公共下水道の施設が道路、堤防その他の公共の用に供する施設又は工作物（以下これらを「他の工作物」という。）の効用を兼ねるときは、当該他の工作物の管理者との協議により、その者に当該公共下水道の施設に関する工事を施行させ、又は当該公共下水道の施設を維持させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15_2">
+            <ArticleCaption>（災害時維持修繕協定の締結）</ArticleCaption>
+            <ArticleTitle>第十五条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、公衆衛生上重大な危害が生じ、又は公共用水域の水質に重大な影響が及ぶことを防止するため災害の発生時において公共下水道管理者以外の者が公共下水道の施設の特定の維持又は修繕に関する工事を行うことができることをあらかじめ定めておく必要があると認めるときは、その管理する公共下水道について、公共下水道の施設の維持又は修繕に関する工事を適確に行う能力を有すると認められる者（第二号において「災害時維持修繕実施者」という。）との間において、次に掲げる事項を定めた協定（以下「災害時維持修繕協定」という。）を締結することができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">災害時維持修繕協定の目的となる公共下水道の施設（以下「協定下水道施設」という。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">災害時維持修繕実施者が公共下水道の施設の損傷の程度その他の公共下水道の状況に応じて行う協定下水道施設の維持又は修繕に関する工事の内容</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号の協定下水道施設の維持又は修繕に関する工事に要する費用の負担の方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">災害時維持修繕協定の有効期間</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">災害時維持修繕協定に違反した場合の措置</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他必要な事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（公共下水道管理者以外の者の行う工事等）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">公共下水道管理者以外の者は、前二条の規定による場合のほか、公共下水道管理者の承認を受けて、公共下水道の施設に関する工事又は公共下水道の施設の維持を行うことができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、公共下水道の施設の維持で政令で定める軽微なものについては、承認を受けることを要しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（兼用工作物の費用）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道の施設が他の工作物の効用を兼ねるときは、当該公共下水道の施設の管理に要する費用の負担については、公共下水道管理者と当該他の工作物の管理者とが協議して定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（損傷負担金）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、公共下水道の施設を損傷した行為により必要を生じた公共下水道の施設に関する工事に要する費用については、その必要を生じた限度において、その行為をした者にその全部又は一部を負担させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18_2">
+            <ArticleCaption>（汚濁原因者負担金）</ArticleCaption>
+            <ArticleTitle>第十八条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、公害健康被害の補償等に関する法律（昭和四十八年法律第百十一号）第六十二条第一項の規定により特定賦課金を徴収された場合においては、政令で定めるところにより、当該特定賦課金に係る同法第六条に規定する指定疾病に影響を与える水質の汚濁の原因である物質を当該公共下水道に排除した特定施設の設置者（過去の設置者を含む。）に当該特定賦課金の納付に要する費用の全部又は一部を負担させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（工事負担金）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、政令で定めるところにより算出した量以上の下水を排除することができる排水設備が設けられることにより、公共下水道の改築を行うことが必要となつたときは、その必要を生じた限度において、当該工事に要する費用の一部を当該排水設備を設ける者に負担させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（使用料）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、条例で定めるところにより、公共下水道を使用する者から使用料を徴収することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">使用料は、次の原則によつて定めなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">下水の量及び水質その他使用者の使用の態様に応じて妥当なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">能率的な管理の下における適正な原価をこえないものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">定率又は定額をもつて明確に定められていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定の使用者に対し不当な差別的取扱をするものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公害防止事業費事業者負担法（昭和四十五年法律第百三十三号）の規定に基づき事業者がその設置の費用の一部を負担した公共下水道について当該事業者及びその他の事業者から徴収する使用料は、政令で定める基準に従い、当該事業者が同法の規定に基づいてした費用の負担を勘案して定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（放流水の水質検査等）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、政令で定めるところにより、公共下水道からの放流水の水質検査を行い、その結果を記録しておかなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、政令で定めるところを参酌して条例で定めるところにより、終末処理場の維持管理をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21_2">
+            <ArticleCaption>（発生汚泥等の処理）</ArticleCaption>
+            <ArticleTitle>第二十一条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、汚水ます、終末処理場その他の公共下水道の施設から生じた汚泥等のたい積物その他の政令で定めるもの（次項において「発生汚泥等」という。）については、公共下水道の施設の円滑な維持管理を図るため、政令で定める基準に従い、適切に処理するほか、有毒物質の拡散を防止するため、政令で定める基準に従い、適正に処理しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、発生汚泥等の処理に当たつては、脱水、焼却等によりその減量に努めるとともに、発生汚泥等が燃料又は肥料として再生利用されるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（設計者等の資格）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、公共下水道を設置し、又は改築する場合（政令で定める場合を除く。）においては、その設計（その者の責任において設計図書を作成することをいう。）又はその工事の監督管理（その者の責任において工事を設計図書と照合し、それが設計図書のとおりに実施されているかどうかを確認することをいう。）については、政令で定める資格を有する者以外の者に行わせてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、公共下水道の維持管理のうち政令で定める事項については、政令で定める資格を有する者以外の者に行なわせてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（公共下水道台帳）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、その管理する公共下水道の台帳（以下「公共下水道台帳」という。）を調製し、これを保管しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道台帳の記載事項その他その調製及び保管に関し必要な事項は、国土交通省令・環境省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、公共下水道台帳の閲覧を求められた場合においては、これを拒むことができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23_2">
+            <ArticleCaption>（水防管理団体が行う水防への協力）</ArticleCaption>
+            <ArticleTitle>第二十三条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、水防法第七条第四項（同法第三十三条第四項において準用する場合を含む。）において準用する同法第七条第三項に規定する同意をした同法第二条第六項に規定する水防計画（以下「同意水防計画」という。）に公共下水道管理者の協力が必要な事項が定められたときは、当該同意水防計画に基づき水防管理団体（同条第二項に規定する水防管理団体をいう。）が行う水防に協力するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（行為の制限等）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次に掲げる行為（政令で定める軽微な行為を除く。）をしようとする者は、条例で定めるところにより、公共下水道管理者の許可を受けなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">許可を受けた事項の変更（条例で定める軽微な変更を除く。）をしようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公共下水道の排水施設の開<Ruby>渠<Rt>きよ</Rt></Ruby>である構造の部分に固着し、若しくは突出し、又はこれを横断し、若しくは縦断して施設又は工作物その他の物件を設けること（第十条第一項の規定により排水設備を当該部分に固着して設ける場合を除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公共下水道の排水施設の開<Ruby>渠<Rt>きよ</Rt></Ruby>である構造の部分の地下に施設又は工作物その他の物件を設けること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公共下水道の排水施設の暗<Ruby>渠<Rt>きよ</Rt></Ruby>である構造の部分に固着して排水施設を設けること（第十条第一項の規定により排水設備を設ける場合を除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、前項の許可の申請があつた場合において、その申請に係る事項が必要やむを得ないものであり、かつ、政令で定める技術上の基準に適合するものであるときは、これを許可しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、公共下水道の排水施設の暗<Ruby>渠<Rt>きよ</Rt></Ruby>である構造の部分には、次に掲げる場合を除き、何人に対しても、いかなる施設又は工作物その他の物件も設けさせてはならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">排水施設を固着して設けるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">あらかじめ他の施設又は工作物その他の物件の管理者と協議して共用の暗<Ruby>渠<Rt>きよ</Rt></Ruby>を設けるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる物件その他公共下水道の管理上著しい支障を及ぼすおそれのないものとして政令で定めるものを固着し、若しくは突出し、又は当該部分を横断し、若しくは縦断して設けるとき。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">同意水防計画で定める水防管理者（水防法第二条第三項に規定する水防管理者をいう。）又は量水標管理者（同法第十条第三項に規定する量水標管理者をいう。）が設置する量水標等（同法第二条第七項に規定する量水標等をいう。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">国、地方公共団体、電気通信事業法（昭和五十九年法律第八十六号）第百二十条第一項に規定する認定電気通信事業者その他政令で定める者が設置する電線</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">国、地方公共団体、熱供給事業法（昭和四十七年法律第八十八号）第二条第三項に規定する熱供給事業者その他政令で定める者が設置する下水を熱源とする熱を利用するための熱交換器</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（条例で規定する事項）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律又はこの法律に基く命令で定めるもののほか、公共下水道の設置その他の管理に関し必要な事項は、公共下水道管理者である地方公共団体の条例で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　浸水被害対策区域における特別の措置</SectionTitle>
+          <Article Num="25_2">
+            <ArticleCaption>（排水設備の技術上の基準に関する特例）</ArticleCaption>
+            <ArticleTitle>第二十五条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、浸水被害対策区域（排水区域のうち、都市機能が相当程度集積し、著しい浸水被害が発生するおそれがある区域（第四条第一項の事業計画に計画降雨が定められている場合にあつては、都市機能が相当程度集積し、当該計画降雨を超える規模の降雨が生じた場合には、著しい浸水被害が発生するおそれがある区域）であつて、当該区域における土地利用の状況からみて、公共下水道の整備のみによつては浸水被害（同項の事業計画に計画降雨が定められている場合にあつては、当該計画降雨を超える規模の降雨が生じた場合に想定される浸水被害。以下この節において同じ。）の防止を図ることが困難であると認められるものとして公共下水道管理者である地方公共団体の条例で定める区域をいう。以下同じ。）において浸水被害の防止を図るためには、排水設備（雨水を排除するためのものに限る。）が、第十条第三項の政令で定める技術上の基準を満たすのみでは十分でなく、雨水を一時的に貯留し、又は地下に浸透させる機能を備えることが必要であると認められるときは、政令で定める基準に従い、条例で、同項の技術上の基準に代えて排水設備に適用すべき排水及び雨水の一時的な貯留又は地下への浸透に関する技術上の基準を定めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_3">
+            <ArticleCaption>（管理協定の締結等）</ArticleCaption>
+            <ArticleTitle>第二十五条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、浸水被害対策区域において浸水被害の防止を図るため、浸水被害対策区域内に存する雨水貯留施設（浸水被害の防止を図るために有用なものとして政令で定める規模以上のものに限る。以下同じ。）を自ら管理する必要があると認めるときは、雨水貯留施設所有者等（当該雨水貯留施設若しくはその属する施設の所有者、これらの敷地である土地の所有者又は当該土地の使用及び収益を目的とする権利（臨時設備その他一時使用のため設定されたことが明らかなものを除く。次条第一項において同じ。）を有する者をいう。以下同じ。）との間において、管理協定を締結して当該雨水貯留施設の管理を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による管理協定については、雨水貯留施設所有者等の全員の合意がなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_4">
+            <ArticleTitle>第二十五条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、浸水被害対策区域において浸水被害の防止を図るため、浸水被害対策区域内において建設が予定されており、又は建設中である雨水貯留施設を自ら管理する必要があると認めるときは、雨水貯留施設所有者等となろうとする者（当該雨水貯留施設若しくはその属する施設の敷地である土地の所有者又は当該土地の使用及び収益を目的とする権利を有する者を含む。以下「予定雨水貯留施設所有者等」という。）との間において、管理協定を締結して建設後の当該雨水貯留施設の管理を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による管理協定については、予定雨水貯留施設所有者等の全員の合意がなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_5">
+            <ArticleCaption>（管理協定の内容）</ArticleCaption>
+            <ArticleTitle>第二十五条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条の三第一項又は前条第一項の規定による管理協定（以下単に「管理協定」という。）には、次に掲げる事項を定めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">管理協定の目的となる雨水貯留施設（以下「協定雨水貯留施設」という。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">協定雨水貯留施設の管理の方法に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">管理協定の有効期間</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">管理協定に違反した場合の措置</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">管理協定の内容は、次に掲げる基準のいずれにも適合するものでなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">協定施設（協定雨水貯留施設又はその属する施設をいう。以下同じ。）の利用を不当に制限するものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第二号から第四号までに掲げる事項について国土交通省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="25_6">
+            <ArticleCaption>（管理協定の縦覧等）</ArticleCaption>
+            <ArticleTitle>第二十五条の六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、管理協定を締結しようとするときは、国土交通省令で定めるところにより、その旨を公告し、当該管理協定を当該公告の日から二週間利害関係人の縦覧に供さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による公告があつたときは、利害関係人は、同項の縦覧期間満了の日までに、当該管理協定について、公共下水道管理者に意見書を提出することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_7">
+            <ArticleCaption>（管理協定の公示等）</ArticleCaption>
+            <ArticleTitle>第二十五条の七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、管理協定を締結したときは、国土交通省令で定めるところにより、その旨を公示し、かつ、当該管理協定の写しを当該公共下水道管理者である地方公共団体の事務所において一般の縦覧に供するとともに、協定施設又はその敷地である土地の区域内の見やすい場所に、それぞれ協定施設である旨又は協定施設が当該区域内に存する旨を明示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_8">
+            <ArticleCaption>（管理協定の変更）</ArticleCaption>
+            <ArticleTitle>第二十五条の八</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条の三第二項、第二十五条の四第二項、第二十五条の五第二項及び前二条の規定は、管理協定において定めた事項の変更について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第二十五条の四第二項中「予定雨水貯留施設所有者等」とあるのは、「予定雨水貯留施設所有者等（雨水貯留施設の建設後にあつては、雨水貯留施設所有者等）」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_9">
+            <ArticleCaption>（管理協定の効力）</ArticleCaption>
+            <ArticleTitle>第二十五条の九</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条の七（前条において準用する場合を含む。）の規定による公示のあつた管理協定は、その公示のあつた後において当該協定施設の雨水貯留施設所有者等又は予定雨水貯留施設所有者等となつた者に対しても、その効力があるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_10">
+            <ArticleCaption>（雨水貯留浸透施設整備計画の認定）</ArticleCaption>
+            <ArticleTitle>第二十五条の十</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">浸水被害対策区域（特定都市河川浸水被害対策法（平成十五年法律第七十七号）第二条第二項に規定する特定都市河川流域の区域を除く。）において、雨水貯留浸透施設（雨水を一時的に貯留し、又は地下に浸透させる機能を有する施設であつて、浸水被害の防止を目的とするものをいう。以下同じ。）の設置及び管理をしようとする者は、国土交通省令で定めるところにより、当該雨水貯留浸透施設の設置及び管理に関する計画（以下「雨水貯留浸透施設整備計画」という。）を作成し、公共下水道管理者の認定を申請することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">雨水貯留浸透施設整備計画には、次に掲げる事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">雨水貯留浸透施設の位置</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">雨水貯留浸透施設の規模</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">雨水貯留浸透施設の構造及び設備</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">雨水貯留浸透施設の設置に係る資金計画</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">雨水貯留浸透施設の管理の方法及び期間</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他国土交通省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">雨水貯留浸透施設整備計画には、前項各号に掲げる事項のほか、雨水貯留浸透施設から公共下水道に雨水を排除するために必要な排水施設その他の公共下水道の施設に関する工事に関する事項を記載することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_11">
+            <ArticleCaption>（認定の基準）</ArticleCaption>
+            <ArticleTitle>第二十五条の十一</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、前条第一項の認定の申請があつた場合において、当該申請に係る雨水貯留浸透施設整備計画が次に掲げる基準に適合すると認めるときは、その認定をすることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">雨水貯留浸透施設の規模が国土交通省令で定める規模以上であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">雨水貯留浸透施設の構造及び設備が国土交通省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">資金計画が当該雨水貯留浸透施設の設置を確実に遂行するため適切なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">雨水貯留浸透施設の管理の方法が国土交通省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">雨水貯留浸透施設の管理の期間が国土交通省令で定める期間以上であること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="25_12">
+            <ArticleCaption>（認定の通知）</ArticleCaption>
+            <ArticleTitle>第二十五条の十二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、第二十五条の十第一項の認定をしたときは、速やかに、その旨を当該認定を受けた者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_13">
+            <ArticleCaption>（雨水貯留浸透施設整備計画の変更）</ArticleCaption>
+            <ArticleTitle>第二十五条の十三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条の十第一項の認定を受けた者は、当該認定を受けた雨水貯留浸透施設整備計画の変更（国土交通省令で定める軽微な変更を除く。）をしようとするときは、公共下水道管理者の認定を受けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二条の規定は、前項の場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_14">
+            <ArticleCaption>（認定事業者に対する助言及び指導）</ArticleCaption>
+            <ArticleTitle>第二十五条の十四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、第二十五条の十第一項の認定（前条第一項の変更の認定を含む。以下「計画の認定」という。）を受けた者（以下「認定事業者」という。）に対し、当該計画の認定を受けた雨水貯留浸透施設整備計画（変更があつたときは、その変更後のもの。以下「認定計画」という。）に係る雨水貯留浸透施設の設置及び管理に関し必要な助言及び指導を行うよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_15">
+            <ArticleCaption>（補助）</ArticleCaption>
+            <ArticleTitle>第二十五条の十五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国又は公共下水道管理者である地方公共団体は、認定事業者に対し、予算の範囲内で、政令で定めるところにより、認定計画に係る雨水貯留浸透施設の設置に要する費用の一部を補助することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_16">
+            <ArticleCaption>（公共下水道管理者の承認の特例）</ArticleCaption>
+            <ArticleTitle>第二十五条の十六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">雨水貯留浸透施設整備計画（第二十五条の十第三項に規定する事項が記載されたものに限る。）に記載された同項に規定する工事については、当該雨水貯留浸透施設整備計画について計画の認定を受けたときに、第十六条の規定による承認があつたものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_17">
+            <ArticleCaption>（日本下水道事業団法の特例）</ArticleCaption>
+            <ArticleTitle>第二十五条の十七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">日本下水道事業団は、日本下水道事業団法（昭和四十七年法律第四十一号）第二十六条第一項に規定する業務のほか、認定事業者の委託に基づき、認定計画に係る雨水貯留浸透施設の設置、設計及び工事の監督管理の業務を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_18">
+            <ArticleCaption>（報告の徴収）</ArticleCaption>
+            <ArticleTitle>第二十五条の十八</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、認定事業者に対し、認定計画に係る雨水貯留浸透施設の設置及び管理の状況について報告を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_19">
+            <ArticleCaption>（地位の承継）</ArticleCaption>
+            <ArticleTitle>第二十五条の十九</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認定事業者の一般承継人又は認定事業者から認定計画に係る雨水貯留浸透施設の敷地である土地の所有権その他当該雨水貯留浸透施設の設置及び管理に必要な権原を取得した者は、公共下水道管理者の承認を受けて、当該認定事業者が有していた計画の認定に基づく地位を承継することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_20">
+            <ArticleCaption>（改善命令）</ArticleCaption>
+            <ArticleTitle>第二十五条の二十</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、認定事業者が認定計画に従つて認定計画に係る雨水貯留浸透施設の設置及び管理を行つていないと認めるときは、当該認定事業者に対し、相当の期限を定めて、その改善に必要な措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25_21">
+            <ArticleCaption>（計画の認定の取消し）</ArticleCaption>
+            <ArticleTitle>第二十五条の二十一</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道管理者は、認定事業者が前条の規定による処分に違反したときは、計画の認定を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条の十二の規定は、公共下水道管理者が前項の規定による取消しをした場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="2_2">
+        <ChapterTitle>第二章の二　流域下水道</ChapterTitle>
+        <Article Num="25_22">
+          <ArticleCaption>（管理）</ArticleCaption>
+          <ArticleTitle>第二十五条の二十二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流域下水道の設置、改築、修繕、維持その他の管理は、都道府県が行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、市町村は、都道府県と協議して、流域下水道の設置、改築、修繕、維持その他の管理を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25_23">
+          <ArticleCaption>（事業計画の策定）</ArticleCaption>
+          <ArticleTitle>第二十五条の二十三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定により流域下水道を管理する者（以下「流域下水道管理者」という。）は、流域下水道を設置しようとするときは、あらかじめ、政令で定めるところにより、事業計画を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流域下水道管理者は、前項の規定により事業計画を定めようとするときは、あらかじめ、政令で定めるところにより、国土交通大臣（市町村が設置する流域下水道の事業計画で政令で定めるものにあつては、都道府県知事）に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、第一項の事業計画を定めようとするときは、あらかじめ、関係市町村の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、第二項の規定による協議（雨水流域下水道に係るものを除く。）を受けたときは、政令で定める場合を除き、保健衛生上の観点からする環境大臣の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項の規定にかかわらず、都道府県である流域下水道管理者は、流域別下水道整備総合計画が定められている地域において流域下水道の事業計画を定めようとするときは、同項の規定による協議をすることを要しない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該流域下水道管理者は、事業計画を定めたときは、国土交通省令で定めるところにより、遅滞なく、これを国土交通大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の規定による届出を受けたときは、政令で定める場合を除き、当該届出の内容を環境大臣に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前各項の規定は、流域下水道の事業計画の変更（政令で定める軽微な変更を除く。）について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25_24">
+          <ArticleCaption>（事業計画に定めるべき事項）</ArticleCaption>
+          <ArticleTitle>第二十五条の二十四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の事業計画においては、次に掲げる事項を定めなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">排水施設（これを補完する施設を含む。）の配置、構造及び能力並びに点検の方法及び頻度</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">終末処理場を設ける場合には、その配置、構造及び能力</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">流域関連公共下水道が接続する位置</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">流域関連公共下水道の予定処理区域（雨水流域下水道に係るものにあつては、予定排水区域。第三項及び次条第四号において同じ。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">工事の着手及び完成の予定年月日</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の事業計画においては、前項各号に掲げるもののほか、計画降雨を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流域関連公共下水道の予定処理区域の全部又は一部について水防法第十四条の二第一項又は第二項の規定による雨水出水浸水想定区域の指定があつた場合における前項の規定の適用については、同項中「定めることができる」とあるのは、「定めなければならない」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項又は第二項の事業計画の記載方法その他その記載に関し必要な事項は、国土交通省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25_25">
+          <ArticleCaption>（事業計画の要件）</ArticleCaption>
+          <ArticleTitle>第二十五条の二十五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十五条の二十三第一項の事業計画は、次に掲げる要件に該当するものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">流域下水道の配置及び能力が当該地域における降水量、人口その他の下水の量及び水質に影響を及ぼすおそれのある要因、地形及び土地利用の状況並びに下水の放流先の状況を考慮して適切に定められていること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">流域下水道の構造が第二十五条の三十において準用する第七条の技術上の基準に適合し、かつ、排水施設の点検の方法及び頻度が第二十五条の三十において準用する第七条の三第二項の技術上の基準に適合していること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">計画降雨が定められているものにあつては、排水施設及び終末処理場（雨水流域下水道に係るものにあつては、排水施設。次号において同じ。）の配置及び能力が計画降雨に相応していること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">流域関連公共下水道の予定処理区域が排水施設及び終末処理場の配置及び能力に相応していること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該地域に関し流域別下水道整備総合計画が定められている場合には、これに適合していること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該地域に関し都市計画法第二章の規定により都市計画が定められている場合又は同法第五十九条の規定により都市計画事業の認可若しくは承認がされている場合には、流域下水道の配置及び工事の時期がその都市計画又は都市計画事業に適合していること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="25_26">
+          <ArticleCaption>（供用開始の通知等）</ArticleCaption>
+          <ArticleTitle>第二十五条の二十六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流域下水道管理者は、流域下水道の供用を開始しようとするとき、又は終末処理場により下水の処理を開始しようとするときは、あらかじめ、供用又は処理を開始すべき年月日その他国土交通省令で定める事項を当該流域下水道に係る流域関連公共下水道の管理者に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25_27">
+          <ArticleCaption>（使用制限）</ArticleCaption>
+          <ArticleTitle>第二十五条の二十七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流域下水道管理者は、流域下水道に関する工事を施行する場合その他やむを得ない理由がある場合には、流域下水道の全部又は一部を指定してその施設の使用を一時制限することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流域下水道管理者は、前項の規定により流域下水道の使用を制限しようとするときは、使用を制限しようとする施設及び期間並びに時間制限をする場合にあつてはその時間をあらかじめ流域関連公共下水道の管理者に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25_28">
+          <ArticleCaption>（原因調査の要請等）</ArticleCaption>
+          <ArticleTitle>第二十五条の二十八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流域下水道管理者は、流域関連公共下水道から流域下水道に流入する下水が、著しく当該流域下水道の施設の機能を妨げ、若しくは当該流域下水道の施設を損傷するおそれがある場合又は当該流域下水道からの放流水の水質を第二十五条の三十において準用する第八条の技術上の基準に適合させることを著しく困難にするおそれがある場合においては、当該流域関連公共下水道の管理者に対し、期限を定めて、その原因を調査し、調査の結果を報告するように求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流域下水道管理者は、前項の規定による報告を受けた場合において必要があると認めるときは、当該流域関連公共下水道の管理者に対し、第十二条第一項、第十二条の二第三項又は第十二条の十一第一項の条例の制定その他必要な措置をとるべきことを求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25_29">
+          <ArticleCaption>（他の施設等の設置の制限）</ArticleCaption>
+          <ArticleTitle>第二十五条の二十九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">流域下水道管理者は、次に掲げる場合を除き、何人に対しても、流域下水道の施設にいかなる施設又は工作物その他の物件も設けさせてはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">流域関連公共下水道を接続するとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">あらかじめ他の施設又は工作物その他の物件の管理者と協議して共用の暗<Ruby>渠<Rt>きよ</Rt></Ruby>を設けるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条第三項第三号イからハまでに掲げる物件その他流域下水道の管理上著しい支障を及ぼすおそれのないものとして政令で定めるものを固着し、若しくは突出し、又は流域下水道の施設を横断し、若しくは縦断して設けるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前三号に掲げる場合のほか、流域下水道の管理上著しい支障を及ぼすおそれがないときとして政令で定めるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="25_30">
+          <ArticleCaption>（準用規定）</ArticleCaption>
+          <ArticleTitle>第二十五条の三十</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七条から第八条まで、第十一条の二、第十二条から第十二条の九まで、第十二条の十一から第十三条まで、第十五条から第十八条の二まで、第二十一条から第二十三条の二まで及び第二十五条の規定は、流域下水道（雨水流域下水道を除く。）について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第十三条第一項中「排水区域内の他人の土地又は建築物に立ち入り、排水設備、特定施設、」とあるのは「他人の土地又は建築物に立ち入り、流域下水道（雨水流域下水道を除く。）に接続する排水施設、特定施設又は」と、第十八条の二中「当該公共下水道」とあるのは「当該流域下水道（雨水流域下水道を除く。以下この条において同じ。）又は当該流域下水道に係る流域関連公共下水道」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七条から第八条まで、第十五条から第十八条まで、第二十一条第一項、第二十二条から第二十三条の二まで及び第二十五条の規定は、雨水流域下水道について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　都市下水路</ChapterTitle>
+        <Article Num="26">
+          <ArticleCaption>（管理）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都市下水路の設置、改築、修繕、維持その他の管理は、市町村が行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、都道府県は、二以上の市町村が受益し、かつ、関係市町村のみでは管理することが困難であると認められる場合においては、関係市町村と協議して、当該都市下水路の設置、改築、修繕、維持その他の管理を行うことができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、関係市町村が協議に応じようとするときは、あらかじめその議会の議決を経なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（指定）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定により都市下水路を管理する者（以下「都市下水路管理者」という。）は、下水道を都市下水路として指定するときは、都市下水路となるべき下水道の区域を公示し、かつ、これを表示した図面を当該都市下水路管理者である地方公共団体の事務所において一般の縦覧に供しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">公示した事項を変更するときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都市下水路管理者は、前項の指定をしようとする場合において、当該指定に係る区域の全部又は一部がかんがい排水施設の用を兼ねているときは、あらかじめ当該指定に関係のある土地改良区（土地改良区の存しない地域にあつては、農業協同組合その他の水利関係団体）の意見をきかなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（管理の基準等）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都市下水路管理者は、当該都市下水路の機能を十分に維持するように管理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都市下水路の構造及び維持管理に関して必要な技術上の基準は、政令で定める基準を参酌して都市下水路管理者である地方公共団体の条例で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（行為の制限等）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次に掲げる行為（政令で定める軽微な行為を除く。）をしようとする者は、条例で定めるところにより、都市下水路管理者の許可を受けなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">許可を受けた事項の変更（条例で定める軽微な変更を除く。）をしようとするときも、同様とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">都市下水路に固着し、若しくは突出し、又はこれを横断し、若しくは縦断して施設又は工作物その他の物件を設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">都市下水路の地下に施設又は工作物その他の物件を設けること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都市下水路管理者は、前項の許可の申請があつた場合において、その申請に係る事項が必要やむを得ないものであり、かつ、政令で定める技術上の基準に適合するものであるときは、これを許可しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都市下水路の指定の際現に当該都市下水路に関し、権原に基き、第一項各号に規定する施設又は工作物その他の物件を設けている者（工事中の者を含む。）は、従前と同様の条件により、当該施設又は工作物その他の物件の設置について同項の許可を受けたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（都市下水路に接続する特定排水施設の構造）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次に掲げる事業所の当該都市下水路に接続する排水施設の構造は、建築基準法その他の法令の規定の適用がある場合においてはそれらの法令の規定によるほか、政令で定める技術上の基準によらなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">工場その他の事業所（一団地の住宅経営、社宅その他これらに類する施設を含む。以下この条において同じ。）で政令で定める量以上の下水を同一都市下水路に排除するもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">工場その他の事業所で政令で定める水質の下水を政令で定める量以上に同一都市下水路に排除するもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定は、都市下水路の指定の際現に当該都市下水路に接続する排水施設については、同項の事業所について政令で定める大規模な増築又は改築をする場合を除き、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（準用規定）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七条の二、第十五条から第十八条まで、第二十三条、第二十三条の二及び第二十五条の規定は、都市下水路について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第二十三条第二項中「国土交通省令・環境省令」とあるのは、「国土交通省令」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Num="31_2">
+          <ArticleCaption>（市町村の負担金）</ArticleCaption>
+          <ArticleTitle>第三十一条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三条第二項又は第二十五条の二十二第一項の規定により公共下水道又は流域下水道を管理する都道府県は、当該公共下水道又は流域下水道により利益を受ける市町村に対し、その利益を受ける限度において、その設置、改築、修繕、維持その他の管理に要する費用の全部又は一部を負担させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の費用について同項の規定により市町村が負担すべき金額は、当該市町村の意見をきいたうえ、当該都道府県の議会の議決を経て定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31_3">
+          <ArticleCaption>（窒素含有量又は<Ruby>燐<Rt>りん</Rt></Ruby>含有量の削減に係る負担金）</ArticleCaption>
+          <ArticleTitle>第三十一条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二条の二第五項の規定により流域別下水道整備総合計画に記載された事項に係る高度処理終末処理場を管理する地方公共団体は、当該流域別下水道整備総合計画に記載されたところにより、当該高度処理終末処理場の設置、改築、修繕、維持その他の管理に要する費用の一部を他の地方公共団体に負担させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31_4">
+          <ArticleCaption>（協議会）</ArticleCaption>
+          <ArticleTitle>第三十一条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">二以上の公共下水道管理者、流域下水道管理者又は都市下水路管理者は、それぞれが管理する下水道相互間の広域的な連携による下水道の管理の効率化に関し必要な協議を行うための協議会（以下「協議会」という。）を組織することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">協議会は、必要があると認めるときは、次に掲げる者をその構成員として加えることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">関係地方公共団体</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">下水道の管理の効率化に資する措置を講ずることができる者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">学識経験を有する者その他の協議会が必要と認める者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">協議会において協議が調つた事項については、協議会の構成員は、その協議の結果を尊重しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項に定めるもののほか、協議会の運営に関し必要な事項は、協議会が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（他人の土地の立入又は一時使用）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共下水道管理者、流域下水道管理者若しくは都市下水路管理者又はその命じた者若しくは委任を受けた者は、公共下水道、流域下水道又は都市下水路に関する調査、測量若しくは工事又は公共下水道、流域下水道若しくは都市下水路の維持のためやむを得ない必要があるときは、他人の土地に立ち入り、又は特別の用途のない他人の土地を材料置場若しくは作業場として一時使用することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定により他人の土地に立ち入ろうとするときは、あらかじめ当該土地の占有者にその旨を通知しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、あらかじめ通知することが困難であるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により宅地又はかき、さく等で囲まれた土地に立ち入ろうとするときは、立入の際あらかじめその旨を当該土地の占有者に告げなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">日出前又は日没後においては、占有者の承諾があつた場合を除き、前項に規定する土地に立ち入つてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により他人の土地に立ち入ろうとする者は、その身分を示す証明書を携帯し、関係者の請求があつたときは、これを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により特別の用途のない他人の土地を材料置場又は作業場として一時使用しようとするときは、あらかじめ、当該土地の占有者及び所有者に通知して、その者の意見をきかなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">土地の占有者又は所有者は、正当な理由がない限り、第一項の規定による立入又は一時使用を拒み、又は妨げてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共下水道管理者、流域下水道管理者又は都市下水路管理者は、第一項の規定による立入又は一時使用によつて損失を受けた者に対し、通常生ずべき損失を補償しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による損失の補償については、公共下水道管理者、流域下水道管理者又は都市下水路管理者と損失を受けた者とが協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の協議が成立しないときは、公共下水道管理者、流域下水道管理者又は都市下水路管理者は、自己の見積つた金額を損失を受けた者に支払わなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該金額について不服がある者は、政令で定めるところにより、補償金額の支払を受けた日から三十日以内に収用委員会に土地収用法（昭和二十六年法律第二百十九号）第九十四条の規定による裁決を申請することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（許可又は承認の条件）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定による許可又は承認には、条件を附することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の条件は、許可又は承認に係る事項の確実な実施を図るため必要な最小限度のものに限り、かつ、許可又は承認を受けた者に不当な義務を課することとならないものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（公共下水道、流域下水道及び都市下水路に関する費用の補助）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、公共下水道、流域下水道又は都市下水路の設置又は改築を行う地方公共団体に対し、予算の範囲内において、政令で定めるところにより、その設置又は改築に要する費用の一部を補助することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（公共下水道及び流域下水道に関する資金の融通）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、公共下水道又は流域下水道の設置又は改築を行なう地方公共団体に対し、これに必要な資金の融通に努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（国有地の無償貸付等）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">普通財産である国有地は、公共下水道、流域下水道又は都市下水路の用に供する場合においては、国有財産法（昭和二十三年法律第七十三号）第二十二条又は第二十八条の規定にかかわらず、当該公共下水道管理者、流域下水道管理者又は都市下水路管理者である地方公共団体に無償で貸し付け、又は譲与することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleCaption>（国土交通大臣又は環境大臣の指示）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣（政令で定める下水道に係るものにあつては、都道府県知事）は、公衆衛生上重大な危害が生じ、又は公共用水域の水質に重大な影響が及ぶことを防止するため緊急の必要があると認めるときは、公共下水道管理者、流域下水道管理者又は都市下水路管理者に対し、公共下水道、流域下水道又は都市下水路の工事又は維持管理に関して必要な指示をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の規定により都道府県知事が指示をするべき下水道については、都道府県知事に対し、必要な指示をするべきことを指示することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣（政令で定める下水道に係るものにあつては、都道府県知事）は、公衆衛生上重大な危害が生じ、又は公共用水域の水質に重大な影響が及ぶことを防止するため緊急の必要があると認めるときは、公共下水道管理者又は流域下水道管理者に対し、終末処理場の維持管理に関して必要な指示をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37_2">
+          <ArticleCaption>（改善命令等）</ArticleCaption>
+          <ArticleTitle>第三十七条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">公共下水道管理者又は流域下水道管理者は、特定事業場から下水を排除して公共下水道又は流域下水道（終末処理場を設置しているものに限る。）を使用する者が、その水質が当該公共下水道又は流域下水道への排出口において第十二条の二第一項（第二十五条の三十第一項において準用する場合を含む。）の政令で定める基準又は第十二条の二第三項（第二十五条の三十第一項において準用する場合を含む。）の規定による条例で定める基準に適合しない下水を排除するおそれがあると認めるときは、その者に対し、期限を定めて、特定施設の構造若しくは使用の方法若しくは特定施設から排出される汚水の処理の方法の改善を命じ、又は特定施設の使用若しくは当該公共下水道若しくは流域下水道への下水の排除の停止を命ずることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十二条の二第六項本文（第二十五条の三十第一項において準用する場合を含む。）の規定の適用を受ける者に対しては、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleCaption>（公共下水道管理者、流域下水道管理者又は都市下水路管理者の監督処分等）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共下水道管理者、流域下水道管理者又は都市下水路管理者は、次の各号のいずれかに該当する者に対し、この法律の規定によつてした許可若しくは承認を取り消し、若しくはその条件を変更し、又は行為若しくは工事の中止、変更その他の必要な措置を命ずることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律（第十一条の三第一項及び第十二条の九第一項（第二十五条の三十第一項において準用する場合を含む。）の規定を除く。）又はこの法律に基づく命令若しくは条例の規定に違反している者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律の規定による許可又は承認に付した条件に違反している者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">偽りその他不正な手段により、この法律の規定による許可又は承認を受けた者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共下水道管理者、流域下水道管理者又は都市下水路管理者は、次の各号のいずれかに該当する場合においては、この法律の規定による許可又は承認を受けた者に対し、前項に規定する処分をし、又は同項に規定する必要な措置を命ずることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道、流域下水道又は都市下水路に関する工事のためやむを得ない必要が生じた場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公共下水道、流域下水道又は都市下水路の保全上又は一般の利用上著しい支障が生じた場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げる場合のほか、公共下水道、流域下水道又は都市下水路の管理上の理由以外の理由に基づく公益上やむを得ない必要が生じた場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定により必要な措置を命じようとする場合において、過失がなくてその措置を命ぜられるべき者を確知することができないときは、公共下水道管理者、流域下水道管理者又は都市下水路管理者は、その措置を自ら行い、又はその命じた者若しくは委任した者に行わせることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、相当の期限を定めて、その措置を行うべき旨及びその期限までにその措置を行わないときは、公共下水道管理者、流域下水道管理者若しくは都市下水路管理者又はその命じた者若しくは委任した者がその措置を行うべき旨をあらかじめ公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共下水道管理者、流域下水道管理者又は都市下水路管理者は、第二項の規定による処分又は命令により損失を受けた者に対し、通常生ずべき損失を補償しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十二条第九項及び第十項の規定は、前項の補償について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共下水道管理者、流域下水道管理者又は都市下水路管理者は、第四項の規定による補償の原因となつた損失が第二項第三号の規定による処分又は命令によるものであるときは、当該補償金額を当該理由を生じさせた者に負担させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39">
+          <ArticleCaption>（報告の徴収）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣（政令で定める場合にあつては、都道府県知事）は、この法律を施行するため必要な限度において、公共下水道管理者、流域下水道管理者又は都市下水路管理者から必要な報告を徴することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣（政令で定める場合にあつては、都道府県知事）は、終末処理場の維持管理に関し、この法律を施行するため必要な限度において、公共下水道管理者又は流域下水道管理者から必要な報告を徴することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_2">
+          <ArticleTitle>第三十九条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共下水道管理者又は流域下水道管理者は、公共下水道又は流域下水道（雨水流域下水道を除く。以下この条において同じ。）を適正に管理するため必要な限度において、継続して政令で定める水質の下水を排除して公共下水道又は流域下水道を使用する者で政令で定めるもの及び継続して下水を排除して公共下水道又は流域下水道を使用する特定施設の設置者から、その下水を排除する事業場等の状況、除害施設又はその排除する下水の水質に関し必要な報告を徴することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="40">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に規定する国土交通大臣の権限は、国土交通省令で定めるところにより、その一部を地方整備局長又は北海道開発局長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に規定する環境大臣の権限は、環境省令で定めるところにより、その一部を地方環境事務所長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleCaption>（国等の特例）</ArticleCaption>
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国又は地方公共団体が第二十四条第一項又は第二十九条第一項に規定する行為をしようとするときは、これらの規定にかかわらず、公共下水道管理者又は都市下水路管理者とあらかじめ協議することをもつて足りる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleCaption>（特別区に関する読替）</ArticleCaption>
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特別区の存する区域においては、この法律の規定（第二十五条の二十二第二項、第二十五条の二十三第二項及び第三項並びに第三十一条の二の規定を除く。）中「市町村」とあるのは、「都」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、特別区は、都と協議して、主として当該特別区の住民の用に供する下水道の設置、改築、修繕、維持その他の管理を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="43">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <Article Num="44">
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共下水道、流域下水道又は都市下水路の施設を損壊し、その他公共下水道、流域下水道又は都市下水路の施設の機能に障害を与えて下水の排除を妨害した者は、五年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">みだりに公共下水道、流域下水道又は都市下水路の施設を操作し、よつて下水の排除を妨害した者は、二年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="45">
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条の五（第二十五条の三十第一項において準用する場合を含む。）若しくは第三十七条の二の規定による公共下水道管理者若しくは流域下水道管理者の命令又は第三十八条第一項若しくは第二項の規定による公共下水道管理者、流域下水道管理者若しくは都市下水路管理者の命令に違反した場合には、当該違反行為をした者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="46">
+          <ArticleTitle>第四十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、六月以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の二第一項又は第五項（第二十五条の三十第一項においてこれらの規定を準用する場合を含む。）の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の九第二項（第二十五条の三十第一項において準用する場合を含む。）の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">過失により前項第一号の罪を犯した者は、三月以下の拘禁刑又は二十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="47">
+          <ArticleTitle>第四十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十二条第七項の規定に違反して土地の立入り又は一時使用を拒み、又は妨げた場合には、当該違反行為をした者は、六月以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="47_2">
+          <ArticleTitle>第四十七条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条の三第一項又は第十二条の四（第二十五条の三十第一項においてこれらの規定を準用する場合を含む。）の規定による届出をせず、又は虚偽の届出をした場合には、当該違反行為をした者は、三月以下の拘禁刑又は二十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="48">
+          <ArticleTitle>第四十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十一条の三第三項又は第四項の規定による命令に違反した場合には、当該違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="49">
+          <ArticleTitle>第四十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、二十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十一条の二又は第十二条の三第二項若しくは第三項（第二十五条の三十第一項においてこれらの規定を準用する場合を含む。）の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の六第一項（第二十五条の三十第一項において準用する場合を含む。）の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の十二（第二十五条の三十第一項において準用する場合を含む。）の規定による記録をせず、又は虚偽の記録をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十三条第一項（第二十五条の三十第一項において準用する場合を含む。）の規定による検査を拒み、妨げ、又は忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条の十八又は第三十九条の二の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="50">
+          <ArticleTitle>第五十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して第四十五条から前条までの違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="51">
+          <ArticleTitle>第五十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条の七又は第十二条の八第三項（第二十五条の三十第一項においてこれらの規定を準用する場合を含む。）の規定による届出をせず、又は虚偽の届出をした者は、十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年をこえない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（下水道法の廃止）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">下水道法（明治三十三年法律第三十二号。以下「旧法」という。）は、廃止する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（公共下水道に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（以下この条及び次条において「新法」という。）の施行前に市町村が旧法第二条の規定による認可を受けて築造した又は築造中の下水道（以下「既設公共下水道」という。）は、当該市町村が新法第四条の規定による事業計画の認可を受けて設置した又は設置中の公共下水道とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第七条の規定は、既設公共下水道については、これを改築する場合を除き、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法の施行の際現に供用を開始している既設公共下水道については、旧法第三条の規定に基き当該既設公共下水道により下水を排除すべき地域を新法第二条第六号に規定する排水区域とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法の施行の際現に処理を開始している終末処理場については、附則第六条の規定による改正前の建築基準法第三十一条第三項の規定により特定行政庁が指定した区域を新法第二条第七号に規定する処理区域とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法の施行の際現に既設公共下水道に関し、権原に基き、新法第二十四条第一項各号に規定する施設又は工作物その他の物件を設けている者（工事中の者を含む。）は、従前と同様の条件により、当該施設又は工作物その他の物件の設置について同項の許可を受けたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法の施行の際現に既設公共下水道の排水施設の暗<Ruby>渠<Rt>きよ</Rt></Ruby>である構造の部分に関し、権原に基き、施設又は工作物その他の物件を設けている者（工事中の者を含む。）については、新法第二十四条第三項に規定する場合を除き、公共下水道管理者は、同項の規定にかかわらず、その権原に基いてなお当該施設又は工作物その他の物件を設けることができるものとされている期間に限り、従前と同様の条件により、当該施設又は工作物その他の物件を設けさせることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（旧法に基く処分等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法の施行前に旧法又は旧法に基く命令の規定によつてした処分、手続その他の行為は、新法の適用については、新法中これらの規定に相当する規定がある場合には、新法の規定によつてしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（国の無利子貸付け等）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国は、当分の間、地方公共団体に対し、第三十四条の規定により国がその費用について補助することができる公共下水道、流域下水道又は都市下水路の設置又は改築で日本電信電話株式会社の株式の売払収入の活用による社会資本の整備の促進に関する特別措置法（昭和六十二年法律第八十六号）第二条第一項第二号に該当するものに要する費用に充てる資金について、予算の範囲内において、第三十四条の規定（この規定による国の補助の割合について、この規定と異なる定めをした法令の規定がある場合には、当該異なる定めをした法令の規定を含む。以下同じ。）により国が補助することができる金額に相当する金額を無利子で貸し付けることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の国の貸付金の償還期間は、五年（二年以内の据置期間を含む。）以内で政令で定める期間とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、第一項の規定による貸付金の償還方法、償還期限の繰上げその他償還に関し必要な事項は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国は、第一項の規定により、地方公共団体に対し貸付けを行つた場合には、当該貸付けの対象である同項の設置又は改築について、第三十四条の規定による当該貸付金に相当する金額の補助を行うものとし、当該補助については、当該貸付金の償還時において、当該貸付金の償還金に相当する金額を交付することにより行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地方公共団体が、第一項の規定による貸付けを受けた無利子貸付金について、第二項及び第三項の規定に基づき定められる償還期限を繰り上げて償還を行つた場合（政令で定める場合を除く。）における前項の規定の適用については、当該償還は、当該償還期限の到来時に行われたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、昭和三十七年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律による改正後の規定は、この附則に特別の定めがある場合を除き、この法律の施行前にされた行政庁の処分、この法律の施行前にされた申請に係る行政庁の不作為その他この法律の施行前に生じた事項についても適用する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この法律による改正前の規定によつて生じた効力を妨げない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行前に提起された訴願、審査の請求、異議の申立てその他の不服申立て（以下「訴願等」という。）については、この法律の施行後も、なお従前の例による。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">この法律の施行前にされた訴願等の裁決、決定その他の処分（以下「裁決等」という。）又はこの法律の施行前に提起された訴願等につきこの法律の施行後にされる裁決等にさらに不服がある場合の訴願等についても、同様とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">前項に規定する訴願等で、この法律の施行後は行政不服審査法による不服申立てをすることができることとなる処分に係るものは、同法以外の法律の適用については、行政不服審査法による不服申立てとみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">第三項の規定によりこの法律の施行後にされる審査の請求、異議の申立てその他の不服申立ての裁決等については、行政不服審査法による不服申立てをすることができない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <ParagraphNum>６</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行前にされた行政庁の処分で、この法律による改正前の規定により訴願等をすることができるものとされ、かつ、その提起期間が定められていなかつたものについて、行政不服審査法による不服申立てをすることができる期間は、この法律の施行の日から起算する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="8">
+        <ParagraphNum>８</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="9">
+        <ParagraphNum>９</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">前八項に定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四二年六月二一日法律第四〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四三年六月一五日法律第一〇一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律（第一条を除く。）は、新法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四四年六月三日法律第三八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、都市計画法の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第二十一条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四五年一二月二五日法律第一四一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月をこえない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に新法の規定による流域下水道に該当する下水道を管理する都道府県は、遅滞なく、新法第二十五条の四第一項各号に掲げる事項を定めた事業計画を定め、建設大臣に届け出なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定により届け出た事業計画が新法第二十五条の五に規定する基準に適合している場合においては、当該届出に係る事業計画は、新法第二十五条の三第一項の認可を受けた事業計画とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に処理区域内に存する建築物の所有者に対する新法第十一条の三第一項の規定の適用については、同項中「当該処理区域についての第九条第二項において準用する同条第一項の規定により公示された下水の処理を開始すべき日」とあるのは、「下水道法の一部を改正する法律（昭和四十五年法律第百四十一号）の施行の日」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条の規定による公共下水道に係るこの法律の施行後にした行為に対する罰則の適用については、同条に規定する期間の経過後も、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四六年五月三一日法律第八八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、昭和四十六年七月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四八年一〇月五日法律第一一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年をこえない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四九年六月一日法律第七一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二百八十一条、第二百八十二条の三、第二百八十二条第二項、第二百八十二条の二第二項及び第二百八十三条第二項の改正規定、附則第十七条から第十九条までに係る改正規定並びに附則第二条、附則第七条から第十一条まで及び附則第十三条から第二十四条までの規定（以下「特別区に関する改正規定」という。）は、昭和五十年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（下水道法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条の規定による改正後の下水道法第四十二条第二項の規定により特別区が処理するものとされる主として当該特別区の住民の用に供する下水道の設置、改築、修繕、維持その他の管理に関する事務は、同項の協議において定める日までの間は、同項の規定にかかわらず、従前の例により都が処理するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第五条第一項及び第二項の規定は、前条の規定による改正後の下水道法第四十二条第二項の協議において定める日において同項の事務に専ら従事していると認められる都の職員について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、附則第五条第一項中「特別区に関する改正規定の施行の日の前日」とあるのは「下水道法（昭和三十三年法律第七十九号）第四十二条第二項の協議において定める日」と、「特別区に関する改正規定の施行の日以後」とあるのは「同日の翌日以後」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五一年五月二五日法律第二九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律中、第一条の規定は公布の日から、第二条、次条及び附則第三条の規定は公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（下水道法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">第二条の規定の施行の際現に水質汚濁防止法（昭和四十五年法律第百三十八号）第二条第二項に規定する特定施設（第二条の規定による改正後の下水道法（以下「新法」という。）第十二条の二第一項の政令で定めるものを除き、以下単に「特定施設」という。）を設置している者（設置の工事をしている者を含む。）が当該特定施設を設置している工場又は事業場から公共下水道（終末処理場を設置しているもの又は終末処理場を設置している流域下水道に接続しているものに限る。次項において同じ。）又は流域下水道（終末処理場を設置しているものに限る。）に排除する下水については、第二条の規定の施行後六月間（当該特定施設が政令で定める施設である場合にあつては、一年間）は、新法第十二条の二第一項及び第五項（新法第二十五条の十においてこれらの規定を準用する場合を含む。）並びに第三十七条の三の規定は適用せず、その者については、新法第十二条の規定にかかわらず、なお従前の例による。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その者に適用されている他の法律又は地方公共団体の条例の規定で河川その他の公共の水域又は海域に排除される汚水の水質につき新法第十二条の二第一項及び第五項に規定する規制に相当するものがあるとき（当該規定の違反行為に対する処罰規定がないときを除く。）は、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定の施行の際現に特定施設を設置している者（設置の工事をしている者を含む。）で当該特定施設に係る工場又は事業場から継続して下水を排除して公共下水道を使用するものは、同条の規定の施行の日から三十日以内に、新法第十二条の三第一項各号に掲げる事項を公共下水道管理者に届け出なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定による届出をした者については、新法第十二条の三第三項の規定は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の規定による届出をした者は、新法第十二条の四、第十二条の五（新法第十二条の四の規定による届出に係る部分に限る。）及び第十二条の六（新法第十二条の四の規定による届出に係る部分に限る。）から第十二条の九までの規定（これらの規定に係る罰則の規定を含む。）の適用については、新法第十二条の三の規定による届出をした者とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前三項の規定は、流域下水道について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項（前項において準用する場合を含む。）の規定による届出をせず、又は虚偽の届出をした者は、十万円以下の罰金に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して前項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、同項の刑を科する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定の施行前にした行為及び第一項の規定によりなお従前の例によることとされる事項に係る第二条の規定の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五九年四月二七日法律第一九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <ParagraphCaption>（下水道法の一部改正に伴う経過措置）</ParagraphCaption>
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">施行日前に発生した下水道の災害の復旧については、前項の規定による改正後の下水道法第三十四条の規定にかかわらず、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和六二年九月四日法律第八七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行し、第六条及び第八条から第十二条までの規定による改正後の国有林野事業特別会計法、道路整備特別会計法、治水特別会計法、港湾整備特別会計法、都市開発資金融通特別会計法及び空港整備特別会計法の規定は、昭和六十二年度の予算から適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和六二年九月二六日法律第九七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超え六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、行政手続法（平成五年法律第八十八号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（諮問等がされた不利益処分に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に法令に基づき審議会その他の合議制の機関に対し行政手続法第十三条に規定する聴聞又は弁明の機会の付与の手続その他の意見陳述のための手続に相当する手続を執るべきことの諮問その他の求めがされた場合においては、当該諮問その他の求めに係る不利益処分の手続に関しては、この法律による改正後の関係法律の規定にかかわらず、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（聴聞に関する規定の整理に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に法律の規定により行われた聴聞、聴問若しくは聴聞会（不利益処分に係るものを除く。）又はこれらのための手続は、この法律による改正後の関係法律の相当規定により行われたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成五年一一月一九日法律第九二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成八年六月五日法律第五九号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律中、第一条の規定は公布の日から、第二条及び次項の規定は公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（罰則に関する経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">第二条の規定の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中地方自治法第二百五十条の次に五条、節名並びに二款及び款名を加える改正規定（同法第二百五十条の九第一項に係る部分（両議院の同意を得ることに係る部分に限る。）に限る。）、第四十条中自然公園法附則第九項及び第十項の改正規定（同法附則第十項に係る部分に限る。）、第二百四十四条の規定（農業改良助長法第十四条の三の改正規定に係る部分を除く。）並びに第四百七十二条の規定（市町村の合併の特例に関する法律第六条、第八条及び第十七条の改正規定に係る部分を除く。）並びに附則第七条、第十条、第十二条、第五十九条ただし書、第六十条第四項及び第五項、第七十三条、第七十七条、第百五十七条第四項から第六項まで、第百六十条、第百六十三条、第百六十四条並びに第二百二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="134">
+        <ArticleCaption>（下水道法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に第四百二十四条の規定による改正前の下水道法（以下この条において「旧下水道法」という。）第二条の二第四項の規定によりされた流域別下水道整備総合計画（第四百二十四条の規定による改正後の下水道法（以下この条において「新下水道法」という。）第二条の二第五項に規定する二以上の都府県の区域にわたる水系に係る河川その他の公共の水域又は二以上の都府県の区域における汚水により水質の汚濁が生じる海域の全部又は一部についてのものに限る。以下この条において同じ。）の承認又はこの法律の施行の際現に旧下水道法第二条の二第四項の規定によりされている流域別下水道整備総合計画の承認の申請は、それぞれ新下水道法第二条の二第五項の規定によりされた流域別下水道整備総合計画の同意又は協議の申出とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に旧下水道法第三十七条の規定によりされた命令は、新下水道法第三十七条第一項の規定によりされた指示とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="159">
+        <ArticleCaption>（国等の事務）</ArticleCaption>
+        <ArticleTitle>第百五十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正前のそれぞれの法律に規定するもののほか、この法律の施行前において、地方公共団体の機関が法律又はこれに基づく政令により管理し又は執行する国、他の地方公共団体その他公共団体の事務（附則第百六十一条において「国等の事務」という。）は、この法律の施行後は、地方公共団体が法律又はこれに基づく政令により当該地方公共団体の事務として処理するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="160">
+        <ArticleCaption>（処分、申請等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定については、当該各規定。以下この条及び附則第百六十三条において同じ。）の施行前に改正前のそれぞれの法律の規定によりされた許可等の処分その他の行為（以下この条において「処分等の行為」という。）又はこの法律の施行の際現に改正前のそれぞれの法律の規定によりされている許可等の申請その他の行為（以下この条において「申請等の行為」という。）で、この法律の施行の日においてこれらの行為に係る行政事務を行うべき者が異なることとなるものは、附則第二条から前条までの規定又は改正後のそれぞれの法律（これに基づく命令を含む。）の経過措置に関する規定に定めるものを除き、この法律の施行の日以後における改正後のそれぞれの法律の適用については、改正後のそれぞれの法律の相当規定によりされた処分等の行為又は申請等の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に改正前のそれぞれの法律の規定により国又は地方公共団体の機関に対し報告、届出、提出その他の手続をしなければならない事項で、この法律の施行の日前にその手続がされていないものについては、この法律及びこれに基づく政令に別段の定めがあるもののほか、これを、改正後のそれぞれの法律の相当規定により国又は地方公共団体の相当の機関に対して報告、届出、提出その他の手続をしなければならない事項についてその手続がされていないものとみなして、この法律による改正後のそれぞれの法律の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="161">
+        <ArticleCaption>（不服申立てに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にされた国等の事務に係る処分であって、当該処分をした行政庁（以下この条において「処分庁」という。）に施行日前に行政不服審査法に規定する上級行政庁（以下この条において「上級行政庁」という。）があったものについての同法による不服申立てについては、施行日以後においても、当該処分庁に引き続き上級行政庁があるものとみなして、行政不服審査法の規定を適用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該処分庁の上級行政庁とみなされる行政庁は、施行日前に当該処分庁の上級行政庁であった行政庁とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の場合において、上級行政庁とみなされる行政庁が地方公共団体の機関であるときは、当該機関が行政不服審査法の規定により処理することとされる事務は、新地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="162">
+        <ArticleCaption>（手数料に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前においてこの法律による改正前のそれぞれの法律（これに基づく命令を含む。）の規定により納付すべきであった手数料については、この法律及びこれに基づく政令に別段の定めがあるもののほか、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="163">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="164">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百六十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="250">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二百五十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新地方自治法第二条第九項第一号に規定する第一号法定受託事務については、できる限り新たに設けることのないようにするとともに、新地方自治法別表第一に掲げるもの及び新地方自治法に基づく政令に示すものについては、地方分権を推進する観点から検討を加え、適宜、適切な見直しを行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="251">
+        <ArticleTitle>第二百五十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、地方公共団体が事務及び事業を自主的かつ自立的に執行できるよう、国と地方公共団体との役割分担に応じた地方税財源の充実確保の方途について、経済情勢の推移等を勘案しつつ検討し、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第一〇五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年五月三一日法律第九一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、商法等の一部を改正する法律（平成十二年法律第九十号）の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年二月八日法律第一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年五月一六日法律第四三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第十八条から第二十七条まで及び第二十九条から第三十六条までの規定は、平成十六年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年七月二四日法律第一二五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定、第三条中会社法第十一条第二項の改正規定並びに附則第六条から附則第十五条まで、附則第二十一条から附則第三十一条まで、附則第三十四条から附則第四十一条まで及び附則第四十四条から附則第四十八条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年四月二七日法律第三三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成十七年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="24">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正後のそれぞれの法律の規定に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年六月二二日法律第七〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（流域別下水道整備総合計画に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日以後この法律による改正後の下水道法（以下「新法」という。）第二条の二第一項の規定に基づき新法第二条の二第二項第五号の公共の水域又は海域ごとに流域別下水道整備総合計画が定められるまでの間においては、この法律の施行の際現にこの法律による改正前の下水道法第二条の二第一項の規定に基づき当該公共の水域又は海域について定められている流域別下水道整備総合計画を新法第二条の二第一項の規定に基づき定められた流域別下水道整備総合計画とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、新法第十二条の九の規定の施行の状況を勘案し、必要があると認めるときは、当該規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年五月二日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第六条、第十一条、第十三条、第十五条、第十六条、第十八条から第二十条まで、第二十六条、第二十九条、第三十二条、第三十三条（道路法第三十条及び第四十五条の改正規定に限る。）、第三十五条及び第三十六条の規定並びに附則第四条、第五条、第六条第二項、第七条、第十二条、第十四条、第十五条、第十七条、第十八条、第二十八条、第三十条から第三十二条まで、第三十四条、第三十五条、第三十六条第二項、第三十七条、第三十八条（構造改革特別区域法（平成十四年法律第百八十九号）第三十条第一項及び第二項の改正規定に限る。）、第三十九条、第四十条、第四十五条の二及び第四十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十四年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（下水道法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三十五条の規定の施行前に同条の規定による改正前の下水道法（以下この条において「旧下水道法」という。）第四条第一項又は第二十五条の三第一項（同条第四項において準用する場合を含む。次項において同じ。）の認可を受けた事業計画は、第三十五条の規定による改正後の下水道法（以下この条において「新下水道法」という。）第四条第二項（同条第六項において準用する場合を含む。次項において同じ。）又は第二十五条の三第二項（同条第七項において準用する場合を含む。次項において同じ。）の規定が適用される事業計画にあってはそれぞれの規定による協議を行ったものと、新下水道法第四条第四項（同条第六項において準用する場合を含む。次項において同じ。）又は第二十五条の三第五項（同条第七項において準用する場合を含む。次項において同じ。）の規定が適用される事業計画にあってはそれぞれの規定による届出をしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三十五条の規定の施行の際現に旧下水道法第四条第一項又は第二十五条の三第一項の規定によりされている認可の申請は、新下水道法第四条第二項又は第二十五条の三第二項の規定が適用される事業計画に係るものにあってはそれぞれの規定によりされた協議の申出と、新下水道法第四条第四項又は第二十五条の三第五項の規定が適用される事業計画に係るものにあってはそれぞれの規定によりされた届出とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="24">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条まで及び附則第三十六条に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月二二日法律第七〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十四年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次条の規定は公布の日から、附則第十七条の規定は地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律（平成二十三年法律第百五号）の公布の日又はこの法律の公布の日のいずれか遅い日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条、第十条（構造改革特別区域法第十八条の改正規定に限る。）、第十四条（地方自治法第二百五十二条の十九、第二百六十条並びに別表第一騒音規制法（昭和四十三年法律第九十八号）の項、都市計画法（昭和四十三年法律第百号）の項、都市再開発法（昭和四十四年法律第三十八号）の項、環境基本法（平成五年法律第九十一号）の項及び密集市街地における防災街区の整備の促進に関する法律（平成九年法律第四十九号）の項並びに別表第二都市再開発法（昭和四十四年法律第三十八号）の項、公有地の拡大の推進に関する法律（昭和四十七年法律第六十六号）の項、大都市地域における住宅及び住宅地の供給の促進に関する特別措置法（昭和五十年法律第六十七号）の項、密集市街地における防災街区の整備の促進に関する法律（平成九年法律第四十九号）の項及びマンションの建替えの円滑化等に関する法律（平成十四年法律第七十八号）の項の改正規定に限る。）、第十七条から第十九条まで、第二十二条（児童福祉法第二十一条の五の六、第二十一条の五の十五、第二十一条の五の二十三、第二十四条の九、第二十四条の十七、第二十四条の二十八及び第二十四条の三十六の改正規定に限る。）、第二十三条から第二十七条まで、第二十九条から第三十三条まで、第三十四条（社会福祉法第六十二条、第六十五条及び第七十一条の改正規定に限る。）、第三十五条、第三十七条、第三十八条（水道法第四十六条、第四十八条の二、第五十条及び第五十条の二の改正規定を除く。）、第三十九条、第四十三条（職業能力開発促進法第十九条、第二十三条、第二十八条及び第三十条の二の改正規定に限る。）、第五十一条（感染症の予防及び感染症の患者に対する医療に関する法律第六十四条の改正規定に限る。）、第五十四条（障害者自立支援法第八十八条及び第八十九条の改正規定を除く。）、第六十五条（農地法第三条第一項第九号、第四条、第五条及び第五十七条の改正規定を除く。）、第八十七条から第九十二条まで、第九十九条（道路法第二十四条の三及び第四十八条の三の改正規定に限る。）、第百一条（土地区画整理法第七十六条の改正規定に限る。）、第百二条（道路整備特別措置法第十八条から第二十一条まで、第二十七条、第四十九条及び第五十条の改正規定に限る。）、第百三条、第百五条（駐車場法第四条の改正規定を除く。）、第百七条、第百八条、第百十五条（首都圏近郊緑地保全法第十五条及び第十七条の改正規定に限る。）、第百十六条（流通業務市街地の整備に関する法律第三条の二の改正規定を除く。）、第百十八条（近畿圏の保全区域の整備に関する法律第十六条及び第十八条の改正規定に限る。）、第百二十条（都市計画法第六条の二、第七条の二、第八条、第十条の二から第十二条の二まで、第十二条の四、第十二条の五、第十二条の十、第十四条、第二十条、第二十三条、第三十三条及び第五十八条の二の改正規定を除く。）、第百二十一条（都市再開発法第七条の四から第七条の七まで、第六十条から第六十二条まで、第六十六条、第九十八条、第九十九条の八、第百三十九条の三、第百四十一条の二及び第百四十二条の改正規定に限る。）、第百二十五条（公有地の拡大の推進に関する法律第九条の改正規定を除く。）、第百二十八条（都市緑地法第二十条及び第三十九条の改正規定を除く。）、第百三十一条（大都市地域における住宅及び住宅地の供給の促進に関する特別措置法第七条、第二十六条、第六十四条、第六十七条、第百四条及び第百九条の二の改正規定に限る。）、第百四十二条（地方拠点都市地域の整備及び産業業務施設の再配置の促進に関する法律第十八条及び第二十一条から第二十三条までの改正規定に限る。）、第百四十五条、第百四十六条（被災市街地復興特別措置法第五条及び第七条第三項の改正規定を除く。）、第百四十九条（密集市街地における防災街区の整備の促進に関する法律第二十条、第二十一条、第百九十一条、第百九十二条、第百九十七条、第二百三十三条、第二百四十一条、第二百八十三条、第三百十一条及び第三百十八条の改正規定に限る。）、第百五十五条（都市再生特別措置法第五十一条第四項の改正規定に限る。）、第百五十六条（マンションの建替えの円滑化等に関する法律第百二条の改正規定を除く。）、第百五十七条、第百五十八条（景観法第五十七条の改正規定に限る。）、第百六十条（地域における多様な需要に応じた公的賃貸住宅等の整備等に関する特別措置法第六条第五項の改正規定（「第二項第二号イ」を「第二項第一号イ」に改める部分を除く。）並びに同法第十一条及び第十三条の改正規定に限る。）、第百六十二条（高齢者、障害者等の移動等の円滑化の促進に関する法律第十条、第十二条、第十三条、第三十六条第二項及び第五十六条の改正規定に限る。）、第百六十五条（地域における歴史的風致の維持及び向上に関する法律第二十四条及び第二十九条の改正規定に限る。）、第百六十九条、第百七十一条（廃棄物の処理及び清掃に関する法律第二十一条の改正規定に限る。）、第百七十四条、第百七十八条、第百八十二条（環境基本法第十六条及び第四十条の二の改正規定に限る。）及び第百八十七条（鳥獣の保護及び狩猟の適正化に関する法律第十五条の改正規定、同法第二十八条第九項の改正規定（「第四条第三項」を「第四条第四項」に改める部分を除く。）、同法第二十九条第四項の改正規定（「第四条第三項」を「第四条第四項」に改める部分を除く。）並びに同法第三十四条及び第三十五条の改正規定に限る。）の規定並びに附則第十三条、第十五条から第二十四条まで、第二十五条第一項、第二十六条、第二十七条第一項から第三項まで、第三十条から第三十二条まで、第三十八条、第四十四条、第四十六条第一項及び第四項、第四十七条から第四十九条まで、第五十一条から第五十三条まで、第五十五条、第五十八条、第五十九条、第六十一条から第六十九条まで、第七十一条、第七十二条第一項から第三項まで、第七十四条から第七十六条まで、第七十八条、第八十条第一項及び第三項、第八十三条、第八十七条（地方税法第五百八十七条の二及び附則第十一条の改正規定を除く。）、第八十九条、第九十条、第九十二条（高速自動車国道法第二十五条の改正規定に限る。）、第百一条、第百二条、第百五条から第百七条まで、第百十二条、第百十七条（地域における多様な主体の連携による生物の多様性の保全のための活動の促進等に関する法律（平成二十二年法律第七十二号）第四条第八項の改正規定に限る。）、第百十九条、第百二十一条の二並びに第百二十三条第二項の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十四年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="52">
+        <ArticleCaption>（下水道法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第五十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第百七条の規定の施行の日から起算して一年を超えない期間内において、同条の規定による改正後の下水道法第七条第二項、第二十一条第二項又は第二十八条第二項の規定に基づく条例が制定施行されるまでの間は、同法第七条第二項の政令で定める基準は同項の条例で定める技術上の基準と、同法第二十一条第二項の政令で定めるところは同項の条例で定めるところと、同法第二十八条第二項の政令で定める基準は同項の条例で定める技術上の基準とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="81">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="82">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年一二月一四日法律第一二二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第六条、第八条、第九条及び第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、行政不服審査法（平成二十六年法律第六十八号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（経過措置の原則）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">行政庁の処分その他の行為又は不作為についての不服申立てであってこの法律の施行前にされた行政庁の処分その他の行為又はこの法律の施行前にされた申請に係る行政庁の不作為に係るものについては、この附則に特別の定めがある場合を除き、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（訴訟に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正前の法律の規定により不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ訴えを提起できないこととされる事項であって、当該不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したもの（当該不服申立てが他の不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ提起できないとされる場合にあっては、当該他の不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したものを含む。）の訴えの提起については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の規定による改正前の法律の規定（前条の規定によりなお従前の例によることとされる場合を含む。）により異議申立てが提起された処分その他の行為であって、この法律の規定による改正後の法律の規定により審査請求に対する裁決を経た後でなければ取消しの訴えを提起することができないこととされるものの取消しの訴えの提起については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">不服申立てに対する行政庁の裁決、決定その他の行為の取消しの訴えであって、この法律の施行前に提起されたものについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為並びに附則第五条及び前二条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第五条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年五月二〇日法律第二二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三条及び附則第三条の規定は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（下水道法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条の規定の施行の際現に同条の規定による改正前の下水道法（次項において「第三条改正前下水道法」という。）第四条第一項の規定により定められている事業計画については、附則第一条ただし書に規定する規定の施行の日から起算して三年を経過する日（その日までに第三条の規定による改正後の下水道法（次項において「新下水道法」という。）第四条第六項において準用する同条第一項の規定により変更されたときは、その変更された日）までの間は、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条の規定の施行の際現に第三条改正前下水道法第二十五条の十一第一項の規定により定められている事業計画については、附則第一条ただし書に規定する規定の施行の日から起算して三年を経過する日（その日までに新下水道法第二十五条の十一第七項において準用する同条第一項の規定により変更されたときは、その変更された日）までの間は、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一〇日法律第三一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定、第五条中下水道法第六条第二号の改正規定、同法第七条の二を同法第七条の三とし、同法第七条の次に一条を加える改正規定、同法第二十五条の十三第二号の改正規定（「第七条の二第二項」を「第七条の三第二項」に改める部分に限る。）及び同法第三十一条の改正規定、第六条の規定（同条中河川法第五十八条の十に一項を加える改正規定を除く。）、第七条の規定（同条中都市計画法第三十三条第一項第八号の改正規定を除く。）並びに第八条、第十条及び第十一条の規定並びに附則第五条（地方自治法（昭和二十二年法律第六十七号）別表第一河川法（昭和三十九年法律第百六十七号）の項第一号の改正規定に限る。）、第六条、第九条から第十二条まで、第十四条、第十五条及び第十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の規定について、その施行の状況等を勘案して検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二〇日法律第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条及び第七条から第九条までの規定並びに次条及び附則第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（下水道法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に第十二条の規定による改正前の下水道法第二条の二第七項（同条第九項において準用する場合を含む。）の規定によりされている国土交通大臣への協議の申出は、第十二条の規定による改正後の下水道法第二条の二第十項（同条第十二項において準用する場合を含む。）の規定によりされた国土交通大臣への届出とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
