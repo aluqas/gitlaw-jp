@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Heisei" Year="29" Num="016" PromulgateMonth="4" PromulgateDay="14" LawType="Act"><LawNum>平成二十九年法律第十六号</LawNum><LawBody><LawTitle Kana="りんしょうけんきゅうほう" Abbrev="" AbbrevKana="">臨床研究法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　臨床研究の実施</ChapterTitle>
+        <ArticleRange>（第三条―第二十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　認定臨床研究審査委員会</ChapterTitle>
+        <ArticleRange>（第二十三条―第三十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　臨床研究に関する資金等の提供</ChapterTitle>
+        <ArticleRange>（第三十二条―第三十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <ArticleRange>（第三十五条―第三十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第三十九条―第四十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、臨床研究の実施の手続、認定臨床研究審査委員会による審査意見業務の適切な実施のための措置、臨床研究に関する資金等の提供に関する情報の公表の制度等を定めることにより、臨床研究の対象者をはじめとする国民の臨床研究に対する信頼の確保を図ることを通じてその実施を推進し、もって保健衛生の向上に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「臨床研究」とは、医薬品等を人に対して用いることにより、当該医薬品等の有効性又は安全性を明らかにする研究（当該研究のうち、当該医薬品等の有効性又は安全性についての試験が、医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号。以下この条において「医薬品医療機器等法」という。）第八十条の二第二項に規定する治験に該当するものその他厚生労働省令で定めるものを除き、当該医薬品等を人の疾病の診断、治療若しくは予防のため又は人の身体の構造若しくは機能に影響を及ぼすために用いる場合において、当該医薬品等の有効性又は安全性を明らかにするために追加的に必要となる検査その他の行為（当該人の心身に著しい負担を与えるものとして厚生労働省令で定めるものに限る。）を行うものを含む。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定臨床研究」とは、臨床研究のうち、次のいずれかに該当するものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医薬品等製造販売業者又はその特殊関係者（医薬品等製造販売業者と厚生労働省令で定める特殊の関係のある者をいう。以下同じ。）から研究資金等（臨床研究の実施のための資金（厚生労働省令で定める利益を含む。）をいう。以下同じ。）の提供を受けて実施する臨床研究（当該医薬品等製造販売業者が製造販売（医薬品医療機器等法第二条第十三項に規定する製造販売をいう。以下同じ。）をし、又はしようとする医薬品等を用いるものに限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次に掲げる医薬品等を用いる臨床研究（前号に該当するものを除く。）</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次項第一号に掲げる医薬品であって、医薬品医療機器等法第十四条第一項又は第十九条の二第一項の承認を受けていないもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次項第一号に掲げる医薬品であって、医薬品医療機器等法第十四条第一項又は第十九条の二第一項の承認（医薬品医療機器等法第十四条第十五項（医薬品医療機器等法第十九条の二第五項において準用する場合を含む。）の変更の承認を含む。以下ロにおいて同じ。）を受けているもの（当該承認に係る用法、用量、効能及び効果（以下ロにおいて「用法等」という。）と異なる用法等（人の生命及び健康に影響を与えるおそれが当該承認に係る用法等と同程度以下のものとして厚生労働省令で定める用法等を除く。）で用いる場合に限る。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次項第二号に掲げる医療機器であって、医薬品医療機器等法第二十三条の二の五第一項若しくは第二十三条の二の十七第一項の承認若しくは医薬品医療機器等法第二十三条の二の二十三第一項の認証を受けていないもの又は医薬品医療機器等法第二十三条の二の十二第一項の規定による届出が行われていないもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次項第二号に掲げる医療機器であって、医薬品医療機器等法第二十三条の二の五第一項若しくは第二十三条の二の十七第一項の承認（医薬品医療機器等法第二十三条の二の五第十五項（医薬品医療機器等法第二十三条の二の十七第五項において準用する場合を含む。）の変更の承認を含む。以下ニにおいて同じ。）若しくは医薬品医療機器等法第二十三条の二の二十三第一項の認証（同条第七項の変更の認証を含む。以下ニにおいて同じ。）を受けているもの又は医薬品医療機器等法第二十三条の二の十二第一項の規定による届出（同条第二項の規定による変更の届出を含む。以下ニにおいて同じ。）が行われているもの（当該承認、認証又は届出に係る使用方法、効果及び性能（以下ニにおいて「使用方法等」という。）と異なる使用方法等（人の生命及び健康に影響を与えるおそれが当該承認、認証又は届出に係る使用方法等と同程度以下のものとして厚生労働省令で定める使用方法等を除く。）で用いる場合に限る。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次項第三号に掲げる再生医療等製品であって、医薬品医療機器等法第二十三条の二十五第一項又は第二十三条の三十七第一項の承認を受けていないもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="6">
+                <Subitem1Title>ヘ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次項第三号に掲げる再生医療等製品であって、医薬品医療機器等法第二十三条の二十五第一項又は第二十三条の三十七第一項の承認（医薬品医療機器等法第二十三条の二十五第十一項（医薬品医療機器等法第二十三条の三十七第五項において準用する場合を含む。）の変更の承認を含む。以下ヘにおいて同じ。）を受けているもの（当該承認に係る用法、用量、使用方法、効能、効果及び性能（以下ヘにおいて「用法等」という。）と異なる用法等（人の生命及び健康に影響を与えるおそれが当該承認に係る用法等と同程度以下のものとして厚生労働省令で定める用法等を除く。）で用いる場合に限る。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「医薬品等」とは、次に掲げるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医薬品医療機器等法第二条第一項に規定する医薬品（同条第十四項に規定する体外診断用医薬品を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医薬品医療機器等法第二条第四項に規定する医療機器</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医薬品医療機器等法第二条第九項に規定する再生医療等製品</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「医薬品等製造販売業者」とは、医薬品等に係る医薬品医療機器等法第十二条第一項、第二十三条の二第一項又は第二十三条の二十第一項の許可を受けている者をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　臨床研究の実施</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（臨床研究実施基準）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、厚生労働省令で、臨床研究の実施に関する基準（以下「臨床研究実施基準」という。）を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">臨床研究実施基準においては、次に掲げる事項について定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">臨床研究の実施体制に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">臨床研究を行う施設の構造設備に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">臨床研究の実施状況の確認に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">臨床研究の対象者に健康被害が生じた場合の補償及び医療の提供に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定臨床研究（前条第二項第一号に掲げるものに限る。）に用いる医薬品等の製造販売をし、又はしようとする医薬品等製造販売業者及びその特殊関係者の当該特定臨床研究に対する関与に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他臨床研究の実施に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（臨床研究実施基準の遵守）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">臨床研究（特定臨床研究を除く。）を実施する者は、臨床研究実施基準に従ってこれを実施するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究を実施する者は、臨床研究実施基準に従ってこれを実施しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（実施計画の提出）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究を実施する者は、特定臨床研究ごとに、次に掲げる事項を記載した特定臨床研究の実施に関する計画（以下「実施計画」という。）を作成し、厚生労働省令で定めるところにより、厚生労働大臣に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定臨床研究の目的及び内容並びにこれに用いる医薬品等の概要</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定臨床研究の実施体制に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定臨床研究を行う施設の構造設備に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定臨床研究の実施状況の確認に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定臨床研究の対象者に健康被害が生じた場合の補償及び医療の提供に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定臨床研究（第二条第二項第一号に掲げるものに限る。）に用いる医薬品等の製造販売をし、又はしようとする医薬品等製造販売業者及びその特殊関係者の当該特定臨床研究に対する関与に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定臨床研究について第二十三条第一項に規定する審査意見業務を行う同条第五項第二号に規定する認定臨床研究審査委員会（以下この章において「認定臨床研究審査委員会」という。）の名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他厚生労働省令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">実施計画には、次に掲げる書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次項の規定による意見の内容を記載した書類</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他厚生労働省令で定める書類</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究を実施する者は、第一項の規定により実施計画を提出する場合においては、厚生労働省令で定めるところにより、実施計画による特定臨床研究の実施の適否及び実施に当たって留意すべき事項について、当該実施計画に記載されている認定臨床研究審査委員会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（実施計画の変更）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定により実施計画を提出した者（以下「特定臨床研究実施者」という。）は、当該実施計画の変更（厚生労働省令で定める軽微な変更を除く。次項本文において同じ。）をするときは、その変更後の実施計画を、厚生労働省令で定めるところにより、厚生労働大臣に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前条第二項及び第三項の規定は、前項の実施計画の変更について準用する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同条第二項第二号に掲げる書類については、既に厚生労働大臣に提出されている当該書類の内容に変更がないときは、その添付を省略することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究実施者は、実施計画について、第一項の厚生労働省令で定める軽微な変更をしたときは、その変更の日から十日以内に、その内容を、当該実施計画に記載されている認定臨床研究審査委員会に通知するとともに、厚生労働大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（実施計画の遵守）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究実施者は、第五条第一項又は前条第一項の規定により提出した実施計画（同項の厚生労働省令で定める軽微な変更をしたときは、当該変更後のもの）に従って特定臨床研究を実施しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（特定臨床研究の中止）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究実施者は、特定臨床研究を中止したときは、その中止の日から十日以内に、その旨を、当該特定臨床研究の実施計画に記載されている認定臨床研究審査委員会に通知するとともに、厚生労働大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（特定臨床研究の対象者等の同意）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">特定臨床研究を実施する者は、当該特定臨床研究の対象者に対し、あらかじめ、当該特定臨床研究の目的及び内容並びにこれに用いる医薬品等の概要、当該医薬品等の製造販売をし、若しくはしようとする医薬品等製造販売業者又はその特殊関係者から研究資金等の提供を受けて実施する場合においては第三十二条に規定する契約の内容その他厚生労働省令で定める事項について、厚生労働省令で定めるところにより説明を行い、その同意を得なければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、疾病その他厚生労働省令で定める事由により特定臨床研究の対象者の同意を得ることが困難な場合であって、当該対象者の配偶者、親権を行う者その他厚生労働省令で定める者のうちいずれかの者に対し、説明を行い、その同意を得たとき、その他厚生労働省令で定めるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（特定臨床研究に関する個人情報の保護）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究を実施する者は、当該特定臨床研究の対象者の個人情報（個人に関する情報であって、当該情報に含まれる氏名、生年月日その他の記述等により特定の個人を識別することができるもの（他の情報と照合することにより、特定の個人を識別することができることとなるものを含む。）をいう。以下この条において同じ。）の漏えい、滅失又は毀損の防止その他の個人情報の適切な管理のために必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（秘密保持義務）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究に従事する者又は特定臨床研究に従事する者であった者は、正当な理由がなく、特定臨床研究の実施に関して知り得た当該特定臨床研究の対象者の秘密を漏らしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（特定臨床研究に関する記録）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究を実施する者は、当該特定臨床研究の対象者ごとに、医薬品等を用いた日時及び場所その他厚生労働省令で定める事項に関する記録を作成し、厚生労働省令で定めるところにより、これを保存しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（認定臨床研究審査委員会への報告）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究実施者は、特定臨床研究の実施に起因するものと疑われる疾病、障害若しくは死亡又は感染症（次条及び第二十三条第一項において「疾病等」という。）の発生を知ったときは、厚生労働省令で定めるところにより、その旨を当該特定臨床研究の実施計画に記載されている認定臨床研究審査委員会に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により報告を受けた認定臨床研究審査委員会が特定臨床研究実施者に対し意見を述べたときは、当該特定臨床研究実施者は、当該意見を尊重して必要な措置をとらなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（厚生労働大臣への報告）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究実施者は、特定臨床研究の実施に起因するものと疑われる疾病等の発生に関する事項で厚生労働省令で定めるものを知ったときは、厚生労働省令で定めるところにより、その旨を厚生労働大臣に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（厚生科学審議会への報告）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、毎年度、前条の規定による報告の状況について厚生科学審議会に報告し、必要があると認めるときは、その意見を聴いて、特定臨床研究の実施による保健衛生上の危害の発生又は拡大を防止するために必要な措置をとらなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生科学審議会は、前項の場合のほか、特定臨床研究の実施による保健衛生上の危害の発生又は拡大を防止するために必要な措置について、調査審議し、必要があると認めるときは、厚生労働大臣に意見を述べることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第一項の規定による報告又は措置を行うに当たっては、前条の規定による報告に係る情報の整理を行うとともに、必要があると認めるときは、同条の規定による報告に関する調査を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（機構による情報の整理及び調査の実施）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、独立行政法人医薬品医療機器総合機構（以下この条において「機構」という。）に、前条第三項に規定する情報の整理を行わせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、機構の求めに応じ、機構が前項の規定による情報の整理を行うために、第十四条の規定による報告に係る特定臨床研究の内容その他厚生労働省令で定める事項に関する情報を提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、機構に第一項の規定による情報の整理を行わせるときは、その旨を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣が、機構に第一項の規定による情報の整理を行わせるときは、第十四条の規定による報告をする者は、同条の規定にかかわらず、厚生労働省令で定めるところにより、機構に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第一項の規定による情報の整理を行ったときは、遅滞なく、当該情報の整理の結果を、厚生労働大臣に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項、第二項及び前項の規定は、前条第三項に規定する調査について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（認定臨床研究審査委員会への定期報告）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究実施者は、厚生労働省令で定めるところにより、定期的に、特定臨床研究の実施状況について、当該特定臨床研究の実施計画に記載されている認定臨床研究審査委員会に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により報告を受けた認定臨床研究審査委員会が特定臨床研究実施者に対し意見を述べたときは、当該特定臨床研究実施者は、当該意見を尊重して必要な措置をとらなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（厚生労働大臣への定期報告）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究実施者は、厚生労働省令で定めるところにより、定期的に、特定臨床研究の実施状況について、厚生労働大臣に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の規定により報告を受けたときは、当該報告を取りまとめ、その概要を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（緊急命令）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、特定臨床研究の実施による保健衛生上の危害の発生又は拡大を防止するため必要があると認めるときは、特定臨床研究を実施する者に対し、当該特定臨床研究を停止することその他保健衛生上の危害の発生又は拡大を防止するための応急の措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（改善命令等）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、この章の規定又はこの章の規定に基づく命令に違反していると認めるときは、特定臨床研究を実施する者に対し、当該特定臨床研究を臨床研究実施基準に適合させること、実施計画を変更することその他当該違反を是正するために必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、特定臨床研究を実施する者が前項の規定による命令に従わないときは、当該特定臨床研究を実施する者に対し、期間を定めて特定臨床研究の全部又は一部の停止を命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（特定臨床研究以外の臨床研究を実施する者が講ずべき措置）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">臨床研究（特定臨床研究を除く。）を実施する者は、第五条第一項の規定に準じてその実施に関する計画を作成するほか、当該計画を作成し、又は変更する場合においては、認定臨床研究審査委員会の意見を聴くよう努めるとともに、第七条及び第九条から第十二条までの規定に準じて、必要な措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（適用除外）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この章の規定は、臨床研究のうち、医薬品等を用いることが再生医療等の安全性の確保等に関する法律（平成二十五年法律第八十五号）第二条第一項に規定する再生医療等に該当する場合については、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　認定臨床研究審査委員会</ChapterTitle>
+        <Article Num="23">
+          <ArticleCaption>（臨床研究審査委員会の認定）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">臨床研究に関する専門的な知識経験を有する者により構成される委員会であって、次に掲げる業務（以下「審査意見業務」という。）を行うもの（以下この条において「臨床研究審査委員会」という。）を設置する者（病院（医療法（昭和二十三年法律第二百五号）第一条の五第一項に規定する病院をいう。）若しくは診療所（同条第二項に規定する診療所をいい、同法第五条第一項に規定する医師又は歯科医師の住所を含む。）の開設者又は医学医術に関する学術団体その他の厚生労働省令で定める団体（法人でない団体にあっては、代表者又は管理人の定めのあるものに限る。）に限る。）は、その設置する臨床研究審査委員会が第四項各号に掲げる要件に適合していることについて、厚生労働大臣の認定を受けなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第三項（第六条第二項において準用する場合を含む。）の規定により意見を求められた場合において、実施計画について臨床研究実施基準に照らして審査を行い、特定臨床研究を実施する者に対し、特定臨床研究の実施の適否及び実施に当たって留意すべき事項について意見を述べる業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十三条第一項の規定により報告を受けた場合において、必要があると認めるときは、特定臨床研究実施者に対し、当該報告に係る疾病等の原因の究明又は再発防止のために講ずべき措置について意見を述べる業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条第一項の規定により報告を受けた場合において、必要があると認めるときは、特定臨床研究実施者に対し、当該報告に係る特定臨床研究の実施に当たって留意すべき事項又は改善すべき事項について意見を述べる業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前三号のほか、必要があると認めるときは、その名称が第五条第一項第八号の認定臨床研究審査委員会として記載されている実施計画により特定臨床研究を実施する者に対し、当該特定臨床研究を臨床研究実施基準に適合させるために改善すべき事項又は疾病等の発生防止のために講ずべき措置について意見を述べる業務</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の認定を受けようとする者は、厚生労働省令で定めるところにより、次に掲げる事項を記載した申請書を厚生労働大臣に提出して、同項の認定の申請をしなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあっては、その代表者（法人でない団体にあっては、その代表者又は管理人）の氏名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">臨床研究審査委員会の名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">臨床研究審査委員会の委員の氏名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">審査意見業務を行う体制に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他厚生労働省令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の申請書には、次項第二号に規定する業務規程その他の厚生労働省令で定める書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第一項の認定（以下この条において単に「認定」という。）の申請があった場合において、その申請に係る臨床研究審査委員会が次に掲げる要件に適合すると認めるときは、認定をしなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">臨床研究に関する専門的な知識経験を有する委員により構成され、かつ、審査意見業務の公正な実施に支障を及ぼすおそれがないものとして厚生労働省令で定める体制が整備されていること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">審査意見業務の実施の方法、審査意見業務に関して知り得た情報の管理及び秘密の保持の方法その他の審査意見業務を適切に実施するための方法に関する業務規程が整備されていること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、審査意見業務の適切な実施のために必要なものとして厚生労働省令で定める基準に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の規定により認定をしたときは、次に掲げる事項を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">認定を受けた者（以下「認定委員会設置者」という。）の氏名又は名称及び住所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">認定に係る臨床研究審査委員会（以下「認定臨床研究審査委員会」という。）の名称</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleCaption>（欠格事由）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第四項の規定にかかわらず、次の各号のいずれかに該当するときは、同条第一項の認定を受けることができない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">申請者が、拘禁刑以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなるまでの者であるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">申請者が、この法律その他国民の保健医療に関する法律で政令で定めるものの規定により罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなるまでの者であるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">申請者が、第三十一条第一項の規定により前条第一項の認定を取り消され、その認定の取消しの日から起算して三年を経過しない者（認定の取消しの処分に係る行政手続法（平成五年法律第八十八号）第十五条第一項の規定による通知があった日（以下この条において「通知日」という。）前六十日以内に当該認定を取り消された法人の役員（いかなる名称によるかを問わず、これと同等以上の職権又は支配力を有する者を含む。以下この条において同じ。）であった者で当該認定の取消しの日から起算して三年を経過しないもの及び通知日前六十日以内に認定を取り消された団体の代表者又は管理人であった者で当該認定の取消しの日から起算して三年を経過しないものを含む。）であるとき。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該認定の取消しが、認定の取消しの処分の理由となった事実及び当該事実の発生を防止するための認定委員会設置者による体制の整備についての取組の状況その他の当該事実に関して当該認定委員会設置者が有していた責任の程度を考慮して、この号本文に規定する認定の取消しに該当しないこととすることが相当であると認められる認定の取消しとして厚生労働省令で定めるものに該当する場合を除く。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">申請者が、第三十一条第一項の規定による前条第一項の認定の取消しの処分に係る通知日から当該処分をする日又は処分をしないことを決定する日までの間に第二十七条第一項の規定による廃止の届出をした者（当該廃止について相当の理由がある者を除く。）で、当該届出の日から起算して三年を経過しないものであるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">申請者が、前条第一項の認定の申請前三年以内に審査意見業務に関し不正又は著しく不当な行為をした者であるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">申請者が、法人であって、その役員のうちに前各号のいずれかに該当する者があるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">申請者が、法人でない団体であって、その代表者又は管理人のうちに第一号から第五号までのいずれかに該当する者があるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（変更の認定）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定委員会設置者は、第二十三条第二項第三号又は第四号に掲げる事項の変更（厚生労働省令で定める軽微な変更を除く。）をするときは、厚生労働大臣の認定を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定委員会設置者は、前項の厚生労働省令で定める軽微な変更をしたときは、遅滞なく、その内容を厚生労働大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十三条第二項から第五項までの規定は、第一項の変更の認定について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定委員会設置者は、第二十三条第二項第一号、第二号若しくは第五号に掲げる事項又は同条第三項に規定する書類に記載した事項に変更があったとき（当該変更が厚生労働省令で定める軽微なものであるときを除く。）は、遅滞なく、その内容を厚生労働大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十三条第五項の規定は、同項各号に掲げる事項について前項の規定により届出があった場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（認定の有効期間）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十三条第一項の認定の有効期間は、当該認定の日から起算して三年とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の有効期間（当該有効期間についてこの項の規定により更新を受けたときにあっては、更新後の当該有効期間をいう。以下この条において単に「有効期間」という。）の満了後引き続き認定臨床研究審査委員会を設置する認定委員会設置者は、有効期間の更新を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の更新を受けようとする認定委員会設置者は、有効期間の満了の日の九十日前から六十日前までの間（以下この項において「更新申請期間」という。）に、厚生労働大臣に前項の更新の申請をしなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、災害その他やむを得ない事由により更新申請期間に更新の申請をすることができないときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の申請があった場合において、有効期間の満了の日までに当該申請に対する処分がされないときは、従前の認定は、有効期間の満了後もその処分がされるまでの間は、なお効力を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、第二項の更新がされたときは、有効期間は、当該更新前の有効期間の満了の日の翌日から起算するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第二十三条（第二項から第四項までに限る。）及び第二十四条（第三号から第五号までを除く。）の規定は、第二項の更新について準用する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二十三条第三項に規定する書類については、既に厚生労働大臣に提出されている当該書類の内容に変更がないときは、その添付を省略することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（認定臨床研究審査委員会の廃止）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定委員会設置者は、その設置する認定臨床研究審査委員会を廃止するときは、厚生労働省令で定めるところにより、あらかじめ、その旨をその名称が第五条第一項第八号の認定臨床研究審査委員会として記載されている実施計画により特定臨床研究を実施する者に通知するとともに、厚生労働大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の規定による届出があったときは、その旨を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（秘密保持義務）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定臨床研究審査委員会の委員若しくは審査意見業務に従事する者又はこれらの者であった者は、正当な理由がなく、その審査意見業務に関して知り得た秘密を漏らしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（厚生労働大臣への報告）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定臨床研究審査委員会は、第二十三条第一項第二号から第四号までの意見を述べたときは、遅滞なく、厚生労働大臣にその内容を報告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（改善命令）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、認定臨床研究審査委員会が第二十三条第四項各号に掲げる要件のいずれかに適合しなくなったと認めるときは、認定委員会設置者に対し、これらの要件に適合させるために必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項に定めるもののほか、認定委員会設置者がこの章の規定又はこの章の規定に基づく命令に違反していると認めるとき、その他審査意見業務の適切な実施を確保するため必要があると認めるときは、認定委員会設置者に対し、審査意見業務を行う体制の改善、第二十三条第四項第二号に規定する業務規程の変更その他必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（認定の取消し）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、認定委員会設置者について、次の各号のいずれかに該当するときは、第二十三条第一項の認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により第二十三条第一項の認定、第二十五条第一項の変更の認定又は第二十六条第二項の更新を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">認定臨床研究審査委員会が第二十三条第四項各号に掲げる要件のいずれかに適合しなくなったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条各号（第三号及び第四号を除く。）のいずれかに該当するに至ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">この章の規定又はこの章の規定に基づく命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">正当な理由がなくて第三十五条第一項の規定による報告若しくは物件の提出をせず、若しくは虚偽の報告若しくは虚偽の物件の提出をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対し、答弁をせず、若しくは虚偽の答弁をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の規定により第二十三条第一項の認定を取り消したときは、その旨を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　臨床研究に関する資金等の提供</ChapterTitle>
+        <Article Num="32">
+          <ArticleCaption>（契約の締結）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医薬品等製造販売業者又はその特殊関係者は、特定臨床研究を実施する者に対し、当該医薬品等製造販売業者が製造販売をし、又はしようとする医薬品等を用いる特定臨床研究についての研究資金等の提供を行うときは、当該研究資金等の額及び内容、当該特定臨床研究の内容その他厚生労働省令で定める事項を定める契約を締結しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（研究資金等の提供に関する情報等の公表）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医薬品等製造販売業者又はその特殊関係者は、当該医薬品等製造販売業者が製造販売をし、又はしようとする医薬品等を用いる特定臨床研究についての研究資金等の提供に関する情報のほか、特定臨床研究を実施する者又は当該者と厚生労働省令で定める特殊の関係のある者に対する金銭その他の利益（研究資金等を除く。）の提供に関する情報であってその透明性を確保することが特定臨床研究に対する国民の信頼の確保に資するものとして厚生労働省令で定める情報について、厚生労働省令で定めるところにより、インターネットの利用その他厚生労働省令で定める方法により公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（勧告等）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前二条の規定に違反する医薬品等製造販売業者又はその特殊関係者があるときは、当該医薬品等製造販売業者又はその特殊関係者に対し、これらの規定に従って第三十二条に規定する契約を締結すべきこと又は前条に規定する情報を公表すべきことを勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の規定による勧告を受けた医薬品等製造販売業者又はその特殊関係者がこれに従わなかったときは、その旨を公表することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <Article Num="35">
+          <ArticleCaption>（報告徴収及び立入検査）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、この法律の施行に必要な限度において、特定臨床研究を実施する者、認定委員会設置者若しくは医薬品等製造販売業者（その製造販売をし、又はしようとする医薬品等が特定臨床研究に用いられる者に限る。第四十二条において同じ。）若しくはその特殊関係者に対して、必要な報告若しくは帳簿、書類その他の物件の提出を求め、又はその職員に、これらの者の事業場に立ち入り、その帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により職員が立ち入るときは、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35_2">
+          <ArticleCaption>（厚生科学審議会の意見の聴取）</ArticleCaption>
+          <ArticleTitle>第三十五条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、次に掲げる場合には、あらかじめ、厚生科学審議会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二条第一項の検査その他の行為を定める厚生労働省令又は同条第二項第二号ロ、ニ若しくはヘの厚生労働省令を制定し、又は改廃しようとするとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">臨床研究実施基準を定め、又は変更しようとするとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に規定する厚生労働大臣の権限は、厚生労働省令で定めるところにより、地方厚生局長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により地方厚生局長に委任された権限は、厚生労働省令で定めるところにより、地方厚生支局長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleCaption>（厚生労働省令への委任）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に規定するもののほか、この法律の実施のため必要な手続その他の事項は、厚生労働省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Num="39">
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十九条の規定による命令に違反した者は、三年以下の拘禁刑若しくは三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="40">
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十一条又は第二十八条の規定に違反して秘密を漏らした者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定臨床研究を実施する者が次の各号のいずれかに該当するときは、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第一項の規定に違反して、正当な理由がなくて実施計画を提出せず、又はこれに記載すべき事項を記載せず、若しくは虚偽の記載をしてこれを提出して、特定臨床研究を実施した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六条第一項の規定に違反して、正当な理由がなくて実施計画を提出せず、又はこれに記載すべき事項を記載せず、若しくは虚偽の記載をしてこれを提出して、特定臨床研究を実施した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の規定に違反して正当な理由がなくて記録の作成若しくは保存をしなかった者又は虚偽の記録を作成した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十条第二項の規定による命令に違反した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">正当な理由がなくて第三十五条第一項の規定による報告若しくは物件の提出をせず、若しくは虚偽の報告若しくは虚偽の物件の提出をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対し、答弁をせず、若しくは虚偽の答弁をした者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医薬品等製造販売業者又はその特殊関係者が、正当な理由がなくて第三十五条第一項の規定による報告若しくは物件の提出をせず、若しくは虚偽の報告若しくは虚偽の物件の提出をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対し、答弁をせず、若しくは虚偽の答弁をしたときは、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="43">
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人（法人でない団体で代表者又は管理人の定めのあるものを含む。以下この条において同じ。）の代表者若しくは管理人又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して第三十九条又は前二条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人でない団体について前項の規定の適用がある場合には、その代表者又は管理人が、その訴訟行為につき法人でない団体を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第四条、第五条及び第八条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後二年以内に、先端的な科学技術を用いる医療行為その他の必ずしも十分な科学的知見が得られていない医療行為についてその有効性及び安全性を検証するための措置について検討を加え、その結果に基づき、法制上の措置その他の必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年以内に、この法律の施行の状況、臨床研究を取り巻く状況の変化等を勘案し、この法律の規定に検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に特定臨床研究を実施している者が実施する当該特定臨床研究については、この法律の施行の日（以下「施行日」という。）から起算して一年を経過する日までの間（当該期間内に当該特定臨床研究の実施計画を提出した者については、当該提出の日までの間）は、第四条第二項及び第五条第一項の規定は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第九条及び第十二条の規定は、施行日以後に開始する特定臨床研究について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に第二十一条に規定する臨床研究を実施している者については、施行日から起算して一年を経過する日までの間は、同条の規定は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（施行前の準備）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、臨床研究実施基準を定めようとするときは、施行日前においても、厚生科学審議会の意見を聴くことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二十三条第一項の認定を受けようとする者は、施行日前においても、同条第二項及び第三項の規定の例により、その認定の申請をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の規定により第二十三条第一項の認定の申請があった場合においては、施行日前においても、同条第四項及び第二十四条の規定の例により、その認定をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、その認定は施行日において厚生労働大臣が行った第二十三条第一項の認定とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年一二月四日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定、第四条（覚<Ruby>せ<Rt>ヽ</Rt></Ruby><Ruby>い<Rt>ヽ</Rt></Ruby>剤取締法第九条第一項第二号の改正規定に限る。）の規定及び第六条の規定並びに次条、附則第五条、第六条、第八条、第十一条第二項、第十六条及び第二十条の規定、附則第二十二条（自衛隊法（昭和二十九年法律第百六十五号）第百十五条の五第二項の改正規定に限る。）の規定並びに附則第二十三条、第二十八条、第三十一条、第三十四条及び第三十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="38">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの法律の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月一四日法律第五一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第八条、第九条、第十二条及び第十三条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の施行の状況等を勘案し、必要があると認めるときは、この法律による改正後のそれぞれの法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（施行前の準備）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第二条の規定による改正後の臨床研究法第三十五条の二第一号に規定する厚生労働省令を定めようとするときは、施行日前においても、厚生科学審議会の意見を聴くことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
