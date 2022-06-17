@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Reiwa" Lang="ja" LawType="Act" Num="039" Year="03" PromulgateMonth="05" PromulgateDay="19"><LawNum>令和三年法律第三十九号</LawNum><LawBody><LawTitle Kana="よちょきんしゃのいしにもとづくこじんばんごうのりようによるよちょきんこうざのかんりとうにかんするほうりつ" Abbrev="" AbbrevKana="">預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　預貯金者の意思に基づく個人番号の利用による預貯金口座の管理</ChapterTitle>
+        <ArticleRange>（第三条―第六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　災害時又は相続時における預貯金口座に関する情報の提供</ChapterTitle>
+        <ArticleRange>（第七条―第九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　預金保険機構の業務の特例等</ChapterTitle>
+        <ArticleRange>（第十条―第十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <ArticleRange>（第十七条―第二十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第三十条―第三十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、デジタル社会形成基本法（令和三年法律第三十五号）第二章に定めるデジタル社会（同法第二条に規定するデジタル社会をいう。）の形成についての基本理念にのっとり、預貯金者の意思に基づく個人番号の利用による預貯金口座の管理に関する制度及び災害時又は相続時に預貯金者又はその相続人の求めに応じて預金保険機構が預貯金口座に関する情報を提供する制度を創設する等により、行政運営の効率化及び行政分野におけるより公正な給付と負担の確保に資するとともに、預貯金者の利益の保護を図ることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「金融機関」とは、預金保険法（昭和四十六年法律第三十四号）第二条第一項各号に掲げる者及び農水産業協同組合貯金保険法（昭和四十八年法律第五十三号）第二条第一項に規定する農水産業協同組合をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「預貯金」とは、預金保険法第二条第二項に規定する預金等及び農水産業協同組合貯金保険法第二条第二項に規定する貯金等をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「預貯金者」とは、預金保険法第二条第三項に規定する預金者等である個人及び農水産業協同組合貯金保険法第二条第三項に規定する貯金者等である個人をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「預貯金口座」とは、金融機関の営業所又は事務所（国内にあるものに限る。）に預貯金者の名義で開設され、又は設定されている預貯金の口座又は勘定をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　預貯金者の意思に基づく個人番号の利用による預貯金口座の管理</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（金融機関に対する申出等）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預貯金者は、特定の金融機関が管理する当該預貯金者を名義人とする全ての預貯金口座について、当該金融機関が個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第五項に規定する個人番号をいう。以下同じ。）を利用して管理することを希望する場合には、主務省令で定めるところにより、当該金融機関に対し、その旨の申出をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融機関は、預貯金契約（預貯金の受入れを内容とする契約をいう。）の締結その他主務省令で定める重要な取引を行おうとする場合には、預貯金者（預貯金者になろうとする者を含み、当該金融機関が個人番号を既に保有している者を除く。）に対し、次に掲げる事項を説明した上で、当該金融機関が管理する当該預貯金者を名義人とする全ての預貯金口座について当該金融機関が個人番号を利用して管理することを承諾するかどうかを確認しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">災害時又は相続時において、当該預貯金者の個人番号の利用により当該預貯金者又はその相続人が当該預貯金口座に関する情報の提供を受けることが可能となること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該預貯金者の個人番号は、所得税法（昭和四十年法律第三十三号）第二百二十五条第一項の規定による支払に関する調書の提出、生活保護法（昭和二十五年法律第百四十四号）第二十九条第一項の規定による報告、預金保険法第五十五条の二第二項の規定による資料の提出その他の法令の規定に基づく手続において当該預貯金者の預貯金口座を特定するために利用され得るものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融機関は、第一項の申出を受けた場合又は預貯金者が前項の規定による承諾をした場合には、主務省令で定める方法により、当該申出又は承諾をした預貯金者が本人であることを確認するため、本人特定事項（氏名、住所及び生年月日をいう。以下同じ。）その他当該預貯金者を特定するために必要な事項として主務省令で定めるものを確認しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、金融機関は、当該預貯金者に対し、個人番号の提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融機関は、前項後段の規定により当該預貯金者の個人番号の提供を受けることができなかった場合には、預金保険機構に対し、当該預貯金者の本人特定事項を通知し、当該預貯金者の個人番号の通知を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融機関は、第一項の申出を受けた場合又は預貯金者が第二項の規定による承諾をした場合には、当該預貯金者に対し、同項各号に掲げる事項を説明した上で、他の全ての又は特定の金融機関が管理する当該預貯金者を名義人とする全ての預貯金口座について当該他の全ての又は特定の金融機関が個人番号を利用して管理することを承諾するかどうかを確認しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、金融機関は、当該預貯金者が他の特定の金融機関について承諾したときは、当該他の特定の金融機関の名称を確認するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融機関は、預貯金者が前項の規定による承諾をした場合には、預金保険機構に対し、次に掲げる事項を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">他の全ての金融機関についての承諾か又は他の特定の金融機関についての承諾かの別及び他の特定の金融機関についての承諾であるときは、当該他の特定の金融機関の名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該預貯金者の本人特定事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三項後段の規定により当該預貯金者の個人番号の提供を受けたときは、当該個人番号</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他当該預貯金者を特定するために必要な事項として主務省令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（預金保険機構に対する申出）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預貯金者は、全ての又は特定の金融機関が管理する当該預貯金者を名義人とする全ての預貯金口座について、当該全ての又は特定の金融機関が個人番号を利用して管理することを希望する場合には、主務省令で定めるところにより、預金保険機構に対し、その旨の申出をすることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、預金保険機構は、当該預貯金者が特定の金融機関について希望したときは、当該特定の金融機関の名称を確認するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、前項の申出を受けた場合には、主務省令で定める方法により、当該申出をした預貯金者が本人であることを確認するため、当該預貯金者の本人特定事項その他当該預貯金者を特定するために必要な事項として主務省令で定めるものを確認しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、預金保険機構は、当該預貯金者に対し、個人番号の提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（預金保険機構による個人番号の通知）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、第三条第六項の規定による通知又は前条第一項の申出を受けた場合には、当該通知又は申出に係る金融機関に対し、当該預貯金者の本人特定事項を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による通知を受けた金融機関は、当該本人特定事項に係る預貯金者を名義人とする預貯金口座を管理しているかどうかについて、預金保険機構に対し、通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、前項の金融機関が当該預貯金者を名義人とする預貯金口座を管理しているときは、当該金融機関に対し、当該預貯金者の個人番号を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（個人番号の利用による預貯金口座の管理）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融機関は、第三条第三項後段の規定により個人番号の提供を受けた場合又は同条第四項若しくは前条第三項の規定により個人番号の通知を受けた場合には、政令で定めるところにより、当該個人番号に係る預貯金者を名義人とする預貯金口座について、当該預貯金者の本人特定事項その他預貯金の内容に関する事項であって主務省令で定めるものを当該個人番号により検索することができる状態で管理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融機関は、前項の規定による管理を開始したときは、主務省令で定めるところにより、当該預貯金口座について、当該預貯金者に対し、次に掲げる事項を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">金融機関及びその店舗の名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">預貯金の種別及び口座番号</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">名義人の氏名</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、金融機関は、当該預貯金口座について、預金保険機構に対し、同項各号に掲げる事項を通知し、当該事項の当該預貯金者への通知を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　災害時又は相続時における預貯金口座に関する情報の提供</ChapterTitle>
+        <Article Num="7">
+          <ArticleCaption>（災害時における預貯金口座に関する情報の提供）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">災害に際し災害救助法（昭和二十二年法律第百十八号）が適用された同法第二条第一項に規定する災害発生市町村の区域に当該災害が発生した日において居住していた預貯金者は、当該区域における同条に規定する救助の実施状況その他の事情を勘案して行政庁が定める日までの間、その指定する金融機関が管理する当該預貯金者を名義人とする全ての預貯金口座について、主務省令で定めるところにより、預金保険機構に対し、次に掲げる事項の通知を求めることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">金融機関の店舗の名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">預貯金の種別及び口座番号</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、前項の規定による求めを受けた場合には、主務省令で定める方法により、当該求めをした預貯金者が本人であることを確認するため、当該預貯金者の本人特定事項その他当該預貯金者を特定するために必要な事項として主務省令で定めるものを確認しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、預金保険機構は、当該預貯金者に対し、個人番号の提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、第一項の規定による求めを受けた場合には、当該求めをした預貯金者が指定する金融機関に対し、当該預貯金者の個人番号を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による通知を受けた金融機関は、当該個人番号に係る預貯金者を名義人とする預貯金口座を管理しているときは第一項各号に掲げる事項を、当該預貯金口座を管理していないときはその旨を、預金保険機構に対し、通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による通知を受けた預金保険機構は、主務省令で定めるところにより、当該預貯金者に対し、当該通知に係る事項を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（相続時における預貯金口座に関する情報の提供）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">相続人（包括受遺者を含む。以下この条において同じ。）は、主務省令で定めるところにより、預金保険機構に対し、全ての金融機関が管理する当該相続人の被相続人（包括遺贈者を含む。以下この条において同じ。）である預貯金者を名義人とする全ての預貯金口座について、次に掲げる事項の通知を求めることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">金融機関及びその店舗の名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">預貯金の種別及び口座番号</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、前項の規定による求めを受けた場合には、主務省令で定める方法により、当該求めをした相続人が本人であること及び当該預貯金者が当該相続人の被相続人であることを確認するため、当該相続人及び預貯金者の本人特定事項その他当該相続人及び預貯金者を特定するために必要な事項として主務省令で定めるもの並びに当該相続人及び預貯金者の身分関係（当該相続人が包括受遺者である場合にあっては、遺言の内容）を確認しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、第一項の規定による求めを受けた場合には、全ての金融機関に対し、当該求めをした相続人の被相続人である預貯金者の個人番号を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による通知を受けた金融機関は、当該個人番号に係る預貯金者を名義人とする預貯金口座を管理しているときは第一項各号に掲げる事項を、当該預貯金口座を管理していないときはその旨を、預金保険機構に対し、通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による通知を受けた預金保険機構は、主務省令で定めるところにより、第一項の規定による求めをした相続人に対し、当該通知に係る事項を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（預貯金者の本人特定事項及び個人番号の正確性の確保）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六条第一項の規定による管理をする金融機関は、預金保険機構に対し、同項に規定する預貯金者の本人特定事項及び個人番号を正確かつ最新の内容に保つために必要な情報の提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方税法（昭和二十五年法律第二百二十六号）第二十条の十一の二の規定により同条に規定する金融機関等が管理する同条に規定する預貯金者等情報に係る同条に規定する預貯金者等又は国税通則法（昭和三十七年法律第六十六号）第七十四条の十三の二の規定により同条に規定する金融機関等が管理する同条に規定する預貯金者等情報に係る同条に規定する預貯金者等については、前項の預貯金者とみなして、同項の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　預金保険機構の業務の特例等</ChapterTitle>
+        <Article Num="10">
+          <ArticleCaption>（預金保険機構の業務の特例）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、預金保険法第三十四条に規定する業務のほか、第一条の目的を達成するため、次の業務を行う。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第三項の規定による通知その他第二章の規定による業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第三項の規定による通知その他前章の規定による業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号における業務に附帯する業務</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（預金保険法等の適用）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律により預金保険機構の業務が行われる場合には、この法律の規定によるほか、預金保険法を適用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる同法の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とするほか、必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第十五条第五号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">事項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">事項（預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律（令和三年法律第三十九号。以下「口座管理法」という。）第十条の規定による業務に係るものを除く。）</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第四十四条、第四十五条第二項、第四十六条第一項及び第百五十二条第一号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">法律</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">法律又は口座管理法</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第五十一条第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">業務を</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">業務及び口座管理法第十条の規定による業務を</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第百三十九条第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">権限</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">権限（口座管理法第十一条第一項の規定により適用する第三十六条第一項及び口座管理法第十一条第一項の規定により読み替えて適用する第四十五条第二項の規定による権限にあつては、デジタル庁の所掌に係るものを除く。）</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第百五十二条第三号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">業務以外</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">業務及び口座管理法第十条の規定による業務以外</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の業務が行われる場合における預金保険機構の経理については、当該業務を公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律（令和三年法律第三十八号）第十二条第一項の規定による業務とみなして、同法第十四条の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（業務の委託）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、内閣総理大臣及び財務大臣の認可を受けて、金融機関に対し、第十条の規定による業務（第七条第一項及び第八条第一項の規定による求めの受付に係るものに限る。）の全部又は一部を委託するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、内閣総理大臣及び財務大臣の認可を受けて、金融機関に対し、第十条の規定による業務（第七条第一項及び第八条第一項の規定による求めの受付に係るものを除く。）の一部を委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融機関は、他の法律の規定にかかわらず、前二項の規定による委託を受け、当該業務を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険法第二十三条の規定は、第一項又は第二項の規定による委託を受けた金融機関の役員及び職員で、当該業務に従事するものについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（交付金）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、予算の範囲内において、預金保険機構に対し、第十条の規定による業務に要する費用の全部又は一部に相当する金額を交付することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（借入金）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、第十条の規定による業務を行うため必要があると認めるときは、政令で定める金額の範囲内において、内閣総理大臣及び財務大臣の認可を受けて、資金の借入れ（借換えを含む。）をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（手数料）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、第六条第三項、第七条第一項、第八条第一項及び第九条第一項（同条第二項の規定によりみなして適用する場合を含む。第十九条において同じ。）の規定による求めに係る事務に関し、預金保険機構が定める額の手数料を徴収することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、前項に規定する手数料の額を定め、又はこれを変更しようとするときは、内閣総理大臣及び財務大臣の認可を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（内閣府令・財務省令への委任）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三条に規定するもののほか、第十四条及び前条第二項の規定による認可に関する申請の手続その他前三条の規定を実施するため必要な事項は、内閣府令・財務省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <Article Num="17">
+          <ArticleCaption>（特定金融機関の特例）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定金融機関（その業務の内容その他の事情を勘案して第十九条の規定による送信を行うことが困難なものとして行政庁が定める金融機関をいう。）については、第三条第四項から第六項まで、第四条、第五条、第六条第三項及び前二章の規定は、適用しない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第三条第二項及び第六条第一項の規定の適用については、第三条第二項中「次に」とあるのは「第二号に」と、第六条第一項中「場合又は同条第四項若しくは前条第三項の規定により個人番号の通知を受けた場合」とあるのは「場合」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（連絡及び協力）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣及び財務大臣並びに行政庁は、この法律の施行に当たっては、相互に緊密に連絡し、及び協力しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（金融機関及び預金保険機構による通知等の方法）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三条第六項、第五条、第七条第三項及び第四項並びに第八条第三項及び第四項の規定による通知並びに第三条第四項、第六条第三項及び第九条第一項の規定による求めは、主務省令で定めるところにより、金融機関又は預金保険機構の使用に係る電子計算機（磁気ディスク（これに準ずる方法により一定の事項を確実に記録することができる物を含む。）及び入出力装置を含む。以下この条において同じ。）から電気通信回線を通じて相手方である預金保険機構又は金融機関の使用に係る電子計算機に送信することによって行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（報告又は資料の提出）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">行政庁は、この法律の施行に必要な限度において、金融機関に対しその業務に関して報告又は資料の提出を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（立入検査）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">行政庁は、この法律の施行に必要な限度において、当該職員に金融機関の営業所その他の施設に立ち入らせ、帳簿書類その他の物件を検査させ、又はその業務に関し関係人に質問させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により立入検査をする当該職員は、その身分を示す証明書を携帯し、関係人の請求があったときは、これを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（是正命令）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">行政庁は、金融機関がその業務に関して第三条第二項（第十七条の規定により読み替えて適用する場合を含む。）、第三項前段、第五項若しくは第六項、第五条第二項、第六条第一項（第十七条の規定により読み替えて適用する場合を含む。）若しくは第二項、第七条第四項又は第八条第四項の規定に違反していると認めるときは、当該金融機関に対し、当該違反を是正するため必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleCaption>（個人番号の利用による預貯金口座の管理に関する広報啓発）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、預金保険機構及び金融機関と協力して、個人番号の利用による預貯金口座の管理について国民一般の理解を高めるために必要な広報その他の啓発活動を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleCaption>（主務省令への委任）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律を実施するため必要な事項は、主務省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（行政庁）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律における行政庁は、次の各号に掲げる金融機関の区分に応じ、当該各号に定める者とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">銀行法（昭和五十六年法律第五十九号）第二条第一項に規定する銀行、長期信用銀行法（昭和二十七年法律第百八十七号）第二条に規定する長期信用銀行、信用金庫、信用協同組合、信用金庫連合会及び中小企業等協同組合法（昭和二十四年法律第百八十一号）第九条の九第一項第一号の事業を行う協同組合連合会</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">内閣総理大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">労働金庫及び労働金庫連合会</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">内閣総理大臣及び厚生労働大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">農業協同組合法（昭和二十二年法律第百三十二号）第十条第一項第三号の事業を行う農業協同組合及び農業協同組合連合会</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">同法第九十八条第一項に規定する行政庁</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">水産業協同組合法（昭和二十三年法律第二百四十二号）第十一条第一項第四号の事業を行う漁業協同組合、同法第八十七条第一項第四号の事業を行う漁業協同組合連合会、同法第九十三条第一項第二号の事業を行う水産加工業協同組合及び同法第九十七条第一項第二号の事業を行う水産加工業協同組合連合会</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">同法第百二十七条第一項に規定する行政庁</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">農林中央金庫</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">農林水産大臣及び内閣総理大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">株式会社商工組合中央金庫</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">株式会社商工組合中央金庫法（平成十九年法律第七十四号）第五十六条第二項に規定する主務大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、この法律による権限（金融庁の所掌に係るものに限る。）を金融庁長官に委任する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に規定する行政庁の権限に属する事務（この法律の規定により都道府県知事の権限に属することとされる事務を除く。）の一部は、政令で定めるところにより、都道府県知事が行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に規定するもののほか、この法律の規定による行政庁の権限の行使に関して必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（主務省令）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律における主務省令は、内閣府令・デジタル庁令・財務省令・厚生労働省令・農林水産省令・経済産業省令とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（事務の区分）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律（第二十六条第二項を除く。）の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Num="30">
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、一年以下の拘禁刑若しくは三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十条の規定による報告若しくは資料の提出をせず、又は虚偽の報告若しくは資料の提出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十一条第一項の規定による検査を拒み、妨げ、若しくは忌避し、又は同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十二条の規定による命令に違反した場合には、当該違反行為をした者は、六月以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前二条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第十一条、第十三条、第十四条、第十六条、第二十六条第一項、第二十七条及び第二十九条並びに次条から附則第四条まで、第九条及び第十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（準備行為）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">金融機関及び預金保険機構は、この法律の施行の日前においても、第十九条の規定による送信に使用する情報システムの整備に必要な準備行為をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第一号に掲げる規定の施行の日から同条第二号に掲げる規定の施行の日の前日までの間における第十一条第一項及び第二十七条の規定の適用については、同項の表中「デジタル庁」とあるのは「内閣府本府」と、同条中「内閣府令・デジタル庁令・財務省令・厚生労働省令・農林水産省令・経済産業省令」とあるのは「内閣府令・財務省令・厚生労働省令・農林水産省令・経済産業省令」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第一号に掲げる規定の施行の日からこの法律の施行の日の前日までの間における第十一条第一項、第十三条及び第十四条の規定の適用については、これらの規定中「第十条の規定による」とあるのは、「附則第二条の規定による準備行為に関する」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第一号に掲げる規定の施行の日から公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律附則第一条第三号に掲げる規定の施行の日の前日までの間における第十一条第二項の規定の適用については、同項中「第十二条第一項の規定による」とあるのは、「附則第二条の規定による準備行為に関する」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二条に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後三年を目途として、この法律の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて、国民の理解を得つつ、所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一〇日法律第三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十七条（第五号に係る部分に限る。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律（令和三年法律第三十九号）の公布の日又はこの法律の施行の日（附則第八条において「施行日」という。）のいずれか遅い日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
