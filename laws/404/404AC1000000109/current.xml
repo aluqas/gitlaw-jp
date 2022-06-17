@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="109" Year="04" PromulgateMonth="12" PromulgateDay="24"><LawNum>平成四年法律第百九号</LawNum><LawBody><LawTitle Kana="こっかいとうのいてんにかんするほうりつ" Abbrev="国会移転法" AbbrevKana="こ">国会等の移転に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCPreambleLabel>前文</TOCPreambleLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　基本指針</ChapterTitle>
+        <ArticleRange>（第三条―第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　国会等移転審議会</ChapterTitle>
+        <ArticleRange>（第十二条―第二十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　移転に関する決定</ChapterTitle>
+        <ArticleRange>（第二十二条・第二十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　候補地の選定に伴う土地投機対策</ChapterTitle>
+        <ArticleRange>（第二十四条・第二十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <Preamble>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">我が国は、国民のたゆみない努力により今次の大戦による荒廃の中から立ち上がり、かつてない経済的繁栄を築き上げてきた。そして今日、精神的充足を求める気運の増大、多様な地域文化をはぐくむことや全世界との連携を強化することについての認識の高まりに見られるように、時代は大きく変わろうとしている。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">しかるに、我が国の現状は、政治、経済、文化等の中枢機能が東京圏に過度に集中したことにより、人口の過密、地価の高騰、生活環境の悪化、大規模災害時における危険の増大等の問題が深刻化する一方で、地方における過疎、経済的停滞、文化の画一化等の問題が生じるに至っている。これらの諸問題は、単に国土の適正な利用を図るという観点からのみでなく、時代の変化に対応した新しい社会を築く上で、大きな<Ruby>桎梏<Rt>しつこく</Rt></Ruby>となっている。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">とりわけ、阪神・淡路大震災による未<Ruby>曾<Rt>ぞ</Rt></Ruby>有の被害の発生により、大規模災害時において災害対策の中枢機能を確保することの重要性について改めて認識したところである。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">このような状況にかんがみ、一極集中を排除し、多極分散型国土の形成に資するとともに、地震等の大規模災害に対する<Ruby>脆<Rt>ぜい</Rt></Ruby>弱性を克服するため、世界都市としての東京都の整備に配慮しつつ、国会等の東京圏外への移転の具体化について積極的に検討を進めることは、我が国が新しい社会を建設するため、極めて緊要なことである。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">もとより、国会等の移転のみで問題が解決するものではなく、これと併せ、地方分権その他の行財政の改革等を推進することにより、自主的で創造的な地域社会の実現を図っていくことが肝要であり、また国会等の移転をそのような改革の契機として活用していくことが重要であると確信する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">ここに、国会等の移転を目指して、その具体化の推進のために積極的な検討を行うべきことを明らかにし、そのための国の責務、基本指針、移転先候補地の選定体制等について定めるため、この法律を制定する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </Preamble>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（国の責務）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、国会並びにその活動に関連する行政に関する機能及び司法に関する機能のうち中枢的なもの（以下「国会等」という。）の東京圏以外の地域への移転（以下「国会等の移転」という。）の具体化に向けて積極的な検討を行う責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「多極分散型国土」とは、多極分散型国土形成促進法（昭和六十三年法律第八十三号）第一条に規定する多極分散型国土をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「東京圏」とは、多極分散型国土形成促進法第二十二条第一項に規定する東京圏をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　基本指針</ChapterTitle>
+        <Article Num="3">
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、国会等の移転について検討を行うに当たっては、広く国民の意見を聴き、その合意形成を図るとともに、この章に定めるところにより、広範かつ多角的にこれを行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方分権の総合的かつ計画的な推進、行政の各般にわたる民間活動に係る規制の改善の推進、行政の制度及び運営の改善の推進等行財政の抜本的な改革と的確に関連付けるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国会等の移転と多極分散型国土の形成の促進に関する施策との一体性を確保するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済及び文化における国際的中枢機能並びに良好な居住環境等を備える都市としての東京都の整備との調和を図るとともに、国会等の移転先（以下「移転先」という。）の新都市と東京都との機能面での連携を確保するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">移転先について、災害に対する安全性、地形の良好性、水の供給の安定性、交通の利便性、土地取得の容易性等の条件を配慮するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">移転先の新都市が、交通通信体系の整備等により、世界及び我が国の各地域との交流が容易であり、かつ、自然環境と調和し、良好な居住環境等を備えた都市となるようにするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国会等の移転の計画は、社会経済情勢の変化に弾力的に対応することができる段階的なものとするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">移転先の新都市の整備に際し、適切な土地対策を講じるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地震等の大規模災害に対処する上での緊急性、東京都の災害対策の充実等に配慮するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　国会等移転審議会</ChapterTitle>
+        <Article Num="12">
+          <ArticleCaption>（国会等移転審議会の設置）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣府に、国会等移転審議会（以下「審議会」という。）を置く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（所掌事務等）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審議会は、内閣総理大臣の諮問に応じ、移転先の候補地（以下「候補地」という。）の選定及びこれに関連する事項について調査審議する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の諮問に対する答申を受けたときは、これを国会に報告するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（国会等移転調査会の報告の取扱い）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審議会は、国会等移転調査会の報告及びこれに関する国会の審議を踏まえ、調査審議するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（組織）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審議会は、委員二十人以内で組織する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">委員は、国会等の移転に関し、行財政改革を含めた各分野において優れた識見を有する者のうちから、両議院の同意を得て、内閣総理大臣が任命する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、国会の閉会又は衆議院の解散のために両議院の同意を得ることができないときは、内閣総理大臣は、同項の規定にかかわらず、同項に定める資格を有する者のうちから、委員を任命することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合においては、任命後最初の国会で両議院の事後の承認を得なければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、両議院の事後の承認が得られないときは、内閣総理大臣は、直ちにその委員を罷免しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">委員の任期は、二年とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、補欠の委員の任期は、前任者の残任期間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、委員が破産手続開始の決定を受け、又は拘禁刑以上の刑に処せられたときは、その委員を罷免しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、委員が心身の故障のため職務の執行ができないと認めるとき、又は委員に職務上の義務違反その他委員たるに適しない非行があると認めるときは、両議院の同意を得て、その委員を罷免することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">委員は、職務上知ることができた秘密を漏らしてはならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">その職を退いた後も同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">委員は、非常勤とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（会長）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審議会に、会長を置き、委員の互選によりこれを定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">会長は、会務を総理し、審議会を代表する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">会長に事故があるときは、あらかじめその指名する委員が、その職務を代理する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（専門委員）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審議会に、専門の事項を調査審議させるため、専門委員を置くことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">専門委員は、学識経験のある者のうちから、内閣総理大臣が任命する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">専門委員は、当該専門の事項に関する調査審議が終了したときは、解任されるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">専門委員は、非常勤とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（幹事）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審議会に、幹事を置く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">幹事は、学識経験のある者及び関係機関の職員のうちから、内閣総理大臣が任命する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">幹事は、審議会の所掌事務について、委員を補佐する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">幹事は、非常勤とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（協力依頼等）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審議会は、その所掌事務を遂行するため必要があると認めるときは、関係機関に対して、資料の提出、意見の開陳、説明その他の必要な協力を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審議会は、その所掌事務を遂行するため必要があると認めるときは、現地調査を行うことができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、あらかじめ、当該現地調査を行おうとする区域の全部又は一部をその区域に含む地方公共団体の長に通知して、その意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審議会は、その所掌事務を遂行するため必要があると認めるときは、公聴会を開くことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（事務局）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審議会の事務を処理させるため、審議会に、事務局を置く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事務局に、事務局長のほか、所要の職員を置く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事務局長は、内閣官房副長官をもって充てる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事務局長は、会長の命を受けて、局務を掌理する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（政令への委任）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、審議会に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　移転に関する決定</ChapterTitle>
+        <Article Num="22">
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審議会の答申が行われたときは、国民の合意形成の状況、社会経済情勢の諸事情に配慮し、東京都との比較考量を通じて、移転について検討されるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">移転を決定する場合には、第十三条第二項の規定による報告を踏まえ、移転先について別に法律で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　候補地の選定に伴う土地投機対策</ChapterTitle>
+        <Article Num="24">
+          <ArticleCaption>（監視区域の指定の特例）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事又は地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市の長は、第十九条第二項に規定する現地調査を行う区域又は候補地の区域（次条において「候補地等の区域」という。）のうち、地価が急激に上昇し、又は上昇するおそれがあり、これによって適正かつ合理的な土地利用の確保が困難となるおそれがあると認められる区域を、国土利用計画法（昭和四十九年法律第九十二号）第二十七条の六第一項の規定により監視区域として指定するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（規制区域に関する配慮）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、候補地等の区域における国土利用計画法の規定による規制区域に関する事務が円滑に行われるよう適切な財政上の配慮に努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成八年六月二六日法律第一〇六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（土地取引の規制に関する検討）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">移転先の新都市の整備については、当該移転先における土地の投機的取引及び地価の高騰が移転先の新都市の整備に及ぼす弊害を除去し、かつ、適正かつ合理的な土地利用の確保を図るための土地取引の実効ある規制について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一〇年六月二日法律第八六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日等）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第一〇二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十条第一項及び第五項、第十四条第三項、第二十三条、第二十八条並びに第三十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（国会等の移転に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に従前の総理府の国会等移転審議会の委員である者は、この法律の施行の日に、第二十五条の規定による改正後の国会等の移転に関する法律（以下この条において「新国会等移転法」という。）第十五条第二項の規定により、内閣府の国会等移転審議会の委員として任命されたものとみなす。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、その任命されたものとみなされる者の任期は、新国会等移転法第十五条第五項の規定にかかわらず、同日における従前の総理府の国会等移転審議会の委員としての任期の残任期間と同一の期間とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に従前の総理府の国会等移転審議会の会長である者は、この法律の施行の日に、新国会等移転法第十六条第一項の規定により、内閣府の国会等移転審議会の会長として定められたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に従前の総理府の国会等移転審議会の専門委員である者は、この法律の施行の日に、新国会等移転法第十七条第二項の規定により、内閣府の国会等移転審議会の専門委員として任命されたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（別に定める経過措置）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条から前条までに規定するもののほか、この法律の施行に伴い必要となる経過措置は、別に法律で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、破産法（平成十六年法律第七十五号。次条第八項並びに附則第三条第八項、第五条第八項、第十六項及び第二十一項、第八条第三項並びに第十三条において「新破産法」という。）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
