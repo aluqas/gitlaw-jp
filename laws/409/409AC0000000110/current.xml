@@ -1,0 +1,2655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Heisei" Year="09" Num="110" PromulgateMonth="12" PromulgateDay="5" LawType="Act"><LawNum>平成九年法律第百十号</LawNum>
+  
+  <LawBody>
+    <LawTitle Kana="ないこくぜいのてきせいなかぜいのかくほをはかるためのこくがいそうきんとうにかかるちょうしょのていしゅつとうにかんするほうりつ" Abbrev="国外送金法" AbbrevKana="こ">内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　国外送金等に係る告知書及び調書の提出等</ChapterTitle>
+        <ArticleRange>（第三条・第四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2_2">
+        <ChapterTitle>第二章の二　国外証券移管等に係る告知書及び調書の提出等</ChapterTitle>
+        <ArticleRange>（第四条の二・第四条の三）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2_3">
+        <ChapterTitle>第二章の三　国外電子決済手段移転等に係る告知書及び調書の提出等</ChapterTitle>
+        <ArticleRange>（第四条の四・第四条の五）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　国外財産に係る調書の提出等</ChapterTitle>
+        <ArticleRange>（第五条・第六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3_2">
+        <ChapterTitle>第三章の二　財産債務に係る調書の提出等</ChapterTitle>
+        <ArticleRange>（第六条の二・第六条の三）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第七条・第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <ArticleRange>（第九条―第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、納税義務者の外国為替その他の対外取引並びに財産及び債務の国税当局による把握に資するため、国外送金等に係る調書の提出等に関する制度を整備し、もって所得税、法人税、相続税その他の内国税の適正な課税の確保を図ることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国内</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">この法律の施行地をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">この法律の施行地外の地域をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">金融機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">銀行その他の政令で定める金融機関をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外送金</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">金融機関が行う為替取引によってされる国内から国外へ向けた支払（輸入貨物に係る荷為替手形その他の財務省令で定める書類に基づく取立てによるものを除く。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外からの送金等の受領</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">金融機関が行う為替取引によってされる国外から国内へ向けた支払の受領（輸出貨物に係る荷為替手形その他の財務省令で定める書類に基づく取立てによるものを除く。）又は金融機関が行う小切手、為替手形その他これらに準ずるもの（国外において支払がされるものに限る。）の買取りに係る対価の受領（輸出貨物に係る荷為替手形その他の財務省令で定める書類の買取りに係るものを除く。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">本人口座</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">金融機関の営業所又は事務所（国内にあるものに限る。以下「営業所等」という。）に本人の名義で開設され、又は設定されている預金若しくは貯金の口座又は勘定で、当該金融機関の営業所等の長が、政令で定めるところによりその本人の氏名又は名称、住所（国内に住所を有しない者にあっては、財務省令で定める場所。以下この号、第十三号及び第二十号において同じ。）及び個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第五項に規定する個人番号をいう。以下同じ。）又は法人番号（同条第十六項に規定する法人番号をいう。以下同じ。）（個人番号及び法人番号を有しない者にあっては、氏名又は名称及び住所。第十三号及び第二十号において同じ。）を確認しているものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">金融商品取引業者等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">金融商品取引法（昭和二十三年法律第二十五号）第二条第九項に規定する金融商品取引業者（同法第二十八条第一項に規定する第一種金融商品取引業を行う者に限る。）、同法第二条第十一項に規定する登録金融機関又は投資信託及び投資法人に関する法律（昭和二十六年法律第百九十八号）第二条第十一項に規定する投資信託委託会社（国外においてこれらの者と同種類の業務を行う者を含む。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">有価証券</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">金融商品取引法第二条第一項に規定する有価証券その他これに準ずるもので政令で定めるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国内証券口座</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">金融商品取引業者等の営業所等に開設される有価証券の振替口座簿（社債、株式等の振替に関する法律（平成十三年法律第七十五号）に規定する振替口座簿をいう。第四条の二第二項において同じ。）への記載若しくは記録又は保管の委託に係る口座をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外証券口座</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">金融商品取引業者等の営業所、事務所その他これらに類するもの（国外にあるものに限る。）に開設される国内証券口座に類する口座をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外証券移管</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">金融商品取引業者等が顧客の依頼に基づいて行う国内証券口座から国外証券口座への有価証券の移管をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外証券受入れ</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">金融商品取引業者等が顧客の依頼に基づいて行う国外証券口座から国内証券口座への有価証券の受入れをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">本人証券口座</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">本人の名義で開設されている国内証券口座で、その国内証券口座を開設されている金融商品取引業者等の営業所等の長が、政令で定めるところによりその本人の氏名又は名称、住所及び個人番号又は法人番号を確認しているものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">電子決済手段等取引業者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">資金決済に関する法律（平成二十一年法律第五十九号）第二条第十二項に規定する電子決済手段等取引業者（国外において当該電子決済手段等取引業者と同種類の業務を行う者及び同法第六十二条の八第二項の規定により電子決済手段等取引業者とみなされる者を含む。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="15">
+              <ItemTitle>十五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">電子決済手段</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">資金決済に関する法律第二条第五項に規定する電子決済手段をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="16">
+              <ItemTitle>十六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国内電子決済手段勘定</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">電子決済手段等取引業者の営業所等に設定される電子決済手段の管理に係る勘定をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="17">
+              <ItemTitle>十七</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外電子決済手段勘定</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">電子決済手段等取引業者の営業所、事務所その他これらに類するもの（国外にあるものに限る。）に設定される国内電子決済手段勘定に類する勘定をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="18">
+              <ItemTitle>十八</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外電子決済手段移転</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">電子決済手段等取引業者が顧客の依頼に基づいて行う国内電子決済手段勘定から国外電子決済手段勘定への電子決済手段の移転をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="19">
+              <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外電子決済手段受入れ</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">電子決済手段等取引業者が顧客の依頼に基づいて行う国外電子決済手段勘定から国内電子決済手段勘定への電子決済手段の受入れをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="20">
+              <ItemTitle>二十</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">本人電子決済手段勘定</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">本人の名義で設定されている国内電子決済手段勘定で、その国内電子決済手段勘定を設定されている電子決済手段等取引業者の営業所等の長が、政令で定めるところによりその本人の氏名又は名称、住所及び個人番号又は法人番号を確認しているものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="21">
+              <ItemTitle>二十一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外財産</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国外にある財産をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="22">
+              <ItemTitle>二十二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">修正申告書</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国税通則法（昭和三十七年法律第六十六号）第十九条第三項に規定する修正申告書をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="23">
+              <ItemTitle>二十三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">期限後申告書</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国税通則法第十八条第二項に規定する期限後申告書をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="24">
+              <ItemTitle>二十四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">更正</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国税通則法第二十四条又は第二十六条の規定による更正をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="25">
+              <ItemTitle>二十五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">決定</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国税通則法第二十五条の規定による決定をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　国外送金等に係る告知書及び調書の提出等</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（国外送金等をする者の告知書の提出等）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国外送金又は国外からの送金等の受領をする者（法人税法（昭和四十年法律第三十四号）別表第一に掲げる法人、銀行、金融商品取引業者その他の政令で定めるもの（次条第一項において「公共法人等」という。）を除く。）は、その国外送金又は国外からの送金等の受領（以下「国外送金等」という。）がそれぞれ特定送金又は特定受領に該当する場合を除き、次の各号に掲げる場合の区分に応じ当該各号に定める事項を記載した告知書を、その国外送金等をする際、その国外送金等に係る為替取引又は買取り（前条第五号に規定する買取りをいう。以下この項において同じ。）に係る金融機関の営業所等（以下この条において「国外送金等に係る金融機関の営業所等」という。）の長に対し（当該国外送金等に係る為替取引又は買取りが当該国外送金等に係る金融機関の営業所等以外の金融機関の営業所等の長による取次ぎその他の政令で定める行為に基づいて行われる場合には、当該行為をする金融機関の営業所等の長（以下「取次ぎ等に係る金融機関の営業所等の長」という。）を経由して、当該国外送金等に係る金融機関の営業所等の長に対し）提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該告知書の提出をする者は、当該告知書の提出をする金融機関の営業所等の長（取次ぎ等に係る金融機関の営業所等の長を経由して当該告知書の提出をする場合には、当該取次ぎ等に係る金融機関の営業所等の長。以下この項において同じ。）にその者の住民票の写し、法人の登記事項証明書その他の政令で定める書類を提示し、又は署名用電子証明書等（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第三条第一項に規定する署名用電子証明書その他の電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。第六条第七項及び第七条第一項において同じ。）であって財務省令で定めるものをいう。以下この項、第四条の二第一項及び第四条の四第一項において同じ。）を送信しなければならないものとし、当該告知書の提出を受ける金融機関の営業所等の長は、当該告知書に記載されている氏名又は名称、住所（国内に住所を有しない者にあっては、財務省令で定める場所。以下第四条の五第一項までにおいて同じ。）及び個人番号又は法人番号（個人番号及び法人番号を有しない者その他政令で定める者にあっては、氏名又は名称及び住所。以下この項、第四条の二第一項及び第四条の四第一項において同じ。）を当該書類又は署名用電子証明書等により確認しなければならないものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外送金をする場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その者の氏名又は名称、住所及び個人番号又は法人番号、当該国外送金の原因となる取引又は行為の内容（次条第一項第一号において「送金原因」という。）その他の財務省令で定める事項</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外からの送金等の受領をする場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その者の氏名又は名称、住所及び個人番号又は法人番号その他の財務省令で定める事項</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する特定送金とは第一号に掲げる国外送金をいい、同項に規定する特定受領とは第二号に掲げる国外からの送金等の受領をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その国外送金をする者の本人口座からの振替によりされる国外送金その他これに準ずる国外送金として政令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その国外からの送金等の受領をする者の本人口座においてされる国外からの送金等の受領その他これに準ずる国外からの送金等の受領として政令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項前段の場合において、同項の告知書が取次ぎ等に係る金融機関の営業所等の長に受理されたときは、当該告知書は、その受理された時に国外送金等に係る金融機関の営業所等の長に提出されたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、第一項の告知書の提出の特例その他同項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（国外送金等調書の提出）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融機関は、その顧客（公共法人等を除く。以下この項において同じ。）が当該金融機関の営業所等を通じてする国外送金等（その金額が政令で定める金額以下のものを除く。）に係る為替取引を行ったときは、その国外送金等ごとに次の各号に掲げる場合の区分に応じ当該各号に定める事項を記載した調書（以下「国外送金等調書」という。）を、その為替取引を行った日として財務省令で定める日の属する月の翌月末日までに、当該為替取引に係る金融機関の営業所等の所在地の所轄税務署長に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外送金の場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その国外送金をした顧客の氏名又は名称、当該顧客の住所、その国外送金をした金額、その国外送金に係る前条第一項の告知書に記載されている送金原因その他の財務省令で定める事項</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国外からの送金等の受領の場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その国外からの送金等の受領をした顧客の氏名又は名称、当該顧客の住所（国外からの送金等の受領がその者の本人口座においてされた場合には、住所又は当該本人口座が開設されている金融機関の営業所等の名称及び所在地並びに当該本人口座の種類及び番号）、その国外からの送金等の受領をした金額その他の財務省令で定める事項</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国外送金等調書を提出すべき金融機関のうち、当該国外送金等調書の提出期限の属する年の前々年の一月一日から十二月三十一日までの間に提出すべきであった国外送金等調書の枚数として財務省令で定めるところにより算出した数が百以上であるものは、前項の規定にかかわらず、その者が国外送金等調書に記載すべきものとされる同項に規定する事項（以下この条において「記載事項」という。）を次に掲げる方法のいずれかにより同項に規定する税務署長に提供しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">財務省令で定めるところによりあらかじめ税務署長に届け出て行う電子情報処理組織（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第六条第一項に規定する電子情報処理組織をいう。）を使用する方法として財務省令で定める方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該記載事項を記録した光ディスクその他の財務省令で定める記録用の媒体（以下この条において「光ディスク等」という。）を提出する方法</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国外送金等調書を提出すべき金融機関（前項の規定に該当する者を除く。）は、その者が提出すべき国外送金等調書の記載事項を記録した光ディスク等の提出をもって当該国外送金等調書の提出に代えることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国外送金等調書を提出すべき金融機関が、政令で定めるところにより所轄の税務署長（第一項に規定する税務署長をいう。）の承認を受けた場合には、当該金融機関は、同項及び第二項の規定にかかわらず、同項各号に掲げる方法のいずれかの方法により、当該国外送金等調書の記載事項を財務省令で定める税務署長に提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項又は前項の規定により行われた記載事項の提供及び第三項の規定により行われた光ディスク等の提出については、第一項の規定により国外送金等調書の提出が行われたものとみなして、この法律の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項から前項までに定めるもののほか、国外送金等調書の提出の特例その他第一項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2_2">
+        <ChapterTitle>第二章の二　国外証券移管等に係る告知書及び調書の提出等</ChapterTitle>
+        <Article Num="4_2">
+          <ArticleCaption>（国外証券移管等をする者の告知書の提出等）</ArticleCaption>
+          <ArticleTitle>第四条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融商品取引業者等の営業所等の長にその有する有価証券の国外証券移管又は国外証券受入れの依頼をする者（法人税法別表第一に掲げる法人その他の政令で定めるもの（次条第一項において「別表法人等」という。）を除く。）は、その国外証券移管又は国外証券受入れ（以下「国外証券移管等」という。）がそれぞれ特定移管又は特定受入れに該当する場合を除き、その者の氏名又は名称、住所及び個人番号又は法人番号その他の財務省令で定める事項を記載した告知書を、その国外証券移管等の依頼をする際、当該金融商品取引業者等の営業所等の長に対し提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該告知書の提出をする者は、当該告知書の提出をする金融商品取引業者等の営業所等の長に第三条第一項に規定する政令で定める書類を提示し、又は署名用電子証明書等を送信しなければならないものとし、当該告知書の提出を受ける金融商品取引業者等の営業所等の長は、当該告知書に記載されている氏名又は名称、住所及び個人番号又は法人番号を当該書類又は署名用電子証明書等により確認しなければならないものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する特定移管とは第一号に掲げる国外証券移管をいい、同項に規定する特定受入れとは第二号に掲げる国外証券受入れをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その国外証券移管を依頼する者の本人証券口座に係る振替口座簿に記載若しくは記録がされ、又は当該本人証券口座に保管の委託がされている有価証券についてされる国外証券移管</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その国外証券受入れを依頼する者の本人証券口座に係る振替口座簿に記載若しくは記録がされ、又は当該本人証券口座に保管の委託がされることとなる有価証券についてされる国外証券受入れ</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の告知書の提出の特例その他同項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4_3">
+          <ArticleCaption>（国外証券移管等調書の提出）</ArticleCaption>
+          <ArticleTitle>第四条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融商品取引業者等は、その顧客（別表法人等を除く。以下この項において同じ。）からの依頼により国外証券移管等をしたときは、その国外証券移管等ごとに、その顧客の氏名又は名称、住所及び個人番号又は法人番号、その国外証券移管等をした有価証券の種類及び銘柄その他の財務省令で定める事項を記載した調書（以下「国外証券移管等調書」という。）を、その国外証券移管等をした日の属する月の翌月末日までに、当該国外証券移管等を行った金融商品取引業者等の営業所等の所在地の所轄税務署長に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四条第二項から第五項までの規定は、国外証券移管等調書を提出すべき金融商品取引業者等について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、第一項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2_3">
+        <ChapterTitle>第二章の三　国外電子決済手段移転等に係る告知書及び調書の提出等</ChapterTitle>
+        <Article Num="4_4">
+          <ArticleCaption>（国外電子決済手段移転等をする者の告知書の提出等）</ArticleCaption>
+          <ArticleTitle>第四条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">電子決済手段等取引業者の営業所等の長にその有する電子決済手段の国外電子決済手段移転又は国外電子決済手段受入れの依頼をする者（法人税法別表第一に掲げる法人その他の政令で定めるもの（次条第一項において「別表法人等」という。）を除く。）は、その国外電子決済手段移転又は国外電子決済手段受入れ（以下「国外電子決済手段移転等」という。）がそれぞれ特定移転又は特定受入れに該当する場合を除き、その者の氏名又は名称、住所及び個人番号又は法人番号その他の財務省令で定める事項を記載した告知書を、その国外電子決済手段移転等の依頼をする際、当該電子決済手段等取引業者の営業所等の長に対し提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該告知書の提出をする者は、当該告知書の提出をする電子決済手段等取引業者の営業所等の長に第三条第一項に規定する政令で定める書類を提示し、又は署名用電子証明書等を送信しなければならないものとし、当該告知書の提出を受ける電子決済手段等取引業者の営業所等の長は、当該告知書に記載されている氏名又は名称、住所及び個人番号又は法人番号を当該書類又は署名用電子証明書等により確認しなければならないものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する特定移転とは第一号に掲げる国外電子決済手段移転をいい、同項に規定する特定受入れとは第二号に掲げる国外電子決済手段受入れをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その国外電子決済手段移転を依頼する者の本人電子決済手段勘定で管理がされている電子決済手段についてされる国外電子決済手段移転</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その国外電子決済手段受入れを依頼する者の本人電子決済手段勘定で管理がされることとなる電子決済手段についてされる国外電子決済手段受入れ</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の告知書の提出の特例その他同項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4_5">
+          <ArticleCaption>（国外電子決済手段移転等調書の提出）</ArticleCaption>
+          <ArticleTitle>第四条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">電子決済手段等取引業者は、その顧客（別表法人等を除く。以下この項において同じ。）からの依頼により国外電子決済手段移転等（その国外電子決済手段移転等をした電子決済手段の価額が政令で定める金額以下のものを除く。）をしたときは、その国外電子決済手段移転等ごとに、その顧客の氏名又は名称、住所及び個人番号又は法人番号、その国外電子決済手段移転等をした電子決済手段の種類その他の財務省令で定める事項を記載した調書（以下「国外電子決済手段移転等調書」という。）を、その国外電子決済手段移転等をした日の属する月の翌月末日までに、当該国外電子決済手段移転等を行った電子決済手段等取引業者の営業所等の所在地の所轄税務署長に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四条第二項から第五項までの規定は、国外電子決済手段移転等調書を提出すべき電子決済手段等取引業者について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、第一項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　国外財産に係る調書の提出等</ChapterTitle>
+        <Article Num="5">
+          <ArticleCaption>（国外財産調書の提出）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">居住者（所得税法（昭和四十年法律第三十三号）第二条第一項第三号に規定する居住者をいい、同項第四号に規定する非永住者を除く。次条第七項において同じ。）は、その年の十二月三十一日においてその価額の合計額が五千万円を超える国外財産を有する場合には、財務省令で定めるところにより、その者の氏名、住所又は居所及び個人番号並びに当該国外財産の種類、数量及び価額その他必要な事項を記載した調書（以下「国外財産調書」という。）を、その年の翌年の六月三十日までに、次の各号に掲げる者の区分に応じ当該各号に定める場所の所轄税務署長に提出しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同日までに当該国外財産調書を提出しないで死亡し、又は同法第二条第一項第四十二号に規定する出国をしたときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">その年分の所得税の納税義務がある者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その者の所得税の納税地</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げる者以外の者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その者の住所地（国内に住所がないときは、居所地）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">相続の開始の日の属する年（以下この項、次条及び第六条の二において「相続開始年」という。）の十二月三十一日においてその価額の合計額が五千万円を超える国外財産を有する相続人（遺贈（贈与をした者の死亡により効力を生ずる贈与を含む。以下同じ。）により財産を取得した者を含む。次条及び第六条の二において同じ。）は、相続開始年の年分の国外財産調書については、その相続又は遺贈により取得した国外財産（次条第三項から第五項までにおいて「相続国外財産」という。）を除外したところにより、前項の規定を適用することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同項中「国外財産を」とあるのは、「国外財産（次項に規定する相続国外財産（同項に規定する相続開始年に取得したものに限る。）を除く。）を」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、国外財産の所在及び価額に関する事項その他第一項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（国外財産に係る過少申告加算税又は無申告加算税の特例）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国外財産に関して生ずる所得で政令で定めるものに対する所得税（以下この条において「国外財産に係る所得税」という。）又は国外財産に対する相続税に関し修正申告書若しくは期限後申告書の提出又は更正若しくは決定（以下この条及び第六条の三において「修正申告等」という。）があり、国税通則法第六十五条又は第六十六条の規定の適用がある場合において、提出期限（前条第一項の提出期限をいう。以下この条において同じ。）内に税務署長に提出された国外財産調書に当該修正申告等の基因となる国外財産についての同項の規定による記載があるときは、同法第六十五条又は第六十六条の過少申告加算税の額又は無申告加算税の額は、これらの規定にかかわらず、これらの規定により計算した金額から当該過少申告加算税の額又は無申告加算税の額の計算の基礎となるべき税額（その税額の計算の基礎となるべき事実で当該修正申告等の基因となる国外財産に係るもの以外のもの又は隠蔽し、若しくは仮装されたもの（以下この項において「国外財産に係るもの以外の事実等」という。）があるときは、当該国外財産に係るもの以外の事実等に基づく税額として政令で定めるところにより計算した金額を控除した税額。第三項において同じ。）に百分の五の割合を乗じて計算した金額を控除した金額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の国外財産調書は、次の各号に掲げる場合の区分に応じ当該各号に定める国外財産調書とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前項の修正申告等が所得税に関するものである場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該修正申告等に係る年分の国外財産調書（当該年分のその年の中途において当該修正申告等の基因となる国外財産を有しないこととなった場合における当該国外財産にあっては、当該年分の前年分の国外財産調書）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前項の修正申告等が相続税に関するものである場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる国外財産調書のいずれか</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該相続税に係る被相続人（遺贈をした者を含む。イ及び第四項第二号イにおいて同じ。）の相続開始年の前年分の国外財産調書（被相続人がその提出期限までに相続開始年の前年分の国外財産調書を提出しないで死亡した場合にあっては、被相続人の相続開始年の前々年分の国外財産調書）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該相続税に係る相続人の相続開始年の年分の国外財産調書</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該相続税に係る相続人の相続開始年の翌年分の国外財産調書</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国外財産に係る所得税又は国外財産に対する相続税に関し修正申告等（死亡した者に係るものを除く。）があり、国税通則法第六十五条又は第六十六条の規定の適用がある場合において、次に掲げる場合のいずれかに該当するときは、これらの規定の過少申告加算税の額又は無申告加算税の額は、これらの規定にかかわらず、これらの規定により計算した金額に、当該過少申告加算税の額又は無申告加算税の額の計算の基礎となるべき税額に百分の五の割合を乗じて計算した金額を加算した金額とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項（同条第二項の規定により読み替えて適用する場合を含む。）の規定により税務署長に提出すべき国外財産調書について提出期限内に提出がない場合（当該国外財産調書の提出期限の属する年の前年の十二月三十一日において相続国外財産を有する者（その価額の合計額が五千万円を超える国外財産で相続国外財産以外のものを有する者を除く。）の責めに帰すべき事由がない場合を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">提出期限内に税務署長に提出された国外財産調書に記載すべき当該修正申告等の基因となる国外財産についての記載がない場合（当該国外財産調書に当該修正申告等の基因となる国外財産について記載すべき事項のうち重要なものの記載が不十分であると認められる場合を含むものとし、当該国外財産調書に記載すべき当該修正申告等の基因となる相続国外財産についての記載がない場合（当該相続国外財産を有する者の責めに帰すべき事由がない場合に限る。）を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の国外財産調書は、次の各号に掲げる場合の区分に応じ当該各号に定める国外財産調書とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前項の修正申告等が所得税に関するものである場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該修正申告等に係る年分の国外財産調書（当該年分のその年の中途において当該修正申告等の基因となる国外財産を有しないこととなった場合における当該国外財産にあっては当該年分の前年分の国外財産調書とし、当該修正申告等の基因となる相続国外財産（相続開始年に取得したものに限る。）にあっては相続開始年の年分の国外財産調書を除く。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前項の修正申告等が相続税に関するものである場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる国外財産調書の全て</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該相続税に係る被相続人の相続開始年の前年分の国外財産調書（被相続人がその提出期限までに相続開始年の前年分の国外財産調書を提出しないで死亡した場合にあっては、被相続人の相続開始年の前々年分の国外財産調書）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該相続税に係る相続人の相続開始年の年分の国外財産調書</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該相続税に係る相続人の相続開始年の翌年分の国外財産調書</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三項の修正申告等が相続税に関するものである場合には、次に掲げる者については、同項の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該相続税に係る相続人で前条第一項（同条第二項の規定により読み替えて適用する場合を含む。）の規定により税務署長に提出すべき相続開始年の翌年分の国外財産調書がないもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該相続税に係る相続人で相続開始年の翌年の十二月三十一日において当該修正申告等の基因となる相続国外財産を有しないもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項（同条第二項の規定により読み替えて適用する場合を含む。）の規定により提出すべき国外財産調書が提出期限後に提出され、かつ、修正申告等があった場合において、当該国外財産調書の提出が、当該国外財産調書に係る国外財産に係る所得税又は国外財産に対する相続税についての調査があったことにより当該国外財産に係る所得税又は国外財産に対する相続税について更正又は決定があるべきことを予知してされたものでないとき（当該国外財産調書の提出が、当該国外財産に係る所得税又は国外財産に対する相続税についての国税通則法第六十五条第六項に規定する調査通知がある前にされたものである場合に限る。）は、当該国外財産調書は提出期限内に提出されたものとみなして、第一項又は第三項の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国外財産に係る所得税又は国外財産に対する相続税に関し修正申告等があり、国税通則法第六十五条又は第六十六条の規定の適用がある居住者が、当該修正申告等があった日前に、国税庁、国税局又は税務署の当該職員から第二項又は第四項に規定する国外財産調書に記載すべき国外財産の取得、運用又は処分に係る書類として財務省令で定める書類（その作成又は保存に代えて電磁的記録の作成又は保存がされている場合における当該電磁的記録を含む。）又はその写しの提示又は提出を求められた場合において、その提示又は提出を求められた日から六十日を超えない範囲内においてその提示又は提出の準備に通常要する日数を勘案して当該職員が指定する日までにその提示又は提出をしなかったとき（当該居住者の責めに帰すべき事由がない場合を除く。）における第一項又は第三項の規定の適用については、次に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定は、適用しない。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三項中「百分の五」とあるのは「百分の十（第一号に掲げる場合に該当することにつき同号の国外財産調書の提出期限の属する年の前年の十二月三十一日において相続国外財産を有する者（その価額の合計額が五千万円を超える国外財産で相続国外財産以外のものを有する者を除く。）の責めに帰すべき事由がない場合又は第二号に掲げる場合のうち同号の国外財産調書に記載すべき当該修正申告等の基因となる相続国外財産についての記載がない場合（当該相続国外財産を有する者の責めに帰すべき事由がない場合に限る。）には、百分の五）」と、同項第一号中「場合（当該国外財産調書の提出期限の属する年の前年の十二月三十一日において相続国外財産を有する者（その価額の合計額が五千万円を超える国外財産で相続国外財産以外のものを有する者を除く。）の責めに帰すべき事由がない場合を除く。）」とあるのは「場合」と、同項第二号中「含むものとし、当該国外財産調書に記載すべき当該修正申告等の基因となる相続国外財産についての記載がない場合（当該相続国外財産を有する者の責めに帰すべき事由がない場合に限る。）を除く」とあるのは「含む」とする。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項及び第四項から前項までに定めるもののほか、第一項又は第三項の規定及び国税通則法第六十八条の規定の適用がある場合の過少申告加算税、無申告加算税及び重加算税の額の計算の基礎となるべき税額の計算その他第一項及び第三項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3_2">
+        <ChapterTitle>第三章の二　財産債務に係る調書の提出等</ChapterTitle>
+        <Article Num="6_2">
+          <ArticleCaption>（財産債務調書の提出）</ArticleCaption>
+          <ArticleTitle>第六条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">次に掲げる申告書を提出すべき者又は提出することができる者は、当該申告書に記載すべきその年分の総所得金額（所得税法第二十二条第二項に規定する総所得金額をいう。次項において同じ。）及び山林所得金額（同条第三項に規定する山林所得金額をいう。次項において同じ。）の合計額が二千万円を超え、かつ、その年の十二月三十一日においてその価額の合計額が三億円以上の財産又はその価額の合計額が一億円以上の国外転出特例対象財産（同法第六十条の二第一項に規定する有価証券等並びに同条第二項に規定する未決済信用取引等及び同条第三項に規定する未決済デリバティブ取引に係る権利をいう。次項及び次条第二項第一号において同じ。）を有する場合には、財務省令で定めるところにより、その者の氏名、住所又は居所及び個人番号（個人番号を有しない者にあっては、氏名及び住所又は居所）並びにその者が同日において有する財産の種類、数量及び価額並びに債務の金額その他必要な事項を記載した調書（以下「財産債務調書」という。）を、その年の翌年の六月三十日までに、その者の所得税の納税地の所轄税務署長に提出しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同日までに当該財産債務調書を提出しないで死亡したときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">所得税法第百二十条第一項（同法第百六十六条において準用する場合を含む。）の規定による申告書（同法第百二十四条第一項（同法第百六十六条において準用する場合を含む。）の規定に該当して提出すべきものを除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">所得税法第百二十二条第一項（同法第百六十六条において準用する場合を含む。）の規定による申告書（その年分の同法第八十九条の規定を適用して計算した場合の所得税の額の合計額が配当控除（同法第九十二条第三項に規定する配当控除をいう。第四号において同じ。）の額を超える場合における当該申告書に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">所得税法第百二十七条第一項（同法第百六十六条において準用する場合を含む。）の規定による申告書</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">所得税法第百二十七条第二項（同法第百六十六条において準用する場合を含む。）の規定による申告書（その年の一月一日から同項の出国の時までの間の同法第八十九条の規定を適用して計算した場合の所得税の額の合計額が配当控除の額を超える場合における当該申告書に限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">相続開始年の年分の前項各号に掲げる申告書に記載すべき総所得金額及び山林所得金額の合計額が二千万円を超え、かつ、相続開始年の十二月三十一日においてその価額の合計額が三億円以上の財産又はその価額の合計額が一億円以上の国外転出特例対象財産を有する相続人は、相続開始年の年分の財産債務調書については、その相続又は遺贈により取得した財産又は債務（第四項及び次条第二項において「相続財産債務」という。）を除外したところにより、前項の規定を適用することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同項中「の財産」とあるのは「の財産（相続又は遺贈により取得した財産（相続開始年に取得したものに限る。以下この項において同じ。）を除く。）」と、「権利をいう。次項及び次条第二項第一号において同じ」とあるのは「権利をいい、相続又は遺贈により取得した財産を除く」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">所得税法第二条第一項第三号に規定する居住者（第一項（前項の規定により読み替えて適用する場合を含む。以下この項において同じ。）の規定により財産債務調書を提出すべき者を除く。）は、その年の十二月三十一日においてその価額の合計額が十億円以上の財産を有する場合には、第一項の規定にかかわらず、財務省令で定めるところにより、財産債務調書を、その年の翌年の六月三十日までに、次の各号に掲げる者の区分に応じ当該各号に定める場所の所轄税務署長に提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、同項ただし書の規定を準用する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">その年分の所得税の納税義務がある者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その者の所得税の納税地</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げる者以外の者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その者の住所地（国内に住所がないときは、居所地）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">相続開始年の十二月三十一日においてその価額の合計額が十億円以上の財産を有する相続人は、相続開始年の年分の財産債務調書については、相続財産債務を除外したところにより、前項の規定を適用することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同項中「の財産」とあるのは、「の財産（相続又は遺贈により取得した財産（相続開始年に取得したものに限る。）を除く。）」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第五条第一項（同条第二項の規定により読み替えて適用する場合を含む。）の規定の適用がある場合における国外財産に係る財産債務調書に記載すべき事項（当該国外財産の価額を除く。）については、第一項（第二項の規定により読み替えて適用する場合を含む。）又は第三項（前項の規定により読み替えて適用する場合を含む。）の規定にかかわらず、当該財産債務調書への記載を要しないものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項及び前二項に定めるもののほか、財産の所在及び価額に関する事項その他第一項又は第三項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6_3">
+          <ArticleCaption>（財産債務に係る過少申告加算税又は無申告加算税の特例）</ArticleCaption>
+          <ArticleTitle>第六条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六条第一項及び第二項の規定は、財産（前条第五項の規定により財産債務調書への記載を要しない国外財産を除く。以下この項及び次項第三号において同じ。）若しくは債務に関して生ずる所得で政令で定めるものに対する所得税（次項において「財産債務に係る所得税」という。）又は財産に対する相続税に関し修正申告等があり、国税通則法第六十五条又は第六十六条の規定の適用がある場合において、提出期限（前条第一項又は第三項の提出期限をいう。次項において同じ。）内に税務署長に提出された財産債務調書に当該修正申告等の基因となる財産又は債務についての前条第一項又は第三項の規定による記載があるときについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六条第三項及び第四項（第一号に係る部分に限る。）の規定は、財産債務に係る所得税に関し修正申告等（死亡した者に係るものを除く。）があり、国税通則法第六十五条又は第六十六条の規定の適用がある場合において、次に掲げる場合のいずれかに該当するときについて準用する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項（同条第二項の規定により読み替えて適用する場合を含む。）の規定により税務署長に提出すべき財産債務調書について提出期限内に提出がない場合（当該財産債務調書の提出期限の属する年の前年の十二月三十一日において相続財産債務を有する者（その価額の合計額が三億円以上の財産で相続若しくは遺贈により取得した財産以外のもの又はその価額の合計額が一億円以上の国外転出特例対象財産で相続若しくは遺贈により取得した財産以外のものを有する者を除く。）の責めに帰すべき事由がない場合を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第三項（同条第四項の規定により読み替えて適用する場合を含む。）の規定により税務署長に提出すべき財産債務調書について提出期限内に提出がない場合（当該財産債務調書の提出期限の属する年の前年の十二月三十一日において相続財産債務を有する者（その価額の合計額が十億円以上の財産で相続又は遺贈により取得した財産以外のものを有する者を除く。）の責めに帰すべき事由がない場合を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">提出期限内に税務署長に提出された財産債務調書に記載すべき当該修正申告等の基因となる財産又は債務についての記載がない場合（当該財産債務調書に当該修正申告等の基因となる財産又は債務について記載すべき事項のうち重要なものの記載が不十分であると認められる場合を含むものとし、当該財産債務調書に記載すべき当該修正申告等の基因となる相続財産債務についての記載がない場合（当該相続財産債務を有する者の責めに帰すべき事由がない場合に限る。）を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六条第六項及び第八項の規定は、前二項の規定を適用する場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Num="7">
+          <ArticleCaption>（当該職員の質問検査権等）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国税庁、国税局又は税務署の当該職員は、国外送金等調書、国外証券移管等調書又は国外電子決済手段移転等調書の提出に関する調査について必要があるときは、当該国外送金等調書、国外証券移管等調書若しくは国外電子決済手段移転等調書を提出する義務がある者（当該国外送金等調書に係る取次ぎ等に係る金融機関の営業所等の長を含む。）に質問し、その者の国外送金等に係る為替取引、国外証券移管等若しくは国外電子決済手段移転等に関する帳簿書類（その作成又は保存に代えて電磁的記録の作成又は保存がされている場合における当該電磁的記録を含む。次項及び第九条第四号において同じ。）その他の物件を検査し、又は当該物件（その写しを含む。）の提示若しくは提出を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国税庁、国税局又は税務署の当該職員は、国外財産調書又は財産債務調書の提出に関する調査について必要があるときは、当該国外財産調書若しくは財産債務調書を提出する義務がある者（当該国外財産調書又は財産債務調書を提出する義務があると認められる者を含む。）に質問し、その者の国外財産若しくは財産及び債務に関する帳簿書類その他の物件を検査し、又は当該物件（その写しを含む。）の提示若しくは提出を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国税庁、国税局又は税務署の当該職員は、国外送金等調書、国外証券移管等調書、国外電子決済手段移転等調書、国外財産調書又は財産債務調書の提出に関する調査について必要があるときは、当該調査において提出された物件を留め置くことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国税庁、国税局又は税務署の当該職員は、第一項又は第二項の規定による質問、検査又は提示若しくは提出の要求をする場合には、その身分を示す証明書を携帯し、関係人の請求があったときは、これを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項から第三項までの規定による当該職員の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、第三項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <Article Num="9">
+          <ArticleCaption>（罰則）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次に掲げる違反があった場合においては、その違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三条第一項の告知書を国外送金等の際に金融機関の営業所等の長に提出せず、若しくは当該告知書に偽りの記載をして金融機関の営業所等の長に提出したとき、第四条の二第一項の告知書を国外証券移管等の依頼の際に金融商品取引業者等の営業所等の長に提出せず、若しくは当該告知書に偽りの記載をして金融商品取引業者等の営業所等の長に提出したとき、又は第四条の四第一項の告知書を国外電子決済手段移転等の依頼の際に電子決済手段等取引業者の営業所等の長に提出せず、若しくは当該告知書に偽りの記載をして電子決済手段等取引業者の営業所等の長に提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国外送金等調書、国外証券移管等調書若しくは国外電子決済手段移転等調書をその提出期限までに税務署長に提出せず、又は国外送金等調書、国外証券移管等調書若しくは国外電子決済手段移転等調書に偽りの記載若しくは記録をして税務署長に提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第一項又は第二項の規定による当該職員の質問に対して答弁せず、若しくは偽りの答弁をし、又はこれらの規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第一項又は第二項の規定による物件の提示又は提出の要求に対し、正当な理由がなくこれに応じず、又は偽りの記載若しくは記録をした帳簿書類その他の物件（その写しを含む。）を提示し、若しくは提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国外財産調書に偽りの記載をして税務署長に提出したときは、その違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">正当な理由がなくて国外財産調書をその提出期限までに税務署長に提出しなかったときは、その違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、情状により、その刑を免除することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人（人格のない社団等（法人税法第二条第八号に規定する人格のない社団等をいう。以下この条において同じ。）を含む。以下この項において同じ。）の代表者（人格のない社団等の管理人を含む。）又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務又は財産に関して前二条の違反行為をしたときは、その行為者を罰するほか、その法人又は人に対して当該各条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">人格のない社団等について前項の規定の適用がある場合には、その代表者又は管理人がその訴訟行為につきその人格のない社団等を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成十年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（国外送金等調書の提出に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四条の規定は、平成十年四月一日以後にされる国外送金等について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一三年一一月二八日法律第一二九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、平成十四年四月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（罰則の適用に関する経過措置）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの法律の規定により従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年七月三一日法律第九八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公社法の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一章第一節（別表第一から別表第四までを含む。）並びに附則第二十八条第二項、第三十三条第二項及び第三項並びに第三十九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="38">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にした行為並びにこの法律の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合における施行日以後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="39">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律に規定するもののほか、公社法及びこの法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月一八日法律第一二四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、新不動産登記法の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年一二月一日法律第一五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成十七年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年三月三一日法律第二一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十七年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成十七年七月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからハまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六条の規定及び附則第五十九条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="59">
+        <ArticleCaption>（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第五十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第六条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第四条第二項の規定は、平成十七年九月一日以後に提出する同項に規定する光ディスク等について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="89">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第八十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年一〇月二一日法律第一〇二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、郵政民営化法の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="105">
+        <ArticleCaption>（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第百五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第百七条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第二条、第三条第一項、第四条及び第七条第一号の規定は、施行日以後にされる同法第三条第一項に規定する国外送金等（以下この条において「国外送金等」という。）について適用し、施行日前にされた国外送金等については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="117">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為、この附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為、この法律の施行後附則第九条第一項の規定によりなおその効力を有するものとされる旧郵便為替法第三十八条の八（第二号及び第三号に係る部分に限る。）の規定の失効前にした行為、この法律の施行後附則第十三条第一項の規定によりなおその効力を有するものとされる旧郵便振替法第七十条（第二号及び第三号に係る部分に限る。）の規定の失効前にした行為、この法律の施行後附則第二十七条第一項の規定によりなおその効力を有するものとされる旧郵便振替預り金寄附委託法第八条（第二号に係る部分に限る。）の規定の失効前にした行為、この法律の施行後附則第三十九条第二項の規定によりなおその効力を有するものとされる旧公社法第七十条（第二号に係る部分に限る。）の規定の失効前にした行為、この法律の施行後附則第四十二条第一項の規定によりなおその効力を有するものとされる旧公社法第七十一条及び第七十二条（第十五号に係る部分に限る。）の規定の失効前にした行為並びに附則第二条第二項の規定の適用がある場合における郵政民営化法第百四条に規定する郵便貯金銀行に係る特定日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年三月三〇日法律第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十九年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:7">
+            <ItemTitle>一から七まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">証券取引法等の一部を改正する法律（平成十八年法律第六十五号）の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからホまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条中租税特別措置法第三条の二の改正規定（「特定目的信託」を「特定受益証券発行信託」に改め、「規定する配当等」の下に「（同項に規定する剰余金の配当を除く。）」を加える部分を除く。）、同法第三条の三第一項の改正規定、同条第六項の改正規定、同法第四条第一項の改正規定、同法第四条の二第一項の改正規定（「証券業者」を「金融商品取引業者」に改める部分に限る。）、同法第五条の二第二項の改正規定（「振替国債」の下に「及び振替地方債」を加える部分を除く。）、同条第五項第七号の改正規定、同条第十四項第一号の改正規定（「証券業者等」を「金融商品取引業者等」に改める部分に限る。）、同法第六条第八項の改正規定、同条第九項第二号ロの改正規定、同法第八条の改正規定、同法第八条の二第一項の改正規定（同項中「配当等で」を「剰余金の配当で」に改める部分及び同項第二号中「第二百三十条第四号」を「第二百三十条第一項第四号」に改める部分を除く。）、同法第八条の三第一項の改正規定（「受益証券」を「受益権」に改める部分に限る。）、同条第二項の改正規定（「受益証券」を「受益権」に改める部分に限る。）、同法第八条の五の改正規定（同条第四項に係る部分を除く。）、同法第九条第一項の改正規定（同項第一号中「受益証券」を「受益権」に、「第二条第二十八項」を「第二条第二十二項」に改める部分、同項第二号中「受益証券（」を「受益権（」に、「受益証券に」を「受益権に」に改める部分、同項第四号に係る部分及び同項第八号に係る部分に限る。）、同法第九条の三第一項の改正規定、同法第九条の四第一項第一号の改正規定、同条第二項の改正規定（「受益証券」を「受益権」に改める部分に限る。）、同法第九条の五（見出しを含む。）の改正規定、同法第九条の六第一項の改正規定（「平成十九年三月三十一日」を「平成二十一年三月三十一日」に改める部分を除く。）、同法第二十九条の二の改正規定、同法第三十二条第二項の改正規定（同項第二号中「第二条第十九項」を「第二条第十二項」に改める部分及び「第二条第二十一項」を「第二条第十四項」に改める部分に限る。）、同法第三十七条の十の改正規定（同条第一項に係る部分、同条第二項に係る部分（同項第六号に係る部分を除く。）及び同条第三項第四号に係る部分に限る。）、同法第三十七条の十の二第一項の改正規定、同法第三十七条の十一第一項の改正規定（同項中「平成十九年十二月三十一日」を「平成二十年十二月三十一日」に改める部分及び「同条第四項」を「同項第五号」に改め、「株式等証券投資信託」の下に「（第三条の二に規定する特定株式投資信託を除く。）」を加える部分並びに同項第四号中「第四項」を「第四項各号」に改め、同項第七号を同項第八号とし、同項第六号を同項第七号とし、同項第五号中「譲渡」の下に「その他これに類する上場株式等の譲渡として政令で定めるもの」を加え、同号を同項第六号とし、同項第四号の次に一号を加える部分を除く。）、同法第三十七条の十一の三の改正規定（同条第一項に係る部分、同条第三項第一号中「その口座に保管の委託」を「その口座に係る振替口座簿に記載若しくは記録がされ、又はその口座に保管の委託」に、「保管の委託又は」を「振替口座簿への記載若しくは記録若しくは保管の委託又は」に改める部分及び同項第二号中「上場株式等の保管の委託」を「上場株式等の振替口座簿への記載若しくは記録又は保管の委託」に、「当該保管の委託」を「当該記載若しくは記録又は保管の委託」に、「に保管の委託」を「に記載若しくは記録又は保管の委託」に、「おいて保管の委託」を「おいて振替口座簿への記載若しくは記録又は保管の委託」に改める部分を除く。）、同法第三十七条の十一の四の改正規定（同条第二項に係る部分及び同条第五項に係る部分を除く。）、同法第三十七条の十三第一項第三号の改正規定、同法第三十七条の十三の二第一項の改正規定、同法第三十七条の十三の三第一項の改正規定（同項中「平成十九年三月三十一日」を「平成二十一年三月三十一日」に改める部分を除く。）、同法第三十七条の十四第一項の改正規定（同項第三号中「第四項」を「第四項各号」に改め、同項第六号を同項第七号とし、同項第五号を同項第六号とし、同項第四号中「譲渡」の下に「その他これに類する特定上場株式等の譲渡として政令で定めるもの」を加え、同号を同項第五号とし、同項第三号の次に一号を加える部分を除く。）、同法第三十七条の十五の改正規定、同法第四十一条の九第二項の改正規定、同法第四十一条の十二第九項の改正規定、同法第四十一条の十四の改正規定、同法第四十二条の二第四項第二号イの改正規定、同法第六十二条の三第二項第一号ロ（２）の改正規定（「第二条第十九項」を「第二条第十二項」に改める部分及び「第二条第二十一項」を「第二条第十四項」に改める部分に限る。）、同法第六十七条の十四第一項第一号の改正規定、同項第二号ホの改正規定、同法第六十七条の十五第一項の改正規定、同条第二項の改正規定、同条第三項の表第二条第十号の項の改正規定、同条第四項の表第五十七条の十第一項の項の改正規定、同法第六十八条の三の三第一項第一号の改正規定、同法第六十八条の三の四第一項第一号の改正規定、同法第六十九条の五第二項第一号の改正規定、同項第三号及び第五号の改正規定、同法第八十三条の三の改正規定並びに同法第九十一条の四の改正規定（「平成十九年三月三十一日」を「平成二十一年三月三十一日」に改める部分を除く。）並びに附則第八十五条及び第百三十四条の規定並びに附則第百五十二条中証券決済制度等の改革による証券市場の整備のための関係法律の整備等に関する法律附則第九条第二項の改正規定（「「障害者等に」」を「「障害者等に」と、「又は収益の分配の」とあるのは「、収益の分配又は剰余金の配当（第二十四条第一項（配当所得）に規定する剰余金の配当をいう。以下この号において同じ。）の」と、「対応する利子又は収益の分配」とあるのは「対応する利子、収益の分配又は剰余金の配当」」に改める部分を除く。）、同条第五項の改正規定（「「又は収益の分配」」を「「、収益の分配又は第二十四条第一項（配当所得）に規定する剰余金の配当」と、同条第三項中「信託法」とあるのは「公益信託ニ関スル法律」と、「第六十六条」とあるのは「第一条」」に改める部分を除く。）、同法附則第十条第二項の改正規定及び同条第十五項に後段として次のように加える改正規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="157">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百五十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="158">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百五十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年六月二四日法律第五九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="34">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの法律の附則においてなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="35">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二二年三月三一日法律第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十二年六月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからムまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ウ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="146">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百四十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="147">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百四十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年三月三一日法律第一二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次条の規定は、経済社会の構造の変化に対応した税制の構築を図るための所得税法等の一部を改正する法律（平成二十三年法律第百十四号）の公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月三〇日法律第八二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:5">
+            <ItemTitle>一から五まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十六年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからハまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十八条及び附則第八十二条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="82">
+        <ArticleCaption>（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第八十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第十八条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（以下この条において「新国外送金等調書法」という。）第四条第二項及び第四項（同条第二項に係る部分に限る。）の規定は、平成二十六年一月一日以後に提出すべき同条第一項に規定する国外送金等調書について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第四条第三項及び第四項（同条第三項に係る部分に限る。）の規定は、平成二十六年一月一日以後に提出する同条第三項に規定する光ディスク等について適用し、同日前に提出した第十八条の規定による改正前の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（次項において「旧国外送金等調書法」という。）第四条第二項に規定する光ディスク等については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成二十六年一月一日前において旧国外送金等調書法第四条第二項の規定に基づき受けた同項に規定する税務署長の承認については、新国外送金等調書法第四条第三項の規定に基づき受けた同項に規定する税務署長の承認とみなして、同項の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="92">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="93">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第九十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年一二月二日法律第一一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十五年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからソまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ツ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十一条及び附則第九十二条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="92">
+        <ArticleCaption>（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第九十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二十一条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（以下この条において「新国外送金等調書法」という。）第五条第一項及び第三項の規定は、平成二十五年一月一日以後に同条第一項に規定する国外送金等調書を提出する義務がある者に対して行う質問、検査又は提示若しくは提出の要求（同日前から引き続き行われている調査（同日前に当該義務がある者に対して当該調査に係る第二十一条の規定による改正前の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第五条第一項の規定による質問又は検査を行っていたものに限る。以下この項において「経過措置調査」という。）に係るものを除く。）について適用し、同日前に第二十一条の規定による改正前の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第五条第一項に規定する国外送金等調書を提出する義務がある者に対して行った質問又は検査（経過措置調査に係るものを含む。）については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第五条第二項、第四項（第二項に係る部分に限る。）及び第五項の規定は、平成二十五年一月一日以後に提出される同条第二項に規定する物件について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="104">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="104_2">
+        <ArticleCaption>（この法律の公布の日が平成二十三年四月一日後となる場合における経過措置）</ArticleCaption>
+        <ArticleTitle>第百四条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の公布の日が平成二十三年四月一日後となる場合におけるこの法律による改正後のそれぞれの法律の規定の適用に関し必要な事項（この附則の規定の読替えを含む。）その他のこの法律の円滑な施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="105">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="106">
+        <ArticleCaption>（納税環境の整備に向けた検討）</ArticleCaption>
+        <ArticleTitle>第百六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、国税に関する納税者の利益の保護に資するとともに、税務行政の適正かつ円滑な運営を確保する観点から、納税環境の整備に向け、引き続き検討を行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年三月三一日法律第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十四年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:6">
+            <ItemTitle>一から六まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第八条の規定（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第九条の次に一条を加える改正規定を除く。）並びに附則第五十九条、第六十条及び第六十七条（東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法（平成二十三年法律第百十七号）第三十三条第一項の表の改正規定に限る。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十六年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第八条中内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第九条の次に一条を加える改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十七年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="59">
+        <ArticleCaption>（国外財産調書の提出に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第八条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（次条において「新国外送金等調書法」という。）第五条の規定は、平成二十六年一月一日以後に提出すべき同条第一項に規定する国外財産調書について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="60">
+        <ArticleCaption>（過少申告加算税又は無申告加算税の特例に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条の規定は、平成二十六年一月一日以後に提出すべき新国外送金等調書法第五条第一項に規定する国外財産調書に係る新国外送金等調書法第六条第一項に規定する国外財産に係る所得税又は国外財産に対する相続税に関し同項に規定する修正申告等があった場合における当該所得税又は相続税について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="79">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="80">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年五月三一日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、番号利用法の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第三十三条から第四十二条まで、第四十四条（内閣府設置法第四条第三項第四十一号の次に一号を加える改正規定に限る。）及び第五十条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Sentence Num="1" WritingMode="vertical">略</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="3">
+          <ItemTitle>三</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第四条、第七条、第八条、第十条から第十二条まで、第十四条、第十五条、第十九条、第二十条、第二十四条、第二十五条、第二十九条（行政手続等における情報通信の技術の利用に関する法律別表の改正規定のうち同表電子署名に係る地方公共団体の認証業務に関する法律（平成十四年法律第百五十三号）の項中「電子署名に係る地方公共団体の認証業務に関する法律」を「電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律」に、「第三条第二項（第十条第二項において準用する場合を含む。）」を「第十条第二項において準用する第三条第二項及び第二十九条第二項において準用する第二十二条第二項」に改める部分に限る。）、第三十一条、第三十二条及び第四十三条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">番号利用法附則第一条第四号に掲げる規定の施行の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年三月三一日法律第一〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十六年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十七年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ及びロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の規定（同条中内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第四条の改正規定を除く。）並びに附則第百三十七条第二項及び第百六十二条（行政手続における特定の個人を識別するための番号の利用等に関する法律第九条第三項の改正規定（「第四条第一項」の下に「若しくは第四条の三第一項」を加える部分に限る。）に限る。）の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="137">
+        <ArticleCaption>（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第十二条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（次項において「新国外送金等調書法」という。）第四条第四項の規定は、施行日以後に提供する同条第一項に規定する国外送金等調書の同条第二項に規定する記載事項について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第四条の二及び第四条の三の規定は、平成二十七年一月一日以後に新国外送金等調書法第四条の二第一項に規定する金融商品取引業者等の営業所等の長に依頼する同項に規定する国外証券移管等について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="164">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="165">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百六十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年三月三一日法律第九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十七年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:3">
+            <ItemTitle>一から三まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十八年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからハまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十一条の規定（同条中内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第三条第一項の改正規定、同法第四条の二第一項の改正規定及び同法第七条第一項の改正規定を除く。）並びに附則第百一条第二項、第三項及び第五項の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="5:8_2">
+            <ItemTitle>五から八の二まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">行政手続における特定の個人を識別するための番号の利用等に関する法律の施行に伴う関係法律の整備等に関する法律附則第三号に掲げる規定の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ及びロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十一条中内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第三条第一項の改正規定、同法第四条の二第一項の改正規定及び同法第七条第一項の改正規定並びに附則第百一条第一項、第四項及び第六項の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="101">
+        <ArticleCaption>（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第百一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第十一条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（以下この条において「新国外送金等調書法」という。）第三条第一項及び第四条の二第一項の規定は、附則第一条第九号に定める日以後にこれらの規定に規定する告知書を提出する場合について適用し、同日前に第十一条の規定による改正前の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第三条第一項又は第四条の二第一項に規定する告知書を提出した場合については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条の二（同条第一項に規定する個人番号に係る部分を除く。）の規定は、平成二十八年一月一日以後に提出すべき同項に規定する財産債務調書（第四項及び第五項において「財産債務調書」という。）について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">行政手続における特定の個人を識別するための番号の利用等に関する法律附則第一条第四号に掲げる規定の施行の日が平成二十八年一月一日後である場合における同日から当該施行の日の前日までの間の新国外送金等調書法第六条の二の規定の適用については、同条第一項中「、住所又は居所及び個人番号（個人番号を有しない者にあっては、氏名及び住所又は居所）」とあるのは、「及び住所又は居所」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条の二（同条第一項に規定する個人番号に係る部分に限る。）の規定は、附則第一条第九号に定める日の属する年の翌年の一月一日以後に提出すべき財産債務調書について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条の三の規定は、平成二十八年一月一日以後に提出すべき財産債務調書に係る同条第一項に規定する財産債務に係る所得税又は財産に対する相続税に関し新国外送金等調書法第六条第一項に規定する修正申告等があった場合における当該所得税又は相続税について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第九号に定める日が平成二十八年一月一日後である場合における行政手続における特定の個人を識別するための番号の利用等に関する法律の施行に伴う関係法律の整備等に関する法律第十二条の規定の適用については、同条第二項中「国外財産調書」とあるのは、「国外財産調書並びに同法第六条の二第一項に規定する財産債務調書」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="130">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="131">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年三月三一日法律第一五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成二十八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="129">
+        <ArticleCaption>（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第十二条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第三条第一項及び第四条の二第一項の規定は、施行日以後にこれらの規定に規定する告知書を提出する場合について適用し、施行日前に第十二条の規定による改正前の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第三条第一項又は第四条の二第一項に規定する告知書を提出した場合については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="168">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="169">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百六十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年三月三一日法律第七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成三十年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:8">
+            <ItemTitle>一から八まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和三年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからハまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条の規定及び附則第百二十二条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="122">
+        <ArticleCaption>（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第十六条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（以下この条において「新国外送金等調書法」という。）第四条第二項（新国外送金等調書法第四条の三第二項において準用する場合を含む。）の規定は、令和三年一月一日以後に提出すべき新国外送金等調書法第四条第一項に規定する国外送金等調書及び新国外送金等調書法第四条の三第一項に規定する国外証券移管等調書について適用し、同日前に提出すべき第十六条の規定による改正前の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（以下この条において「旧国外送金等調書法」という。）第四条第一項に規定する国外送金等調書及び旧国外送金等調書法第四条の三第一項に規定する国外証券移管等調書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="143">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百四十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="144">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百四十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二九日法律第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成三十一年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:6">
+            <ItemTitle>一から六まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和二年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからヘまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ト</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条中行政手続における特定の個人を識別するための番号の利用等に関する法律の施行に伴う関係法律の整備等に関する法律第八条に一項を加える改正規定、同法第十一条の改正規定及び同法第二十五条に一項を加える改正規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="115">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="116">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="133">
+        <ArticleCaption>（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二十条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（以下この条において「新国外送金等調書法」という。）第五条第二項の規定は、令和二年分以後の同条第一項に規定する国外財産調書について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条第一項及び第二項の規定は、施行日以後に相続又は遺贈（贈与をした者の死亡により効力を生ずる贈与を含む。以下この条において同じ。）により取得する国外財産（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第二条第十四号に規定する国外財産をいう。以下この条において同じ。）に係る相続税について適用し、施行日前に相続又は遺贈により取得した国外財産に係る相続税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条第三項から第五項までの規定は、令和二年分以後の所得税又は施行日以後に相続若しくは遺贈により取得する国外財産に係る相続税について適用し、令和元年分以前の所得税又は施行日前に相続若しくは遺贈により取得した国外財産に係る相続税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条第七項の規定は、令和二年分以後の所得税又は施行日以後に相続若しくは遺贈により取得する国外財産に係る相続税について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条の二第二項の規定は、令和二年分以後の同条第一項に規定する財産債務調書について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条の三第一項において準用する新国外送金等調書法第六条第一項及び第二項の規定は、施行日以後に相続又は遺贈により取得する財産に係る相続税について適用し、施行日前に相続又は遺贈により取得した財産に係る相続税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条の三第二項において準用する新国外送金等調書法第六条第三項及び第四項（第一号に係る部分に限る。）の規定は、令和二年分以後の所得税について適用し、令和元年分以前の所得税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="171">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="172">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日法律第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和四年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからヘまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ト</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十一条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="131">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="132">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年三月三一日法律第四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和四年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和五年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからニまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ホ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条の規定（同条中内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第四条第二項第二号の改正規定及び同法第六条第六項の改正規定を除く。）並びに附則第七十二条第一項及び第三項から第五項までの規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="4:5">
+            <ItemTitle>四及び五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和六年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからホまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ヘ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条中内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第六条第六項の改正規定及び附則第七十二条第二項の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="72">
+        <ArticleCaption>（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第十七条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（以下この条において「新国外送金等調書法」という。）第五条第一項（同条第二項の規定により読み替えて適用する場合を含む。）の規定は、令和五年分以後の同条第一項に規定する国外財産調書について適用し、令和四年分以前の第十七条の規定による改正前の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（以下この条において「旧国外送金等調書法」という。）第五条第一項に規定する国外財産調書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条第六項（新国外送金等調書法第六条の三第三項において準用する場合を含む。）の規定は、新国外送金等調書法第五条第一項に規定する国外財産調書又は新国外送金等調書法第六条の二第一項に規定する財産債務調書が令和六年一月一日以後に提出される場合について適用し、旧国外送金等調書法第五条第一項に規定する国外財産調書又は旧国外送金等調書法第六条の二第一項に規定する財産債務調書が同日前に提出された場合については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条の二第一項（同条第二項の規定により読み替えて適用する場合を含む。）の規定は、令和五年分以後の同条第一項に規定する財産債務調書について適用し、令和四年分以前の旧国外送金等調書法第六条の二第一項に規定する財産債務調書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条の二第三項及び第四項の規定は、令和五年分以後の同条第一項に規定する財産債務調書について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第六条の三第二項において準用する新国外送金等調書法第六条第三項及び第四項（第一号に係る部分に限る。）の規定は、令和五年分以後の所得税について適用し、令和四年分以前の所得税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="98">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="99">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第九十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年三月三一日法律第三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和六年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからヘまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ト</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条の規定（同条中内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第四条の改正規定を除く。）及び附則第六十条第二項の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="60">
+        <ArticleCaption>（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第十五条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（次項において「新国外送金等調書法」という。）第四条第三項（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（以下この項において「国外送金等調書法」という。）第四条の三第二項において準用する場合を含む。）の規定は、施行日以後に提出すべき国外送金等調書法第四条第一項に規定する国外送金等調書及び国外送金等調書法第四条の三第一項に規定する国外証券移管等調書について適用し、施行日前に提出すべきこれらの調書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新国外送金等調書法第四条の四及び第四条の五の規定は、令和六年一月一日以後に新国外送金等調書法第四条の四第一項に規定する電子決済手段等取引業者の新国外送金等調書法第二条第六号に規定する営業所等の長に依頼する同項に規定する国外電子決済手段移転等について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="78">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="79">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年三月三〇日法律第八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:7">
+            <ItemTitle>一から七まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和九年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからハまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ニ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十八条の規定及び附則第五十七条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="72">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="73">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月七日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条の規定（行政手続における特定の個人を識別するための番号の利用等に関する法律の目次の改正規定、同法第二条第七項の改正規定、同法第一章に一条を加える改正規定並びに同法第十六条にただし書及び各号を加える改正規定（同条ただし書に係る部分に限る。次号において同じ。）を除く。）並びに附則第八条から第十一条までの規定、附則第十三条中デジタル庁設置法第四条第二項第四号の改正規定及び附則第十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
