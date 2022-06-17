@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="004" Year="31" PromulgateMonth="03" PromulgateDay="29"><LawNum>平成三十一年法律第四号</LawNum><LawBody><LawTitle Kana="とくべつほうじんじぎょうぜいおよびとくべつほうじんじぎょうじょうよぜいにかんするほうりつ" Abbrev="" AbbrevKana="">特別法人事業税及び特別法人事業譲与税に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　特別法人事業税</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <ArticleRange>（第二条―第五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　課税標準</SectionTitle>
+          <ArticleRange>（第六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　税額の計算</SectionTitle>
+          <ArticleRange>（第七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　申告及び納付等</SectionTitle>
+          <ArticleRange>（第八条―第十八条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="5">
+          <SectionTitle>第五節　雑則</SectionTitle>
+          <ArticleRange>（第十九条―第二十一条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="6">
+          <SectionTitle>第六節　罰則</SectionTitle>
+          <ArticleRange>（第二十二条―第二十八条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　特別法人事業譲与税</ChapterTitle>
+        <ArticleRange>（第二十九条―第三十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第三十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（趣旨）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、地方税の税源の偏在性の是正に資するための特別法人事業税について、納税義務者、課税標準、税率、申告及び納付等の手続並びにその納税義務の適正な履行を確保するため必要な事項を定めるとともに、その収入額に相当する額を特別法人事業譲与税として都道府県に対して譲与するために必要な事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　特別法人事業税</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <Article Num="2">
+            <ArticleCaption>（定義）</ArticleCaption>
+            <ArticleTitle>第二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この章において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">人格のない社団等</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">地方税法（昭和二十五年法律第二百二十六号）第七十二条の二第四項に規定する人格のない社団等をいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">みなし課税法人</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">地方税法第七十二条の二第五項に規定するみなし課税法人をいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">所得割</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">地方税法第七十二条第三号に規定する所得割をいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">収入割</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">地方税法第七十二条第四号に規定する収入割をいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">基準法人所得割額</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">地方税法の規定（同法第六条、第七条、第七十二条の二十四の十、第七十二条の二十四の十一、第七十二条の四十九の四及び附則第九条の二の二の規定を除き、税率については、同法第一条第一項第五号に規定する標準税率によるものとする。次号において同じ。）により計算した所得割額をいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">基準法人収入割額</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">地方税法の規定により計算した収入割額をいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">付加価値割</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">地方税法第七十二条第一号に規定する付加価値割をいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">資本割</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">地方税法第七十二条第二号に規定する資本割をいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">特別法人事業税に係る徴収金</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">特別法人事業税並びにその督促手数料、延滞金、過少申告加算金、不申告加算金、重加算金及び滞納処分費をいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">地方団体の徴収金</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">地方税法第一条第一項第十四号に規定する地方団体の徴収金をいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="3">
+            <ArticleCaption>（人格のない社団等に対する適用）</ArticleCaption>
+            <ArticleTitle>第三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">人格のない社団等及びみなし課税法人は、法人とみなして、この章の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="4">
+            <ArticleCaption>（納税義務者）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人は、この法律により、特別法人事業税を納める義務がある。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="5">
+            <ArticleCaption>（課税の対象）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人の基準法人所得割額及び基準法人収入割額には、この法律により、国が特別法人事業税を課する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　課税標準</SectionTitle>
+          <Article Num="6">
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特別法人事業税の課税標準は、基準法人所得割額又は基準法人収入割額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　税額の計算</SectionTitle>
+          <Article Num="7">
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特別法人事業税の額は、次の各号に掲げる法人の区分に応じ、それぞれ当該各号に定める金額とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">付加価値割額、資本割額及び所得割額の合算額により法人の事業税を課される法人</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">基準法人所得割額に百分の二百六十の税率を乗じて得た金額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">所得割額により法人の事業税を課される特別法人（地方税法第七十二条の二十四の七第七項に規定する特別法人をいう。次号において同じ。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">基準法人所得割額に百分の三十四・五の税率を乗じて得た金額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">所得割額により法人の事業税を課される法人（第一号に掲げる法人及び特別法人を除く。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">基準法人所得割額に百分の三十七の税率を乗じて得た金額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">収入割額により法人の事業税を課される法人</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">基準法人収入割額に百分の三十の税率を乗じて得た金額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">収入割額、付加価値割額及び資本割額の合算額又は収入割額及び所得割額の合算額により法人の事業税を課される法人（地方税法第七十二条の二第一項第三号に掲げる事業を行う法人に限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">基準法人収入割額に百分の四十の税率を乗じて得た金額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">収入割額、付加価値割額及び資本割額の合算額により法人の事業税を課される法人（地方税法第七十二条の二第一項第四号に掲げる事業を行う法人に限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">基準法人収入割額に百分の六十二・五の税率を乗じて得た金額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　申告及び納付等</SectionTitle>
+          <Article Num="8">
+            <ArticleCaption>（賦課徴収）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特別法人事業税の賦課徴収は、第六条及び第十四条に定めるものを除くほか、都道府県が、当該都道府県の法人の事業税の賦課徴収の例により、当該都道府県の法人の事業税の賦課徴収と併せて行うものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、地方税法第十七条の六第一項（第一号に係る部分に限る。以下この条において同じ。）の規定により更正又は決定をすることができる期間については、特別法人事業税及び法人の事業税は、同一の税目に属する地方税とみなして、同項の規定を適用するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（申告）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">地方税法第七十二条の二十五、第七十二条の二十六、第七十二条の二十八、第七十二条の二十九又は第七十二条の三十一の規定により法人の事業税に係る申告書を提出する義務がある法人は、当該申告書に記載すべき所得割額又は収入割額に係る基準法人所得割額又は基準法人収入割額、これらを課税標準として算定した特別法人事業税の額その他必要な事項を記載した申告書を、当該都道府県の法人の事業税の申告の例により、当該都道府県の法人の事業税の申告書と併せて、当該都道府県の知事に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（納付等）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特別法人事業税の納税義務者は、特別法人事業税に係る徴収金を当該都道府県の法人の事業税に係る地方団体の徴収金の納付の例により、当該都道府県の法人の事業税に係る地方団体の徴収金と併せて当該都道府県に納付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特別法人事業税に係る徴収金及び法人の事業税に係る地方団体の徴収金の納付があった場合には、政令で定めるところにより、その納付額を第八条又は前条の規定により併せて賦課され、又は申告された特別法人事業税及び法人の事業税の額に<Ruby>按<Rt>あん</Rt></Ruby>分した額に相当する特別法人事業税に係る徴収金及び法人の事業税に係る地方団体の徴収金の納付があったものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、特別法人事業税に係る徴収金の納付があった場合には、当該納付があった月の翌々月の末日までに、政令で定めるところにより、特別法人事業税に係る徴収金として納付された額を国に払い込むものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（還付等）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、地方税法の規定により法人の事業税の所得割又は収入割の全部又は一部に相当する金額を還付する場合には、当該都道府県の法人の事業税の還付の例により、前条第一項の規定により当該法人の事業税の所得割又は収入割と併せて納付された特別法人事業税の全部又は一部に相当する金額を還付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、特別法人事業税に係る徴収金に係る過誤納金がある場合には、当該都道府県の法人の事業税に係る地方団体の徴収金に係る過誤納金の還付の例により、遅滞なく、還付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の規定による特別法人事業税に係る還付金又は特別法人事業税に係る徴収金に係る過誤納金（以下この節において「特別法人事業税に係る還付金等」という。）の還付は、法人の事業税に係る還付金又は法人の事業税に係る地方団体の徴収金に係る過誤納金（以下この節において「法人の事業税に係る還付金等」という。）の還付と併せて行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（還付金等の国への払込額からの控除等）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">都道府県は、前条の規定により特別法人事業税に係る還付金等を還付することとした場合には、当該特別法人事業税に係る還付金等に相当する額を、第十条第三項の規定により翌々月の末日までに国に払い込むものとされる特別法人事業税に係る徴収金として納付された額（以下この条において「払込予定額」という。）であって当該特別法人事業税に係る還付金等を還付することとした日の属する月に納付されたものの総額から控除するものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該特別法人事業税に係る還付金等に相当する額が当該総額を超える場合には、当該超える額に相当する額に達するまでの額を払込予定額であって当該月の翌月以後の各月に納付されたものの総額から順次控除するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定の適用を受けた特別法人事業税に係る還付金等について返納があった場合その他政令で定める事由が生じた場合には、当該返納があった額その他政令で定める額に相当する額を、当該返納があった日又は政令で定める事由が生じた日の属する月における払込予定額の総額に加算するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（延滞金等の計算）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特別法人事業税に係る延滞金及び加算金並びに当該延滞金の免除に係る金額（以下この条において「特別法人事業税に係る延滞金等」という。）並びに法人の事業税に係る延滞金及び加算金並びに当該延滞金の免除に係る金額（以下この条において「法人の事業税に係る延滞金等」という。）の計算については、特別法人事業税及び法人の事業税の合算額により行い、政令で定めるところにより、算出された特別法人事業税に係る延滞金等及び法人の事業税に係る延滞金等をその計算の基礎となった特別法人事業税及び法人の事業税の額に按分した額に相当する金額を特別法人事業税に係る延滞金等又は法人の事業税に係る延滞金等の額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特別法人事業税に係る徴収金に係る還付加算金及び法人の事業税に係る地方団体の徴収金に係る還付加算金の計算については、特別法人事業税に係る還付金及び法人の事業税に係る還付金又は特別法人事業税に係る徴収金に係る過誤納金及び法人の事業税に係る地方団体の徴収金に係る過誤納金の合算額により行い、政令で定めるところにより、算出された還付加算金をその計算の基礎となった特別法人事業税に係る還付金及び法人の事業税に係る還付金又は特別法人事業税に係る徴収金に係る過誤納金及び法人の事業税に係る地方団体の徴収金に係る過誤納金の額に按分した額に相当する金額を特別法人事業税に係る徴収金に係る還付加算金又は法人の事業税に係る地方団体の徴収金に係る還付加算金の額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の規定により特別法人事業税に係る延滞金等及び法人の事業税に係る延滞金等並びに特別法人事業税に係る徴収金に係る還付加算金及び法人の事業税に係る地方団体の徴収金に係る還付加算金の計算をする場合の端数計算は、特別法人事業税及び法人の事業税を一の税とみなしてこれを行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（充当等の特例）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">地方税法第十七条の二の規定並びに同法第五十三条第三十二項（同法第五十五条第五項において準用する場合を含む。）、第五十三条第五十五項、第五十八項及び第五十九項、第七十二条の二十四の十第三項及び第七項、第七十二条の二十四の十一第四項、第七十二条の二十八第四項（同法第七十二条の四十一の四において準用する場合を含む。）、第七十二条の八十八第二項及び第三項、第七十三条の二第九項（同法第七十三条の二十七第二項及び第七十三条の二十七の四第五項において準用する場合を含む。）、第七十四条の十四第三項、第百四十四条の三十第二項、第百六十四条第七項（同法第百六十五条第三項において準用する場合を含む。）、第三百二十一条の八第三十二項（同法第三百二十一条の十一第五項において準用する場合を含む。）、第三百二十一条の八第五十五項、第五十八項及び第五十九項、第三百六十四条第六項（同法第七百四十五条第一項において準用する場合を含む。）並びに第六百一条第八項（同法第六百二条第二項、第六百三条第四項、第六百三条の二第六項、第六百三条の二の二第二項及び第六百二十九条第八項において準用する場合を含む。）の規定（これらの規定中充当に係る部分に限る。）その他政令で定める規定は、次の各号のいずれかに該当する還付金及び過誤納金については、適用しない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第八条又は第九条の規定により併せて賦課され、又は申告された特別法人事業税及び法人の事業税に係る還付金をその額の計算の基礎となった事業年度の特別法人事業税に係る徴収金及び法人の事業税に係る地方団体の徴収金で納付すべきこととなっているものに充当する場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第八条又は第九条の規定により併せて賦課され、又は申告された特別法人事業税に係る還付金等及び法人の事業税に係る還付金等（以下この条において「特別法人事業税等還付金等」という。）の還付を受けるべき者につき納付すべきこととなっている地方団体の徴収金がある場合における当該特別法人事業税等還付金等</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">地方税に係る還付金又は地方団体の徴収金に係る過誤納金（法人の事業税に係る還付金等を除く。以下この号において「地方税に係る還付金等」という。）の還付を受けるべき者につき第八条又は第九条の規定により併せて賦課され、又は申告された特別法人事業税に係る徴収金及び法人の事業税に係る地方団体の徴収金で納付すべきこととなっているもの（次項及び第三項において「未納特別法人事業税等」という。）がある場合における当該地方税に係る還付金等</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項第一号に規定する場合には、特別法人事業税等還付金等の還付を受けるべき者は、当該還付をすべき都道府県知事に対し、当該特別法人事業税等還付金等（未納特別法人事業税等又は納付すべきこととなっているその他の地方団体の徴収金に係る金額に相当する額を限度とする。）により未納特別法人事業税等又は納付すべきこととなっているその他の地方団体の徴収金を納付することを委託したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項第二号に規定する場合には、同号の地方税に係る還付金等の還付を受けるべき者は、当該還付をすべき都道府県知事に対し、当該地方税に係る還付金等（未納特別法人事業税等に係る金額に相当する額を限度とする。）により未納特別法人事業税等を納付することを委託したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の規定が適用される場合には、これらの規定による委託納付をするのに適することとなった時として政令で定める時に、その委託納付に相当する額の還付及び納付があったものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二項又は第三項の規定が適用される場合には、これらの規定による納付をした都道府県知事は、遅滞なく、その旨をこれらの規定により委託したものとみなされた者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（納税管理人）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">地方税法の規定により定められた法人の事業税の納税管理人は、当該都道府県における当該納税義務者に係る特別法人事業税の納税管理人として、納税に関する一切の事項を処理しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（処分に関する不服審査等）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事が第八条の規定により当該都道府県の法人の事業税と併せて賦課徴収を行う特別法人事業税に関する処分は、不服申立て及び訴訟については、地方税法に基づく処分とみなして、同法第一章第十三節の規定を適用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同法第十九条中「地方団体の徴収金に」とあるのは「地方団体の徴収金及び特別法人事業税及び特別法人事業譲与税に関する法律（平成三十一年法律第四号）第二条第九号に規定する特別法人事業税に係る徴収金（第九号及び第十九条の七において「特別法人事業税に係る徴収金」という。）に」と、同条第九号並びに同法第十九条の七第一項及び第二項中「地方団体の徴収金」とあるのは「地方団体の徴収金及び特別法人事業税に係る徴収金」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（犯則事件の調査及び処分）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特別法人事業税に関する犯則事件については、法人の事業税に関する犯則事件とみなして、地方税法第一章第十六節の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（賦課徴収又は申告納付に関する報告等）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、政令で定めるところにより、総務大臣に対し、特別法人事業税の申告の件数、特別法人事業税額、特別法人事業税に係る滞納の状況その他必要な事項を報告するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">総務大臣は、必要があると認める場合には、前項に規定するもののほか、都道府県知事に対し、当該都道府県に係る特別法人事業税の賦課徴収又は申告納付に関する事項の報告を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">総務大臣が都道府県知事に対し、特別法人事業税及び法人の事業税の賦課徴収に関する書類を閲覧し、又は記録することを求めた場合には、都道府県知事は、関係書類を総務大臣又はその指定する職員に閲覧させ、又は記録させるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="5">
+          <SectionTitle>第五節　雑則</SectionTitle>
+          <Article Num="19">
+            <ArticleCaption>（申告の特例）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第九条の規定により地方税法第七十二条の二十五、第七十二条の二十六、第七十二条の二十八、第七十二条の二十九又は第七十二条の三十一の規定による法人の事業税に係る申告書と併せて提出しなければならない第九条の規定による申告書の提出については、同法第七百四十七条の二第一項に規定する地方税関係申告等とみなして、同条の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（収納の特例）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十条の規定により法人の事業税に係る地方団体の徴収金と併せて納付しなければならない特別法人事業税に係る徴収金の収納の事務については、特別法人事業税に係る徴収金を普通地方公共団体（特別区を含む。以下この項において同じ。）の歳入とみなして、普通地方公共団体の歳入の収納の事務に関する政令で定める法令の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十条の規定により法人の事業税に係る地方団体の徴収金と併せて納付しなければならない特別法人事業税に係る徴収金の収納の事務については、特別法人事業税に係る徴収金を地方団体の徴収金とみなして、地方税法第七百四十七条の六から第七百四十七条の十二までの規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（事務の区分）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この章の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="6">
+          <SectionTitle>第六節　罰則</SectionTitle>
+          <Article Num="22">
+            <ArticleCaption>（検査拒否等に関する罪）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第八条の規定によりその例によることとされる地方税法第七十二条の七の規定による帳簿書類その他の物件の検査を拒み、妨げ、又は忌避したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第八条の規定によりその例によることとされる地方税法第七十二条の七第一項の規定による物件の提示又は提出の要求に対し、正当な理由がなくこれに応ぜず、又は偽りの記載若しくは記録をした帳簿書類その他の物件（その写しを含む。）を提示し、若しくは提出したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第八条の規定によりその例によることとされる地方税法第七十二条の七の規定による徴税吏員の質問に対し答弁をしないとき、又は虚偽の答弁をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人の代表者（人格のない社団等の管理人を含む。次条第一項及び第二項、第二十五条第一項、第三項及び第五項、第二十六条第四項並びに第二十七条第二項において同じ。）又は法人若しくは人の代理人、使用人その他の従業者がその法人又は人の業務又は財産に関して前項の違反行為をした場合には、その行為者を罰するほか、その法人又は人に対し、同項の罰金刑を科する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">人格のない社団等について前項の規定の適用がある場合には、その代表者又は管理人がその訴訟行為につき当該人格のない社団等を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（故意不申告の罪）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">正当な事由がなくて第九条の規定により地方税法第七十二条の二十五第一項、第七十二条の二十八第一項又は第七十二条の二十九第一項、第三項若しくは第五項の規定による申告書と併せて提出しなければならない第九条の規定による申告書を当該各項に規定する申告書の提出期限内に提出しなかった場合には、法人の代表者（法人課税信託（同法第七十二条の二第四項に規定する法人課税信託をいう。次条第一項及び第二十五条第一項において同じ。）の受託者である個人を含む。）、代理人、使用人その他の従業者でその違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、情状により、その刑を免除することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人の代表者又は代理人、使用人その他の従業者が、その法人の業務又は財産に関して、前項の違反行為をしたときは、その行為者を罰するほか、その法人に対し、同項の罰金刑を科する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">人格のない社団等について前項の規定の適用がある場合には、その代表者又は管理人がその訴訟行為につき当該人格のない社団等を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（虚偽の中間申告納付に関する罪）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第九条の規定により地方税法第七十二条の二十六第一項ただし書の規定による申告書と併せて提出しなければならない第九条の規定による申告書に虚偽の記載をして提出した場合には、法人の代表者（法人課税信託の受託者である個人を含む。）、代理人、使用人その他の従業者でその違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人の代表者又は代理人、使用人その他の従業者が、その法人の業務又は財産に関して、前項の違反行為をしたときは、その行為者を罰するほか、その法人に対し、同項の罰金刑を科する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（脱税に関する罪）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">偽りその他不正の行為により特別法人事業税の全部又は一部を免れた場合には、法人の代表者（法人課税信託の受託者である個人を含む。第三項において同じ。）、代理人、使用人その他の従業者で、その違反行為をした者は、十年以下の拘禁刑若しくは千万円以下の罰金に処し、又はこれを併科する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の免れた税額が千万円を超える場合には、情状により、同項の罰金の額は、同項の規定にかかわらず、千万円を超える額でその免れた税額に相当する額以下の額とすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項に規定するもののほか、第九条の規定により地方税法第七十二条の二十五第一項、第七十二条の二十八第一項又は第七十二条の二十九第一項、第三項若しくは第五項の規定による申告書と併せて提出しなければならない第九条の規定による申告書を当該各項に規定する申告書の提出期限内に提出しないことにより、特別法人事業税の全部又は一部を免れた場合には、法人の代表者、代理人、使用人その他の従業者で、その違反行為をした者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の免れた税額が五百万円を超える場合には、情状により、同項の罰金の額は、同項の規定にかかわらず、五百万円を超える額でその免れた税額に相当する額以下の額とすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人の代表者又は代理人、使用人その他の従業者がその法人の業務又は財産に関して第一項又は第三項の違反行為をした場合には、その行為者を罰するほか、その法人に対し、当該各項の罰金刑を科する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により第一項又は第三項の違反行為につき法人に罰金刑を科する場合における時効の期間は、これらの項の罪についての時効の期間による。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">人格のない社団等について第五項の規定の適用がある場合には、その代表者又は管理人がその訴訟行為につき当該人格のない社団等を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleCaption>（滞納処分に関する罪）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特別法人事業税の納税者が滞納処分の執行を免れる目的でその財産を隠蔽し、損壊し、若しくは都道府県の不利益に処分し、その財産に係る負担を偽って増加する行為をし、又はその現状を改変して、その財産の価額を減損し、若しくはその滞納処分に係る滞納処分費を増大させる行為をしたときは、その者は、三年以下の拘禁刑若しくは二百五十万円以下の罰金に処し、又はこれを併科する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">納税者の財産を占有する第三者が納税者に滞納処分の執行を免れさせる目的で前項の行為をしたときも、同項と同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">情を知って前二項の行為につき納税者又はその財産を占有する第三者の相手方となったときは、その相手方としてその違反行為をした者は、二年以下の拘禁刑若しくは百五十万円以下の罰金に処し、又はこれを併科する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人の代表者又は代理人、使用人その他の従業者がその法人又は人の業務又は財産に関して前三項の違反行為をした場合には、その行為者を罰するほか、その法人に対し、当該各項の罰金刑を科する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">人格のない社団等について前項の規定の適用がある場合には、その代表者又は管理人がその訴訟行為につき当該人格のない社団等を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（滞納処分に関する検査拒否等の罪）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第八条の規定によりその例によることとされる地方税法第七十二条の六十八第六項の場合において、国税徴収法（昭和三十四年法律第百四十七号）第百四十一条の規定の例により行う都道府県の徴税吏員の質問に対して答弁をせず、又は偽りの陳述をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第八条の規定によりその例によることとされる地方税法第七十二条の六十八第六項の場合において、国税徴収法第百四十一条の規定の例により行う都道府県の徴税吏員の帳簿書類（同条に規定する帳簿書類をいう。次号において同じ。）その他の物件の検査を拒み、妨げ、又は忌避したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第八条の規定によりその例によることとされる地方税法第七十二条の六十八第六項の場合において、国税徴収法第百四十一条の規定の例により行う都道府県の徴税吏員の物件の提示又は提出の要求に対し、正当な理由がなくこれに応じず、又は偽りの記載若しくは記録をした帳簿書類その他の物件（その写しを含む。）を提示し、若しくは提出したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人の代表者又は代理人、使用人その他の従業者がその法人の業務又は財産に関して前項の違反行為をした場合には、その行為者を罰するほか、その法人に対し、同項の罰金刑を科する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">人格のない社団等について前項の規定の適用がある場合には、その代表者又は管理人がその訴訟行為につき当該人格のない社団等を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27_2">
+            <ArticleCaption>（滞納処分に関する虚偽の陳述の罪）</ArticleCaption>
+            <ArticleTitle>第二十七条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第八条の規定によりその例によることとされる地方税法第七十二条の六十八第六項の場合において、国税徴収法第九十九条の二（同法第百九条第四項において準用する場合を含む。）の規定の例により都道府県知事に対して陳述すべき事項について虚偽の陳述をした者は、六月以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="28">
+            <ArticleCaption>（秘密漏えいに関する罪）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特別法人事業税に関する調査（特別法人事業税に関する処分についての不服申立てに係る事件の審理のための調査及び特別法人事業税に関する犯則事件の調査を含む。）若しくは租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号）の規定により行う情報の提供のための調査に関する事務又は特別法人事業税の徴収に関する事務に従事している者又は従事していた者は、これらの事務に関して知り得た秘密を漏らし、又は盗用した場合には、二年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　特別法人事業譲与税</ChapterTitle>
+        <Article Num="29">
+          <ArticleCaption>（特別法人事業譲与税）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特別法人事業譲与税は、特別法人事業税の収入額に相当する額とし、都道府県に対して譲与するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（毎年度の譲与額）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">毎年度、各都道府県に対して譲与する特別法人事業譲与税の額は、基準特別法人事業譲与税額（当該年度において財源超過団体がある場合には、財源超過団体にあっては第一号に掲げる額とし、財源不足団体にあっては第二号に掲げる額とする。）とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該財源超過団体に係る基準特別法人事業譲与税額から当該基準特別法人事業譲与税額の百分の七十五に相当する額（当該額が当該財源超過団体に係る財源超過額を超える場合には、当該財源超過額とする。）を控除した額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該財源不足団体に係る基準特別法人事業譲与税額に財源超過団体における前号に規定する控除した額の合算額を各財源不足団体の人口（官報で公示された最近の国勢調査の結果による人口をいう。次項及び次条において同じ。）で按分した額を加えた額</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この条において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">基準特別法人事業譲与税額</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次条第一項の規定により当該年度において譲与すべき特別法人事業譲与税の総額に相当する額を各都道府県の人口で按分した額をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">財源超過団体</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">イに掲げる額がロに掲げる額を超える都道府県をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地方交付税法（昭和二十五年法律第二百十一号）第十条第三項本文の規定により総務大臣が決定した当該年度の普通交付税の額（ロにおいて「当該年度普通交付税額」という。）の算定に用いられた基準財政収入額から当該基準財政収入額の算定基礎となった特別法人事業譲与税の収入見込額の百分の七十五に相当する額を控除した額に、基準特別法人事業譲与税見込額（次条第一項の規定により当該年度において譲与すべき特別法人事業譲与税の総額の見込額として総務省令で定めるところにより算定した額を各都道府県の人口で按分した額をいう。）の百分の七十五に相当する額を加算した額</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該年度普通交付税額の算定に用いられた基準財政需要額</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">財源不足団体</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">財源超過団体以外の都道府県をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">財源超過額</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">第二号イに掲げる額から同号ロに掲げる額を控除した額をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（譲与時期及び各譲与時期の譲与額）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特別法人事業譲与税は、毎年度、次の表の上欄に掲げる譲与時期に、それぞれ同表の下欄に掲げる額を譲与する。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">譲与時期</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">各譲与時期に譲与すべき額</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">五月</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">当該年度の初日の属する年の二月から四月までの間の収納に係る特別法人事業税の収入額に相当する額</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">八月</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">当該年度の初日の属する年の五月から七月までの間の収納に係る特別法人事業税の収入額に相当する額</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">十一月</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">当該年度の初日の属する年の八月から十月までの間の収納に係る特別法人事業税の収入額に相当する額</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">二月</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">当該年度の初日の属する年の十一月から翌年の一月までの間の収納に係る特別法人事業税の収入額に相当する額</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">各譲与時期に各都道府県に対して譲与する特別法人事業譲与税の額は、基準各譲与時期特別法人事業譲与税額（当該年度において前条第二項第二号に規定する財源超過団体（以下この項及び第五項において「財源超過団体」という。）がある場合には、財源超過団体にあっては第一号に掲げる額とし、同条第二項第三号に規定する財源不足団体（第二号において「財源不足団体」という。）にあっては第二号に掲げる額とする。）とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次の表の上欄に掲げる譲与時期の区分に応じ、それぞれ同表の下欄に掲げる額</Sentence>
+              </ItemSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">譲与時期</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">各譲与時期に譲与すべき額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">五月</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">基準各譲与時期特別法人事業譲与税額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">八月</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">基準各譲与時期特別法人事業譲与税額から五月分財源超過団体譲与制限額の三分の一に相当する額及び八月分財源超過団体譲与制限額の合算額を控除した額（当該額が零を下回る場合には、零とする。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">十一月</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">基準各譲与時期特別法人事業譲与税額から五月分財源超過団体譲与制限額の三分の一に相当する額及び十一月分財源超過団体譲与制限額の合算額を控除した額（当該額が零を下回る場合には、零とする。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">二月</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">基準各譲与時期特別法人事業譲与税額から五月分財源超過団体譲与制限額の三分の一に相当する額及び二月分財源超過団体譲与制限額の合算額を控除した額（当該額が零を下回る場合には、零とする。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次の表の上欄に掲げる譲与時期の区分に応じ、それぞれ同表の下欄に掲げる額</Sentence>
+              </ItemSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">譲与時期</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">各譲与時期に譲与すべき額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">五月</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">基準各譲与時期特別法人事業譲与税額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">八月</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">基準各譲与時期特別法人事業譲与税額に財源超過団体における前号の表八月の項の規定により控除した額の合算額を各財源不足団体の人口で按分した額を加えた額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">十一月</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">基準各譲与時期特別法人事業譲与税額に財源超過団体における前号の表十一月の項の規定により控除した額の合算額を各財源不足団体の人口で按分した額を加えた額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">二月</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">基準各譲与時期特別法人事業譲与税額に財源超過団体における前号の表二月の項の規定により控除した額の合算額を各財源不足団体の人口で按分した額を加えた額</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">各譲与時期に譲与することができなかった金額があるとき、各譲与時期において譲与すべき額を超えて譲与した金額があるとき、又は八月、十一月若しくは二月の譲与時期において基準各譲与時期特別法人事業譲与税額を超えて前項第一号の表八月の項、十一月の項若しくは二月の項の規定により控除すべき金額があるときは、それぞれ当該金額を、その次の譲与時期に譲与すべき額に加算し、又はこれから減額するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項の規定により計算した各譲与時期に各都道府県に対して譲与する特別法人事業譲与税の額に千円未満の端数金額があるときは、その端数金額を切り捨てるものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、当該譲与時期に譲与すべき特別法人事業譲与税の額は、第一項の規定により各譲与時期に譲与すべき額からそれらの端数金額を控除した金額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この条において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">基準各譲与時期特別法人事業譲与税額</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">第一項の規定により各譲与時期に譲与すべき特別法人事業譲与税の額を各都道府県の人口で按分した額をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">五月分財源超過団体譲与制限額</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">財源超過団体における五月の譲与時期に係る基準各譲与時期特別法人事業譲与税額の百分の七十五に相当する額（当該額が当該財源超過団体に係る前条第二項第四号に規定する財源超過額（以下この項において「財源超過額」という。）を超える場合には、当該財源超過額とする。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">八月分財源超過団体譲与制限額</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">財源超過団体における八月の譲与時期に係る基準各譲与時期特別法人事業譲与税額の百分の七十五に相当する額（当該額に当該財源超過団体に係る五月分財源超過団体譲与制限額を加えた額が財源超過額を超える場合には、当該財源超過額から当該加えた額を控除した額とする。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">十一月分財源超過団体譲与制限額</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">財源超過団体における十一月の譲与時期に係る基準各譲与時期特別法人事業譲与税額の百分の七十五に相当する額（当該額に当該財源超過団体に係る五月分財源超過団体譲与制限額及び八月分財源超過団体譲与制限額の合算額を加えた額が財源超過額を超える場合には、当該財源超過額から当該合算額を控除した額とする。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">二月分財源超過団体譲与制限額</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">財源超過団体における二月の譲与時期に係る基準各譲与時期特別法人事業譲与税額の百分の七十五に相当する額（当該額に当該財源超過団体に係る五月分財源超過団体譲与制限額、八月分財源超過団体譲与制限額及び十一月分財源超過団体譲与制限額の合算額を加えた額が財源超過額を超える場合には、当該財源超過額から当該合算額を控除した額とする。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（譲与すべき額の算定に錯誤があった場合の措置）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">総務大臣は、特別法人事業譲与税を都道府県に譲与した後において、その譲与した額の算定に錯誤があったため、譲与した額を増加し、又は減少する必要が生じたときは、総務省令で定めるところにより、当該増加し、又は減少すべき額を、錯誤があったことを発見した日以後に到来する譲与時期において譲与すべき額に加算し、又はこれから減額した額をもって当該譲与時期において都道府県に譲与すべき額とするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（地方財政審議会の意見の聴取）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">総務大臣は、第三十条第二項第二号イ若しくは前条の総務省令を制定し、若しくは改廃しようとするとき、又は都道府県に対して譲与すべき特別法人事業譲与税を譲与しようとするときは、地方財政審議会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（特別法人事業譲与税の使途）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、特別法人事業譲与税の譲与に当たっては、その使途について条件を付け、又は制限してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Num="35">
+          <ArticleCaption>（命令への委任）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律の実施のための手続その他この法律の施行に関し必要な事項は、命令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和元年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（適用区分）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二章の規定は、この法律の施行の日（以下「施行日」という。）以後に開始する事業年度に係る法人の事業税と併せて賦課され、又は申告される特別法人事業税について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三章の規定は、令和二年五月の譲与時期以後に譲与する特別法人事業譲与税について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（特別法人事業税における中間申告等の経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日以後に開始する最初の事業年度に係る特別法人事業税についての第九条及び第十条第一項の規定によりその例によることとされる地方税法第七十二条の二十六第一項の規定の適用については、同項中「六倍」とあるのは、「二・三倍」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和二年度における特別法人事業譲与税についての第三十一条第一項の規定の適用については、同項の表五月の項中「二月から四月まで」とあるのは、「前年の十月から翌年の四月まで」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（旧地方法人特別税に係る還付金等があった場合の経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県が令和二年二月以後になお効力を有する廃止前暫定措置法（地方税法等の一部を改正する等の法律（平成二十八年法律第十三号）附則第三十一条第二項の規定によりなおその効力を有するものとされた同法第九条の規定による廃止前の地方法人特別税等に関する暫定措置法（平成二十年法律第二十五号）をいう。以下この条及び次条において同じ。）第十三条の規定によりなお効力を有する廃止前暫定措置法に規定する地方法人特別税（次条において「旧地方法人特別税」という。）に係るなお効力を有する廃止前暫定措置法第十三条第三項に規定する還付金等（以下この条において「旧地方法人特別税に係る還付金等」という。）を還付することとした場合又は令和二年一月までになお効力を有する廃止前暫定措置法第十三条の規定により旧地方法人特別税に係る還付金等に相当する額のうち同月までになお効力を有する廃止前暫定措置法第十四条第一項に規定する払込予定額（以下この条において「旧地方法人特別税に係る払込予定額」という。）の総額から控除されなかった額がある場合には、同年二月以後においては、当該還付することとした旧地方法人特別税に係る還付金等に相当する額又は当該控除されなかった額は第十二条第一項に規定する特別法人事業税に係る還付金等に相当する額とみなし、かつ、旧地方法人特別税に係る払込予定額は同項に規定する払込予定額とみなして、同条の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（旧地方法人特別税の収入額に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">なお効力を有する廃止前暫定措置法第十二条第三項の規定により令和二年二月以後に都道府県から国に払い込まれた旧地方法人特別税の収入額は、第二十九条及び第三十一条第一項に規定する特別法人事業税の収入額とみなして、これらの規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（旧地方法人特別譲与税について譲与することができなかった金額があった場合等の経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地方税法等の一部を改正する等の法律（平成二十八年法律第十三号）附則第三十二条の規定によりなおその効力を有するものとされた同法第九条の規定による廃止前の地方法人特別税等に関する暫定措置法（以下この条において「なお効力を有する廃止前暫定措置法」という。）第三十四条第一項及び第二項の規定により計算した令和二年二月の譲与時期に各都道府県に対して譲与するなお効力を有する廃止前暫定措置法に規定する地方法人特別譲与税（次条において「旧地方法人特別譲与税」という。）について、当該譲与時期に譲与することができなかった金額があるとき、又は当該譲与時期において譲与すべき額を超えて譲与した金額があるときは、それぞれ当該金額を、同年五月の譲与時期に譲与すべき特別法人事業譲与税の額に加算し、又はこれから減額するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（旧地方法人特別譲与税の譲与すべき額の算定に錯誤があった場合の経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">総務大臣が、令和二年二月の譲与時期までに、令和元年十一月の譲与時期までに都道府県に譲与した旧地方法人特別譲与税の額の算定に錯誤があったことを発見したことにより、当該譲与した額を増加し、又は減少する必要が生じ、かつ、当該増加し、又は減少すべき額について、令和二年二月の譲与時期までに譲与すべき旧地方法人特別譲与税の額に加算し、又はこれから減額しきれなかった額があるときは、総務省令で定めるところにより、当該加算し、又は減額しきれなかった額を、同年五月の譲与時期以後に到来する特別法人事業譲与税の譲与時期において譲与すべき特別法人事業譲与税の額に加算し、又はこれから減額した額をもって当該譲与時期において都道府県に譲与すべき特別法人事業譲与税の額とするものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">総務大臣が、令和二年二月の譲与時期後に、当該譲与時期までに都道府県に譲与した旧地方法人特別譲与税の額の算定に錯誤があったことを発見したことにより、当該譲与した額を増加し、又は減少する必要が生じたときは、総務省令で定めるところにより、当該増加し、又は減少すべき額を、錯誤があったことを発見した日以後に到来する特別法人事業譲与税の譲与時期において譲与すべき特別法人事業譲与税の額に加算し、又はこれから減額した額をもって当該譲与時期において都道府県に譲与すべき特別法人事業譲与税の額とするものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三十三条の規定は、前二項の総務省令を制定し、又は改廃しようとするときについて準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後適当な時期において、この法律の施行の状況を勘案し、必要があると認めるときは、この法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年三月三一日法律第三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成三十年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:6">
+            <ItemTitle>一から六まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条（次号及び第九号に掲げる改正規定を除く。）、第九条中外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律第三十八条第一項ただし書の改正規定、同条第五項の改正規定（「第七十二条の三十三第三項」を「第七十二条の三十一第三項」に改める部分に限る。）及び同法第四十条第五項の改正規定（「第七十二条の三十三第三項」を「第七十二条の三十一第三項」に改める部分に限る。）並びに第十二条中地方税法等の一部を改正する等の法律（平成二十八年法律第十三号）附則第三十一条第二項の規定によりなおその効力を有するものとされた同法第九条の規定による廃止前の地方法人特別税等に関する暫定措置法第二十一条の改正規定並びに附則第五条第二項、第八条、第九条、第十九条第二項及び第四十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和二年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三一年三月二九日法律第二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成三十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中地方税法の目次の改正規定、同法第二十三条第一項第十一号及び第十二号、第二十四条の五第一項第二号、第二十七条第二項、第三十四条、第三十七条第一号イの表、第四十一条第二項、第四十五条の二第一項、第五十条、第七十一条から第七十一条の四まで、第七十一条の二十二から第七十一条の二十五まで、第七十一条の四十三から第七十一条の四十六まで、第七十一条の六十三から第七十一条の六十六まで、第七十二条の五十並びに第七十二条の七十一から第七十二条の七十五までの改正規定、同法第二章第四節第四款中第七十三条の三十八の次に一条を加える改正規定、同章第五節第三款中第七十四条の二十九の次に一条を加える改正規定、同法第九十七条から第百二条まで、第百四十四条の五十四から第百四十四条の五十九まで及び第百七十七条の二から第百七十七条の五までの改正規定、同章第八節第三款第三目中第百七十七条の二十三の次に一条を加える改正規定、同法第二百三条から第二百五十八条まで、第二百八十八条、第二百八十九条、第二百九十二条第一項第十一号及び第十二号、第二百九十五条第一項第二号、第三百十四条の二、第三百十四条の六第一号イの表、第三百十七条の二第一項、第三百三十四条から第三百四十条まで、第三百七十六条から第三百七十九条まで並びに第四百六十三条の十から第四百六十三条の十四までの改正規定、同法第三章第三節第三款第三目中第四百六十三条の二十九の次に一条を加える改正規定、同法第四百八十五条の六から第四百八十五条の十二まで、第五百四十四条から第五百五十条まで及び第六百十六条から第六百二十条までの改正規定、同法第六百九十七条の次に一条を加える改正規定、同法第七百条の六十八の次に一条を加える改正規定、同法第七百一条の二十一から第七百一条の二十九まで、第七百一条の六十八から第七百一条の七十二まで及び第七百二条の八第八項の改正規定、同法第四章第七節中第七百三十条の次に一条を加える改正規定、同法第七百三十三条の二十六の次に一条を加える改正規定並びに同法第七百四十五条第一項の改正規定並びに同法附則第三条の二、第四条第七項第一号及び第十三項第一号並びに第四条の二第七項第一号及び第十三項第一号の改正規定、同法附則第四条の四第一項及び第三項の改正規定（「同条第七項」を「同条第六項」に改める部分に限る。）並びに同法附則第三十三条の二第三項第一号及び第七項第一号、第三十三条の三第三項第一号及び第七項第一号、第三十四条第三項第一号及び第六項第一号、第三十五条第四項第一号及び第八項第一号、第三十五条の二第四項第一号及び第八項第一号並びに第三十五条の四第二項第一号及び第五項第一号の改正規定、第五条の規定並びに第七条中特別法人事業税及び特別法人事業譲与税に関する法律第二十七条の次に一条を加える改正規定並びに附則第三条、第四条第二項及び第三項、第十二条第二項及び第三項、第二十七条（外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律（昭和三十七年法律第百四十四号）第八条、第十二条第四項、第十六条第一項並びに第三十四条第三項及び第十一項の改正規定に限る。）、第二十八条第一項から第四項まで、第二十九条並びに第三十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和三年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3:4">
+            <ItemTitle>三及び四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条（前二号、次号及び第十号に掲げる改正規定を除く。）の規定及び第七条中特別法人事業税及び特別法人事業譲与税に関する法律第十四条第一項の改正規定並びに附則第五条第二項から第八項まで、第七条、第十三条第二項から第八項まで、第二十七条（外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律第三十八条から第四十条までの改正規定に限る。）、第二十八条第五項から第七項まで及び第三十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和四年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleCaption>（特別法人事業税及び特別法人事業譲与税に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第七条の規定による改正後の特別法人事業税及び特別法人事業譲与税に関する法律第七条の規定は、施行日以後に開始する事業年度に係る法人の事業税と併せて賦課され、又は申告される特別法人事業税について適用し、施行日前に開始した事業年度に係る法人の事業税と併せて賦課され、又は申告される特別法人事業税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる地方税及び特別法人事業税並びにこの附則の規定によりなお効力を有することとされる旧法の規定に係る地方税に係るこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日法律第七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中地方税法の目次の改正規定（「第十三条の三」を「第十三条の四」に改める部分に限る。）及び同法第一章第六節中第十三条の三の次に一条を加える改正規定並びに第六条並びに附則第十九条第二項から第五項まで及び第二十四条から第二十八条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和四年一月四日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる地方税に係るこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="28">
+        <ArticleCaption>（特別法人事業税及び特別法人事業譲与税に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和五年三月三十一日までの間における前条の規定による改正後の特別法人事業税及び特別法人事業譲与税に関する法律第二十条第一項の規定の適用については、同項中「みなして、」とあるのは、「みなして、地方税法等の一部を改正する法律（令和三年法律第七号）附則第十九条第二項の規定によりなお従前の例によることとされた同法第六条の規定による改正前の地方自治法（昭和二十二年法律第六十七号）第二百三十一条の二第六項その他」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年三月三一日法律第一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和四年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:3">
+            <ItemTitle>一から三まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条（次号及び第十号に掲げる改正規定を除く。）、第十一条、第十二条（森林環境税及び森林環境譲与税に関する法律第二十条第二項の改正規定に限る。）及び第十三条（特別法人事業税及び特別法人事業譲与税に関する法律第二十条第二項の改正規定に限る。）並びに附則第九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和五年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleCaption>（特別法人事業税及び特別法人事業譲与税に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第十三条の規定による改正後の特別法人事業税及び特別法人事業譲与税に関する法律第七条の規定は、施行日以後に開始する事業年度に係る法人の事業税と併せて賦課され、又は申告される特別法人事業税について適用し、施行日前に開始した事業年度に係る法人の事業税と併せて賦課され、又は申告される特別法人事業税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる地方税及び特別法人事業税並びにこの附則の規定によりなお効力を有することとされる旧法の規定に係る地方税に係るこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="24">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年三月三一日法律第一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中地方税法第十五条の二、第十五条の六の二第三項、第十七条の五第六項、第二十二条の二第一項、第二十二条の四第一項、第二十七条第一項、第三十条、第六十九条、第七十条、第七十一条の十四、第七十一条の十五第三項及び第四項、第七十一条の十六第一項、第七十一条の二十第一項及び第三項、第七十一条の二十一第一項、第七十一条の三十五、第七十一条の三十六第三項及び第四項、第七十一条の三十七第一項、第七十一条の四十一第一項及び第三項、第七十一条の四十二第一項、第七十一条の五十五、第七十一条の五十六第三項及び第四項、第七十一条の五十七第一項、第七十一条の六十一第一項及び第三項、第七十一条の六十二第一項、第七十二条の八、第七十二条の十、第七十二条の四十六、第七十二条の四十七第三項及び第四項、第七十二条の四十九第一項及び第三項、第七十二条の四十九の十、第七十二条の五十六、第七十二条の六十、第七十二条の六十四、第七十二条の六十九、第七十二条の七十、第七十二条の八十五、第七十二条の九十一、第七十二条の九十二、第七十二条の九十五、第七十二条の百二、第七十二条の百九第一項、第七十二条の百十、第七十三条の九、第七十三条の十一、第七十三条の十九、第七十三条の三十、第七十三条の三十七、第七十三条の三十八、第七十四条の八第一項、第七十四条の十五、第七十四条の十八第一項、第七十四条の二十三、第七十四条の二十四第三項及び第四項、第七十四条の二十八第一項及び第三項、第七十四条の二十九第一項、第七十八条、第八十条、第八十五条、第八十六条、第九十条、第九十一条第三項及び第四項、第九十五条、第九十六条、第百四十四条の十二、第百四十四条の十七、第百四十四条の十九、第百四十四条の二十二、第百四十四条の二十五、第百四十四条の二十六、第百四十四条の二十八、第百四十四条の三十三、第百四十四条の三十七、第百四十四条の三十九、第百四十四条の四十一、第百四十四条の四十七、第百四十四条の四十八第三項及び第四項、第百四十四条の五十二、第百四十四条の五十三、第百四十九条、第百五十二条第一項、第百五十四条第一項、第百五十七条、第百六十六条第一項及び第三項、第百七十一条、第百七十二条第三項及び第四項、第百七十六条第一項及び第三項、第百七十七条第一項、第百七十七条の十四第一項、第百七十七条の十六第一項及び第三項、第百七十七条の二十二第一項及び第三項、第百七十七条の二十三第一項、第百八十六条、第百八十九条、第百九十一条、第百九十二条、第二百一条、第二百二条、第二百六十五条、第二百六十七条、第二百七十二条、第二百七十八条、第二百七十九条第三項及び第四項、第二百八十一条、第二百八十六条、第二百八十七条、第二百九十九条第一項、第三百一条、第三百十七条の四第一項、第三百十七条の七、第三百二十四条、第三百二十八条の十一、第三百二十八条の十二第三項及び第四項、第三百二十八条の十六第一項及び第二項、第三百三十二条、第三百三十三条、第三百五十四条、第三百五十六条、第三百五十八条、第三百七十四条、第三百七十五条、第三百八十五条第一項、第三百九十五条、第三百九十七条、第四百四十六条、第四百四十九条第一項、第四百五十一条、第四百六十条第一項及び第三項、第四百六十三条の三、第四百六十三条の四第三項及び第四項、第四百六十三条の八第一項及び第三項、第四百六十三条の九第一項、第四百六十三条の二十第一項、第四百六十三条の二十二、第四百六十三条の二十八第一項及び第三項、第四百六十三条の二十九、第四百七十一条第一項、第四百七十八条、第四百八十三条、第四百八十四条第三項及び第四項、第四百八十五条の四第一項及び第三項、第四百八十五条の五第一項、第五百二十六条、第五百二十八条、第五百三十条、第五百三十六条、第五百三十七条第三項及び第四項、第五百四十二条、第五百四十三条、第五百八十九条第一項、第五百九十一条、第六百四条第一項及び第三項、第六百九条、第六百十条第三項及び第四項、第六百十四条第一項及び第三項、第六百十五条第一項、第六百七十五条、第六百七十七条、第六百八十二条、第六百八十八条、第六百八十九条第三項及び第四項、第六百九十一条、第六百九十六条、第六百九十七条、第七百条の五十七、第七百条の六十、第七百条の六十一、第七百条の六十七、第七百条の六十八、第七百一条の六、第七百一条の七、第七百一条の十二、第七百一条の十三第三項及び第四項、第七百一条の十九、第七百一条の二十、第七百一条の三十六第一項、第七百一条の三十八第一項及び第二項、第七百一条の五十三第一項、第七百一条の五十六第一項及び第三項、第七百一条の六十一、第七百一条の六十二第三項及び第四項、第七百一条の六十六第一項及び第三項、第七百一条の六十七第一項、第七百八条、第七百十条、第七百十五条、第七百二十一条、第七百二十二条第三項及び第四項、第七百二十四条、第七百二十九条、第七百三十条、第七百三十三条の五、第七百三十三条の七、第七百三十三条の十一、第七百三十三条の十八、第七百三十三条の十九第三項及び第四項、第七百三十三条の二十一、第七百三十三条の二十五、第七百三十三条の二十六並びに第七百五十六条の改正規定並びに同法附則第十二条の二の十一の改正規定、同法附則第十二条の五の改正規定（同条第一項中「、第三項、第五項又は第六項」及び「から第六項まで」を「又は第三項」に改める部分を除く。）、同法附則第二十九条の九の改正規定、同法附則第三十条の二の改正規定（同条第一項中「、第七項及び第八項」を削り、「第八項まで」を「第四項まで」に改める部分を除く。）並びに同法附則第三十五条の三及び第六十三条第四項の改正規定並びに第五条及び第七条（特別法人事業税及び特別法人事業譲与税に関する法律第二十三条第一項及び第二十五条第三項の改正規定を除く。）の規定並びに次条並びに附則第四条第四項から第七項まで、第六条第四項、第八条、第九条、第十条第二項、第十一条第三項、第六項及び第八項、第十三条、第十四条第五項及び第六項、第十七条第三項、第六項及び第八項、第十九条から第二十四条まで、第二十六条並びに第二十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和六年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="29">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる地方税に係るこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
