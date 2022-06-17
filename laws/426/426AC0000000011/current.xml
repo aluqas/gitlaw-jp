@@ -1,0 +1,3038 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Heisei" Year="26" Num="011" PromulgateMonth="3" PromulgateDay="31" LawType="Act"><LawNum>平成二十六年法律第十一号</LawNum><LawBody><LawTitle Kana="ちほうほうじんぜいほう" Abbrev="" AbbrevKana="">地方法人税法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　基準法人税額に対する地方法人税</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　課税標準</SectionTitle>
+          <ArticleRange>（第九条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　税額の計算</SectionTitle>
+          <ArticleRange>（第十条―第十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　申告、納付及び還付等</SectionTitle>
+          <TOCSubsection Num="1">
+            <SubsectionTitle>第一款　中間申告</SubsectionTitle>
+            <ArticleRange>（第十六条―第十八条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Num="2">
+            <SubsectionTitle>第二款　確定申告</SubsectionTitle>
+            <ArticleRange>（第十九条・第十九条の二）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Num="3">
+            <SubsectionTitle>第三款　電子情報処理組織による申告の特例</SubsectionTitle>
+            <ArticleRange>（第十九条の三・第十九条の四）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Num="4">
+            <SubsectionTitle>第四款　納付</SubsectionTitle>
+            <ArticleRange>（第二十条・第二十一条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Num="5">
+            <SubsectionTitle>第五款　還付</SubsectionTitle>
+            <ArticleRange>（第二十二条―第二十三条）</ArticleRange>
+          </TOCSubsection>
+          <TOCSubsection Num="6">
+            <SubsectionTitle>第六款　更正の請求の特例</SubsectionTitle>
+            <ArticleRange>（第二十四条）</ArticleRange>
+          </TOCSubsection>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　特定基準法人税額に対する地方法人税</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　課税標準</SectionTitle>
+          <ArticleRange>（第二十四条の二）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　税額の計算</SectionTitle>
+          <ArticleRange>（第二十四条の三）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　申告及び納付等</SectionTitle>
+          <ArticleRange>（第二十四条の四―第二十四条の八）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　更正及び決定</ChapterTitle>
+        <ArticleRange>（第二十五条―第二十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <ArticleRange>（第三十条―第三十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第三十三条―第三十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（趣旨）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、地方交付税の財源を確保するための地方法人税について、納税義務者、課税の対象、税額の計算の方法、申告及び納付の手続並びにその納税義務の適正な履行を確保するため必要な事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">内国法人</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法（昭和四十年法律第三十四号）第二条第三号に規定する内国法人をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">外国法人</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第四号に規定する外国法人をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">人格のない社団等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第八号に規定する人格のない社団等をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">被合併法人</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第十一号に規定する被合併法人をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">合併法人</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第十二号に規定する合併法人をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">通算親法人</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第十二号の六の七に規定する通算親法人をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">通算子法人</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第十二号の七に規定する通算子法人をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">通算法人</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第十二号の七の二に規定する通算法人をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">通算完全支配関係</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第十二号の七の七に規定する通算完全支配関係をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">適格合併</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第十二号の八に規定する適格合併をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">恒久的施設</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第十二号の十九に規定する恒久的施設をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">事業年度</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第十三条及び第十四条に規定する事業年度をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="12_2">
+              <ItemTitle>十二の二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">対象会計年度</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第十五条の二に規定する対象会計年度をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">法人課税信託</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第二十九号の二に規定する法人課税信託をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">地方法人税中間申告書</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">第十六条第一項の規定による申告書をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="15">
+              <ItemTitle>十五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">地方法人税確定申告書</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">第十九条第一項の規定による申告書（当該申告書に係る期限後申告書を含む。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="16">
+              <ItemTitle>十六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">期限後申告書</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国税通則法（昭和三十七年法律第六十六号）第十八条第二項に規定する期限後申告書をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="17">
+              <ItemTitle>十七</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">修正申告書</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国税通則法第十九条第三項に規定する修正申告書をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="18">
+              <ItemTitle>十八</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">中間納付額</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">第二十条第一項の規定により納付すべき地方法人税の額（その額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の地方法人税の額）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="19">
+              <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">更正</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国税通則法第二十四条又は第二十六条の規定による更正をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="20">
+              <ItemTitle>二十</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">附帯税</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国税通則法第二条第四号に規定する附帯税をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="21">
+              <ItemTitle>二十一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">充当</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国税通則法第五十七条第一項の規定による充当をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="22">
+              <ItemTitle>二十二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">還付加算金</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国税通則法第五十八条第一項に規定する還付加算金をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（法人課税信託の受託者等に関するこの法律の適用）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">人格のない社団等及び法人課税信託の受託者である個人は、法人とみなして、この法律（第十九条の三、第二十四条の五及び第六章を除く。）の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人課税信託の受託者は、各法人課税信託の法人税法第四条の二第一項に規定する信託資産等及び固有資産等ごとに、それぞれ別の者とみなして、この法律（次条、第八条及び第六章を除く。）の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人税法第四条の二第二項、第四条の三及び第四条の四の規定は、前項の規定を適用する場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（納税義務者）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人税を納める義務がある法人（以下「法人」という。）は、この法律により、地方法人税を納める義務がある。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（課税の対象）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の各課税事業年度の基準法人税額には、この法律により、基準法人税額に対する地方法人税を課する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人税法第八十二条第四号に規定する特定多国籍企業グループ等に属する内国法人の各課税対象会計年度の特定基準法人税額には、この法律により、特定基準法人税額に対する地方法人税を課する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（基準法人税額等）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「基準法人税額」とは、次の各号に掲げる法人の区分に応じ当該各号に定める金額をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第三十一号に規定する確定申告書を提出すべき内国法人</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該内国法人の法人税の課税標準である各事業年度の所得の金額につき、同法その他の法人税の税額の計算に関する法令の規定（同法第六十八条から第七十条の二までの規定を除く。）により計算した法人税の額（附帯税の額を除く。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第三十一号に規定する確定申告書を提出すべき外国法人</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる外国法人の区分に応じ次に定める金額</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">恒久的施設を有する外国法人</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該外国法人の法人税の課税標準である各事業年度の次に掲げる国内源泉所得（法人税法第百三十八条第一項に規定する国内源泉所得をいう。以下この号において同じ。）に係る所得の金額の区分ごとに、同法その他の法人税の税額の計算に関する法令の規定（同法第百四十四条から第百四十四条の二の三までの規定を除く。）により計算した法人税の額の合計額（附帯税の額を除く。）</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">法人税法第百四十一条第一号イに掲げる国内源泉所得</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">法人税法第百四十一条第一号ロに掲げる国内源泉所得</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">恒久的施設を有しない外国法人</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該外国法人の法人税の課税標準である各事業年度の国内源泉所得に係る所得の金額につき、法人税法その他の法人税の税額の計算に関する法令の規定（同法第百四十四条の規定を除く。）により計算した法人税の額（附帯税の額を除く。）</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第三十三号に規定する退職年金等積立金確定申告書を提出すべき法人</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該法人の法人税の課税標準である各事業年度の退職年金等積立金の額につき、同法その他の法人税の税額の計算に関する法令の規定により計算した法人税の額（附帯税の額を除く。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定基準法人税額」とは、法人税法第二条第三十一号の二に規定する国際最低課税額確定申告書を提出すべき内国法人の法人税の課税標準である各対象会計年度の同法第八十二条の四第一項に規定する課税標準国際最低課税額につき、同法その他の法人税の税額の計算に関する法令の規定により計算した法人税の額（附帯税の額を除く。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（課税事業年度等）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「課税事業年度」とは、法人の各事業年度をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「課税対象会計年度」とは、内国法人の各対象会計年度をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（納税地）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の地方法人税の納税地は、当該法人の法人税法第十六条から第十八条までの規定による法人税の納税地とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人税法第十九条の規定は、法人税の納税地の指定の処分の取消しがあった場合における地方法人税について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　基準法人税額に対する地方法人税</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　課税標準</SectionTitle>
+          <Article Num="9">
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">基準法人税額に対する地方法人税の課税標準は、各課税事業年度の課税標準法人税額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">各課税事業年度の課税標準法人税額は、各課税事業年度の基準法人税額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　税額の計算</SectionTitle>
+          <Article Num="10">
+            <ArticleCaption>（税率）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">基準法人税額に対する地方法人税の額は、各課税事業年度の課税標準法人税額に百分の十・三の税率を乗じて計算した金額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、法人の各課税事業年度の基準法人税額に法人税法第六十七条第一項の規定により加算された金額がある場合には、前項の課税標準法人税額は、当該基準法人税額から当該加算された金額を控除した金額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（特定同族会社の特別税率の適用がある場合の地方法人税の額）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内国法人が各課税事業年度において法人税法第六十七条第一項の規定の適用を受ける場合には、第六条第一項第一号に定める基準法人税額に対する地方法人税の額（以下この節において「所得地方法人税額」という。）は、前条及び次条第九項（同条第十三項において準用する場合を含む。）の規定にかかわらず、これらの規定により計算した所得地方法人税額に、同法第六十七条第一項に規定する合計額に百分の十・三を乗じて計算した金額を加算した金額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（外国税額の控除）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内国法人が各課税事業年度において法人税法第六十九条第一項の規定の適用を受ける場合において、当該課税事業年度の同項に規定する控除対象外国法人税の額が同項に規定する控除限度額を超えるときは、地方法人税控除限度額（第十条の規定を適用して計算した当該課税事業年度の所得地方法人税額のうち当該内国法人の当該課税事業年度の国外所得金額（同項に規定する国外所得金額をいう。第四項において同じ。）に対応するものとして政令で定めるところにより計算した金額をいう。）を限度として、その超える金額を当該課税事業年度の所得地方法人税額から控除する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">恒久的施設を有する外国法人が各課税事業年度において法人税法第百四十四条の二第一項の規定の適用を受ける場合において、当該課税事業年度の同項に規定する控除対象外国法人税の額が同項に規定する控除限度額を超えるときは、当該課税事業年度の恒久的施設帰属地方法人税額（第六条第一項第二号イ（１）に掲げる国内源泉所得に係る所得の金額につき同法その他の法人税の税額の計算に関する法令の規定（同法第百四十四条から第百四十四条の二の三までの規定を除く。）により計算した法人税の額のみを課税標準法人税額として第十条の規定を適用して計算した場合の地方法人税の額に相当する金額として政令で定める金額をいう。）のうち当該外国法人の当該課税事業年度の国外所得金額（同法第百四十四条の二第一項に規定する国外所得金額をいう。）に対応するものとして政令で定めるところにより計算した金額を限度として、その超える金額を当該課税事業年度の同号に定める基準法人税額に対する地方法人税の額から控除する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人税法第六十九条第十三項の規定は第一項の規定を適用する場合について、同法第百四十四条の二第九項の規定は前項の規定を適用する場合について、それぞれ準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">通算法人の第一項の各課税事業年度（当該通算法人に係る通算親法人の課税事業年度終了の日に終了するものに限る。以下この項において「通算課税事業年度」という。）の第一項の地方法人税控除限度額は、当該通算法人の当該通算課税事業年度の第十条の規定を適用して計算した所得地方法人税額及び当該通算課税事業年度終了の日において当該通算法人との間に通算完全支配関係がある他の通算法人の当該終了の日に終了する各課税事業年度の同条の規定を適用して計算した所得地方法人税額の合計額のうち、当該通算法人の当該通算課税事業年度の国外所得金額に対応するものとして政令で定めるところにより計算した金額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定を適用する場合において、通算法人の同項の各課税事業年度（当該通算法人に係る通算親法人の課税事業年度終了の日に終了するものに限るものとし、被合併法人の合併の日の前日の属する課税事業年度、残余財産の確定の日の属する課税事業年度及び公益法人等（法人税法第二条第六号に規定する公益法人等をいう。以下この条において同じ。）に該当することとなった日の前日の属する課税事業年度を除く。以下第七項までにおいて「適用課税事業年度」という。）の税額控除額（当該適用課税事業年度における第一項の規定による控除をされるべき金額をいう。以下この条において同じ。）が、当初申告税額控除額（当該適用課税事業年度の第十九条第一項の規定による申告書に添付された書類に当該適用課税事業年度の税額控除額として記載された金額をいう。以下この項及び第七項において同じ。）と異なるときは、当初申告税額控除額を税額控除額とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の通算法人の適用課税事業年度について、次に掲げる場合のいずれかに該当する場合には、当該適用課税事業年度については、同項の規定は、適用しない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">通算法人又は当該通算法人の適用課税事業年度終了の日において当該通算法人との間に通算完全支配関係がある他の通算法人が、適用課税事業年度における税額控除額の計算の基礎となる事実の全部又は一部を隠蔽し、又は仮装して税額控除額を増加させることによりその地方法人税の負担を減少させ、又は減少させようとする場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人税法第六十九条第十六項（第二号に係る部分に限る。）の規定の適用がある場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">適用課税事業年度について前項（第一号に係る部分に限る。）の規定を適用して修正申告書の提出又は更正がされた後における第五項の規定の適用については、前項の規定にかかわらず、当該修正申告書又は当該更正に係る国税通則法第二十八条第二項に規定する更正通知書に添付された書類に当該適用課税事業年度の税額控除額として記載された金額を当初申告税額控除額とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">通算法人（通算法人であった内国法人（公益法人等に該当することとなった内国法人を除く。）を含む。以下第十一項までにおいて同じ。）の各課税事業年度（以下第十二項までにおいて「対象課税事業年度」という。）において、過去適用課税事業年度（当該対象課税事業年度開始の日前に開始した各課税事業年度で第五項の規定の適用を受けた課税事業年度をいう。以下この項及び第十一項において同じ。）における税額控除額（当該対象課税事業年度開始の日前に開始した各課税事業年度（以下この項において「対象前各課税事業年度」という。）において当該過去適用課税事業年度に係る税額控除額につきこの項又は次項の規定の適用があった場合には、同項の規定により当該対象前各課税事業年度の所得地方法人税額に加算した金額の合計額からこの項の規定により当該対象前各課税事業年度の所得地方法人税額から控除した金額の合計額を減算した金額を加算した金額。以下この項及び次項において「調整後過去税額控除額」という。）が過去当初申告税額控除額（当該過去適用課税事業年度の第十九条第一項の規定による申告書に添付された書類に当該過去適用課税事業年度の第一項の規定による控除をされるべき金額として記載された金額（当該過去適用課税事業年度について前項の規定の適用を受けた場合には、その適用に係る修正申告書又は更正に係る国税通則法第二十八条第二項に規定する更正通知書に添付された書類のうち、最も新しいものに当該過去適用課税事業年度の第一項の規定による控除をされるべき金額として記載された金額）をいう。以下この項及び次項において同じ。）を超える場合には、税額控除不足額相当額（当該調整後過去税額控除額から当該過去当初申告税額控除額を控除した金額に相当する金額をいう。第十項から第十二項までにおいて同じ。）を当該対象課税事業年度の所得地方法人税額から控除する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">通算法人の対象課税事業年度において過去当初申告税額控除額が調整後過去税額控除額を超える場合には、当該対象課税事業年度の所得地方法人税額は、第十条の規定にかかわらず、同条の規定により計算した所得地方法人税額に、税額控除超過額相当額（当該過去当初申告税額控除額から当該調整後過去税額控除額を控除した金額に相当する金額をいう。次項から第十二項までにおいて同じ。）を加算した金額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の規定を適用する場合において、通算法人の対象課税事業年度の税額控除不足額相当額又は税額控除超過額相当額が当初申告税額控除不足額相当額又は当初申告税額控除超過額相当額（それぞれ当該対象課税事業年度の第十九条第一項の規定による申告書に添付された書類に当該対象課税事業年度の税額控除不足額相当額又は税額控除超過額相当額として記載された金額をいう。以下この項及び第十二項において同じ。）と異なるときは、当初申告税額控除不足額相当額又は当初申告税額控除超過額相当額を当該対象課税事業年度の税額控除不足額相当額又は税額控除超過額相当額とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="11">
+              <ParagraphNum>１１</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の通算法人の対象課税事業年度について、次に掲げる場合のいずれかに該当する場合には、当該対象課税事業年度については、同項の規定は、適用しない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">税額控除不足額相当額又は税額控除超過額相当額の計算の基礎となる事実の全部又は一部を隠蔽し、又は仮装して、当該税額控除不足額相当額を増加させ、又は当該税額控除超過額相当額を減少させることによりその地方法人税の負担を減少させ、又は減少させようとする場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象課税事業年度において第八項の規定により所得地方法人税額から控除した税額控除不足額相当額又は第九項の規定により所得地方法人税額に加算した税額控除超過額相当額に係る過去適用課税事業年度について第六項の規定の適用がある場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象課税事業年度（第十八項又は第十九項の規定による説明が行われた日の属するものに限る。以下この号において同じ。）の第十九条第一項の規定による申告書に添付された書類に当該対象課税事業年度の税額控除不足額相当額又は税額控除超過額相当額として記載された金額及びその計算の根拠が第十八項又は第十九項の規定による説明の内容と異なる場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="12">
+              <ParagraphNum>１２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象課税事業年度について前項の規定を適用して修正申告書の提出又は更正がされた後における第十項の規定の適用については、前項の規定にかかわらず、当該修正申告書又は当該更正に係る国税通則法第二十八条第二項に規定する更正通知書に添付された書類に当該対象課税事業年度の税額控除不足額相当額又は税額控除超過額相当額として記載された金額を当初申告税額控除不足額相当額又は当初申告税額控除超過額相当額とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="13">
+              <ParagraphNum>１３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第八項及び第九項の規定は、通算法人（通算法人であった内国法人を含む。以下この項及び次項において同じ。）が合併により解散した場合又は通算法人の残余財産が確定した場合について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第八項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の各課税事業年度（以下第十二項までにおいて「対象課税事業年度」という。）において、過去適用課税事業年度（当該対象課税事業年度</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">が合併により解散した場合又は通算法人の残余財産が確定した場合において、その合併の日以後又はその残余財産の確定の日の翌日以後に、過去適用課税事業年度（最終課税事業年度（その合併の日の前日又はその残余財産の確定の日の属する課税事業年度をいう。以下この項及び次項において同じ。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">税額控除額（当該対象課税事業年度</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">税額控除額（当該最終課税事業年度</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">超える場合には</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">超えるときは</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">を当該対象課税事業年度</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">を当該最終課税事業年度</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第九項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の対象課税事業年度において</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">が合併により解散した場合又は通算法人の残余財産が確定した場合において、その合併の日以後又はその残余財産の確定の日の翌日以後に</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">場合には、当該対象課税事業年度</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">ときは、最終課税事業年度</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Num="14">
+              <ParagraphNum>１４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第八項及び第九項の規定は、通算法人が公益法人等に該当することとなった場合について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第八項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の各課税事業年度（以下第十二項までにおいて「対象課税事業年度」という。）において、過去適用課税事業年度（当該対象課税事業年度</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">が公益法人等に該当することとなった場合において、その該当することとなった日以後に、過去適用課税事業年度（最終課税事業年度（その該当することとなった日の前日の属する課税事業年度をいう。以下この項及び次項において同じ。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">税額控除額（当該対象課税事業年度</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">税額控除額（当該最終課税事業年度</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">超える場合には</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">超えるときは</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">を当該対象課税事業年度</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">を当該最終課税事業年度</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第九項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の対象課税事業年度において</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">が公益法人等に該当することとなった場合において、その該当することとなった日以後に</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">場合には、当該対象課税事業年度</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">ときは、最終課税事業年度</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Num="15">
+              <ParagraphNum>１５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項及び第二項の規定は、地方法人税確定申告書、修正申告書又は国税通則法第二十三条第三項に規定する更正請求書（次項及び第十七項において「申告書等」という。）に控除対象外国法人税等の額（法人税法第六十九条第一項に規定する控除対象外国法人税の額又は同法第百四十四条の二第一項に規定する控除対象外国法人税の額をいう。以下この項において同じ。）、第一項及び第二項の規定による控除を受けるべき金額並びに当該金額の計算に関する明細を記載した書類の添付がある場合に限り、適用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定による控除をされるべき金額の計算の基礎となる控除対象外国法人税等の額は、税務署長において特別の事情があると認める場合を除くほか、当該書類に控除対象外国法人税等の額として記載された金額を限度とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="16">
+              <ParagraphNum>１６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第八項（第十三項及び第十四項において準用する場合を含む。以下この項において同じ。）の規定は、申告書等に第八項の規定による控除を受けるべき金額及び当該金額の計算に関する明細を記載した書類の添付がある場合に限り、適用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同項の規定による控除をされるべき金額の計算の基礎となる控除対象外国法人税の額（法人税法第六十九条第一項に規定する控除対象外国法人税の額をいう。以下この項及び次項において同じ。）は、税務署長において特別の事情があると認める場合を除くほか、当該書類に控除対象外国法人税の額として記載された金額を限度とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="17">
+              <ParagraphNum>１７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第九項（第十三項及び第十四項において準用する場合を含む。以下この項において同じ。）の規定の適用を受ける通算法人（通算法人であった内国法人を含む。次項及び第十九項において同じ。）は、申告書等に第九項の規定により所得地方法人税額に加算されるべき金額及び当該金額の計算に関する明細を記載した書類を添付しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同項の規定により加算されるべき金額の計算の基礎となる控除対象外国法人税の額は、税務署長において特別の事情があると認める場合を除くほか、当該書類に控除対象外国法人税の額として記載された金額を限度とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="18">
+              <ParagraphNum>１８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">地方法人税に関する調査を行った結果、通算法人の各課税事業年度（第十九条第一項の規定による申告書の提出期限が到来していないものに限る。）において第八項又は第九項の規定を適用すべきと認める場合には、国税庁、国税局又は税務署の当該職員は、当該通算法人に対し、その調査結果の内容（第八項又は第九項の規定を適用すべきと認めた金額及びその理由を含む。）を説明するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="19">
+              <ParagraphNum>１９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">実地の調査により国税通則法第七十四条の九第一項に規定する質問検査等を行った通算法人について同条第三項第二号に規定する税務代理人がある場合において、当該通算法人の同法第七十四条の十一第四項の同意があるときは、当該通算法人への前項に規定する説明に代えて、当該税務代理人への同項に規定する説明を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="20">
+              <ParagraphNum>２０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三項及び第十五項から前項までに定めるもののほか、第一項、第二項及び第四項から第十四項までの規定の適用に関し必要な事項は、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12_2">
+            <ArticleCaption>（分配時調整外国税相当額の控除）</ArticleCaption>
+            <ArticleTitle>第十二条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内国法人が各課税事業年度において法人税法第六十九条の二第一項の規定の適用を受ける場合において、当該課税事業年度の同項に規定する分配時調整外国税相当額が当該内国法人の当該課税事業年度の第六条第一項第一号に定める基準法人税額を超えるときは、政令で定めるところにより、その超える金額を当該課税事業年度の所得地方法人税額から控除する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">恒久的施設を有する外国法人が各課税事業年度において法人税法第百四十四条の二の二第一項の規定の適用を受ける場合において、当該課税事業年度の同項に規定する分配時調整外国税相当額が当該外国法人の当該課税事業年度の第六条第一項第二号イ（１）に掲げる国内源泉所得に係る所得の金額につき同法その他の法人税の税額の計算に関する法令の規定（同法第百四十四条から第百四十四条の二の三までの規定を除く。）により計算した法人税の額（附帯税の額を除く。）を超えるときは、政令で定めるところにより、当該課税事業年度の当該法人税の額のみを課税標準法人税額として第十条の規定を適用して計算した場合の地方法人税の額に相当する金額として政令で定める金額を限度として、その超える金額を当該課税事業年度の同号に定める基準法人税額に対する地方法人税の額から控除する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人税法第六十九条の二第二項の規定は第一項の規定を適用する場合について、同法第百四十四条の二の二第二項の規定は前項の規定を適用する場合について、それぞれ準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項及び第二項の規定は、地方法人税確定申告書、修正申告書又は国税通則法第二十三条第三項に規定する更正請求書に分配時調整外国税相当額（法人税法第六十九条の二第一項に規定する分配時調整外国税相当額又は同法第百四十四条の二の二第一項に規定する分配時調整外国税相当額をいう。以下この項において同じ。）、第一項及び第二項の規定による控除を受ける金額並びに当該金額の計算に関する明細を記載した書類の添付がある場合に限り、適用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定により控除される金額は、当該書類に当該分配時調整外国税相当額として記載された金額を限度とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、第一項及び第二項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（仮装経理に基づく過大申告の場合の更正に伴う地方法人税額の控除）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内国法人の各課税事業年度開始の日前に開始した課税事業年度（当該各課税事業年度終了の日以前に行われた当該内国法人を合併法人とする適格合併に係る被合併法人の当該適格合併の日前に開始した課税事業年度（以下この条において「被合併法人課税事業年度」という。）を含む。）の第六条第一項第一号に定める基準法人税額に対する地方法人税につき税務署長が更正をした場合において、当該更正につき第二十九条第一項の規定の適用があったときは、当該更正に係る同項に規定する仮装経理地方法人税額（既に同条第二項、第三項又は第七項の規定により還付されるべきこととなった金額及びこの条の規定により控除された金額を除く。）は、当該各課税事業年度（当該更正の日（当該更正が被合併法人課税事業年度の同号に定める基準法人税額に対する地方法人税につき当該適格合併の日前にしたものである場合には、当該適格合併の日）以後に終了する課税事業年度に限る。）の所得地方法人税額から控除する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（税額控除の順序）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前三条の規定による所得地方法人税額からの控除については、まず第十二条の二の規定による控除をし、次に前条の規定による控除をした後において、第十二条の規定による控除をするものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　申告、納付及び還付等</SectionTitle>
+          <Subsection Num="1">
+            <SubsectionTitle>第一款　中間申告</SubsectionTitle>
+            <Article Num="16">
+              <ArticleCaption>（中間申告）</ArticleCaption>
+              <ArticleTitle>第十六条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人税法第七十一条又は第百四十四条の三の規定による申告書を提出すべき法人は、これらの申告書に係る課税事業年度（当該法人が通算子法人である場合には、当該課税事業年度開始の日の属する当該法人に係る通算親法人の課税事業年度）開始の日以後六月を経過した日（以下この条において「六月経過日」という。）から二月以内に、税務署長に対し、次に掲げる事項を記載した申告書を提出しなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該課税事業年度の前課税事業年度の地方法人税額（地方法人税確定申告書に記載すべき第十九条第一項第二号に掲げる金額（第十二条第九項の規定により加算された金額がある場合には、当該金額を控除した金額）をいう。次項第一号及び第五項において同じ。）で六月経過日の前日までに確定したものを当該前課税事業年度の月数で除し、これに当該課税事業年度開始の日から当該前日までの期間（次項第一号及び第三項において「中間期間」という。）の月数を乗じて計算した金額</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前号に掲げる金額の計算の基礎その他財務省令で定める事項</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の場合において、同項の法人が次の各号に掲げる期間内に行われた適格合併（法人を設立するものを除く。以下この項において同じ。）に係る合併法人であるときは、その法人が提出すべき当該課税事業年度の地方法人税中間申告書については、前項第一号に掲げる金額は、同号の規定にかかわらず、同号の規定により計算した金額に相当する金額に当該各号に定める金額を加算した金額とする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">当該課税事業年度の前課税事業年度</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該法人の当該課税事業年度開始の日の一年前の日以後に終了した当該適格合併に係る被合併法人の各課税事業年度（その月数が六月に満たないものを除く。）の地方法人税額（第十二条第十三項において準用する同条第九項の規定により加算された金額がある場合には、当該金額を控除した金額。第五項において同じ。）で六月経過日の前日までに確定したもののうち最も新しい課税事業年度に係るもの（次号及び次項において「被合併法人確定地方法人税額」という。）をその計算の基礎となった当該被合併法人の課税事業年度の月数で除し、これに当該法人の当該前課税事業年度の月数のうちに占める当該前課税事業年度開始の日から当該適格合併の日の前日までの期間の月数の割合に中間期間の月数を乗じた数を乗じて計算した金額</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">当該課税事業年度開始の日から六月経過日の前日までの期間</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該適格合併に係る被合併法人の被合併法人確定地方法人税額をその計算の基礎となった当該被合併法人の課税事業年度の月数で除し、これに当該適格合併の日から六月経過日の前日までの期間の月数を乗じて計算した金額</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の場合において、同項の法人が適格合併（法人を設立するものに限る。）に係る合併法人であるときは、その法人が提出すべきその設立後最初の課税事業年度の地方法人税中間申告書については、同項第一号に掲げる金額は、同号の規定にかかわらず、当該適格合併に係る各被合併法人の被合併法人確定地方法人税額をその計算の基礎となった当該被合併法人の課税事業年度の月数で除し、これに中間期間の月数を乗じて計算した金額の合計額とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前三項の月数は、暦に従って計算し、一月に満たない端数を生じたときは、これを一月とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項第一号に規定する前課税事業年度の第十九条第一項の規定による申告書の提出期限が同条第四項の規定により当該前課税事業年度終了の日の翌日から六月を経過した日の前日とされている場合で、かつ、当該申告書の提出期限につき国税通則法第十条第二項の規定の適用がある場合において、同項の規定の適用がないものとした場合における当該申告書の提出期限の翌日から同項の規定により当該申告書の提出期限とみなされる日までの間に地方法人税額が確定したときは、六月経過日の前日までに当該地方法人税額が確定したものとみなして、前各項の規定を適用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人税法第八十八条（同法第百四十五条の五において準用する場合を含む。）の規定による申告書を提出すべき法人は、当該申告書に係る課税事業年度開始の日以後六月を経過した日から二月以内に、税務署長に対し、次に掲げる事項を記載した申告書を提出しなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該課税事業年度開始の日以後六月の期間を一事業年度とみなして計算した場合における当該期間に係る課税標準である課税標準法人税額（第六条第一項第三号に定める基準法人税額に係るものに限る。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前号に掲げる課税標準法人税額につき第十条の規定を適用して計算した地方法人税の額</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前二号に掲げる金額の計算の基礎その他財務省令で定める事項</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Num="17">
+              <ArticleCaption>（仮決算をした場合の中間申告書を提出する場合の記載事項等）</ArticleCaption>
+              <ArticleTitle>第十七条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第一項に規定する法人又は通算法人で、法人税法第七十二条第一項又は第百四十四条の四第一項若しくは第二項の規定による申告書を提出するもの（還付請求法人を含む。第十八条において「仮決算中間申告法人」という。）は、当該申告書に係る課税事業年度について、前条第一項各号に掲げる事項に代えて、次に掲げる事項を記載した地方法人税中間申告書を提出しなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該課税事業年度開始の日以後六月の期間を一事業年度とみなして計算した場合における当該期間に係る課税標準である課税標準法人税額（第六条第一項第一号又は第二号に定める基準法人税額に係るものに限る。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前号に掲げる課税標準法人税額につき前節（第十一条及び第十三条を除く。）の規定を適用して計算した地方法人税の額</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前二号に掲げる金額の計算の基礎その他財務省令で定める事項</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項に規定する還付請求法人とは、法人税法第七十二条第一項又は第百四十四条の四第一項若しくは第二項の規定による申告書を提出する法人で、当該申告書に係るこれらの規定に規定する期間について、同法第八十条第五項において準用する同条第一項又は同法第百四十四条の十三第十一項において準用する同条第一項若しくは第二項の規定による還付の請求をするものをいう。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項第二号に掲げる地方法人税の額の計算については、第十二条第五項、第十項及び第十一項第三号中「第十九条第一項の規定による申告書」とあり、並びに同条第十五項及び第十二条の二第四項中「地方法人税確定申告書」とあるのは、「地方法人税中間申告書」とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の法人が通算子法人である場合における同項の規定の適用については、次に定めるところによる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第一項第一号に規定する期間は、同号の課税事業年度開始の日から前条第一項に規定する六月経過日の前日までの期間とする。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第二項中「これらの規定」とあるのは、「同法第七十二条第五項第一号」とする。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三項に定めるもののほか、第一項第二号に掲げる地方法人税の額の計算に関し必要な事項は、政令で定める。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="17_2">
+              <ArticleCaption>（通算法人の災害等による地方法人税中間申告書の提出期限の延長）</ArticleCaption>
+              <ArticleTitle>第十七条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">国税通則法第十一条の規定により通算法人の第十六条第一項の規定による申告書の提出期限が延長された場合には、政令で定めるところにより、他の通算法人についても、同法第十一条の規定により同項の規定による申告書の提出期限が延長されたものとみなす。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="18">
+              <ArticleCaption>（地方法人税中間申告書の提出がない場合の特例）</ArticleCaption>
+              <ArticleTitle>第十八条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">地方法人税中間申告書を提出すべき法人がその地方法人税中間申告書をその提出期限までに提出しなかった場合には、その法人については、その提出期限において、税務署長に対し第十六条第一項各号に掲げる事項（仮決算中間申告法人にあっては、第十七条第一項各号に掲げる事項）を記載した地方法人税中間申告書の提出があったものとみなして、この法律の規定を適用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="2">
+            <SubsectionTitle>第二款　確定申告</SubsectionTitle>
+            <Article Num="19">
+              <ArticleCaption>（確定申告）</ArticleCaption>
+              <ArticleTitle>第十九条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人（第六条第一項第一号又は第二号に掲げる法人に限る。）は、各課税事業年度終了の日の翌日から二月以内に、税務署長に対し、次に掲げる事項を記載した申告書を提出しなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該課税事業年度の課税標準である課税標準法人税額（第六条第一項第一号又は第二号に定める基準法人税額に係るものに限る。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前号に掲げる課税標準法人税額につき前節の規定を適用して計算した地方法人税の額</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第十二条の規定による控除をされるべき金額で前号に掲げる地方法人税の額の計算上控除しきれなかった金額</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該法人が当該課税事業年度につき地方法人税中間申告書を提出した法人である場合には、第二号に掲げる地方法人税の額から当該申告書に係る中間納付額を控除した金額</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前号に規定する中間納付額で同号に掲げる金額の計算上控除しきれなかったものがある場合には、その控除しきれなかった金額</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="6">
+                  <ItemTitle>六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前各号に掲げる金額の計算の基礎その他財務省令で定める事項</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">清算中の内国法人につきその残余財産が確定した場合には、当該内国法人の当該残余財産の確定の日の属する課税事業年度（当該内国法人が通算法人である場合には、当該内国法人に係る通算親法人の課税事業年度終了の日に終了するものを除く。）に係る前項の規定の適用については、同項中「二月以内」とあるのは、「一月以内（当該翌日から一月以内に残余財産の最後の分配又は引渡しが行われる場合には、その行われる日の前日まで）」とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">外国法人に係る第一項の規定の適用については、同項中「二月以内」とあるのは、「二月以内（恒久的施設を有する外国法人が国税通則法第百十七条第二項の規定による納税管理人の届出をしないで恒久的施設を有しないこととなる場合又は恒久的施設を有しない外国法人が法人税法第百三十八条第一項第四号に規定する事業でこの法律の施行地において行うものを廃止する場合には、当該課税事業年度終了の日の翌日から二月を経過した日の前日とその有しないこととなる日又はその廃止の日とのうちいずれか早い日まで）」とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の法人が同項の課税事業年度の所得に対する法人税の申告につき法人税法第七十五条（同法第百四十四条の七において準用する場合を含む。）又は第七十五条の二（同法第百四十四条の八において準用する場合を含む。）の規定により同法第七十四条第一項又は第百四十四条の六第一項若しくは第二項の規定による申告書の提出期限が延長されている場合における第一項の規定による申告書の提出期限は、同項の規定にかかわらず、その延長された提出期限とする。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、当該申告書に係る課税事業年度の地方法人税については、同法第七十五条第七項の規定又は同法第七十五条の二第八項若しくは第十項において準用する同法第七十五条第七項の規定を準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人（第六条第一項第三号に掲げる法人に限る。）は、各課税事業年度終了の日の翌日から二月以内に、税務署長に対し、次に掲げる事項を記載した申告書を提出しなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該課税事業年度の課税標準である課税標準法人税額（第六条第一項第三号に定める基準法人税額に係るものに限る。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前号に掲げる課税標準法人税額につき第十条の規定を適用して計算した地方法人税の額</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該法人が当該課税事業年度につき第十六条第六項の規定による申告書を提出した法人である場合には、前号に掲げる地方法人税の額から第二十条第二項の規定により納付すべき地方法人税の額（当該申告書に係る期限後申告書の提出又はこれらの申告書の提出がなかったことによる国税通則法第二十五条の規定による決定により納付すべき地方法人税の額を含むものとし、これらの額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の地方法人税の額とする。）を控除した金額</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前三号に掲げる金額の計算の基礎その他財務省令で定める事項</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Num="19_2">
+              <ArticleCaption>（通算法人の災害等による地方法人税確定申告書の提出期限の延長）</ArticleCaption>
+              <ArticleTitle>第十九条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">国税通則法第十一条の規定により通算法人の前条第一項の規定による申告書の提出期限が延長された場合には、政令で定めるところにより、他の通算法人についても、同法第十一条の規定により同項の規定による申告書の提出期限が延長されたものとみなす。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="3">
+            <SubsectionTitle>第三款　電子情報処理組織による申告の特例</SubsectionTitle>
+            <Article Num="19_3">
+              <ArticleCaption>（電子情報処理組織による申告）</ArticleCaption>
+              <ArticleTitle>第十九条の三</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">特定法人である内国法人は、第十六条（第六項を除く。）、第十七条若しくは第十九条（第五項を除く。）又は国税通則法第十八条若しくは第十九条の規定により、地方法人税中間申告書若しくは地方法人税確定申告書若しくはこれらの申告書に係る修正申告書（以下この項及び第三項において「納税申告書」という。）により行うこととされ、又はこれにこの法律（これに基づく命令を含む。）若しくは国税通則法第十八条第三項若しくは第十九条第四項の規定により納税申告書に添付すべきものとされている書類（以下この項及び第三項において「添付書類」という。）を添付して行うこととされている各課税事業年度の第六条第一項第一号に定める基準法人税額に対する地方法人税の申告については、第十六条（第六項を除く。）、第十七条及び第十九条（第五項を除く。）並びに同法第十八条及び第十九条の規定にかかわらず、財務省令で定めるところにより、納税申告書に記載すべきものとされている事項（第三項において「申告書記載事項」という。）又は添付書類に記載すべきものとされ、若しくは記載されている事項（以下この項及び第三項において「添付書類記載事項」という。）を、財務省令で定めるところによりあらかじめ税務署長に届け出て行う電子情報処理組織（国税庁の使用に係る電子計算機（入出力装置を含む。以下この項及び第四項において同じ。）とその申告をする内国法人の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。）を使用する方法として財務省令で定める方法により提供することにより、行わなければならない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該申告のうち添付書類に係る部分については、添付書類記載事項を記録した光ディスクその他の財務省令で定める記録用の媒体を提出する方法により、行うことができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項に規定する特定法人とは、次に掲げる法人をいう。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該課税事業年度開始の時における資本金の額、出資金の額その他これらに類するものとして政令で定める金額が一億円を超える法人</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">通算法人（前号に掲げる法人を除く。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">保険業法（平成七年法律第百五号）に規定する相互会社（前号に掲げる法人を除く。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">投資信託及び投資法人に関する法律（昭和二十六年法律第百九十八号）第二条第十二項に規定する投資法人（第一号に掲げる法人を除く。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">資産の流動化に関する法律（平成十年法律第百五号）第二条第三項に規定する特定目的会社（第一号に掲げる法人を除く。）</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の規定により行われた同項の申告については、申告書記載事項が記載された納税申告書により、又はこれに添付書類記載事項が記載された添付書類を添付して行われたものとみなして、この法律（これに基づく命令を含む。）及び国税通則法（第百二十四条を除く。）の規定その他政令で定める法令の規定を適用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項本文の規定により行われた同項の申告は、同項の国税庁の使用に係る電子計算機に備えられたファイルへの記録がされた時に税務署長に到達したものとみなす。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の場合において、国税通則法第百二十四条の規定による名称及び法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第十六項に規定する法人番号をいう。）の記載については、第一項の内国法人は、国税通則法第百二十四条の規定にかかわらず、当該記載に代えて、財務省令で定めるところにより、名称を明らかにする措置を講じなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="19_4">
+              <ArticleCaption>（電子情報処理組織による申告が困難である場合の特例）</ArticleCaption>
+              <ArticleTitle>第十九条の四</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第一項の内国法人が、法人税法第七十五条の五第一項の承認を受けている場合には、当該承認に係る税務署長が同項の規定により指定する期間内に行う前条第一項の申告については、同条の規定は、適用しない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="4">
+            <SubsectionTitle>第四款　納付</SubsectionTitle>
+            <Article Num="20">
+              <ArticleCaption>（中間申告による納付）</ArticleCaption>
+              <ArticleTitle>第二十条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">地方法人税中間申告書を提出した法人は、当該申告書に記載した第十六条第一項第一号に掲げる金額（第十七条第一項各号に掲げる事項を記載した地方法人税中間申告書を提出した場合には、同項第二号に掲げる金額）があるときは、当該申告書の提出期限までに、当該金額に相当する地方法人税を国に納付しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十六条第六項の規定による申告書を提出した法人は、当該申告書に記載した同項第二号に掲げる金額があるときは、当該申告書の提出期限までに、当該金額に相当する地方法人税を国に納付しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="21">
+              <ArticleCaption>（確定申告による納付）</ArticleCaption>
+              <ArticleTitle>第二十一条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十九条第一項の規定による申告書を提出した法人は、当該申告書に記載した同項第二号に掲げる金額（同項第四号の規定に該当する場合には、同号に掲げる金額）があるときは、当該申告書の提出期限までに、当該金額に相当する地方法人税を国に納付しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十九条第五項の規定による申告書を提出した法人は、当該申告書に記載した同項第二号に掲げる金額（同項第三号の規定に該当する場合には、同号に掲げる金額）があるときは、当該申告書の提出期限までに、当該金額に相当する地方法人税を国に納付しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="5">
+            <SubsectionTitle>第五款　還付</SubsectionTitle>
+            <Article Num="22">
+              <ArticleCaption>（外国税額の還付）</ArticleCaption>
+              <ArticleTitle>第二十二条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">地方法人税確定申告書の提出があった場合において、当該地方法人税確定申告書に第十九条第一項第三号に掲げる金額の記載があるときは、税務署長は、当該地方法人税確定申告書を提出した内国法人に対し、当該金額に相当する税額を還付する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定による還付金について還付加算金を計算する場合には、その計算の基礎となる国税通則法第五十八条第一項の期間は、前項の地方法人税確定申告書の提出期限（当該地方法人税確定申告書が期限後申告書である場合には、当該地方法人税確定申告書を提出した日）の翌日からその還付のための支払決定をする日又はその還付金につき充当をする日（同日前に充当をするのに適することとなった日がある場合には、その適することとなった日）までの期間とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の規定による還付金を同項の地方法人税確定申告書に係る課税事業年度の第六条第一項第一号に定める基準法人税額に対する地方法人税で未納のものに充当する場合には、その還付金の額のうちその充当する金額については、還付加算金を付さないものとし、その充当される部分の地方法人税については、延滞税及び利子税を免除するものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、第一項の還付の手続、同項の規定による還付金（これに係る還付加算金を含む。）につき充当をする場合の方法その他同項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="22_2">
+              <ArticleCaption>（中間納付額の還付）</ArticleCaption>
+              <ArticleTitle>第二十二条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">地方法人税中間申告書を提出した法人からその地方法人税中間申告書に係る課税事業年度の地方法人税確定申告書の提出があった場合において、その地方法人税確定申告書に第十九条第一項第五号に掲げる金額の記載があるときは、税務署長は、その法人に対し、当該金額に相当する中間納付額を還付する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">税務署長は、前項の規定による還付金の還付をする場合において、同項の地方法人税中間申告書に係る中間納付額について納付された延滞税があるときは、その額のうち、同項の規定により還付される中間納付額に対応するものとして政令で定めるところにより計算した金額を併せて還付する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">第一項の規定による還付金について還付加算金を計算する場合には、その計算の基礎となる国税通則法第五十八条第一項の期間は、第一項の規定により還付をすべき中間納付額の納付の日（その中間納付額がその納期限前に納付された場合には、その納期限）の翌日からその還付のための支払決定をする日又はその還付金につき充当をする日（同日前に充当をするのに適することとなった日がある場合には、その適することとなった日）までの期間とする。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同項の地方法人税確定申告書が期限後申告書である場合には、当該申告書の提出期限の翌日からその提出された日までの日数は、当該期間に算入しない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の規定による還付金をその額の計算の基礎とされた中間納付額に係る課税事業年度の第六条第一項第一号又は第二号に定める基準法人税額に対する地方法人税で未納のものに充当する場合には、その還付金の額のうちその充当する金額については、還付加算金を付さないものとし、その充当される部分の地方法人税については、延滞税及び利子税を免除するものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二項の規定による還付金については、還付加算金は、付さない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前三項に定めるもののほか、第一項又は第二項の還付の手続、第一項の規定による還付金（これに係る還付加算金を含む。）につき充当をする場合の方法その他同項又は第二項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="23">
+              <ArticleCaption>（欠損金の繰戻しによる法人税の還付があった場合の還付）</ArticleCaption>
+              <ArticleTitle>第二十三条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">税務署長は、法人税法第八十条第九項の還付請求書を提出した内国法人又は同法第百四十四条の十三第十二項の還付請求書を提出した外国法人に対して同法第八十条第十項（同法第百四十四条の十三第十三項において準用する場合を含む。以下この条において同じ。）の規定により同法第八十条第一項に規定する還付所得事業年度、同法第百四十四条の十三第一項第一号に規定する還付所得事業年度、同項第二号に規定する還付所得事業年度又は同条第二項に規定する還付所得事業年度に該当する課税事業年度に係る法人税を還付する場合において、当該課税事業年度の第六条第一項第一号又は第二号に定める基準法人税額に対する地方法人税の額（附帯税の額を除くものとし、第十二条第一項、第二項若しくは第八項又は第十三条の規定により控除された金額がある場合には当該金額を加算した金額とし、第十二条第九項の規定により加算された金額がある場合には当該金額を控除した金額とする。）でその還付の時において確定しているもの（既にこの項の規定の適用がある場合には、当該地方法人税の額からその適用により還付された金額を控除した金額。以下この項において「確定地方法人税額」という。）があるときは、当該内国法人又は外国法人に対し、当該確定地方法人税額のうち、同法第八十条第十項の規定による還付金の額に百分の十・三を乗じて計算した金額に相当する金額を併せて還付する。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同条第一項に規定する欠損事業年度、同法第百四十四条の十三第一項第一号に規定する欠損事業年度、同項第二号に規定する欠損事業年度又は同条第二項に規定する欠損事業年度に該当する課税事業年度については、地方法人税確定申告書の提出がない場合には、この限りでない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定による還付金について還付加算金を計算する場合には、その計算の基礎となる国税通則法第五十八条第一項の期間は、前項の還付請求書に係る法人税法第八十条第十項の規定による還付金について還付加算金を計算する場合における同条第十一項（同法第百四十四条の十三第十三項において準用する場合を含む。）に規定する三月を経過した日から前項の規定による還付のための支払決定をする日又は同項の規定による還付金につき充当をする日（同日前に充当をするのに適することとなった日がある場合には、その適することとなった日）までの期間とする。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同項ただし書の地方法人税確定申告書が期限後申告書である場合において、その提出された日が当該三月を経過した日以後であるときは、当該三月を経過した日から当該提出された日までの日数は、当該期間に算入しない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="6">
+            <SubsectionTitle>第六款　更正の請求の特例</SubsectionTitle>
+            <Article Num="24">
+              <ArticleTitle>第二十四条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人税法第八十一条の規定は、法人が次に掲げる金額につき修正申告書を提出し、又は更正若しくは決定（国税通則法第二十五条の規定による決定をいう。以下この条において同じ。）を受けた場合において、その修正申告書の提出又は更正若しくは決定に伴い、その修正申告書又は更正若しくは決定に係る事業年度後の各課税事業年度で決定を受けた課税事業年度に係る第十九条第一項第二号又は第四号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過大となり、又は同項第五号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過少となるときについて準用する。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">法人税法第二条第三十一号に規定する確定申告書に記載すべき同法第七十四条第一項第一号から第五号までに掲げる金額又は同法第百四十四条の六第一項第一号から第十一号まで若しくは同条第二項第一号から第五号までに掲げる金額</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">地方法人税確定申告書に記載すべき第十九条第一項第一号から第五号までに掲げる金額</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+          </Subsection>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　特定基準法人税額に対する地方法人税</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　課税標準</SectionTitle>
+          <Article Num="24_2">
+            <ArticleTitle>第二十四条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定基準法人税額に対する地方法人税の課税標準は、各課税対象会計年度の課税標準特定法人税額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">各課税対象会計年度の課税標準特定法人税額は、各課税対象会計年度の特定基準法人税額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　税額の計算</SectionTitle>
+          <Article Num="24_3">
+            <ArticleTitle>第二十四条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定基準法人税額に対する地方法人税の額は、各課税対象会計年度の課税標準特定法人税額に九百七分の九十三の税率を乗じて計算した金額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　申告及び納付等</SectionTitle>
+          <Article Num="24_4">
+            <ArticleCaption>（特定基準法人税額に係る確定申告）</ArticleCaption>
+            <ArticleTitle>第二十四条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定多国籍企業グループ等（法人税法第八十二条第四号に規定する特定多国籍企業グループ等をいう。次項において同じ。）に属する内国法人（第六条第二項に規定する内国法人に限る。）は、各課税対象会計年度終了の日の翌日から一年三月以内に、税務署長に対し、次に掲げる事項を記載した申告書を提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該課税対象会計年度の課税標準である課税標準特定法人税額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げる課税標準特定法人税額につき前条の規定を適用して計算した地方法人税の額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前二号に掲げる金額の計算の基礎その他財務省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定多国籍企業グループ等に属する内国法人が、当該課税対象会計年度について前項の規定による申告書を最初に提出すべき場合（当該課税対象会計年度開始の日前に開始した課税対象会計年度において当該内国法人又は当該特定多国籍企業グループ等に属する法人税法第八十二条第十三号に規定する構成会社等であった他の内国法人が同法第百五十条の三第六項の規定の適用を受けていなかった場合に限る。）には、当該内国法人の当該最初に提出すべき課税対象会計年度に係る前項の規定の適用については、同項中「一年三月」とあるのは、「一年六月」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24_5">
+            <ArticleCaption>（電子情報処理組織による申告）</ArticleCaption>
+            <ArticleTitle>第二十四条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">特定法人である内国法人は、前条又は国税通則法第十八条若しくは第十九条の規定により、前条第一項の規定による申告書（当該申告書に係る期限後申告書を含む。）若しくは当該申告書に係る修正申告書（以下この項及び第三項において「納税申告書」という。）により行うこととされ、又はこれにこの法律（これに基づく命令を含む。）若しくは国税通則法第十八条第三項若しくは第十九条第四項の規定により納税申告書に添付すべきものとされている書類（以下この項及び第三項において「添付書類」という。）を添付して行うこととされている各課税対象会計年度の特定基準法人税額に対する地方法人税の申告については、これらの規定にかかわらず、財務省令で定めるところにより、納税申告書に記載すべきものとされている事項（第三項において「申告書記載事項」という。）又は添付書類に記載すべきものとされ、若しくは記載されている事項（以下この項及び第三項において「添付書類記載事項」という。）を、財務省令で定めるところによりあらかじめ税務署長に届け出て行う電子情報処理組織（国税庁の使用に係る電子計算機（入出力装置を含む。以下この項及び第四項において同じ。）とその申告をする内国法人の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。）を使用する方法として財務省令で定める方法により提供することにより、行わなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該申告のうち添付書類に係る部分については、添付書類記載事項を記録した光ディスクその他の財務省令で定める記録用の媒体を提出する方法により、行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する特定法人とは、次に掲げる法人をいう。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該課税対象会計年度開始の時における資本金の額、出資金の額その他これらに類するものとして政令で定める金額が一億円を超える法人</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">保険業法に規定する相互会社</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">投資信託及び投資法人に関する法律第二条第十二項に規定する投資法人（第一号に掲げる法人を除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">資産の流動化に関する法律第二条第三項に規定する特定目的会社（第一号に掲げる法人を除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定により行われた同項の申告については、申告書記載事項が記載された納税申告書により、又はこれに添付書類記載事項が記載された添付書類を添付して行われたものとみなして、この法律（これに基づく命令を含む。）及び国税通則法（第百二十四条を除く。）の規定その他政令で定める法令の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項本文の規定により行われた同項の申告は、同項の国税庁の使用に係る電子計算機に備えられたファイルへの記録がされた時に税務署長に到達したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の場合において、国税通則法第百二十四条の規定による名称及び法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律第二条第十六項に規定する法人番号をいう。）の記載については、第一項の内国法人は、国税通則法第百二十四条の規定にかかわらず、当該記載に代えて、財務省令で定めるところにより、名称を明らかにする措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24_6">
+            <ArticleCaption>（電子情報処理組織による申告が困難である場合の特例）</ArticleCaption>
+            <ArticleTitle>第二十四条の六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の内国法人が、法人税法第八十二条の八第一項の承認を受けている場合には、当該承認に係る税務署長が同項の規定により指定する期間内に行う前条第一項の申告については、同条の規定は、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24_7">
+            <ArticleCaption>（特定基準法人税額に係る確定申告による納付）</ArticleCaption>
+            <ArticleTitle>第二十四条の七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条の四第一項の規定による申告書を提出した内国法人は、当該申告書に記載した同項第二号に掲げる金額があるときは、当該申告書の提出期限までに、当該金額に相当する地方法人税を国に納付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24_8">
+            <ArticleCaption>（更正の請求の特例）</ArticleCaption>
+            <ArticleTitle>第二十四条の八</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人税法第八十二条の十の規定は、内国法人が同法第二条第三十一号の二に規定する国際最低課税額確定申告書に記載すべき同法第八十二条の六第一項第一号又は第二号に掲げる金額につき修正申告書を提出し、又は更正若しくは決定（国税通則法第二十五条の規定による決定をいう。以下この条において同じ。）を受けた場合において、その修正申告書の提出又は更正若しくは決定に伴い、その修正申告書又は更正若しくは決定に係る対象会計年度後の各課税対象会計年度で決定を受けた課税対象会計年度に係る第二十四条の四第一項第二号に掲げる金額（当該金額につき修正申告書の提出又は更正があった場合には、その申告又は更正後の金額）が過大となるときについて準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　更正及び決定</ChapterTitle>
+        <Article Num="25">
+          <ArticleCaption>（更正に関する特例）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内国法人の提出した地方法人税確定申告書に記載された各課税事業年度の課税標準法人税額が当該課税事業年度の課税標準とされるべき課税標準法人税額（第六条第一項第一号に定める基準法人税額に係るものに限る。）を超えている場合において、その超える金額のうちに事実を仮装して経理したところに基づくものがあるときは、税務署長は、当該課税事業年度の当該基準法人税額に対する地方法人税につき、当該事実を仮装して経理した内国法人が当該課税事業年度後の各課税事業年度において当該事実に係る修正の経理をし、かつ、当該修正の経理をした課税事業年度の地方法人税確定申告書を提出するまでの間は、更正をしないことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">税務署長が第二十九条第一項の更正をする場合における国税通則法第二十八条第二項の規定の適用については、同項第三号中「次に掲げる金額」とあるのは、「次に掲げる金額及びニ又はホに掲げる金額のうち地方法人税法第二十九条第一項又は第二項（仮装経理に基づく過大申告の場合の更正に伴う地方法人税額の還付の特例）の規定の適用がある金額」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（更正等の期間制限の特例等）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国税通則法第七十条第三項の規定により法人税について更正の請求（同法第二十三条第一項の規定による更正の請求をいう。以下この項及び第三項において同じ。）に係る更正が行われた場合には、当該法人税に係る地方法人税についての更正又は当該更正に伴って行われることとなる加算税（同法第六十九条に規定する加算税をいう。第三項において同じ。）についてする賦課決定（同法第三十二条第一項又は第二項の規定による決定をいう。以下この項及び第三項において同じ。）は、同法第七十条第一項及び第二項の規定にかかわらず、当該更正の請求があった日から六月を経過する日まで、することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">同条第三項の規定により地方法人税について更正の請求に係る更正が行われた場合における当該地方法人税に係る法人税についての更正又は賦課決定についても、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、国税通則法第七十条第五項、第七十一条及び第七十二条の規定の適用については、同項中「又は前二項」とあるのは「若しくは前二項又は地方法人税法第二十六条第一項（更正等の期間制限の特例等）」と、同項第二号中「又は第三項」とあるのは「若しくは第三項又は地方法人税法第二十六条第一項」と、同法第七十一条第一項中「日が前条」とあるのは「日が前条又は地方法人税法第二十六条第一項（更正等の期間制限の特例等）」と、「同条」とあるのは「前条及び同項」と、同項第四号ロ中「前条」とあるのは「前条又は地方法人税法第二十六条第一項」と、同法第七十二条第一項中「あつた日」とあるのは「あつた日とし、地方法人税法第二十六条第一項（更正等の期間制限の特例等）の規定による更正又は賦課決定により納付すべきものについては、同項に規定する更正があつた日」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国税通則法第七十一条第一項（第三号に係る部分に限る。）の規定により法人税について更正の請求に係る更正が行われた場合において、同号に定める期間の満了する日が同法第七十条の規定又は第一項の規定により当該法人税に係る地方法人税についての更正決定等（同法第五十八条第一項第一号イに規定する更正決定等をいう。以下この項及び第六項において同じ。）をすることができる期間の満了する日後に到来するときは、当該地方法人税についての更正又は当該更正に伴って行われることとなる加算税についてする賦課決定は、同法第七十条の規定及び第一項の規定にかかわらず、当該更正の請求があった日から六月間においても、することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">同法第七十一条第一項（第三号に係る部分に限る。）の規定により地方法人税について更正の請求に係る更正が行われた場合において、同号に定める期間の満了する日が同法第七十条の規定又は第一項の規定により当該地方法人税に係る法人税についての更正決定等をすることができる期間の満了する日後に到来するときにおける当該地方法人税に係る法人税についての更正又は賦課決定についても、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、国税通則法第七十二条第一項の規定の適用については、同項中「あつた日」とあるのは、「あつた日とし、地方法人税法第二十六条第三項（更正等の期間制限の特例等）の規定による更正又は賦課決定により納付すべきものについては、同項に規定する更正があつた日」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前各項の規定によるほか、地方法人税及び法人税は、同一の税目に属する国税とみなして、国税通則法第七十一条第一項（第一号に係る部分に限る。）の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方法人税に係る更正決定等について不服申立てがされている場合において、当該地方法人税と納税義務者及び課税事業年度又は課税対象会計年度が同一である法人税（当該地方法人税に係るものに限る。）についてされた更正決定等があるときは、国税通則法第九十条第一項若しくは第二項、第百四条第二項又は第百十五条第一項第二号の規定の適用については、当該法人税についてされた更正決定等は、当該地方法人税の同法第十九条第一項に規定する課税標準等又は税額等についてされた他の更正決定等とみなす。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">法人税に係る更正決定等について不服申立てがされている場合における当該法人税と納税義務者及び課税事業年度又は課税対象会計年度が同一である地方法人税（当該法人税に係るものに限る。）についてされた更正決定等についても、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（青色申告書等に係る更正）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人が法人税法第百二十一条第一項（同法第百四十六条第一項において準用する場合を含む。次項において同じ。）の承認を受けている場合には、その法人は、地方法人税中間申告書、第十六条第六項の規定による申告書（当該申告書に係る期限後申告書を含む。）、地方法人税確定申告書及び第十九条第五項の規定による申告書（当該申告書に係る期限後申告書を含む。）並びにこれらの申告書に係る修正申告書（次項において「地方法人税申告書等」という。）について、青色の申告書により提出することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人が法人税法第百二十七条第一項（同法第百四十六条第一項において準用する場合を含む。）の規定により同法第百二十一条第一項の承認を取り消された場合には、同項の承認の取消しに係る同法第百二十七条第一項各号に定める事業年度開始の日以後その法人が前項の規定により青色の申告書により提出した地方法人税申告書等（納付すべき義務が同日前に成立した地方法人税に係るものを除く。）は、青色申告書（同項の規定により青色の申告書によって提出する地方法人税申告書等をいう。第五項において同じ。）以外の申告書とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">通算法人が法人税法第百二十七条第一項の規定により同法第百二十一条第一項の承認を取り消された場合には、その承認の取消しについては、前項の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">通算法人であった法人に係る第二項の規定の適用については、同項中「事業年度」とあるのは、「事業年度（当該事業年度が同法第六十四条の九第一項の規定による承認の効力を失った日の前日（当該前日がその法人に係る通算親法人の事業年度終了の日である場合には、当該効力を失った日）の属する事業年度（以下この項において「失効事業年度」という。）前の事業年度である場合には、当該失効事業年度）」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人税法第百三十条第二項の規定は、法人が提出した青色申告書に係る地方法人税又は内国法人の特定基準法人税額に対する地方法人税について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27_2">
+          <ArticleCaption>（更正等による外国税額の還付）</ArticleCaption>
+          <ArticleTitle>第二十七条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内国法人の提出した地方法人税確定申告書に係る地方法人税につき更正（当該地方法人税についての更正の請求（国税通則法第二十三条第一項の規定による更正の請求をいう。次項において同じ。）に対する処分に係る不服申立て又は訴えについての決定若しくは裁決又は判決を含む。以下この項及び次項において「更正等」という。）があった場合において、その更正等により第十九条第一項第三号に掲げる金額が増加したときは、税務署長は、その内国法人に対し、その増加した部分の金額に相当する税額を還付する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による還付金について還付加算金を計算する場合には、その計算の基礎となる国税通則法第五十八条第一項の期間は、前項の更正等の日の翌日以後一月を経過した日（当該更正等が更正の請求に基づく更正である場合及び更正の請求に対する処分に係る不服申立て又は訴えについての決定若しくは裁決又は判決である場合には、その更正の請求の日の翌日以後三月を経過した日と当該更正等の日の翌日以後一月を経過した日とのいずれか早い日）からその還付のための支払決定をする日又はその還付金につき充当をする日（同日前に充当をするのに適することとなった日がある場合には、その適することとなった日）までの期間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による還付金を同項の地方法人税確定申告書に係る課税事業年度の第六条第一項第一号に定める基準法人税額に対する地方法人税で未納のものに充当する場合には、その還付金の額のうちその充当する金額については、還付加算金を付さないものとし、その充当される部分の地方法人税については、延滞税及び利子税を免除するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、第一項の規定による還付金（これに係る還付加算金を含む。）につき充当をする場合の方法その他同項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（確定申告に係る更正等又は決定による中間納付額の還付）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方法人税中間申告書を提出した法人のその地方法人税中間申告書に係る課税事業年度の地方法人税につき国税通則法第二十五条の規定による決定があった場合において、その決定に係る第十九条第一項第五号に掲げる金額があるときは、税務署長は、その法人に対し、当該金額に相当する中間納付額を還付する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方法人税中間申告書を提出した法人のその地方法人税中間申告書に係る課税事業年度の地方法人税につき更正（当該地方法人税についての更正の請求（国税通則法第二十三条第一項の規定による更正の請求をいう。第四項第二号イにおいて同じ。）に対する処分又は決定（同法第二十五条の規定による決定をいう。）に係る不服申立て又は訴えについての決定若しくは裁決又は判決を含む。以下この項及び同号イにおいて「更正等」という。）があった場合において、その更正等により第十九条第一項第五号に掲げる金額が増加したときは、税務署長は、その法人に対し、その増加した部分の金額に相当する中間納付額を還付する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">税務署長は、前二項の規定による還付金の還付をする場合において、これらの規定に規定する地方法人税中間申告書に係る中間納付額について納付された延滞税があるときは、その額のうち、これらの規定により還付される中間納付額に対応するものとして政令で定めるところにより計算した金額を併せて還付する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項又は第二項の規定による還付金について還付加算金を計算する場合には、その計算の基礎となる国税通則法第五十八条第一項の期間は、第一項又は第二項の規定により還付すべき中間納付額の納付の日（その中間納付額がその納期限前に納付された場合には、その納期限）の翌日からその還付のための支払決定をする日又はその還付金につき充当をする日（同日前に充当をするのに適することとなった日がある場合には、その適することとなった日。第二号ロにおいて「充当日」という。）までの期間とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる還付金の区分に応じ当該各号に定める日数は、当該期間に算入しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第一項の規定による還付金</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">同項に規定する課税事業年度の第十九条第一項の規定による申告書の提出期限（その提出期限後にその中間納付額が納付された場合には、その納付の日）の翌日から第一項の決定の日までの日数</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二項の規定による還付金</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">同項に規定する課税事業年度の第十九条第一項の規定による申告書の提出期限（その提出期限後にその中間納付額が納付された場合には、その納付の日）の翌日から次に掲げる日のうちいずれか早い日までの日数</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二項の更正等の日の翌日以後一月を経過する日（当該更正等が次に掲げるものである場合には、それぞれ次に定める日）</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">更正の請求に基づく更正（当該請求に対する処分に係る不服申立て又は訴えについての決定若しくは裁決又は判決を含む。（１）において同じ。）</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該請求の日の翌日以後三月を経過する日と当該請求に基づく更正の日の翌日以後一月を経過する日とのいずれか早い日</Sentence>
+                    </Column>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">国税通則法第二十五条の規定による決定に係る更正（当該決定に係る不服申立て又は訴えについての決定若しくは裁決又は判決を含み、更正の請求に基づく更正及び第二項に規定する課税事業年度の課税標準法人税額の計算の基礎となった事実のうちに含まれていた無効な行為により生じた経済的成果がその行為の無効であることに基因して失われたこと、当該事実のうちに含まれていた取り消しうべき行為が取り消されたことその他これらに準ずる政令で定める理由に基づき行われた更正を除く。）</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該決定の日</Sentence>
+                    </Column>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その還付のための支払決定をする日又はその還付金に係る充当日</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項又は第二項の規定による還付金をその額の計算の基礎とされた中間納付額に係る課税事業年度の第六条第一項第一号又は第二号に定める基準法人税額に対する地方法人税で未納のものに充当する場合には、その還付金の額のうちその充当する金額については、還付加算金を付さないものとし、その充当される部分の地方法人税については、延滞税及び利子税を免除するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三項の規定による還付金については、還付加算金は、付さない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項に定めるもののほか、第一項又は第二項の規定による還付金（これに係る還付加算金を含む。）につき充当をする場合の方法その他第一項から第三項までの規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（仮装経理に基づく過大申告の場合の更正に伴う地方法人税額の還付の特例）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内国法人の提出した地方法人税確定申告書に記載された各課税事業年度の課税標準法人税額が当該課税事業年度の課税標準とされるべき課税標準法人税額（第六条第一項第一号に定める基準法人税額（以下第五項までにおいて「所得基準法人税額」という。）に係るものに限る。）を超え、かつ、その超える額のうちに事実を仮装して経理したところに基づくものがある場合において、税務署長が当該課税事業年度の所得基準法人税額に対する地方法人税につき更正をしたとき（当該内国法人につき当該課税事業年度終了の日から当該更正の日の前日までの間に第三項各号又は第四項各号に掲げる事実が生じたとき及び当該内国法人を被合併法人とする適格合併に係る合併法人につき当該適格合併の日から当該更正の日の前日までの間に当該事実が生じたときを除く。）は、当該課税事業年度の地方法人税として納付された金額で政令で定めるもののうち当該更正により減少する部分の金額でその仮装して経理した金額に係るもの（以下この条において「仮装経理地方法人税額」という。）は、次項、第三項又は第七項の規定の適用がある場合のこれらの規定による還付金の額を除き、還付しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する場合において、同項の内国法人（当該内国法人が同項の更正の日の前日までに適格合併により解散をした場合には、当該適格合併に係る合併法人。以下この項において同じ。）の前項の更正の日の属する課税事業年度開始の日前一年以内に開始する各課税事業年度の所得基準法人税額に対する地方法人税の額（附帯税の額を除く。）で当該更正の日の前日において確定しているもの（既にこの項の規定により還付をすべき金額の計算の基礎となったものを除く。以下この項において「確定地方法人税額」という。）があるときは、税務署長は、その内国法人に対し、当該更正に係る仮装経理地方法人税額のうち当該確定地方法人税額に達するまでの金額を還付する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定の適用があった内国法人（当該内国法人が適格合併により解散をした場合には、当該適格合併に係る合併法人。以下この条において「適用法人」という。）について、同項の更正の日の属する課税事業年度開始の日（当該更正が当該適格合併に係る被合併法人の課税事業年度の所得基準法人税額に対する地方法人税について当該適格合併の日前にされたものである場合には、当該被合併法人の当該更正の日の属する課税事業年度開始の日）から五年を経過する日の属する課税事業年度の第十九条第一項の規定による申告書の提出期限（当該更正の日から当該課税事業年度終了の日までの間に当該適用法人につき次の各号に掲げる事実が生じたときは、当該各号に定める日の属する課税事業年度の同項の規定による申告書の提出期限。以下この項及び第八項において「最終申告期限」という。）が到来した場合（当該最終申告期限までに当該最終申告期限に係る申告書の提出がなかった場合にあっては、当該申告書に係る期限後申告書の提出又は当該申告書に係る課税事業年度の地方法人税についての国税通則法第二十五条の規定による決定があった場合）には、税務署長は、当該適用法人に対し、当該更正に係る仮装経理地方法人税額（既に前項、この項又は第七項の規定により還付すべきこととなった金額及び第十三条の規定により控除された金額を除く。）を還付する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">残余財産が確定したこと</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その残余財産の確定の日</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">合併（適格合併を除く。）による解散をしたこと</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その合併の日の前日</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">破産手続開始の決定による解散をしたこと</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その破産手続開始の決定の日</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第九号に規定する普通法人又は同条第七号に規定する協同組合等が同条第六号に規定する公益法人等に該当することとなったこと</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その該当することとなった日の前日</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">適用法人につき次に掲げる事実が生じた場合には、当該適用法人は、当該事実が生じた日以後一年以内に、納税地の所轄税務署長に対し、その適用に係る仮装経理地方法人税額（既に前二項又は第七項の規定により還付されるべきこととなった金額及び第十三条の規定により控除された金額を除く。第六項及び第七項において同じ。）の還付を請求することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">更生手続開始の決定があったこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">再生手続開始の決定があったこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げる事実に準ずる事実として政令で定める事実</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内国法人につきその各課税事業年度の課税標準法人税額（所得基準法人税額に係るものに限る。以下この項において同じ。）を減少させる更正で当該内国法人の当該各課税事業年度開始の日前に終了した課税事業年度の所得基準法人税額に対する地方法人税についてされた更正（当該内国法人を合併法人とする適格合併に係る被合併法人の当該適格合併の日前に終了した課税事業年度の所得基準法人税額に対する地方法人税についてされた更正を含む。以下この項において「原更正」という。）に伴うもの（以下この項において「反射的更正」という。）があった場合において、当該反射的更正により減少する部分の課税標準法人税額のうちに当該原更正に係る課税事業年度においてその事実を仮装して経理した金額に係るものがあるときは、当該金額は、当該各課税事業年度において当該内国法人が仮装して経理したところに基づく金額とみなして、前各項の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四項の規定による還付の請求をしようとする適用法人は、その還付を受けようとする仮装経理地方法人税額、その計算の基礎その他財務省令で定める事項を記載した還付請求書を納税地の所轄税務署長に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">税務署長は、前項の還付請求書の提出があった場合には、その請求に係る事実その他必要な事項について調査し、その調査したところにより、その請求をした適用法人に対し、仮装経理地方法人税額を還付し、又は請求の理由がない旨を書面により通知する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項、第三項又は前項の規定による還付金について還付加算金を計算する場合には、その計算の基礎となる国税通則法第五十八条第一項の期間は、第一項の更正の日の翌日以後一月を経過した日（第三項の規定による還付金にあっては同項の最終申告期限（同項の期限後申告書の提出があった場合にはその提出の日とし、同項の決定があった場合にはその決定の日とする。）の翌日とし、前項の規定による還付金にあっては第四項の規定による還付の請求がされた日の翌日以後三月を経過した日とする。）からその還付のための支払決定をする日又はその還付金につき充当をする日（同日前に充当をするのに適することとなった日がある場合には、その適することとなった日）までの期間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の場合において、同項の更正により第十九条第一項第五号に掲げる金額が増加したときは、その増加した部分の金額のうち当該更正に係る仮装経理地方法人税額に達するまでの金額については、前条第二項の規定は、適用しない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同条第三項に規定する延滞税がある場合における同項の規定の適用については、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <Article Num="30">
+          <ArticleCaption>（通算法人の電子情報処理組織による申告）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">通算親法人が、他の通算法人の第十九条の三第一項に規定する地方法人税の申告に関する事項の処理として、同項に規定する申告書記載事項又は添付書類記載事項を、財務省令で定めるところにより、同項に規定する方法により提供した場合には、当該他の通算法人は、当該申告書記載事項又は添付書類記載事項を同項に定めるところにより提供したものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、同項の通算親法人が同項に規定する事項の処理に際し財務省令で定めるところにより当該通算親法人の名称を明らかにする措置を講じたときは、同項の他の通算法人は、同項の地方法人税の申告について第十九条の三第五項に規定する措置を講じたものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（連帯納付の責任）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人税法第百五十二条第一項及び第二項の規定は、通算法人との間に通算完全支配関係がある他の通算法人につきその通算完全支配関係がある期間内に納税義務が成立した各課税事業年度の第六条第一項第一号に定める基準法人税額に対する地方法人税について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人税法第百五十二条第三項及び第四項の規定は、第三条第三項において準用する同法第四条の四第二項の規定により同法第百五十二条第三項に規定する主宰受託者が納めるものとされる地方法人税について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（政令への委任）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律による地方法人税の還付の通知に係る事項その他のこの法律の実施のための手続その他その執行に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Num="33">
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">偽りその他不正の行為により、第十九条第一項第二号に規定する地方法人税の額（第十二条の規定により控除をされる金額がある場合には、同号の規定による計算を同条の規定を適用しないでした地方法人税の額）、第十九条第五項第二号に規定する地方法人税の額若しくは第二十四条の四第一項第二号に規定する地方法人税の額につき地方法人税を免れ、又は第二十三条第一項の規定による地方法人税の還付を受けた場合には、法人の代表者（人格のない社団等の管理人及び法人課税信託の受託者である個人を含む。以下第三十六条までにおいて同じ。）、代理人、使用人その他の従業者（当該法人が通算法人である場合には、他の通算法人の代表者、代理人、使用人その他の従業者を含む。第三十七条第一項において同じ。）でその違反行為をした者は、十年以下の拘禁刑若しくは千万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の免れた地方法人税の額又は同項の還付を受けた地方法人税の額が千万円を超えるときは、情状により、同項の罰金は、千万円を超えその免れた地方法人税の額又は還付を受けた地方法人税の額に相当する金額以下とすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項に規定するもののほか、第十九条第一項若しくは第五項又は第二十四条の四第一項の規定による申告書をその提出期限までに提出しないことにより、第十九条第一項第二号に規定する地方法人税の額（第十二条の規定により控除をされる金額がある場合には、同号の規定による計算を同条の規定を適用しないでした地方法人税の額）、第十九条第五項第二号に規定する地方法人税の額又は第二十四条の四第一項第二号に規定する地方法人税の額につき地方法人税を免れた場合には、法人の代表者、代理人、使用人その他の従業者でその違反行為をした者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の免れた地方法人税の額が五百万円を超えるときは、情状により、同項の罰金は、五百万円を超えその免れた地方法人税の額に相当する金額以下とすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">正当な理由がなくて第十九条第一項若しくは第五項又は第二十四条の四第一項の規定による申告書をその提出期限までに提出しなかった場合には、法人の代表者、代理人、使用人その他の従業者でその違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、情状により、その刑を免除することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十七条第一項各号に掲げる事項を記載した地方法人税中間申告書又は第十六条第六項の規定による申告書（当該申告書に係る期限後申告書を含む。）に偽りの記載をして税務署長に提出した場合の法人の代表者、代理人、使用人その他の従業者でその違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者（人格のない社団等の管理人を含む。）又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して第三十三条第一項若しくは第三項、第三十四条又は前条の違反行為をしたときは、その行為者を罰するほか、その法人又は人に対して当該各条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により第三十三条第一項又は第三項の違反行為につき法人又は人に罰金刑を科する場合における時効の期間は、これらの規定の罪についての時効の期間による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">人格のない社団等について第一項の規定の適用がある場合には、その代表者又は管理人がその訴訟行為につきその人格のない社団等を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、平成二十六年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（適用区分）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律（第四章第一節を除く。）の規定は、法人のこの法律の施行の日以後に開始する課税事業年度の基準法人税額に対する地方法人税について適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">第四章第一節の規定は、法人の平成二十七年十月一日以後に開始する課税事業年度の第十六条第一項又は第九項の規定による申告書について適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphCaption>（政令への委任）</ParagraphCaption>
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年三月三一日法律第一〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十六年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:5">
+            <ItemTitle>一から五まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十八年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ及びロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四条の規定及び附則第三十六条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="36">
+        <ArticleCaption>（地方法人税法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四条の規定による改正後の地方法人税法（以下この条において「新地方法人税法」という。）の規定は、外国法人の平成二十八年四月一日以後に開始する新地方法人税法第七条に規定する課税事業年度の新地方法人税法第六条に規定する基準法人税額に対する地方法人税について適用し、外国法人の同日前に開始した第四条の規定による改正前の地方法人税法（以下この条において「旧地方法人税法」という。）第七条に規定する課税事業年度の旧地方法人税法第六条に規定する基準法人税額に対する地方法人税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="164">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="165">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百六十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年三月三一日法律第九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十七年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十七年七月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ及びロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六条中国税通則法第七十条第四項の改正規定、同法第七十三条第三項本文の改正規定及び同法第七十四条の九の改正規定（同条第三項第二号中「の規定により」を「において」に改める部分を除く。）並びに附則第五十三条第四項及び第百十四条（地方法人税法（平成二十六年法律第十一号）第二十六条第二項の改正規定に限る。）の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="130">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="131">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年三月三一日法律第一五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十八年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:7_2">
+            <ItemTitle>一から七の二まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7_3">
+            <ItemTitle>七の三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和元年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三条の規定（同条中地方法人税法第十二条第五項の改正規定を除く。）並びに附則第三十条、第百五十九条（租税特別措置法等の一部を改正する法律（平成二十四年法律第十六号）附則第三十三条第一項の表第十二項の項の改正規定に限る。）及び第百六十条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（地方法人税法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条の規定による改正後の地方法人税法（以下この条において「新地方法人税法」という。）の規定（新地方法人税法第二十三条の規定を除く。）は、法人の令和元年十月一日以後に開始する課税事業年度の基準法人税額に対する地方法人税について適用し、法人の同日前に開始した課税事業年度の基準法人税額に対する地方法人税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第百九条第二項の規定によりなお従前の例によることとされる場合における第十条の規定による改正前の租税特別措置法（以下「旧租税特別措置法」という。）第六十八条の十四第五項の規定その他これに類する法人税の額への加算に関する特例を定めている規定として政令で定める規定（以下この項において「旧連結措置法税額加算規定」という。）の適用がある場合における新地方法人税法第十五条の規定の適用については、同条第一項に規定する加算調整額は、附則第百九条第二項の規定その他これに類する附則の規定として政令で定める規定にかかわらず、当該加算調整額に当該旧連結措置法税額加算規定に規定する加算した金額のうち新地方法人税法第十五条第一項の連結親法人又は各連結子法人に帰せられる金額の百分の十・三に相当する金額を加算した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新地方法人税法第二十三条の規定は、法人の令和元年十月一日以後に開始する同条第一項本文に規定する課税事業年度の同項に規定する基準法人税額に対する地方法人税の額について適用し、法人の同日前に開始した第三条の規定による改正前の地方法人税法第二十三条第一項本文に規定する課税事業年度の同項に規定する基準法人税額に対する地方法人税の額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前三項に定めるもののほか、旧租税特別措置法第六十八条の十四第五項の規定により加算された金額がある場合における新地方法人税法第十六条第一項第一号に規定する地方法人税額及び新地方法人税法第二十三条第一項に規定する基準法人税額に対する地方法人税の額その他新地方法人税法の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="168">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="169">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百六十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年一一月二八日法律第八五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年三月三一日法律第四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十九年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十九年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ及びロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三条中地方法人税法第二条第十号の二の改正規定、同法第十六条の改正規定、同法第十九条第六項第三号の改正規定、同法第二十条第二項の改正規定並びに同法第二十七条第一項、第三十条、第三十五条及び第三十六条の改正規定並びに附則第三十条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（地方法人税法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条の規定による改正後の地方法人税法第十六条第九項の規定は、平成二十九年十月一日以後に納税義務が成立する地方法人税中間申告書に係る地方法人税について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="140">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="141">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百四十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年三月三一日法律第七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成三十年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:5">
+            <ItemTitle>一から五まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和二年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ及びロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三条中地方法人税法第六条第二号イ及び第十二条第三項の改正規定、同条の次に一条を加える改正規定、同法第十四条の改正規定、同法第十五条第一項の改正規定、同法第十七条第三項の改正規定並びに同法第二十三条第一項の改正規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和二年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三条中地方法人税法の目次の改正規定、同法第三条第一項の改正規定、同法第十九条第六項第三号の改正規定及び同法第四章第二節の次に一節を加える改正規定並びに附則第四十二条第一項の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="42">
+        <ArticleCaption>（地方法人税法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条の規定による改正後の地方法人税法（以下「新地方法人税法」という。）第四章第二節の二の規定は、内国法人の令和二年四月一日以後に開始する課税事業年度の基準法人税額に対する地方法人税について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新地方法人税法第三十条の規定は、外国法人の施行日以後に終了する課税事業年度の地方法人税確定申告書、外国法人の施行日以後に納税義務が成立する地方法人税中間申告書に係る地方法人税の地方法人税中間申告書並びに外国法人の地方法人税確定申告書及び地方法人税中間申告書に係る修正申告書で外国法人が施行日以後に提出するものについて適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法人の施行日前に終了した課税事業年度の地方法人税確定申告書（令和三年四月一日以後に提出するものを除く。）及び法人の施行日前に納税義務が成立した地方法人税中間申告書に係る地方法人税の地方法人税中間申告書並びにこれらの申告書に係る修正申告書で法人が施行日前に提出したものに係る第三条の規定による改正前の地方法人税法第三十条において準用する旧法人税法第百五十一条第一項から第四項までの規定による自署及び押印については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="143">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百四十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="144">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百四十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第三十条（地方税法（昭和二十五年法律第二百二十六号）第七十二条の二十五第十五項及び第十六項並びに第七十二条の二十六第十項及び第十一項の改正規定並びに同法附則第九条の五の改正規定に限る。）、第四十四条、第五十条及び第七十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成三十二年四月一日又は施行日のいずれか遅い日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和四年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三条の規定（同条中法人税法第五十二条第一項の改正規定（同項第一号に係る部分を除く。）及び同法第五十四条第一項の改正規定を除く。）並びに附則第十四条から第十八条まで、第二十条から第三十七条まで、第百三十九条（地価税法（平成三年法律第六十九号）第三十二条第五項の改正規定に限る。）、第百四十三条、第百五十条（地方自治法（昭和二十二年法律第六十七号）第二百六十条の二第十六項の改正規定に限る。）、第百五十一条から第百五十六条まで、第百五十九条から第百六十二条まで、第百六十三条（銀行等の株式等の保有の制限等に関する法律（平成十三年法律第百三十一号）第五十八条第一項の改正規定に限る。）、第百六十四条、第百六十五条及び第百六十七条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四条の規定（同条中地方法人税法第二十六条第二項の改正規定を除く。）及び附則第三十八条から第四十条までの規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（連結納税制度の改正に伴う経過措置の原則）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">別段の定めがあるものを除き、第三条の規定（附則第一条第五号ロに掲げる改正規定に限る。以下この項において同じ。）による改正後の法人税法（以下「新法人税法」という。）、第四条の規定（同号ハに掲げる改正規定に限る。次項において同じ。）による改正後の地方法人税法（以下「新地方法人税法」という。）、第十三条の規定（同号ヘに掲げる改正規定に限る。次項において同じ。）による改正後の国税通則法、第十四条の規定（同号トに掲げる改正規定に限る。次項において同じ。）による改正後の国税徴収法、第十六条の規定による改正後の租税特別措置法（以下「四年新措置法」という。）、第二十一条の規定による改正後の電子計算機を使用して作成する国税関係帳簿書類の保存方法等の特例に関する法律、第二十三条の規定による改正後の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下「四年新震災特例法」という。）及び第三十条の規定（同号ネに掲げる改正規定に限る。次項において同じ。）による改正後の所得税法等の一部を改正する法律の規定は、法人（人格のない社団等を含む。次項及び附則第二十二条において同じ。）の令和四年四月一日以後に開始する事業年度（第三条の規定による改正前の法人税法（以下「旧法人税法」という。）第二条第十二号の七に規定する連結子法人（以下附則第三十二条までにおいて「連結子法人」という。）の連結親法人事業年度（旧法人税法第十五条の二第一項に規定する連結親法人事業年度をいう。以下附則第三十二条までにおいて同じ。）が同日前に開始した事業年度（以下この条において「旧事業年度」という。）を除く。）の所得に対する法人税及び同日以後に開始する課税事業年度（旧事業年度を除く。）の基準法人税額に対する地方法人税について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">別段の定めがあるものを除き、法人の令和四年四月一日前に開始した事業年度（旧事業年度を含む。）の所得に対する法人税及び連結法人（旧法人税法第二条第十二号の七の二に規定する連結法人をいう。以下附則第三十五条までにおいて同じ。）の連結親法人事業年度が同日前に開始した連結事業年度（旧法人税法第十五条の二第一項に規定する連結事業年度をいう。以下附則第三十七条までにおいて同じ。）の連結所得（旧法人税法第二条第十八号の四に規定する連結所得をいう。以下附則第三十五条までにおいて同じ。）に対する法人税並びに法人の同日前に開始した課税事業年度（旧事業年度を含む。）の基準法人税額に対する地方法人税については、旧法人税法、第四条の規定による改正前の地方法人税法（以下「旧地方法人税法」という。）、第十三条の規定による改正前の国税通則法、第十四条の規定による改正前の国税徴収法、第十六条の規定による改正前の租税特別措置法（以下「四年旧措置法」という。）、第十七条の規定（附則第一条第五号ヌに掲げる改正規定に限る。）による改正前の外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律、第十八条の規定（同号ルに掲げる改正規定に限る。）による改正前の租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律、第二十一条の規定による改正前の電子計算機を使用して作成する国税関係帳簿書類の保存方法等の特例に関する法律、第二十三条の規定による改正前の東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下「四年旧震災特例法」という。）及び第三十条の規定による改正前の所得税法等の一部を改正する法律の規定は、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="38">
+        <ArticleCaption>（地方法人税の中間申告に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新地方法人税法第十六条第一項に規定する法人の令和四年四月一日以後に開始する同項に規定する課税事業年度において、当該課税事業年度の前課税事業年度の期間が連結事業年度（旧地方法人税法第二条第十三号に規定する連結事業年度をいう。以下この条及び附則第四十条において同じ。）に該当する場合には、その法人が提出すべき当該課税事業年度の地方法人税中間申告書については、同項第一号に掲げる金額は、同号の規定にかかわらず、当該連結事業年度である当該前課税事業年度のその法人に係る旧地方法人税法第十六条第一項第一号イに規定する連結地方法人税個別帰属支払額（次項において「連結地方法人税個別帰属支払額」という。）で新地方法人税法第十六条第一項に規定する六月経過日（次項及び第四項において「六月経過日」という。）の前日までに確定した当該課税事業年度開始の日の前日の属する課税事業年度の同号に規定する地方法人税額（次項及び第四項において「地方法人税額」という。）に係るものを当該法人の当該前課税事業年度の月数で除し、これに同条第一項第一号に規定する中間期間の月数を乗じて計算した金額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新地方法人税法第十六条第一項の場合において、同項の法人が同条第二項各号に掲げる期間内に行われた適格合併（法人を設立するものを除く。）に係る合併法人又は法人を設立する適格合併に係る合併法人であるとき（その法人の当該課税事業年度開始の日の一年前の日以後に終了したこれらの適格合併に係る被合併法人の各課税事業年度（その月数が六月に満たないものを除く。）のうち最も新しい課税事業年度の期間が連結事業年度に該当する場合に限る。）は、同項及び同条第三項の規定の適用については、当該被合併法人の同条第二項第一号に規定する被合併法人確定地方法人税額は、当該最も新しい課税事業年度の当該被合併法人の連結地方法人税個別帰属支払額で六月経過日の前日までに確定した当該最も新しい課税事業年度の地方法人税額に係るものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二項の月数は、暦に従って計算し、一月に満たない端数を生じたときは、これを一月とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項の連結事業年度に該当する課税事業年度の旧地方法人税法第十九条第一項の規定による申告書の提出期限が同条第五項の規定により当該課税事業年度終了の日の翌日から六月を経過した日の前日とされている場合で、かつ、当該申告書の提出期限につき国税通則法第十条第二項の規定の適用がある場合において、同項の規定の適用がないものとした場合における当該申告書の提出期限の翌日から同項の規定により当該申告書の提出期限とみなされる日までの間に地方法人税額が確定したときは、六月経過日の前日までに当該地方法人税額が確定したものとみなして、第一項及び第二項の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="39">
+        <ArticleCaption>（欠損金の繰戻しによる法人税の還付があった場合の還付に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">内国法人について附則第三十五条第二項の規定の適用がある場合における新地方法人税法第二十三条の規定の適用については、第一号に掲げる金額に、第二号及び第三号に掲げる金額の合計額のうちに第二号に掲げる金額の占める割合を乗じて計算した金額（当該合計額が零である場合には、零）をもって同項に規定する前二年内事業年度に該当する課税事業年度の同条第一項に規定する地方法人税の額とみなす。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該課税事業年度の旧地方法人税法第二十三条第一項に規定する地方法人税の額（既に同項の規定の適用がある場合には、当該地方法人税の額からその適用により還付された金額を控除した金額）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前号に掲げる地方法人税の額に係る地方法人税の負担額として当該内国法人に帰せられる金額として旧地方法人税法第十五条第一項の規定により計算される金額</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第一号に掲げる地方法人税の額に係る地方法人税の負担額として当該課税事業年度終了の日において当該内国法人との間に旧地方法人税法第二条第九号に規定する連結完全支配関係がある他の連結法人（同条第八号に規定する連結法人をいう。）に帰せられる金額として旧地方法人税法第十五条第一項の規定により計算される金額の合計額</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（仮装経理に基づく過大申告の場合の更正に伴う地方法人税額の還付の特例に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">連結親法人（旧地方法人税法第二条第六号に規定する連結親法人をいう。次項において同じ。）の最終課税事業年度（旧法人税法第十五条の二第一項に規定する連結親法人事業年度が令和四年三月三十一日以後に終了する連結事業年度をいう。以下この項において同じ。）が終了した場合には、その終了したことは、旧地方法人税法第二十九条第三項各号に掲げる事実とみなし、その最終課税事業年度の旧地方法人税法第十九条第一項の規定による申告書の提出期限は、旧地方法人税法第二十九条第三項に規定する最終申告期限とみなして、附則第十四条第二項の規定によりなおその効力を有するものとされる旧地方法人税法第二十九条の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">連結親法人が前項に規定する提出期限前にした旧地方法人税法第二十九条第四項の規定による還付の請求については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="171">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="172">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日法律第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和三年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="131">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="132">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年三月三一日法律第四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和四年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（地方法人税法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四条の規定による改正後の地方法人税法第十二条の規定は、法人（人格のない社団等を含む。）の施行日以後に開始する課税事業年度の基準法人税額に対する地方法人税について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="98">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="99">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第九十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年三月三一日法律第三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:3">
+            <ItemTitle>一から三まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和六年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三条の規定（同条中地方法人税法第十九条第二項の改正規定を除く。）並びに附則第十七条及び第十八条の二の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（地方法人税法の一部改正に伴う経過措置の原則）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条の規定（附則第一条第四号ロに掲げる改正規定に限る。）による改正後の地方法人税法の規定は、法人（人格のない社団等を含む。以下この条において同じ。）の令和六年四月一日以後に開始する課税事業年度の基準法人税額に対する地方法人税及び内国法人の同日以後に開始する課税対象会計年度の特定基準法人税額に対する地方法人税について適用し、法人の同日前に開始した課税事業年度の地方法人税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（地方法人税の確定申告に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条の規定による改正後の地方法人税法第十九条第二項の規定は、施行日以後に残余財産が確定する内国法人の当該残余財産の確定の日の属する課税事業年度（施行日前に残余財産が確定した内国法人の当該残余財産の確定の日の属する課税事業年度で当該課税事業年度の第三条の規定による改正前の地方法人税法第十九条第一項の規定による申告書の同条第二項の規定により読み替えて適用する同条第一項に規定する提出期限が施行日以後に到来するもの（以下この条において「経過課税事業年度」という。）を含む。）の地方法人税について適用し、施行日前に残余財産が確定した内国法人の当該残余財産の確定の日の属する課税事業年度（経過課税事業年度を除く。）の地方法人税については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18_2">
+        <ArticleCaption>（特定基準法人税額に係る確定申告に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十八条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">特定多国籍企業グループ等に属する内国法人に係る地方法人税法第二十四条の四第一項の規定による申告書の提出期限が令和八年六月三十日前である場合には、当該申告書の提出期限は、同項の規定にかかわらず、同日とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="78">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="79">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年三月三〇日法律第八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="72">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="73">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月七日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条の規定（行政手続における特定の個人を識別するための番号の利用等に関する法律の目次の改正規定、同法第二条第七項の改正規定、同法第一章に一条を加える改正規定並びに同法第十六条にただし書及び各号を加える改正規定（同条ただし書に係る部分に限る。次号において同じ。）を除く。）並びに附則第八条から第十一条までの規定、附則第十三条中デジタル庁設置法第四条第二項第四号の改正規定及び附則第十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年三月三一日法律第一三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和七年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和八年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ及びロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三条の規定及び附則第二十条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="79">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="80">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
