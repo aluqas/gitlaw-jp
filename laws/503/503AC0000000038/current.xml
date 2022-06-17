@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Reiwa" Year="03" Num="038" PromulgateMonth="5" PromulgateDay="19" LawType="Act"><LawNum>令和三年法律第三十八号</LawNum><LawBody><LawTitle Kana="こうてききゅうふのしきゅうとうのじんそくかつかくじつなじっしのためのよちょきんこうざのとうろくとうにかんするほうりつ" Abbrev="" AbbrevKana="">公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　公的給付の支給等に係る金銭の授受に利用することができる預貯金口座の登録</ChapterTitle>
+        <ArticleRange>（第三条―第九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　特定公的給付の支給の迅速かつ確実な実施に必要な措置</ChapterTitle>
+        <ArticleRange>（第十条・第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　預金保険機構の業務の特例等</ChapterTitle>
+        <ArticleRange>（第十二条―第十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <ArticleRange>（第十八条・第十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第二十条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、各行政機関の長等が行う公的給付の支給等に係る金銭の授受に利用することができる預貯金口座を、内閣総理大臣にあらかじめ登録し、当該行政機関の長等が当該金銭の授受をするために当該預貯金口座に関する情報の提供を求めることができることとするとともに、特定公的給付の支給を実施するための基礎とする情報について個人番号を利用して管理できることとする等により、公的給付の支給等の迅速かつ確実な実施を図ることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「行政機関の長等」とは、行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。次条第三項第四号において「番号利用法」という。）第二条第十五項に規定する行政機関の長等をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「公的給付の支給等」とは、次に掲げるもののうち、行政機関の長等が預貯金口座に金銭を払い込む方法により行うことができるようにする必要があるものとしてデジタル庁令で定めるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公的給付（国又は地方公共団体がその給付に要する費用又はその給付の事業に関する事務に要する費用の全部又は一部を負担し、又は補助することとされている給付（給与その他対価の性質を有するものを除く。）をいう。第十条において同じ。）の支給</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">加入者、事業主その他の国又は地方公共団体以外の者がその給付に要する費用及びその給付の事業に関する事務に要する費用の全部を負担することとされている年金に係る給付の支給</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">資金の貸付け</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国税、地方税、保険料その他徴収金に係る還付金及び過誤納金（これらに加算すべき還付加算金を含む。）の還付</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「金融機関」とは、預金保険法（昭和四十六年法律第三十四号）第二条第一項各号に掲げる者及び農水産業協同組合貯金保険法（昭和四十八年法律第五十三号）第二条第一項に規定する農水産業協同組合をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「預貯金」とは、預金保険法第二条第二項に規定する預金等及び農水産業協同組合貯金保険法第二条第二項に規定する貯金等をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「預貯金者」とは、預金保険法第二条第三項に規定する預金者等である個人及び農水産業協同組合貯金保険法第二条第三項に規定する貯金者等である個人をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「預貯金口座」とは、金融機関の営業所又は事務所（国内にあるものに限る。）に預貯金者の名義で開設され、又は設定されている預貯金の口座又は勘定をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　公的給付の支給等に係る金銭の授受に利用することができる預貯金口座の登録</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（登録）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預貯金者は、公的給付の支給等に係る金銭の授受に利用することができる一の預貯金口座について、登録を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の登録を受けようとする者は、デジタル庁令で定めるところにより、内閣総理大臣に申請をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の登録は、公的給付支給等口座登録簿に当該預貯金口座に係る次に掲げる事項を記録してするものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、公的給付支給等口座登録簿は、その全部を磁気ディスク（これに準ずる方法により一定の事項を確実に記録しておくことができる物を含む。第十二条第二項において同じ。）をもって調製するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">金融機関及びその店舗の名称</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">預貯金の種別及び口座番号</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">名義人の氏名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">名義人の個人番号（番号利用法第二条第五項に規定する個人番号をいう。以下同じ。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他デジタル庁令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の登録をしたときは、デジタル庁令で定める方法により、同項の登録を受けた預貯金者（以下「公的給付支給等口座登録者」という。）に対し、その旨その他デジタル庁令で定める事項を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（変更の登録）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公的給付支給等口座登録者は、当該登録に係る預貯金口座以外の一の預貯金口座であって公的給付の支給等に係る金銭の授受に利用することができるものについて、変更の登録を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の変更の登録を受けようとする公的給付支給等口座登録者は、デジタル庁令で定めるところにより、内閣総理大臣に申請をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の変更の登録は、当該預貯金口座に係る前条第三項第一号から第三号までに掲げる事項について、公的給付支給等口座登録簿の記録を修正してするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の変更の登録をしたときは、デジタル庁令で定める方法により、公的給付支給等口座登録者に対し、その旨その他デジタル庁令で定める事項を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（行政機関の長等からの利用口座情報の提供による登録）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">行政機関の長等（国税庁長官、厚生労働大臣その他この項の規定による事務を適切に行い得るものと認められる者としてデジタル庁令で定めるものに限る。）は、その行う公的給付の支給等に係る金銭の授受に利用する一の預貯金口座に関する情報であって第三条第三項各号に掲げる事項に係るもの（以下「利用口座情報」という。）について、預貯金者から取得したとき又は保有しているときは、デジタル庁令で定めるところにより、当該預貯金者に対し、次に掲げる事項を説明した上で、当該預貯金者の同意を得て、内閣総理大臣に提供することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該同意をしたときは、公的給付支給等口座登録簿に第三条第三項各号に掲げる事項が記録されること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">各行政機関の長等は、公的給付の支給等に係る金銭の授受をするために必要があるときは、内閣総理大臣に対し、公的給付支給等口座登録簿に記録された第三条第三項第一号から第三号までに掲げる事項に係る情報（次条第三項及び第九条において「公的給付支給等口座情報」という。）の提供を求めることができること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による利用口座情報の提供を受けた時点において、当該預貯金者が公的給付支給等口座登録者でないときは当該預貯金者を第三条第二項の申請をした者とみなして同条第一項の登録をし、当該預貯金者が前項の同意に係る預貯金口座と異なる預貯金口座に係る公的給付支給等口座登録者であるときは当該預貯金者を前条第二項の申請をした者とみなして同条第一項の変更の登録をし、当該預貯金者が前項の同意に係る預貯金口座と同一の預貯金口座に係る公的給付支給等口座登録者であるときはデジタル庁令で定める方法により当該預貯金者に対しその旨を通知するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第三条第四項中「その旨」とあるのは「その旨及び第五条第一項の規定により利用口座情報の提供を受けた旨」と、前条第四項中「その旨」とあるのは「その旨及び次条第一項の規定により利用口座情報の提供を受けた旨」と読み替えて、これらの規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5_2">
+          <ArticleCaption>（行政機関の長等からの利用口座情報の提供による登録の特例）</ArticleCaption>
+          <ArticleTitle>第五条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項に規定する行政機関の長等（厚生労働大臣その他この項の規定による事務を適切に行い得るものと認められる者としてデジタル庁令で定めるものに限る。）は、同条第一項の規定によるもののほか、利用口座情報を保有している場合において、デジタル庁令で定めるところにより、当該預貯金者に対し、次に掲げる事項及び当該預貯金者に係る利用口座情報を内閣総理大臣に提供することについて同意するかどうかを回答するよう求める旨を記載した書面を次項に規定する方法により送付した上で、当該預貯金者から同意を得たとき（第二号の規定により同意をしたものとして取り扱われることとなる場合を含む。）は、当該預貯金者に係る利用口座情報を内閣総理大臣に提供することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該同意をした場合において、当該預貯金者が公的給付支給等口座登録者でないときは、公的給付支給等口座登録簿に第三条第三項各号に掲げる事項が記録されること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該書面が到達した日から起算して三十日以上が経過した日までの期間としてデジタル庁令で定める期間を経過するまでの間に同意又は不同意の回答がないときは、当該同意をしたものとして取り扱われることとなること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項第二号に掲げる事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による預貯金者への送付は、書留郵便又は民間事業者による信書の送達に関する法律（平成十四年法律第九十九号）第二条第六項に規定する一般信書便事業者若しくは同条第九項に規定する特定信書便事業者の提供する同条第二項に規定する信書便の役務のうち書留郵便に準ずるものとしてデジタル庁令で定めるものに付し、かつ、前項に規定する回答を行うために必要なものとしてデジタル庁令で定めるものを添付して行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の規定による利用口座情報の提供を受けた時点において、当該預貯金者が公的給付支給等口座登録者でないときは当該預貯金者を第三条第二項の申請をした者とみなして同条第一項の登録をし、当該預貯金者が公的給付支給等口座登録者であるときはデジタル庁令で定める方法により当該預貯金者に対しその旨及び当該預貯金者に係る公的給付支給等口座情報は変更されない旨を通知するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条第四項中「その旨」とあるのは、「その旨及び第五条の二第一項の規定により利用口座情報の提供を受けた旨」と読み替えて、同項の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国庫は、予算の範囲内で、第一項の規定による事務の執行に要する費用を負担する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5_3">
+          <ArticleCaption>（日本年金機構への事務の委託）</ArticleCaption>
+          <ArticleTitle>第五条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第五条第一項及び前条第一項の規定による事務（日本年金機構が行うこととされている公的給付の支給等に係る事務に限る。）を日本年金機構に行わせるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（修正又は訂正）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公的給付支給等口座登録者は、第三条第三項各号に掲げる事項に変更があったとき又は誤りがあったときは、デジタル庁令で定めるところにより、その旨を内閣総理大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、公的給付支給等口座登録者について、第三条第三項各号に掲げる事項に変更があったこと又は誤りがあったことを知ったとき（前項の規定による届出があったときを含む。）は、公的給付支給等口座登録簿の記録の修正又は訂正をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の記録の修正又は訂正をしたときは、デジタル庁令で定める方法により、公的給付支給等口座登録者に対し、その旨を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（登録の抹消）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公的給付支給等口座登録者は、デジタル庁令で定めるところにより、内閣総理大臣に対し、第三条第一項の登録の抹消の申請をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、次に掲げるときは、公的給付支給等口座登録者について、第三条第一項の登録を抹消しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該公的給付支給等口座登録者が前項の申請をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該公的給付支給等口座登録者に係る預貯金口座について、公的給付の支給等に係る金銭の授受に利用することができないことを知ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該公的給付支給等口座登録者が死亡したことを知ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項（第三号を除く。）の規定により第三条第一項の登録を抹消したときは、デジタル庁令で定める方法により、公的給付支給等口座登録者に対し、その旨を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（委託）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第三条第二項の申請、第四条第二項の申請、第六条第一項の規定による届出又は前条第一項の申請の受付に関する事務の一部を金融機関に委託するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融機関は、他の法律の規定にかかわらず、前項の規定による委託を受け、当該事務を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による委託を受けた金融機関の役員若しくは職員又はこれらの者であった者は、その委託を受けた事務に関して知り得た秘密を漏らしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（公的給付支給等口座登録簿に関する情報の提供の要求）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">行政機関の長等は、公的給付の支給等に係る金銭の授受をするために必要があるときは、内閣総理大臣に対し、公的給付支給等口座情報の提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　特定公的給付の支給の迅速かつ確実な実施に必要な措置</ChapterTitle>
+        <Article Num="10">
+          <ArticleCaption>（特定公的給付の支給を実施するための基礎とする情報の管理）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">行政機関の長等は、特定公的給付（個別の法律の規定によらない公的給付のうち、国民生活及び国民経済に甚大な影響を及ぼすおそれがある災害若しくは感染症が発生した場合に支給されるもの又は経済事情の急激な変動による影響を緩和するために支給されるものとして内閣総理大臣が指定するものをいう。）の支給を実施しようとするときは、支給要件の該当性を判定する必要がある者に係る当該判定に必要な情報その他の当該支給を実施するための基礎とする情報を個人番号を利用して管理することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（資料の提出その他の協力）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">行政機関の長等は、前条に規定する情報の管理に関する事務のために必要があると認めるときは、他の行政機関の長等に対して、資料の提出その他必要な協力を求めることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該求めを受けた者は、正当な理由がある場合を除き、その求めに応じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　預金保険機構の業務の特例等</ChapterTitle>
+        <Article Num="12">
+          <ArticleCaption>（預金保険機構の業務の特例）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、預金保険法第三十四条に規定する業務のほか、第一条の目的を達成するため、次の業務を行う。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣の委託を受けて、内閣総理大臣と第八条第一項の規定による委託を受けた金融機関との連絡を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣の委託を受けて、第三条第二項の申請、第四条第二項の申請、第六条第一項の規定による届出又は第七条第一項の申請（前号に規定する金融機関が受付に関する事務を行ったものに限る。）をした者の個人番号の確認を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号の業務に附帯する業務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、内閣府令・デジタル庁令・財務省令で定めるところにより、前項の規定による業務を電子情報処理組織（預金保険機構の使用に係る電子計算機（磁気ディスク及び入出力装置を含む。以下この項において同じ。）と内閣総理大臣又は前項第一号に規定する金融機関の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。）によって取り扱うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（預金保険法の適用）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律により預金保険機構の業務が行われる場合には、この法律の規定によるほか、預金保険法を適用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる同法の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とするほか、必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第十五条第五号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">事項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">事項（公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律（令和三年法律第三十八号。以下「口座登録法」という。）第十二条第一項の規定による業務に係るものを除く。）</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第四十四条、第四十五条第二項、第四十六条第一項及び第百五十二条第一号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">法律</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">法律又は口座登録法</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第五十一条第二項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">業務を</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">業務及び口座登録法第十二条第一項の規定による業務を</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第百三十九条第一項</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">権限</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">権限（口座登録法第十三条の規定により適用する第三十六条第一項及び口座登録法第十三条の規定により読み替えて適用する第四十五条第二項の規定による権限にあつては、デジタル庁の所掌に係るものを除く。）</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">第百五十二条第三号</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">業務以外</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">業務及び口座登録法第十二条第一項の規定による業務以外</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（区分経理）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、第十二条第一項の規定による業務に係る経理については、その他の経理と区分し、特別の勘定を設けて整理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（交付金）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、予算の範囲内において、預金保険機構に対し、第十二条第一項の規定による業務に要する費用の全部又は一部に相当する金額を交付することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（借入金）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険機構は、第十二条第一項の規定による業務を行うため必要があると認めるときは、政令で定める金額の範囲内において、内閣総理大臣及び財務大臣の認可を受けて、資金の借入れ（借換えを含む。）をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による権限を金融庁長官に委任する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定するもののほか、第一項の規定による内閣総理大臣の権限の委任に関して必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（内閣府令・財務省令への委任）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三条に規定するもののほか、前条第一項の規定による認可に関する手続その他前三条の規定を実施するため必要な事項は、内閣府令・財務省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <Article Num="18">
+          <ArticleCaption>（デジタル庁令への委任）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律を実施するため必要な事項は、デジタル庁令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Num="20">
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第八条第三項の規定に違反して秘密を漏らした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二章（第八条を除く。）並びに附則第七条（住民基本台帳法（昭和四十二年法律第八十一号）別表第一の十三の項の次に次のように加える改正規定を除く。）、第九条及び第十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第八条、第十二条及び第二十条並びに附則第五条第一項及び第七条（住民基本台帳法別表第一の十三の項の次に次のように加える改正規定に限る。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（準備行為）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">預金保険機構及び金融機関は、前条第三号に掲げる規定の施行の日前においても、第十二条第二項に規定する電子情報処理組織の整備に必要な準備行為をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日から附則第一条第一号に掲げる規定の施行の日の前日までの間における第二条第二項、第十三条及び第十八条の規定の適用については、同項及び同条（見出しを含む。）中「デジタル庁令」とあるのは「内閣府令」と、第十三条の表中「デジタル庁」とあるのは「内閣府本府」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日から附則第一条第三号に掲げる規定の施行の日の前日までの間における第十三条から第十六条までの規定の適用については、これらの規定中「第十二条第一項の規定による」とあるのは、「附則第二条の規定による準備行為に関する」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（検討等）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、附則第一条第三号に掲げる規定の施行後三年を目途として、この法律の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて、国民の理解を得つつ、所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、社会福祉協議会（行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の十八の項に規定する社会福祉協議会をいう。以下この項において同じ。）が附則第九条の規定による改正後の同法別表第二の三十の項の規定による特定個人情報の提供の求めをすることにより国民の利便性の向上及び行政運営の効率化を図るためには、情報通信技術を活用して同項第二欄に掲げる事務及びこれに関連する社会福祉協議会の事務を効率的に実施するための情報システムが必要であることに鑑み、社会福祉協議会を代表する者その他の関係者の意見を聴いて、当該情報システムの整備の支援その他必要な措置を講ずるとともに、同項の規定に基づく主務省令を定めるに当たっては、当該情報システムの整備の状況を踏まえるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月九日法律第四八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中行政手続における特定の個人を識別するための番号の利用等に関する法律第三条第二項の改正規定及び同法第九条第二項の改正規定並びに第十三条の規定並びに附則第十七条、第十九条及び第二十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月七日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条の規定（行政手続における特定の個人を識別するための番号の利用等に関する法律の目次の改正規定、同法第二条第七項の改正規定、同法第一章に一条を加える改正規定並びに同法第十六条にただし書及び各号を加える改正規定（同条ただし書に係る部分に限る。次号において同じ。）を除く。）並びに附則第八条から第十一条までの規定、附則第十三条中デジタル庁設置法第四条第二項第四号の改正規定及び附則第十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
