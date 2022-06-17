@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="029" Year="41" PromulgateMonth="03" PromulgateDay="28">
+  <LawNum>明治四十一年法律第二十九号</LawNum>
+  <LawBody>
+    <LawTitle Kana="けいほうしこうほう" Abbrev="旧刑法施行法" AbbrevKana="き">刑法施行法</LawTitle>
+    <MainProvision Extract="true">
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法ニ於テ旧刑法ト称スルハ明治十三年第三十六号布告刑法ヲ謂ヒ他ノ法律ト称スルハ刑法施行前ニ公布シタル法律及ヒ勅令、布告ニシテ法律ト同一ノ効力ヲ有スルモノヲ謂ヒ刑法等一部改正法ト称スルハ令和四年法律第六十七号刑法等の一部を改正する法律ヲ謂フ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法ニ於テ懲役（旧刑法ノ懲役ヲ除ク）ト称スルハ刑法等一部改正法ニ依ル改正前ノ刑法第十二条ニ定メタル懲役ヲ謂ヒ禁錮（旧刑法ノ禁錮ヲ除ク）ト称スルハ刑法等一部改正法ニ依ル改正前ノ刑法第十三条ニ定メタル禁錮ヲ謂ヒ拘留（旧刑法ノ拘留ヲ除ク）ト称スルハ刑法等一部改正法ニ依ル改正前ノ刑法第十六条ニ定メタル拘留ヲ謂フ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前ニ旧刑法ノ罪又ハ他ノ法律ノ罪ヲ犯シタル者ニ付テハ左ノ例ニ従ヒ刑法ノ主刑ト旧刑法ノ主刑トヲ対照シ刑法第十条ノ規定ニ依リ其軽重ヲ定ム</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">刑法ノ刑</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">旧刑法ノ刑</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">死刑</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　死刑</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">無期懲役</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　無期徒刑</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">無期禁錮</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　無期流刑</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">有期懲役</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　有期徒刑、重懲役、軽懲役、重禁錮</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">有期禁錮</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　有期流刑、重禁獄、軽禁獄、軽禁錮</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">罰金</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　罰金</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">拘留</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　拘留</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">科料</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　科料</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法律ニ依リ刑ヲ加重減軽ス可キトキ又ハ酌量減軽ヲ為ス可キトキハ加重又ハ減軽ヲ為シタル後刑ノ対照ヲ為ス可シ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">数罪ヲ犯シタル者ニ付テハ併合罪又ハ数罪倶発ニ関スル規定ヲ適用シタル後刑ノ対照ヲ為ス可シ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">一罪ニ付キ二個以上ノ主刑ヲ併科ス可キトキ又ハ二個以上ノ主刑中其一個ヲ科ス可キトキハ其中ニテ重キ刑ノミニ付キ対照ヲ為ス可シ併合罪又ハ数罪倶発ニ関スル規定ニ依リ数罪ノ主刑ヲ併科ス可キトキ亦同シ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前旧刑法又ハ他ノ法律ノ規定ニ依リ告訴ヲ待テ論ス可キ罪ヲ犯シタル者ハ刑法ノ規定ニ依リ告訴ヲ要セサルモノト雖モ告訴アルニ非サレハ其罪ヲ論セス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法第六条ニ依リ旧刑法又ハ他ノ法律ヲ適用スル場合ニ於テハ剥奪公権、停止公権、監視又ハ罰金ヲ附加ス可キトキト雖モ之ヲ附加セス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前ニ犯シタル罪ニ付キ刑法施行ノ前又ハ後ニ確定裁判アリタル後刑法施行前ニ犯シタル余罪ニ付キ裁判ヲ為ストキハ左ノ例ニ依ル</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">確定裁判アリタル罪ニ旧刑法又ハ他ノ法律ヲ適用シタルトキト雖モ刑法又ハ刑法ノ刑名ニ依リ刑ヲ定メタル法令ニ於テハ其罪ト余罪トニ付キ併合罪ニ関スル規定ヲ準用ス</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">確定裁判アリタル罪ニ刑法又ハ刑法ノ刑名ニ依リ刑ヲ定メタル法令ヲ適用シタルトキト雖モ旧刑法又ハ他ノ法律ニ於テハ其罪ト余罪トニ付キ数罪倶発ニ関スル規定ニ依ル</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">左ニ記載シタル者刑法施行前更ニ刑法ノ有期懲役ニ相当スル刑ニ該ル罪ヲ犯シ刑法施行後其罪ニ付キ裁判ヲ為ストキハ刑法又ハ刑法ノ刑名ニ依リ刑ヲ定メタル法令ニ於テハ累犯ニ関スル規定ヲ準用ス</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">旧刑法又ハ他ノ法律ニ依リ刑法ノ懲役ニ相当スル刑ニ処セラレタル者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">旧刑法又ハ他ノ法律ニ依リ刑法ノ懲役ニ相当スル刑ニ該ル罪ト同質ノ罪ニ因リ死刑ニ処セラレ其執行ノ免除ヲ得又ハ減刑ニ因リ懲役ニ相当スル刑ニ減軽セラレタル者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法第五十六条第三項ノ規定ハ数罪倶発ニ関スル規定ニ依リ処断セラレタル者ニ之ヲ準用ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前ニ犯シタル一罪ト刑法施行後ニ犯シタル一罪又ハ数罪トニ付キ同時ニ裁判ヲ為ス場合ニ於テハ刑法施行前ノ罪ニ旧刑法又ハ他ノ法律ヲ適用ス可キトキト雖モ其罪ト刑法施行後ノ一罪又ハ数罪トニ付キ併合罪ニ関スル規定ヲ準用ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前ニ犯シタル数罪ト刑法施行後ニ犯シタル一罪又ハ数罪トニ付キ同時ニ裁判ヲ為ス場合ニ於テ刑法施行前ノ罪ニ旧刑法又ハ他ノ法律ヲ適用ス可キトキハ数罪倶発ニ関スル規定ニ依リテ定マリタル一ノ重キ罪ト刑法施行後ノ一罪又ハ数罪トニ付キ併合罪ニ関スル規定ヲ準用ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項ノ場合ニ於テ刑法施行前ノ罪ニ刑法又ハ刑法ノ刑名ニ依リ刑ヲ定メタル法令ヲ適用ス可キトキハ其数罪ト刑法施行後ノ一罪又ハ数罪トニ付キ併合罪ニ関スル規定ヲ適用ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行後ニ犯シタル罪ニ付キ確定裁判アリタル後刑法施行前ニ犯シタル余罪ニ付キ裁判ヲ為ス場合ニ於テハ其罪ニ旧刑法又ハ他ノ法律ヲ適用シタルトキト雖モ確定裁判アリタル罪ト其罪トニ付キ併合罪ニ関スル規定ヲ準用ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前ニ犯シタル罪ニ付キ刑法施行後確定裁判アリタル後刑法施行後ニ犯シタル余罪ニ付キ裁判ヲ為ス場合ニ於テハ確定裁判アリタル罪ニ旧刑法又ハ他ノ法律ヲ適用シタルトキト雖モ其罪ト余罪トニ付キ併合罪ニ関スル規定ヲ準用ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第七条第一項各号ニ記載シタル者刑法施行後有期懲役ニ該ル罪ヲ犯シタルトキハ累犯ニ関スル規定ヲ準用ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第七条第二項ノ規定ハ前項ノ場合ニ之ヲ準用ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行後ハ旧刑法又ハ旧刑法施行前ノ法令ノ刑ニ処セラレタル者ト雖モ刑ノ執行、仮出獄及ヒ時効ニ付テハ刑法ノ規定ヲ準用ス</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但罰金又ハ科料ヲ完納スルコト能ハサル者ヲ労役場ニ留置スル場合ニ於テハ検察官ノ請求ニ依リ裁判所決定ヲ以テ其言渡ヲ為ス可シ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項ノ場合ニ於テハ第二条及ヒ明治十四年第八十一号布告第一条ノ例ニ依リ主刑ノ対照ヲ為ス可シ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧刑法ノ刑ニ処セラレタル者ノ刑法施行前ニ於ケル時効期間ノ起算及ヒ時効ノ中断ニ付テハ期満免除ニ関スル規定ニ従フ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行後ハ旧刑法ノ刑ニ処ス可キ者ト雖モ刑ノ執行猶予ニ付テハ刑法ノ規定ヲ準用ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項ノ場合ニ於テハ第二条ノ例ニ依リ主刑ノ対照ヲ為ス可シ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前仮出獄ヲ許サレタル者及ヒ幽閉ヲ免セラレタル者ニ付テハ刑法施行ノ日ヨリ刑法ノ仮出獄ニ関スル規定ヲ準用ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前罰金又ハ科料ヲ納完セサル為メ軽禁錮又ハ拘留ニ換ヘラレタル者ニ付テハ刑法施行ノ日ヨリ刑法第十八条及ヒ第三十条ノ規定ヲ準用ス</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但留置ノ日数ハ其執行ノ日ヨリ起算シ刑法第十八条ノ期間ヲ超ユルコトヲ得ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">懲治場留置ノ執行ハ刑法施行後ト雖モ従前ノ例ニ従フ但司法大臣ハ何時ニテモ其留置ヲ解キ又ハ感化院ニ入院セシムルコトヲ得</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">闕席判決ヲ以テ言渡シタル刑ノ時効期間ハ其言渡ノ日ヨリ之ヲ起算ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">剥奪公権、停止公権、監視及附加ノ罰金ノ言渡ハ刑法施行ノ日ヨリ其効力ヲ失フ</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但既ニ徴収シタル附加ノ罰金ハ之ヲ還付セス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附加ノ罰金ヲ納完セサル為メ換ヘラレタル禁錮ニ付キ亦前項ニ同シ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">他ノ法律ニ定メタル主刑ハ第二条ノ例ニ準シ刑法ノ刑ニ対照シテ之ヲ刑法ノ刑名ニ変更ス</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但単ニ禁錮トアルハ之ヲ有期ノ懲役又ハ禁錮ニ変更ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">他ノ法律ノ規定中剥奪公権、停止公権、監視及ヒ附加ノ罰金ニ処ス可キ旨ヲ定メタルモノハ之ヲ廃止ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">他ノ法律ニ定メタル刑ニ付テハ其期間ヲ変更セス</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但他ノ法律中特ニ期間ヲ定メサル刑ニ付テハ仍ホ旧刑法総則中期間ニ関スル規定ニ従フ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">他ノ法律ニ定メタル刑ヲ加重又ハ減軽ス可キ場合ニ於テハ第二十三条ノ場合ヲ除ク外旧刑法ノ加減例ニ関スル規定ニ依ル</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">他ノ法律中旧刑法ノ規定ヲ掲ケ又ハ旧刑法ノ規定ニ依リ若クハ之ニ依ラサルコトヲ定メタル場合ニ付キ刑法中其規定ニ相当スル規定アルモノハ刑法ノ規定ニ変更ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">爆発物取締罰則第十条ハ之ヲ廃止ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条ノ規定ニ依リ刑法ノ刑ヲ適用ス可キ場合ニ於テハ他ノ法律中刑ノ加重ニ関スル特別ノ規定ハ之ヲ適用セス刑ノ減軽ノ方法ニ付テハ刑法ノ加減例ニ関スル規定ニ従フ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="24">
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">明治二十二年法律第二十八号及ヒ明治二十三年法律第九十九号ハ之ヲ廃止ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="25">
+        <ArticleTitle>第二十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧刑法第二編第四章第九節ノ規定ハ当分ノ内刑法施行前ト同一ノ効力ヲ有ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法第八条ノ規定及ヒ本法中他ノ法律ニ関スル規定ハ之ヲ前項ノ規定ニ準用ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="26">
+        <ArticleTitle>第二十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">左ニ記載シタル罪ハ刑法第二条ノ例ニ従フ</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">明治三十八年法律第六十六号ニ掲ケタル罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">通貨及証券模造取締法ニ掲ケタル罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">船舶法ニ掲ケタル罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">船員法ニ掲ケタル罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">船舶職員及び小型船舶操縦者法ニ掲ケタル罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">船舶検査法ニ掲ケタル罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">戸籍法ニ掲ケタル罪</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="27">
+        <ArticleTitle>第二十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">左ニ記載シタル罪ハ刑法第三条ノ例ニ従フ</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">著作権法ニ掲ケタル罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">移民保護法ニ掲ケタル罪</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="28">
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">人ノ資格其他ノ事項ニ関シ旧刑法ノ刑名又ハ罪別ヲ掲ケタル他ノ法律ノ規定ハ刑法施行ノ為メ変更セラルルコトナシ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="29">
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">死刑、無期又ハ短期一年以上ノ懲役若クハ禁錮ニ該ル罪ハ他ノ法律ノ適用ニ付テハ旧刑法ノ重罪ト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条ニ該当セサル懲役若クハ禁錮又ハ罰金ニ該ル罪ハ他ノ法律ノ適用ニ付テハ旧刑法ノ軽罪ト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条ニ該当セサル懲役又ハ禁錮ニ該ル罪ハ他ノ法律ノ適用ニ付テハ旧刑法ノ禁錮ニ該ル罪ト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条ニ該当セサル懲役ニ該ル罪ハ他ノ法律ノ適用ニ付テハ旧刑法ノ重禁錮ニ該ル罪ト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条ニ該当セサル禁錮ニ該ル罪ハ他ノ法律ノ適用ニ付テハ旧刑法ノ軽禁錮ニ該ル罪ト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">拘留又ハ科料ニ該ル罪ハ他ノ法律ノ適用ニ付テハ旧刑法ノ違警罪ト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">他ノ法律ニ定メタル罪ニシテ死刑、無期又ハ短期六年以上ノ拘禁刑ニ該ルモノノ未遂罪ハ之ヲ罰ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="33">
+        <ArticleTitle>第三十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">死刑、無期又ハ六年以上ノ懲役若クハ禁錮ニ処セラレタル者ハ他ノ法律ノ適用ニ付テハ旧刑法ノ重罪ノ刑ニ処セラレタルモノト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="34">
+        <ArticleTitle>第三十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条ニ記載シタル者及ヒ旧刑法ノ重罪ノ刑ニ処セラレタル者ハ他ノ法律ノ適用ニ付テハ公権ヲ剥奪セラレタルモノト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項ノ規定ハ復権ヲ得タル者ニハ之ヲ適用セス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="35">
+        <ArticleTitle>第三十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">六年未満ノ懲役若クハ禁錮又ハ罰金ニ処セラレタル者ハ他ノ法律ノ適用ニ付テハ旧刑法ノ軽罪ノ刑ニ処セラレタルモノト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">六年未満ノ懲役ニ処セラレタル者ハ他ノ法律ノ適用ニ付テハ旧刑法ノ重禁錮ニ処セラレタルモノト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">六年未満ノ禁錮ニ処セラレタル者ハ他ノ法律ノ適用ニ付テハ旧刑法ノ軽禁錮ニ処セラレタルモノト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="36">
+        <ArticleTitle>第三十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">六年未満ノ懲役又ハ禁錮ニ処セラレタル者及ヒ旧刑法ノ禁錮ノ刑ニ処セラレタル者ハ他ノ法律ノ適用ニ付テハ刑ノ執行ヲ終リ又ハ其執行ヲ受クルコトナキニ至ルマテ公権ヲ停止セラレタルモノト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="37">
+        <ArticleTitle>第三十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">他ノ法律中旧刑法第三十一条又ハ第三十三条ノ規定アル為メ人ノ資格ニ関シ別段ノ規定ヲ設ケサリシ場合ニ付テハ旧刑法第三十一条及ヒ第三十三条ノ規定ハ人ノ資格ニ関シ刑法施行前ト同一ノ効力ヲ有ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="53">
+        <ArticleTitle>第五十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法第五十二条又ハ第五十八条ノ規定ニ依リ刑ヲ定ム可キ場合ニ於テハ其犯罪事実ニ付キ最終ノ判決ヲ為シタル裁判所ノ検察官其裁判所ニ請求ヲ為ス可シ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項ノ請求アリタルトキハ裁判所ハ被告人又ハ其代理人ノ意見ヲ聴キ決定ヲ為ス可シ此決定ニ対シテハ抗告ヲ為スコトヲ得</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="54">
+        <ArticleTitle>第五十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑ノ執行猶予ハ裁判所ニ於テ検察官ノ請求ニ因リ又ハ職権ヲ以テ刑ノ言渡ト同時ニ判決ヲ以テ之ヲ言渡ス可シ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="55">
+        <ArticleTitle>第五十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑ノ執行猶予ノ言渡ハ上訴ニ因リ其効力ヲ失フコトナシ</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但原判決ヲ取消シ又ハ破毀シタル場合ハ此限ニ在ラス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">上訴裁判所ハ新ニ執行猶予ノ言渡ヲ為スコトヲ得</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="56">
+        <ArticleTitle>第五十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑ノ執行猶予ノ言渡ヲ取消ス可キ場合ニ於テハ刑ノ言渡ヲ受ケタル者ノ所在地又ハ最後ノ住所地ヲ管轄スル地方裁判所ノ検察官其裁判所ニ請求ヲ為ス可シ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項ノ請求アリタルトキハ裁判所ハ被告人又ハ其代理人ノ意見ヲ聴キ決定ヲ為ス可シ此決定ニ対シテハ抗告ヲ為スコトヲ得</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="57">
+        <ArticleTitle>第五十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第五十三条及ヒ前条ノ裁判及ヒ抗告ニ付テハ刑事訴訟法ノ規定ヲ準用ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="58">
+        <ArticleTitle>第五十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">明治三十八年法律第七十号ニ依リ刑ノ執行猶予ノ言渡ヲ受ケ仍ホ猶予ノ期間ヲ経過セサル者ハ刑法ニ依リ刑ノ執行猶予ノ言渡ヲ受ケタルモノト看做ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="59">
+        <ArticleTitle>第五十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">明治三十九年法律第五十四号ハ之ヲ廃止ス</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="60">
+        <ArticleTitle>第六十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">私訴ハ公訴ニ附帯スルトキハ民事訴訟ノ方式ニ依ラス書面又ハ口頭ヲ以テ之ヲ為スコトヲ得</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="61">
+        <ArticleTitle>第六十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">贓物犯人ノ手ニ在ルトキハ被害者ノ請求ナシト雖モ之ヲ還付スル言渡ヲ為ス可シ</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法ハ刑法施行ノ日ヨリ之ヲ施行ス</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">刑法附則其他旧刑法施行ノ為メ公布シタル法令ハ之ヲ廃止ス</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="明治四二年三月八日法律第四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行ノ期日ハ勅令ヲ以テ之ヲ定ム</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="明治四三年四月一三日法律第五三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行ノ期日ハ勅令ヲ以テ之ヲ定ム</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="大正五年三月七日法律第一五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行ノ期日ハ勅令ヲ以テ之ヲ定ム</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="大正五年三月七日法律第一七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行ノ期日ハ勅令ヲ以テ之ヲ定ム</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="大正一一年四月二五日法律第七一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="383">
+        <ArticleTitle>第三百八十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法施行ノ期日ハ勅令ヲ以テ之ヲ定ム</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二年四月一日法律第四七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法ハ昭和二年十二月一日ヨリ之ヲ施行ス</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和一二年八月一四日法律第七二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行ノ期日ハ勅令ヲ以テ之ヲ定ム</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二二年四月一六日法律第六一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、日本国憲法施行の日から、これを施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一〇年一〇月二日法律第一一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年六月七日法律第六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年六月一一日法律第六一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
