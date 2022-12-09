@@ -15446,7 +15446,7 @@
               <Sentence Num="1" WritingMode="vertical">予防接種法（昭和二十三年法律第六十八号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第六条、第九条の三（臨時の予防接種に係る部分に限る。以下同じ。）及び第九条の四（臨時の予防接種に係る部分に限る。以下同じ。）の規定により都道府県が処理することとされている事務並びに第六条第一項から第三項まで、第九条の三、第九条の四、第十五条第一項、第十八条及び第十九条第一項の規定により市町村が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第六条、第六条の二第一項（臨時の予防接種に係る部分に限る。以下同じ。）、第七条の二（臨時の予防接種に係る部分に限る。以下同じ。）、第九条の三（臨時の予防接種に係る部分に限る。以下同じ。）及び第九条の四（臨時の予防接種に係る部分に限る。以下同じ。）の規定により都道府県が処理することとされている事務並びに第六条第一項から第三項まで、第六条の二第一項、第七条の二、第九条の三、第九条の四、第十五条第一項、第十八条及び第十九条第一項の規定により市町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -16549,7 +16549,7 @@
               <Sentence Num="1" WritingMode="vertical">電気通信事業法（昭和五十九年法律第八十六号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百三十条第二項及び第三項（これらの規定を第百三十八条第四項において準用する場合を含む。）の規定により市町村が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第百三十条第二項及び第三項（これらの規定を第百三十八条第四項（第百四十三条の十五において準用する場合を含む。）及び第百四十三条の十五において準用する場合を含む。）の規定により市町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -30661,6 +30661,19 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和七年五月三〇日法律第四七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
