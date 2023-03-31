@@ -915,25 +915,31 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">宗教、慈善、学術その他公益を目的とする事業を行う者で政令で定めるものが相続又は遺贈により取得した財産で当該公益を目的とする事業の用に供することが確実なもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">宗教、慈善、学術その他公益を目的とする事業を行う者で政令で定めるものが相続又は遺贈により取得した財産で当該公益を目的とする事業の用に供することが確実なもの（次号に掲げるものを除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">条例の規定により地方公共団体が精神又は身体に障害のある者に関して実施する共済制度で政令で定めるものに基づいて支給される給付金を受ける権利</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">公益信託に関する法律（令和六年法律第三十号）第二条第一項第一号（定義）に規定する公益信託（第二十一条の三第一項第一号及び第四号において「公益信託」という。）の受託者が遺贈により取得した財産（その信託財産として取得したものに限る。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">相続人の取得した第三条第一項第一号に掲げる保険金（前号に掲げるものを除く。以下この号において同じ。）については、イ又はロに掲げる場合の区分に応じ、イ又はロに定める金額に相当する部分</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">条例の規定により地方公共団体が精神又は身体に障害のある者に関して実施する共済制度で政令で定めるものに基づいて支給される給付金を受ける権利</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">相続人の取得した第三条第一項第一号に掲げる保険金（前号に掲げるものを除く。以下この号において同じ。）については、イ又はロに掲げる場合の区分に応じそれぞれイ又はロに定める金額に相当する部分</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">第三条第一項第一号の被相続人のすべての相続人が取得した同号に掲げる保険金の合計額が五百万円に当該被相続人の第十五条第二項に規定する相続人の数を乗じて算出した金額（ロにおいて「保険金の非課税限度額」という。）以下である場合</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">第三条第一項第一号の被相続人の全ての相続人が取得した同号に掲げる保険金の合計額が五百万円に当該被相続人の第十五条第二項に規定する相続人の数を乗じて算出した金額（ロにおいて「保険金の非課税限度額」という。）以下である場合</Sentence>
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">当該相続人の取得した保険金の金額</Sentence>
@@ -952,16 +958,16 @@
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
-              <Item Num="6">
-                <ItemTitle>六</ItemTitle>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">相続人の取得した第三条第一項第二号に掲げる給与（以下この号において「退職手当金等」という。）については、イ又はロに掲げる場合の区分に応じ、イ又はロに定める金額に相当する部分</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">相続人の取得した第三条第一項第二号に掲げる給与（以下この号において「退職手当金等」という。）については、イ又はロに掲げる場合の区分に応じそれぞれイ又はロに定める金額に相当する部分</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">第三条第一項第二号の被相続人のすべての相続人が取得した退職手当金等の合計額が五百万円に当該被相続人の第十五条第二項に規定する相続人の数を乗じて算出した金額（ロにおいて「退職手当金等の非課税限度額」という。）以下である場合</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">第三条第一項第二号の被相続人の全ての相続人が取得した退職手当金等の合計額が五百万円に当該被相続人の第十五条第二項に規定する相続人の数を乗じて算出した金額（ロにおいて「退職手当金等の非課税限度額」という。）以下である場合</Sentence>
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">当該相続人の取得した退職手当金等の金額</Sentence>
@@ -984,7 +990,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項第三号に掲げる財産を取得した者がその財産を取得した日から二年を経過した日において、なお当該財産を当該公益を目的とする事業の用に供していない場合においては、当該財産の価額は、課税価格に算入する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項第三号に掲げる財産を取得した者が当該財産を取得した日から二年を経過した日までに当該財産をその公益を目的とする事業の用に供しない場合又は供しなくなつた場合には、同項の規定にかかわらず、当該財産の価額は、相続税の課税価格に算入する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1481,7 +1487,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">法人からの贈与により取得した財産</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法人からの贈与により取得した財産及び公益信託から給付を受けた財産</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -1493,13 +1499,13 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">宗教、慈善、学術その他公益を目的とする事業を行う者で政令で定めるものが贈与により取得した財産で当該公益を目的とする事業の用に供することが確実なもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">宗教、慈善、学術その他公益を目的とする事業を行う者で政令で定めるものが贈与により取得した財産で当該公益を目的とする事業の用に供することが確実なもの（次号に掲げるものを除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">所得税法第七十八条第三項（寄附金控除）に規定する特定公益信託（以下この号において「特定公益信託」という。）で学術に関する顕著な貢献を表彰するものとして、若しくは顕著な価値がある学術に関する研究を奨励するものとして財務大臣の指定するものから交付される金品で財務大臣の指定するもの又は学生若しくは生徒に対する学資の支給を行うことを目的とする特定公益信託から交付される金品</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">公益信託の受託者が贈与により取得した財産（その信託財産として取得したものに限る。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
@@ -1519,6 +1525,7 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第十二条第二項の規定は、前項第三号に掲げる財産について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第二項中「同項」とあるのは「第二十一条の三第一項」と、「相続税」とあるのは「贈与税」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -5114,12 +5121,6 @@
           <Sentence Num="1" WritingMode="vertical">第九章の規定は、この法律施行後にした行為について適用し、この法律施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-      <Paragraph Num="24">
-        <ParagraphNum>２４</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">公益信託ニ関スル法律（大正十一年法律第六十二号）第一条（公益信託）に規定する公益信託の委託者（その相続人その他の一般承継人を含む。）は、第九条の二第五項に規定する特定委託者に該当するものとみなして、この法律の規定を適用する。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="昭和二五年五月二〇日法律第一九一号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -7446,7 +7447,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第三条の規定による改正後の相続税法（以下この条において「新相続税法」という。）第一章第三節の規定（新相続税法第九条の三第一項に規定する受益者連続型信託に係る部分を除く。）は、信託法施行日以後に効力が生ずる信託（遺言によってされた信託にあっては信託法施行日以後に遺言がされたものに限り、新法信託を含む。）について適用し、信託法施行日前に効力が生じた信託（遺言によってされた信託にあっては信託法施行日前に遺言がされたものを含み、新法信託を除く。）については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第三条の規定による改正後の相続税法（以下この条において「新相続税法」という。）第一章第三節の規定（新相続税法第九条の三第一項に規定する受益者連続型信託に係る部分を除く。）は、信託法施行日以後に効力が生ずる信託（遺言によってされた信託にあっては信託法施行日以後に遺言がされたものに限り、新法信託を含む。）について適用し、信託法施行日前に効力が生じた信託（遺言によってされた信託にあっては信託法施行日前に遺言がされたものを含み、新法信託及び公益信託に関する法律附則第四条第一項に規定する移行認可を受けたものを除く。）については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -9662,6 +9663,12 @@
             <Sentence Num="2" WritingMode="vertical">この場合において、同項中「七年」とあるのは、「三年」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和九年一月一日から令和十二年十二月三十一日までの間に相続又は遺贈により財産を取得する者に係る新相続税法第十九条第一項の規定の適用については、同項中「当該相続の開始前七年以内」とあるのは、「令和六年一月一日から当該相続の開始の日までの間」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
@@ -9698,6 +9705,12 @@
             <Sentence Num="1" WritingMode="vertical">令和六年一月一日から令和八年十二月三十一日までの間に相続又は遺贈により財産を取得する者に係る新相続税法第四十九条第一項（第一号に係る部分に限る。）の規定の適用については、同号中「第十九条第一項に規定する加算対象贈与財産」とあるのは、「当該他の共同相続人等が当該被相続人から当該相続の開始前三年以内に取得した財産（第二十一条の九第三項の規定の適用を受けた財産を除く。）」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
+        <Paragraph Num="10">
+          <ParagraphNum>１０</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和九年一月一日から令和十二年十二月三十一日までの間に相続又は遺贈により財産を取得する者に係る新相続税法第四十九条第一項（第一号に係る部分に限る。）の規定の適用については、同号中「第十九条第一項に規定する加算対象贈与財産」とあるのは、「令和六年一月一日から当該相続の開始の日までの間に当該他の共同相続人等が当該被相続人から取得した財産（第二十一条の九第三項の規定の適用を受けた財産を除く。）」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
         <Paragraph Num="11">
           <ParagraphNum>１１</ParagraphNum>
           <ParagraphSentence>
@@ -9721,6 +9734,12 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">令和六年一月一日から令和八年十二月三十一日までの間に遺贈により金額を取得したものとみなされる特定一般社団法人等については、前項の規定にかかわらず、新相続税法第六十六条の二第五項の規定を適用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、同項中「七年」とあるのは、「三年」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="15">
+          <ParagraphNum>１５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">令和九年一月一日から令和十二年十二月三十一日までの間に遺贈により金額を取得したものとみなされる特定一般社団法人等に係る新相続税法第六十六条の二第五項の規定の適用については、同項中「被相続人に係る相続の開始前七年以内」とあるのは、「令和六年一月一日から被相続人に係る相続の開始の日までの間」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -9814,6 +9833,17 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（相続税法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">公益信託に関する法律による改正前の公益信託ニ関スル法律第一条に規定する公益信託（移行認可を受けたものを除く。）については、第三条の規定による改正前の相続税法第二十一条の三第一項第四号及び附則第二十四項の規定は、なおその効力を有する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同号中「所得税法第七十八条第三項（寄附金控除）」とあるのは「所得税法等の一部を改正する法律（令和六年法律第八号）附則第三条第一項（寄附金控除に関する経過措置）」と、同項中「公益信託ニ関スル法律」とあるのは「公益信託に関する法律（令和六年法律第三十号）附則第二条第二項（公益信託に関する法律の適用等に関する経過措置）の規定によりなお従前の例によることとされる場合における同法による改正前の公益信託ニ関スル法律」とする。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="72">
