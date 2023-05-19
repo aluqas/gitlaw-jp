@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="144" Year="25" PromulgateMonth="05" PromulgateDay="04"><LawNum>昭和二十五年法律第百四十四号</LawNum><LawBody><LawTitle Kana="せいかつほごほう" Abbrev="" AbbrevKana="">生活保護法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="25" Num="144" PromulgateMonth="05" PromulgateDay="04" LawType="Act"><LawNum>昭和二十五年法律第百四十四号</LawNum><LawBody><LawTitle Kana="せいかつほごほう" Abbrev="" AbbrevKana="">生活保護法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -2053,13 +2053,13 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の規定により指定医療機関の請求することのできる診療報酬の額を決定するに当つては、社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）に定める審査委員会又は医療に関する審査機関で政令で定めるものの意見を聴かなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の規定により指定医療機関の請求することのできる診療報酬の額を決定するに当つては、医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）に定める審査委員会又は医療に関する審査機関で政令で定めるものの意見を聴かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県、市及び福祉事務所を設置する町村は、指定医療機関に対する診療報酬の支払に関する事務を、社会保険診療報酬支払基金又は厚生労働省令で定める者に委託することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県、市及び福祉事務所を設置する町村は、指定医療機関に対する診療報酬の支払に関する事務を、医療情報基盤・診療報酬審査支払機構又は厚生労働省令で定める者に委託することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -2104,27 +2104,33 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定により第一項の指定を受けたものとみなされた別表第二の第一欄に掲げる介護機関に係る同項の指定は、当該介護機関が同表の第三欄に掲げる場合に該当するときは、その効力を失う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により指定を受けた介護機関であつて別表第二の第二欄に掲げる指定又は許可を受けたもの（前項本文の規定により第一項の指定を受けたものとみなされたものを含む。以下この項、次項及び第七項において「別表第二指定介護機関」という。）に係る第一項の指定は、当該別表第二指定介護機関が同表の第三欄に掲げる場合に該当するときは、その効力を失う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二項の規定により第一項の指定を受けたものとみなされた別表第二の第一欄に掲げる介護機関に係る同項の指定は、当該介護機関が同表の第四欄に掲げる場合に該当するときは、その該当する期間、その効力（それぞれ同欄に掲げる介護保険法の規定による指定又は許可の効力が停止された部分に限る。）を停止する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">別表第二指定介護機関に係る第一項の指定は、当該別表第二指定介護機関が別表第二の第四欄に掲げる場合に該当するときは、その該当する期間、その効力（それぞれ同欄に掲げる介護保険法の規定による指定又は許可の効力が停止された部分に限る。）を停止する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第四十九条の二（第二項第一号を除く。）の規定は、第一項の指定（介護予防・日常生活支援事業者に係るものを除く。）について、第五十条から前条までの規定は、同項の規定により指定を受けた介護機関（第二項本文の規定により第一項の指定を受けたものとみなされたものを含み、同項の指定を受けた介護予防・日常生活支援事業者（第二項本文の規定により第一項の指定を受けたものとみなされたものを含む。）を除く。）について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、第五十条第一項中「指定医療機関」とあるのは「第五十四条の二第一項の規定により指定を受けた介護機関（同条第二項本文の規定により同条第一項の指定を受けたものとみなされたものを含み、同項の指定を受けた介護予防・日常生活支援事業者（同条第二項本文の規定により同条第一項の指定を受けたものとみなされたものを含む。）を除く。以下この章において「指定介護機関」という。）」と、同条第二項及び第五十条の二中「指定医療機関」とあるのは「指定介護機関」と、第五十一条第一項中「指定医療機関」とあるのは「指定介護機関（地域密着型介護老人福祉施設及び介護老人福祉施設に係るものを除く。）」と、同条第二項、第五十二条第一項及び第五十三条第一項から第三項までの規定中「指定医療機関」とあるのは「指定介護機関」と、同項中「社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）に定める審査委員会又は医療に関する審査機関で政令で定めるもの」とあるのは「介護保険法に定める介護給付費等審査委員会」と、同条第四項中「指定医療機関」とあるのは「指定介護機関」と、「社会保険診療報酬支払基金又は厚生労働省令で定める者」とあるのは「国民健康保険団体連合会」と、前条第一項中「指定医療機関」とあるのは「指定介護機関」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第五十条第一項中「指定医療機関」とあるのは「第五十四条の二第一項の規定により指定を受けた介護機関（同条第二項本文の規定により同条第一項の指定を受けたものとみなされたものを含み、同項の指定を受けた介護予防・日常生活支援事業者（同条第二項本文の規定により同条第一項の指定を受けたものとみなされたものを含む。）を除く。以下この章において「指定介護機関」という。）」と、同条第二項及び第五十条の二中「指定医療機関」とあるのは「指定介護機関」と、第五十一条第一項中「指定医療機関」とあるのは「指定介護機関（地域密着型介護老人福祉施設及び介護老人福祉施設に係るものを除く。）」と、同条第二項、第五十二条第一項及び第五十三条第一項から第三項までの規定中「指定医療機関」とあるのは「指定介護機関」と、同項中「医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）に定める審査委員会又は医療に関する審査機関で政令で定めるもの」とあるのは「介護保険法に定める介護給付費等審査委員会」と、同条第四項中「指定医療機関」とあるのは「指定介護機関」と、「医療情報基盤・診療報酬審査支払機構又は厚生労働省令で定める者」とあるのは「国民健康保険団体連合会」と、前条第一項中「指定医療機関」とあるのは「指定介護機関」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第四十九条の二第一項及び第三項の規定は、第一項の指定（介護予防・日常生活支援事業者に係るものに限る。）について、第五十条、第五十条の二、第五十一条（第二項第一号、第八号及び第十号を除く。）、第五十二条から前条までの規定は、第一項の規定により指定を受けた介護機関（同項の指定を受けた介護予防・日常生活支援事業者（第二項本文の規定により第一項の指定を受けたものとみなされたものを含む。）に限る。）について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、第四十九条の二第一項及び第三項中「厚生労働大臣」とあるのは「都道府県知事」と、第五十条第一項中「指定医療機関」とあるのは「第五十四条の二第一項の規定により指定を受けた介護機関（同項の指定を受けた介護予防・日常生活支援事業者（同条第二項本文の規定により同条第一項の指定を受けたものとみなされたものを含む。）に限る。以下この章において「指定介護機関」という。）」と、同条第二項及び第五十条の二中「指定医療機関」とあるのは「指定介護機関」と、「厚生労働大臣又は都道府県知事」とあるのは「都道府県知事」と、第五十一条第一項中「指定医療機関」とあるのは「指定介護機関」と、同条第二項中「指定医療機関が、次の」とあるのは「指定介護機関が、次の」と、「厚生労働大臣の指定した医療機関については厚生労働大臣が、都道府県知事の指定した医療機関については都道府県知事が」とあるのは「都道府県知事は」と、同項第二号から第七号まで及び第九号、第五十二条第一項並びに第五十三条第一項から第三項までの規定中「指定医療機関」とあるのは「指定介護機関」と、同項中「社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）に定める審査委員会又は医療に関する審査機関で政令で定めるもの」とあるのは「介護保険法に定める介護給付費等審査委員会」と、同条第四項中「指定医療機関」とあるのは「指定介護機関」と、「社会保険診療報酬支払基金又は厚生労働省令で定める者」とあるのは「国民健康保険団体連合会」と、前条第一項中「都道府県知事（厚生労働大臣の指定に係る指定医療機関については、厚生労働大臣又は都道府県知事）」とあるのは「都道府県知事」と、「指定医療機関若しくは指定医療機関」とあるのは「指定介護機関若しくは指定介護機関」と、「命じ、指定医療機関」とあるのは「命じ、指定介護機関」と、「当該指定医療機関」とあるのは「当該指定介護機関」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第四十九条の二第一項及び第三項中「厚生労働大臣」とあるのは「都道府県知事」と、第五十条第一項中「指定医療機関」とあるのは「第五十四条の二第一項の規定により指定を受けた介護機関（同項の指定を受けた介護予防・日常生活支援事業者（同条第二項本文の規定により同条第一項の指定を受けたものとみなされたものを含む。）に限る。以下この章において「指定介護機関」という。）」と、同条第二項及び第五十条の二中「指定医療機関」とあるのは「指定介護機関」と、「厚生労働大臣又は都道府県知事」とあるのは「都道府県知事」と、第五十一条第一項中「指定医療機関」とあるのは「指定介護機関」と、同条第二項中「指定医療機関が、次の」とあるのは「指定介護機関が、次の」と、「厚生労働大臣の指定した医療機関については厚生労働大臣が、都道府県知事の指定した医療機関については都道府県知事が」とあるのは「都道府県知事は」と、同項第二号から第七号まで及び第九号、第五十二条第一項並びに第五十三条第一項から第三項までの規定中「指定医療機関」とあるのは「指定介護機関」と、同項中「医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）に定める審査委員会又は医療に関する審査機関で政令で定めるもの」とあるのは「介護保険法に定める介護給付費等審査委員会」と、同条第四項中「指定医療機関」とあるのは「指定介護機関」と、「医療情報基盤・診療報酬審査支払機構又は厚生労働省令で定める者」とあるのは「国民健康保険団体連合会」と、前条第一項中「都道府県知事（厚生労働大臣の指定に係る指定医療機関については、厚生労働大臣又は都道府県知事）」とあるのは「都道府県知事」と、「指定医療機関若しくは指定医療機関」とあるのは「指定介護機関若しくは指定介護機関」と、「命じ、指定医療機関」とあるのは「命じ、指定介護機関」と、「当該指定医療機関」とあるのは「当該指定介護機関」と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">別表第二指定介護機関について、別表第二の第五欄に掲げる届出があつたときは、当該届出に係る事由のうち第五項において準用する第五十条の二の規定による届出をすべき事由に相当するものに基づく届出があつたものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3169,18 +3175,18 @@
           </Paragraph>
         </Article>
         <Article Num="80_4">
-          <ArticleCaption>（社会保険診療報酬支払基金等への事務の委託）</ArticleCaption>
+          <ArticleCaption>（医療情報基盤・診療報酬審査支払機構等への事務の委託）</ArticleCaption>
           <ArticleTitle>第八十条の四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">保護の実施機関は、医療の給付、被保護者健康管理支援事業の実施その他の厚生労働省令で定める事務に係る被保護者又は被保護者であつた者に係る情報の収集若しくは整理又は利用若しくは提供に関する事務を、社会保険診療報酬支払基金又は国民健康保険団体連合会に委託することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">保護の実施機関は、医療の給付、被保護者健康管理支援事業の実施その他の厚生労働省令で定める事務に係る被保護者又は被保護者であつた者に係る情報の収集若しくは整理又は利用若しくは提供に関する事務を、医療情報基盤・診療報酬審査支払機構又は国民健康保険団体連合会に委託することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">保護の実施機関は、前項の規定により事務を委託する場合は、他の保護の実施機関、社会保険診療報酬支払基金法第一条に規定する保険者及び法令の規定により医療に関する給付その他の事務を行う者であつて厚生労働省令で定めるものと共同して委託するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">保護の実施機関は、前項の規定により事務を委託する場合は、他の保護の実施機関、医療情報基盤・診療報酬審査支払機構法第一条に規定する保険者、法令の規定により医療に関する給付その他の事務を行う者であつて厚生労働省令で定めるもの並びに介護保険法第三条の規定により介護保険を行う市町村及び特別区と共同して委託するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6410,6 +6416,83 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月一六日法律第三五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1:2">
+          <ItemTitle>一及び二</ItemTitle>
+          <ItemSentence>
+            <Sentence Num="1" WritingMode="vertical">略</Sentence>
+          </ItemSentence>
+        </Item>
+        <Item Num="3">
+          <ItemTitle>三</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第六条の規定及び附則第三項の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">令和八年四月一日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphCaption>（生活保護法の一部改正に伴う経過措置）</ParagraphCaption>
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">第六条の規定による改正後の生活保護法第五十四条の二第三項、第四項及び第七項並びに別表第二の規定は、同表の第一欄に掲げる介護機関であって、第六条の規定の施行の際現に生活保護法第五十四条の二第一項の指定を受けているもの（同条第二項本文の規定により同条第一項の指定を受けたものとみなされたもの及び生活保護法の一部を改正する法律（平成二十五年法律第百四号）附則第六条第一項の規定により同法第一条の規定による改正後の生活保護法第五十四条の二第一項の指定を受けたものとみなされたものを含む。）についても適用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一二月一二日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和九年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中医療法第三十条の三第一項及び第三十八条の七第二項の改正規定、第五条の規定、第七条中健康保険法第七十六条第五項及び第八十八条第十一項の改正規定、同法第百五十条の十第一項及び第三項の改正規定（「基金等」を「基盤機構等」に改める部分に限る。）、同法第百五十条の九（見出しを含む。）の改正規定（「を基金」を「を基盤機構」に、「基金等」を「基盤機構等」に改める部分に限る。）、同法第百五十二条の二の改正規定並びに同法第二百五条の四（見出しを含む。）の改正規定（次号に掲げる改正規定を除く。）、第八条（同号及び第九号に掲げる改正規定を除く。）及び第九条（次号及び第九号に掲げる改正規定を除く。）の規定、第十一条中高齢者の医療の確保に関する法律の目次の改正規定、同法第十七条（見出しを含む。）及び第十七条の二第一項の改正規定（同号に掲げる改正規定を除く。）、同条第三項並びに同法第三十二条、第三十六条第一項、第四十条、第四十二条、第四十三条、第四十四条第一項から第三項まで、第四十五条第一項、第四十六条、第七十条第四項及び第九十三条第三項の改正規定、同法第百条第一項の改正規定（「支払基金」を「機構」に改める部分に限る。）、同条第三項並びに同法第百一条第一項、第百十八条第一項、第百二十二条、第百二十三条第一項、第百二十四条の二第一項、第百二十四条の四第一項及び第二項、第百二十四条の五第一項、第百二十四条の六、第百二十四条の七並びに第百二十四条の九の改正規定、同法第五章の章名の改正規定並びに同法第百三十九条の見出し、同条第一項及び第二項、同法第百四十条、第百四十一条第一項、第百四十二条から第百四十六条まで、第百四十七条第一項、第五項、第六項及び第八項、第百四十八条、第百四十九条、第百五十一条、第百五十二条第一項及び第三項、第百五十三条（見出しを含む。）、第百五十四条並びに第百六十五条の二の見出し、同条第一項並びに同法第百六十八条第二項及び第百七十条第一項の改正規定並びに同法附則第三条第三項、第六条、第七条第一項、第九条、第九条の二（見出しを含む。）及び第十一条（見出しを含む。）の改正規定、第十二条中介護保険法の目次の改正規定、同法第百十五条の四十七第十項の改正規定（第九号に掲げる改正規定を除く。）、同条第十一項の改正規定（次号に掲げる改正規定を除く。）、同法第百十六条第一項の改正規定、同法第百十八条の十一第一項の改正規定（「支払基金等」を「機構等」に改める部分に限る。）、同条第三項の改正規定、同法第百十八条の十（見出しを含む。）の改正規定（「支払基金等」を「機構等」に改める部分に限る。）、同法第百二十五条第一項及び第四項、第百二十六条、第百四十八条第二項、第百五十条第一項、第百五十五条、第百五十六条第一項から第三項まで、第百五十七条第一項、第百五十八条並びに第百五十九条第一項の改正規定、同法第九章の章名の改正規定並びに同法第百六十条の見出し、同条第一項及び第二項並びに同法第百六十一条、第百六十二条第一項、第百六十三条から第百六十七条まで、第百六十八条第一項、第五項、第六項及び第八項、第百六十九条、第百七十条、第百七十一条、第百七十二条第一項及び第三項、第百七十三条（見出しを含む。）、第百七十四条、第二百七条第二項並びに第二百十二条の改正規定、第十四条中児童福祉法第十九条の二十第三項及び第四項の改正規定、第十五条の規定（同号及び第九号に掲げる改正規定を除く。）、第十七条中原子爆弾被爆者に対する援護に関する法律第十五条第三項及び第四項並びに第二十条の改正規定、第十九条中感染症の予防及び感染症の患者に対する医療に関する法律第三十六条の九第二項、第三十六条の十三、第三十六条の十四第一項及び第二項、第三十六条の十八、第三十六条の十九第一項から第三項まで、第三十六条の二十第一項、第三十六条の二十一、第三十六条の二十三第三項、第三十六条の二十五（見出しを含む。）、第三十六条の二十六第一項、第三十六条の二十七から第三十六条の三十一まで、第三十六条の三十二第一項、第五項、第六項及び第八項、第三十六条の三十三、第三十六条の三十四、第三十六条の三十六、第三十六条の三十七第一項及び第三項、第三十六条の三十八（見出しを含む。）、第三十六条の三十九、第四十条第五項及び第六項、第五十六条の四十八（見出しを含む。）、第五十六条の四十九第一項及び第三項、第五十六条の五十第二項、第七十七条第二項並びに第八十二条の改正規定、第二十二条中障害者の日常生活及び社会生活を総合的に支援するための法律第七十三条第三項及び第四項の改正規定、第二十三条中石綿による健康被害の救済に関する法律第十四条第一項及び第二項の改正規定、第二十五条の規定（次号に掲げる改正規定を除く。）、第二十七条中難病の患者に対する医療等に関する法律第二十五条第三項の改正規定及び同条第四項の改正規定（「社会保険診療報酬支払基金」を「医療情報基盤・診療報酬審査支払機構」に改める部分に限る。）、第二十八条中医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律第三十一条第四項の改正規定（「この条」の下に「及び第三十六条の二」を加える部分を除く。）及び同条第五項から第七項までの改正規定並びに第二十九条の規定並びに附則第十九条、第二十一条から第二十三条まで、第二十五条及び第三十一条の規定、附則第三十二条（同号に掲げる改正規定を除く。）及び第三十三条（同号に掲げる改正規定を除く。）の規定、附則第三十五条中私立学校教職員共済法（昭和二十八年法律第二百四十五号）第三十四条の二第一項の改正規定及び同法第四十七条の三（見出しを含む。）の改正規定（次号に掲げる改正規定を除く。）、附則第三十八条中国家公務員共済組合法（昭和三十三年法律第百二十八号）第九十九条の二第一項の改正規定及び同法第百十四条の二（見出しを含む。）の改正規定（次号に掲げる改正規定を除く。）、附則第三十九条中地方公務員等共済組合法（昭和三十七年法律第百五十二号）第百十三条の二第一項の改正規定及び同法第百四十四条の三十三（見出しを含む。）の改正規定（次号に掲げる改正規定を除く。）、附則第四十条の規定、附則第四十一条中住民基本台帳法別表第一の改正規定（第一号に掲げる改正規定を除く。）並びに附則第四十五条第一項及び第二項、第四十八条、第五十条、第五十一条、第五十四条並びに第五十六条から第五十八条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中医療法第六条の十二の次に一条を加える改正規定並びに同法第七条第一項、第十七条、第十八条及び第二十九条第一項第三号の改正規定、第七条中健康保険法第二百五条の四第二項の改正規定（「その他の」を「に係る」に、「と共同して」を「その他厚生労働省令で定める者と共同して」に改める部分に限る。）、第八条中船員保険法第百五十三条の十第二項の改正規定（「その他の」を「に係る」に、「と共同して」を「その他厚生労働省令で定める者と共同して」に改める部分に限る。）、第九条中国民健康保険法第百十三条の三第二項の改正規定（「その他の」を「に係る」に、「と共同して」を「その他厚生労働省令で定める者と共同して」に改める部分に限る。）、第十一条中高齢者の医療の確保に関する法律第百六十五条の二第二項の改正規定、第十二条中介護保険法第百十五条の四十七第十一項の改正規定（「その他の」を「に係る」に改め、「定めるもの」の下に「その他厚生労働省令で定める者」を加える部分に限る。）、第十四条中児童福祉法第十九条の三第九項及び第十項の改正規定、同条第九項の次に一項を加える改正規定、同法第十九条の二十第一項の改正規定、同条の次に一条を加える改正規定、同法第二十一条の五の十七第一項、第二十一条の五の二十九第一項、第二十一条の五の三十、第二十四条の二十第一項及び第二十四条の二十一の改正規定並びに同法第五十六条の六の次に一条を加える改正規定、第十五条中予防接種法第五十七条第二項の改正規定（「その他の」を「に係る」に、「と共同して」を「その他厚生労働省令で定める者と共同して」に改める部分に限る。）、第十六条の規定、第十七条の規定（前号に掲げる改正規定を除く。）、第十九条中感染症の予防及び感染症の患者に対する医療に関する法律第三十七条の二の次に一条を加える改正規定、同法第三十八条第三項、第九項及び第十一項、第四十四条の三の二第二項並びに第五十条の三第二項の改正規定、同法第六十三条の四の次に二条を加える改正規定並びに同法第六十四条の二の改正規定、第二十二条中障害者の日常生活及び社会生活を総合的に支援するための法律第五十八条第二項の改正規定、同条中第六項を第七項とし、第三項から第五項までを一項ずつ繰り下げる改正規定、同条第二項の次に一項を加える改正規定、同法第七十条第一項及び第二項の改正規定、同項を同条第四項とする改正規定、同条第一項の次に二項を加える改正規定、同法第七十一条第二項及び第七十三条第一項の改正規定並びに同法第百五条の二の次に二条を加える改正規定、第二十三条の規定（同号に掲げる改正規定を除く。）、第二十四条の規定、第二十五条中特定Ｂ型肝炎ウイルス感染者給付金等の支給に関する特別措置法第十六条第二項及び第四項の改正規定（「支払基金」を「機構」に改める部分を除く。）、同項を同条第五項とする改正規定、同条第三項の改正規定、同項を同条第四項とする改正規定、同条第二項の次に一項を加える改正規定、同法第十七条に一項を加える改正規定、同条の次に一条を加える改正規定並びに同法第二十六条に一項を加える改正規定、第二十七条中難病の患者に対する医療等に関する法律の目次の改正規定（「第三十二条」を「第三十一条の二」に改める部分に限る。）、同法第七条第六項の改正規定、同条中第八項を第九項とする改正規定、同条第七項の改正規定、同項を同条第八項とする改正規定、同条第六項の次に一項を加える改正規定、同法第二十五条第一項の改正規定、同条第四項の改正規定（同号に掲げる改正規定を除く。）及び同法第七章中第三十二条の前に二条を加える改正規定並びに第三十条の規定並びに附則第二十六条の規定、附則第三十二条中生活保護法（昭和二十五年法律第百四十四号）第八十条の四第二項の改正規定（「社会保険診療報酬支払基金法」を「医療情報基盤・診療報酬審査支払機構法」に改める部分を除く。）、附則第三十三条中防衛省の職員の給与等に関する法律（昭和二十七年法律第二百六十六号）第二十二条第四項の改正規定（「社会保険診療報酬支払基金法」を「医療情報基盤・診療報酬審査支払機構法」に改める部分を除く。）、附則第三十五条中私立学校教職員共済法第四十七条の三第二項の改正規定（「社会保険診療報酬支払基金法」を「医療情報基盤・診療報酬審査支払機構法」に改める部分を除く。）、附則第三十八条中国家公務員共済組合法第百十四条の二第二項の改正規定（「社会保険診療報酬支払基金法」を「医療情報基盤・診療報酬審査支払機構法」に改める部分を除く。）、附則第三十九条中地方公務員等共済組合法第百四十四条の三十三第二項の改正規定（「社会保険診療報酬支払基金法」を「医療情報基盤・診療報酬審査支払機構法」に改める部分を除く。）並びに附則第四十二条及び第四十五条第三項から第六項までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二十九条関係）</RelatedArticleNum>
@@ -6613,6 +6696,9 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第七十七条第一項又は第百十五条の三十五第六項の規定による同法第四十一条第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
             </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第七十五条第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
+            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
@@ -6626,6 +6712,9 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第七十七条第一項又は第百十五条の三十五第六項の規定による同法第四十一条第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第七十五条第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6641,6 +6730,9 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第七十七条第一項又は第百十五条の三十五第六項の規定による同法第四十一条第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
             </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第七十五条第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
+            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
@@ -6654,6 +6746,9 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第七十八条の十の規定による同法第四十二条の二第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第七十八条の五第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6669,6 +6764,9 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第七十八条の十の規定による同法第四十二条の二第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
             </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第七十八条の五第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
+            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
@@ -6682,6 +6780,9 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第七十八条の十の規定による同法第四十二条の二第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第七十八条の五第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6697,6 +6798,9 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第七十八条の十七の規定により読み替えて適用する同法第七十八条の十の規定による同法第四十二条の二第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
             </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第七十八条の五第一項の規定による変更若しくは再開の届出又は同法第七十八条の十七の規定により読み替えて適用する同法第七十八条の五第二項の規定による廃止若しくは休止の届出</Sentence>
+            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
@@ -6710,6 +6814,9 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第七十八条の十の規定による同法第四十二条の二第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第七十八条の五第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6725,6 +6832,9 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第八十四条第一項の規定による同法第四十六条第一項の指定の全部又は一部の効力の停止があつたとき。</Sentence>
             </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第八十二条第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
+            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6738,6 +6848,9 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第七十八条の十の規定による同法第四十二条の二第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第七十八条の五第一項の規定による変更の届出</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6753,6 +6866,9 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第九十二条第一項又は第百十五条の三十五第六項の規定による同法第四十八条第一項第一号の指定の全部又は一部の効力の停止があつたとき。</Sentence>
             </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第八十九条の規定による変更の届出</Sentence>
+            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6766,6 +6882,9 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第百四条第一項又は第百十五条の三十五第六項の規定による同法第九十四条第一項の許可の全部又は一部の効力の停止があつたとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第九十九条第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6781,6 +6900,9 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第百十四条の六第一項又は第百十五条の三十五第六項の規定による同法第百七条第一項の許可の全部又は一部の効力の停止があつたとき。</Sentence>
             </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第百十三条第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
+            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6794,6 +6916,9 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第百十五条の九第一項又は第百十五条の三十五第六項の規定による同法第五十三条第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第百十五条の五第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6809,6 +6934,9 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第百十五条の九第一項又は第百十五条の三十五第六項の規定による同法第五十三条第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
             </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第百十五条の五第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
+            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
@@ -6822,6 +6950,9 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第百十五条の九第一項又は第百十五条の三十五第六項の規定による同法第五十三条第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第百十五条の五第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6837,6 +6968,9 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第百十五条の十九の規定による同法第五十四条の二第一項本文の指定の全部又は一部の効力の停止があつたとき。</Sentence>
             </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第百十五条の十五第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
+            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6851,6 +6985,9 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第百十五条の二十九の規定による同法第五十八条第一項の指定の全部又は一部の効力の停止があつたとき。</Sentence>
             </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">同法第百十五条の二十五第一項の規定による変更若しくは再開の届出又は同条第二項の規定による廃止若しくは休止の届出</Sentence>
+            </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6864,6 +7001,9 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">同法第百十五条の四十五の九の規定による同法第百十五条の四十五の三第一項の指定の全部又は一部の効力の停止があつたとき。</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
             </TableColumn>
           </TableRow>
         </Table>
