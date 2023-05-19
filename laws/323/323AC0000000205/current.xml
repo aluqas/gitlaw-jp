@@ -29,7 +29,7 @@
         </TOCSection>
       </TOCChapter>
       <TOCChapter Num="4">
-        <ChapterTitle>第四章　病院、診療所及び助産所</ChapterTitle>
+        <ChapterTitle>第四章　病院、診療所、助産所等</ChapterTitle>
         <TOCSection Num="1">
           <SectionTitle>第一節　開設等</SectionTitle>
           <ArticleRange>（第七条―第九条）</ArticleRange>
@@ -67,7 +67,7 @@
         </TOCSection>
         <TOCSection Num="4">
           <SectionTitle>第四節　地域における外来医療に係る医療提供体制の確保</SectionTitle>
-          <ArticleRange>（第三十条の十八の二―第三十条の十八の五）</ArticleRange>
+          <ArticleRange>（第三十条の十八の二―第三十条の十八の六）</ArticleRange>
         </TOCSection>
         <TOCSection Num="5">
           <SectionTitle>第五節　医療従事者の確保等に関する施策等</SectionTitle>
@@ -190,7 +190,7 @@
         </TOCSection>
         <TOCSection Num="10">
           <SectionTitle>第十節　医療法人に関する情報の調査及び分析等</SectionTitle>
-          <ArticleRange>（第六十九条の二・第六十九条の三）</ArticleRange>
+          <ArticleRange>（第六十九条の二―第六十九条の八）</ArticleRange>
         </TOCSection>
       </TOCChapter>
       <TOCChapter Num="7">
@@ -305,7 +305,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において、「診療所」とは、医師又は歯科医師が、公衆又は特定多数人のため医業又は歯科医業を行う場所であつて、患者を入院させるための施設を有しないもの又は十九人以下の患者を入院させるための施設を有するものをいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、「診療所」とは、医師又は歯科医師が、公衆又は特定多数人のため医業又は歯科医業を行う場所であつて、患者を入院させるための施設を有しないもの（オンライン診療受診施設であるものを除く。）又は十九人以下の患者を入院させるための施設を有するものをいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -339,24 +339,45 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="3">
-          <ArticleTitle>第三条</ArticleTitle>
+        <Article Num="2_2">
+          <ArticleTitle>第二条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">疾病の治療（助産を含む。）をなす場所であつて、病院又は診療所でないものは、これに病院、病院分院、産院、療養所、診療所、診察所、医院その他病院又は診療所に紛らわしい名称を附けてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、「オンライン診療」とは、医師又は歯科医師の使用に係る電子計算機（入出力装置を含む。以下この項において同じ。）と患者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織を使用し、映像及び音声の送受信により、医師又は歯科医師及び遠隔の地にある患者が相手の状態を相互に認識しながら通話することが可能な方法による診療をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">診療所は、これに病院、病院分院、産院その他病院に紛らわしい名称を附けてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、「オンライン診療受診施設」とは、当該施設の設置者が、業として、オンライン診療を行う医師又は歯科医師の勤務する病院、診療所、介護老人保健施設又は介護医療院に対して、その行うオンライン診療を患者が受ける場所として提供する施設をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">疾病の治療（助産を含む。）をなす場所であつて、病院又は診療所でないものは、これに病院、病院分院、産院、療養所、診療所、診察所、医院その他病院又は診療所に紛らわしい名称を付けてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">診療所は、これに病院、病院分院、産院その他病院に紛らわしい名称を付けてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">助産所でないものは、これに助産所その他助産師がその業務を行う場所に紛らわしい名称を付けてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">オンライン診療受診施設でないものは、これにオンライン診療受診施設その他オンライン診療受診施設に紛らわしい名称を付けてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -578,7 +599,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">公衆又は特定多数人のため往診のみによつて診療に従事する医師若しくは歯科医師又は出張のみによつてその業務に従事する助産師については、第六条の四の三、第六条の五又は第六条の七、第八条及び第九条の規定の適用に関し、それぞれその住所をもつて診療所又は助産所とみなす。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">公衆又は特定多数人のため往診のみによつて診療に従事する医師若しくは歯科医師又は出張のみによつてその業務に従事する助産師については、第六条の四の三、第六条の五又は第六条の七、第八条第一項及び第九条の規定の適用に関し、それぞれその住所をもつて診療所又は助産所とみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -638,7 +659,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">国の開設する病院、診療所及び助産所に関しては、この法律の規定の適用について、政令で特別の定をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">国の開設する病院、診療所及び助産所並びに国の設置するオンライン診療受診施設に関しては、この法律の規定の適用について、政令で特別の定めをすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1021,6 +1042,12 @@
               <Item Num="15">
                 <ItemTitle>十五</ItemTitle>
                 <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その勤務する医師又は歯科医師がオンライン診療受診施設を利用してオンライン診療を行う病院又は診療所にあつては、当該オンライン診療を行う旨及び当該オンライン診療の内容に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="16">
+                <ItemTitle>十六</ItemTitle>
+                <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">その他前各号に掲げる事項に準ずるものとして厚生労働大臣が定める事項</Sentence>
                 </ItemSentence>
               </Item>
@@ -1028,7 +1055,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第二項第四号若しくは前項の厚生労働省令の制定若しくは改廃の立案又は同項第九号若しくは第十三号から第十五号までに掲げる事項の案の作成をしようとするときは、医療に関する専門的科学的知見に基づいて立案又は作成をするため、診療に関する学識経験者の団体の意見を聴かなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第二項第四号若しくは前項の厚生労働省令の制定若しくは改廃の立案又は同項第九号、第十三号、第十四号若しくは第十六号に掲げる事項の案の作成をしようとするときは、医療に関する専門的科学的知見に基づいて立案又は作成をするため、診療に関する学識経験者の団体の意見を聴かなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1158,18 +1185,27 @@
               </Item>
             </Paragraph>
           </Article>
+          <Article Num="6_7_2">
+            <ArticleTitle>第六条の七の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">何人も、オンライン診療受診施設に関して、文書その他いかなる方法によるを問わず、医療を受ける者による医療に関する適切な選択が阻害されるおそれが少ない場合として厚生労働省令で定める場合を除いては、広告をしてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="6_8">
             <ArticleTitle>第六条の八</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県知事、保健所を設置する市の市長又は特別区の区長は、医業、歯科医業若しくは助産師の業務又は病院、診療所若しくは助産所に関する広告が第六条の五第一項から第三項まで又は前条の規定に違反しているおそれがあると認めるときは、当該広告をした者に対し、必要な報告を命じ、又は当該職員に、当該広告をした者の事務所に立ち入り、当該広告に関する文書その他の物件を検査させることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事、保健所を設置する市の市長又は特別区の区長は、医業、歯科医業若しくは助産師の業務又は病院、診療所、助産所若しくはオンライン診療受診施設に関する広告が第六条の五第一項から第三項まで又は前二条の規定に違反しているおそれがあると認めるときは、当該広告をした者に対し、必要な報告を命じ、又は当該職員に、当該広告をした者の事務所に立ち入り、当該広告に関する文書その他の物件を検査させることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県知事、保健所を設置する市の市長又は特別区の区長は、医業、歯科医業若しくは助産師の業務又は病院、診療所若しくは助産所に関する広告が第六条の五第二項若しくは第三項又は前条第二項若しくは第三項の規定に違反していると認める場合には、当該広告をした者に対し、期限を定めて、当該広告を中止し、又はその内容を是正すべき旨を命ずることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事、保健所を設置する市の市長又は特別区の区長は、医業、歯科医業若しくは助産師の業務又は病院、診療所、助産所若しくはオンライン診療受診施設に関する広告が第六条の五第二項若しくは第三項、第六条の七第二項若しくは第三項又は前条の規定に違反していると認める場合には、当該広告をした者に対し、期限を定めて、当該広告を中止し、又はその内容を是正すべき旨を命ずることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -1582,7 +1618,7 @@
         </Section>
       </Chapter>
       <Chapter Num="4">
-        <ChapterTitle>第四章　病院、診療所及び助産所</ChapterTitle>
+        <ChapterTitle>第四章　病院、診療所、助産所等</ChapterTitle>
         <Section Num="1">
           <SectionTitle>第一節　開設等</SectionTitle>
           <Article Num="7">
@@ -1590,7 +1626,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">病院を開設しようとするとき、医師法（昭和二十三年法律第二百一号）第十六条の六第一項の規定による登録を受けた者（同法第七条の二第一項の規定による厚生労働大臣の命令を受けた者にあつては、同条第二項の規定による登録を受けた者に限る。以下「臨床研修等修了医師」という。）及び歯科医師法（昭和二十三年法律第二百二号）第十六条の四第一項の規定による登録を受けた者（同法第七条の二第一項の規定による厚生労働大臣の命令を受けた者にあつては、同条第二項の規定による登録を受けた者に限る。以下「臨床研修等修了歯科医師」という。）でない者が診療所を開設しようとするとき、又は助産師（保健師助産師看護師法（昭和二十三年法律第二百三号）第十五条の二第一項の規定による厚生労働大臣の命令を受けた者にあつては、同条第三項の規定による登録を受けた者に限る。以下この条、第八条及び第十一条において同じ。）でない者が助産所を開設しようとするときは、開設地の都道府県知事（診療所又は助産所にあつては、その開設地が保健所を設置する市又は特別区の区域にある場合においては、当該保健所を設置する市の市長又は特別区の区長。第八条から第九条まで、第十二条、第十五条、第十八条、第二十四条、第二十四条の二、第二十七条及び第二十八条から第三十条までの規定において同じ。）の許可を受けなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">病院を開設しようとするとき、医師法（昭和二十三年法律第二百一号）第十六条の六第一項の規定による登録を受けた者（同法第七条の二第一項の規定による厚生労働大臣の命令を受けた者にあつては、同条第二項の規定による登録を受けた者に限る。以下「臨床研修等修了医師」という。）及び歯科医師法（昭和二十三年法律第二百二号）第十六条の四第一項の規定による登録を受けた者（同法第七条の二第一項の規定による厚生労働大臣の命令を受けた者にあつては、同条第二項の規定による登録を受けた者に限る。以下「臨床研修等修了歯科医師」という。）でない者が診療所を開設しようとするとき、又は助産師（保健師助産師看護師法（昭和二十三年法律第二百三号）第十五条の二第一項の規定による厚生労働大臣の命令を受けた者にあつては、同条第三項の規定による登録を受けた者に限る。以下この条、第八条第一項及び第十一条において同じ。）でない者が助産所を開設しようとするときは、開設地の都道府県知事（診療所又は助産所にあつては、その開設地が保健所を設置する市又は特別区の区域にある場合においては、当該保健所を設置する市の市長又は特別区の区長。第八条第一項、第十二条、第十五条、第十八条、第二十四条、第二十七条、第二十八条及び第二十九条第二項において同じ。）の許可を受けなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1814,21 +1850,27 @@
                 <Sentence Num="1" WritingMode="vertical">臨床研修等修了医師、臨床研修等修了歯科医師又は助産師が診療所又は助産所を開設したときは、開設後十日以内に、診療所又は助産所の所在地の都道府県知事に届け出なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">オンライン診療受診施設の設置者は、設置後十日以内に、オンライン診療受診施設の所在地の都道府県知事（その所在地が保健所を設置する市又は特別区の区域にある場合においては、当該保健所を設置する市の市長又は特別区の区長）に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Num="8_2">
             <ArticleTitle>第八条の二</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">病院、診療所又は助産所の開設者は、正当の理由がないのに、その病院、診療所又は助産所を一年を超えて休止してはならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前条の規定による届出をして開設した診療所又は助産所の開設者については、この限りでない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">病院、診療所若しくは助産所の開設者又はオンライン診療受診施設の設置者は、正当の理由がないのに、その病院、診療所、助産所又はオンライン診療受診施設を一年を超えて休止してはならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前条第一項の規定による届出をして開設した診療所又は助産所の開設者については、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">病院、診療所又は助産所の開設者が、その病院、診療所又は助産所を休止したときは、十日以内に、都道府県知事に届け出なければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">休止した病院、診療所又は助産所を再開したときも、同様とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">病院、診療所若しくは助産所の開設者又はオンライン診療受診施設の設置者が、その病院、診療所、助産所又はオンライン診療受診施設を休止したときは、十日以内に、都道府県知事（診療所、助産所又はオンライン診療受診施設にあつては、その所在地が保健所を設置する市又は特別区の区域にある場合においては、当該保健所を設置する市の市長又は特別区の区長。次条、第二十四条の二、第二十九条第一項、第二十九条の二及び第三十条において同じ。）に届け出なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">休止した病院、診療所、助産所又はオンライン診療受診施設を再開したときも、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1837,13 +1879,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">病院、診療所又は助産所の開設者が、その病院、診療所又は助産所を廃止したときは、十日以内に、都道府県知事に届け出なければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">病院、診療所若しくは助産所の開設者又はオンライン診療受診施設の設置者が、その病院、診療所、助産所又はオンライン診療受診施設を廃止したときは、十日以内に、都道府県知事に届け出なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">病院、診療所又は助産所の開設者が死亡し、又は失<Ruby>そ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>の宣告を受けたときは、戸籍法（昭和二十二年法律第二百二十四号）の規定による死亡又は失<Ruby>そ<Rt>ヽ</Rt></Ruby><Ruby>う<Rt>ヽ</Rt></Ruby>の届出義務者は、十日以内に、その旨をその所在地の都道府県知事に届け出なければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">病院、診療所若しくは助産所の開設者又はオンライン診療受診施設の設置者が死亡し、又は失踪の宣告を受けたときは、戸籍法（昭和二十二年法律第二百二十四号）の規定による死亡又は失踪の届出義務者は、十日以内に、その旨をその所在地の都道府県知事に届け出なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2067,6 +2109,75 @@
                   <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、厚生労働省令で定める事項</Sentence>
                 </ItemSentence>
               </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="14_3">
+            <ArticleTitle>第十四条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、厚生労働省令で、オンライン診療の適切な実施に関する基準を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の基準は、次に掲げる事項について定めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">オンライン診療を行うに当たり病院又は診療所において必要な施設及び設備並びに人員の配置に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">患者がオンライン診療を受ける場所に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">オンライン診療を行うに当たり患者に対して行う説明に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">他の病院又は診療所との連携その他の患者の病状が急変した場合において適切な治療を提供するための体制の確保に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他オンライン診療の適切な実施に関し必要な事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">オンライン診療は、第一項の基準に従つて行われなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14_4">
+            <ArticleTitle>第十四条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">オンライン診療を行う医師又は歯科医師が勤務する病院又は診療所（次条において「オンライン診療実施病院等」という。）の管理者は、厚生労働省令で定めるところにより、当該医師又は歯科医師が行うオンライン診療を前条第一項の基準に適合させるために必要な措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14_5">
+            <ArticleTitle>第十四条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">オンライン診療受診施設の設置者は、厚生労働省令で定めるところにより、当該オンライン診療受診施設が第十四条の三第二項第二号に掲げる事項に係る同条第一項の基準に適合する旨その他のオンライン診療実施病院等の管理者のオンライン診療受診施設の選択に資するものとして厚生労働省令で定める事項を公表しなければならない。</Sentence>
+              </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Num="15">
@@ -2312,7 +2423,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第六条の十から第六条の十二まで及び第十三条から前条までに定めるもののほか、病院、診療所又は助産所の管理者が、その構造設備、医薬品その他の物品の管理並びに患者、妊婦、産婦及びじよく婦の入院又は入所につき遵守すべき事項については、厚生労働省令で定める。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六条の十から第六条の十二まで、第十三条から第十四条の二まで、第十四条の四及び第十五条から前条までに定めるもののほか、病院、診療所又は助産所の管理者が、その構造設備、医薬品その他の物品の管理並びに患者、妊婦、産婦及びじよく婦の入院又は入所につき遵守すべき事項については、厚生労働省令で定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2694,13 +2805,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県知事は、病院、診療所若しくは助産所の業務が法令若しくは法令に基づく処分に違反し、又はその運営が著しく適正を欠くと認めるとき（第二十三条の二又は前条第一項に規定する場合を除く。）は、この法律の施行に必要な限度において、当該病院、診療所又は助産所の開設者に対し、期限を定めて、必要な措置をとるべきことを命ずることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、病院、診療所、助産所若しくはオンライン診療受診施設の業務が法令若しくは法令に基づく処分に違反し、又はその運営が著しく適正を欠くと認めるとき（第二十三条の二又は前条第一項に規定する場合を除く。）は、この法律の施行に必要な限度において、当該病院、診療所若しくは助産所の開設者又はオンライン診療受診施設の設置者に対し、期限を定めて、必要な措置をとるべきことを命ずることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の開設者が同項の規定による命令に従わないときは、都道府県知事は、当該開設者に対し、期間を定めて、その開設する病院、診療所又は助産所の業務の全部又は一部の停止を命ずることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の開設者又は設置者が同項の規定による命令に従わないときは、都道府県知事は、当該開設者又は設置者に対し、期間を定めて、その開設し、又は設置する病院、診療所若しくは助産所又はオンライン診療受診施設の業務の全部又は一部の停止を命ずることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2709,13 +2820,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県知事、保健所を設置する市の市長又は特別区の区長は、必要があると認めるときは、病院、診療所若しくは助産所の開設者若しくは管理者に対し、必要な報告を命じ、又は当該職員に、病院、診療所若しくは助産所に立ち入り、その有する人員若しくは清潔保持の状況、構造設備若しくは診療録、助産録、帳簿書類その他の物件を検査させることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事、保健所を設置する市の市長又は特別区の区長は、必要があると認めるときは、病院、診療所若しくは助産所の開設者若しくは管理者若しくはオンライン診療受診施設の設置者に対し、必要な報告を命じ、又は当該職員に、病院、診療所、助産所若しくはオンライン診療受診施設に立ち入り、その有する人員若しくは清潔保持の状況、構造設備若しくは診療録、助産録、帳簿書類その他の物件を検査させることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県知事、保健所を設置する市の市長又は特別区の区長は、病院、診療所若しくは助産所の業務が法令若しくは法令に基づく処分に違反している疑いがあり、又はその運営が著しく適正を欠く疑いがあると認めるときは、この法律の施行に必要な限度において、当該病院、診療所若しくは助産所の開設者若しくは管理者に対し、診療録、助産録、帳簿書類その他の物件の提出を命じ、又は当該職員に、当該病院、診療所若しくは助産所の開設者の事務所その他当該病院、診療所若しくは助産所の運営に関係のある場所に立ち入り、帳簿書類その他の物件を検査させることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事、保健所を設置する市の市長又は特別区の区長は、病院、診療所、助産所若しくはオンライン診療受診施設の業務が法令若しくは法令に基づく処分に違反している疑いがあり、又はその運営が著しく適正を欠く疑いがあると認めるときは、この法律の施行に必要な限度において、当該病院、診療所若しくは助産所の開設者若しくは管理者若しくはオンライン診療受診施設の設置者に対し、診療録、助産録、帳簿書類その他の物件の提出を命じ、又は当該職員に、当該病院、診療所若しくは助産所の開設者若しくはオンライン診療受診施設の設置者の事務所その他当該病院、診療所、助産所若しくはオンライン診療受診施設の運営に関係のある場所に立ち入り、帳簿書類その他の物件を検査させることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -2742,7 +2853,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">保健所を設置する市の市長及び特別区の区長は、厚生労働省令の定めるところにより、診療所及び助産所に関し、厚生労働省令で定める事項を都道府県知事に通知しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">保健所を設置する市の市長及び特別区の区長は、厚生労働省令の定めるところにより、診療所、助産所及びオンライン診療受診施設に関し、厚生労働省令で定める事項を都道府県知事に通知しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2805,7 +2916,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県知事は、次の各号のいずれかに該当する場合においては、病院、診療所若しくは助産所の開設の許可を取り消し、又はその開設者に対し、期間を定めて、その閉鎖を命ずることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、次の各号のいずれかに該当する場合においては、病院、診療所若しくは助産所の開設の許可を取り消し、又はその開設者若しくはオンライン診療受診施設の設置者に対し、期間を定めて、その閉鎖を命ずることができる。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -2816,19 +2927,25 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">病院、診療所（第八条の届出をして開設したものを除く。）又は助産所（同条の届出をして開設したものを除く。）が、休止した後、正当な理由がなく、一年以上業務を再開しないとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">病院、診療所（第八条第一項の届出をして開設したものを除く。）、助産所（同項の届出をして開設したものを除く。）又はオンライン診療受診施設が、休止した後、正当な理由がなく、一年以上業務を再開しないとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">開設者が第六条の三第八項、第二十四条第一項、第二十四条の二第二項又は前条の規定に基づく命令又は処分に違反したとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">開設者が第六条の三第八項、第二十四条第一項又は前条の規定に基づく命令又は処分に違反したとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">開設者に犯罪又は医事に関する不正の行為があつたとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">開設者又は設置者が第二十四条の二第二項の規定に基づく命令に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">開設者又は設置者に犯罪又は医事に関する不正の行為があつたとき。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -3027,7 +3144,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">この章に特に定めるものの外、病院、診療所及び助産所の開設及び管理に関して必要な事項は、政令でこれを定める。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">この章に特に定めるもののほか、病院、診療所及び助産所の開設及び管理並びにオンライン診療受診施設の設置に関して必要な事項は、政令でこれを定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3301,8 +3418,20 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">第十四号及び第十五号に規定する区域における医師の確保の方針</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる区域における医師の確保の方針（（２）に掲げる区域については、その設定が必要な場合に限る。）</Sentence>
                   </Subitem1Sentence>
+                  <Subitem2 Num="1">
+                    <Subitem2Title>（１）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence Num="1" WritingMode="vertical">第十四号及び第十五号に規定する区域</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="2">
+                    <Subitem2Title>（２）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence Num="1" WritingMode="vertical">重点的に医師の確保を図る必要がある区域として厚生労働大臣が定める基準を参酌して定める区域</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
                 </Subitem1>
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
@@ -3319,7 +3448,13 @@
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">ロ及びハに掲げる目標の達成に向けた医師の派遣その他の医師の確保に関する施策</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">イ（２）に掲げる区域において確保すべき医師の数の目標（当該区域を定めた場合に限る。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">ロ及びハに掲げる目標の達成に向けた医師の派遣その他の医師の確保に関する施策並びにニに掲げる目標の達成に向けた医師の派遣その他の医師の確保に関する施策（イ（２）に掲げる区域を定めた場合に限る。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -3417,13 +3552,13 @@
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県は、第二項第十一号に掲げる事項を定めるに当たつては、提供される医療の種別として厚生労働省令で定めるものごとに、同号ロに規定する指標に関し厚生労働省令で定める基準に従い、医師の数が少ないと認められる同項第十四号に規定する区域を定めることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、第二項第十一号に掲げる事項（同号イ（１）に掲げる区域に係るものに限る。）を定めるに当たつては、提供される医療の種別として厚生労働省令で定めるものごとに、同号ロに規定する指標に関し厚生労働省令で定める基準に従い、医師の数が少ないと認められる同項第十四号に規定する区域を定めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県は、第二項第十一号に掲げる事項を定めるに当たつては、提供される医療の種別として厚生労働省令で定めるものごとに、同号ロに規定する指標に関し厚生労働省令で定める基準に従い、医師の数が多いと認められる同項第十四号に規定する区域を定めることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、第二項第十一号に掲げる事項（同号イ（１）に掲げる区域に係るものに限る。）を定めるに当たつては、提供される医療の種別として厚生労働省令で定めるものごとに、同号ロに規定する指標に関し厚生労働省令で定める基準に従い、医師の数が多いと認められる同項第十四号に規定する区域を定めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8">
@@ -3498,7 +3633,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県は、医療計画を作成し、又は医療計画に基づく事業を実施するために必要があると認めるときは、市町村その他の官公署、介護保険法第七条第七項に規定する医療保険者（第三十条の十四第一項及び第三十条の十八の五第一項において「医療保険者」という。）又は医療提供施設の開設者若しくは管理者に対し、当該都道府県の区域内における医療提供施設の機能に関する情報その他の必要な情報の提供を求めることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、医療計画を作成し、又は医療計画に基づく事業を実施するために必要があると認めるときは、市町村その他の官公署、介護保険法第七条第七項に規定する医療保険者（第三十条の十四第一項及び第三十条の十八の五第一項において「医療保険者」という。）又は医療提供施設の開設者、管理者若しくは設置者に対し、当該都道府県の区域内における医療提供施設の機能に関する情報その他の必要な情報の提供を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3534,7 +3669,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">医療提供施設の開設者及び管理者は、医療計画の達成の推進に資するため、医療連携体制の構築のために必要な協力をするよう努めるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">医療提供施設の開設者、管理者及び設置者は、医療計画の達成の推進に資するため、医療連携体制の構築のために必要な協力をするよう努めるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -3641,6 +3776,12 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">都道府県知事は、医療計画の達成の推進のため特に必要がある場合には、病院若しくは診療所を開設しようとする者又は病院若しくは診療所の開設者若しくは管理者に対し、都道府県医療審議会の意見を聴いて、病院の開設若しくは病院の病床数の増加若しくは病床の種別の変更又は診療所の病床の設置若しくは診療所の病床数の増加に関して勧告することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定による勧告を受けた病院若しくは診療所を開設しようとする者又は病院若しくは診療所の開設者若しくは管理者がこれに従わなかつたときは、その旨を厚生労働大臣に通知するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3980,7 +4121,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県は、構想区域その他の当該都道府県の知事が適当と認める区域（第三十条の十六第一項及び第三十条の十八の五第五項において「構想区域等」という。）ごとに、診療に関する学識経験者の団体その他の医療関係者、医療保険者その他の関係者（以下この条において「関係者」という。）との協議の場（第三十条の十八の四第三項、第三十条の十八の五第一項及び第二項並びに第三十条の二十三第一項を除き、以下「協議の場」という。）を設け、関係者との連携を図りつつ、医療計画において定める将来の病床数の必要量を達成するための方策その他の地域医療構想の達成を推進するために必要な事項について協議を行うものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、構想区域その他の当該都道府県の知事が適当と認める区域（第三十条の十六第一項及び第三十条の十八の五第五項において「構想区域等」という。）ごとに、診療に関する学識経験者の団体その他の医療関係者、医療保険者その他の関係者（以下この条において「関係者」という。）との協議の場（第三十条の十八の四第三項、第三十条の十八の五第一項及び第二項、第三十条の十八の六第四項及び第五項並びに第三十条の二十三第一項を除き、以下「協議の場」という。）を設け、関係者との連携を図りつつ、医療計画において定める将来の病床数の必要量を達成するための方策その他の地域医療構想の達成を推進するために必要な事項について協議を行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -4264,8 +4405,20 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第三十条の四第二項第十一号ロに規定する指標によつて示される医師の数に関する情報を踏まえた外来医療に係る医療提供体制の状況に関する事項</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十条の四第二項第十一号ロに規定する指標によつて示される医師の数に関する情報を踏まえた次に掲げる事項</Sentence>
                 </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">地域において特に必要とされる外来医療（次条において「地域外来医療」という。）に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">外来医療に係る医療提供体制の状況に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
@@ -4332,6 +4485,75 @@
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前項に規定する場合には、第三十条の十四第一項に規定する関係者は、前項の規定に基づき都道府県が行う協議に参加するよう都道府県から求めがあつた場合には、これに協力するよう努めるとともに、当該協議の場において当該関係者間の協議が調つた事項については、その実施に協力するよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30_18_6">
+            <ArticleTitle>第三十条の十八の六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第三十条の四第二項第十四号に規定する区域であつて、外来医療を行う医師の数の、外来患者の数に対する比率に相当するものとして厚生労働省令で定めるところにより算定した率その他厚生労働省令で定める指標が、厚生労働省令で定める基準を超えるものがある場合において、当該区域のうち、特に地域外来医療を確保する必要がある区域があると認めるときは、当該区域を指定するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の指定をしたときは、厚生労働省令で定めるところにより、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の指定を受けた区域において、診療所（医業を行う場所であつて、患者を入院させるための施設を有しないものに限る。）を開設しようとする者は、やむを得ない場合として厚生労働省令で定める場合を除き、当該診療所を開設する日の六月前までに、厚生労働省令で定めるところにより、当該区域における地域外来医療の提供に関する意向その他の厚生労働省令で定める事項を都道府県知事に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の指定を受けた区域において、前項の届出をした者その他厚生労働省令で定める者（以下この条において「届出者等」という。）が当該区域における地域外来医療の提供をしない意向を示しているときは、当該届出者等に対し、前条第一項に規定する協議の場における協議に参加し、当該提供をしない理由その他の厚生労働省令で定める事項（以下この条において「理由等」という。）について説明をするよう求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">届出者等は、前項の規定により都道府県知事から求めがあつたときは、当該協議の場における協議に参加し、理由等について説明をするよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の説明の内容を踏まえ、理由等がやむを得ないものと認められないときは、届出者等に対し、期限を定めて、当該区域における地域外来医療の提供をすべきことを要請することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定による要請を受けた届出者等により開設された診療所の開設者又は管理者が、当該要請に係る地域外来医療の提供をしていないと認めるときは、当該開設者又は管理者に対し、都道府県医療審議会に出席し、理由等について説明をするよう求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">当該診療所の開設者又は管理者は、前項の規定により都道府県知事から求めがあつたときは、都道府県医療審議会に出席し、理由等について説明をするよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の説明の内容を踏まえ、理由等がやむを得ないものと認められないときは、当該診療所の開設者又は管理者に対し、都道府県医療審議会の意見を聴いて、当該区域における地域外来医療の提供をすべきことを勧告することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定による勧告をした場合において、当該勧告を受けた診療所の開設者又は管理者がこれに従わなかつたときは、その旨を公表することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="11">
+              <ParagraphNum>１１</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第六項の規定による要請を受けた届出者等がこれに応じなかつたとき、第九項の規定による勧告をしたとき又は当該勧告を受けた診療所の開設者若しくは管理者がこれに従わなかつたときは、その旨を厚生労働大臣に通知するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -7812,7 +8034,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、医療法人の活動の状況その他の厚生労働省令で定める事項に関する情報を収集し、整理し、及び当該整理した情報の分析の結果を国民にインターネットその他の高度情報通信ネットワークの利用を通じて迅速に提供することができるよう必要な施策を実施するものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、医療法人の活動の状況その他の厚生労働省令で定める事項に関する情報を収集し、整理し、及び当該整理した情報（以下「医療法人情報」という。）の分析の結果を国民にインターネットその他の高度情報通信ネットワークの利用を通じて迅速に提供することができるよう必要な施策を実施するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -7833,7 +8055,70 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前条第三項の規定による情報の収集及び整理並びに分析の結果の提供に関する事務の全部又は一部を独立行政法人福祉医療機構に委託することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、その業務の遂行に支障のない範囲内において、厚生労働省令で定めるところにより、一般からの委託に応じ、医療法人情報を利用して、医療法人情報を利用して行うことについて相当の公益性を有する統計の作成及び統計的研究として厚生労働省令で定めるもの（第六十九条の七及び第六十九条の八第一項において「統計の作成等」という。）を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="69_4">
+            <ArticleTitle>第六十九条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、厚生労働省令で定めるところにより、医療提供体制の確保に資する調査、学術研究又は分析その他の医療法人情報の提供を受けて行うことについて相当の公益性を有する調査、学術研究又は分析（特定の商品又は役務の広告又は宣伝に利用するために行うものを除く。）を行う者に医療法人情報を提供することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の規定により医療法人情報を提供しようとする場合には、あらかじめ、社会保障審議会の意見を聴かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="69_5">
+            <ArticleTitle>第六十九条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の規定により医療法人情報の提供を受けた者は、当該医療法人情報の漏えい、滅失又は毀損の防止その他の当該医療法人情報の安全管理のために必要かつ適切なものとして厚生労働省令で定める措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="69_6">
+            <ArticleTitle>第六十九条の六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十九条の四第一項の規定により医療法人情報の提供を受けた者若しくはその者の行う当該医療法人情報に係る調査、学術研究若しくは分析に従事する者又はこれらの者であつた者は、当該医療法人情報の利用に関して知り得た医療法人情報の内容をみだりに他人に知らせ、又は不当な目的に利用してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="69_7">
+            <ArticleTitle>第六十九条の七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第六十九条の二第三項の規定による情報の収集及び整理並びに分析の結果の提供、第六十九条の三の規定による統計の作成等並びに第六十九条の四第一項の規定による医療法人情報の提供に関する事務の全部又は一部を独立行政法人福祉医療機構（次条において「機構」という。）に委託することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="69_8">
+            <ArticleTitle>第六十九条の八</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十九条の三の規定により厚生労働大臣に委託をする者及び第六十九条の四第一項の規定により医療法人情報の提供を受ける者は、実費を勘案して政令で定める額の手数料を国（前条の規定による委託を受けて機構が第六十九条の三の規定による統計の作成等及び第六十九条の四第一項の規定による医療法人情報の提供に関する事務の全部を行う場合にあつては、機構）に納めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の手数料を納めようとする者が都道府県その他の良質かつ適切な医療の効率的な提供のために特に重要な役割を果たす者として政令で定める者であるときは、政令で定めるところにより、当該手数料を減額し、又は免除することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定により機構に納められた手数料は、機構の収入とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -8863,6 +9148,24 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="85_2">
+          <ArticleTitle>第八十五条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六十九条の六の規定に違反して、医療法人情報の利用に関して知り得た医療法人情報の内容をみだりに他人に知らせ、又は不当な目的に利用したときは、その違反行為をした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="85_3">
+          <ArticleTitle>第八十五条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の罪は、日本国外において同条の罪を犯した者にも適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="86">
           <ArticleTitle>第八十六条</ArticleTitle>
           <Paragraph Num="1">
@@ -8889,24 +9192,24 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、六月以下の拘禁刑又は三十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした者は、六月以下の拘禁刑又は三十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六条の五第一項、第六条の六第四項、第六条の七第一項又は第七条第一項の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六条の五第一項、第六条の六第四項、第六条の七第一項又は第七条第一項の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十四条の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十四条の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六条の八第二項、第七条の二第三項、第二十三条の二、第二十四条、第二十八条、第二十九条第一項又は第三十条の十五第六項の規定に基づく命令又は処分に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六条の八第二項、第七条の二第三項、第二十三条の二、第二十四条、第二十八条、第二十九条第一項又は第三十条の十五第六項の規定に基づく命令又は処分に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -8952,36 +9255,36 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、二十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした者は、二十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三条、第四条第三項、第四条の二第三項、第四条の三第三項、第八条、第八条の二第二項、第九条、第十条、第十一条、第十二条、第十六条、第十八条、第十九条第一項若しくは第二項、第二十一条第一項第二号から第十一号まで若しくは第二項第二号、第二十二条第一号若しくは第四号から第八号まで、第二十二条の二第二号若しくは第五号、第二十二条の三第二号若しくは第五号又は第二十七条の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三条、第四条第三項、第四条の二第三項、第四条の三第三項、第八条、第八条の二第二項、第九条、第十条、第十一条、第十二条、第十六条、第十八条、第十九条第一項若しくは第二項、第二十一条第一項第二号から第十一号まで若しくは第二項第二号、第二十二条第一号若しくは第四号から第八号まで、第二十二条の二第二号若しくは第五号、第二十二条の三第二号若しくは第五号又は第二十七条の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五条第二項、第六条の八第一項若しくは第二十五条第一項から第四項までの規定による報告若しくは提出を怠り、若しくは虚偽の報告をし、又は第六条の八第一項若しくは第二十五条第一項から第三項までの規定による当該職員の検査を拒み、妨げ、若しくは忌避した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第二項、第六条の八第一項若しくは第二十五条第一項から第四項までの規定による報告若しくは提出を怠り、若しくは虚偽の報告をし、又は第六条の八第一項若しくは第二十五条第一項から第三項までの規定による当該職員の検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十四条の二第一項又は第二項の規定による掲示を怠り、又は虚偽の掲示をした者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十四条の二第一項又は第二項の規定による掲示を怠り、又は虚偽の掲示をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十八条第一項又は第三十八条の二第一項の規定による指示に違反して、届出をしなかつた者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十八条第一項又は第三十八条の二第一項の規定による指示に違反して、届出をしなかつたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十八条第三項又は第三十八条の二第三項の規定に違反して、届出をしなかつた者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十八条第三項又は第三十八条の二第三項の規定に違反して、届出をしなかつたとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -8991,7 +9294,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して第八十七条、第八十七条の二又は前条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各本条の罰金刑を科する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法人（法人でない社団又は財団で代表者又は管理人の定めがあるもの（以下この条において「人格のない社団等」という。）を含む。以下この項において同じ。）の代表者（人格のない社団等の管理人を含む。）又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して第八十五条の二、第八十七条、第八十七条の二又は前条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">人格のない社団等について前項の規定の適用がある場合には、その代表者又は管理人がその訴訟行為につき当該人格のない社団等を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -9070,7 +9379,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第六条の四の四第一項の規定により報告を求められて、これに従わず、若しくは虚偽の報告をした者又は第三十条の十三第五項、第三十条の十八の二第二項若しくは第三十条の十八の四第六項の規定による命令に違反した者は、三十万円以下の過料に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第六条の四の四第一項の規定により報告を求められて、これに従わず、若しくは虚偽の報告をした者、第三十条の十三第五項、第三十条の十八の二第二項若しくは第三十条の十八の四第六項の規定による命令に違反した者又は第三十条の十八の六第三項の規定に違反して、届出をせず、若しくは虚偽の届出をした者は、三十万円以下の過料に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -9195,14 +9504,14 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">国民医療法（昭和十七年法律第七十号、以下旧法という。）第二十一条の規定により開設の許可を受け、又は国民医療法施行規則（昭和十七年厚生省令第四十八号、以下旧規則という。）第七十四条の規定により許可を受けたとみなされた診療所又は患者二十人以上の収容施設を有する病院であつて、この法律施行の際現に存するものは、これを第七条又は第八条の規定により病院又は診療所の開設の許可を受け、又は診療所の開設の届出をしたものとみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国民医療法（昭和十七年法律第七十号、以下旧法という。）第二十一条の規定により開設の許可を受け、又は国民医療法施行規則（昭和十七年厚生省令第四十八号、以下旧規則という。）第七十四条の規定により許可を受けたとみなされた診療所又は患者二十人以上の収容施設を有する病院であつて、この法律施行の際現に存するものは、これを第七条又は第八条第一項の規定により病院又は診療所の開設の許可を受け、又は診療所の開設の届出をしたものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">旧法第二十一条の規定により開設の許可を受け、又は旧規則第七十四条の規定により許可を受けたとみなされた患者十九人以下の収容施設を有する病院であつて、この法律施行の際現に存するものは、これを第七条又は第八条の規定により診療所の開設の許可を受け、又は開設の届出をしたものとみなす。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、この法律施行の日から六月間は、第三条第二項の規定にかかわらず、なお従来の名称を用いることができる。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">旧法第二十一条の規定により開設の許可を受け、又は旧規則第七十四条の規定により許可を受けたとみなされた患者十九人以下の収容施設を有する病院であつて、この法律施行の際現に存するものは、これを第七条又は第八条第一項の規定により診療所の開設の許可を受け、又は開設の届出をしたものとみなす。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この法律施行の日から六月間は、第三条第二項の規定にかかわらず、なお従来の名称を用いることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
@@ -14609,13 +14918,23 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical"/>
+            <Sentence Num="1" WritingMode="vertical">政府は、第一条の規定（前条第一号、第四号及び第五号に掲げる改正規定を除く。以下この項において同じ。）の施行後三年を目途として、第一条の規定による改正後の医療法第三十条の十八の六第一項の指定を受けた区域において、新たに開設された診療所（同法第一条の五第二項に規定する診療所のうち、医業を行う場所であって患者を入院させるための施設を有しないものに限る。以下この項において同じ。）の数が廃止された診療所の数を超える区域がある場合には、当該区域における新たな診療所の開設の在り方について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">政府は、この法律の公布後速やかに、介護又は障害福祉に関するサービスに従事する者（以下この項において「介護・障害福祉従事者」という。）の賃金が他の業種に属する事業に従事する者と比較して低い水準にあること、介護・障害福祉従事者が従事する業務が身体的及び精神的な負担の大きいものであること、介護又は障害福祉に関するサービスを担う優れた人材の確保が要介護者等（介護保険法第七条第五項の要介護者等をいう。）並びに障害者及び障害児に対するサービスの水準の向上に資すること等に鑑み、現役世代の保険料負担を含む国民負担の軽減を図りつつ介護・障害福祉従事者の人材の確保を図るため、介護・障害福祉従事者の適切な処遇の確保について、その処遇の状況等を踏まえて検討を加え、その結果に基づいて所要の措置を機動的に講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（医療法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定（附則第一条第二号に掲げる改正規定に限る。）による改正後の医療法第三十条の十八の六第三項から第十一項までの規定は、同号に掲げる規定の施行の日から六月を経過した日以降に同条第三項に規定する診療所を開設しようとする者について適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
