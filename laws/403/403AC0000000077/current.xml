@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="077" Year="03" PromulgateMonth="05" PromulgateDay="15"><LawNum>平成三年法律第七十七号</LawNum><LawBody><LawTitle Kana="ぼうりょくだんいんによるふとうなこういのぼうしとうにかんするほうりつ" Abbrev="暴対法,暴力団対策法" AbbrevKana="ぼ,ぼ">暴力団員による不当な行為の防止等に関する法律</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="03" Num="077" PromulgateMonth="05" PromulgateDay="15" LawType="Act"><LawNum>平成三年法律第七十七号</LawNum><LawBody><LawTitle Kana="ぼうりょくだんいんによるふとうなこういのぼうしとうにかんするほうりつ" Abbrev="暴対法,暴力団対策法" AbbrevKana="ぼ,ぼ">暴力団員による不当な行為の防止等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -4196,6 +4196,19 @@
         </Item>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年五月二六日法律第三三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和五年六月一六日法律第六三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -4528,7 +4541,7 @@
       <Item Num="33">
         <ItemTitle>三十三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">著作権法（昭和四十五年法律第四十八号）第八章に規定する罪</Sentence>
+          <Sentence Num="1" WritingMode="vertical">著作権法（昭和四十五年法律第四十八号）第九章に規定する罪</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="34">
