@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Heisei" Year="11" Num="158" PromulgateMonth="12" PromulgateDay="17" LawType="Act"><LawNum>平成十一年法律第百五十八号</LawNum><LawBody><LawTitle Kana="とくていさいむとうのちょうせいのそくしんのためのとくていちょうていにかんするほうりつ" Abbrev="特定調停法" AbbrevKana="と">特定債務等の調整の促進のための特定調停に関する法律</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="158" Year="11" PromulgateMonth="12" PromulgateDay="17"><LawNum>平成十一年法律第百五十八号</LawNum><LawBody><LawTitle Kana="とくていさいむとうのちょうせいのそくしんのためのとくていちょうていにかんするほうりつ" Abbrev="特定調停法" AbbrevKana="と">特定債務等の調整の促進のための特定調停に関する法律</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -171,7 +171,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">調停委員会は、特定調停のために特に必要があると認めるときは、当事者又は参加人に対し、事件に関係のある文書又は物件の提出を求めることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">調停委員会は、特定調停のために特に必要があると認めるときは、当事者又は参加人に対し、事件に関係のある文書、物件又は電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。第二十四条第一項において同じ。）の提出を求めることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -216,7 +216,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">特定調停に係る事件の当事者が遠隔の地に居住していることその他の事由により出頭することが困難であると認められる場合において、その当事者があらかじめ調停委員会から提示された調停条項案を受諾する旨の書面を提出し、他の当事者が期日に出頭してその調停条項案を受諾したときは、特定調停において当事者間に合意が成立したものとみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">特定調停に係る事件の当事者の一方が出頭することが困難であると認められる場合において、その当事者があらかじめ調停委員会から提示された調停条項案を受諾する旨の書面を提出し、他の当事者が期日に出頭してその調停条項案を受諾したときは、特定調停において当事者間に合意が成立したものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">特定調停に係る事件の当事者双方が出頭することが困難であると認められる場合において、当事者双方があらかじめ調停委員会から当事者間に合意が成立すべき日時を定めて提示された調停条項案を受諾する旨の書面を提出し、その日時が経過したときは、その日時に、特定調停において当事者間に合意が成立したものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -333,7 +339,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">当事者又は参加人が正当な理由なく第十二条（第十九条において準用する場合を含む。）の規定による文書又は物件の提出の要求に応じないときは、裁判所は、十万円以下の過料に処する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">当事者又は参加人が正当な理由なく第十二条（第十九条において準用する場合を含む。）の規定による文書、物件又は電磁的記録の提出の要求に応じないときは、裁判所は、十万円以下の過料に処する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
