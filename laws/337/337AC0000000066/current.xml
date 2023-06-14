@@ -395,7 +395,7 @@
                     <Sentence Num="1" WritingMode="vertical">強制換価手続</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">滞納処分（その例による処分を含む。）、強制執行、担保権の実行としての競売、企業担保権の実行手続、企業価値担保権の実行手続及び破産手続をいう。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">滞納処分（その例による処分を含む。）、強制執行、担保権の実行としての競売、企業担保権の実行手続及び破産手続をいう。</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -713,13 +713,13 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">公示送達は、送達すべき書類を特定するために必要な情報、その送達を受けるべき者の氏名及び税務署長その他の行政機関の長がその書類をいつでも送達を受けるべき者に交付する旨（以下この項において「公示事項」という。）を財務省令で定める方法により不特定多数の者が閲覧することができる状態に置く措置をとるとともに、公示事項が記載された書面を当該行政機関の掲示場に掲示し、又は公示事項を当該行政機関に設置した電子計算機の映像面に表示したものの閲覧をすることができる状態に置く措置をとることによつてする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">公示送達は、送達すべき書類の名称、その送達を受けるべき者の氏名及び税務署長その他の行政機関の長がその書類をいつでも送達を受けるべき者に交付する旨を当該行政機関の掲示場に掲示して行なう。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の場合において、同項の規定による措置を開始した日から起算して七日を経過したときは、書類の送達があつたものとみなす。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、掲示を始めた日から起算して七日を経過したときは、書類の送達があつたものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -780,7 +780,7 @@
                 <ItemTitle>三の二</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">各対象会計年度の国際最低課税額に対する法人税、各対象会計年度の国際最低課税残余額に対する法人税及び各対象会計年度の国内最低課税額に対する法人税並びに国際最低課税額等に係る特定基準法人税額に対する地方法人税及び国内最低課税額に係る特定基準法人税額に対する地方法人税</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">各対象会計年度の国際最低課税額に対する法人税及び特定基準法人税額に対する地方法人税</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1" WritingMode="vertical">対象会計年度（法人税法第十五条の二（対象会計年度の意義）に規定する対象会計年度をいう。）の終了の時</Sentence>
@@ -3314,7 +3314,7 @@
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">法人税法第二条第三十八号（定義）に規定する中間納付額、同法第六十八条（所得税額の控除）（同法第百四十四条（外国法人に係る所得税額の控除）において準用する場合を含む。）、第六十九条（外国税額の控除）若しくは第百四十四条の二（外国法人に係る外国税額の控除）の規定による控除をされるべき金額又は同法第九十条（退職年金等積立金に係る中間申告による納付）（同法第百四十五条の十三（申告及び納付）において準用する場合を含む。）の規定により納付すべき法人税の額（その額につき修正申告書の提出又は更正があつた場合には、その申告又は更正後の法人税の額）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">法人税法第二条第三十八号（定義）に規定する中間納付額、同法第六十八条（所得税額の控除）（同法第百四十四条（外国法人に係る所得税額の控除）において準用する場合を含む。）、第六十九条（外国税額の控除）若しくは第百四十四条の二（外国法人に係る外国税額の控除）の規定による控除をされるべき金額又は同法第九十条（退職年金等積立金に係る中間申告による納付）（同法第百四十五条の五（申告及び納付）において準用する場合を含む。）の規定により納付すべき法人税の額（その額につき修正申告書の提出又は更正があつた場合には、その申告又は更正後の法人税の額）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="3">
@@ -9606,7 +9606,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第九条の規定（附則第一条第七号チに掲げる改正規定に限る。）による改正後の国税通則法の規定は、信託法施行日以後に効力が生ずる信託（遺言によってされた信託にあっては信託法施行日以後に遺言がされたものに限り、新法信託を含む。）について適用し、信託法施行日前に効力が生じた信託（遺言によってされた信託にあっては信託法施行日前に遺言がされたものを含み、新法信託及び公益信託に関する法律附則第四条第一項に規定する移行認可を受けたものを除く。）については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第九条の規定（附則第一条第七号チに掲げる改正規定に限る。）による改正後の国税通則法の規定は、信託法施行日以後に効力が生ずる信託（遺言によってされた信託にあっては信託法施行日以後に遺言がされたものに限り、新法信託を含む。）について適用し、信託法施行日前に効力が生じた信託（遺言によってされた信託にあっては信託法施行日前に遺言がされたものを含み、新法信託を除く。）については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -11669,7 +11669,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第八条の規定による改正後の国税通則法（次項及び第三項において「新国税通則法」という。）第十四条の規定は、附則第一条第七号に定める日以後にする公示送達について適用し、同日前にした公示送達については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical"/>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
