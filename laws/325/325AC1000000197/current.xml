@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="197" Year="25" PromulgateMonth="05" PromulgateDay="22"><LawNum>昭和二十五年法律第百九十七号</LawNum><LawBody><LawTitle Kana="しほうしょしほう" Abbrev="" AbbrevKana="">司法書士法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="25" Num="197" PromulgateMonth="05" PromulgateDay="22" LawType="Act"><LawNum>昭和二十五年法律第百九十七号</LawNum><LawBody><LawTitle Kana="しほうしょしほう" Abbrev="" AbbrevKana="">司法書士法</LawTitle>
     <EnactStatement>司法書士法（大正八年法律第四十八号）の全部を改正する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -104,7 +104,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">裁判所若しくは検察庁に提出する書類若しくは電磁的記録又は筆界特定の手続（不動産登記法（平成十六年法律第百二十三号）第六章第二節の規定による筆界特定の手続又は筆界特定の申請の却下に関する審査請求の手続をいう。第八号において同じ。）において法務局若しくは地方法務局に提出し若しくは提供する書類若しくは電磁的記録を作成すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所若しくは検察庁に提出する書類又は筆界特定の手続（不動産登記法（平成十六年法律第百二十三号）第六章第二節の規定による筆界特定の手続又は筆界特定の申請の却下に関する審査請求の手続をいう。第八号において同じ。）において法務局若しくは地方法務局に提出し若しくは提供する書類若しくは電磁的記録を作成すること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -128,7 +128,7 @@
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">民事訴訟法第二百七十五条の規定による和解の手続又は同法第八編の規定による支払督促の手続であつて、請求の目的の価額が裁判所法第三十三条第一項第一号に定める額を超えないもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">民事訴訟法第二百七十五条の規定による和解の手続又は同法第七編の規定による支払督促の手続であつて、請求の目的の価額が裁判所法第三十三条第一項第一号に定める額を超えないもの</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="3">
@@ -668,7 +668,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">司法書士は、次に掲げる事件については、第三条第一項第四号及び第五号（同項第四号に関する部分に限る。）に規定する業務（以下「裁判書類等作成関係業務」という。）を行つてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">司法書士は、次に掲げる事件については、第三条第一項第四号及び第五号（同項第四号に関する部分に限る。）に規定する業務（以下「裁判書類作成関係業務」という。）を行つてはならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -692,7 +692,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">第三条第二項に規定する司法書士は、次に掲げる事件については、裁判書類等作成関係業務を行つてはならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第三条第二項に規定する司法書士は、次に掲げる事件については、裁判書類作成関係業務を行つてはならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三号及び第六号に掲げる事件については、受任している事件の依頼者が同意した場合は、この限りでない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -1106,7 +1106,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">司法書士法人は、次に掲げる事件については、裁判書類等作成関係業務を行つてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">司法書士法人は、次に掲げる事件については、裁判書類作成関係業務を行つてはならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1123,14 +1123,14 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十二条第一項、第二項第一号若しくは第二号又は第三項第一号から第五号までに掲げる事件として社員の半数以上の者が裁判書類等作成関係業務を行つてはならないこととされる事件</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十二条第一項、第二項第一号若しくは第二号又は第三項第一号から第五号までに掲げる事件として社員の半数以上の者が裁判書類作成関係業務を行つてはならないこととされる事件</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">簡裁訴訟代理等関係業務を行うことを目的とする司法書士法人（過去に簡裁訴訟代理等関係業務を行うことを目的としていたものを含む。）は、次に掲げる事件については、裁判書類等作成関係業務を行つてはならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">簡裁訴訟代理等関係業務を行うことを目的とする司法書士法人（過去に簡裁訴訟代理等関係業務を行うことを目的としていたものを含む。）は、次に掲げる事件については、裁判書類作成関係業務を行つてはならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三号に掲げる事件については、受任している事件の依頼者が同意した場合は、この限りでない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -3457,16 +3457,6 @@
               </Column>
             </ItemSentence>
           </Item>
-        </Paragraph>
-      </Article>
-      <Article Num="124">
-        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第百二十四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="125">
