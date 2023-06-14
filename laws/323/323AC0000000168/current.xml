@@ -10,7 +10,7 @@
         <ChapterTitle>第二章　少年の保護事件</ChapterTitle>
         <TOCSection Num="1">
           <SectionTitle>第一節　通則</SectionTitle>
-          <ArticleRange>（第三条―第五条の三）</ArticleRange>
+          <ArticleRange>（第三条―第五条の五）</ArticleRange>
         </TOCSection>
         <TOCSection Num="2">
           <SectionTitle>第二節　通告、警察官の調査等</SectionTitle>
@@ -194,6 +194,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">裁判所は、第三条第一項第一号又は第二号に掲げる少年に係る保護事件について、第二十一条の決定があつた後、最高裁判所規則の定めるところにより当該保護事件の被害者等（被害者又はその法定代理人若しくは被害者が死亡した場合若しくはその心身に重大な故障がある場合におけるその配偶者、直系の親族若しくは兄弟姉妹をいう。以下同じ。）又は被害者等から委託を受けた弁護士から、その保管する当該保護事件の記録（家庭裁判所が専ら当該少年の保護の必要性を判断するために収集したもの及び家庭裁判所調査官が家庭裁判所による当該少年の保護の必要性の判断に資するよう作成し又は収集したものを除く。）の閲覧又は謄写の申出があるときは、閲覧又は謄写を求める理由が正当でないと認める場合及び少年の健全な育成に対する影響、事件の性質、調査又は審判の状況その他の事情を考慮して閲覧又は謄写をさせることが相当でないと認める場合を除き、申出をした者にその閲覧又は謄写をさせるものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該記録の全部又は一部が電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。以下同じ。）であるときは、当該電磁的記録の閲覧は、その内容を表示したものを閲覧し、又はその内容を再生したものを視聴する方法によるものとし、当該電磁的記録の謄写は、これを複写し、若しくは印刷し、又はその内容を表示し若しくは再生したものを記載し若しくは記録する方法によるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -216,6 +217,40 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前条第一項の規定による記録の閲覧又は謄写の手数料については、その性質に反しない限り、民事訴訟費用等に関する法律（昭和四十六年法律第四十号）第七条から第十条まで及び別表第二の一の項の規定（同項上欄中「（事件の係属中に当事者等が請求するものを除く。）」とある部分を除く。）を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="5_4">
+            <ArticleCaption>（電子情報処理組織による申立て等）</ArticleCaption>
+            <ArticleTitle>第五条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">検察官及び弁護士である付添人は、申立て、請求その他の裁判所に対してする申述（以下この条及び次条において「申立て等」という。）については、口頭でする場合を除き、最高裁判所規則の定めるところにより、最高裁判所規則で定める電子情報処理組織（裁判所の使用に係る電子計算機（入出力装置を含む。以下この項及び第三項において同じ。）と申立て等をする者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。）を使用して当該申立て等に係る事項を裁判所の使用に係る電子計算機に備えられたファイル（以下単に「ファイル」という。）に記録する方法又は当該事項を記録した記録媒体を裁判所に提出する方法によりしなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該申立て等がこの法律の規定により書面をもつてするものとされているものであるときにおけるこの法律その他の当該申立て等に関する法令の規定の適用については、当該法令に特別の定めがある場合を除き、当該方法によりされた当該申立て等は、当該書面をもつてされたものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の電子情報処理組織を使用してファイルに記録する方法によりされた申立て等は、当該申立て等に係る事項がファイルに記録された時に裁判所に到達したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定は、検察官又は弁護士である付添人が、同項の電子情報処理組織に係る電子計算機の故障その他のその責めに帰することができない事由により、同項の方法により申立て等をすることができない場合には、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="5_5">
+            <ArticleCaption>（裁判所書記官によるファイルへの記録）</ArticleCaption>
+            <ArticleTitle>第五条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">申立て等が、書面によりされたとき（前条第一項の規定に違反してされたときを除く。）、又は最高裁判所規則の定めるところにより当該申立て等に係る事項を記録した記録媒体を提出する方法によりされたときは、裁判所書記官は、当該書面に記載され、又は当該記録媒体に記録されている事項をファイルに記録しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該事項をファイルに記録することにつき困難な事情があるときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -293,18 +328,18 @@
             </Paragraph>
           </Article>
           <Article Num="6_5">
-            <ArticleCaption>（押収、捜索、検証、鑑定嘱託）</ArticleCaption>
+            <ArticleCaption>（押収、捜索、検証、鑑定嘱託等）</ArticleCaption>
             <ArticleTitle>第六条の五</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">警察官は、第三条第一項第二号に掲げる少年に係る事件の調査をするについて必要があるときは、押収、捜索、検証又は鑑定の嘱託をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">警察官は、第三条第一項第二号に掲げる少年に係る事件の調査をするについて必要があるときは、押収（刑事訴訟法（昭和二十三年法律第百三十一号）第百二条の二第一項に規定する電磁的記録提供命令（同項第一号イに掲げる方法による提供を命ずるものに限る。）を含む。次項及び第十五条において同じ。）、捜索、同法第百二条の二第一項に規定する電磁的記録提供命令（同号ロに掲げる方法による提供を命ずるものに限る。次項及び第十五条において単に「電磁的記録提供命令」という。）、検証又は鑑定の嘱託をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">刑事訴訟法（昭和二十三年法律第百三十一号）中、司法警察職員の行う押収、捜索、検証及び鑑定の嘱託に関する規定（同法第二百二十四条を除く。）は、前項の場合に、これを準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">刑事訴訟法中、司法警察職員の行う押収、捜索、電磁的記録提供命令、検証及び鑑定の嘱託に関する規定（同法第二百二十四条を除く。）は、前項の場合について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定中「司法警察員」とあるのは「司法警察員たる警察官」と、「司法巡査」とあるのは「司法巡査たる警察官」と読み替えるほか、同法第四百九十九条第一項中「検察官」とあるのは「警視総監若しくは道府県警察本部長又は警察署長」と、「政令」とあるのは「国家公安委員会規則」と、同条第三項中「国庫」とあるのは「当該都道府県警察又は警察署の属する都道府県」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -315,7 +350,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">警察官は、調査の結果、次の各号のいずれかに該当するときは、当該調査に係る書類とともに事件を児童相談所長に送致しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">警察官は、調査の結果、次の各号のいずれかに該当するときは、当該調査に係る書類及び電磁的記録と共に事件を児童相談所長に送致しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -345,7 +380,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">警察官は、前項の規定により児童相談所長に送致した事件について、児童福祉法第二十七条第一項第四号の措置がとられた場合において、証拠物があるときは、これを家庭裁判所に送付しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">警察官は、前項の規定により児童相談所長に送致した事件について、児童福祉法第二十七条第一項第四号の措置がとられた場合において、証拠物（電磁的記録であるものを含む。第二十二条の二第三項及び第四十五条の三第二項において同じ。）があるときは、これを家庭裁判所に送付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -461,6 +496,12 @@
                 <Sentence Num="1" WritingMode="vertical">家庭裁判所は、少年又は保護者が、正当な理由がなく、前項の規定による呼出しに応じないとき、又は応じないおそれがあるときは、その少年又は保護者に対して、同行状を発して、その同行をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">呼出状及び同行状は、書面によるほか、最高裁判所規則の定めるところにより、電磁的記録によることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Num="12">
             <ArticleCaption>（緊急の場合の同行）</ArticleCaption>
@@ -475,6 +516,12 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">裁判長は、急速を要する場合には、前項の処分をし、又は合議体の構成員にこれをさせることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第三項の規定は、第一項の同行状について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -517,18 +564,18 @@
             </Paragraph>
           </Article>
           <Article Num="15">
-            <ArticleCaption>（検証、押収、捜索）</ArticleCaption>
+            <ArticleCaption>（検証、押収、捜索等）</ArticleCaption>
             <ArticleTitle>第十五条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">家庭裁判所は、検証、押収又は捜索をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">家庭裁判所は、検証、押収、捜索又は電磁的記録提供命令をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">刑事訴訟法中、裁判所の行う検証、押収及び捜索に関する規定は、保護事件の性質に反しない限り、前項の場合に、これを準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">刑事訴訟法中、裁判所の行う検証、押収、捜索及び電磁的記録提供命令に関する規定は、保護事件の性質に反しない限り、前項の場合について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1129,7 +1176,7 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第十三条の規定は、前二項の同行状に、これを準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十一条第三項の規定は第二項の呼出状及び前二項の同行状について、第十三条の規定は前二項の同行状について、それぞれ準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
@@ -1408,33 +1455,60 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前項の規定による申立て（以下「抗告受理の申立て」という。）は、申立書を原裁判所に差し出してしなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、原裁判所は、速やかにこれを高等裁判所に送付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">高等裁判所は、抗告受理の申立てがされた場合において、抗告審として事件を受理するのを相当と認めるときは、これを受理することができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合においては、その旨の決定をしなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">抗告受理の申立てを受けた原裁判所は、速やかに、次の各号に掲げる場合の区分に応じ、当該各号に定めるものを高等裁判所に送付しなければならない。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">抗告受理の申立てが第五条の四第一項の方法によりされた場合</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">ファイルに記録されている申立書に記載すべき事項を記録した電磁的記録（第五条の五ただし書の場合にあつては、同条の記録媒体に記録されている申立書に記載すべき事項を記載し、又は記録した書面又は電磁的記録）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">抗告受理の申立てが申立書の差出しによりされた場合</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該申立書に記載されている事項を記録した電磁的記録（第五条の五ただし書の場合にあつては、当該申立書）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">高等裁判所は、前項の決定をする場合において、抗告受理の申立ての理由中に重要でないと認めるものがあるときは、これを排除することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">高等裁判所は、抗告受理の申立てがされた場合において、抗告審として事件を受理するのを相当と認めるときは、これを受理することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、その旨の決定をしなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第三項の決定は、高等裁判所が原裁判所から第二項の申立書の送付を受けた日から二週間以内にしなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">高等裁判所は、前項の決定をする場合において、抗告受理の申立ての理由中に重要でないと認めるものがあるときは、これを排除することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第三項の決定があつた場合には、抗告があつたものとみなす。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、第三十二条の二の規定の適用については、抗告受理の申立ての理由中第四項の規定により排除されたもの以外のものを抗告の趣意とみなす。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四項の決定は、高等裁判所が原裁判所から第三項の規定による送付を受けた日から二週間以内にしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第四項の決定があつた場合には、抗告があつたものとみなす。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第三十二条の二の規定の適用については、抗告受理の申立ての理由中第五項の規定により排除されたもの以外のものを抗告の趣意とみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1444,7 +1518,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前条第三項の決定があつた場合において、少年に弁護士である付添人がないときは、抗告裁判所は、弁護士である付添人を付さなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第四項の決定があつた場合において、少年に弁護士である付添人がないときは、抗告裁判所は、弁護士である付添人を付さなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -3164,6 +3238,29 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二五日法律第四八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して四年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="124">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Paragraph Num="1">
@@ -3306,8 +3403,8 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-             <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">第一条の規定（前号に掲げる改正規定を除く。）、第五条中少年法第六条の五及び第十五条の改正規定、第九条中日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う刑事特別法第十三条の改正規定、第十二条中日本国における国際連合の軍隊に対する刑事裁判権の行使に関する議定書の実施に伴う刑事特別法第五条の改正規定、第十四条中日本国における国際連合の軍隊の地位に関する協定の実施に伴う刑事特別法第五条の改正規定、第十八条中国際捜査共助等に関する法律第八条第二項及び第十二条の改正規定、第二十一条の規定、第二十二条中不正競争防止法第二十六条第二項の改正規定（「記載した書面」」を「記載し、又は記録した書面又は電磁的記録」」に、「証拠書類」」を「証拠書類（電磁的記録を含む。）」」に改める部分を除く。）、同法第三十三条の改正規定及び同条の次に一条を加える改正規定、第二十三条中組織的犯罪処罰法第十八条の二の次に二条を加える改正規定、組織的犯罪処罰法第二十条の改正規定、組織的犯罪処罰法第三十条の次に二条を加える改正規定並びに組織的犯罪処罰法第三十一条第一項及び第七十一条第一項第七号の改正規定、第二十六条中国際受刑者移送法第二十一条の改正規定（「第四百八十七条」を「第四百八十七条第一項」に改める部分を除く。）、第二十七条中心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律（次条第一項及び附則第十八条第一項において「医療観察法」という。）第二十四条第三項及び第四項の改正規定、第二十八条中裁判員の参加する刑事裁判に関する法律第六十五条第二項の改正規定並びに第三十四条中性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律目次及び第八条第一項第二号の改正規定、同法第四章第二節に一条を加える改正規定、同法第十二条の改正規定、同条の次に一条を加える改正規定、同法第十三条の改正規定、同法第十七条の見出し並びに同条第一項、第二項及び第五項の改正規定、同法第十八条の見出しを削り、同条の前に見出しを付し、同条の次に一条を加える改正規定、同法第十九条の改正規定、同法第二十条の見出し並びに同条第一項及び第二項の改正規定、同法第四章第四節に二条を加える改正規定並びに同法第二十六条第一項第一号、第四十条第一項第三号及び第四十四条第一号の改正規定並びに次条並びに附則第十五条及び第二十九条の規定、附則第三十五条中刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律（令和四年法律第六十八号）第四百九十一条第七項の改正規定（「及び第九項から第十一項まで並びに第五百十四条」を「、第六項及び第十一項から第十三項まで並びに第五百十三条の二」に改める部分に限る。）、附則第三十八条中財務省設置法（平成十一年法律第九十五号）第二十七条第二項ただし書の改正規定並びに附則第四十条の規定</Sentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定（前号に掲げる改正規定を除く。）、第五条中少年法第六条の五及び第十五条の改正規定、第九条中日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う刑事特別法第十三条の改正規定、第十二条中日本国における国際連合の軍隊に対する刑事裁判権の行使に関する議定書の実施に伴う刑事特別法第五条の改正規定、第十四条中日本国における国際連合の軍隊の地位に関する協定の実施に伴う刑事特別法第五条の改正規定、第十八条中国際捜査共助等に関する法律第八条第二項及び第十二条の改正規定、第二十一条の規定、第二十二条中不正競争防止法第二十六条第二項の改正規定（「記載した書面」」を「記載し、又は記録した書面又は電磁的記録」」に、「証拠書類」」を「証拠書類（電磁的記録を含む。）」」に改める部分を除く。）、同法第三十三条の改正規定及び同条の次に一条を加える改正規定、第二十三条中組織的犯罪処罰法第十八条の二の次に二条を加える改正規定、組織的犯罪処罰法第二十条の改正規定、組織的犯罪処罰法第三十条の次に二条を加える改正規定並びに組織的犯罪処罰法第三十一条第一項及び第七十一条第一項第七号の改正規定、第二十六条中国際受刑者移送法第二十一条の改正規定（「第四百八十七条」を「第四百八十七条第一項」に改める部分を除く。）、第二十七条中心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律（次条第一項及び附則第十八条第一項において「医療観察法」という。）第二十四条第三項及び第四項の改正規定、第二十八条中裁判員の参加する刑事裁判に関する法律第六十五条第二項の改正規定並びに第三十四条中性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律目次及び第八条第一項第二号の改正規定、同法第四章第二節に一条を加える改正規定、同法第十二条の改正規定、同条の次に一条を加える改正規定、同法第十三条の改正規定、同法第十七条の見出し並びに同条第一項、第二項及び第五項の改正規定、同法第十八条の見出しを削り、同条の前に見出しを付し、同条の次に一条を加える改正規定、同法第十九条の改正規定、同法第二十条の見出し並びに同条第一項及び第二項の改正規定、同法第四章第四節に二条を加える改正規定並びに同法第二十六条第一項第一号、第四十条第一項第三号及び第四十四条第一号の改正規定並びに次条並びに附則第十五条及び第二十九条の規定、附則第三十五条中刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律（令和四年法律第六十八号）第四百九十一条第七項の改正規定（「及び第九項から第十一項まで並びに第五百十四条」を「、第六項及び第十一項から第十三項まで並びに第五百十三条の二」に改める部分に限る。）、附則第三十八条中財務省設置法（平成十一年法律第九十五号）第二十七条第二項ただし書の改正規定並びに附則第四十条の規定</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
@@ -3316,19 +3413,46 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="2">
+        <ArticleCaption>（記録命令付差押えに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第三号に掲げる規定の施行の日（次項及び附則第十五条において「第三号施行日」という。）前に第一条の規定（同号に掲げる改正規定に限る。）による改正前の刑事訴訟法（以下この条において「第三号改正前刑事訴訟法」という。）、第五条の規定（同号に掲げる改正規定に限る。）による改正前の少年法（同項において「第三号改正前少年法」という。）、第十八条の規定（同号に掲げる改正規定に限る。）による改正前の国際捜査共助等に関する法律（同項において「第三号改正前国際捜査共助法」という。）、第二十三条の規定（同号に掲げる改正規定に限る。）による改正前の組織的犯罪処罰法（同項において「第三号改正前組織的犯罪処罰法」という。）又は第二十七条の規定（同号に掲げる改正規定に限る。）による改正前の医療観察法（同項において「第三号改正前医療観察法」という。）の規定により記録命令付差押え（第三号改正前刑事訴訟法第九十九条の二に規定する記録命令付差押えをいう。以下この条において同じ。）に係る命令がされた場合における当該記録命令付差押えについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、第三号施行日前に第三号改正前刑事訴訟法、第三号改正前少年法、第三号改正前国際捜査共助法、第三号改正前組織的犯罪処罰法又は第三号改正前医療観察法の規定により記録命令付差押えに係る令状が発せられた場合における当該記録命令付差押えについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="10">
         <ArticleCaption>（少年法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical"/>
+            <Sentence Function="main" Num="1" WritingMode="vertical">申立て、請求その他の裁判所に対してする申述（以下この項並びに附則第十二条及び第十八条第一項において「申立て等」という。）であって、施行前保護事件（施行日前にされた少年法第六条第一項の規定による通告又は同法第七条第一項の規定による報告に係る保護事件、施行日前に検察官、司法警察員、警察官、都道府県知事又は児童相談所長から送致された保護事件及び施行日前に同法第五十五条の規定により移送された保護事件をいう。以下同じ。）又は特定日前保護事件（最高裁判所の定める保護事件であって、特定日前にされた同法第六条第一項の規定による通告又は同法第七条第一項の規定による報告に係るもの、特定日前に検察官、司法警察員、警察官、都道府県知事又は児童相談所長から送致されたもの及び特定日前に同法第五十五条の規定により移送されたものをいう。以下この項及び次条において同じ。）に係るものについては、第五条の規定（附則第一条第三号に掲げる改正規定を除く。）による改正後の少年法第五条の四及び第五条の五の規定は、適用しない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、施行前保護事件又は特定日前保護事件とこれらの事件以外の保護事件の審判を併せて行う場合における施行日以後（施行日後に併せて行うこととなった場合にあっては、それ以後）の申立て等については、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">最高裁判所は、前項の規定に基づき保護事件を定めるに当たっては、保護事件に関する手続における情報通信技術の活用の段階的かつ円滑な推進に資するため、その範囲が逓減するよう適切に定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">施行前保護事件又は特定日前保護事件に係る証人尋問等の記録については、なお従前の例による。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、施行前保護事件又は特定日前保護事件とこれらの事件以外の保護事件を併せて審判する場合における証人尋問等の記録については、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3339,6 +3463,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（電磁的記録提供命令等における留意事項）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第一条の規定による改正後の刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令をいう。）により電磁的記録を提供させ、又は電磁的記録に係る記録媒体を押収するに当たっては、デジタル社会において個人情報の保護がより重要となっていることに鑑み、できる限り被告事件又は被疑事件と関連性を有しない個人情報を取得することとならないよう、特に留意しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
