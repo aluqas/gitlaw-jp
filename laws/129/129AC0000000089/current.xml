@@ -563,6 +563,10 @@
               <ArticleRange>（第八百十七条の二―第八百十七条の十一）</ArticleRange>
             </TOCSubsection>
           </TOCSection>
+          <TOCSection Num="3">
+            <SectionTitle>第三節　親の責務等</SectionTitle>
+            <ArticleRange>（第八百十七条の十二・第八百十七条の十三）</ArticleRange>
+          </TOCSection>
         </TOCChapter>
         <TOCChapter Num="4">
           <ChapterTitle>第四章　親権</ChapterTitle>
@@ -1746,9 +1750,31 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">前項の公示は、公示送達に関する民事訴訟法（平成八年法律第百九号）の規定に従い、裁判所の掲示場に掲示し、かつ、その掲示があったことを官報に少なくとも一回掲載して行う。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">前項の公示は、公示送達に関する民事訴訟法（平成八年法律第百九号）の規定に従い、次の各号に掲げる区分に応じ、それぞれ当該各号に定める事項を不特定多数の者が閲覧することができる状態に置くとともに、当該事項が記載された書面を裁判所の掲示場に掲示し、又は当該事項を裁判所に設置した電子計算機（入出力装置を含む。以下この項において同じ。）の映像面に表示したものの閲覧をすることができる状態に置く措置をとり、かつ、その措置がとられたことを官報に少なくとも一回掲載して行う。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、裁判所は、相当と認めるときは、官報への掲載に代えて、市役所、区役所、町村役場又はこれらに準ずる施設の掲示場に掲示すべきことを命ずることができる。</Sentence>
                 </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">書類の公示による意思表示</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">裁判所書記官が意思表示を記載した書類を保管し、いつでも相手方に交付すべきこと。</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）の公示による意思表示</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">裁判所書記官が、裁判所の使用に係る電子計算機に備えられたファイルに記録された電磁的記録に記録されている意思表示に係る事項につき、いつでも相手方にその事項を出力することにより作成した書面を交付し、又は閲覧若しくは記録をすることができる措置をとるとともに、相手方に対し、裁判所の使用に係る電子計算機と相手方の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織を使用して当該措置がとられた旨の通知を発すべきこと。</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
@@ -2730,7 +2756,7 @@
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第一項の合意がその内容を記録した電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）によってされたときは、その合意は、書面によってされたものとみなして、前三項の規定を適用する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の合意がその内容を記録した電磁的記録によってされたときは、その合意は、書面によってされたものとみなして、前三項の規定を適用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="5">
@@ -5444,11 +5470,17 @@
                   <Item Num="3">
                     <ItemTitle>三</ItemTitle>
                     <ItemSentence>
-                      <Sentence Num="1" WritingMode="vertical">葬式の費用</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">子の監護の費用</Sentence>
                     </ItemSentence>
                   </Item>
                   <Item Num="4">
                     <ItemTitle>四</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">葬式の費用</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="5">
+                    <ItemTitle>五</ItemTitle>
                     <ItemSentence>
                       <Sentence Num="1" WritingMode="vertical">日用品の供給</Sentence>
                     </ItemSentence>
@@ -5479,6 +5511,40 @@
                   <ParagraphSentence>
                     <Sentence Num="1" WritingMode="vertical">雇用関係の先取特権は、給料その他債務者と使用人との間の雇用関係に基づいて生じた債権について存在する。</Sentence>
                   </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Num="308_2">
+                <ArticleCaption>（子の監護費用の先取特権）</ArticleCaption>
+                <ArticleTitle>第三百八条の二</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">子の監護の費用の先取特権は、次に掲げる義務に係る確定期限の定めのある定期金債権の各期における定期金のうち子の監護に要する費用として相当な額（子の監護に要する標準的な費用その他の事情を勘案して当該定期金により扶養を受けるべき子の数に応じて法務省令で定めるところにより算定した額）について存在する。</Sentence>
+                  </ParagraphSentence>
+                  <Item Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">第七百五十二条の規定による夫婦間の協力及び扶助の義務</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">第七百六十条の規定による婚姻から生ずる費用の分担の義務</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="3">
+                    <ItemTitle>三</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">第七百六十六条及び第七百六十六条の三（これらの規定を第七百四十九条、第七百七十一条及び第七百八十八条において準用する場合を含む。）の規定による子の監護に関する義務</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="4">
+                    <ItemTitle>四</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">第八百七十七条から第八百八十条までの規定による扶養の義務</Sentence>
+                    </ItemSentence>
+                  </Item>
                 </Paragraph>
               </Article>
               <Article Num="309">
@@ -6255,26 +6321,35 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">質権者は、質権の目的である債権を直接に取り立てることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">質権者は、質権の担保する債権について不履行があったときは、その目的である債権を直接に取り立てることができる。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、質権者の受けた利益の価額がその担保する債権の額を超えるときは、その差額に相当する金銭を質権設定者に支払わなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">債権の目的物が金銭であるときは、質権者は、自己の債権額に対応する部分に限り、これを取り立てることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第三債務者は、質権の設定について第三百六十四条の規定によりその規定に従うこととされる第四百六十七条第一項の規定による通知又は承諾がされた時より後に質権者に対してした弁済その他の債務を消滅させる事由をもって質権設定者その他の第三者に対抗することができる。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、質権者は、自己の債権の弁済期が到来するまでは、質権設定者に対し、その受けた利益の価額に相当する金銭を支払うことを要しない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の債権の弁済期が質権者の債権の弁済期前に到来したときは、質権者は、第三債務者にその弁済をすべき金額を供託させることができる。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合において、質権は、その供託金について存在する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項前段の場合において、質権者の債権の弁済期が到来したときは、質権者は、質権設定者に対し、その受けた利益の価額から自己の債権の額を控除した残額を支払わなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">債権の目的物が金銭でないときは、質権者は、弁済として受けた物について質権を有する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">債権の目的物が金銭である場合において、その弁済期が質権者の債権についての不履行が生ずる前に到来したときは、質権者は、第三債務者にその弁済をすべき金額を供託させることができる。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、質権は、その供託金について存在する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">債権の目的が物の引渡しであるときは、質権者は、弁済として受けた物について質権を有する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合においては、第一項後段及び第三項の規定は、適用しない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -6326,7 +6401,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">抵当権は、その担保する債権について不履行があったときは、その後に生じた抵当不動産の果実に及ぶ。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">抵当権は、その担保する債権について不履行があったときは、抵当不動産の果実（収取されていないものに限る。）に及ぶ。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -14377,7 +14452,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">第七百二十八条第一項、第七百六十六条から第七百六十九条まで、第七百九十条第一項ただし書並びに第八百十九条第二項、第三項、第五項及び第六項の規定は、婚姻の取消しについて準用する。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第七百二十八条第一項、第七百六十六条から第七百六十九条まで、第七百九十条第一項ただし書並びに第八百十九条第二項、第三項及び第五項から第七項までの規定は、婚姻の取消しについて準用する。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -14421,23 +14496,12 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
-            <Article Num="753">
-              <ArticleTitle>第七百五十三条</ArticleTitle>
+            <Article Num="753:754">
+              <ArticleTitle>第七百五十三条及び第七百五十四条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">削除</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-            </Article>
-            <Article Num="754">
-              <ArticleCaption>（夫婦間の契約の取消権）</ArticleCaption>
-              <ArticleTitle>第七百五十四条</ArticleTitle>
-              <Paragraph Num="1">
-                <ParagraphNum/>
-                <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">夫婦間でした契約は、婚姻中、いつでも、夫婦の一方からこれを取り消すことができる。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三者の権利を害することはできない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -14579,8 +14643,20 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">離婚の届出は、その離婚が前条において準用する第七百三十九条第二項の規定及び第八百十九条第一項の規定その他の法令の規定に違反しないことを認めた後でなければ、受理することができない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">離婚の届出は、その離婚が前条において準用する第七百三十九条第二項の規定その他の法令の規定に違反しないこと及び夫婦間に成年に達しない子がある場合には次の各号のいずれかに該当することを認めた後でなければ、受理することができない。</Sentence>
                   </ParagraphSentence>
+                  <Item Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">親権者の定めがされていること。</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">親権者の指定を求める家事審判又は家事調停の申立てがされていること。</Sentence>
+                    </ItemSentence>
+                  </Item>
                 </Paragraph>
                 <Paragraph Num="2">
                   <ParagraphNum>２</ParagraphNum>
@@ -14595,7 +14671,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">父母が協議上の離婚をするときは、子の監護をすべき者、父又は母と子との面会及びその他の交流、子の監護に要する費用の分担その他の子の監護について必要な事項は、その協議で定める。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">父母が協議上の離婚をするときは、子の監護をすべき者又は子の監護の分掌、父又は母と子との交流、子の監護に要する費用の分担その他の子の監護について必要な事項は、その協議で定める。</Sentence>
                     <Sentence Num="2" WritingMode="vertical">この場合においては、子の利益を最も優先して考慮しなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
@@ -14615,6 +14691,75 @@
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
                     <Sentence Num="1" WritingMode="vertical">前三項の規定によっては、監護の範囲外では、父母の権利義務に変更を生じない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Num="766_2">
+                <ArticleCaption>（審判による父母以外の親族と子との交流の定め）</ArticleCaption>
+                <ArticleTitle>第七百六十六条の二</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">家庭裁判所は、前条第二項又は第三項の場合において、子の利益のため特に必要があると認めるときは、同条第一項に規定する子の監護について必要な事項として父母以外の親族と子との交流を実施する旨を定めることができる。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">前項の定めについての前条第二項又は第三項の規定による審判の請求は、次に掲げる者（第二号に掲げる者にあっては、その者と子との交流についての定めをするため他に適当な方法がないときに限る。）がすることができる。</Sentence>
+                  </ParagraphSentence>
+                  <Item Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">父母</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">父母以外の子の親族（子の直系尊属及び兄弟姉妹以外の者にあっては、過去に当該子を監護していた者に限る。）</Sentence>
+                    </ItemSentence>
+                  </Item>
+                </Paragraph>
+              </Article>
+              <Article Num="766_3">
+                <ArticleCaption>（子の監護に要する費用の分担の定めがない場合の特例）</ArticleCaption>
+                <ArticleTitle>第七百六十六条の三</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">父母が子の監護に要する費用の分担についての定めをすることなく協議上の離婚をした場合には、父母の一方であって離婚の時から引き続きその子の監護を主として行うものは、他の一方に対し、離婚の日から、次に掲げる日のいずれか早い日までの間、毎月末に、その子の監護に要する費用の分担として、父母の扶養を受けるべき子の最低限度の生活の維持に要する標準的な費用の額その他の事情を勘案して子の数に応じて法務省令で定めるところにより算定した額の支払を請求することができる。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該他の一方は、支払能力を欠くためにその支払をすることができないこと又はその支払をすることによってその生活が著しく窮迫することを証明したときは、その全部又は一部の支払を拒むことができる。</Sentence>
+                  </ParagraphSentence>
+                  <Item Num="1">
+                    <ItemTitle>一</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">父母がその協議により子の監護に要する費用の分担についての定めをした日</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="2">
+                    <ItemTitle>二</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">子の監護に要する費用の分担についての審判が確定した日</Sentence>
+                    </ItemSentence>
+                  </Item>
+                  <Item Num="3">
+                    <ItemTitle>三</ItemTitle>
+                    <ItemSentence>
+                      <Sentence Num="1" WritingMode="vertical">子が成年に達した日</Sentence>
+                    </ItemSentence>
+                  </Item>
+                </Paragraph>
+                <Paragraph Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">離婚の日の属する月又は前項各号に掲げる日のいずれか早い日の属する月における同項の額は、法務省令で定めるところにより日割りで計算する。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="3">
+                  <ParagraphNum>３</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">家庭裁判所は、第七百六十六条第二項又は第三項の規定により子の監護に要する費用の分担についての定めをし又はその定めを変更する場合には、第一項の規定による債務を負う他の一方の支払能力を考慮して、当該債務の全部若しくは一部の免除又は支払の猶予その他相当な処分を命ずることができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -14647,13 +14792,14 @@
                   <ParagraphNum>２</ParagraphNum>
                   <ParagraphSentence>
                     <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定による財産の分与について、当事者間に協議が調わないとき、又は協議をすることができないときは、当事者は、家庭裁判所に対して協議に代わる処分を請求することができる。</Sentence>
-                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、離婚の時から二年を経過したときは、この限りでない。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、離婚の時から五年を経過したときは、この限りでない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="3">
                   <ParagraphNum>３</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">前項の場合には、家庭裁判所は、当事者双方がその協力によって得た財産の額その他一切の事情を考慮して、分与をさせるべきかどうか並びに分与の額及び方法を定める。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前項の場合には、家庭裁判所は、離婚後の当事者間の財産上の衡平を図るため、当事者双方がその婚姻中に取得し、又は維持した財産の額及びその取得又は維持についての各当事者の寄与の程度、婚姻の期間、婚姻中の生活水準、婚姻中の協力及び扶助の状況、各当事者の年齢、心身の状況、職業及び収入その他一切の事情を考慮して、分与をさせるべきかどうか並びに分与の額及び方法を定める。</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">この場合において、婚姻中の財産の取得又は維持についての各当事者の寄与の程度は、その程度が異なることが明らかでないときは、相等しいものとする。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -14705,12 +14851,6 @@
                   <Item Num="4">
                     <ItemTitle>四</ItemTitle>
                     <ItemSentence>
-                      <Sentence Num="1" WritingMode="vertical">配偶者が強度の精神病にかかり、回復の見込みがないとき。</Sentence>
-                    </ItemSentence>
-                  </Item>
-                  <Item Num="5">
-                    <ItemTitle>五</ItemTitle>
-                    <ItemSentence>
                       <Sentence Num="1" WritingMode="vertical">その他婚姻を継続し難い重大な事由があるとき。</Sentence>
                     </ItemSentence>
                   </Item>
@@ -14718,7 +14858,7 @@
                 <Paragraph Num="2">
                   <ParagraphNum>２</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">裁判所は、前項第一号から第四号までに掲げる事由がある場合であっても、一切の事情を考慮して婚姻の継続を相当と認めるときは、離婚の請求を棄却することができる。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">裁判所は、前項第一号から第三号までに掲げる事由がある場合であっても、一切の事情を考慮して婚姻の継続を相当と認めるときは、離婚の請求を棄却することができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -15210,7 +15350,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第七百六十六条の規定は、父が認知する場合について準用する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第七百六十六条から第七百六十六条の三までの規定は、父が認知する場合について準用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -15353,6 +15493,19 @@
                   <ParagraphSentence>
                     <Sentence Num="1" WritingMode="vertical">法定代理人が前項の承諾をするには、養子となる者の父母でその監護をすべき者であるものが他にあるときは、その同意を得なければならない。</Sentence>
                     <Sentence Num="2" WritingMode="vertical">養子となる者の父母で親権を停止されているものがあるときも、同様とする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="3">
+                  <ParagraphNum>３</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">第一項の縁組をすることが子の利益のため特に必要であるにもかかわらず、養子となる者の父母でその監護をすべき者であるものが縁組の同意をしないときは、家庭裁判所は、養子となる者の法定代理人の請求により、その同意に代わる許可を与えることができる。</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">同項の縁組をすることが子の利益のため特に必要であるにもかかわらず、養子となる者の父母で親権を停止されているものが縁組の同意をしないときも、同様とする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="4">
+                  <ParagraphNum>４</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">第一項の承諾に係る親権の行使について第八百二十四条の二第三項に規定する請求を受けた家庭裁判所は、第一項の縁組をすることが子の利益のため特に必要であると認めるときに限り、同条第三項の規定による審判をすることができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -15586,13 +15739,14 @@
                 <Paragraph Num="3">
                   <ParagraphNum>３</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">前項の場合において、養子の父母が離婚しているときは、その協議で、その一方を養子の離縁後にその親権者となるべき者と定めなければならない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前項の場合において、養子の父母が離婚しているときは、その協議で、その双方又は一方を養子の離縁後にその親権者となるべき者と定めなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
                     <Sentence Num="1" WritingMode="vertical">前項の協議が調わないとき、又は協議をすることができないときは、家庭裁判所は、同項の父若しくは母又は養親の請求によって、協議に代わる審判をすることができる。</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">この場合においては、第八百十九条第七項の規定を準用する。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="5">
@@ -15876,32 +16030,98 @@
               </Article>
             </Subsection>
           </Section>
+          <Section Num="3">
+            <SectionTitle>第三節　親の責務等</SectionTitle>
+            <Article Num="817_12">
+              <ArticleCaption>（親の責務等）</ArticleCaption>
+              <ArticleTitle>第八百十七条の十二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">父母は、子の心身の健全な発達を図るため、その子の人格を尊重するとともに、その子の年齢及び発達の程度に配慮してその子を養育しなければならず、かつ、その子が自己と同程度の生活を維持することができるよう扶養しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">父母は、婚姻関係の有無にかかわらず、子に関する権利の行使又は義務の履行に関し、その子の利益のため、互いに人格を尊重し協力しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="817_13">
+              <ArticleCaption>（親子の交流等）</ArticleCaption>
+              <ArticleTitle>第八百十七条の十三</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第七百六十六条（第七百四十九条、第七百七十一条及び第七百八十八条において準用する場合を含む。）の場合のほか、子と別居する父又は母その他の親族と当該子との交流について必要な事項は、父母の協議で定める。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合においては、子の利益を最も優先して考慮しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の協議が調わないとき、又は協議をすることができないときは、家庭裁判所が、父又は母の請求により、同項の事項を定める。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">家庭裁判所は、必要があると認めるときは、父又は母の請求により、前二項の規定による定めを変更することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前二項の請求を受けた家庭裁判所は、子の利益のため特に必要があると認めるときに限り、父母以外の親族と子との交流を実施する旨を定めることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">前項の定めについての第二項又は第三項の規定による審判の請求は、父母以外の子の親族（子の直系尊属及び兄弟姉妹以外の者にあっては、過去に当該子を監護していた者に限る。）もすることができる。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該親族と子との交流についての定めをするため他に適当な方法があるときは、この限りでない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Section>
         </Chapter>
         <Chapter Num="4">
           <ChapterTitle>第四章　親権</ChapterTitle>
           <Section Num="1">
             <SectionTitle>第一節　総則</SectionTitle>
             <Article Num="818">
-              <ArticleCaption>（親権者）</ArticleCaption>
+              <ArticleCaption>（親権）</ArticleCaption>
               <ArticleTitle>第八百十八条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">成年に達しない子は、父母の親権に服する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">親権は、成年に達しない子について、その子の利益のために行使しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">子が養子であるときは、養親の親権に服する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">父母の婚姻中はその双方を親権者とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">親権は、父母の婚姻中は、父母が共同して行う。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、父母の一方が親権を行うことができないときは、他の一方が行う。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">子が養子であるときは、次に掲げる者を親権者とする。</Sentence>
                 </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">養親（当該子を養子とする縁組が二以上あるときは、直近の縁組により養親となった者に限る。）</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">子の父母であって、前号に掲げる養親の配偶者であるもの</Sentence>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
             </Article>
             <Article Num="819">
@@ -15910,26 +16130,27 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">父母が協議上の離婚をするときは、その協議で、その一方を親権者と定めなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">父母が協議上の離婚をするときは、その協議で、その双方又は一方を親権者と定める。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">裁判上の離婚の場合には、裁判所は、父母の一方を親権者と定める。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">裁判上の離婚の場合には、裁判所は、父母の双方又は一方を親権者と定める。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">子の出生前に父母が離婚した場合には、親権は、母が行う。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、子の出生後に、父母の協議で、父を親権者と定めることができる。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、子の出生後に、父母の協議で、父母の双方又は父を親権者と定めることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">父が認知した子に対する親権は、父母の協議で父を親権者と定めたときに限り、父が行う。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">父が認知した子に対する親権は、母が行う。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、父母の協議で、父母の双方又は父を親権者と定めることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="5">
@@ -15941,7 +16162,33 @@
               <Paragraph Num="6">
                 <ParagraphNum>６</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">子の利益のため必要があると認めるときは、家庭裁判所は、子の親族の請求によって、親権者を他の一方に変更することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">子の利益のため必要があると認めるときは、家庭裁判所は、子又はその親族の請求によって、親権者を変更することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="7">
+                <ParagraphNum>７</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">裁判所は、第二項又は前二項の裁判において、父母の双方を親権者と定めるかその一方を親権者と定めるかを判断するに当たっては、子の利益のため、父母と子との関係、父と母との関係その他一切の事情を考慮しなければならない。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、次の各号のいずれかに該当するときその他の父母の双方を親権者と定めることにより子の利益を害すると認められるときは、父母の一方を親権者と定めなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">父又は母が子の心身に害悪を及ぼすおそれがあると認められるとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">父母の一方が他の一方から身体に対する暴力その他の心身に有害な影響を及ぼす言動（次項において「暴力等」という。）を受けるおそれの有無、第一項、第三項又は第四項の協議が調わない理由その他の事情を考慮して、父母が共同して親権を行うことが困難であると認められるとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="8">
+                <ParagraphNum>８</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第六項の場合において、家庭裁判所は、父母の協議により定められた親権者を変更することが子の利益のため必要であるか否かを判断するに当たっては、当該協議の経過、その後の事情の変更その他の事情を考慮するものとする。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、当該協議の経過を考慮するに当たっては、父母の一方から他の一方への暴力等の有無、家事事件手続法による調停の有無又は裁判外紛争解決手続（裁判外紛争解決手続の利用の促進に関する法律（平成十六年法律第百五十一号）第一条に規定する裁判外紛争解決手続をいう。）の利用の有無、協議の結果についての公正証書の作成の有無その他の事情をも勘案するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -16002,6 +16249,64 @@
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">親権を行う者は、子の財産を管理し、かつ、その財産に関する法律行為についてその子を代表する。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その子の行為を目的とする債務を生ずべき場合には、本人の同意を得なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="824_2">
+              <ArticleCaption>（親権の行使方法等）</ArticleCaption>
+              <ArticleTitle>第八百二十四条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">親権は、父母が共同して行う。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げるときは、その一方が行う。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">その一方のみが親権者であるとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">他の一方が親権を行うことができないとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">子の利益のため急迫の事情があるとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">父母は、その双方が親権者であるときであっても、前項本文の規定にかかわらず、監護及び教育に関する日常の行為に係る親権の行使を単独ですることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定の事項に係る親権の行使（第一項ただし書又は前項の規定により父母の一方が単独で行うことができるものを除く。）について、父母間に協議が調わない場合であって、子の利益のため必要があると認めるときは、家庭裁判所は、父又は母の請求により、当該事項に係る親権の行使を父母の一方が単独ですることができる旨を定めることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="824_3">
+              <ArticleCaption>（監護者の権利義務）</ArticleCaption>
+              <ArticleTitle>第八百二十四条の三</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第七百六十六条（第七百四十九条、第七百七十一条及び第七百八十八条において準用する場合を含む。）の規定により定められた子の監護をすべき者は、第八百二十条から第八百二十三条までに規定する事項について、親権を行う者と同一の権利義務を有する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、子の監護をすべき者は、単独で、子の監護及び教育、居所の指定及び変更並びに営業の許可、その許可の取消し及びその制限をすることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の場合には、親権を行う者（子の監護をすべき者を除く。）は、子の監護をすべき者が同項後段の規定による行為をすることを妨げてはならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -16122,7 +16427,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">親権を行う者は、その親権に服する子に代わって親権を行う。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">父又は母が成年に達しない子であるときは、当該子について親権を行う者が当該子に代わって親権を行う。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -23226,6 +23531,19 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年五月二二日法律第三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和六年五月二四日法律第三三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -23236,6 +23554,63 @@
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第十六条から第十八条まで及び第十九条第一項の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（民法の一部改正に伴う経過措置の原則）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">第一条の規定による改正後の民法（以下「新民法」という。）の規定は、この附則に特別の定めがある場合を除き、この法律の施行前に生じた事項にも適用する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同条の規定による改正前の民法（附則第六条において「旧民法」という。）の規定により生じた効力を妨げない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（子の監護費用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新民法第三百六条第三号及び第三百八条の二の規定は、同条に規定する定期金債権のうちこの法律の施行の日（以下「施行日」という。）以後に生じた各期の定期金について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新民法第七百六十六条の三（新民法第七百四十九条、第七百七十一条及び第七百八十八条において準用する場合を含む。）の規定は、施行日前に離婚し、婚姻が取り消され、又は認知した場合については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（財産分与に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に離婚し、又は婚姻が取り消された場合における財産の分与に関する処分を家庭裁判所に請求することができる期間の制限については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（離婚原因に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">離婚の訴えに係る事件であって、施行日前に、控訴審の口頭弁論が終結したもの又は第一審の判決に対して上告をする権利を留保して控訴をしない旨の合意をしたものについての離婚の訴えを提起することができる事由については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（親権者の変更の請求に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に旧民法第八百十九条第六項（旧民法第七百四十九条において準用する場合を含む。）の規定によりされた親権者の変更の請求（施行日前に当該請求に係る審判が確定したものを除く。）は、施行日以後は、新民法第八百十九条第六項（新民法第七百四十九条において準用する場合を含む。）の規定によりされた親権者の変更の請求とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -23276,6 +23651,12 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">政府は、施行日までに、父母が協議上の離婚をする場合における新民法第八百十九条第一項の規定による親権者の定めが父母の双方の真意に出たものであることを確認するための措置について検討を加え、その結果に基づいて必要な法制上の措置その他の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、改正後の各法律の施行の状況等を勘案し、父母の離婚後の子の養育に係る制度及び支援施策の在り方等について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
