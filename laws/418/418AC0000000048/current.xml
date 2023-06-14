@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Heisei" Year="18" Num="048" PromulgateMonth="06" PromulgateDay="02" LawType="Act"><LawNum>平成十八年法律第四十八号</LawNum><LawBody><LawTitle Kana="いっぱんしゃだんほうじんおよびいっぱんざいだんほうじんにかんするほうりつ" Abbrev="一般法人法,一般社団・財団法,一般社団・財団法人法" AbbrevKana="い,い,い">一般社団法人及び一般財団法人に関する法律</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="048" Year="18" PromulgateMonth="06" PromulgateDay="02">
+  <LawNum>平成十八年法律第四十八号</LawNum>
+  <LawBody>
+    <LawTitle Kana="いっぱんしゃだんほうじんおよびいっぱんざいだんほうじんにかんするほうりつ" Abbrev="一般法人法,一般社団・財団法,一般社団・財団法人法" AbbrevKana="い,い,い">一般社団法人及び一般財団法人に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -324,7 +327,7 @@
           </TOCSubsection>
           <TOCSubsection Num="2">
             <SubsectionTitle>第二款　解散命令の手続に関する特則</SubsectionTitle>
-            <ArticleRange>（第二百九十六条―第二百九十八条）</ArticleRange>
+            <ArticleRange>（第二百九十六条―第二百九十八条の二）</ArticleRange>
           </TOCSubsection>
         </TOCSection>
         <TOCSection Num="4">
@@ -576,7 +579,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の定款は、電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものとして法務省令で定めるものをいう。以下同じ。）をもって作成することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の定款は、電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものとして法務省令で定めるものをいう。第二百九十八条の二第三項を除き、以下同じ。）をもって作成することができる。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">この場合において、当該電磁的記録に記録された情報については、法務省令で定める署名又は記名押印に代わる措置をとらなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
@@ -8973,6 +8976,33 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
+            <Article Num="298_2">
+              <ArticleTitle>第二百九十八条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、最高裁判所規則で定めるところにより、第二百六十二条第六項の報告又は計算に関し裁判所の使用に係る電子計算機（入出力装置を含む。次項及び第三項において同じ。）に備えられたファイルに記録された事項（以下この条において「報告等記録事項」という。）の内容を最高裁判所規則で定める方法により表示したものの閲覧を請求することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、報告等記録事項について、最高裁判所規則で定めるところにより、最高裁判所規則で定める電子情報処理組織（裁判所の使用に係る電子計算機と手続の相手方の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。次項において同じ。）を使用してその者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法による複写を請求することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、最高裁判所規則で定めるところにより、報告等記録事項の全部若しくは一部を記載した書面であって裁判所書記官が最高裁判所規則で定める方法により当該書面の内容が報告等記録事項と同一であることを証明したものを交付し、又は報告等記録事項の全部若しくは一部を記録した電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下この項において同じ。）であって裁判所書記官が最高裁判所規則で定める方法により当該電磁的記録の内容が報告等記録事項と同一であることを証明したものを最高裁判所規則で定める電子情報処理組織を使用してその者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法により提供することを請求することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第四項及び民事訴訟法第九十一条第五項の規定は、報告等記録事項について準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
           </Subsection>
         </Section>
         <Section Num="4">
@@ -9990,7 +10020,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">一般社団法人等の設立の無効又は取消しの訴えに係る請求を認容する判決が確定した場合において、第二百七十六条第一項（同条第二項において準用する場合を含む。以下この条において同じ。）の規定により一般社団法人等を継続したときは、継続の登記の申請書には、その判決の謄本及び第二百七十六条第一項の同意があったことを証する書面を添付しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">一般社団法人等の設立の無効又は取消しの訴えに係る請求を認容する判決が確定した場合において、第二百七十六条第一項（同条第二項において準用する場合を含む。以下この条において同じ。）の規定により一般社団法人等を継続したときは、継続の登記の申請書には、その判決の謄本又はその判決の内容を記載した書面であって裁判所書記官が当該書面の内容が当該判決の内容と同一であることを証明したもの及び第二百七十六条第一項の同意があったことを証する書面を添付しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -10724,6 +10754,16 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="124">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="125">
