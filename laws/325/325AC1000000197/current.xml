@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="25" Num="197" PromulgateMonth="05" PromulgateDay="22" LawType="Act"><LawNum>昭和二十五年法律第百九十七号</LawNum><LawBody><LawTitle Kana="しほうしょしほう" Abbrev="" AbbrevKana="">司法書士法</LawTitle>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="197" Year="25" PromulgateMonth="05" PromulgateDay="22"><LawNum>昭和二十五年法律第百九十七号</LawNum><LawBody><LawTitle Kana="しほうしょしほう" Abbrev="" AbbrevKana="">司法書士法</LawTitle>
     <EnactStatement>司法書士法（大正八年法律第四十八号）の全部を改正する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -104,7 +104,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">裁判所若しくは検察庁に提出する書類又は筆界特定の手続（不動産登記法（平成十六年法律第百二十三号）第六章第二節の規定による筆界特定の手続又は筆界特定の申請の却下に関する審査請求の手続をいう。第八号において同じ。）において法務局若しくは地方法務局に提出し若しくは提供する書類若しくは電磁的記録を作成すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所若しくは検察庁に提出する書類若しくは電磁的記録又は筆界特定の手続（不動産登記法（平成十六年法律第百二十三号）第六章第二節の規定による筆界特定の手続又は筆界特定の申請の却下に関する審査請求の手続をいう。第八号において同じ。）において法務局若しくは地方法務局に提出し若しくは提供する書類若しくは電磁的記録を作成すること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -128,7 +128,7 @@
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">民事訴訟法第二百七十五条の規定による和解の手続又は同法第七編の規定による支払督促の手続であつて、請求の目的の価額が裁判所法第三十三条第一項第一号に定める額を超えないもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">民事訴訟法第二百七十五条の規定による和解の手続又は同法第八編の規定による支払督促の手続であつて、請求の目的の価額が裁判所法第三十三条第一項第一号に定める額を超えないもの</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="3">
@@ -668,7 +668,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">司法書士は、次に掲げる事件については、第三条第一項第四号及び第五号（同項第四号に関する部分に限る。）に規定する業務（以下「裁判書類作成関係業務」という。）を行つてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">司法書士は、次に掲げる事件については、第三条第一項第四号及び第五号（同項第四号に関する部分に限る。）に規定する業務（以下「裁判書類等作成関係業務」という。）を行つてはならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -692,7 +692,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">第三条第二項に規定する司法書士は、次に掲げる事件については、裁判書類作成関係業務を行つてはならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第三条第二項に規定する司法書士は、次に掲げる事件については、裁判書類等作成関係業務を行つてはならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三号及び第六号に掲げる事件については、受任している事件の依頼者が同意した場合は、この限りでない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -1106,7 +1106,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">司法書士法人は、次に掲げる事件については、裁判書類作成関係業務を行つてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">司法書士法人は、次に掲げる事件については、裁判書類等作成関係業務を行つてはならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1123,14 +1123,14 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十二条第一項、第二項第一号若しくは第二号又は第三項第一号から第五号までに掲げる事件として社員の半数以上の者が裁判書類作成関係業務を行つてはならないこととされる事件</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十二条第一項、第二項第一号若しくは第二号又は第三項第一号から第五号までに掲げる事件として社員の半数以上の者が裁判書類等作成関係業務を行つてはならないこととされる事件</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">簡裁訴訟代理等関係業務を行うことを目的とする司法書士法人（過去に簡裁訴訟代理等関係業務を行うことを目的としていたものを含む。）は、次に掲げる事件については、裁判書類作成関係業務を行つてはならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">簡裁訴訟代理等関係業務を行うことを目的とする司法書士法人（過去に簡裁訴訟代理等関係業務を行うことを目的としていたものを含む。）は、次に掲げる事件については、裁判書類等作成関係業務を行つてはならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三号に掲げる事件については、受任している事件の依頼者が同意した場合は、この限りでない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -1488,7 +1488,7 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">会社法第八百二十四条、第八百二十六条、第八百六十八条第一項、第八百七十条第一項（第十号に係る部分に限る。）、第八百七十一条本文、第八百七十二条（第四号に係る部分に限る。）、第八百七十三条本文、第八百七十五条、第八百七十六条、第九百四条及び第九百三十七条第一項（第三号ロに係る部分に限る。）の規定は司法書士法人の解散の命令について、同法第八百二十五条、第八百六十八条第一項、第八百七十条第一項（第一号に係る部分に限る。）、第八百七十一条、第八百七十二条（第一号及び第四号に係る部分に限る。）、第八百七十三条、第八百七十四条（第二号及び第三号に係る部分に限る。）、第八百七十五条、第八百七十六条、第九百五条及び第九百六条の規定はこの項において準用する同法第八百二十四条第一項の申立てがあつた場合における司法書士法人の財産の保全について、それぞれ準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">会社法第八百二十四条、第八百二十六条、第八百六十八条第一項、第八百七十条第一項（第十号に係る部分に限る。）、第八百七十一条本文、第八百七十二条（第四号に係る部分に限る。）、第八百七十三条本文、第八百七十五条、第八百七十六条、第九百四条及び第九百三十七条第一項（第三号ロに係る部分に限る。）の規定は司法書士法人の解散の命令について、同法第八百二十五条、第八百六十八条第一項、第八百七十条第一項（第一号に係る部分に限る。）、第八百七十一条、第八百七十二条（第一号及び第四号に係る部分に限る。）、第八百七十三条、第八百七十四条（第二号及び第三号に係る部分に限る。）、第八百七十五条、第八百七十六条及び第九百五条から第九百六条の二までの規定はこの項において準用する同法第八百二十四条第一項の申立てがあつた場合における司法書士法人の財産の保全について、それぞれ準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -1615,7 +1615,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法務大臣は、司法書士に対して第四十七条各号に掲げる処分をしようとする場合においては、行政手続法第十五条第一項の通知を発送し、又は同条第三項前段の掲示をした後直ちに日本司法書士会連合会にその旨を通告しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、司法書士に対して第四十七条各号に掲げる処分をしようとする場合においては、行政手続法第十五条第一項の通知を発送し、又は同条第四項前段の措置をとつた後直ちに日本司法書士会連合会にその旨を通告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -3459,6 +3459,16 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="124">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="125">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第百二十五条</ArticleTitle>
@@ -3523,6 +3533,37 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条、第十三条及び第二十条の規定、第二十一条中内航海運業法第六条第一項第二号の改正規定、第二十三条、第二十九条、第三十一条、第三十二条、第三十六条及び第三十九条の規定、第四十一条中貨物自動車運送事業法第五条第二号の改正規定、第四十三条、第四十四条及び第四十九条の規定、第五十五条中民間事業者による信書の送達に関する法律第八条第二号の改正規定並びに第五十六条、第五十八条、第六十条、第六十二条及び第六十三条の規定並びに次条並びに附則第十条、第十二条及び第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
