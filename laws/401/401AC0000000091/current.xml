@@ -130,13 +130,66 @@
           </Paragraph>
         </Article>
         <Article Num="5">
-          <ArticleCaption>（事件の記録の閲覧等）</ArticleCaption>
+          <ArticleCaption>（非電磁的事件記録の閲覧等）</ArticleCaption>
           <ArticleTitle>第五条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">保全命令に関する手続又は保全執行に関し裁判所が行う手続について、利害関係を有する者は、裁判所書記官に対し、事件の記録の閲覧若しくは謄写、その正本、謄本若しくは抄本の交付又は事件に関する事項の証明書の交付を請求することができる。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、債権者以外の者にあっては、保全命令の申立てに関し口頭弁論若しくは債務者を呼び出す審尋の期日の指定があり、又は債務者に対する保全命令の送達があるまでの間は、この限りでない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">保全命令に関する手続又は保全執行に関し裁判所が行う手続について、利害関係を有する者は、裁判所書記官に対し、非電磁的事件記録（事件の記録中次条第一項に規定する電磁的事件記録を除いた部分をいう。）の閲覧若しくは謄写又はその正本、謄本若しくは抄本の交付を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">民事訴訟法第九十一条第四項及び第五項の規定は、前項の規定による請求について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5_2">
+          <ArticleCaption>（電磁的事件記録の閲覧等）</ArticleCaption>
+          <ArticleTitle>第五条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">保全命令に関する手続又は保全執行に関し裁判所が行う手続について、利害関係を有する者は、裁判所書記官に対し、最高裁判所規則で定めるところにより、電磁的事件記録（事件の記録中この法律その他の法令の規定により裁判所の使用に係る電子計算機（入出力装置を含む。以下この条及び次条において同じ。）に備えられたファイル（第四十三条第一項において単に「ファイル」という。）に記録された事項に係る部分をいう。以下この条において同じ。）の内容を最高裁判所規則で定める方法により表示したものの閲覧を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">保全命令に関する手続又は保全執行に関し裁判所が行う手続について、利害関係を有する者は、裁判所書記官に対し、電磁的事件記録に記録されている事項について、最高裁判所規則で定めるところにより、最高裁判所規則で定める電子情報処理組織（裁判所の使用に係る電子計算機と手続の相手方の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。次項及び次条において同じ。）を使用してその者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法による複写を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">保全命令に関する手続又は保全執行に関し裁判所が行う手続について、利害関係を有する者は、裁判所書記官に対し、最高裁判所規則で定めるところにより、電磁的事件記録に記録されている事項の全部若しくは一部を記載した書面であって裁判所書記官が最高裁判所規則で定める方法により当該書面の内容が電磁的事件記録に記録されている事項と同一であることを証明したものを交付し、又は当該事項の全部若しくは一部を記録した電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）であって裁判所書記官が最高裁判所規則で定める方法により当該電磁的記録の内容が電磁的事件記録に記録されている事項と同一であることを証明したものを最高裁判所規則で定める電子情報処理組織を使用してその者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法により提供することを請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">民事訴訟法第九十一条第五項の規定は、第一項及び第二項の規定による請求について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5_3">
+          <ArticleCaption>（事件に関する事項の証明）</ArticleCaption>
+          <ArticleTitle>第五条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">保全命令に関する手続又は保全執行に関し裁判所が行う手続について、利害関係を有する者は、裁判所書記官に対し、最高裁判所規則で定めるところにより、事件に関する事項を記載した書面であって裁判所書記官が最高裁判所規則で定める方法により当該事項を証明したものを交付し、又は当該事項を記録した電磁的記録であって裁判所書記官が最高裁判所規則で定める方法により当該事項を証明したものを最高裁判所規則で定める電子情報処理組織を使用してその者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法により提供することを請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5_4">
+          <ArticleCaption>（事件の記録の閲覧等の特則）</ArticleCaption>
+          <ArticleTitle>第五条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三条の規定にかかわらず、債権者以外の者は、保全命令の申立てに関し口頭弁論若しくは債務者を呼び出す審尋の期日の指定があり、又は債務者に対する保全命令の送達があるまでの間は、これらの規定による請求をすることができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -150,65 +203,14 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="6_2">
-          <ArticleCaption>（公示送達の方法）</ArticleCaption>
-          <ArticleTitle>第六条の二</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">民事保全の手続における公示送達は、裁判所書記官が送達すべき書類を保管し、いつでも送達を受けるべき者に交付すべき旨を裁判所の掲示場に掲示してする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="6_3">
-          <ArticleCaption>（電子情報処理組織による申立て等）</ArticleCaption>
-          <ArticleTitle>第六条の三</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">民事保全の手続における申立てその他の申述（以下この条において「申立て等」という。）のうち、当該申立て等に関するこの法律その他の法令の規定により書面等（書面、書類、文書、謄本、抄本、正本、副本、複本その他文字、図形等人の知覚によって認識することができる情報が記載された紙その他の有体物をいう。次項及び第四項において同じ。）をもってするものとされているものであって、最高裁判所の定める裁判所に対してするもの（当該裁判所の裁判長、受命裁判官、受託裁判官又は裁判所書記官に対してするものを含む。）については、当該法令の規定にかかわらず、最高裁判所規則で定めるところにより、電子情報処理組織（裁判所の使用に係る電子計算機（入出力装置を含む。以下この項及び第三項において同じ。）と申立て等をする者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。）を用いてすることができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定によりされた申立て等については、当該申立て等を書面等をもってするものとして規定した申立て等に関する法令の規定に規定する書面等をもってされたものとみなして、当該申立て等に関する法令の規定を適用する。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の規定によりされた申立て等は、同項の裁判所の使用に係る電子計算機に備えられたファイルへの記録がされた時に、当該裁判所に到達したものとみなす。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の場合において、当該申立て等に関する他の法令の規定により署名等（署名、記名、押印その他氏名又は名称を書面等に記載することをいう。以下この項において同じ。）をすることとされているものについては、当該申立て等をする者は、当該法令の規定にかかわらず、当該署名等に代えて、最高裁判所規則で定めるところにより、氏名又は名称を明らかにする措置を講じなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の規定によりされた申立て等が第三項に規定するファイルに記録されたときは、第一項の裁判所は、当該ファイルに記録された情報の内容を書面に出力しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>６</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の規定によりされた申立て等に係るこの法律その他の法令の規定による事件の記録の閲覧若しくは謄写又はその正本、謄本若しくは抄本の交付は、前項の書面をもってするものとする。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">当該申立て等に係る書類の送達又は送付も、同様とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
         <Article Num="7">
           <ArticleCaption>（民事訴訟法の準用）</ArticleCaption>
           <ArticleTitle>第七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">特別の定めがある場合を除き、民事保全の手続に関しては、その性質に反しない限り、民事訴訟法第一編から第四編までの規定（同法第七十一条第二項、第九十一条の二、第九十二条第九項及び第十項、第九十二条の二第二項、第九十四条、第百条第二項、第一編第五章第四節第三款、第百十一条、第一編第七章、第百三十三条の二第五項及び第六項、第百三十三条の三第二項、第百五十一条第三項、第百六十条第二項、第百八十五条第三項、第二百五条第二項、第二百十五条第二項、第二百二十七条第二項、第二百三十二条の二並びに第二百六十七条第二項の規定を除く。）を準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、別表の上欄に掲げる同法の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">特別の定めがある場合を除き、民事保全の手続に関しては、その性質に反しない限り、民事訴訟法第一編から第四編までの規定を準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第百九条の四第一項中「第百三十二条の十一第一項各号に掲げる者」とあるのは「第百三十二条の十一第一項各号に掲げる者（保全執行に関する手続にあっては、民事保全法第四十六条において準用する民事執行法（昭和五十四年法律第四号）第十九条の三第一項各号（同法第十九条の六において読み替えて準用する場合を含む。）に掲げる者）」と、同法第百三十二条の十一第一項第二号中「規定」とあるのは「規定（これらの規定を同法第九条において準用する場合を含む。）」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -703,7 +705,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">保全命令を発した裁判所は、債務者の申立てにより、債権者に対し、相当と認める一定の期間内に、本案の訴えを提起するとともにその提起を証する書面を提出し、既に本案の訴えを提起しているときはその係属を証する書面を提出すべきことを命じなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">保全命令を発した裁判所は、債務者の申立てにより、債権者に対し、相当と認める一定の期間内に、本案の訴えを提起するとともにその提起を証する書面又は電磁的記録を提出し、既に本案の訴えを提起しているときはその係属を証する書面又は電磁的記録を提出すべきことを命じなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -715,13 +717,13 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">債権者が第一項の規定により定められた期間内に同項の書面を提出しなかったときは、裁判所は、債務者の申立てにより、保全命令を取り消さなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">債権者が第一項の規定により定められた期間内に同項の書面又は電磁的記録を提出しなかったときは、裁判所は、債務者の申立てにより、保全命令を取り消さなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の書面が提出された後に、同項の本案の訴えが取り下げられ、又は却下された場合には、その書面を提出しなかったものとみなす。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の書面又は電磁的記録が提出された後に、同項の本案の訴えが取り下げられ、又は却下された場合には、その書面又は電磁的記録を提出しなかったものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -733,7 +735,7 @@
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の調停の事件、同項の労働審判手続、同項の仲裁手続又は同項の責任裁定の手続が調停の成立、労働審判（労働審判法第二十九条第二項において準用する民事調停法（昭和二十六年法律第二百二十二号）第十六条の規定による調停の成立及び労働審判法第二十四条第一項の規定による労働審判事件の終了を含む。）、仲裁判断又は責任裁定（公害紛争処理法第四十二条の二十四第二項の当事者間の合意の成立を含む。）によらないで終了したときは、債権者は、その終了の日から第一項の規定により定められた期間と同一の期間内に本案の訴えを提起しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の調停の事件、同項の労働審判手続、同項の仲裁手続又は同項の責任裁定の手続が調停の成立、労働審判（労働審判法第二十九条第二項において準用する民事調停法（昭和二十六年法律第二百二十二号）第十六条第一項の規定による調停の成立及び労働審判法第二十四条第一項の規定による労働審判事件の終了を含む。）、仲裁判断又は責任裁定（公害紛争処理法第四十二条の二十四第二項の当事者間の合意の成立を含む。）によらないで終了したときは、債権者は、その終了の日から第一項の規定により定められた期間と同一の期間内に本案の訴えを提起しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
@@ -876,7 +878,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">保全執行は、保全命令の正本に基づいて実施する。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">保全執行は、保全命令の正本（保全命令に係る電磁的記録がファイルに記録されたものである場合にあっては、記録事項証明書（ファイルに記録されている事項を記載した書面であって裁判所書記官が当該書面の内容が当該ファイルに記録されている事項と同一であることを証明したものをいう。次条第二項において同じ。）。以下この項において同じ。）に基づいて実施する。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、保全命令に表示された当事者以外の者に対し、又はその者のためにする保全執行は、執行文の付された保全命令の正本に基づいて実施する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -899,13 +901,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十二条第二項（第三十八条第三項及び第四十一条第四項において準用する場合を含む。以下この項において同じ。）の規定により担保を立てることを保全執行の続行の条件とする旨の裁判があったときは、債権者は、第三十二条第二項の規定により定められた期間内に担保を立てたことを証する書面をその期間の末日から一週間以内に保全執行裁判所又は執行官に提出しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十二条第二項（第三十八条第三項及び第四十一条第四項において準用する場合を含む。以下この項において同じ。）の規定により担保を立てることを保全執行の続行の条件とする旨の裁判があったときは、債権者は、第三十二条第二項の規定により定められた期間内に担保を立てたことを証する書面又は電磁的記録をその期間の末日から一週間以内に保全執行裁判所又は執行官に提出しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">債権者が前項の規定による書面の提出をしない場合において、債務者が同項の裁判の正本を提出したときは、保全執行裁判所又は執行官は、既にした執行処分を取り消さなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">債権者が前項の規定による書面又は電磁的記録の提出をしない場合において、債務者が同項の裁判の正本又は記録事項証明書を提出したときは、保全執行裁判所又は執行官は、既にした執行処分を取り消さなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -931,7 +933,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">この章に特別の定めがある場合を除き、民事執行法第五条から第十四条まで、第十六条（第五項を除く。）、第十八条、第十八条の二、第十九条の三、第二十一条の二、第二十三条第一項、第二十六条、第二十七条第二項、第二十八条、第三十条第二項、第三十二条から第三十四条まで、第三十六条から第三十八条まで、第三十九条第一項第一号から第四号の二まで、第六号及び第七号、第四十条並びに第四十一条の規定は、保全執行について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">この章に特別の定めがある場合を除き、民事執行法第五条から第十四条まで、第十六条、第十八条、第十八条の二、第十九条の二から第十九条の六まで、第二十三条第一項、第二十六条、第二十七条第二項、第二十八条、第三十条第二項、第三十二条から第三十四条まで、第三十六条から第三十八条まで、第三十九条第一項第一号から第四号の二まで、第六号及び第七号並びに第四項、第四十条並びに第四十一条の規定は、保全執行について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1021,7 +1023,8 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">民事執行法第百二十三条から第百二十九条まで、第百三十一条、第百三十二条及び第百三十六条の規定は、動産に対する仮差押えの執行について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">民事執行法第百二十三条（第六項及び第七項を除く。）、第百二十四条から第百二十九条まで、第百三十一条、第百三十二条及び第百三十六条の規定は、動産に対する仮差押えの執行について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同法第百二十四条中「第七項」とあるのは、「第五項」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1849,266 +1852,5 @@
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable>
-      <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
-      <RelatedArticleNum>（第七条関係）</RelatedArticleNum>
-      <TableStruct>
-        <Table WritingMode="vertical">
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百十二条第一項本文</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">前条の規定による措置を開始した</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">裁判所書記官が送達すべき書類を保管し、いつでも送達を受けるべき者に交付すべき旨の裁判所の掲示場への掲示を始めた</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百十二条第一項ただし書</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">前条の規定による措置を開始した</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">当該掲示を始めた</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百十三条</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">書類又は電磁的記録</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">書類</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">記載又は記録</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">記載</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百十一条の規定による措置を開始した</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">裁判所書記官が送達すべき書類を保管し、いつでも送達を受けるべき者に交付すべき旨の裁判所の掲示場への掲示を始めた</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百三十三条の三第一項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">記載され、又は記録された書面又は電磁的記録</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">記載された書面</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">当該書面又は電磁的記録</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">当該書面</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">又は電磁的記録その他これに類する書面又は電磁的記録</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">その他これに類する書面</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百五十一条第二項及び第二百三十一条の二第二項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">方法又は最高裁判所規則で定める電子情報処理組織を使用する方法</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">方法</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百六十条第一項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">最高裁判所規則で定めるところにより、電子調書（期日又は期日外における手続の方式、内容及び経過等の記録及び公証をするためにこの法律その他の法令の規定により裁判所書記官が作成する電磁的記録をいう。以下同じ。）</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">調書</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百六十条第三項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">前項の規定によりファイルに記録された電子調書の内容に</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">調書の記載について</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百六十条第四項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第二項の規定によりファイルに記録された電子調書</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">調書</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">当該電子調書</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">当該調書</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百六十条の二第一項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">前条第二項の規定によりファイルに記録された電子調書の内容</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">調書の記載</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百六十条の二第二項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">その旨をファイルに記録して</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">調書を作成して</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第二百五条第三項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">事項又は前項の規定によりファイルに記録された事項若しくは同項の記録媒体に記録された事項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">事項</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第二百十五条第四項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">事項又は第二項の規定によりファイルに記録された事項若しくは同項の記録媒体に記録された事項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">事項</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第二百三十一条の三第二項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">若しくは送付し、又は最高裁判所規則で定める電子情報処理組織を使用する</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">又は送付する</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第二百六十一条第四項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">電子調書</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">調書</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">記録しなければ</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">記載しなければ</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第二百六十七条第一項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">和解又は請求の放棄若しくは認諾について電子調書を作成し、これをファイルに記録した</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">和解を調書に記載した</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">その記録</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">その記載</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第二百六十七条の二第一項</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">規定によりファイルに記録された電子調書</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">調書</Sentence>
-            </TableColumn>
-          </TableRow>
-        </Table>
-      </TableStruct>
-    </AppdxTable>
   </LawBody>
 </Law>
