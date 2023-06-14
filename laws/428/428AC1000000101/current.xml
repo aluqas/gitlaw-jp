@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Heisei" Year="28" Num="101" PromulgateMonth="12" PromulgateDay="09" LawType="Act"><LawNum>平成二十八年法律第百一号</LawNum><LawBody><LawTitle Kana="みんかんこうえきかつどうをそくしんするためのきゅうみんよきんとうにかかるしきんのかつようにかんするほうりつ" Abbrev="休眠預金等活用法" AbbrevKana="き">民間公益活動を促進するための休眠預金等に係る資金の活用に関する法律</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="101" Year="28" PromulgateMonth="12" PromulgateDay="09"><LawNum>平成二十八年法律第百一号</LawNum><LawBody><LawTitle Kana="みんかんこうえきかつどうをそくしんするためのきゅうみんよきんとうにかかるしきんのかつようにかんするほうりつ" Abbrev="休眠預金等活用法" AbbrevKana="き">民間公益活動を促進するための休眠預金等に係る資金の活用に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1697,7 +1697,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">機構の委託を受けて支払等業務を行う金融機関がある場合には、休眠預金等代替金の支払を目的とする債権であって当該金融機関が当該業務において取り扱うものに対する強制執行、仮差押え若しくは国税滞納処分（その例による処分を含む。）又はこれらに準ずるものとして主務省令で定めるもの（第三項においてこれらを「強制執行等」という。）については、機構が送達を受けるべき場所は当該金融機関の営業所又は事務所とし、当該金融機関を送達受取人とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">機構の委託を受けて支払等業務を行う金融機関がある場合には、休眠預金等代替金の支払を目的とする債権であって当該金融機関が当該業務において取り扱うものに対する強制執行、仮差押え若しくは国税滞納処分（その例による処分を含む。）又はこれらに準ずるものとして主務省令で定めるもの（第三項においてこれらを「強制執行等」という。）については、機構が書類の送達を受けるべき場所は当該金融機関の営業所又は事務所とし、当該金融機関を送達受取人とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -2213,6 +2213,16 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="124">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="125">
