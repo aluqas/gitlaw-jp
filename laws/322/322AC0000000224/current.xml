@@ -1049,7 +1049,7 @@
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">届出事件について裁判又は官庁の許可を必要とするときは、届書に裁判又は許可書の謄本を添付しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">届出事件について裁判又は官庁の許可を必要とするときは、届書に裁判の謄本若しくは裁判の内容を記載した書面であつて裁判所書記官が当該書面の内容が当該裁判の内容と同一であることを証明したもの又は許可書の謄本を添付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1446,14 +1446,14 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">認知の裁判が確定したときは、訴を提起した者は、裁判が確定した日から十日以内に、裁判の謄本を添附して、その旨を届け出なければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">認知の裁判が確定したときは、訴えを提起した者は、裁判が確定した日から十日以内に、裁判の謄本又は裁判の内容を記載した書面であつて裁判所書記官が当該書面の内容が当該裁判の内容と同一であることを証明したものを添付して、その旨を届け出なければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">その届書には、裁判が確定した日を記載しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">訴えを提起した者が前項の規定による届出をしないときは、その相手方は、裁判の謄本を添付して、認知の裁判が確定した旨を届け出ることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">訴えを提起した者が前項の規定による届出をしないときは、その相手方は、裁判の謄本又は裁判の内容を記載した書面であつて裁判所書記官が当該書面の内容が当該裁判の内容と同一であることを証明したものを添付して、認知の裁判が確定した旨を届け出ることができる。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合には、同項後段の規定を準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1644,12 +1644,12 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">離婚をしようとする者は、左の事項を届書に記載して、その旨を届け出なければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">離婚をしようとする者は、次に掲げる事項を届書に記載して、その旨を届け出なければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">親権者と定められる当事者の氏名及びその親権に服する子の氏名</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">親権者と定められる当事者の氏名（親権者の指定を求める家事審判又は家事調停の申立てがされている場合にあつては、その旨）及びその者が親権を行う子の氏名</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -1671,12 +1671,12 @@
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項に規定する離婚の届書には、左の事項をも記載しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する離婚の届書には、次に掲げる事項をも記載しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">親権者と定められた当事者の氏名及びその親権に服する子の氏名</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">親権者と定められた当事者の氏名及びその者が親権を行う子の氏名</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -1704,7 +1704,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">民法第八百十九条第三項但書又は第四項の規定によつて協議で親権者を定めようとする者は、その旨を届け出なければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">民法第八百十九条第三項ただし書又は第四項ただし書の規定によつて協議で親権者を定めようとする者は、その旨を届け出なければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1713,7 +1713,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十三条第一項の規定は、民法第八百十九条第三項ただし書若しくは第四項の協議に代わる審判が確定し、又は親権者変更の裁判が確定した場合において親権者に、親権喪失、親権停止又は管理権喪失の審判の取消しの裁判が確定した場合においてその裁判を請求した者について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条第一項の規定は、民法第八百十九条第三項ただし書若しくは第四項ただし書の協議に代わる審判が確定し、又は親権者変更の裁判が確定した場合において親権者に、親権喪失、親権停止又は管理権喪失の審判の取消しの裁判が確定した場合においてその裁判を請求した者について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2330,7 +2330,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前条の規定は、確定判決によつて就籍の届出をすべき場合にこれを準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合には、判決の謄本を届書に添附しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合には、判決の謄本又は判決の内容を記載した書面であつて裁判所書記官が当該書面の内容が当該判決の内容と同一であることを証明したものを届書に添付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2370,7 +2370,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二条の許可の裁判があつたときは、一箇月以内に、その謄本を添附して、戸籍の訂正を申請しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前二条の許可の裁判があつたときは、一箇月以内に、その謄本又は裁判の内容を記載した書面であつて裁判所書記官が当該書面の内容が当該裁判の内容と同一であることを証明したものを添付して、戸籍の訂正を申請しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2379,13 +2379,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">確定判決によつて戸籍の訂正をすべきときは、訴を提起した者は、判決が確定した日から一箇月以内に、判決の謄本を添附して、戸籍の訂正を申請しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">確定判決によつて戸籍の訂正をすべきときは、訴えを提起した者は、判決が確定した日から一箇月以内に、判決の謄本又は判決の内容を記載した書面であつて裁判所書記官が当該書面の内容が当該判決の内容と同一であることを証明したものを添付して、戸籍の訂正を申請しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">検察官が訴を提起した場合には、判決が確定した後に、遅滞なく戸籍の訂正を請求しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">検察官が訴えを提起した場合には、判決が確定した後に、遅滞なく戸籍の訂正を請求しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
