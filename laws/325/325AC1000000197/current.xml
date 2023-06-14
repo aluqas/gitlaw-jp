@@ -1488,7 +1488,7 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">会社法第八百二十四条、第八百二十六条、第八百六十八条第一項、第八百七十条第一項（第十号に係る部分に限る。）、第八百七十一条本文、第八百七十二条（第四号に係る部分に限る。）、第八百七十三条本文、第八百七十五条、第八百七十六条、第九百四条及び第九百三十七条第一項（第三号ロに係る部分に限る。）の規定は司法書士法人の解散の命令について、同法第八百二十五条、第八百六十八条第一項、第八百七十条第一項（第一号に係る部分に限る。）、第八百七十一条、第八百七十二条（第一号及び第四号に係る部分に限る。）、第八百七十三条、第八百七十四条（第二号及び第三号に係る部分に限る。）、第八百七十五条、第八百七十六条、第九百五条及び第九百六条の規定はこの項において準用する同法第八百二十四条第一項の申立てがあつた場合における司法書士法人の財産の保全について、それぞれ準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">会社法第八百二十四条、第八百二十六条、第八百六十八条第一項、第八百七十条第一項（第十号に係る部分に限る。）、第八百七十一条本文、第八百七十二条（第四号に係る部分に限る。）、第八百七十三条本文、第八百七十五条、第八百七十六条、第九百四条及び第九百三十七条第一項（第三号ロに係る部分に限る。）の規定は司法書士法人の解散の命令について、同法第八百二十五条、第八百六十八条第一項、第八百七十条第一項（第一号に係る部分に限る。）、第八百七十一条、第八百七十二条（第一号及び第四号に係る部分に限る。）、第八百七十三条、第八百七十四条（第二号及び第三号に係る部分に限る。）、第八百七十五条、第八百七十六条及び第九百五条から第九百六条の二までの規定はこの項において準用する同法第八百二十四条第一項の申立てがあつた場合における司法書士法人の財産の保全について、それぞれ準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -1615,7 +1615,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法務大臣は、司法書士に対して第四十七条各号に掲げる処分をしようとする場合においては、行政手続法第十五条第一項の通知を発送し、又は同条第三項前段の掲示をした後直ちに日本司法書士会連合会にその旨を通告しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、司法書士に対して第四十七条各号に掲げる処分をしようとする場合においては、行政手続法第十五条第一項の通知を発送し、又は同条第四項前段の措置をとつた後直ちに日本司法書士会連合会にその旨を通告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -3533,6 +3533,37 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条、第十三条及び第二十条の規定、第二十一条中内航海運業法第六条第一項第二号の改正規定、第二十三条、第二十九条、第三十一条、第三十二条、第三十六条及び第三十九条の規定、第四十一条中貨物自動車運送事業法第五条第二号の改正規定、第四十三条、第四十四条及び第四十九条の規定、第五十五条中民間事業者による信書の送達に関する法律第八条第二号の改正規定並びに第五十六条、第五十八条、第六十条、第六十二条及び第六十三条の規定並びに次条並びに附則第十条、第十二条及び第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

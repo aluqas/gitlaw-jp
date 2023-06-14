@@ -1059,7 +1059,7 @@
             <SectionTitle>第三節　特別清算の手続に関する特則</SectionTitle>
             <TOCSubsection Num="1">
               <SubsectionTitle>第一款　通則</SubsectionTitle>
-              <ArticleRange>（第八百七十九条―第八百八十七条）</ArticleRange>
+              <ArticleRange>（第八百七十九条―第八百八十七条の二）</ArticleRange>
             </TOCSubsection>
             <TOCSubsection Num="2">
               <SubsectionTitle>第二款　特別清算の開始の手続に関する特則</SubsectionTitle>
@@ -1080,7 +1080,7 @@
           </TOCSection>
           <TOCSection Num="5">
             <SectionTitle>第五節　会社の解散命令等の手続に関する特則</SectionTitle>
-            <ArticleRange>（第九百四条―第九百六条）</ArticleRange>
+            <ArticleRange>（第九百四条―第九百六条の二）</ArticleRange>
           </TOCSection>
         </TOCChapter>
         <TOCChapter Num="4">
@@ -2129,7 +2129,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の定款は、電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものとして法務省令で定めるものをいう。以下同じ。）をもって作成することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の定款は、電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものとして法務省令で定めるものをいう。第八百八十六条の二第三項、第八百八十六条の三及び第九百六条の二第三項を除き、以下同じ。）をもって作成することができる。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">この場合において、当該電磁的記録に記録された情報については、法務省令で定める署名又は記名押印に代わる措置をとらなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
@@ -22977,7 +22977,41 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">裁判所は、特別清算開始の命令があった場合において、債権者の一般の利益に適合し、かつ、担保権の実行の手続等（清算株式会社の財産につき存する担保権の実行の手続、企業担保権の実行の手続又は清算株式会社の財産に対して既にされている一般の先取特権その他一般の優先権がある債権に基づく強制執行の手続をいう。以下この条において同じ。）の申立人に不当な損害を及ぼすおそれがないものと認めるときは、清算人、監査役、債権者若しくは株主の申立てにより又は職権で、相当の期間を定めて、担保権の実行の手続等の中止を命ずることができる。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">裁判所は、特別清算開始の命令があった場合において、債権者の一般の利益に適合し、かつ、清算株式会社の財産につき担保権を有する者（次項及び第八百九十一条において「担保権者」という。）、企業担保権の実行の手続の申立人又は清算株式会社の財産に対して既にされている一般の先取特権その他一般の優先権がある債権に基づく強制執行の手続の申立人（同条において「一般先取特権者等」という。）に不当な損害を及ぼすおそれがないものと認めるときは、清算人、監査役、債権者若しくは株主の申立てにより又は職権で、相当の期間を定めて、当該担保権の実行の手続の中止（債権を目的とする質権の実行の禁止を含む。次項において同じ。）、当該企業担保権の実行の手続の中止又は当該強制執行の手続の中止を命ずることができる。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">前項の規定による中止の命令（清算株式会社の財産につき存する担保権の実行の手続の中止に係るものに限る。）は、担保権者に不当な損害を及ぼさないために必要な条件を付して発することができる。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="3">
+                  <ParagraphNum>３</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">債権を目的とする質権の実行を禁止する第一項の規定による中止の命令が発せられたときは、当該質権の被担保債権については、当該命令が効力を失った日の翌日から二月を経過する日までの間は、時効は、完成しない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Num="516_2">
+                <ArticleTitle>第五百十六条の二</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">裁判所が前条第一項の規定により債権を目的とする質権の実行の手続の中止（実行の禁止を含む。第八百九十一条第一項及び第二項において同じ。）を命じた場合には、第三債務者は、特別清算の関係においては、質権者に対してした弁済その他の債務を消滅させる行為の効力を主張することができない。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三債務者が、その行為の当時、その命令があったことを知っていたときに限る。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">前項本文に規定する場合（債権の目的物が金銭である場合に限る。）には、第三債務者は、債権の全額に相当する金銭を供託して、その債務を免れることができる。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="3">
+                  <ParagraphNum>３</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">前項の規定による供託がされたときは、同項の債権を目的とする質権を有していた質権者は、供託金につき質権者と同一の権利を有する。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -23156,7 +23190,7 @@
                   <ParagraphNum/>
                   <ParagraphSentence>
                     <Sentence Function="main" Num="1" WritingMode="vertical">特別清算開始の命令があった場合には、清算株式会社は、第四百九十二条第三項の承認があった後遅滞なく、財産目録等（同項に規定する財産目録等をいう。以下この条において同じ。）を裁判所に提出しなければならない。</Sentence>
-                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、財産目録等が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を記載した書面を裁判所に提出しなければならない。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、財産目録等が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を記載し、又は記録した書面又は電磁的記録を裁判所に提出しなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -37958,19 +37992,13 @@
                 </Paragraph>
               </Article>
               <Article Num="883">
-                <ArticleCaption>（裁判書の送達）</ArticleCaption>
+                <ArticleCaption>（電子裁判書の送達）</ArticleCaption>
                 <ArticleTitle>第八百八十三条</ArticleTitle>
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">この節の規定による裁判書の送達については、民事訴訟法第一編第五章第四節（第百条第二項、第百四条、第三款、第百十一条及び第百十三条を除く。）の規定を準用する。</Sentence>
-                    <Sentence Num="2" WritingMode="vertical">この場合において、同法第百十二条第一項本文中「前条の規定による措置を開始した」とあるのは「裁判所書記官が送達すべき裁判書を保管し、いつでも送達を受けるべき者に交付すべき旨の裁判所の掲示場への掲示を始めた」と、同項ただし書中「前条の規定による措置を開始した」とあるのは「当該掲示を始めた」と読み替えるものとする。</Sentence>
-                  </ParagraphSentence>
-                </Paragraph>
-                <Paragraph Num="2">
-                  <ParagraphNum>２</ParagraphNum>
-                  <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">前項において準用する民事訴訟法第百十条第一項の規定による公示送達は、裁判所書記官が送達すべき裁判書を保管し、いつでも送達を受けるべき者に交付すべき旨を裁判所の掲示場に掲示してする。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">この節の規定による電子裁判書（非訟事件手続法第五十七条第一項に規定する電子裁判書であって、同条第三項の規定によりファイルに記録されたものをいう。以下この節において同じ。）の送達については、民事訴訟法第一編第五章第四節（第百四条を除く。）の規定を準用する。</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">この場合において、同法第百九条の四第一項中「第百三十二条の十一第一項各号」とあるのは、「会社法第八百八十七条の二第二項の規定により読み替えて適用する非訟事件手続法第四十二条第一項において読み替えて準用する第百三十二条の十一第一項各号」と読み替えるものとする。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -38012,13 +38040,13 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、第二編第九章第二節若しくはこの節又は非訟事件手続法第二編（特別清算開始の命令があった場合にあっては、同章第一節若しくは第二節若しくは第一節（同章第一節の規定による申立てに係る事件に係る部分に限る。）若しくはこの節又は非訟事件手続法第二編）の規定（これらの規定において準用するこの法律その他の法律の規定を含む。）に基づき、裁判所に提出され、又は裁判所が作成した文書その他の物件（以下この条及び次条第一項において「文書等」という。）の閲覧を請求することができる。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、第二編第九章第二節若しくはこの節又は非訟事件手続法第二編（特別清算開始の命令があった場合にあっては、同章第一節若しくは第二節若しくは第一節（同章第一節の規定による申立てに係る事件に係る部分に限る。）若しくはこの節又は非訟事件手続法第二編。次条第一項において同じ。）の規定（これらの規定において準用するこの法律その他の法律の規定を含む。同項において同じ。）に基づき、裁判所に提出され、又は裁判所が作成した文書その他の物件（以下この条及び第八百八十七条第一項において「文書等」という。）の閲覧を請求することができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="2">
                   <ParagraphNum>２</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、文書等の謄写、その正本、謄本若しくは抄本の交付又は事件に関する事項の証明書の交付を請求することができる。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、文書等の謄写又はその正本、謄本若しくは抄本の交付を請求することができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="3">
@@ -38031,7 +38059,55 @@
                 <Paragraph Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Function="main" Num="1" WritingMode="vertical">前三項の規定にかかわらず、次の各号に掲げる者は、当該各号に定める命令、保全処分、処分又は裁判のいずれかがあるまでの間は、前三項の規定による請求をすることができない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">民事訴訟法第九十一条第五項の規定は、前三項の規定による請求について準用する。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Num="886_2">
+                <ArticleCaption>（ファイル記録事項の閲覧等）</ArticleCaption>
+                <ArticleTitle>第八百八十六条の二</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、最高裁判所規則で定めるところにより、第二編第九章第二節若しくはこの節又は非訟事件手続法第二編の規定に基づき裁判所の使用に係る電子計算機（入出力装置を含む。以下同じ。）に備えられたファイル（第九百六条の二第一項において単に「ファイル」という。）に記録された事項（以下この条及び第八百八十七条第六項において「ファイル記録事項」という。）の内容を最高裁判所規則で定める方法により表示したものの閲覧を請求することができる。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、ファイル記録事項について、最高裁判所規則で定めるところにより、最高裁判所規則で定める電子情報処理組織（裁判所の使用に係る電子計算機と手続の相手方の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。以下同じ。）を使用してその者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法による複写を請求することができる。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="3">
+                  <ParagraphNum>３</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、最高裁判所規則で定めるところにより、ファイル記録事項の全部若しくは一部を記載した書面であって裁判所書記官が最高裁判所規則で定める方法により当該書面の内容がファイル記録事項と同一であることを証明したものを交付し、又はファイル記録事項の全部若しくは一部を記録した電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下この項、次条及び第九百六条の二第三項において同じ。）であって裁判所書記官が最高裁判所規則で定める方法により当該電磁的記録の内容がファイル記録事項と同一であることを証明したものを最高裁判所規則で定める電子情報処理組織を使用してその者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法により提供することを請求することができる。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="4">
+                  <ParagraphNum>４</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">民事訴訟法第九十一条第五項の規定は、第一項及び第二項の規定による請求について準用する。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Num="886_3">
+                <ArticleCaption>（事件に関する事項の証明）</ArticleCaption>
+                <ArticleTitle>第八百八十六条の三</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、最高裁判所規則で定めるところにより、特別清算事件に関する事項を記載した書面であって裁判所書記官が最高裁判所規則で定める方法により当該事項を証明したものを交付し、又は当該事項を記録した電磁的記録であって裁判所書記官が最高裁判所規則で定める方法により当該事項を証明したものを最高裁判所規則で定める電子情報処理組織を使用してその者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法により提供することを請求することができる。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Num="886_4">
+                <ArticleCaption>（閲覧等の特則）</ArticleCaption>
+                <ArticleTitle>第八百八十六条の四</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">前三条の規定にかかわらず、次の各号に掲げる者は、当該各号に定める命令、保全処分、処分又は裁判のいずれかがあるまでの間は、これらの規定による請求をすることができない。</Sentence>
                     <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該者が特別清算開始の申立人である場合は、この限りでない。</Sentence>
                   </ParagraphSentence>
                   <Item Num="1">
@@ -38057,12 +38133,6 @@
                     </ItemSentence>
                   </Item>
                 </Paragraph>
-                <Paragraph Num="5">
-                  <ParagraphNum>５</ParagraphNum>
-                  <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">非訟事件手続法第三十二条第一項から第四項までの規定は、特別清算の手続には、適用しない。</Sentence>
-                  </ParagraphSentence>
-                </Paragraph>
               </Article>
               <Article Num="887">
                 <ArticleCaption>（支障部分の閲覧等の制限）</ArticleCaption>
@@ -38070,7 +38140,7 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">次に掲げる文書等について、利害関係人がその閲覧若しくは謄写、その正本、謄本若しくは抄本の交付又はその複製（以下この条において「閲覧等」という。）を行うことにより、清算株式会社の清算の遂行に著しい支障を生ずるおそれがある部分（以下この条において「支障部分」という。）があることにつき疎明があった場合には、裁判所は、当該文書等を提出した清算株式会社又は調査委員の申立てにより、支障部分の閲覧等の請求をすることができる者を、当該申立てをした者及び清算株式会社に限ることができる。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる文書等について、利害関係人がその閲覧若しくは謄写、その正本、謄本若しくは抄本の交付又はその複製（以下この項から第三項までにおいて「閲覧等」という。）を行うことにより、清算株式会社の清算の遂行に著しい支障を生ずるおそれがある部分（以下この項から第三項までにおいて「支障部分」という。）があることにつき疎明があった場合には、裁判所は、当該文書等を提出した清算株式会社又は調査委員の申立てにより、支障部分の閲覧等の請求をすることができる者を、当該申立てをした者及び清算株式会社に限ることができる。</Sentence>
                   </ParagraphSentence>
                   <Item Num="1">
                     <ItemTitle>一</ItemTitle>
@@ -38107,6 +38177,29 @@
                   <ParagraphNum>５</ParagraphNum>
                   <ParagraphSentence>
                     <Sentence Num="1" WritingMode="vertical">第一項の規定による決定を取り消す決定は、確定しなければその効力を生じない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="6">
+                  <ParagraphNum>６</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">前各項の規定は、ファイル記録事項について準用する。</Sentence>
+                    <Sentence Num="2" WritingMode="vertical">この場合において、第一項中「謄写、その正本、謄本若しくは抄本の交付又はその複製」とあるのは、「複写又はその内容の全部若しくは一部を証明した書面の交付若しくはその内容の全部若しくは一部を証明した電磁的記録の提供」と読み替えるものとする。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+              </Article>
+              <Article Num="887_2">
+                <ArticleCaption>（非訟事件手続法の適用関係）</ArticleCaption>
+                <ArticleTitle>第八百八十七条の二</ArticleTitle>
+                <Paragraph Num="1">
+                  <ParagraphNum/>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">非訟事件手続法第三十二条及び第三十二条の二の規定は、特別清算の手続には、適用しない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="2">
+                  <ParagraphNum>２</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">特別清算の手続についての非訟事件手続法第三十八条及び第四十二条第一項の規定の適用については、同法第三十八条中「非訟事件手続法」とあるのは「会社法第八百八十七条の二第二項の規定により読み替えて適用する非訟事件手続法」と、同法第四十二条第一項中「」とあるのは「非訟事件手続法第二十二条第一項ただし書」」とあるのは「の許可を得て訴訟代理人となったものを除く。）」とあるのは「非訟事件手続法第二十二条第一項ただし書の許可を得て手続代理人となったものを除く。）又は監督委員若しくは調査委員として選任を受けた者」と、「当該委任」とあるのは「当該委任又は選任」」とする。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -38165,7 +38258,7 @@
                 <Paragraph Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">第二項に規定する裁判及び同項の即時抗告についての裁判があった場合には、その裁判書を当事者に送達しなければならない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第二項に規定する裁判及び同項の即時抗告についての裁判があった場合には、その電子裁判書を当事者に送達しなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -38175,13 +38268,13 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">裁判所は、特別清算開始の命令をしたときは、直ちに、その旨を公告し、かつ、特別清算開始の命令の裁判書を清算株式会社に送達しなければならない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">裁判所は、特別清算開始の命令をしたときは、直ちに、その旨を公告し、かつ、特別清算開始の命令の電子裁判書を清算株式会社に送達しなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="2">
                   <ParagraphNum>２</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">特別清算開始の命令は、清算株式会社に対する裁判書の送達がされた時から、効力を生ずる。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">特別清算開始の命令は、清算株式会社に対する電子裁判書の送達がされた時から、効力を生ずる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="3">
@@ -38215,31 +38308,38 @@
                 <Paragraph Num="1">
                   <ParagraphNum/>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">裁判所は、第五百十六条の規定による中止の命令を発する場合には、同条に規定する担保権の実行の手続等の申立人の陳述を聴かなければならない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">裁判所は、第五百十六条第一項の規定による中止の命令（債権を目的とする質権の実行の手続の中止の命令を除く。）を発する場合には、担保権者、企業担保権の実行手続の申立人又は一般先取特権者等の陳述を聴かなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="2">
                   <ParagraphNum>２</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">裁判所は、前項の中止の命令を変更し、又は取り消すことができる。</Sentence>
+                    <Sentence Function="main" Num="1" WritingMode="vertical">裁判所は、第五百十六条第一項の規定による債権を目的とする質権の実行の手続の中止の命令を発した場合には、速やかに、質権者の陳述を聴かなければならない。</Sentence>
+                    <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、あらかじめ質権者の陳述を聴いたときは、この限りでない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="3">
                   <ParagraphNum>３</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">第一項の中止の命令及び前項の規定による変更の決定に対しては、第一項の申立人に限り、即時抗告をすることができる。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">裁判所は、前二項の中止の命令を変更し、又は取り消すことができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">前項の即時抗告は、執行停止の効力を有しない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第一項及び第二項の中止の命令並びに前項の規定による変更の決定に対しては、担保権者、企業担保権の実行手続の申立人又は一般先取特権者等に限り、即時抗告をすることができる。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="5">
                   <ParagraphNum>５</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">第三項に規定する裁判及び同項の即時抗告についての裁判があった場合には、その裁判書を当事者に送達しなければならない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前項の即時抗告は、執行停止の効力を有しない。</Sentence>
+                  </ParagraphSentence>
+                </Paragraph>
+                <Paragraph Num="6">
+                  <ParagraphNum>６</ParagraphNum>
+                  <ParagraphSentence>
+                    <Sentence Num="1" WritingMode="vertical">第四項に規定する裁判及び同項の即時抗告についての裁判があった場合には、その電子裁判書を当事者に送達しなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -38270,7 +38370,7 @@
                 <Paragraph Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">第二項に規定する裁判及び同項の即時抗告についての裁判があった場合には、その裁判書を当事者に送達しなければならない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第二項に規定する裁判及び同項の即時抗告についての裁判があった場合には、その電子裁判書を当事者に送達しなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -38356,7 +38456,7 @@
                 <Paragraph Num="2">
                   <ParagraphNum>２</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">前項の裁判及び同項の即時抗告についての裁判があった場合には、その裁判書を当事者に送達しなければならない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前項の裁判及び同項の即時抗告についての裁判があった場合には、その電子裁判書を当事者に送達しなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
               </Article>
@@ -38408,7 +38508,7 @@
                 <Paragraph Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">第二項に規定する裁判及び同項の即時抗告についての裁判があった場合には、その裁判書を当事者に送達しなければならない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第二項に規定する裁判及び同項の即時抗告についての裁判があった場合には、その電子裁判書を当事者に送達しなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="5">
@@ -38443,7 +38543,7 @@
                 <Paragraph Num="4">
                   <ParagraphNum>４</ParagraphNum>
                   <ParagraphSentence>
-                    <Sentence Num="1" WritingMode="vertical">役員等責任査定決定があった場合には、その裁判書を当事者に送達しなければならない。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">役員等責任査定決定があった場合には、その電子裁判書を当事者に送達しなければならない。</Sentence>
                   </ParagraphSentence>
                 </Paragraph>
                 <Paragraph Num="5">
@@ -38623,6 +38723,33 @@
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">民事訴訟法第九十一条第五項の規定は、第一項の資料について準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="906_2">
+              <ArticleTitle>第九百六条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、最高裁判所規則で定めるところにより、第八百二十五条第六項（第八百二十七条第二項において準用する場合を含む。）の報告又は計算に関しファイルに記録された事項（以下この条において「報告等記録事項」という。）の内容を最高裁判所規則で定める方法により表示したものの閲覧を請求することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、報告等記録事項について、最高裁判所規則で定めるところにより、最高裁判所規則で定める電子情報処理組織を使用してその者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法による複写を請求することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">利害関係人は、裁判所書記官に対し、最高裁判所規則で定めるところにより、報告等記録事項の全部若しくは一部を記載した書面であって裁判所書記官が最高裁判所規則で定める方法により当該書面の内容が報告等記録事項と同一であることを証明したものを交付し、又は報告等記録事項の全部若しくは一部を記録した電磁的記録であって裁判所書記官が最高裁判所規則で定める方法により当該電磁的記録の内容が報告等記録事項と同一であることを証明したものを最高裁判所規則で定める電子情報処理組織を使用してその者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法により提供することを請求することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第四項及び民事訴訟法第九十一条第五項の規定は、報告等記録事項について準用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -40800,13 +40927,13 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">法務大臣は、第九百四十二条第一項の規定により登録を申請した者が、次に掲げる要件のすべてに適合しているときは、その登録をしなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法務大臣は、第九百四十二条第一項の規定により登録を申請した者が、次に掲げる要件の全てに適合しているときは、その登録をしなければならない。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">この場合において、登録に関して必要な手続は、法務省令で定める。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">電子公告調査に必要な電子計算機（入出力装置を含む。以下この号において同じ。）及びプログラム（電子計算機に対する指令であって、一の結果を得ることができるように組み合わされたものをいう。以下この号において同じ。）であって次に掲げる要件のすべてに適合するものを用いて電子公告調査を行うものであること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">電子公告調査に必要な電子計算機及びプログラム（電子計算機に対する指令であって、一の結果を得ることができるように組み合わされたものをいう。以下この号において同じ。）であって次に掲げる要件の全てに適合するものを用いて電子公告調査を行うものであること。</Sentence>
                   </ItemSentence>
                   <Subitem1 Num="1">
                     <Subitem1Title>イ</Subitem1Title>
