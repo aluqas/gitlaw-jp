@@ -1047,8 +1047,13 @@
           <Paragraph Num="2" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">開始決定ニハ申立人ノ名称、住所及第四十三条第二項第一号乃至第四号ニ掲ケタル事項ヲ記載シ決定ヲ為シタル裁判官之ニ署名捺印スヘシ</Sentence>
-              <Sentence Num="2" WritingMode="vertical">但シ署名捺印ニ代ヘテ記名捺印スルコトヲ得</Sentence>
+              <Sentence Num="1" WritingMode="vertical">開始決定ハ電子決定書（民事執行法第二十条ニ於テ準用スル民事訴訟法（平成八年法律第百九号）第百二十二条ニ於テ準用スル同法第二百五十二条第一項ノ規定ニ依リ作成セラレタル電磁的記録ヲ謂フ）ヲ作成シ之ヲ為スベシ</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項ニ規定スル電子決定書ニハ申立人ノ名称、住所及第四十三条第二項第一号乃至第四号ニ掲ケタル事項ヲ記録スベシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1125,7 +1130,7 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">執行記録ヲ閲覧シ得ヘキ場所</Sentence>
+                <Sentence Num="1" WritingMode="vertical">事件ノ記録ノ閲覧ヲ請求スベキ裁判所書記官ノ属スル裁判所</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1237,7 +1242,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判所ハ競売ニ関スル調書ヲ作成シ左ノ事項ヲ記載スヘシ</Sentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所ハ最高裁判所規則ノ定ムル所ニ依リ競売ニ関スル電子調書（期日又ハ期日外ニ於ケル手続ノ方式、内容及経過等ノ記録及公証ノ為ニ此ノ法律其ノ他ノ法令ノ規定ニ依リ裁判所ガ作成シタル電磁的記録ヲ謂フ以下同ジ）ヲ作成シ左ノ事項ヲ記録スベシ</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1269,6 +1274,12 @@
                 <Sentence Num="1" WritingMode="vertical">競売ノ終局ヲ告知シタル日時並最高価競買人ノ名称及其ノ競買価額</Sentence>
               </ItemSentence>
             </Item>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所ハ前項ノ規定ニ依リ電子調書ヲ作成シタルトキハ最高裁判所規則ノ定ムル所ニ依リ之ヲファイルニ記録スベシ</Sentence>
+            </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="59">
@@ -1342,7 +1353,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判所ハ競落ニ関スル調書ヲ作成スヘシ</Sentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所ハ競落ニ関スル電子調書ヲ作成シ最高裁判所規則ノ定ムル所ニ依リ之ヲファイルニ記録スベシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1351,7 +1362,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">競落ヲ許ス決定カ確定シタルトキハ裁判所ハ其ノ決定ノ謄本ヲ国土交通大臣ニ送付スヘシ</Sentence>
+              <Sentence Num="1" WritingMode="vertical">競落ヲ許ス決定カ確定シタルトキハ裁判所ハ其ノ決定ノ記録事項証明書ヲ国土交通大臣ニ送付スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1568,7 +1579,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">強制管理開始ノ決定確定シタルトキハ裁判所ハ其ノ決定ノ謄本ヲ国土交通大臣ニ送付スヘシ</Sentence>
+              <Sentence Num="1" WritingMode="vertical">強制管理開始ノ決定確定シタルトキハ裁判所ハ其ノ決定ノ記録事項証明書ヲ国土交通大臣ニ送付スヘシ</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1577,7 +1588,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条決定ノ謄本ノ送付アリタルトキハ国土交通大臣ハ一人又ハ数人ノ管理人ヲ選任スヘシ</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前条決定ノ記録事項証明書ノ送付アリタルトキハ国土交通大臣ハ一人又ハ数人ノ管理人ヲ選任スヘシ</Sentence>
               <Sentence Num="2" WritingMode="vertical">但シ強制管理ノ申立人ハ適当ノ人ヲ推薦スルコトヲ得</Sentence>
             </ParagraphSentence>
           </Paragraph>
