@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="127" Year="26" PromulgateMonth="11" PromulgateDay="27"><LawNum>平成二十六年法律第百二十七号</LawNum><LawBody><LawTitle Kana="あきやとうたいさくのすいしんにかんするとくべつそちほう" Abbrev="空家特措法" AbbrevKana="あ">空家等対策の推進に関する特別措置法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　空家等の調査</ChapterTitle>
+        <ArticleRange>（第九条―第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　空家等の適切な管理に係る措置</ChapterTitle>
+        <ArticleRange>（第十二条―第十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　空家等の活用に係る措置</ChapterTitle>
+        <ArticleRange>（第十五条―第二十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　特定空家等に対する措置</ChapterTitle>
+        <ArticleRange>（第二十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　空家等管理活用支援法人</ChapterTitle>
+        <ArticleRange>（第二十三条―第二十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　雑則</ChapterTitle>
+        <ArticleRange>（第二十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="8">
+        <ChapterTitle>第八章　罰則</ChapterTitle>
+        <ArticleRange>（第三十条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、適切な管理が行われていない空家等が防災、衛生、景観等の地域住民の生活環境に深刻な影響を及ぼしていることに鑑み、地域住民の生命、身体又は財産を保護するとともに、その生活環境の保全を図り、あわせて空家等の活用を促進するため、空家等に関する施策に関し、国による基本指針の策定、市町村（特別区を含む。第十条第二項を除き、以下同じ。）による空家等対策計画の作成その他の空家等に関する施策を推進するために必要な事項を定めることにより、空家等に関する施策を総合的かつ計画的に推進し、もって公共の福祉の増進と地域の振興に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">この法律において「空家等」とは、建築物又はこれに附属する工作物であって居住その他の使用がなされていないことが常態であるもの及びその敷地（立木その他の土地に定着する物を含む。第十四条第二項において同じ。）をいう。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、国又は地方公共団体が所有し、又は管理するものを除く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定空家等」とは、そのまま放置すれば倒壊等著しく保安上危険となるおそれのある状態又は著しく衛生上有害となるおそれのある状態、適切な管理が行われていないことにより著しく景観を損なっている状態その他周辺の生活環境の保全を図るために放置することが不適切である状態にあると認められる空家等をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（国の責務）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、空家等に関する施策を総合的に策定し、及び実施する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、地方公共団体その他の者が行う空家等に関する取組のために必要となる情報の収集及び提供その他の支援を行うよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、広報活動、啓発活動その他の活動を通じて、空家等の適切な管理及びその活用の促進に関し、国民の理解を深めるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（地方公共団体の責務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、第七条第一項に規定する空家等対策計画の作成及びこれに基づく空家等に関する対策の実施その他の空家等に関して必要な措置を適切に講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、第七条第一項に規定する空家等対策計画の作成及び変更並びに実施その他空家等に関しこの法律に基づき市町村が講ずる措置について、当該市町村に対する情報の提供及び技術的な助言、市町村相互間の連絡調整その他必要な援助を行うよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（空家等の所有者等の責務）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">空家等の所有者又は管理者（以下「所有者等」という。）は、周辺の生活環境に悪影響を及ぼさないよう、空家等の適切な管理に努めるとともに、国又は地方公共団体が実施する空家等に関する施策に協力するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（基本指針）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣及び総務大臣は、空家等に関する施策を総合的かつ計画的に実施するための基本的な指針（以下「基本指針」という。）を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基本指針においては、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">空家等に関する施策の実施に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次条第一項に規定する空家等対策計画に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">所有者等による空家等の適切な管理について指針となるべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他空家等に関する施策を総合的かつ計画的に実施するために必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣及び総務大臣は、基本指針を定め、又はこれを変更するときは、あらかじめ、関係行政機関の長に協議するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣及び総務大臣は、基本指針を定め、又はこれを変更したときは、遅滞なく、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（空家等対策計画）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、その区域内で空家等に関する対策を総合的かつ計画的に実施するため、基本指針に即して、空家等に関する対策についての計画（以下「空家等対策計画」という。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">空家等対策計画においては、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">空家等に関する対策の対象とする地区及び対象とする空家等の種類その他の空家等に関する対策に関する基本的な方針</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">計画期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">空家等の調査に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">所有者等による空家等の適切な管理の促進に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">空家等及び除却した空家等に係る跡地（以下「空家等の跡地」という。）の活用の促進に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定空家等に対する措置（第二十二条第一項の規定による助言若しくは指導、同条第二項の規定による勧告、同条第三項の規定による命令又は同条第九項から第十一項までの規定による代執行をいう。以下同じ。）その他の特定空家等への対処に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">住民等からの空家等に関する相談への対応に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">空家等に関する対策の実施体制に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他空家等に関する対策の実施に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項第五号に掲げる事項には、次に掲げる区域内の区域であって、当該区域内の空家等の数及びその分布の状況、その活用の状況その他の状況からみて当該区域における経済的社会的活動の促進のために当該区域内の空家等及び空家等の跡地の活用が必要となると認められる区域（以下「空家等活用促進区域」という。）並びに当該空家等活用促進区域における空家等及び空家等の跡地の活用の促進を図るための指針（以下「空家等活用促進指針」という。）に関する事項を定めることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">中心市街地の活性化に関する法律（平成十年法律第九十二号）第二条に規定する中心市街地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">地域再生法（平成十七年法律第二十四号）第五条第四項第八号に規定する地域再生拠点</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">地域再生法第五条第四項第十一号に規定する地域住宅団地再生区域</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">地域における歴史的風致の維持及び向上に関する法律（平成二十年法律第四十号）第二条第二項に規定する重点区域</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、市町村における経済的社会的活動の拠点としての機能を有する区域として国土交通省令・総務省令で定める区域</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">空家等活用促進指針には、おおむね次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">空家等活用促進区域における空家等及び空家等の跡地の活用に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">空家等活用促進区域における経済的社会的活動の促進のために活用することが必要な空家等の種類及び当該空家等について誘導すべき用途（第十六条第一項及び第十八条において「誘導用途」という。）に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、空家等活用促進区域における空家等及び空家等の跡地の活用を通じた経済的社会的活動の促進に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">空家等活用促進指針には、前項各号に掲げる事項のほか、特例適用建築物（空家等活用促進区域内の空家等に該当する建築物（建築基準法（昭和二十五年法律第二百一号）第二条第一号に規定する建築物をいう。以下この項及び第九項において同じ。）又は空家等の跡地に新築する建築物をいう。次項及び第十項において同じ。）について第十七条第一項の規定により読み替えて適用する同法第四十三条第二項（第一号に係る部分に限る。次項において同じ。）の規定又は第十七条第二項の規定により読み替えて適用する同法第四十八条第一項から第十三項まで（これらの規定を同法第八十七条第二項又は第三項において準用する場合を含む。第九項において同じ。）の規定のただし書の規定の適用を受けるための要件に関する事項を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の第十七条第一項の規定により読み替えて適用する建築基準法第四十三条第二項の規定の適用を受けるための要件（第九項及び第十七条第一項において「敷地特例適用要件」という。）は、特例適用建築物（その敷地が幅員一・八メートル以上四メートル未満の道（同法第四十三条第一項に規定する道路に該当するものを除く。）に二メートル以上接するものに限る。）について、避難及び通行の安全上支障がなく、かつ、空家等活用促進区域内における経済的社会的活動の促進及び市街地の環境の整備改善に資するものとして国土交通省令で定める基準を参酌して定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、第三項に規定する事項を定めるときは、あらかじめ、当該空家等活用促進区域内の住民の意見を反映させるために必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村（地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市及び同法第二百五十二条の二十二第一項の中核市を除く。）は、第三項に規定する事項を定める場合において、市街化調整区域（都市計画法（昭和四十三年法律第百号）第七条第一項に規定する市街化調整区域をいう。第十八条第一項において同じ。）の区域を含む空家等活用促進区域を定めるときは、あらかじめ、当該空家等活用促進区域の区域及び空家等活用促進指針に定める事項について、都道府県知事と協議をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、空家等活用促進指針に敷地特例適用要件に関する事項又は第五項の第十七条第二項の規定により読み替えて適用する建築基準法第四十八条第一項から第十三項までの規定のただし書の規定の適用を受けるための要件（以下「用途特例適用要件」という。）に関する事項を記載するときは、あらかじめ、当該事項について、当該空家等活用促進区域内の建築物について建築基準法第四十三条第二項第一号の規定による認定又は同法第四十八条第一項から第十三項まで（これらの規定を同法第八十七条第二項又は第三項において準用する場合を含む。第十七条第二項において同じ。）の規定のただし書の規定による許可の権限を有する特定行政庁（同法第二条第三十五号に規定する特定行政庁をいう。以下この項及び次項において同じ。）と協議をしなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、用途特例適用要件に関する事項については、当該特定行政庁の同意を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により用途特例適用要件に関する事項について協議を受けた特定行政庁は、特例適用建築物を用途特例適用要件に適合する用途に供することが空家等活用促進区域における経済的社会的活動の促進のためにやむを得ないものであると認めるときは、同項の同意をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">空家等対策計画（第三項に規定する事項が定められたものに限る。第十六条第一項及び第十八条第一項において同じ。）は、都市計画法第六条の二の都市計画区域の整備、開発及び保全の方針及び同法第十八条の二の市町村の都市計画に関する基本的な方針との調和が保たれたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="12">
+            <ParagraphNum>１２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、空家等対策計画を定めたときは、遅滞なく、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="13">
+            <ParagraphNum>１３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、都道府県知事に対し、空家等対策計画の作成及び実施に関し、情報の提供、技術的な助言その他必要な援助を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="14">
+            <ParagraphNum>１４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七項から前項までの規定は、空家等対策計画の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（協議会）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、空家等対策計画の作成及び変更並びに実施に関する協議を行うための協議会（以下この条において「協議会」という。）を組織することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">協議会は、市町村長（特別区の区長を含む。以下同じ。）のほか、地域住民、市町村の議会の議員、法務、不動産、建築、福祉、文化等に関する学識経験者その他の市町村長が必要と認める者をもって構成する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、協議会の運営に関し必要な事項は、協議会が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　空家等の調査</ChapterTitle>
+        <Article Num="9">
+          <ArticleCaption>（立入調査等）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、当該市町村の区域内にある空家等の所在及び当該空家等の所有者等を把握するための調査その他空家等に関しこの法律の施行のために必要な調査を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、第二十二条第一項から第三項までの規定の施行に必要な限度において、空家等の所有者等に対し、当該空家等に関する事項に関し報告させ、又はその職員若しくはその委任した者に、空家等と認められる場所に立ち入って調査をさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">市町村長は、前項の規定により当該職員又はその委任した者を空家等と認められる場所に立ち入らせようとするときは、その五日前までに、当該空家等の所有者等にその旨を通知しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該所有者等に対し通知することが困難であるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項の規定により空家等と認められる場所に立ち入ろうとする者は、その身分を示す証明書を携帯し、関係者の請求があったときは、これを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項の規定による立入調査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（空家等の所有者等に関する情報の利用等）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、固定資産税の課税その他の事務のために利用する目的で保有する情報であって氏名その他の空家等の所有者等に関するものについては、この法律の施行のために必要な限度において、その保有に当たって特定された利用の目的以外の目的のために内部で利用することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都知事は、固定資産税の課税その他の事務で市町村が処理するものとされているもののうち特別区の存する区域においては都が処理するものとされているもののために利用する目的で都が保有する情報であって、特別区の区域内にある空家等の所有者等に関するものについて、当該特別区の区長から提供を求められたときは、この法律の施行のために必要な限度において、速やかに当該情報の提供を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、市町村長は、この法律の施行のために必要があるときは、関係する地方公共団体の長、空家等に工作物を設置している者その他の者に対して、空家等の所有者等の把握に関し必要な情報の提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（空家等に関するデータベースの整備等）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、空家等（建築物を販売し、又は賃貸する事業を行う者が販売し、又は賃貸するために所有し、又は管理するもの（周辺の生活環境に悪影響を及ぼさないよう適切に管理されているものに限る。）を除く。以下この条、次条及び第十五条において同じ。）に関するデータベースの整備その他空家等に関する正確な情報を把握するために必要な措置を講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　空家等の適切な管理に係る措置</ChapterTitle>
+        <Article Num="12">
+          <ArticleCaption>（所有者等による空家等の適切な管理の促進）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、所有者等による空家等の適切な管理を促進するため、これらの者に対し、情報の提供、助言その他必要な援助を行うよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（適切な管理が行われていない空家等の所有者等に対する措置）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、空家等が適切な管理が行われていないことによりそのまま放置すれば特定空家等に該当することとなるおそれのある状態にあると認めるときは、当該状態にあると認められる空家等（以下「管理不全空家等」という。）の所有者等に対し、基本指針（第六条第二項第三号に掲げる事項に係る部分に限る。）に即し、当該管理不全空家等が特定空家等に該当することとなることを防止するために必要な措置をとるよう指導をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、前項の規定による指導をした場合において、なお当該管理不全空家等の状態が改善されず、そのまま放置すれば特定空家等に該当することとなるおそれが大きいと認めるときは、当該指導をした者に対し、修繕、立木竹の伐採その他の当該管理不全空家等が特定空家等に該当することとなることを防止するために必要な具体的な措置について勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（空家等の管理に関する民法の特例）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、空家等につき、その適切な管理のため特に必要があると認めるときは、家庭裁判所に対し、民法（明治二十九年法律第八十九号）第二十五条第一項の規定による命令又は同法第九百五十二条第一項の規定による相続財産の清算人の選任の請求をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、空家等（敷地を除く。）につき、その適切な管理のため特に必要があると認めるときは、地方裁判所に対し、民法第二百六十四条の八第一項の規定による命令の請求をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、管理不全空家等又は特定空家等につき、その適切な管理のため特に必要があると認めるときは、地方裁判所に対し、民法第二百六十四条の九第一項又は第二百六十四条の十四第一項の規定による命令の請求をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　空家等の活用に係る措置</ChapterTitle>
+        <Article Num="15">
+          <ArticleCaption>（空家等及び空家等の跡地の活用等）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、空家等及び空家等の跡地（土地を販売し、又は賃貸する事業を行う者が販売し、又は賃貸するために所有し、又は管理するものを除く。）に関する情報の提供その他これらの活用のために必要な対策を講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（空家等の活用に関する計画作成市町村の要請等）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">空家等対策計画を作成した市町村（以下「計画作成市町村」という。）の長は、空家等活用促進区域内の空家等（第七条第四項第二号に規定する空家等の種類に該当するものに限る。以下この条において同じ。）について、当該空家等活用促進区域内の経済的社会的活動の促進のために必要があると認めるときは、当該空家等の所有者等に対し、当該空家等について空家等活用促進指針に定められた誘導用途に供するために必要な措置を講ずることを要請することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">計画作成市町村の長は、前項の規定による要請をした場合において、必要があると認めるときは、その要請を受けた空家等の所有者等に対し、当該空家等に関する権利の処分についてのあっせんその他の必要な措置を講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（建築基準法の特例）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">空家等対策計画（敷地特例適用要件に関する事項が定められたものに限る。）が第七条第十二項（同条第十四項において準用する場合を含む。）の規定により公表されたときは、当該公表の日以後は、同条第六項に規定する特例適用建築物に対する建築基準法第四十三条第二項第一号の規定の適用については、同号中「、利用者」とあるのは「利用者」と、「適合するもので」とあるのは「適合するもの又は空家等対策の推進に関する特別措置法（平成二十六年法律第百二十七号）第七条第十二項（同条第十四項において準用する場合を含む。）の規定により公表された同条第一項に規定する空家等対策計画に定められた同条第六項に規定する敷地特例適用要件に適合する同項に規定する特例適用建築物で」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">空家等対策計画（用途特例適用要件に関する事項が定められたものに限る。）が第七条第十二項（同条第十四項において準用する場合を含む。）の規定により公表されたときは、当該公表の日以後は、同条第五項に規定する特例適用建築物に対する建築基準法第四十八条第一項から第十三項までの規定の適用については、同条第一項から第十一項まで及び第十三項の規定のただし書の規定中「特定行政庁が」とあるのは「特定行政庁が、」と、「認め、」とあるのは「認めて許可した場合」と、同条第一項ただし書中「公益上やむを得ない」とあるのは「空家等対策の推進に関する特別措置法（平成二十六年法律第百二十七号）第七条第十二項（同条第十四項において準用する場合を含む。）の規定により公表された同条第一項に規定する空家等対策計画に定められた同条第九項に規定する用途特例適用要件（以下この条において「特例適用要件」という。）に適合すると認めて許可した場合その他公益上やむを得ない」と、同条第二項から第十一項まで及び第十三項の規定のただし書の規定中「公益上やむを得ない」とあるのは「特例適用要件に適合すると認めて許可した場合その他公益上やむを得ない」と、同条第十二項ただし書中「特定行政庁が」とあるのは「特定行政庁が、特例適用要件に適合すると認めて許可した場合その他」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（空家等の活用の促進についての配慮）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第七条第十二項（同条第十四項において準用する場合を含む。）の規定により公表された空家等対策計画に記載された空家等活用促進区域（市街化調整区域に該当する区域に限る。）内の空家等に該当する建築物（都市計画法第四条第十項に規定する建築物をいう。以下この項において同じ。）について、当該建築物を誘導用途に供するため同法第四十二条第一項ただし書又は第四十三条第一項の許可（いずれも当該建築物の用途の変更に係るものに限る。）を求められたときは、第七条第八項の協議の結果を踏まえ、当該建築物の誘導用途としての活用の促進が図られるよう適切な配慮をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、国の行政機関の長又は都道府県知事は、同項に規定する空家等対策計画に記載された空家等活用促進区域内の空家等について、当該空家等を誘導用途に供するため農地法（昭和二十七年法律第二百二十九号）その他の法律の規定による許可その他の処分を求められたときは、当該空家等の活用の促進が図られるよう適切な配慮をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（地方住宅供給公社の業務の特例）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方住宅供給公社は、地方住宅供給公社法（昭和四十年法律第百二十四号）第二十一条に規定する業務のほか、空家等活用促進区域内において、計画作成市町村からの委託に基づき、空家等の活用のために行う改修、当該改修後の空家等の賃貸その他の空家等の活用に関する業務を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により地方住宅供給公社が同項に規定する業務を行う場合における地方住宅供給公社法第四十九条の規定の適用については、同条第三号中「第二十一条に規定する業務」とあるのは、「第二十一条に規定する業務及び空家等対策の推進に関する特別措置法（平成二十六年法律第百二十七号）第十九条第一項に規定する業務」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（独立行政法人都市再生機構の行う調査等業務）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">独立行政法人都市再生機構は、独立行政法人都市再生機構法（平成十五年法律第百号）第十一条第一項に規定する業務のほか、計画作成市町村からの委託に基づき、空家等活用促進区域内における空家等及び空家等の跡地の活用により地域における経済的社会的活動の促進を図るために必要な調査、調整及び技術の提供の業務を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（独立行政法人住宅金融支援機構の行う援助）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">独立行政法人住宅金融支援機構は、独立行政法人住宅金融支援機構法（平成十七年法律第八十二号）第十三条第一項に規定する業務のほか、市町村又は第二十三条第一項に規定する空家等管理活用支援法人からの委託に基づき、空家等及び空家等の跡地の活用の促進に必要な資金の融通に関する情報の提供その他の援助を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　特定空家等に対する措置</ChapterTitle>
+        <Article Num="22">
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、特定空家等の所有者等に対し、当該特定空家等に関し、除却、修繕、立木竹の伐採その他周辺の生活環境の保全を図るために必要な措置（そのまま放置すれば倒壊等著しく保安上危険となるおそれのある状態又は著しく衛生上有害となるおそれのある状態にない特定空家等については、建築物の除却を除く。次項において同じ。）をとるよう助言又は指導をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、前項の規定による助言又は指導をした場合において、なお当該特定空家等の状態が改善されないと認めるときは、当該助言又は指導を受けた者に対し、相当の猶予期限を付けて、除却、修繕、立木竹の伐採その他周辺の生活環境の保全を図るために必要な措置をとることを勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、前項の規定による勧告を受けた者が正当な理由がなくてその勧告に係る措置をとらなかった場合において、特に必要があると認めるときは、その者に対し、相当の猶予期限を付けて、その勧告に係る措置をとることを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、前項の措置を命じようとする場合においては、あらかじめ、その措置を命じようとする者に対し、その命じようとする措置及びその事由並びに意見書の提出先及び提出期限を記載した通知書を交付して、その措置を命じようとする者又はその代理人に意見書及び自己に有利な証拠を提出する機会を与えなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の通知書の交付を受けた者は、その交付を受けた日から五日以内に、市町村長に対し、意見書の提出に代えて公開による意見の聴取を行うことを請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、前項の規定による意見の聴取の請求があった場合においては、第三項の措置を命じようとする者又はその代理人の出頭を求めて、公開による意見の聴取を行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、前項の規定による意見の聴取を行う場合においては、第三項の規定によって命じようとする措置並びに意見の聴取の期日及び場所を、期日の三日前までに、前項に規定する者に通知するとともに、これを公告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六項に規定する者は、意見の聴取に際して、証人を出席させ、かつ、自己に有利な証拠を提出することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、第三項の規定により必要な措置を命じた場合において、その措置を命ぜられた者がその措置を履行しないとき、履行しても十分でないとき又は履行しても同項の期限までに完了する見込みがないときは、行政代執行法（昭和二十三年法律第四十三号）の定めるところに従い、自ら義務者のなすべき行為をし、又は第三者をしてこれをさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三項の規定により必要な措置を命じようとする場合において、過失がなくてその措置を命ぜられるべき者（以下この項及び次項において「命令対象者」という。）を確知することができないとき（過失がなくて第一項の助言若しくは指導又は第二項の勧告が行われるべき者を確知することができないため第三項に定める手続により命令を行うことができないときを含む。）は、市町村長は、当該命令対象者の負担において、その措置を自ら行い、又はその命じた者若しくは委任した者（以下この項及び次項において「措置実施者」という。）にその措置を行わせることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、市町村長は、その定めた期限内に命令対象者においてその措置を行うべき旨及びその期限までにその措置を行わないときは市町村長又は措置実施者がその措置を行い、当該措置に要した費用を徴収する旨を、あらかじめ公告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、災害その他非常の場合において、特定空家等が保安上著しく危険な状態にある等当該特定空家等に関し緊急に除却、修繕、立木竹の伐採その他周辺の生活環境の保全を図るために必要な措置をとる必要があると認めるときで、第三項から第八項までの規定により当該措置をとることを命ずるいとまがないときは、これらの規定にかかわらず、当該特定空家等に係る命令対象者の負担において、その措置を自ら行い、又は措置実施者に行わせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="12">
+            <ParagraphNum>１２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定により負担させる費用の徴収については、行政代執行法第五条及び第六条の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="13">
+            <ParagraphNum>１３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、第三項の規定による命令をした場合においては、標識の設置その他国土交通省令・総務省令で定める方法により、その旨を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="14">
+            <ParagraphNum>１４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の標識は、第三項の規定による命令に係る特定空家等に設置することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、当該特定空家等の所有者等は、当該標識の設置を拒み、又は妨げてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="15">
+            <ParagraphNum>１５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三項の規定による命令については、行政手続法（平成五年法律第八十八号）第三章（第十二条及び第十四条を除く。）の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="16">
+            <ParagraphNum>１６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣及び総務大臣は、特定空家等に対する措置に関し、その適切な実施を図るために必要な指針を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="17">
+            <ParagraphNum>１７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前各項に定めるもののほか、特定空家等に対する措置に関し必要な事項は、国土交通省令・総務省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　空家等管理活用支援法人</ChapterTitle>
+        <Article Num="23">
+          <ArticleCaption>（空家等管理活用支援法人の指定）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、特定非営利活動促進法（平成十年法律第七号）第二条第二項に規定する特定非営利活動法人、一般社団法人若しくは一般財団法人又は空家等の管理若しくは活用を図る活動を行うことを目的とする会社であって、次条各号に掲げる業務を適正かつ確実に行うことができると認められるものを、その申請により、空家等管理活用支援法人（以下「支援法人」という。）として指定することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、前項の規定による指定をしたときは、当該支援法人の名称又は商号、住所及び事務所又は営業所の所在地を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、その名称若しくは商号、住所又は事務所若しくは営業所の所在地を変更するときは、あらかじめ、その旨を市町村長に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、前項の規定による届出があったときは、当該届出に係る事項を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleCaption>（支援法人の業務）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、次に掲げる業務を行うものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">空家等の所有者等その他空家等の管理又は活用を行おうとする者に対し、当該空家等の管理又は活用の方法に関する情報の提供又は相談その他の当該空家等の適切な管理又はその活用を図るために必要な援助を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">委託に基づき、定期的な空家等の状態の確認、空家等の活用のために行う改修その他の空家等の管理又は活用のため必要な事業又は事務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">委託に基づき、空家等の所有者等の探索を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">空家等の管理又は活用に関する調査研究を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">空家等の管理又は活用に関する普及啓発を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、空家等の管理又は活用を図るために必要な事業又は事務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（監督等）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、前条各号に掲げる業務の適正かつ確実な実施を確保するため必要があると認めるときは、支援法人に対し、その業務に関し報告をさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、支援法人が前条各号に掲げる業務を適正かつ確実に実施していないと認めるときは、支援法人に対し、その業務の運営の改善に関し必要な措置を講ずべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、支援法人が前項の規定による命令に違反したときは、第二十三条第一項の規定による指定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、前項の規定により指定を取り消したときは、その旨を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（情報の提供等）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、支援法人に対し、その業務の実施に関し必要な情報の提供又は指導若しくは助言をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、支援法人からその業務の遂行のため空家等の所有者等を知る必要があるとして、空家等の所有者等に関する情報（以下この項及び次項において「所有者等関連情報」という。）の提供の求めがあったときは、当該空家等の所有者等の探索に必要な限度で、当該支援法人に対し、所有者等関連情報を提供するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、市町村長は、支援法人に対し所有者等関連情報を提供するときは、あらかじめ、当該所有者等関連情報を提供することについて本人（当該所有者等関連情報によって識別される特定の個人をいう。）の同意を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の同意は、その所在が判明している者に対して求めれば足りる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（支援法人による空家等対策計画の作成等の提案）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、その業務を行うために必要があると認めるときは、市町村に対し、国土交通省令・総務省令で定めるところにより、空家等対策計画の作成又は変更をすることを提案することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、基本指針に即して、当該提案に係る空家等対策計画の素案を作成して、これを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による提案を受けた市町村は、当該提案に基づき空家等対策計画の作成又は変更をするか否かについて、遅滞なく、当該提案をした支援法人に通知するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、空家等対策計画の作成又は変更をしないこととするときは、その理由を明らかにしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（市町村長への要請）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、空家等、管理不全空家等又は特定空家等につき、その適切な管理のため特に必要があると認めるときは、市町村長に対し、第十四条各項の規定による請求をするよう要請することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、前項の規定による要請があった場合において、必要があると認めるときは、第十四条各項の規定による請求をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、第一項の規定による要請があった場合において、第十四条各項の規定による請求をする必要がないと判断したときは、遅滞なく、その旨及びその理由を、当該要請をした支援法人に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　雑則</ChapterTitle>
+        <Article Num="29">
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び都道府県は、市町村が行う空家等対策計画に基づく空家等に関する対策の適切かつ円滑な実施に資するため、空家等に関する対策の実施に要する費用に対する補助、地方交付税制度の拡充その他の必要な財政上の措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、前項に定めるもののほか、市町村が行う空家等対策計画に基づく空家等に関する対策の適切かつ円滑な実施に資するため、必要な税制上の措置その他の措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="8">
+        <ChapterTitle>第八章　罰則</ChapterTitle>
+        <Article Num="30">
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十二条第三項の規定による市町村長の命令に違反した者は、五十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第九条第二項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による立入調査を拒み、妨げ、若しくは忌避した者は、二十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第九条第二項から第五項まで、第十四条及び第十六条の規定は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（検討）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、この法律の施行の状況を勘案し、必要があると認めるときは、この法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一四日法律第五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第三条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地方自治法の一部を改正する法律（平成二十六年法律第四十二号）附則第二条に規定する施行時特例市に対するこの法律による改正後の空家等対策の推進に関する特別措置法（以下この条において「新法」という。）第七条第八項及び第十八条第一項の規定の適用については、新法第七条第八項中「及び同法」とあるのは「、同法」と、「中核市」とあるのは「中核市及び地方自治法の一部を改正する法律（平成二十六年法律第四十二号）附則第二条に規定する施行時特例市」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第二十二条第十項及び第十二項（同条第十項に係る部分に限る。）の規定は、この法律の施行の日（以下この条及び附則第六条において「施行日」という。）以後に新法第二十二条第十項後段の規定による公告を行う場合について適用し、施行日前にこの法律による改正前の空家等対策の推進に関する特別措置法（次項において「旧法」という。）第十四条第十項後段の規定による公告を行った場合については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第二十二条第十一項及び第十二項（同条第十一項に係る部分に限る。）の規定は、施行日以後に同条第二項の規定による勧告を行う場合について適用し、施行日前に旧法第十四条第二項の規定による勧告を行った場合については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後の規定について、その施行の状況等を勘案して検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
