@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="061" Year="25" PromulgateMonth="06" PromulgateDay="26">
-  <LawNum>平成二十五年法律第六十一号</LawNum>
-  <LawBody>
-    <LawTitle Kana="だいきぼなさいがいのひさいちにおけるしゃくちしゃくやにかんするとくべつそちほう" Abbrev="被災地借地借家法,大規模災害借地借家法" AbbrevKana="ひ,だ">大規模な災害の被災地における借地借家に関する特別措置法</LawTitle>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="061" Year="25" PromulgateMonth="06" PromulgateDay="26"><LawNum>平成二十五年法律第六十一号</LawNum><LawBody><LawTitle Kana="だいきぼなさいがいのひさいちにおけるしゃくちしゃくやにかんするとくべつそちほう" Abbrev="被災地借地借家法,大規模災害借地借家法" AbbrevKana="ひ,だ">大規模な災害の被災地における借地借家に関する特別措置法</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（趣旨）</ArticleCaption>
@@ -78,7 +75,7 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">借地借家法第十九条第二項から第六項までの規定は前項の申立てがあった場合について、同法第四章の規定は同項に規定する事件及びこの項において準用する同条第三項に規定する事件の裁判手続について、それぞれ準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同法第十九条第三項中「建物の譲渡及び賃借権」とあるのは「賃借権」と、同法第五十九条中「建物の譲渡」とあるのは「賃借権の譲渡又は転貸」と読み替えるものとする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第十九条第三項中「建物の譲渡及び賃借権」とあるのは「賃借権」と、同法第六十二条中「建物の譲渡」とあるのは「賃借権の譲渡又は転貸」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
@@ -374,6 +371,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一四日法律第五三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して五年を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>
