@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Meiji" Year="38" Num="053" PromulgateMonth="03" PromulgateDay="13" LawType="Act"><LawNum>明治三十八年法律第五十三号</LawNum><LawBody><LawTitle Kana="てつどうていとうほう" Abbrev="" AbbrevKana="">鉄道抵当法</LawTitle>
+<Law Lang="ja" Era="Meiji" Year="38" Num="053" PromulgateMonth="3" PromulgateDay="13" LawType="Act"><LawNum>明治三十八年法律第五十三号</LawNum><LawBody><LawTitle Kana="てつどうていとうほう" Abbrev="" AbbrevKana="">鉄道抵当法</LawTitle>
     <MainProvision>
       <Chapter Num="1">
         <ChapterTitle>第一章　総則</ChapterTitle>
@@ -1277,6 +1277,18 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">裁判所ハ競落期日ニ出頭シタル債務者、鉄道財団ノ所有者、抵当権者及競買人ニ競落ノ許可ニ付陳述ヲ為サシムヘシ</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所ハ相当ト認ムルトキハ最高裁判所規則ノ定ムル所ニ依リ裁判所並債務者、鉄道財団ノ所有者、抵当権者及競買人ガ音声ノ送受信ニ依リ同時ニ通話スルコトヲ得ル方法ニ依リテ競落期日ノ期日ニ於ケル手続ヲ為スコトヲ得</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項ノ期日ニ出頭セズシテ同項ノ手続ニ関与シタル者ハ其ノ期日ニ出頭シタルモノト看做ス</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
