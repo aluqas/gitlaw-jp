@@ -301,7 +301,7 @@
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">行政手続法（平成五年法律第八十八号）第三章第二節（第二十五条、第二十六条及び第二十八条を除く。）の規定は、都道府県知事が前項の規定により意見の聴取を行う場合について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同節中「聴聞」とあるのは「意見の聴取」と、同法第十五条第一項中「行政庁」とあるのは「都道府県知事」と、同条第三項（同法第二十二条第三項において準用する場合を含む。）中「行政庁は」とあるのは「都道府県知事は」と、「当該行政庁が」とあるのは「当該都道府県知事が」と、「当該行政庁の」とあるのは「当該都道府県の」と、同法第十六条第四項並びに第十八条第一項及び第三項中「行政庁」とあるのは「都道府県知事」と、同法第十九条第一項中「行政庁が指名する職員その他政令で定める者」とあるのは「都道府県知事が指名する職員」と、同法第二十条第一項、第二項及び第四項中「行政庁」とあるのは「都道府県」と、同条第六項及び同法第二十四条第三項中「行政庁」とあるのは「都道府県知事」と読み替えるものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同節中「聴聞」とあるのは「意見の聴取」と、同法第十五条第一項及び第三項（同法第二十二条第三項において準用する場合を含む。）中「行政庁」とあるのは「都道府県知事」と、同法第十五条第四項（同法第二十二条第三項において準用する場合を含む。）中「当該行政庁が」とあるのは「当該都道府県知事が」と、「当該行政庁の」とあるのは「当該都道府県の」と、同法第十六条第四項並びに第十八条第一項及び第三項中「行政庁」とあるのは「都道府県知事」と、同法第十九条第一項中「行政庁が指名する職員その他政令で定める者」とあるのは「都道府県知事が指名する職員」と、同法第二十条第一項、第二項及び第四項中「行政庁」とあるのは「都道府県」と、同条第六項及び同法第二十四条第三項中「行政庁」とあるのは「都道府県知事」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -2809,6 +2809,37 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条、第十三条及び第二十条の規定、第二十一条中内航海運業法第六条第一項第二号の改正規定、第二十三条、第二十九条、第三十一条、第三十二条、第三十六条及び第三十九条の規定、第四十一条中貨物自動車運送事業法第五条第二号の改正規定、第四十三条、第四十四条及び第四十九条の規定、第五十五条中民間事業者による信書の送達に関する法律第八条第二号の改正規定並びに第五十六条、第五十八条、第六十条、第六十二条及び第六十三条の規定並びに次条並びに附則第十条、第十二条及び第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
