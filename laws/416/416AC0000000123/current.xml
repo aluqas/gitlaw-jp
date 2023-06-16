@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Heisei" Year="16" Num="123" PromulgateMonth="06" PromulgateDay="18" LawType="Act"><LawNum>平成十六年法律第百二十三号</LawNum>
-  
-  <LawBody>
-    <LawTitle Kana="ふどうさんとうきほう" Abbrev="新不動産登記法,不登法" AbbrevKana="ふ">不動産登記法</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="16" Num="123" PromulgateMonth="06" PromulgateDay="18" LawType="Act"><LawNum>平成十六年法律第百二十三号</LawNum><LawBody><LawTitle Kana="ふどうさんとうきほう" Abbrev="新不動産登記法,不登法" AbbrevKana="し,ふ">不動産登記法</LawTitle>
     <EnactStatement>不動産登記法（明治三十二年法律第二十四号）の全部を改正する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -2965,7 +2962,7 @@
                 <Item Num="7">
                   <ItemTitle>七</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">公益信託ニ関スル法律（大正十一年法律第六十二号）第一条に規定する公益信託であるときは、その旨</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">公益信託に関する法律（令和六年法律第三十号）第二条第一項第一号に規定する公益信託であるときは、その旨</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="8">
@@ -3989,9 +3986,27 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項本文の場合において、関係人の所在が判明しないときは、同項本文の規定による通知を、関係人の氏名又は名称、通知をすべき事項及び当該事項を記載した書面をいつでも関係人に交付する旨を対象土地の所在地を管轄する法務局又は地方法務局の掲示場に掲示することによって行うことができる。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合においては、掲示を始めた日から二週間を経過したときに、当該通知が関係人に到達したものとみなす。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項本文の場合において、関係人の所在が判明しないときは、同項本文の規定による通知を、次に掲げる事項を法務省令で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、当該事項が記載された書面を対象土地の所在地を管轄する法務局若しくは地方法務局の掲示場に掲示し、又は当該事項を対象土地の所在地を管轄する法務局若しくは地方法務局の事務所に設置した電子計算機の映像面に表示したものの閲覧をすることができる状態に置く措置をとることによって行うことができる。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合においては、当該措置を開始した日から二週間を経過したときに、当該通知が関係人に到達したものとみなす。</Sentence>
                 </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">関係人の氏名又は名称</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">通知をすべき事項</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前号の事項を記載した書面をいつでも関係人に交付する旨</Sentence>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
             </Article>
           </Subsection>
@@ -5702,6 +5717,28 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="2">
+        <ArticleCaption>（公示送達等の方法に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">次に掲げる法律の規定は、前条第二号に掲げる規定の施行の日以後にする公示送達、送達又は通知について適用し、同日前にした公示送達、送達又は通知については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:11">
+            <ItemTitle>一から十一まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第五十六条の規定による改正後の不動産登記法第百三十三条第二項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
       <Article Num="6">
         <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
@@ -5719,6 +5756,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年五月二二日法律第三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
