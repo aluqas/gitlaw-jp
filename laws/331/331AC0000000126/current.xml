@@ -595,15 +595,15 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">決定の送達は、審査請求人に決定書の謄本を送付することによつて行なう。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">決定の送達は、審査請求人に決定書の謄本を送付することによつて行う。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、審査請求人の所在が知れないとき、その他決定書の謄本を送付することができないときは、公示の方法によつてすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">公示の方法による送達は、審査官が決定書の謄本を保管し、いつでも審査請求人に交付する旨を政令で定める掲示場に掲示し、かつ、その旨を官報その他の公報に少なくとも一回掲載してするものとする。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合においては、その掲示を始めた日の翌日から起算して二週間を経過した時に決定書の謄本の送付があつたものとみなす。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">公示の方法による送達は、審査官が決定書の謄本を保管し、いつでも審査請求人に交付する旨を厚生労働省令で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、その旨が記載された書面を政令で定める事務所の掲示場に掲示し、又はその旨を当該事務所に設置した電子計算機の映像面に表示したものの閲覧をすることができる状態に置く措置をとることにより行うものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、当該措置を開始した日の翌日から起算して二週間を経過した時に決定書の謄本の送付があつたものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -2478,6 +2478,28 @@
               <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
               </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（公示送達等の方法に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">次に掲げる法律の規定は、前条第二号に掲げる規定の施行の日以後にする公示送達、送達又は通知について適用し、同日前にした公示送達、送達又は通知については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:3">
+            <ItemTitle>一から三まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十九条の規定による改正後の労働保険審査官及び労働保険審査会法第二十条第三項</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
