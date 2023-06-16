@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Reiwa" Lang="ja" LawType="Act" Num="038" Year="02" PromulgateMonth="06" PromulgateDay="03">
-  <LawNum>令和二年法律第三十八号</LawNum>
-  <LawBody>
-    <LawTitle Kana="とくていでじたるぷらっとふぉーむのとうめいせいおよびこうせいせいのこうじょうにかんするほうりつ" Abbrev="" AbbrevKana="">特定デジタルプラットフォームの透明性及び公正性の向上に関する法律</LawTitle>
+<Law Era="Reiwa" Lang="ja" LawType="Act" Num="038" Year="02" PromulgateMonth="06" PromulgateDay="03"><LawNum>令和二年法律第三十八号</LawNum><LawBody><LawTitle Kana="とくていでじたるぷらっとふぉーむのとうめいせいおよびこうせいせいのこうじょうにかんするほうりつ" Abbrev="" AbbrevKana="">特定デジタルプラットフォームの透明性及び公正性の向上に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -744,13 +741,13 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">公示送達は、送達をすべき書類を送達を受けるべき者にいつでも交付すべき旨を経済産業省の掲示場に掲示することにより行う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">公示送達は、送達をすべき書類を送達を受けるべき者にいつでも交付すべき旨を経済産業省令で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、その旨が記載された書面を経済産業省の掲示場に掲示し、又はその旨を経済産業省の事務所に設置した電子計算機の映像面に表示したものの閲覧をすることができる状態に置く措置をとることにより行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">公示送達は、前項の規定による掲示を始めた日から二週間を経過することによって、その効力を生ずる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">公示送達は、前項の規定による措置を開始した日から二週間を経過することによって、その効力を生ずる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -913,6 +910,28 @@
               <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
               </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（公示送達等の方法に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">次に掲げる法律の規定は、前条第二号に掲げる規定の施行の日以後にする公示送達、送達又は通知について適用し、同日前にした公示送達、送達又は通知については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:14">
+            <ItemTitle>一から十四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="15">
+            <ItemTitle>十五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第六十三条の規定による改正後の特定デジタルプラットフォームの透明性及び公正性の向上に関する法律第二十一条第二項及び第三項</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Heisei" Year="03" Num="077" PromulgateMonth="05" PromulgateDay="15" LawType="Act"><LawNum>平成三年法律第七十七号</LawNum><LawBody><LawTitle Kana="ぼうりょくだんいんによるふとうなこういのぼうしとうにかんするほうりつ" Abbrev="暴対法,暴力団対策法" AbbrevKana="ぼ,ぼ">暴力団員による不当な行為の防止等に関する法律</LawTitle>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="077" Year="03" PromulgateMonth="05" PromulgateDay="15"><LawNum>平成三年法律第七十七号</LawNum><LawBody><LawTitle Kana="ぼうりょくだんいんによるふとうなこういのぼうしとうにかんするほうりつ" Abbrev="暴対法,暴力団対策法" AbbrevKana="ぼ,ぼ">暴力団員による不当な行為の防止等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -2696,13 +2696,13 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">公示送達は、送達すべき書類の名称、その送達を受けるべき者の氏名及び公安委員会がその書類をいつでも送達を受けるべき者に交付する旨を当該公安委員会の掲示板に掲示して行う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">公示送達は、送達すべき書類の名称、その送達を受けるべき者の氏名及び公安委員会がその書類をいつでも送達を受けるべき者に交付する旨（以下この項において「公示事項」という。）を国家公安委員会規則で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、公示事項が記載された書面を当該公安委員会の掲示板に掲示し、又は公示事項を当該公安委員会の庁舎に設置した電子計算機の映像面に表示したものの閲覧をすることができる状態に置く措置をとることにより行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の場合において、掲示を始めた日から起算して二週間を経過したときは、書類の送達があったものとみなす。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、同項の規定による措置を開始した日から起算して二週間を経過したときは、書類の送達があったものとみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4240,6 +4240,28 @@
               <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
               </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（公示送達等の方法に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">次に掲げる法律の規定は、前条第二号に掲げる規定の施行の日以後にする公示送達、送達又は通知について適用し、同日前にした公示送達、送達又は通知については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:8">
+            <ItemTitle>一から八まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第四十三条の規定による改正後の暴力団員による不当な行為の防止等に関する法律第三十九条の二第三項及び第四項</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
