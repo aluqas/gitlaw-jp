@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="34" Num="147" PromulgateMonth="04" PromulgateDay="20" LawType="Act"><LawNum>昭和三十四年法律第百四十七号</LawNum><LawBody><LawTitle Kana="こくぜいちょうしゅうほう" Abbrev="" AbbrevKana="">国税徴収法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="34" Num="147" PromulgateMonth="4" PromulgateDay="20" LawType="Act"><LawNum>昭和三十四年法律第百四十七号</LawNum><LawBody><LawTitle Kana="こくぜいちょうしゅうほう" Abbrev="" AbbrevKana="">国税徴収法</LawTitle>
     <EnactStatement>国税徴収法（明治三十年法律第二十一号）の全部を改正する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -4164,7 +4164,51 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定により換価代金等を交付することができない場合、換価代金等を配当すべき債権が停止条件付である場合又は換価代金等を配当すべき債権が仮登記（民事保全法（平成元年法律第九十一号）第五十三条第二項（不動産の登記請求権を保全するための処分禁止の仮処分の執行）（同法第五十四条（不動産に関する権利以外の権利についての登記又は登録請求権を保全するための処分禁止の仮処分の執行）において準用する場合を含む。）の規定による仮処分による仮登記を含む。）がされた質権、抵当権若しくは先取特権により担保される債権である場合における換価代金等の交付については、政令で定めるところによる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">税務署長は、前項の規定により換価代金等を交付することができない場合、換価代金等を配当すべき債権が停止条件付である場合又は換価代金等を配当すべき債権が仮登記（民事保全法（平成元年法律第九十一号）第五十三条第二項（不動産の登記請求権を保全するための処分禁止の仮処分の執行）（同法第五十四条（不動産に関する権利以外の権利についての登記又は登録請求権を保全するための処分禁止の仮処分の執行）において準用する場合を含む。）の規定による仮処分による仮登記を含む。）がされた質権、抵当権若しくは先取特権により担保される債権である場合には、換価代金等を供託しなければならない。この場合（前項の規定により換価代金等を交付することができない場合に限る。）において、税務署長は、その旨を異議に関係を有する者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、確定判決、異議に関係を有する者の全員の同意その他の理由により換価代金等の交付を受けるべき者及び金額が明らかになつたときは、これに従つて配当しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、税務署長は、その配当を受けるべき者に配当額支払証を交付するとともに、同項の規定により供託した供託所に支払委託書を送付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による配当を受けるべき者に対する供託所の支払は、同項の支払委託書に基づき行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三項の規定による供託がされた場合における当該供託に係る債権者は、その供託の事由が消滅したときは、直ちに、その旨を税務署長に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">税務署長は、第三項の規定による供託がされた場合において、その供託がされた日（この項の規定による催告によりその供託に係る供託の事由が消滅していない旨の届出をした場合にあつては、最後に当該届出をした日）から前項の規定による届出がされることなく二年を経過したときは、当該供託に係る債権者に対し、その供託に係る供託の事由が消滅しているときは同項の規定による届出をし、又はその供託に係る供託の事由が消滅していないときはその旨の届出をすべき旨を催告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による催告を受けた当該供託に係る債権者が、催告を受けた日から十四日以内に第六項の規定による届出又は前項の供託の事由が消滅していない旨の届出をしないときは、税務署長は、当該供託に係る債権者を除外して第四項の規定により供託金について換価代金等の配当を実施する旨の決定をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前項の決定は、当該供託に係る債権者が当該決定の告知を受けた日から七日を経過した日にその効力を生ずる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該供託に係る債権者が当該七日の期間が経過するまでに第六項の規定による届出又は第七項の供託の事由が消滅していない旨の届出をしたときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">当該供託に係る債権者が第七項に規定する期間を経過する前に税務署長にその供託に係る供託の事由が消滅していない旨の届出をしたときは、同項の規定の適用については、同項の供託の事由が消滅していない旨の届出があつたものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -6513,7 +6557,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第十条の規定（附則第一条第七号リに掲げる改正規定に限る。）による改正後の国税徴収法の規定は、信託法施行日以後に効力が生ずる信託（遺言によってされた信託にあっては信託法施行日以後に遺言がされたものに限り、新法信託を含む。）について適用し、信託法施行日前に効力が生じた信託（遺言によってされた信託にあっては信託法施行日前に遺言がされたものを含み、新法信託を除く。）については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第十条の規定（附則第一条第七号リに掲げる改正規定に限る。）による改正後の国税徴収法の規定は、信託法施行日以後に効力が生ずる信託（遺言によってされた信託にあっては信託法施行日以後に遺言がされたものに限り、新法信託を含む。）について適用し、信託法施行日前に効力が生じた信託（遺言によってされた信託にあっては信託法施行日前に遺言がされたものを含み、新法信託及び公益信託に関する法律附則第四条第一項に規定する移行認可を受けたものを除く。）については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
