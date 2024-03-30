@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Heisei" Year="09" Num="110" PromulgateMonth="12" PromulgateDay="5" LawType="Act"><LawNum>平成九年法律第百十号</LawNum>
-  
-  <LawBody>
-    <LawTitle Kana="ないこくぜいのてきせいなかぜいのかくほをはかるためのこくがいそうきんとうにかかるちょうしょのていしゅつとうにかんするほうりつ" Abbrev="国外送金法" AbbrevKana="こ">内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="09" Num="110" PromulgateMonth="12" PromulgateDay="5" LawType="Act"><LawNum>平成九年法律第百十号</LawNum><LawBody><LawTitle Kana="ないこくぜいのてきせいなかぜいのかくほをはかるためのこくがいそうきんとうにかかるちょうしょのていしゅつとうにかんするほうりつ" Abbrev="国外送金法" AbbrevKana="こ">内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -439,7 +436,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">国外送金等調書を提出すべき金融機関のうち、当該国外送金等調書の提出期限の属する年の前々年の一月一日から十二月三十一日までの間に提出すべきであった国外送金等調書の枚数として財務省令で定めるところにより算出した数が百以上であるものは、前項の規定にかかわらず、その者が国外送金等調書に記載すべきものとされる同項に規定する事項（以下この条において「記載事項」という。）を次に掲げる方法のいずれかにより同項に規定する税務署長に提供しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">国外送金等調書を提出すべき金融機関のうち、当該国外送金等調書の提出期限の属する年の前々年の一月一日から十二月三十一日までの間に提出すべきであった国外送金等調書の枚数として財務省令で定めるところにより算出した数が三十以上であるものは、前項の規定にかかわらず、その者が国外送金等調書に記載すべきものとされる同項に規定する事項（以下この条において「記載事項」という。）を次に掲げる方法のいずれかにより同項に規定する税務署長に提供しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -2597,6 +2594,16 @@
               </Subitem1Sentence>
             </Subitem1>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="57">
+        <ArticleCaption>（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第五十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第十八条の規定による改正後の内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律第四条第二項（内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（以下この条において「国外送金等調書法」という。）第四条の三第二項及び第四条の五第二項において準用する場合を含む。）の規定は、令和九年一月一日以後に提出すべき国外送金等調書法第四条第一項に規定する国外送金等調書、国外送金等調書法第四条の三第一項に規定する国外証券移管等調書及び国外送金等調書法第四条の五第一項に規定する国外電子決済手段移転等調書について適用し、同日前に提出すべきこれらの調書については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="72">
