@@ -1424,7 +1424,7 @@
                     <Sentence Num="1" WritingMode="vertical">法人課税信託</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">次に掲げる信託（集団投資信託並びに第十二条第四項第一号（信託財産に属する資産及び負債並びに信託財産に帰せられる収益及び費用の帰属）に規定する退職年金等信託及び同項第二号に規定する特定公益信託等を除く。）をいう。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる信託（集団投資信託並びに第十二条第四項第一号（信託財産に属する資産及び負債並びに信託財産に帰せられる収益及び費用の帰属）に規定する退職年金等信託及び同項第二号に規定する公益信託等を除く。）をいう。</Sentence>
                   </Column>
                 </ItemSentence>
                 <Subitem1 Num="1">
@@ -1984,7 +1984,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">信託の受益者（受益者としての権利を現に有するものに限る。）は当該信託の信託財産に属する資産及び負債を有するものとみなし、かつ、当該信託財産に帰せられる収益及び費用は当該受益者の収益及び費用とみなして、この法律の規定を適用する。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、集団投資信託、退職年金等信託、特定公益信託等又は法人課税信託の信託財産に属する資産及び負債並びに当該信託財産に帰せられる収益及び費用については、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、集団投資信託、退職年金等信託、公益信託等又は法人課税信託の信託財産に属する資産及び負債並びに当該信託財産に帰せられる収益及び費用については、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1996,7 +1996,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法人が受託者となる集団投資信託、退職年金等信託又は特定公益信託等の信託財産に属する資産及び負債並びに当該信託財産に帰せられる収益及び費用は、当該法人の各事業年度の所得の金額の計算上、当該法人の資産及び負債並びに収益及び費用でないものとみなして、この法律の規定を適用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法人が受託者となる集団投資信託、退職年金等信託又は公益信託等の信託財産に属する資産及び負債並びに当該信託財産に帰せられる収益及び費用は、当該法人の各事業年度の所得の金額の計算上、当該法人の資産及び負債並びに収益及び費用でないものとみなして、この法律の規定を適用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -2019,10 +2019,10 @@
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">特定公益信託等</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">公益信託等</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">第三十七条第六項（寄附金の損金不算入）に規定する特定公益信託及び社債、株式等の振替に関する法律（平成十三年法律第七十五号）第二条第十一項（定義）に規定する加入者保護信託をいう。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">公益信託に関する法律（令和六年法律第三十号）第二条第一項第一号（定義）に規定する公益信託及び社債、株式等の振替に関する法律（平成十三年法律第七十五号）第二条第十一項（定義）に規定する加入者保護信託をいう。</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -3456,22 +3456,22 @@
                   <Paragraph Num="4">
                     <ParagraphNum>４</ParagraphNum>
                     <ParagraphSentence>
-                      <Sentence Function="main" Num="1" WritingMode="vertical">第一項の場合において、同項に規定する寄附金の額のうちに、公共法人、公益法人等（別表第二に掲げる一般社団法人、一般財団法人及び労働者協同組合を除く。以下この項及び次項において同じ。）その他特別の法律により設立された法人のうち、教育又は科学の振興、文化の向上、社会福祉への貢献その他公益の増進に著しく寄与するものとして政令で定めるものに対する当該法人の主たる目的である業務に関連する寄附金（出資に関する業務に充てられることが明らかなもの及び前項各号に規定する寄附金に該当するものを除く。）の額があるときは、当該寄附金の額の合計額（当該合計額が当該事業年度終了の時の資本金の額及び資本準備金の額の合計額若しくは出資金の額又は当該事業年度の所得の金額を基礎として政令で定めるところにより計算した金額を超える場合には、当該計算した金額に相当する金額）は、第一項に規定する寄附金の額の合計額に算入しない。</Sentence>
+                      <Sentence Function="main" Num="1" WritingMode="vertical">第一項の場合において、同項に規定する寄附金の額のうちに、公共法人、公益法人等（別表第二に掲げる一般社団法人、一般財団法人及び労働者協同組合を除く。以下第六項までにおいて同じ。）その他特別の法律により設立された法人のうち、教育又は科学の振興、文化の向上、社会福祉への貢献その他公益の増進に著しく寄与するものとして政令で定めるものに対する当該法人の主たる目的である業務に関連する寄附金（出資に関する業務に充てられることが明らかなもの及び前項各号に規定する寄附金に該当するものを除く。）の額があるときは、当該寄附金の額の合計額（当該合計額が当該事業年度終了の時の資本金の額及び資本準備金の額の合計額若しくは出資金の額又は当該事業年度の所得の金額を基礎として政令で定めるところにより計算した金額を超える場合には、当該計算した金額に相当する金額）は、第一項に規定する寄附金の額の合計額に算入しない。</Sentence>
                       <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、公益法人等が支出した寄附金の額については、この限りでない。</Sentence>
                     </ParagraphSentence>
                   </Paragraph>
                   <Paragraph Num="5">
                     <ParagraphNum>５</ParagraphNum>
                     <ParagraphSentence>
-                      <Sentence Function="main" Num="1" WritingMode="vertical">公益法人等がその収益事業に属する資産のうちからその収益事業以外の事業のために支出した金額（公益社団法人又は公益財団法人にあつては、その収益事業に属する資産のうちからその収益事業以外の事業で公益に関する事業として政令で定める事業に該当するもののために支出した金額）は、その収益事業に係る寄附金の額とみなして、第一項の規定を適用する。</Sentence>
-                      <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、事実を隠蔽し、又は仮装して経理をすることにより支出した金額については、この限りでない。</Sentence>
+                      <Sentence Function="main" Num="1" WritingMode="vertical">第一項の場合において、同項に規定する寄附金の額のうちに公益信託に関する法律第二条第一項第一号（定義）に規定する公益信託の信託財産とするために支出した当該公益信託に係る信託事務に関連する寄附金（出資に関する信託事務に充てられることが明らかなもの及び第三項各号又は前項に規定する寄附金に該当するものを除く。）の額があるときは、当該寄附金の額の合計額（当該合計額が前項に規定する政令で定めるところにより計算した金額から同項の規定により第一項に規定する寄附金の額の合計額に算入されない金額を控除した金額を超える場合には、当該控除した金額に相当する金額）は、第一項に規定する寄附金の額の合計額に算入しない。</Sentence>
+                      <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、公益法人等が支出した寄附金の額については、この限りでない。</Sentence>
                     </ParagraphSentence>
                   </Paragraph>
                   <Paragraph Num="6">
                     <ParagraphNum>６</ParagraphNum>
                     <ParagraphSentence>
-                      <Sentence Num="1" WritingMode="vertical">内国法人が特定公益信託（公益信託ニ関スル法律（大正十一年法律第六十二号）第一条（公益信託）に規定する公益信託で信託の終了の時における信託財産がその信託財産に係る信託の委託者に帰属しないこと及びその信託事務の実施につき政令で定める要件を満たすものであることについて政令で定めるところにより証明がされたものをいう。）の信託財産とするために支出した金銭の額は、寄附金の額とみなして第一項、第四項、第九項及び第十項の規定を適用する。</Sentence>
-                      <Sentence Num="2" WritingMode="vertical">この場合において、第四項中「）の額」とあるのは、「）の額（第六項に規定する特定公益信託のうち、その目的が教育又は科学の振興、文化の向上、社会福祉への貢献その他公益の増進に著しく寄与するものとして政令で定めるものの信託財産とするために支出した金銭の額を含む。）」とするほか、この項の規定の適用を受けるための手続に関し必要な事項は、政令で定める。</Sentence>
+                      <Sentence Function="main" Num="1" WritingMode="vertical">公益法人等がその収益事業に属する資産のうちからその収益事業以外の事業のために支出した金額（公益社団法人又は公益財団法人にあつては、その収益事業に属する資産のうちからその収益事業以外の事業で公益に関する事業として政令で定める事業に該当するもののために支出した金額）は、その収益事業に係る寄附金の額とみなして、第一項の規定を適用する。</Sentence>
+                      <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、事実を隠蔽し、又は仮装して経理をすることにより支出した金額については、この限りでない。</Sentence>
                     </ParagraphSentence>
                   </Paragraph>
                   <Paragraph Num="7">
@@ -3489,14 +3489,14 @@
                   <Paragraph Num="9">
                     <ParagraphNum>９</ParagraphNum>
                     <ParagraphSentence>
-                      <Sentence Num="1" WritingMode="vertical">第三項の規定は、確定申告書、修正申告書又は更正請求書に第一項に規定する寄附金の額の合計額に算入されない第三項各号に掲げる寄附金の額及び当該寄附金の明細を記載した書類の添付がある場合に限り、第四項の規定は、確定申告書、修正申告書又は更正請求書に第一項に規定する寄附金の額の合計額に算入されない第四項に規定する寄附金の額及び当該寄附金の明細を記載した書類の添付があり、かつ、当該書類に記載された寄附金が同項に規定する寄附金に該当することを証する書類として財務省令で定める書類を保存している場合に限り、適用する。</Sentence>
-                      <Sentence Num="2" WritingMode="vertical">この場合において、第三項又は第四項の規定により第一項に規定する寄附金の額の合計額に算入されない金額は、当該金額として記載された金額を限度とする。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">第三項の規定は、確定申告書、修正申告書又は更正請求書に第一項に規定する寄附金の額の合計額に算入されない第三項各号に掲げる寄附金の額及び当該寄附金の明細を記載した書類の添付がある場合に限り、第四項及び第五項の規定は、確定申告書、修正申告書又は更正請求書に第一項に規定する寄附金の額の合計額に算入されない第四項又は第五項に規定する寄附金の額及び当該寄附金の明細を記載した書類の添付があり、かつ、当該書類に記載された寄附金がこれらの規定に規定する寄附金に該当することを証する書類として財務省令で定める書類を保存している場合に限り、適用する。</Sentence>
+                      <Sentence Num="2" WritingMode="vertical">この場合において、第三項から第五項までの規定により第一項に規定する寄附金の額の合計額に算入されない金額は、当該金額として記載された金額を限度とする。</Sentence>
                     </ParagraphSentence>
                   </Paragraph>
                   <Paragraph Num="10">
                     <ParagraphNum>１０</ParagraphNum>
                     <ParagraphSentence>
-                      <Sentence Num="1" WritingMode="vertical">税務署長は、第四項の規定により第一項に規定する寄附金の額の合計額に算入されないこととなる金額の全部又は一部につき前項に規定する財務省令で定める書類の保存がない場合においても、その書類の保存がなかつたことについてやむを得ない事情があると認めるときは、その書類の保存がなかつた金額につき第四項の規定を適用することができる。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">税務署長は、第四項又は第五項の規定により第一項に規定する寄附金の額の合計額に算入されないこととなる金額の全部又は一部につき前項に規定する財務省令で定める書類の保存がない場合においても、その書類の保存がなかつたことについてやむを得ない事情があると認めるときは、その書類の保存がなかつた金額につき第四項又は第五項の規定を適用することができる。</Sentence>
                     </ParagraphSentence>
                   </Paragraph>
                   <Paragraph Num="11">
@@ -3508,7 +3508,7 @@
                   <Paragraph Num="12">
                     <ParagraphNum>１２</ParagraphNum>
                     <ParagraphSentence>
-                      <Sentence Num="1" WritingMode="vertical">第五項から前項までに定めるもののほか、第一項から第四項までの規定の適用に関し必要な事項は、政令で定める。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">第六項から前項までに定めるもののほか、第一項から第五項までの規定の適用に関し必要な事項は、政令で定める。</Sentence>
                     </ParagraphSentence>
                   </Paragraph>
                 </Article>
@@ -15437,22 +15437,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="19_3">
-        <ArticleCaption>（公益信託の特例）</ArticleCaption>
-        <ArticleTitle>第十九条の三</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">公益信託（公益信託ニ関スル法律第一条（公益信託）に規定する公益信託（第三十七条第六項（寄附金の損金不算入）に規定する特定公益信託を除く。）をいう。以下この条において同じ。）の委託者又はその相続人その他の一般承継人（以下この項において「委託者等」という。）は当該公益信託の信託財産に属する資産及び負債を有するものとみなし、かつ、当該信託財産に帰せられる収益及び費用は当該委託者等の収益及び費用とみなして、この法律の規定を適用する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">公益信託は、第二条第二十九号の二ロ（定義）に掲げる信託に該当しないものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="20">
         <ArticleCaption>（退職年金等積立金に対する法人税の特例）</ArticleCaption>
         <ArticleTitle>第二十条</ArticleTitle>
@@ -23061,7 +23045,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第二条の規定（附則第一条第七号ロに掲げる改正規定に限る。）による改正後の法人税法の規定は、信託法施行日以後に効力が生ずる信託（遺言によってされた信託にあっては信託法施行日以後に遺言がされたものに限り、新法信託を含む。）について適用し、信託法施行日前に効力が生じた信託（遺言によってされた信託にあっては信託法施行日前に遺言がされたものを含み、新法信託を除く。）については、なお従前の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定（附則第一条第七号ロに掲げる改正規定に限る。）による改正後の法人税法の規定は、信託法施行日以後に効力が生ずる信託（遺言によってされた信託にあっては信託法施行日以後に遺言がされたものに限り、新法信託を含む。）について適用し、信託法施行日前に効力が生じた信託（遺言によってされた信託にあっては信託法施行日前に遺言がされたものを含み、新法信託及び公益信託に関する法律（令和六年法律第三十号）附則第四条第一項に規定する移行認可を受けたものを除く。）については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -30989,6 +30973,27 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第二条の規定による改正後の法人税法（以下「新法人税法」という。）第二条第十二号の十四の規定は、令和六年十月一日以後に行われる現物出資について適用し、同日前に行われた現物出資については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（信託財産に属する資産及び負債並びに信託財産に帰せられる収益及び費用の帰属等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法人税法第二条第二十九号の二、第十二条及び第三十七条の規定（同条第五項に規定する公益信託に係る部分に限る。）は、附則第一条第九号に定める日以後に効力が生ずる同項に規定する公益信託（移行認可を受けた信託を含む。）について適用し、同日前に効力が生じた公益信託に関する法律による改正前の公益信託ニ関スル法律第一条に規定する公益信託（移行認可を受けたものを除く。）については、次条に定めるものを除き、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（寄附金の損金不算入に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法人（人格のない社団等を含む。次条において同じ。）が、第二条の規定による改正前の法人税法第三十七条第六項に規定する特定公益信託（移行認可を受けたものを除く。）の信託財産とするために支出する金銭の額については、同項の規定は、なおその効力を有する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同項中「特定公益信託（公益信託ニ関スル法律（大正十一年法律第六十二号）第一条（公益信託）に規定する公益信託で信託の終了の時における信託財産がその信託財産に係る信託の委託者に帰属しないこと及びその信託事務の実施につき政令で定める要件を満たすものであることについて政令で定めるところにより証明がされたものをいう。）」とあり、及び「第六項に規定する特定公益信託」とあるのは、「所得税法等の一部を改正する法律（令和六年法律第八号）附則第八条（寄附金の損金不算入に関する経過措置）に規定する特定公益信託」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
