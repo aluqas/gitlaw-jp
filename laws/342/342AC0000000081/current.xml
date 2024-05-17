@@ -6616,16 +6616,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="9">
-        <ArticleCaption>（住民基本台帳法の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第九条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律の公布の日から施行日の前日までの間においては、前条の規定による改正後の住民基本台帳法別表第一の七十一の二の項中「独立行政法人高齢・障害・求職者雇用支援機構」とあるのは「独立行政法人雇用・能力開発機構」と、「第四条第一項の認定」とあるのは「附則第三条第一項の相当認定」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="14">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
@@ -12391,10 +12381,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二　社会保険診療報酬支払基金又は国民健康保険団体連合会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">医療法（昭和二十三年法律第二百五号）による同法第五条の二第一項の認定又は同法第六条の六第一項の許可に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">母子保健法（昭和四十年法律第百四十一号）による同法第八条の三第一項の情報の収集若しくは整理又は利用若しくは提供に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12402,7 +12392,7 @@
               <Sentence Num="1" WritingMode="vertical">五十七の三　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">医師法（昭和二十三年法律第二百一号）による同法第二条の医師の免許、同法第九条の医師国家試験の実施又は同法第十六条の六第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医療法（昭和二十三年法律第二百五号）による同法第五条の二第一項の認定又は同法第六条の六第一項の許可に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12410,7 +12400,7 @@
               <Sentence Num="1" WritingMode="vertical">五十七の四　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">歯科医師法（昭和二十三年法律第二百二号）による同法第二条の歯科医師の免許、同法第九条の歯科医師国家試験の実施又は同法第十六条の四第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医師法（昭和二十三年法律第二百一号）による同法第二条の医師の免許、同法第九条の医師国家試験の実施又は同法第十六条の六第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12418,7 +12408,7 @@
               <Sentence Num="1" WritingMode="vertical">五十七の五　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">死体解剖保存法（昭和二十四年法律第二百四号）による同法第二条第一項第一号の認定に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">歯科医師法（昭和二十三年法律第二百二号）による同法第二条の歯科医師の免許、同法第九条の歯科医師国家試験の実施又は同法第十六条の四第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12426,7 +12416,7 @@
               <Sentence Num="1" WritingMode="vertical">五十七の六　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">保健師助産師看護師法（昭和二十三年法律第二百三号）による同法第七条第一項の保健師の免許、同条第二項の助産師の免許、同条第三項の看護師の免許又は同法第十七条の保健師国家試験、助産師国家試験若しくは看護師国家試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">死体解剖保存法（昭和二十四年法律第二百四号）による同法第二条第一項第一号の認定に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12434,12 +12424,20 @@
               <Sentence Num="1" WritingMode="vertical">五十七の七　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">保健師助産師看護師法（昭和二十三年法律第二百三号）による同法第七条第一項の保健師の免許、同条第二項の助産師の免許、同条第三項の看護師の免許又は同法第十七条の保健師国家試験、助産師国家試験若しくは看護師国家試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">五十七の八　厚生労働省</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">看護師等の人材確保の促進に関する法律（平成四年法律第八十六号）による同法第九条第一項の都道府県による看護師等の資質の向上及び就業の促進のための取組の支援に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の八　厚生労働省又は歯科衛生士法（昭和二十三年法律第二百四号）第八条の二第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の九　厚生労働省又は歯科衛生士法（昭和二十三年法律第二百四号）第八条の二第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">歯科衛生士法による同法第三条の歯科衛生士の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12447,7 +12445,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の九　厚生労働省又は歯科衛生士法第十二条の四第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十　厚生労働省又は歯科衛生士法第十二条の四第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">歯科衛生士法による同法第十条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12455,7 +12453,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十一　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">診療放射線技師法（昭和二十六年法律第二百二十六号）による同法第三条の診療放射線技師の免許又は同法第十七条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12463,7 +12461,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十一　厚生労働省又は歯科技工士法（昭和三十年法律第百六十八号）第九条の二第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十二　厚生労働省又は歯科技工士法（昭和三十年法律第百六十八号）第九条の二第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">歯科技工士法による同法第三条の歯科技工士の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12471,7 +12469,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十二　厚生労働省又は歯科技工士法第十五条の三第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十三　厚生労働省又は歯科技工士法第十五条の三第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">歯科技工士法による同法第十一条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12479,7 +12477,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十三　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十四　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">臨床検査技師等に関する法律（昭和三十三年法律第七十六号）による同法第三条の臨床検査技師の免許若しくは同法第十一条の試験の実施又は臨床検査技師、衛生検査技師等に関する法律の一部を改正する法律（平成十七年法律第三十九号）附則第三条第三項の規定によりなおその効力を有するものとされた同法の規定による改正前の臨床検査技師、衛生検査技師等に関する法律第五条の登録に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12487,7 +12485,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十四　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十五　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">理学療法士及び作業療法士法（昭和四十年法律第百三十七号）による同法第三条の理学療法士若しくは作業療法士の免許又は同法第九条の理学療法士国家試験若しくは作業療法士国家試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12495,7 +12493,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十五　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十六　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">視能訓練士法（昭和四十六年法律第六十四号）による同法第三条の視能訓練士の免許又は同法第十条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12503,7 +12501,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十六　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十七　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">臨床工学技士法（昭和六十二年法律第六十号）による同法第三条の臨床工学技士の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12511,7 +12509,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十七　厚生労働省又は臨床工学技士法第十七条第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十八　厚生労働省又は臨床工学技士法第十七条第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">臨床工学技士法による同法第十条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12519,7 +12517,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十八　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十九　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">義肢装具士法（昭和六十二年法律第六十一号）による同法第三条の義肢装具士の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12527,7 +12525,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十九　厚生労働省又は義肢装具士法第十七条第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十　厚生労働省又は義肢装具士法第十七条第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">義肢装具士法による同法第十条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12535,7 +12533,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十　厚生労働省又は救急救命士法（平成三年法律第三十六号）第十二条第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十一　厚生労働省又は救急救命士法（平成三年法律第三十六号）第十二条第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">救急救命士法による同法第三条の救急救命士の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12543,7 +12541,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十一　厚生労働省又は救急救命士法第三十七条第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十二　厚生労働省又は救急救命士法第三十七条第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">救急救命士法による同法第三十条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12551,7 +12549,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十二　厚生労働省又は言語聴覚士法（平成九年法律第百三十二号）第十二条第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十三　厚生労働省又は言語聴覚士法（平成九年法律第百三十二号）第十二条第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">言語聴覚士法による同法第三条の言語聴覚士の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12559,7 +12557,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十三　厚生労働省又は言語聴覚士法第三十六条第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十四　厚生労働省又は言語聴覚士法第三十六条第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">言語聴覚士法による同法第二十九条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12567,7 +12565,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十四　厚生労働省又はあん摩マツサージ指圧師、はり師、きゆう師等に関する法律（昭和二十二年法律第二百十七号）第三条の四第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十五　厚生労働省又はあん摩マツサージ指圧師、はり師、きゆう師等に関する法律（昭和二十二年法律第二百十七号）第三条の四第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">あん摩マツサージ指圧師、はり師、きゆう師等に関する法律による同法第二条第一項のあん摩マツサージ指圧師国家試験、はり師国家試験又はきゆう師国家試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12575,7 +12573,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十五　厚生労働省又はあん摩マツサージ指圧師、はり師、きゆう師等に関する法律第三条の二十三第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十六　厚生労働省又はあん摩マツサージ指圧師、はり師、きゆう師等に関する法律第三条の二十三第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">あん摩マツサージ指圧師、はり師、きゆう師等に関する法律による同法第二条第一項のあん摩マツサージ指圧師、はり師又はきゆう師の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12583,7 +12581,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十六　厚生労働省又は柔道整復師法（昭和四十五年法律第十九号）第八条の二第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十七　厚生労働省又は柔道整復師法（昭和四十五年法律第十九号）第八条の二第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">柔道整復師法による同法第三条の柔道整復師の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12591,7 +12589,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十七　厚生労働省又は柔道整復師法第十三条の三第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十八　厚生労働省又は柔道整復師法第十三条の三第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">柔道整復師法による同法第十条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12599,7 +12597,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十八　社会保険診療報酬支払基金又は国民健康保険団体連合会</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十九　社会保険診療報酬支払基金又は国民健康保険団体連合会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">予防接種法（昭和二十三年法律第六十八号）による同法第五十七条第一項第一号の情報の収集若しくは整理又は利用若しくは提供に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12607,7 +12605,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十九　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">新型インフルエンザ予防接種による健康被害の救済に関する特別措置法（平成二十一年法律第九十八号）による同法第三条第一項の給付の支給に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12615,7 +12613,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十　社会保険診療報酬支払基金</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十一　社会保険診療報酬支払基金</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">特定Ｂ型肝炎ウイルス感染者給付金等の支給に関する特別措置法（平成二十三年法律第百二十六号）による同法第三条第一項の特定Ｂ型肝炎ウイルス感染者給付金、同法第七条第一項の訴訟手当金、同法第八条第一項の追加給付金若しくは同法第十九条の定期検査費等の支給又は同法第十六条第一項の特定Ｂ型肝炎ウイルス感染者定期検査費等受給者証の交付に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12623,7 +12621,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十一　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十二　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">新型インフルエンザ等対策特別措置法（平成二十四年法律第三十一号）による同法第二十八条第一項の予防接種の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12631,7 +12629,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十二　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十三　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">原子爆弾被爆者に対する援護に関する法律（平成六年法律第百十七号）による同法第十八条第一項の一般疾病医療費の支給に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12639,7 +12637,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十三　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十四　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">栄養士法（昭和二十二年法律第二百四十五号）による同法第二条第三項の管理栄養士の免許又は同法第五条の二の管理栄養士国家試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12647,7 +12645,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十四　調理師法（昭和三十三年法律第百四十七号）第三条の二第二項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十五　調理師法（昭和三十三年法律第百四十七号）第三条の二第二項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">調理師法による同法第三条の二第一項の調理師試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12655,7 +12653,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十五　厚生労働省又は調理師法第八条の三第二項に規定する団体</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十六　厚生労働省又は調理師法第八条の三第二項に規定する団体</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">調理師法による同法第八条の三第一項の審査に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12663,7 +12661,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十六　製菓衛生師法（昭和四十一年法律第百十五号）第四条第二項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十七　製菓衛生師法（昭和四十一年法律第百十五号）第四条第二項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">製菓衛生師法による同法第四条第一項の製菓衛生師試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12671,7 +12669,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十七　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十八　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">建築物における衛生的環境の確保に関する法律（昭和四十五年法律第二十号）による同法第七条第一項の建築物環境衛生管理技術者免状の交付に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12679,7 +12677,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十八　厚生労働省又は建築物における衛生的環境の確保に関する法律第八条第三項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十九　厚生労働省又は建築物における衛生的環境の確保に関する法律第八条第三項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">建築物における衛生的環境の確保に関する法律による同法第八条第一項の建築物環境衛生管理技術者試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12687,7 +12685,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十九　厚生労働省又は理容師法（昭和二十二年法律第二百三十四号）第五条の三第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の四十　厚生労働省又は理容師法（昭和二十二年法律第二百三十四号）第五条の三第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">理容師法による同法第二条の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12695,7 +12693,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の四十　厚生労働省又は理容師法第四条の二第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の四十一　厚生労働省又は理容師法第四条の二第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">理容師法による同法第三条第一項の理容師試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12703,7 +12701,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の四十一　厚生労働省又は美容師法（昭和三十二年法律第百六十三号）第五条の三第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の四十二　厚生労働省又は美容師法（昭和三十二年法律第百六十三号）第五条の三第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">美容師法による同法第三条第一項の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12711,7 +12709,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の四十二　厚生労働省又は美容師法第四条の二第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の四十三　厚生労働省又は美容師法第四条の二第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">美容師法による同法第四条第一項の美容師試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12719,7 +12717,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の四十三　クリーニング業法（昭和二十五年法律第二百七号）第七条の二第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の四十四　クリーニング業法（昭和二十五年法律第二百七号）第七条の二第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">クリーニング業法による同法第七条第一項のクリーニング師の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -14275,7 +14273,7 @@
               <Sentence Num="1" WritingMode="vertical">五の十二　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">母子保健法（昭和四十年法律第百四十一号）による同法第九条の二第一項の相談、同条第二項の支援、同法第十条の保健指導、同法第十一条、第十七条第一項若しくは第十九条第一項の訪問指導、同法第十二条若しくは第十三条の健康診査、同法第十五条若しくは第十八条の届出、同法第十六条第一項の母子健康手帳の交付、同法第十七条の二第一項の産後ケア事業の実施、同法第二十条第一項の養育医療の給付若しくは養育医療に要する費用の支給、同法第二十一条の四第一項の費用の徴収又は同法第二十二条第一項のこども家庭センターの事業の実施に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">母子保健法による同法第九条の二第一項の相談、同条第二項の支援、同法第十条の保健指導、同法第十一条、第十七条第一項若しくは第十九条第一項の訪問指導、同法第十二条若しくは第十三条の健康診査、同法第十五条若しくは第十八条の届出、同法第十六条第一項の母子健康手帳の交付、同法第十七条の二第一項の産後ケア事業の実施、同法第二十条第一項の養育医療の給付若しくは養育医療に要する費用の支給、同法第二十一条の四第一項の費用の徴収又は同法第二十二条第一項のこども家庭センターの事業の実施に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
