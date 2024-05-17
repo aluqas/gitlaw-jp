@@ -1,0 +1,1679 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="137" Year="13" PromulgateMonth="11" PromulgateDay="30"><LawNum>平成十三年法律第百三十七号</LawNum><LawBody><LawTitle Kana="とくていでんきつうしんによるじょうほうのりゅうつうによってはっせいするけんりしんがいとうへのたいしょにかんするほうりつ" Abbrev="プロバイダー責任法,プロバイダー法,ＩＳＰ責任法,プロバイダ責任制限法" AbbrevKana="プ,プ,Ｉ,プ">特定電気通信による情報の流通によって発生する権利侵害等への対処に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　損害賠償責任の制限</ChapterTitle>
+        <ArticleRange>（第三条・第四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　発信者情報の開示請求等</ChapterTitle>
+        <ArticleRange>（第五条―第七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　発信者情報開示命令事件に関する裁判手続</ChapterTitle>
+        <ArticleRange>（第八条―第十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　大規模特定電気通信役務提供者の義務</ChapterTitle>
+        <ArticleRange>（第二十条―第三十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第三十五条―第三十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（趣旨）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、特定電気通信による情報の流通によって権利の侵害等があった場合について、特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示を請求する権利について定めるとともに、発信者情報開示命令事件に関する裁判手続に関し必要な事項を定め、あわせて、侵害情報送信防止措置の実施手続の迅速化及び送信防止措置の実施状況の透明化を図るための大規模特定電気通信役務提供者の義務について定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">特定電気通信</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">不特定の者によって受信されることを目的とする電気通信（電気通信事業法（昭和五十九年法律第八十六号）第二条第一号に規定する電気通信をいう。以下この号及び第五条第三項において同じ。）の送信（公衆によって直接受信されることを目的とする電気通信の送信を除く。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">特定電気通信設備</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">特定電気通信の用に供される電気通信設備（電気通信事業法第二条第二号に規定する電気通信設備をいう。第五条第二項において同じ。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">特定電気通信役務</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">特定電気通信設備を用いて提供する電気通信役務（電気通信事業法第二条第三号に規定する電気通信役務をいう。第五条第二項において同じ。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">特定電気通信役務提供者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">特定電気通信役務を提供する者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">発信者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">特定電気通信役務提供者の用いる特定電気通信設備の記録媒体（当該記録媒体に記録された情報が不特定の者に送信されるものに限る。）に情報を記録し、又は当該特定電気通信設備の送信装置（当該送信装置に入力された情報が不特定の者に送信されるものに限る。）に情報を入力した者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">侵害情報</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">特定電気通信による情報の流通によって自己の権利を侵害されたとする者が当該権利を侵害したとする情報をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">侵害情報等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">侵害情報、侵害されたとする権利及び権利が侵害されたとする理由をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">侵害情報送信防止措置</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">侵害情報の送信を防止する措置をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">送信防止措置</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">侵害情報送信防止措置その他の特定電気通信による情報の送信を防止する措置（当該情報の送信を防止するとともに、当該情報の発信者に対する特定電気通信役務の提供を停止する措置（第二十六条第二項第二号において「役務提供停止措置」という。）を含む。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">発信者情報</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">氏名、住所その他の侵害情報の発信者の特定に資する情報であって総務省令で定めるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">開示関係役務提供者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">第五条第一項に規定する特定電気通信役務提供者及び同条第二項に規定する関連電気通信役務提供者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">発信者情報開示命令</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">第八条の規定による命令をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">発信者情報開示命令事件</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">発信者情報開示命令の申立てに係る事件をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">第二十条第一項の規定により指定された特定電気通信役務提供者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　損害賠償責任の制限</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（損害賠償責任の制限）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">特定電気通信による情報の流通により他人の権利が侵害されたときは、当該特定電気通信の用に供される特定電気通信設備を用いる特定電気通信役務提供者（以下この項において「関係役務提供者」という。）は、これによって生じた損害については、権利を侵害した情報の不特定の者に対する送信を防止する措置を講ずることが技術的に可能な場合であって、次の各号のいずれかに該当するときでなければ、賠償の責めに任じない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該関係役務提供者が当該権利を侵害した情報の発信者である場合は、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該関係役務提供者が当該特定電気通信による情報の流通によって他人の権利が侵害されていることを知っていたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該関係役務提供者が、当該特定電気通信による情報の流通を知っていた場合であって、当該特定電気通信による情報の流通によって他人の権利が侵害されていることを知ることができたと認めるに足りる相当の理由があるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定電気通信役務提供者は、特定電気通信による情報の送信を防止する措置を講じた場合において、当該措置により送信を防止された情報の発信者に生じた損害については、当該措置が当該情報の不特定の者に対する送信を防止するために必要な限度において行われたものである場合であって、次の各号のいずれかに該当するときは、賠償の責めに任じない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該特定電気通信役務提供者が当該特定電気通信による情報の流通によって他人の権利が不当に侵害されていると信じるに足りる相当の理由があったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定電気通信による情報の流通によって自己の権利を侵害されたとする者から、侵害情報等を示して当該特定電気通信役務提供者に対し侵害情報送信防止措置を講ずるよう申出があった場合に、当該特定電気通信役務提供者が、当該申出に係る侵害情報の発信者に対し当該侵害情報等を示して当該侵害情報送信防止措置を講ずることに同意するかどうかを照会した場合において、当該発信者が当該照会を受けた日から七日を経過しても当該発信者から当該侵害情報送信防止措置を講ずることに同意しない旨の申出がなかったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（公職の候補者等に係る特例）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第二項の場合のほか、特定電気通信役務提供者は、特定電気通信による情報（選挙運動の期間中に頒布された文書図画に係る情報に限る。以下この条において同じ。）の送信を防止する措置を講じた場合において、当該措置により送信を防止された情報の発信者に生じた損害については、当該措置が当該情報の不特定の者に対する送信を防止するために必要な限度において行われたものである場合であって、次の各号のいずれかに該当するときは、賠償の責めに任じない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定電気通信による情報であって、選挙運動のために使用し、又は当選を得させないための活動に使用する文書図画（以下この条において「特定文書図画」という。）に係るものの流通によって自己の名誉を侵害されたとする公職の候補者等（公職の候補者又は候補者届出政党（公職選挙法（昭和二十五年法律第百号）第八十六条第一項又は第八項の規定による届出をした政党その他の政治団体をいう。）若しくは衆議院名簿届出政党等（同法第八十六条の二第一項の規定による届出をした政党その他の政治団体をいう。）若しくは参議院名簿届出政党等（同法第八十六条の三第一項の規定による届出をした政党その他の政治団体をいう。）をいう。次号において同じ。）から、当該名誉を侵害したとする情報（以下この条において「名誉侵害情報」という。）、名誉が侵害された旨、名誉が侵害されたとする理由及び当該名誉侵害情報が特定文書図画に係るものである旨（以下この条において「名誉侵害情報等」という。）を示して当該特定電気通信役務提供者に対し名誉侵害情報の送信を防止する措置（以下この条において「名誉侵害情報送信防止措置」という。）を講ずるよう申出があった場合に、当該特定電気通信役務提供者が、当該名誉侵害情報の発信者に対し当該名誉侵害情報等を示して当該名誉侵害情報送信防止措置を講ずることに同意するかどうかを照会した場合において、当該発信者が当該照会を受けた日から二日を経過しても当該発信者から当該名誉侵害情報送信防止措置を講ずることに同意しない旨の申出がなかったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定電気通信による情報であって、特定文書図画に係るものの流通によって自己の名誉を侵害されたとする公職の候補者等から、名誉侵害情報等及び名誉侵害情報の発信者の電子メールアドレス等（公職選挙法第百四十二条の三第三項に規定する電子メールアドレス等をいう。以下この号において同じ。）が同項又は同法第百四十二条の五第一項の規定に違反して表示されていない旨を示して当該特定電気通信役務提供者に対し名誉侵害情報送信防止措置を講ずるよう申出があった場合であって、当該情報の発信者の電子メールアドレス等が当該情報に係る特定電気通信の受信をする者が使用する通信端末機器（入出力装置を含む。）の映像面に正しく表示されていないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　発信者情報の開示請求等</ChapterTitle>
+        <Article Num="5">
+          <ArticleCaption>（発信者情報の開示請求）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定電気通信による情報の流通によって自己の権利を侵害されたとする者は、当該特定電気通信の用に供される特定電気通信設備を用いる特定電気通信役務提供者に対し、当該特定電気通信役務提供者が保有する当該権利の侵害に係る発信者情報のうち、特定発信者情報（発信者情報であって専ら侵害関連通信に係るものとして総務省令で定めるものをいう。以下この項及び第十五条第二項において同じ。）以外の発信者情報については第一号及び第二号のいずれにも該当するとき、特定発信者情報については次の各号のいずれにも該当するときは、それぞれその開示を請求することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該開示の請求に係る侵害情報の流通によって当該開示の請求をする者の権利が侵害されたことが明らかであるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該発信者情報が当該開示の請求をする者の損害賠償請求権の行使のために必要である場合その他当該発信者情報の開示を受けるべき正当な理由があるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次のイからハまでのいずれかに該当するとき。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該特定電気通信役務提供者が当該権利の侵害に係る特定発信者情報以外の発信者情報を保有していないと認めるとき。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該特定電気通信役務提供者が保有する当該権利の侵害に係る特定発信者情報以外の発信者情報が次に掲げる発信者情報以外の発信者情報であって総務省令で定めるもののみであると認めるとき。</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該開示の請求に係る侵害情報の発信者の氏名及び住所</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該権利の侵害に係る他の開示関係役務提供者を特定するために用いることができる発信者情報</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該開示の請求をする者がこの項の規定により開示を受けた発信者情報（特定発信者情報を除く。）によっては当該開示の請求に係る侵害情報の発信者を特定することができないと認めるとき。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定電気通信による情報の流通によって自己の権利を侵害されたとする者は、次の各号のいずれにも該当するときは、当該特定電気通信に係る侵害関連通信の用に供される電気通信設備を用いて電気通信役務を提供した者（当該特定電気通信に係る前項に規定する特定電気通信役務提供者である者を除く。以下この項において「関連電気通信役務提供者」という。）に対し、当該関連電気通信役務提供者が保有する当該侵害関連通信に係る発信者情報の開示を請求することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該開示の請求に係る侵害情報の流通によって当該開示の請求をする者の権利が侵害されたことが明らかであるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該発信者情報が当該開示の請求をする者の損害賠償請求権の行使のために必要である場合その他当該発信者情報の開示を受けるべき正当な理由があるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に規定する「侵害関連通信」とは、侵害情報の発信者が当該侵害情報の送信に係る特定電気通信役務を利用し、又はその利用を終了するために行った当該特定電気通信役務に係る識別符号（特定電気通信役務提供者が特定電気通信役務の提供に際して当該特定電気通信役務の提供を受けることができる者を他の者と区別して識別するために用いる文字、番号、記号その他の符号をいう。）その他の符号の電気通信による送信であって、当該侵害情報の発信者を特定するために必要な範囲内であるものとして総務省令で定めるものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（開示関係役務提供者の義務等）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">開示関係役務提供者は、前条第一項又は第二項の規定による開示の請求を受けたときは、当該開示の請求に係る侵害情報の発信者と連絡することができない場合その他特別の事情がある場合を除き、当該開示の請求に応じるかどうかについて当該発信者の意見（当該開示の請求に応じるべきでない旨の意見である場合には、その理由を含む。）を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">開示関係役務提供者は、発信者情報開示命令を受けたときは、前項の規定による意見の聴取（当該発信者情報開示命令に係るものに限る。）において前条第一項又は第二項の規定による開示の請求に応じるべきでない旨の意見を述べた当該発信者情報開示命令に係る侵害情報の発信者に対し、遅滞なくその旨を通知しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該発信者に対し通知することが困難であるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">開示関係役務提供者は、第十五条第一項（第二号に係る部分に限る。）の規定による命令を受けた他の開示関係役務提供者から当該命令による発信者情報の提供を受けたときは、当該発信者情報を、その保有する発信者情報（当該提供に係る侵害情報に係るものに限る。）を特定する目的以外に使用してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">開示関係役務提供者は、前条第一項又は第二項の規定による開示の請求に応じないことにより当該開示の請求をした者に生じた損害については、故意又は重大な過失がある場合でなければ、賠償の責めに任じない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該開示関係役務提供者が当該開示の請求に係る侵害情報の発信者である場合は、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（発信者情報の開示を受けた者の義務）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第五条第一項又は第二項の規定により発信者情報の開示を受けた者は、当該発信者情報をみだりに用いて、不当に当該発信者情報に係る発信者の名誉又は生活の平穏を害する行為をしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　発信者情報開示命令事件に関する裁判手続</ChapterTitle>
+        <Article Num="8">
+          <ArticleCaption>（発信者情報開示命令）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、特定電気通信による情報の流通によって自己の権利を侵害されたとする者の申立てにより、決定で、当該権利の侵害に係る開示関係役務提供者に対し、第五条第一項又は第二項の規定による請求に基づく発信者情報の開示を命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（日本の裁判所の管轄権）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、発信者情報開示命令の申立てについて、次の各号のいずれかに該当するときは、管轄権を有する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">人を相手方とする場合において、次のイからハまでのいずれかに該当するとき。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">相手方の住所又は居所が日本国内にあるとき。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">相手方の住所及び居所が日本国内にない場合又はその住所及び居所が知れない場合において、当該相手方が申立て前に日本国内に住所を有していたとき（日本国内に最後に住所を有していた後に外国に住所を有していたときを除く。）。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">大使、公使その他外国に在ってその国の裁判権からの免除を享有する日本人を相手方とするとき。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">法人その他の社団又は財団を相手方とする場合において、次のイ又はロのいずれかに該当するとき。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">相手方の主たる事務所又は営業所が日本国内にあるとき。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">相手方の主たる事務所又は営業所が日本国内にない場合において、次の（１）又は（２）のいずれかに該当するとき。</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該相手方の事務所又は営業所が日本国内にある場合において、申立てが当該事務所又は営業所における業務に関するものであるとき。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該相手方の事務所若しくは営業所が日本国内にない場合又はその事務所若しくは営業所の所在地が知れない場合において、代表者その他の主たる業務担当者の住所が日本国内にあるとき。</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、日本において事業を行う者（日本において取引を継続してする外国会社（会社法（平成十七年法律第八十六号）第二条第二号に規定する外国会社をいう。）を含む。）を相手方とする場合において、申立てが当該相手方の日本における業務に関するものであるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、当事者は、合意により、いずれの国の裁判所に発信者情報開示命令の申立てをすることができるかについて定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の合意は、書面でしなければ、その効力を生じない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項の合意がその内容を記録した電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。）によってされたときは、その合意は、書面によってされたものとみなして、前項の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">外国の裁判所にのみ発信者情報開示命令の申立てをすることができる旨の第二項の合意は、その裁判所が法律上又は事実上裁判権を行うことができないときは、これを援用することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、発信者情報開示命令の申立てについて前各項の規定により日本の裁判所が管轄権を有することとなる場合（日本の裁判所にのみ申立てをすることができる旨の第二項の合意に基づき申立てがされた場合を除く。）においても、事案の性質、手続の追行による相手方の負担の程度、証拠の所在地その他の事情を考慮して、日本の裁判所が審理及び裁判をすることが当事者間の衡平を害し、又は適正かつ迅速な審理の実現を妨げることとなる特別の事情があると認めるときは、当該申立ての全部又は一部を却下することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">日本の裁判所の管轄権は、発信者情報開示命令の申立てがあった時を標準として定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（管轄）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">発信者情報開示命令の申立ては、次の各号に掲げる場合の区分に応じ、それぞれ当該各号に定める地を管轄する地方裁判所の管轄に属する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">人を相手方とする場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">相手方の住所の所在地（相手方の住所が日本国内にないとき又はその住所が知れないときはその居所の所在地とし、その居所が日本国内にないとき又はその居所が知れないときはその最後の住所の所在地とする。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">大使、公使その他外国に在ってその国の裁判権からの免除を享有する日本人を相手方とする場合において、この項（前号に係る部分に限る。）の規定により管轄が定まらないとき</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">最高裁判所規則で定める地</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">法人その他の社団又は財団を相手方とする場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次のイ又はロに掲げる事務所又は営業所の所在地（当該事務所又は営業所が日本国内にないときは、代表者その他の主たる業務担当者の住所の所在地とする。）</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">相手方の主たる事務所又は営業所</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">申立てが相手方の事務所又は営業所（イに掲げるものを除く。）における業務に関するものであるときは、当該事務所又は営業所</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定により日本の裁判所が管轄権を有することとなる発信者情報開示命令の申立てについて、前項の規定又は他の法令の規定により管轄裁判所が定まらないときは、当該申立ては、最高裁判所規則で定める地を管轄する地方裁判所の管轄に属する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">発信者情報開示命令の申立てについて、前二項の規定により次の各号に掲げる裁判所が管轄権を有することとなる場合には、それぞれ当該各号に定める裁判所にも、当該申立てをすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">東京高等裁判所、名古屋高等裁判所、仙台高等裁判所又は札幌高等裁判所の管轄区域内に所在する地方裁判所（東京地方裁判所を除く。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">東京地方裁判所</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">大阪高等裁判所、広島高等裁判所、福岡高等裁判所又は高松高等裁判所の管轄区域内に所在する地方裁判所（大阪地方裁判所を除く。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">大阪地方裁判所</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項の規定にかかわらず、発信者情報開示命令の申立ては、当事者が合意で定める地方裁判所の管轄に属する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、前条第三項及び第四項の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前各項の規定にかかわらず、特許権、実用新案権、回路配置利用権又はプログラムの著作物についての著作者の権利を侵害されたとする者による当該権利の侵害についての発信者情報開示命令の申立てについて、当該各項の規定により次の各号に掲げる裁判所が管轄権を有することとなる場合には、当該申立ては、それぞれ当該各号に定める裁判所の管轄に専属する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">東京高等裁判所、名古屋高等裁判所、仙台高等裁判所又は札幌高等裁判所の管轄区域内に所在する地方裁判所</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">東京地方裁判所</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">大阪高等裁判所、広島高等裁判所、福岡高等裁判所又は高松高等裁判所の管轄区域内に所在する地方裁判所</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">大阪地方裁判所</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項第二号に定める裁判所がした発信者情報開示命令事件（同項に規定する権利の侵害に係るものに限る。）についての決定に対する即時抗告は、東京高等裁判所の管轄に専属する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前各項の規定にかかわらず、第十五条第一項（第一号に係る部分に限る。）の規定による命令により同号イに規定する他の開示関係役務提供者の氏名等情報の提供を受けた者の申立てに係る第一号に掲げる事件は、当該提供を受けた者の申立てに係る第二号に掲げる事件が係属するときは、当該事件が係属する裁判所の管轄に専属する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該他の開示関係役務提供者を相手方とする当該提供に係る侵害情報についての発信者情報開示命令事件</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該提供に係る侵害情報についての他の発信者情報開示命令事件</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（発信者情報開示命令の申立書の写しの送付等）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、発信者情報開示命令の申立てがあった場合には、当該申立てが不適法であるとき又は当該申立てに理由がないことが明らかなときを除き、当該発信者情報開示命令の申立書の写しを相手方に送付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">非訟事件手続法（平成二十三年法律第五十一号）第四十三条第四項から第六項までの規定は、発信者情報開示命令の申立書の写しを送付することができない場合（当該申立書の写しの送付に必要な費用を予納しない場合を含む。）について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">裁判所は、発信者情報開示命令の申立てについての決定をする場合には、当事者の陳述を聴かなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、不適法又は理由がないことが明らかであるとして当該申立てを却下する決定をするときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（発信者情報開示命令事件の記録の閲覧等）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">当事者又は利害関係を疎明した第三者は、裁判所書記官に対し、発信者情報開示命令事件の記録の閲覧若しくは謄写、その正本、謄本若しくは抄本の交付又は発信者情報開示命令事件に関する事項の証明書の交付を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定は、発信者情報開示命令事件の記録中の録音テープ又はビデオテープ（これらに準ずる方法により一定の事項を記録した物を含む。）については、適用しない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当事者又は利害関係を疎明した第三者は、裁判所書記官に対し、これらの物の複製を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定による発信者情報開示命令事件の記録の閲覧、謄写及び複製の請求は、当該記録の保存又は裁判所の執務に支障があるときは、することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（発信者情報開示命令の申立ての取下げ）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">発信者情報開示命令の申立ては、当該申立てについての決定が確定するまで、その全部又は一部を取り下げることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該申立ての取下げは、次に掲げる決定がされた後にあっては、相手方の同意を得なければ、その効力を生じない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該申立てについての決定</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該申立てに係る発信者情報開示命令事件を本案とする第十五条第一項の規定による命令</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">発信者情報開示命令の申立ての取下げがあった場合において、前項ただし書の規定により当該申立ての取下げについて相手方の同意を要するときは、裁判所は、相手方に対し、当該申立ての取下げがあったことを通知しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該申立ての取下げが発信者情報開示命令事件の手続の期日において口頭でされた場合において、相手方がその期日に出頭したときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項本文の規定による通知を受けた日から二週間以内に相手方が異議を述べないときは、当該通知に係る申立ての取下げに同意したものとみなす。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">同項ただし書の規定による場合において、当該申立ての取下げがあった日から二週間以内に相手方が異議を述べないときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（発信者情報開示命令の申立てについての決定に対する異議の訴え）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">発信者情報開示命令の申立てについての決定（当該申立てを不適法として却下する決定を除く。）に不服がある当事者は、当該決定の告知を受けた日から一月の不変期間内に、異議の訴えを提起することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する訴えは、同項に規定する決定をした裁判所の管轄に専属する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項に規定する訴えについての判決においては、当該訴えを不適法として却下するときを除き、同項に規定する決定を認可し、変更し、又は取り消す。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項に規定する決定を認可し、又は変更した判決で発信者情報の開示を命ずるものは、強制執行に関しては、給付を命ずる判決と同一の効力を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項に規定する訴えが、同項に規定する期間内に提起されなかったとき、又は却下されたときは、当該訴えに係る同項に規定する決定は、確定判決と同一の効力を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所が第一項に規定する決定をした場合における非訟事件手続法第五十九条第一項の規定の適用については、同項第二号中「即時抗告をする」とあるのは、「異議の訴えを提起する」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（提供命令）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">本案の発信者情報開示命令事件が係属する裁判所は、発信者情報開示命令の申立てに係る侵害情報の発信者を特定することができなくなることを防止するため必要があると認めるときは、当該発信者情報開示命令の申立てをした者（以下この項において「申立人」という。）の申立てにより、決定で、当該発信者情報開示命令の申立ての相手方である開示関係役務提供者に対し、次に掲げる事項を命ずることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該申立人に対し、次のイ又はロに掲げる場合の区分に応じそれぞれ当該イ又はロに定める事項（イに掲げる場合に該当すると認めるときは、イに定める事項）を書面又は電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であって総務省令で定めるものをいう。次号において同じ。）により提供すること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">当該開示関係役務提供者がその保有する発信者情報（当該発信者情報開示命令の申立てに係るものに限る。以下この項において同じ。）により当該侵害情報に係る他の開示関係役務提供者（当該侵害情報の発信者であると認めるものを除く。ロにおいて同じ。）の氏名又は名称及び住所（以下この項及び第三項において「他の開示関係役務提供者の氏名等情報」という。）の特定をすることができる場合</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該他の開示関係役務提供者の氏名等情報</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">当該開示関係役務提供者が当該侵害情報に係る他の開示関係役務提供者を特定するために用いることができる発信者情報として総務省令で定めるものを保有していない場合又は当該開示関係役務提供者がその保有する当該発信者情報によりイに規定する特定をすることができない場合</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その旨</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">この項の規定による命令（以下この条において「提供命令」といい、前号に係る部分に限る。）により他の開示関係役務提供者の氏名等情報の提供を受けた当該申立人から、当該他の開示関係役務提供者を相手方として当該侵害情報についての発信者情報開示命令の申立てをした旨の書面又は電磁的方法による通知を受けたときは、当該他の開示関係役務提供者に対し、当該開示関係役務提供者が保有する発信者情報を書面又は電磁的方法により提供すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項（各号列記以外の部分に限る。）に規定する発信者情報開示命令の申立ての相手方が第五条第一項に規定する特定電気通信役務提供者であって、かつ、当該申立てをした者が当該申立てにおいて特定発信者情報を含む発信者情報の開示を請求している場合における前項の規定の適用については、同項第一号イの規定中「に係るもの」とあるのは、次の表の上欄に掲げる場合の区分に応じ、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+            </ParagraphSentence>
+            <TableStruct>
+              <Table WritingMode="vertical">
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">当該特定発信者情報の開示の請求について第五条第一項第三号に該当すると認められる場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">に係る第五条第一項に規定する特定発信者情報</Sentence>
+                  </TableColumn>
+                </TableRow>
+                <TableRow>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">当該特定発信者情報の開示の請求について第五条第一項第三号に該当すると認められない場合</Sentence>
+                  </TableColumn>
+                  <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <Sentence Num="1" WritingMode="vertical">に係る第五条第一項に規定する特定発信者情報以外の発信者情報</Sentence>
+                  </TableColumn>
+                </TableRow>
+              </Table>
+            </TableStruct>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当するときは、提供命令（提供命令により二以上の他の開示関係役務提供者の氏名等情報の提供を受けた者が、当該他の開示関係役務提供者のうちの一部の者について第一項第二号に規定する通知をしないことにより第二号に該当することとなるときは、当該一部の者に係る部分に限る。）は、その効力を失う。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該提供命令の本案である発信者情報開示命令事件（当該発信者情報開示命令事件についての前条第一項に規定する決定に対して同項に規定する訴えが提起されたときは、その訴訟）が終了したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該提供命令により他の開示関係役務提供者の氏名等情報の提供を受けた者が、当該提供を受けた日から二月以内に、当該提供命令を受けた開示関係役務提供者に対し、第一項第二号に規定する通知をしなかったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">提供命令の申立ては、当該提供命令があった後であっても、その全部又は一部を取り下げることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">提供命令を受けた開示関係役務提供者は、当該提供命令に対し、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（消去禁止命令）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">本案の発信者情報開示命令事件が係属する裁判所は、発信者情報開示命令の申立てに係る侵害情報の発信者を特定することができなくなることを防止するため必要があると認めるときは、当該発信者情報開示命令の申立てをした者の申立てにより、決定で、当該発信者情報開示命令の申立ての相手方である開示関係役務提供者に対し、当該発信者情報開示命令事件（当該発信者情報開示命令事件についての第十四条第一項に規定する決定に対して同項に規定する訴えが提起されたときは、その訴訟）が終了するまでの間、当該開示関係役務提供者が保有する発信者情報（当該発信者情報開示命令の申立てに係るものに限る。）を消去してはならない旨を命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による命令（以下この条において「消去禁止命令」という。）の申立ては、当該消去禁止命令があった後であっても、その全部又は一部を取り下げることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">消去禁止命令を受けた開示関係役務提供者は、当該消去禁止命令に対し、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（当事者に対する住所、氏名等の秘匿）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">発信者情報開示命令事件に関する裁判手続における申立てその他の申述については、民事訴訟法（平成八年法律第百九号）第一編第八章の規定を準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第百三十三条第一項中「当事者」とあるのは「当事者又は利害関係参加人（非訟事件手続法（平成二十三年法律第五十一号）第二十一条第五項に規定する利害関係参加人をいう。第百三十三条の四第一項、第二項及び第七項において同じ。）」と、同法第百三十三条の二第二項中「訴訟記録等（訴訟記録又は第百三十二条の四第一項の処分の申立てに係る事件の記録」とあるのは「発信者情報開示命令事件（特定電気通信による情報の流通によって発生する権利侵害等への対処に関する法律第二条第十三号に規定する発信者情報開示命令事件」と、「）中」とあるのは「）の記録中」と、同法第百三十三条の四第一項中「者は、訴訟記録等」とあるのは「当事者若しくは利害関係参加人又は利害関係を疎明した第三者は、発信者情報開示命令事件の記録」と、同条第二項中「当事者」とあるのは「当事者又は利害関係参加人」と、「訴訟記録等」とあるのは「発信者情報開示命令事件の記録」と、同条第七項中「当事者」とあるのは「当事者若しくは利害関係参加人」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（非訟事件手続法の適用除外）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">発信者情報開示命令事件に関する裁判手続については、非訟事件手続法第二十二条第一項ただし書、第二十七条、第四十条及び第四十二条の二の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（最高裁判所規則）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、発信者情報開示命令事件に関する裁判手続に関し必要な事項は、最高裁判所規則で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　大規模特定電気通信役務提供者の義務</ChapterTitle>
+        <Article Num="20">
+          <ArticleCaption>（大規模特定電気通信役務提供者の指定）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">総務大臣は、次の各号のいずれにも該当する特定電気通信役務であって、その利用に係る特定電気通信による情報の流通について侵害情報送信防止措置の実施手続の迅速化及び送信防止措置の実施状況の透明化を図る必要性が特に高いと認められるもの（以下「大規模特定電気通信役務」という。）を提供する特定電気通信役務提供者を、大規模特定電気通信役務提供者として指定することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該特定電気通信役務が次のいずれかに該当すること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該特定電気通信役務を利用して一月間に発信者となった者（日本国外にあると推定される者を除く。ロにおいて同じ。）及びこれに準ずる者として総務省令で定める者の数の総務省令で定める期間における平均（以下この条及び第二十四条第二項において「平均月間発信者数」という。）が特定電気通信役務の種類に応じて総務省令で定める数を超えること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該特定電気通信役務を利用して一月間に発信者となった者の延べ数の総務省令で定める期間における平均（以下この条及び第二十四条第二項において「平均月間延べ発信者数」という。）が特定電気通信役務の種類に応じて総務省令で定める数を超えること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該特定電気通信役務の一般的な性質に照らして侵害情報送信防止措置（侵害情報の不特定の者に対する送信を防止するために必要な限度において行われるものに限る。以下同じ。）を講ずることが技術的に可能であること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該特定電気通信役務が、その利用に係る特定電気通信による情報の流通によって権利の侵害が発生するおそれの少ない特定電気通信役務として総務省令で定めるもの以外のものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">総務大臣は、大規模特定電気通信役務提供者について前項の規定による指定の理由がなくなったと認めるときは、遅滞なく、その指定を解除しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">総務大臣は、第一項の規定による指定及び前項の規定による指定の解除に必要な限度において、総務省令で定めるところにより、特定電気通信役務提供者に対し、その提供する特定電気通信役務の平均月間発信者数及び平均月間延べ発信者数を報告させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">総務大臣は、前項の規定による報告の徴収によっては特定電気通信役務提供者の提供する特定電気通信役務の平均月間発信者数又は平均月間延べ発信者数を把握することが困難であると認めるときは、当該平均月間発信者数又は平均月間延べ発信者数を総務省令で定める合理的な方法により推計して、第一項の規定による指定及び第二項の規定による指定の解除を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（大規模特定電気通信役務提供者による届出）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者は、前条第一項の規定による指定を受けた日から三月以内に、総務省令で定めるところにより、次に掲げる事項を総務大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">外国の法人若しくは団体又は外国に住所を有する個人にあっては、国内における代表者又は国内における代理人の氏名又は名称及び国内の住所</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げる事項のほか、総務省令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者は、前項各号に掲げる事項に変更があったときは、遅滞なく、その旨を総務大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（被侵害者からの申出を受け付ける方法の公表）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者（前条第一項の規定による届出をした者に限る。以下同じ。）は、総務省令で定めるところにより、その提供する大規模特定電気通信役務を利用して行われる特定電気通信による情報の流通によって自己の権利を侵害されたとする者（次条において「被侵害者」という。）が侵害情報等を示して当該大規模特定電気通信役務提供者に対し侵害情報送信防止措置を講ずるよう申出を行うための方法を定め、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の方法は、次の各号のいずれにも適合するものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">電子情報処理組織を使用する方法による申出を行うことができるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">申出を行おうとする者に過重な負担を課するものでないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該大規模特定電気通信役務提供者が申出を受けた日時が当該申出を行った者（第二十五条において「申出者」という。）に明らかとなるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleCaption>（侵害情報に係る調査の実施）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者は、被侵害者から前条第一項の方法に従って侵害情報送信防止措置を講ずるよう申出があったときは、当該申出に係る侵害情報の流通によって当該被侵害者の権利が不当に侵害されているかどうかについて、遅滞なく必要な調査を行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleCaption>（侵害情報調査専門員）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者は、前条の調査のうち専門的な知識経験を必要とするものを適正に行わせるため、特定電気通信による情報の流通によって発生する権利侵害への対処に関して十分な知識経験を有する者のうちから、侵害情報調査専門員（以下この条及び次条第二項第二号において「専門員」という。）を選任しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者の専門員の数は、当該大規模特定電気通信役務提供者の提供する大規模特定電気通信役務の平均月間発信者数又は平均月間延べ発信者数及び種別に応じて総務省令で定める数（当該大規模特定電気通信役務提供者が複数の大規模特定電気通信役務を提供している場合にあっては、それぞれの大規模特定電気通信役務の平均月間発信者数又は平均月間延べ発信者数及び種別に応じて総務省令で定める数を合算した数）以上でなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者は、専門員を選任したときは、総務省令で定めるところにより、遅滞なく、その旨及び総務省令で定める事項を総務大臣に届け出なければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">これらを変更したときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（申出者に対する通知）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">大規模特定電気通信役務提供者は、第二十三条の申出があったときは、同条の調査の結果に基づき侵害情報送信防止措置を講ずるかどうかを判断し、当該申出を受けた日から十四日以内の総務省令で定める期間内に、次の各号に掲げる区分に応じ、当該各号に定める事項を申出者に通知しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、申出者から過去に同一の内容の申出が行われていたときその他の通知しないことについて正当な理由があるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">当該申出に応じて侵害情報送信防止措置を講じたとき</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その旨</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">当該申出に応じた侵害情報送信防止措置を講じなかったとき</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その旨及びその理由</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項本文の規定にかかわらず、大規模特定電気通信役務提供者は、次の各号のいずれかに該当するときは、第二十三条の調査の結果に基づき侵害情報送信防止措置を講ずるかどうかを判断した後、遅滞なく、同項各号に掲げる区分に応じ、当該各号に定める事項を申出者に通知すれば足りる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、同項の総務省令で定める期間内に、次の各号のいずれに該当するか（第三号に該当する場合にあっては、その旨及びやむを得ない理由の内容）を申出者に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十三条の調査のため侵害情報の発信者の意見を聴くこととしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十三条の調査を専門員に行わせることとしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げる場合のほか、やむを得ない理由があるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（送信防止措置の実施に関する基準等の公表）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者は、その提供する大規模特定電気通信役務を利用して行われる特定電気通信による情報の流通については、次の各号のいずれかに該当する場合のほか、自ら定め、公表している基準に従う場合に限り、送信防止措置を講ずることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該基準は、当該送信防止措置を講ずる日の総務省令で定める一定の期間前までに公表されていなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該大規模特定電気通信役務提供者が送信防止措置を講じようとする情報の発信者であるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">他人の権利を不当に侵害する情報の送信を防止する義務がある場合その他送信防止措置を講ずる法令上の義務（努力義務を除く。）がある場合において、当該義務に基づき送信防止措置を講ずるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">緊急の必要により送信防止措置を講ずる場合であって、当該送信防止措置を講ずる情報の種類が、通常予測することができないものであるため、当該基準における送信防止措置の対象として明示されていないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者は、前項の基準を定めるに当たっては、当該基準の内容が次の各号のいずれにも適合したものとなるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">送信防止措置の対象となる情報の種類が、当該大規模特定電気通信役務提供者が当該情報の流通を知ることとなった原因の別に応じて、できる限り具体的に定められていること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">役務提供停止措置を講ずることがある場合においては、役務提供停止措置の実施に関する基準ができる限り具体的に定められていること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">発信者その他の関係者が容易に理解することのできる表現を用いて記載されていること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">送信防止措置の実施に関する努力義務を定める法令との整合性に配慮されていること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者は、第一項第三号に該当することを理由に送信防止措置を講じたときは、速やかに、当該送信防止措置を講じた情報の種類が送信防止措置の対象となることが明らかになるよう同項の基準を変更しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の基準を公表している大規模特定電気通信役務提供者は、おおむね一年に一回、当該基準に従って送信防止措置を講じた情報の事例のうち発信者その他の関係者に参考となるべきものを情報の種類ごとに整理した資料を作成し、公表するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（発信者に対する通知等の措置）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者は、その提供する大規模特定電気通信役務を利用して行われる特定電気通信による情報の流通について送信防止措置を講じたときは、次の各号のいずれかに該当する場合を除き、遅滞なく、その旨及びその理由を当該送信防止措置により送信を防止された情報の発信者に通知し、又は当該情報の発信者が容易に知り得る状態に置く措置（第二号及び次条第三号において「通知等の措置」という。）を講じなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該送信防止措置が前条第一項の基準に従って講じられたものであるときは、当該理由において、当該送信防止措置と当該基準との関係を明らかにしなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該大規模特定電気通信役務提供者が送信防止措置を講じた情報の発信者であるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">過去に同一の発信者に対して同様の情報の送信を同様の理由により防止したことについて通知等の措置を講じていたときその他の通知等の措置を講じないことについて正当な理由があるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（措置の実施状況等の公表）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">大規模特定電気通信役務提供者は、毎年一回、総務省令で定めるところにより、次に掲げる事項を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十三条の申出の受付の状況</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条の規定による通知の実施状況</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条の規定による通知等の措置の実施状況</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">送信防止措置の実施状況（前三号に掲げる事項を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる事項について自ら行った評価</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる事項のほか、大規模特定電気通信役務提供者がこの章の規定に基づき講ずべき措置の実施状況を明らかにするために必要な事項として総務省令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（報告の徴収）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">総務大臣は、第二十二条、第二十四条、第二十五条、第二十六条第一項若しくは第三項、第二十七条又は前条の規定の施行に必要な限度において、大規模特定電気通信役務提供者に対し、その業務に関し報告をさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（勧告及び命令）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">総務大臣は、大規模特定電気通信役務提供者が第二十二条、第二十四条、第二十五条、第二十六条第一項若しくは第三項、第二十七条又は第二十八条の規定に違反していると認めるときは、当該大規模特定電気通信役務提供者に対し、その違反を是正するために必要な措置を講ずべきことを勧告することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">総務大臣は、前項の規定による勧告を受けた大規模特定電気通信役務提供者が、正当な理由がなく当該勧告に係る措置を講じなかったときは、当該大規模特定電気通信役務提供者に対し、当該勧告に係る措置を講ずべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（送達すべき書類）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十条第一項の規定による指定、第二十九条の規定による報告の徴収、前条第一項の規定による勧告又は同条第二項の規定による命令は、総務省令で定める書類を送達して行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十条第一項の規定による指定又は前条第二項の規定による命令に係る行政手続法（平成五年法律第八十八号）第三十条の規定による通知は、同条の書類を送達して行う。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第三十一条において読み替えて準用する同法第十五条第三項の規定は適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（送達に関する民事訴訟法の準用）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定による送達については、民事訴訟法第九十九条、第百一条、第百三条、第百五条、第百六条、第百八条及び第百九条の規定を準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第九十九条第一項中「執行官」とあるのは「総務大臣の職員」と、同法第百八条中「裁判長」とあり、及び同法第百九条中「裁判所」とあるのは「総務大臣」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（公示送達）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">総務大臣は、次に掲げる場合には、公示送達をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">送達を受けるべき者の住所、居所その他送達をすべき場所が知れない場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">外国においてすべき送達について、前条において読み替えて準用する民事訴訟法第百八条の規定によることができず、又はこれによっても送達をすることができないと認めるべき場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条において読み替えて準用する民事訴訟法第百八条の規定により外国の管轄官庁に嘱託を発した後六月を経過してもその送達を証する書面の送付がない場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公示送達は、送達をすべき書類を送達を受けるべき者にいつでも交付すべき旨を総務省令で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、その旨が記載された書面を総務省の掲示場に掲示し、又はその旨を総務省の事務所に設置した電子計算機の映像面に表示したものの閲覧をすることができる状態に置く措置をとることにより行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公示送達は、前項の規定による措置を開始した日から二週間を経過することによって、その効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">外国においてすべき送達についてした公示送達にあっては、前項の期間は、六週間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（電子情報処理組織の使用）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">総務大臣の職員が、情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第三条第九号に規定する処分通知等であって第三十一条の規定により書類を送達して行うこととしているものに関する事務を、同法第七条第一項の規定により同法第六条第一項に規定する電子情報処理組織を使用して行ったときは、第三十二条において読み替えて準用する民事訴訟法第百九条の規定による送達に関する事項を記載した書面の作成及び提出に代えて、当該事項を当該電子情報処理組織を使用して総務大臣の使用に係る電子計算機（入出力装置を含む。）に備えられたファイルに記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Num="35">
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十条第二項の規定による命令に違反した場合には、当該違反行為をした者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十一条の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十九条の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、次の各号に掲げる規定の違反行為をしたときは、行為者を罰するほか、その法人に対して当該各号に定める罰金刑を、その人に対して各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第三十五条又は前条第一号</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">一億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前条第二号</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">同条の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、三十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">正当な理由がなく、第二十条第三項の規定による報告をせず、又は虚偽の報告をした者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条第三項の規定による届出をせず、又は虚偽の届出をした者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年四月二六日法律第一〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一月を経過した日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（適用区分）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正後の公職選挙法（以下「新法」という。）の規定（新法第百四十二条の四第二項、第四項及び第五項（第二項及び第五項にあっては、通知に係る部分に限る。）、第百五十二条、第二百二十九条並びに第二百七十一条の六の規定を除く。）及び附則第六条の規定による改正後の特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律（平成十三年法律第百三十七号）の規定は、この法律の施行の日（以下「施行日」という。）以後初めてその期日を公示される衆議院議員の総選挙の期日の公示の日又は施行日以後初めてその期日を公示される参議院議員の通常選挙の期日の公示の日のうちいずれか早い日（以下「公示日」という。）以後にその期日を公示され又は告示される選挙について適用し、公示日の前日までにその期日を公示され又は告示された選挙については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年四月二八日法律第二七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（発信者の意見の聴取に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日前にしたこの法律による改正前の特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律第四条第二項の規定による意見の聴取は、この法律による改正後の特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律（次条において「新法」という。）第六条第一項の規定によりされた意見の聴取とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、新法の施行の状況について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二五日法律第四八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して四年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条の規定並びに附則第六十条中商業登記法（昭和三十八年法律第百二十五号）第五十二条第二項の改正規定及び附則第百二十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定、第四条中民事訴訟費用等に関する法律第二十八条の二第一項の改正規定及び同法別表第一の一七の項イ（イ）の改正規定（「取消しの申立て」の下に「、秘匿決定を求める申立て、秘匿事項記載部分の閲覧等の請求をすることができる者を秘匿決定に係る秘匿対象者に限る決定を求める申立て、秘匿決定等の取消しの申立て、秘匿決定等により閲覧等が制限される部分につき閲覧等をすることの許可を求める申立て」を加える部分に限る。）、第五条中人事訴訟法第三十五条の改正規定、第六条の規定並びに第九条中民事執行法第百五十六条の改正規定、同法第百五十七条第四項の改正規定、同法第百六十一条第一項の改正規定、同法第百六十一条の次に一条を加える改正規定、同法第百六十五条第一号の改正規定、同法第百六十六条第一項第一号の改正規定、同法第百六十七条の十第一項の改正規定及び同法第百六十七条の十四第一項の改正規定並びに附則第四十五条及び第四十八条の規定、附則第七十一条中民事保全法（平成元年法律第九十一号）第五十条第五項の改正規定、附則第七十三条の規定、附則第八十二条中組織的な犯罪の処罰及び犯罪収益の規制等に関する法律（平成十一年法律第百三十六号）第三十条第四項の改正規定及び同法第三十六条第五項の改正規定並びに附則第八十六条、第九十一条、第九十八条、第百十二条、第百十五条及び第百十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して九月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="125">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百二十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一四日法律第五三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して五年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第三十二章の規定及び第三百八十八条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年五月一七日法律第二五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、この法律による改正後の規定の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日からデジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律（令和五年法律第六十三号）附則第一条第二号に掲げる規定の施行の日（以下この条において「デジタル社会形成基本法施行日」という。）の前日までの間におけるこの法律による改正後の特定電気通信による情報の流通によって発生する権利侵害等への対処に関する法律（次条において「新法」という。）第三十三条の規定の適用については、同条第二項中「旨を総務省令で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、その旨が記載された書面を」とあるのは「旨を」と、「掲示し、又はその旨を総務省の事務所に設置した電子計算機の映像面に表示したものの閲覧をすることができる状態に置く措置をとる」とあるのは「掲示する」と、同条第三項中「措置を開始した」とあるのは「掲示を始めた」とする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">デジタル社会形成基本法施行日以後におけるデジタル社会形成基本法施行日前にした公示送達に対する同条の規定の適用についても、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（調整規定）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日が刑法等の一部を改正する法律（令和四年法律第六十七号）の施行の日（以下この条において「刑法施行日」という。）前である場合には、この法律の施行の日から刑法施行日の前日までの間における新法第三十五条の規定の適用については、同条中「拘禁刑」とあるのは、「懲役」とする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">刑法施行日以後における刑法施行日前にした行為に対する同条の規定の適用についても、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
