@@ -209,7 +209,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">一週間の所定労働時間が二十時間未満である者（第三十七条の五第一項の規定による申出をして高年齢被保険者となる者及びこの法律を適用することとした場合において第四十三条第一項に規定する日雇労働被保険者に該当することとなる者を除く。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">一週間の所定労働時間が十時間未満である者（第三十七条の五第一項の規定による申出をして高年齢被保険者となる者及びこの法律を適用することとした場合において第四十三条第一項に規定する日雇労働被保険者に該当することとなる者を除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -499,8 +499,8 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">被保険者期間は、被保険者であつた期間のうち、当該被保険者でなくなつた日又は各月においてその日に応当し、かつ、当該被保険者であつた期間内にある日（その日に応当する日がない月においては、その月の末日。以下この項において「喪失応当日」という。）の各前日から各前月の喪失応当日までさかのぼつた各期間（賃金の支払の基礎となつた日数が十一日以上であるものに限る。）を一箇月として計算し、その他の期間は、被保険者期間に算入しない。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該被保険者となつた日からその日後における最初の喪失応当日の前日までの期間の日数が十五日以上であり、かつ、当該期間内における賃金の支払の基礎となつた日数が十一日以上であるときは、当該期間を二分の一箇月の被保険者期間として計算する。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">被保険者期間は、被保険者であつた期間のうち、当該被保険者でなくなつた日又は各月においてその日に応当し、かつ、当該被保険者であつた期間内にある日（その日に応当する日がない月においては、その月の末日。以下この項において「喪失応当日」という。）の各前日から各前月の喪失応当日まで遡つた各期間（賃金の支払の基礎となつた日数が六日以上であるものに限る。）を一箇月として計算し、その他の期間は、被保険者期間に算入しない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該被保険者となつた日からその日後における最初の喪失応当日の前日までの期間の日数が十五日以上であり、かつ、当該期間内における賃金の支払の基礎となつた日数が六日以上であるときは、当該期間を二分の一箇月の被保険者期間として計算する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -530,7 +530,7 @@
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前二項の規定により計算された被保険者期間が十二箇月（前条第二項の規定により読み替えて適用する場合にあつては、六箇月）に満たない場合における第一項の規定の適用については、同項中「であるもの」とあるのは「であるもの又は賃金の支払の基礎となつた時間数が八十時間以上であるもの」と、「であるとき」とあるのは「であるとき又は賃金の支払の基礎となつた時間数が八十時間以上であるとき」とする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前二項の規定により計算された被保険者期間が十二箇月（前条第二項の規定により読み替えて適用する場合にあつては、六箇月）に満たない場合における第一項の規定の適用については、同項中「であるもの」とあるのは「であるもの又は賃金の支払の基礎となつた時間数が四十時間以上であるもの」と、「であるとき」とあるのは「であるとき又は賃金の支払の基礎となつた時間数が四十時間以上であるとき」とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -599,7 +599,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">基本手当の日額は、賃金日額に百分の五十（二千四百六十円以上四千九百二十円未満の賃金日額（その額が第十八条の規定により変更されたときは、その変更された額）については百分の八十、四千九百二十円以上一万二千九十円以下の賃金日額（その額が同条の規定により変更されたときは、その変更された額）については百分の八十から百分の五十までの範囲で、賃金日額の逓増に応じ、逓減するように厚生労働省令で定める率）を乗じて得た金額とする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">基本手当の日額は、賃金日額に百分の五十（千二百三十円以上四千九百二十円未満の賃金日額（その額が第十八条の規定により変更されたときは、その変更された額）については百分の八十、四千九百二十円以上一万二千九十円以下の賃金日額（その額が同条の規定により変更されたときは、その変更された額）については百分の八十から百分の五十までの範囲で、賃金日額の逓増に応じ、逓減するように厚生労働省令で定める率）を乗じて得た金額とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -650,7 +650,7 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">二千四百六十円（その額が次条の規定により変更されたときは、その変更された額）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">千二百三十円（その額が次条の規定により変更されたときは、その変更された額）</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
@@ -729,47 +729,16 @@
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前三項の「自動変更対象額」とは、第十六条第一項（同条第二項において読み替えて適用する場合を含む。）の規定による基本手当の日額の算定に当たつて、百分の八十を乗ずる賃金日額の範囲となる同条第一項に規定する二千四百六十円以上四千九百二十円未満の額及び百分の八十から百分の五十までの範囲の率を乗ずる賃金日額の範囲となる同項に規定する四千九百二十円以上一万二千九十円以下の額並びに前条第四項各号に掲げる額をいう。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前三項の「自動変更対象額」とは、第十六条第一項（同条第二項において読み替えて適用する場合を含む。）の規定による基本手当の日額の算定に当たつて、百分の八十を乗ずる賃金日額の範囲となる同条第一項に規定する千二百三十円以上四千九百二十円未満の額及び百分の八十から百分の五十までの範囲の率を乗ずる賃金日額の範囲となる同項に規定する四千九百二十円以上一万二千九十円以下の額並びに前条第四項各号に掲げる額をいう。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
             <Article Num="19">
-              <ArticleCaption>（基本手当の減額）</ArticleCaption>
               <ArticleTitle>第十九条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">受給資格者が、失業の認定に係る期間中に自己の労働によつて収入を得た場合には、その収入の基礎となつた日数（以下この項において「基礎日数」という。）分の基本手当の支給については、次に定めるところによる。</Sentence>
-                </ParagraphSentence>
-                <Item Num="1">
-                  <ItemTitle>一</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">その収入の一日分に相当する額（収入の総額を基礎日数で除して得た額をいう。）から千二百八十二円（その額が次項の規定により変更されたときは、その変更された額。同項において「控除額」という。）を控除した額と基本手当の日額との合計額（次号において「合計額」という。）が賃金日額の百分の八十に相当する額を超えないとき　基本手当の日額に基礎日数を乗じて得た額を支給する。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="2">
-                  <ItemTitle>二</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">合計額が賃金日額の百分の八十に相当する額を超えるとき（次号に該当する場合を除く。）　当該超える額（次号において「超過額」という。）を基本手当の日額から控除した残りの額に基礎日数を乗じて得た額を支給する。</Sentence>
-                  </ItemSentence>
-                </Item>
-                <Item Num="3">
-                  <ItemTitle>三</ItemTitle>
-                  <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">超過額が基本手当の日額以上であるとき　基礎日数分の基本手当を支給しない。</Sentence>
-                  </ItemSentence>
-                </Item>
-              </Paragraph>
-              <Paragraph Num="2">
-                <ParagraphNum>２</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、年度の平均給与額が平成二十七年四月一日から始まる年度（この項の規定により控除額が変更されたときは、直近の当該変更がされた年度の前年度）の平均給与額を超え、又は下るに至つた場合においては、その上昇し、又は低下した比率を基準として、その翌年度の八月一日以後の控除額を変更しなければならない。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="3">
-                <ParagraphNum>３</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">受給資格者は、失業の認定を受けた期間中に自己の労働によつて収入を得たときは、厚生労働省令で定めるところにより、その収入の額その他の事項を公共職業安定所長に届け出なければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">削除</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1483,12 +1452,6 @@
                   <Sentence Num="1" WritingMode="vertical">第十条の三第一項の規定により、受給資格者が死亡したため失業の認定を受けることができなかつた期間に係る基本手当の支給を請求する者は、厚生労働省令で定めるところにより、当該受給資格者について失業の認定を受けなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
-              <Paragraph Num="2">
-                <ParagraphNum>２</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の受給資格者が第十九条第一項の規定に該当する場合には、第十条の三第一項の規定による未支給の基本手当の支給を受けるべき者は、厚生労働省令で定めるところにより、第十九条第一項の収入の額その他の事項を公共職業安定所長に届け出なければならない。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
             </Article>
             <Article Num="32">
               <ArticleCaption>（給付制限）</ArticleCaption>
@@ -1725,8 +1688,8 @@
               <Paragraph Num="9">
                 <ParagraphNum>９</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第十九条、第二十一条、第三十一条並びに第三十四条第一項及び第二項の規定は、傷病手当について準用する。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合において、第十九条第一項及び第三項並びに第三十一条第一項中「失業の認定」とあるのは、「第三十七条第一項の認定」と読み替えるものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十一条、第三十一条並びに第三十四条第一項及び第二項の規定は、傷病手当について準用する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、第三十一条中「失業の認定」とあるのは、「第三十七条第一項の認定」と読み替えるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1825,8 +1788,8 @@
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十一条、第三十一条第一項、第三十二条、第三十三条第一項及び第二項並びに第三十四条第一項から第三項までの規定は、高年齢求職者給付金について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定中「受給資格者」とあるのは「高年齢受給資格者」と、「受給資格」とあるのは「高年齢受給資格」と、第三十一条第一項中「失業の認定を受けることができなかつた期間」とあるのは「第三十七条の四第五項の認定を受けることができなかつた場合における当該高年齢受給資格者」と、「失業の認定を受けなければならない」とあるのは「同項の認定を受けなければならない」と、第三十三条第一項中「第二十一条の規定による期間」とあるのは「第三十七条の四第六項において準用する第二十一条の規定による期間」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十一条、第三十一条、第三十二条、第三十三条第一項及び第二項並びに第三十四条第一項から第三項までの規定は、高年齢求職者給付金について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定中「受給資格者」とあるのは「高年齢受給資格者」と、「受給資格」とあるのは「高年齢受給資格」と、第三十一条中「失業の認定を受けることができなかつた期間」とあるのは「第三十七条の四第五項の認定を受けることができなかつた場合における当該高年齢受給資格者」と、「失業の認定を受けなければならない」とあるのは「同項の認定を受けなければならない」と、第三十三条第一項中「第二十一条の規定による期間」とあるのは「第三十七条の四第六項において準用する第二十一条の規定による期間」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1847,13 +1810,13 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">一の事業主の適用事業における一週間の所定労働時間が二十時間未満であること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">一の事業主の適用事業における一週間の所定労働時間が十時間未満であること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">二の事業主の適用事業（申出を行う労働者の一の事業主の適用事業における一週間の所定労働時間が厚生労働省令で定める時間数以上であるものに限る。）における一週間の所定労働時間の合計が二十時間以上であること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">二の事業主の適用事業（申出を行う労働者の一の事業主の適用事業における一週間の所定労働時間が厚生労働省令で定める時間数以上であるものに限る。）における一週間の所定労働時間の合計が十時間以上であること。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1912,7 +1875,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">一週間の所定労働時間が二十時間以上であつて厚生労働大臣の定める時間数未満である者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">一週間の所定労働時間が十時間以上であつて厚生労働大臣の定める時間数未満である者</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1970,8 +1933,8 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十一条、第三十一条第一項、第三十二条、第三十三条第一項及び第二項並びに第三十四条第一項から第三項までの規定は、特例一時金について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、第二十一条中「受給資格者」とあるのは「特例受給資格者」と、「受給資格」とあるのは「特例受給資格」と、第三十一条第一項中「受給資格者」とあるのは「特例受給資格者」と、「失業の認定を受けることができなかつた期間」とあるのは「第四十条第三項の認定を受けることができなかつた場合における当該特例受給資格者」と、「失業の認定を受けなければならない」とあるのは「同項の認定を受けなければならない」と、第三十二条中「受給資格者」とあるのは「特例受給資格者」と、第三十三条第一項中「支給しない。ただし、次に掲げる受給資格者（第一号に掲げる者にあつては公共職業安定所長の指示した公共職業訓練等を受ける期間及び当該公共職業訓練等を受け終わつた日後の期間に限り、第三号に掲げる者にあつては第二号に規定する訓練を受ける期間及び当該訓練を受け終わつた日後の期間に限る。）については、この限りでない」とあるのは「支給しない」と、同条第二項中「受給資格者」とあるのは「特例受給資格者」と、第三十四条第二項中「受給資格」とあるのは「特例受給資格」と、同条第三項中「受給資格者」とあるのは「特例受給資格者」と、「受給資格」とあるのは「特例受給資格」とそれぞれ読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十一条、第三十一条、第三十二条、第三十三条第一項及び第二項並びに第三十四条第一項から第三項までの規定は、特例一時金について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第二十一条中「受給資格者」とあるのは「特例受給資格者」と、「受給資格」とあるのは「特例受給資格」と、第三十一条中「受給資格者」とあるのは「特例受給資格者」と、「失業の認定を受けることができなかつた期間」とあるのは「第四十条第三項の認定を受けることができなかつた場合における当該特例受給資格者」と、「失業の認定を受けなければならない」とあるのは「同項の認定を受けなければならない」と、第三十二条中「受給資格者」とあるのは「特例受給資格者」と、第三十三条第一項中「支給しない。ただし、次に掲げる受給資格者（第一号に掲げる者にあつては公共職業安定所長の指示した公共職業訓練等を受ける期間及び当該公共職業訓練等を受け終わつた日後の期間に限り、第三号に掲げる者にあつては第二号に規定する訓練を受ける期間及び当該訓練を受け終わつた日後の期間に限る。）については、この限りでない」とあるのは「支給しない」と、同条第二項中「受給資格者」とあるのは「特例受給資格者」と、第三十四条第二項中「受給資格」とあるのは「特例受給資格」と、同条第三項中「受給資格者」とあるのは「特例受給資格者」と、「受給資格」とあるのは「特例受給資格」とそれぞれ読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2216,8 +2179,8 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十一条第一項の規定は、日雇労働求職者給付金について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同項中「受給資格者」とあるのは「日雇労働求職者給付金の支給を受けることができる者」と、「失業の認定」とあるのは「第四十七条第二項の失業の認定」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条の規定は、日雇労働求職者給付金について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条中「受給資格者」とあるのは「日雇労働求職者給付金の支給を受けることができる者」と、「失業の認定」とあるのは「第四十七条第二項の失業の認定」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4123,7 +4086,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">年度の平均給与額が修正されたことにより、厚生労働大臣が第十八条第四項に規定する自動変更対象額、第十九条第一項第一号に規定する控除額又は第六十一条第一項第二号若しくは第六十一条の十二第二項に規定する支給限度額を変更した場合において、当該変更に伴いその額が再び算定された失業等給付等があるときは、当該失業等給付等に係る第十条の三（第六十一条の六第五項において準用する場合を含む。）の規定による未支給の失業等給付等の支給を受ける権利については、会計法（昭和二十二年法律第三十五号）第三十一条第一項の規定を適用しない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">年度の平均給与額が修正されたことにより、厚生労働大臣が第十八条第四項に規定する自動変更対象額又は第六十一条第一項第二号若しくは第六十一条の十二第二項に規定する支給限度額を変更した場合において、当該変更に伴いその額が再び算定された失業等給付等があるときは、当該失業等給付等に係る第十条の三（第六十一条の六第五項において準用する場合を含む。）の規定による未支給の失業等給付等の支給を受ける権利については、会計法（昭和二十二年法律第三十五号）第三十一条第一項の規定を適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4230,7 +4193,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">船員である者が失業した場合に関しては、第十条の四第二項中「又は業として」とあるのは「若しくは業として」と、「除く。）」とあるのは「除く。）又は船員職業安定法第六条第四項に規定する無料船員職業紹介事業者若しくは業として同条第五項に規定する職業指導（船員の職業に就こうとする者の適性、職業経験その他の実情に応じて行うものに限る。）を行う者（地方運輸局（運輸監理部、運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。第十五条第五項において同じ。）及び船員雇用促進センター（船員の雇用の促進に関する特別措置法第七条第二項に規定する船員雇用促進センターをいう。以下同じ。）を除く。）」と、第十五条第二項から第四項まで、第十九条第三項、第二十条第一項及び第二項、第二十条の二、第二十一条、第二十四条、第二十四条の二第一項及び第二項、第二十九条第二項、第三十条、第三十一条第二項、第三十二条第二項及び第三項、第三十三条第一項及び第二項、第三十六条第一項及び第二項、第三十七条第一項、第二項及び第七項、第三十七条の三第二項、第三十七条の四第五項、第三十九条第二項、第四十条第三項及び第四項、第四十一条第一項、第四十七条第二項、第五十一条第一項、第五十二条第一項及び第二項、第五十三条第一項、第五十六条の三第一項並びに第五十九条第一項中「公共職業安定所」又は「公共職業安定所長」とあるのは「公共職業安定所又は地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）」又は「公共職業安定所長又は地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）の長」と、第十五条第三項中「法令の規定に基づき失業者」とあるのは「失業者」と、同条第五項中「職業安定機関」とあるのは「職業安定機関、地方運輸局、船員雇用促進センター」と、第二十九条第一項、第三十二条第一項、第四十三条第一項第一号及び第五十八条第一項中「公共職業安定所の」又は「公共職業安定所長の」とあるのは「公共職業安定所若しくは地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）の」又は「公共職業安定所長若しくは地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）の長の」と、第二十九条第一項中「公共職業安定所が」とあるのは「公共職業安定所若しくは地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）が」と、第三十二条第一項第四号及び第五十二条第一項第三号中「事業所」とあるのは「事業所又は船員職業安定法第二十一条（第二項ただし書を除く。）の規定に該当する船舶」と、第五十八条第一項中「公共職業安定所、」とあるのは「公共職業安定所若しくは地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）、」と、「公共職業安定所長が」とあるのは「公共職業安定所長又は地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）の長が」とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">船員である者が失業した場合に関しては、第十条の四第二項中「又は業として」とあるのは「若しくは業として」と、「除く。）」とあるのは「除く。）又は船員職業安定法第六条第四項に規定する特定地方公共団体、同条第五項に規定する無料船員職業紹介事業者若しくは業として同条第六項に規定する職業指導（船員の職業に就こうとする者の適性、職業経験その他の実情に応じて行うものに限る。）を行う者（地方運輸局（運輸監理部、運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。第十五条第五項において同じ。）及び船員雇用促進センター（船員の雇用の促進に関する特別措置法第七条第二項に規定する船員雇用促進センターをいう。以下同じ。）を除く。）」と、第十五条第二項から第四項まで、第二十条第一項及び第二項、第二十条の二、第二十一条、第二十四条、第二十四条の二第一項及び第二項、第二十九条第二項、第三十条、第三十二条第二項及び第三項、第三十三条第一項及び第二項、第三十六条第一項及び第二項、第三十七条第一項、第二項及び第七項、第三十七条の三第二項、第三十七条の四第五項、第三十九条第二項、第四十条第三項及び第四項、第四十一条第一項、第四十七条第二項、第五十一条第一項、第五十二条第一項及び第二項、第五十三条第一項、第五十六条の三第一項並びに第五十九条第一項中「公共職業安定所」又は「公共職業安定所長」とあるのは「公共職業安定所又は地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）」又は「公共職業安定所長又は地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）の長」と、第十五条第三項中「法令の規定に基づき失業者」とあるのは「失業者」と、同条第五項中「職業安定機関」とあるのは「職業安定機関、地方運輸局、船員職業安定法第六条第四項に規定する特定地方公共団体、船員雇用促進センター」と、第二十九条第一項、第三十二条第一項、第四十三条第一項第一号及び第五十八条第一項中「公共職業安定所の」又は「公共職業安定所長の」とあるのは「公共職業安定所若しくは地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）の」又は「公共職業安定所長若しくは地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）の長の」と、第二十九条第一項中「公共職業安定所が」とあるのは「公共職業安定所若しくは地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）が」と、第三十二条第一項第四号及び第五十二条第一項第三号中「事業所」とあるのは「事業所又は船員職業安定法第二十二条（第二項ただし書を除く。）の規定に該当する船舶」と、第五十八条第一項中「職業安定法第四条第九項に規定する特定地方公共団体」とあるのは「地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）、職業安定法第四条第九項に規定する特定地方公共団体、船員職業安定法第六条第四項に規定する特定地方公共団体」と、「同法」とあるのは「職業安定法」と、「公共職業安定所長が」とあるのは「公共職業安定所長又は地方運輸局（運輸監理部並びに厚生労働大臣が国土交通大臣に協議して指定する運輸支局及び地方運輸局、運輸監理部又は運輸支局の事務所を含む。）の長が」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4577,7 +4540,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">教育訓練支援給付金の額は、第十七条に規定する賃金日額（以下この項において単に「賃金日額」という。）に百分の五十（二千四百六十円以上四千九百二十円未満の賃金日額（その額が第十八条の規定により変更されたときは、その変更された額）については百分の八十、四千九百二十円以上一万二千九十円以下の賃金日額（その額が第十八条の規定により変更されたときは、その変更された額）については百分の八十から百分の五十までの範囲で、賃金日額の逓増に応じ、逓減するように厚生労働省令で定める率）を乗じて得た金額に百分の六十を乗じて得た額とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">教育訓練支援給付金の額は、第十七条に規定する賃金日額（以下この項において単に「賃金日額」という。）に百分の五十（千二百三十円以上四千九百二十円未満の賃金日額（その額が第十八条の規定により変更されたときは、その変更された額）については百分の八十、四千九百二十円以上一万二千九十円以下の賃金日額（その額が第十八条の規定により変更されたときは、その変更された額）については百分の八十から百分の五十までの範囲で、賃金日額の逓増に応じ、逓減するように厚生労働省令で定める率）を乗じて得た金額に百分の六十を乗じて得た額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
@@ -4589,8 +4552,8 @@
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第二十一条、第三十一条第一項及び第七十八条の規定は、教育訓練支援給付金について準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、第二十一条及び同項中「受給資格者」とあるのは「教育訓練支援給付金の支給を受けることができる者」と、同項中「死亡したため失業の認定」とあるのは「死亡したため附則第十一条の二第一項の失業していることについての認定」と、「について失業の認定」とあるのは「について同項の失業していることについての認定」と、第七十八条中「第十五条第四項第一号の規定により同条第二項に規定する失業の認定」とあるのは「附則第十一条の二第一項の失業していることについての認定」と読み替えるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第二十一条、第三十一条及び第七十八条の規定は、教育訓練支援給付金について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、第二十一条及び第三十一条中「受給資格者」とあるのは「教育訓練支援給付金の支給を受けることができる者」と、同条中「死亡したため失業の認定」とあるのは「死亡したため附則第十一条の二第一項の失業していることについての認定」と、「について失業の認定」とあるのは「について同項の失業していることについての認定」と、第七十八条中「第十五条第四項第一号の規定により同条第二項に規定する失業の認定」とあるのは「附則第十一条の二第一項の失業していることについての認定」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -7253,16 +7216,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="5">
-        <ArticleCaption>（雇用保険法の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第五条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前条の規定による改正後の雇用保険法第六十六条第一項の規定は、平成二十三年度以後の年度に係る国庫の負担額について適用する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="14">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第十四条</ArticleTitle>
@@ -8372,6 +8325,24 @@
             <Sentence Num="1" WritingMode="vertical">新雇用保険法第五十六条の三の規定は、施行日以後に同条第一項各号に該当する者となった者について適用し、施行日前に第一条の規定による改正前の雇用保険法（附則第五条第一項において「旧雇用保険法」という。）第五十六条の三第一項各号に該当する者となった者に対する就業促進手当の支給については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">受給資格に係る離職の日が附則第一条第四号に掲げる規定の施行の日（以下「第四号施行日」という。）前である受給資格者（以下「旧受給資格者」という。）が第四号施行日以後に職業に就いた場合においては、附則第九条の規定によりなお従前の例によることとされた基本手当の日額を第二条の規定（同号に掲げる改正規定に限る。附則第十一条において同じ。）による改正後の雇用保険法（以下「第四号新雇用保険法」という。）第十六条の規定による基本手当の日額とみなして、新雇用保険法第五十六条の三の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四号施行日以後に職業に就いた旧高年齢受給資格者（雇用保険法第三十七条の三第二項に規定する高年齢受給資格に係る離職の日が第四号施行日前である同項に規定する高年齢受給資格者をいう。附則第十三条において同じ。）に対する新雇用保険法第五十六条の三の規定の適用については、同条第三項第二号ロ中「基本手当の受給資格者とみなして第十六条から第十八条まで」とあるのは、「雇用保険法等の一部を改正する法律（令和六年法律第二十六号）附則第三条第二項に規定する旧受給資格者とみなして同法附則第九条」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四号施行日以後に職業に就いた旧特例受給資格者（雇用保険法第三十九条第二項に規定する特例受給資格に係る離職の日が第四号施行日前である同項に規定する特例受給資格者をいう。附則第十六条において同じ。）に対する新雇用保険法第五十六条の三の規定の適用については、同条第三項第二号ハ中「基本手当の受給資格者とみなして第十六条から第十八条まで」とあるのは、「雇用保険法等の一部を改正する法律（令和六年法律第二十六号）附則第三条第二項に規定する旧受給資格者とみなして同法附則第九条」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
       </Article>
       <Article Num="4">
         <ArticleCaption>（教育訓練給付金の支給に関する経過措置）</ArticleCaption>
@@ -8392,6 +8363,12 @@
             <Sentence Num="1" WritingMode="vertical">新雇用保険法附則第十一条の二第三項の規定は、施行日以後に同条第一項に規定する教育訓練を開始した者について適用し、施行日前に旧雇用保険法附則第十一条の二第一項に規定する教育訓練を開始した者に対する教育訓練支援給付金については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四号施行日から第四号新雇用保険法第十八条の規定により同条第四項に規定する自動変更対象額が変更されるまでの間における教育訓練支援給付金の額は、第四号新雇用保険法附則第十一条の二第三項の規定にかかわらず、附則第九条の規定によりなお従前の例によることとされた基本手当の日額に百分の六十を乗じて得た額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
       </Article>
       <Article Num="6">
         <ArticleCaption>（雇用保険の国庫負担に関する経過措置）</ArticleCaption>
@@ -8409,6 +8386,106 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="7">
+        <ArticleCaption>（一般被保険者及び高年齢被保険者に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">一週間の所定労働時間が十時間以上二十時間未満である者であって、第四号施行日前から引き続いて雇用されているもの（第四号新雇用保険法第三十八条第一項に規定する短期雇用特例被保険者及び雇用保険法第四十三条第一項に規定する日雇労働被保険者を除く。）については、第四号施行日に当該者が当該事業主の適用事業に雇用されたものとみなして、第四号新雇用保険法の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（被保険者期間の計算に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四号新雇用保険法第十四条第一項及び第三項の規定は、被保険者期間（同条第一項に規定する被保険者期間をいう。以下この条において同じ。）の計算に係る離職の日が第四号施行日以後である者に係る被保険者期間について適用し、当該離職の日が第四号施行日前である者に係る被保険者期間については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（基本手当の日額等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧受給資格者に係る基本手当の日額及び賃金日額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（賃金日額に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四号施行日から第四号新雇用保険法第十八条の規定により同条第四項に規定する自動変更対象額が変更されるまでの間における第四号新雇用保険法第十六条第一項及び第十七条第四項第一号の規定の適用については、第四号新雇用保険法第十六条第一項中「千二百三十円」とあるのは「賃金日額が平成二十九年八月一日より千二百三十円として、第十八条の自動的変更を行つたものとみなして計算した額」と、同号中「千二百三十円（その額が次条の規定により変更されたときは、その変更された額）」とあるのは「平成二十九年八月一日より千二百三十円として、次条の自動的変更を行つたものとみなして計算した額」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（基本手当等の減額に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四号施行日前に行われた失業の認定に係る期間中に自己の労働によって収入を得た場合における基本手当及び傷病手当の支給に係る第二条の規定による改正前の雇用保険法（以下この条並びに附則第十四条及び第十五条において「第四号旧雇用保険法」という。）第十九条第一項（第四号旧雇用保険法第三十七条第九項において準用する場合を含む。）の規定並びにこれらの手当に係る雇用保険法第十条の三の規定による未支給の手当の支給に係る第四号旧雇用保険法第三十一条第二項（第四号旧雇用保険法第三十七条第九項において準用する場合を含む。）及び第七十四条第二項の規定の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（傷病手当の日額に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧受給資格者に係る傷病手当の日額については、雇用保険法第三十七条第三項の規定にかかわらず、附則第九条の規定によりなお従前の例によることとされた基本手当の日額に相当する額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（高年齢求職者給付金の額に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧高年齢受給資格者に対する雇用保険法第三十七条の四第一項の規定の適用については、同項中「第十五条第一項に規定する受給資格者とみなして第十六条から第十八条まで（第十七条第四項第二号を除く。）」とあるのは、「雇用保険法等の一部を改正する法律（令和六年法律第二十六号）附則第三条第二項に規定する旧受給資格者とみなして同法附則第九条」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（高年齢被保険者の特例に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四号施行日前に第四号旧雇用保険法第三十七条の五の規定により高年齢被保険者となり、第四号施行日まで引き続き当該被保険者である者に係る第四号新雇用保険法第六条、第十四条及び第三十七条の五の規定の適用並びに失業等給付及び育児休業等給付については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（短期雇用特例被保険者に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四号新雇用保険法第三十八条第一項に規定する短期雇用特例被保険者（第四号旧雇用保険法第三十八条第一項に規定する短期雇用特例被保険者を除く。）であって、第四号施行日前から引き続いて雇用されているものについては、第四号施行日に当該者が当該事業主の適用事業に雇用されたものとみなして、第四号新雇用保険法の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（特例一時金の額に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧特例受給資格者に対する雇用保険法第四十条第一項及び第二項の規定の適用については、同条第一項中「第十五条第一項に規定する受給資格者とみなして第十六条から第十八条まで」とあるのは「雇用保険法等の一部を改正する法律（令和六年法律第二十六号。以下この項及び次項において「改正法」という。）附則第三条第二項に規定する旧受給資格者とみなして改正法附則第九条」と、同条第二項中「第十七条第四項」とあるのは「改正法第二条の規定（改正法附則第一条第四号に掲げる改正規定に限る。）による改正前の第十七条第四項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="17">
         <ArticleCaption>（教育訓練休暇給付金の支給に関する経過措置）</ArticleCaption>
         <ArticleTitle>第十七条</ArticleTitle>
@@ -8416,6 +8493,78 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第二条の規定（附則第一条第三号に掲げる改正規定に限る。）による改正後の雇用保険法（以下「第三号新雇用保険法」という。）第六十条の三の規定は、同号に掲げる規定の施行の日以後に第三号新雇用保険法第六十条の三第一項に規定する教育訓練休暇を開始した一般被保険者（第三号新雇用保険法第六十条の二第一項第一号に規定する一般被保険者をいう。次項において同じ。）について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三号新雇用保険法第六十条の三第一項の教育訓練休暇給付金の支給に係る同項に規定する休暇開始日が第四号施行日前である一般被保険者に対する同条第五項の規定の適用については、同項中「受給資格者」とあるのは「雇用保険法等の一部を改正する法律（令和六年法律第二十六号）附則第三条第二項に規定する旧受給資格者」と、「第十六条から第十八条まで」とあるのは「同法附則第九条」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（高年齢雇用継続基本給付金の額に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">六十歳に達した日（その日において雇用保険法第六十一条第一項第一号に該当する場合にあっては、同号に該当しなくなった日）が第四号施行日前である被保険者に対する同条の規定の適用については、同項各号列記以外の部分中「受給資格者」とあるのは「旧受給資格者（雇用保険法等の一部を改正する法律（令和六年法律第二十六号。以下この条において「改正法」という。）附則第三条第二項に規定する旧受給資格者をいう。第一号において同じ。）」と、「第十七条」とあるのは「改正法第二条の規定（改正法附則第一条第四号に掲げる改正規定に限る。以下この条において同じ。）による改正前の第十七条」と、同項第一号中「受給資格者」とあるのは「旧受給資格者」と、同条第三項及び第四項中「第十七条第四項」とあるのは「改正法第二条の規定による改正前の第十七条第四項」と、同条第六項中「第十七条第四項第一号に掲げる額（その」とあるのは「改正法第二条の規定による改正前の第十七条第四項第一号に掲げる額（第十七条第四項第一号に掲げる」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleCaption>（高年齢再就職給付金の額に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧受給資格者に対する第三号新雇用保険法第六十一条の二の規定の適用については、同条第一項中「賃金日額」とあるのは「雇用保険法等の一部を改正する法律（令和六年法律第二十六号。第三項において「改正法」という。）附則第九条の規定によりなお従前の例によることとされた賃金日額」と、同条第三項中「読み替える」とあるのは「、「第十七条第四項第一号に掲げる額（その」とあるのは「改正法第二条の規定による改正前の第十七条第四項第一号に掲げる額（第十七条第四項第一号に掲げる」と読み替える」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（介護休業給付金の額に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">雇用保険法第六十一条の四第一項の介護休業給付金の支給に係る同項に規定する介護休業を開始した日の前日が第四号施行日前である被保険者に対する第三号新雇用保険法第六十一条の四第四項の規定の適用については、同項中「受給資格者」とあるのは「雇用保険法等の一部を改正する法律（令和六年法律第二十六号）附則第三条第二項に規定する旧受給資格者」と、「第十七条」とあるのは「同法附則第九条」と、「同条の」とあるのは「同法第二条の規定（同法附則第一条第四号に掲げる改正規定に限る。）による改正前の第十七条の」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleCaption>（育児休業給付金の額に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">雇用保険法第六十一条の七第一項の育児休業給付金の支給に係る同項に規定する育児休業を開始した日の前日が第四号施行日前である被保険者に対する第三号新雇用保険法第六十一条の七第六項の規定の適用については、同項中「受給資格者」とあるのは「雇用保険法等の一部を改正する法律（令和六年法律第二十六号）附則第三条第二項に規定する旧受給資格者」と、「第十七条」とあるのは「同法附則第九条」と、「同条の」とあるのは「同法第二条の規定（同法附則第一条第四号に掲げる改正規定に限る。）による改正前の第十七条の」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleCaption>（出生時育児休業給付金の額に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">雇用保険法第六十一条の八第一項の出生時育児休業給付金の支給に係る同項に規定する出生時育児休業を開始した日の前日が第四号施行日前である被保険者に対する第三号新雇用保険法第六十一条の八第四項の規定の適用については、同項中「受給資格者」とあるのは「雇用保険法等の一部を改正する法律（令和六年法律第二十六号）附則第三条第二項に規定する旧受給資格者」と、「第十七条」とあるのは「同法附則第九条」と、「同条の」とあるのは「同法第二条の規定（同法附則第一条第四号に掲げる改正規定に限る。）による改正前の第十七条の」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（老齢厚生年金の支給停止に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">六十歳に達した日（その日において雇用保険法第六十一条第一項第一号に該当する場合にあっては、同号に該当しなくなった日）が第四号施行日前である被保険者に対する厚生年金保険法（昭和二十九年法律第百十五号）附則第七条の五、第十一条の六及び第十三条の六の規定の適用については、同法附則第七条の五第一項第一号中「標準報酬月額が、」とあるのは、「標準報酬月額が、雇用保険法等の一部を改正する法律（令和六年法律第二十六号）附則第十八条の規定により読み替えて適用する」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧受給資格者に対する厚生年金保険法附則第七条の五、第十一条の六及び第十三条の六の規定の適用については、同法附則第七条の五第五項中「第六十一条第一項」とあるのは「雇用保険法第六十一条第一項」と、「第六十一条の二第一項の」とあるのは「雇用保険法等の一部を改正する法律（令和六年法律第二十六号）附則第九条の規定によりなお従前の例によることとされた」と、同法附則第十一条の六第八項及び第十三条の六第八項中「雇用保険法第六十一条の二第一項の」とあるのは「雇用保険法等の一部を改正する法律附則第九条の規定によりなお従前の例によることとされた」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
