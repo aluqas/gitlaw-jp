@@ -248,8 +248,20 @@
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">その事業を行うに当たり、株式会社その他の営利事業を営む者又は特定の個人若しくは団体の利益を図る活動を行うものとして政令で定める者に対し、寄附その他の特別の利益を与える行為を行わないものであること。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、公益法人に対し、当該公益法人が行う公益目的事業のために寄附その他の特別の利益を与える行為を行う場合は、この限りでない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次のいずれかに該当する場合は、この限りでない。</Sentence>
                 </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">公益法人に対し、当該公益法人が行う公益目的事業のために寄附その他の特別の利益を与える行為を行う場合</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">公益信託（公益信託に関する法律（令和六年法律第三十号。以下「公益信託法」という。）第二条第一項第一号に規定する公益信託をいう。以下同じ。）の受託者に対し、当該受託者が行う公益事務（同項第二号に規定する公益事務をいう。第二十号及び第二十一号において同じ。）のために寄附その他の特別の利益を与える行為を行う場合</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
@@ -379,7 +391,7 @@
               <Item Num="20">
                 <ItemTitle>二十</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第二十九条第一項若しくは第二項の規定による公益認定の取消しの処分を受けた場合又は合併により法人が消滅する場合（その権利義務を承継する法人が公益法人であるときを除く。）において、公益目的取得財産残額（第三十条第二項に規定する公益目的取得財産残額をいう。）があるときは、これに相当する額の財産を当該公益認定の取消しの日又は当該合併の日から一月以内に類似の事業を目的とする他の公益法人若しくは次に掲げる法人又は国若しくは地方公共団体に贈与する旨を定款で定めているものであること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十九条第一項若しくは第二項の規定による公益認定の取消しの処分を受けた場合又は合併により法人が消滅する場合（その権利義務を承継する法人が公益法人であるときを除く。）において、公益目的取得財産残額（第三十条第二項に規定する公益目的取得財産残額をいう。）があるときは、これに相当する額の財産を当該公益認定の取消しの日又は当該合併の日から一月以内に類似の事業を目的とする他の公益法人若しくは次に掲げる法人に贈与し、若しくは類似の公益事務をその目的とする公益信託の信託財産とし、又は国若しくは地方公共団体に贈与する旨を定款で定めているものであること。</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -427,7 +439,7 @@
               <Item Num="21">
                 <ItemTitle>二十一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">清算をする場合において残余財産を類似の事業を目的とする他の公益法人若しくは前号イからトまでに掲げる法人又は国若しくは地方公共団体に帰属させる旨を定款で定めているものであること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">清算をする場合において残余財産を類似の事業を目的とする他の公益法人若しくは前号イからトまでに掲げる法人若しくは類似の公益事務をその目的とする公益信託の信託財産又は国若しくは地方公共団体に帰属させる旨を定款で定めているものであること。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1373,8 +1385,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">行政庁が前条第一項若しくは第二項の規定による公益認定の取消しをした場合又は公益法人が合併により消滅する場合（その権利義務を承継する法人が公益法人であるときを除く。）において、第五条第二十号に規定する定款の定めに従い、当該公益認定の取消しの日又は当該合併の日から一月以内に公益目的取得財産残額に相当する額の財産の贈与に係る書面による契約が成立しないときは、内閣総理大臣が行政庁である場合にあっては国、都道府県知事が行政庁である場合にあっては当該都道府県が当該公益目的取得財産残額に相当する額の金銭について、同号に規定する定款で定める贈与を当該公益認定の取消しを受けた法人又は当該合併により消滅する公益法人の権利義務を承継する法人（第四項において「認定取消法人等」という。）から受ける旨の書面による契約が成立したものとみなす。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">当該公益認定の取消しの日又は当該合併の日から一月以内に当該公益目的取得財産残額の一部に相当する額の財産について同号に規定する定款で定める贈与に係る書面による契約が成立した場合における残余の部分についても、同様とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁が前条第一項若しくは第二項の規定による公益認定の取消しをした場合又は公益法人が合併により消滅する場合（その権利義務を承継する法人が公益法人であるときを除く。）において、第五条第二十号に規定する定款の定めに従い、当該公益認定の取消しの日又は当該合併の日から一月以内に公益目的取得財産残額に相当する額の財産の贈与に係る書面による契約が成立しないとき（当該財産を公益信託の信託財産とする場合にあっては、当該財産を当該公益信託の信託財産とすることができないとき）は、内閣総理大臣が行政庁である場合にあっては国、都道府県知事が行政庁である場合にあっては当該都道府県が当該公益目的取得財産残額に相当する額の金銭について、同号に規定する定款で定める贈与を当該公益認定の取消しを受けた法人又は当該合併により消滅する公益法人の権利義務を承継する法人（第四項において「認定取消法人等」という。）から受ける旨の書面による契約が成立したものとみなす。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">当該公益認定の取消しの日又は当該合併の日から一月以内に当該公益目的取得財産残額の一部に相当する額の財産について同号に規定する定款で定める贈与に係る書面による契約が成立した場合（当該財産を公益信託の信託財産とする場合にあっては、当該財産を当該公益信託の信託財産としたとき）における残余の部分についても、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1483,7 +1495,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">委員会は、この法律によりその権限に属させられた事項を処理する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">委員会は、この法律及び公益信託法によりその権限に属させられた事項を処理する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1520,7 +1532,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">委員は、人格が高潔であって、委員会の権限に属する事項に関し公正な判断をすることができ、かつ、法律、会計又は公益法人に係る活動に関して優れた識見を有する者のうちから、両議院の同意を得て、内閣総理大臣が任命する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">委員は、人格が高潔であって、委員会の権限に属する事項に関し公正な判断をすることができ、かつ、法律、会計又は公益法人若しくは公益信託に係る活動に関して優れた識見を有する者のうちから、両議院の同意を得て、内閣総理大臣が任命する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -1878,7 +1890,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">都道府県に、この法律によりその権限に属させられた事項を処理するため、審議会その他の合議制の機関（以下単に「合議制の機関」という。）を置く。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県に、この法律及び公益信託法によりその権限に属させられた事項を処理するため、審議会その他の合議制の機関（以下単に「合議制の機関」という。）を置く。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2491,6 +2503,29 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年五月二二日法律第三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="28">
+        <ArticleCaption>（公益社団法人及び公益財団法人の認定等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">公益法人は、前条の規定による改正後の公益社団法人及び公益財団法人の認定等に関する法律第五条第二十号に規定する場合に同号に規定する公益目的取得財産残額に相当する額の財産を同号に規定する公益信託の信託財産とする旨を定款に定める必要があるときは、公益社団法人及び公益財団法人の認定等に関する法律第三十条第五項の規定にかかわらず、一回に限り、同号に規定する定款の定めを変更することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
