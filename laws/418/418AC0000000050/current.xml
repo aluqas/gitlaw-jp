@@ -2593,7 +2593,7 @@
                   <Subitem1 Num="2">
                     <Subitem1Title>ロ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence>公益法人認定法第五条第二十号に規定する者に対する寄附</Sentence>
+                      <Sentence>公益法人認定法第五条第二十号に規定する者に対する寄附又は同号に規定する公益信託の信託財産とするための支出</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="3">
@@ -3074,7 +3074,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence>移行法人が清算をする場合において、公益目的財産残額があるときは、当該移行法人の残余財産のうち当該公益目的財産残額に相当する額の財産（当該残余財産の額が当該公益目的財産残額を下回っているときは、当該残余財産）については、一般社団・財団法人法第二百三十九条の規定にかかわらず、内閣府令で定めるところにより、認可行政庁の承認を受けて、公益法人認定法第五条第二十号に規定する者に帰属させなければならない。</Sentence>
+                  <Sentence>移行法人が清算をする場合において、公益目的財産残額があるときは、当該移行法人の残余財産のうち当該公益目的財産残額に相当する額の財産（当該残余財産の額が当該公益目的財産残額を下回っているときは、当該残余財産）については、一般社団・財団法人法第二百三十九条の規定にかかわらず、内閣府令で定めるところにより、認可行政庁の承認を受けて、公益法人認定法第五条第二十号に規定する者又は公益信託の信託財産に帰属させなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -3945,6 +3945,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
           <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年五月二二日法律第三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       </Article>
