@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Year="06" Num="030" LawType="Act" Lang="ja" PromulgateMonth="05" PromulgateDay="22" Era="Reiwa"><LawNum>令和六年法律第三十号</LawNum><LawBody><LawTitle Kana="こうえきしんたくにかんするほうりつ" Abbrev="" AbbrevKana="">公益信託に関する法律</LawTitle>
+<Law Lang="ja" Era="Reiwa" Year="06" Num="030" PromulgateMonth="5" PromulgateDay="22" LawType="Act"><LawNum>令和六年法律第三十号</LawNum><LawBody><LawTitle Kana="こうえきしんたくにかんするほうりつ" Abbrev="" AbbrevKana="">公益信託に関する法律</LawTitle>
     <EnactStatement>公益信託ニ関スル法律（大正十一年法律第六十二号）の全部を改正する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -58,12 +58,1906 @@
       </TOCSupplProvision>
     </TOC>
     <MainProvision>
-  <Paragraph Num="1">
-    <ParagraphNum/>
-    <ParagraphSentence>
-      <Sentence/>
-    </ParagraphSentence>
-  </Paragraph>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、内外の社会経済情勢の変化に伴い、公益を目的とする信託による事務の実施が公益の増進のために重要となっていることに鑑み、当該事務が適正に行われるよう公益信託を認可する制度を設けるとともに、当該公益信託の受託者による信託事務の適正な処理を確保するため必要な措置等を定め、もって公益の増進及び活力ある社会の実現に資することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">公益信託</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">この法律の定めるところによりする受益者の定め（受益者を定める方法の定めを含む。第四条第三項において同じ。）のない信託であって、公益事務を行うことのみを目的とするものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">公益事務</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">学術の振興、福祉の向上その他の不特定かつ多数の者の利益の増進を目的とする事務として別表各号に掲げる事務をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、「信託」、「信託行為」、「信託財産」、「委託者」、「受託者」、「受益者」、「信託財産責任負担債務」、「信託の併合」、「吸収信託分割」、「新規信託分割」又は「信託の分割」とは、それぞれ信託法（平成十八年法律第百八号）第二条に規定する「信託」、「信託行為」、「信託財産」、「委託者」、「受託者」、「受益者」、「信託財産責任負担債務」、「信託の併合」、「吸収信託分割」、「新規信託分割」又は「信託の分割」をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、信託法の規定を引用する場合における当該規定については、第三十三条第三項の規定により読み替えて適用するものとされたものにあっては、当該読み替えて適用するものとされた規定をいうものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（行政庁）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律における行政庁は、次の各号に掲げる公益信託の区分に応じ、当該各号に定める内閣総理大臣又は都道府県知事とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる公益信託</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">内閣総理大臣</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">公益事務を二以上の都道府県の区域内において行う旨を信託行為で定めるもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国の事務又は事業と密接な関連を有する公益事務であって政令で定めるものを行うもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げる公益信託以外の公益信託</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">その公益事務を行う区域を管轄する都道府県知事</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（公益信託の要件）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公益信託は、信託法第三条第一号又は第二号に掲げる方法によってしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公益信託の信託行為においては、公益事務を行うことのみを目的とする旨のほか、次に掲げる事項を定めなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の名称（公益信託という文字を用いるものに限る。第七条第二項第一号において同じ。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">信託管理人（信託法第四章第四節第一款の信託管理人をいう。以下同じ。）となるべき者を指定する定め</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">帰属権利者（信託法第百八十二条第一項第二号に規定する帰属権利者をいう。第八条第十三号において同じ。）となるべき者（委託者を除く。）を指定する定め</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他内閣府令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公益信託においては、受益者の定めを設けることはできない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（公益信託の名称等）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">何人も、公益信託でないものについて、その名称又は商号中に、公益信託であると誤認されるおそれのある文字を用いてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">何人も、不正の目的をもって、他の公益信託であると誤認されるおそれのある名称又は商号を使用してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定に違反する名称又は商号の使用によって公益事務に係る利益を侵害され、又は侵害されるおそれがある公益信託の受託者は、その利益を侵害する者又は侵害するおそれがある者に対し、その侵害の停止又は予防を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　公益信託の認可等</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　公益信託の効力</SectionTitle>
+          <Article Num="6">
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託は、行政庁の認可を受けなければ、その効力を生じない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　公益信託の認可</SectionTitle>
+          <Article Num="7">
+            <ArticleCaption>（公益信託認可の申請）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の受託者となろうとする者は、前条の認可（以下「公益信託認可」という。）を申請しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託認可の申請は、内閣府令で定めるところにより、次に掲げる事項を記載した申請書を行政庁に提出してしなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公益信託の名称</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">受託者及び信託管理人の氏名及び住所（法人にあっては、その名称、代表者の氏名及び主たる事務所の所在地）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公益事務を行う都道府県の区域</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公益事務の種類及び内容</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他公益信託に係る信託行為の内容に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の申請書には、次に掲げる書類を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公益信託に係る信託行為の内容を証する書面</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">事業計画書及び収支予算書</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公益事務を行うに当たり法令上行政機関の許認可等（行政手続法（平成五年法律第八十八号）第二条第三号に規定する許認可等をいう。以下同じ。）を必要とする場合においては、当該許認可等があったこと又はこれを受けることができることを証する書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該公益信託に係る信託事務（以下「公益信託事務」という。）を処理するのに必要な経理的基礎を有することを明らかにする当該公益信託の信託財産に係る財産目録その他の内閣府令で定める書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次条第十一号に規定する支払基準を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、内閣府令で定める書類</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="8">
+            <ArticleCaption>（公益信託認可の基準）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、公益信託認可の申請に係る公益信託が次に掲げる基準（その信託行為において信託財産が寄附により受け入れた金銭又は預貯金、国債その他これらに準ずる資産（いずれも内閣府令で定める要件に該当するものに限る。）に限られる旨及び当該信託財産（その信託財産に帰せられる収益を含む。）について内閣府令で定める方法によってのみ支出する旨を定める公益信託（第十六条第一項において「特定資産公益信託」という。）にあっては、第八号から第十号までに掲げる基準を除く。第三十条第二項第一号において同じ。）に適合すると認めるときは、公益信託認可をするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公益事務を行うことのみを目的とするものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その受託者が公益信託事務を適正に処理するのに必要な経理的基礎及び技術的能力を有するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その信託管理人が受託者による公益信託事務の適正な処理のため必要な監督をするのに必要な能力を有するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公益信託に係る信託行為の内容を証する書面、事業計画書及び収支予算書の内容に照らし、その存続期間を通じて公益信託事務が処理されることが見込まれるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">受託者がその公益信託事務を処理するに当たり、委託者、受託者、信託管理人その他の政令で定める公益信託の関係者に対し信託財産を用いて特別の利益を与えるものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">受託者がその公益信託事務を処理するに当たり、株式会社その他の営利事業を営む者又は特定の個人若しくは団体の利益を図る活動を行うものとして政令で定める者に対し、信託財産を用いて寄附その他の特別の利益を与える行為を行わないものであること。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次のいずれかに該当する場合は、この限りでない。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">公益法人（公益社団法人及び公益財団法人の認定等に関する法律（平成十八年法律第四十九号）第二条第三号に規定する公益法人をいう。以下このイ及び第十三号において同じ。）に対し、当該公益法人が行う公益目的事業（同条第四号に規定する公益目的事業をいう。第十三号において同じ。）のために寄附その他の特別の利益を与える行為を行う場合</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">他の公益信託の受託者に対し、当該受託者が行う公益事務のために寄附その他の特別の利益を与える行為を行う場合</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">受託者がその公益信託事務を処理するに当たり、投機的な取引、高利の融資その他の事業であって、公益信託の社会的信用を維持する上でふさわしくないものとして政令で定めるもの又は公の秩序若しくは善良の風俗を害するおそれのある事業を行わないものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その処理する公益信託事務について、第十六条第一項の規定による収支の均衡が図られるものであると見込まれるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その公益信託事務の処理に係る費用に対する公益事務の実施に係る費用の割合として内閣府令で定めるところにより算定される割合（第十六条第二項において「公益事務割合」という。）が公益事務の実施の状況その他の事情を勘案して内閣府令で定める割合（同項において「基準割合」という。）以上となると見込まれるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その公益信託事務を処理するに当たり、第十七条第二項に規定する使途不特定財産額が同条第一項の制限を超えないと見込まれるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="11">
+                <ItemTitle>十一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公益信託報酬（公益信託に係る信託報酬（信託法第五十四条第一項に規定する信託報酬をいう。）及び信託管理人の報酬（同法第百二十七条第三項に規定する報酬をいう。）をいう。第十九条において同じ。）について、内閣府令で定めるところにより、当該公益信託の経理の状況その他の事情を考慮して、不当に高額なものとならないような支払基準を定めているものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="12">
+                <ItemTitle>十二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">その信託財産に他の団体の意思決定に関与することができる株式その他の内閣府令で定める財産が属しないものであること。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該信託財産に当該財産が属することによって他の団体の事業活動を実質的に支配するおそれがない場合として政令で定める場合は、この限りでない。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="13">
+                <ItemTitle>十三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該公益信託の目的とする公益事務（以下この号において「対象公益事務」という。）と類似の公益事務をその目的とする他の公益信託の受託者若しくは対象公益事務と類似の公益目的事業をその目的とする公益法人若しくは次に掲げる法人又は国若しくは地方公共団体を帰属権利者とする旨を信託行為に定めているものであること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">私立学校法（昭和二十四年法律第二百七十号）第三条に規定する学校法人</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">社会福祉法（昭和二十六年法律第四十五号）第二十二条に規定する社会福祉法人</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">更生保護事業法（平成七年法律第八十六号）第二条第六項に規定する更生保護法人</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">独立行政法人通則法（平成十一年法律第百三号）第二条第一項に規定する独立行政法人</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">国立大学法人法（平成十五年法律第百十二号）第二条第一項に規定する国立大学法人又は同条第三項に規定する大学共同利用機関法人</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="6">
+                  <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">地方独立行政法人法（平成十五年法律第百十八号）第二条第一項に規定する地方独立行政法人</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>ト</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その他イからヘまでに掲げる法人に準ずるものとして政令で定める法人</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（欠格事由）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条の規定にかかわらず、次の各号のいずれかに該当する公益信託は、公益信託認可を受けることができない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その受託者のうちに、次のいずれかに該当する者があるもの</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その公益事務を行うに当たり法令上必要となる行政機関の許認可等を受けることができないもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">国税若しくは地方税の滞納処分の執行がされているもの又は当該滞納処分の終了の日から三年を経過しないもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その受託者（法人である場合にあっては、その業務を行う理事等（理事、取締役、執行役、業務を執行する社員、監事若しくは監査役又はこれらに準ずる者をいう。以下この号及び第四号において同じ。））のうちに、次のいずれかに該当する者があるもの</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">公益信託認可を取り消された場合において、その取消しの原因となった事実について責任を有する受託者又は信託管理人であった者（法人である場合にあっては、取消しの処分を受ける原因となった事項が発生した当時現にその業務を行う理事等であった者）でその取消しの日から五年を経過しないもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">この法律、信託法、担保付社債信託法（明治三十八年法律第五十二号）若しくは金融機関の信託業務の兼営等に関する法律（昭和十八年法律第四十三号）の規定、投資信託及び投資法人に関する法律（昭和二十六年法律第百九十八号）の規定（同法第三編に規定する投資法人制度に係るものを除く。）、暴力団員による不当な行為の防止等に関する法律（平成三年法律第七十七号）の規定（同法第三十二条の三第七項及び第三十二条の十一第一項の規定を除く。）、資産の流動化に関する法律（平成十年法律第百五号）の規定（同法第二編に規定する特定目的会社制度に係るものを除く。）、著作権等管理事業法（平成十二年法律第百三十一号）の規定（同法第二条第一項第二号に規定する委任契約に係るものを除く。）若しくは信託業法（平成十六年法律第百五十四号）の規定に違反したことにより、若しくは刑法（明治四十年法律第四十五号）第二百四条、第二百六条、第二百八条、第二百八条の二第一項、第二百二十二条若しくは第二百四十七条の罪若しくは暴力行為等処罰に関する法律（大正十五年法律第六十号）第一条、第二条若しくは第三条の罪を犯したことにより、又は国税若しくは地方税に関する法律中偽りその他不正の行為により国税若しくは地方税を免れ、納付せず、若しくはこれらの税の還付を受け、若しくはこれらの違反行為をしようとすることに関する罪を定めた規定（第四号において「国税等関係規定」という。）に違反したことにより、罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から五年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、その刑の執行を終わり、又は刑の執行を受けることがなくなった日から五年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">暴力団員による不当な行為の防止等に関する法律第二条第六号に規定する暴力団員（以下このニにおいて「暴力団員」という。）又は暴力団員でなくなった日から五年を経過しない者（第六号において「暴力団員等」という。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その信託管理人のうちに、当該公益信託の受託者の親族、使用人その他受託者と特別の関係がある者又は当該公益信託の委託者若しくは委託者の親族、使用人その他委託者と特別の関係がある者があるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その信託管理人（法人である場合にあっては、その業務を行う理事等）のうちに、第二号イからニまで（ロにあっては、国税等関係規定に係る部分を除く。）のいずれかに該当する者があるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その信託行為又は事業計画書の内容が法令又は法令に基づく行政機関の処分に違反しているもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">暴力団員等がその公益信託事務を支配するもの</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（公益信託認可に関する意見聴取）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、公益信託認可をしようとするときは、次の各号に掲げる事由の区分に応じ、当該事由の有無について、当該各号に定める者の意見を聴くものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第八条第一号、第二号及び第七号並びに前条第一号イ及び第五号に規定する事由（公益事務を行うに当たり法令上行政機関の許認可等を必要とする場合に限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該許認可等を行う行政機関（以下「許認可等行政機関」という。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">前条第一号ロに規定する事由</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">国税庁長官、関係都道府県知事又は関係市町村長（第二十九条第五項第二号及び第三十二条第二号において「国税庁長官等」という。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">前条第二号ニ、第四号（同条第二号ニに係る部分に限る。第二十九条第五項第三号及び第三十二条第三号において同じ。）及び第六号に規定する事由</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">行政庁が内閣総理大臣である場合にあっては警察庁長官、都道府県知事である場合にあっては警視総監又は道府県警察本部長（同項第三号及び第三十二条第三号において「警察庁長官等」という。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（公益信託認可の公示）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、公益信託認可をしたときは、内閣府令で定めるところにより、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（公益信託の変更等の認可）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">公益信託に係る信託の変更（信託法第六章第一節の信託の変更をいう。以下同じ。）又は同法第六十二条第一項（同法第百二十九条第一項において準用する場合を含む。）の規定による新受託者（同法第六十二条第一項に規定する新受託者をいう。以下この条及び第三十一条において同じ。）若しくは新信託管理人（同法第百二十九条第一項に規定する新信託管理人をいう。以下この項及び第三項において同じ。）の選任その他の第七条第二項各号に掲げる事項の変更をするときは、当該公益信託の受託者（当該新受託者を含む。）は、あらかじめ、行政庁の認可を申請しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同法第百五十条第一項の規定による信託の変更、第三十一条第一項若しくは同法第百七十三条第一項の規定による新受託者の選任、同法第六十二条第四項（同法第百二十九条第一項において準用する場合を含む。）の規定による新受託者若しくは新信託管理人の選任又は内閣府令で定める軽微な信託の変更については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の目的の変更は、その変更後の目的が当該公益信託の目的に類似するものである場合に限り、することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託に係る信託の変更並びに新受託者及び新信託管理人の選任その他の第七条第二項各号に掲げる事項の変更は、第一項ただし書の規定の適用がある場合を除き、同項の認可を受けなければ、その効力を生じない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の認可の申請は、内閣府令で定めるところにより、当該変更に係る事項を記載した申請書を行政庁に提出してしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の申請書には、内閣府令で定める書類を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第八条から前条までの規定は、第一項の認可について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（申請書の経由）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁の変更を伴う前条第一項の認可に係る同条第四項の申請書は、変更前の行政庁を経由して変更後の行政庁に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、同項の認可をしたときは、変更後の行政庁は、内閣府令で定めるところにより、遅滞なく、変更前の行政庁から事務の引継ぎを受けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（公益信託の変更の届出等）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の受託者は、第十二条第一項ただし書に規定する信託の変更又は選任がされた場合には、内閣府令で定めるところにより、遅滞なく、その旨を行政庁に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、前項の規定による届出があったときは、内閣府令で定めるところにより、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（受託者の辞任の届出等）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の受託者は、次に掲げる場合には、内閣府令で定めるところにより、遅滞なく、その旨を行政庁に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">受託者が辞任し、又は解任された場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">信託管理人が辞任し、又は解任された場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、前項の規定による届出があったときは、内閣府令で定めるところにより、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　公益信託事務の処理等</SectionTitle>
+          <Article Num="16">
+            <ArticleCaption>（公益信託事務の収入及び費用等）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託（特定資産公益信託を除く。次項及び次条において同じ。）の受託者は、その公益信託事務を処理するに当たっては、内閣府令で定めるところにより、当該公益信託事務に係る収入をその実施に要する適正な費用（当該公益信託事務を充実させるため将来において必要となる資金として内閣府令で定める方法により積み立てる資金を含む。）に充てることにより、内閣府令で定める期間において、その収支の均衡が図られるようにしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の受託者は、公益事務割合が基準割合以上となるように公益信託事務を処理しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（使途不特定財産額の保有の制限）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の毎信託事務年度の末日における使途不特定財産額は、当該公益信託の受託者が公益信託事務を翌信託事務年度においても処理するために必要な額として、当該信託事務年度前の信託事務年度において行った公益信託事務の処理に要した費用の額（その保有する信託財産の状況及び公益信託事務の態様に応じ当該費用の額に準ずるものとして内閣府令で定めるものの額を含む。）を基礎として内閣府令で定めるところにより算定した額を超えてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する「使途不特定財産額」とは、公益信託の受託者による信託財産の管理の状況又は当該信託財産の性質に鑑み、公益信託事務のために現に使用されておらず、かつ、引き続き公益信託事務のために使用されることが見込まれない信託財産（災害その他の予見し難い事由が発生した場合においても公益信託事務を継続的に行うため必要な限度において保有する必要があるものとして内閣府令で定める要件に該当するもの（次項において「公益信託事務継続予備財産」という。）を除く。）として内閣府令で定めるものの価額の合計額をいう。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の受託者は、毎信託事務年度の末日において公益信託事務継続予備財産を保有している場合には、翌信託事務年度開始後速やかに、内閣府令で定めるところにより、当該公益信託事務継続予備財産を保有する理由及びその額その他内閣府令で定める事項を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（寄附の募集に関する禁止行為）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の受託者又は信託管理人は、寄附の募集に関して、次に掲げる行為をしてはならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">寄附の勧誘又は要求を受け、寄附をしない旨の意思を表示した者に対し、寄附の勧誘又は要求を継続すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">粗野若しくは乱暴な言動を交えて、又は迷惑を覚えさせるような方法で、寄附の勧誘又は要求をすること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">寄附をする財産の使途について誤認させるおそれのある行為をすること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、寄附の勧誘若しくは要求を受けた者又は寄附者の利益を不当に害するおそれのあるものとして内閣府令で定める行為をすること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（公益信託報酬）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託報酬は、第八条第十一号に規定する支払基準に従って支払われなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（財産目録の備置き及び閲覧等）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の受託者は、毎信託事務年度開始の日の前日までに（公益信託認可を受けた日の属する信託事務年度にあっては、当該公益信託認可を受けた後遅滞なく）、内閣府令で定めるところにより、当該信託事務年度の事業計画書、収支予算書その他の内閣府令で定める書類を作成し、当該信託事務年度の末日までの間、当該書類をその住所（当該受託者が法人である場合にあっては、その主たる事務所）に備え置かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の受託者は、毎信託事務年度経過後三月以内に（公益信託認可を受けた日の属する信託事務年度にあっては、当該公益信託認可を受けた後遅滞なく）、内閣府令で定めるところにより、次に掲げる書類を作成し、五年間、当該書類を前項に規定する住所に備え置かなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">信託財産に係る財産目録</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">受託者等名簿（受託者及び信託管理人の氏名又は名称及び住所を記載した名簿をいう。第五項及び次条第二項において同じ。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第八条第十一号に規定する支払基準を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、内閣府令で定める書類</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項に規定する書類及び前項各号に掲げる書類は、電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものとして内閣府令で定めるものをいう。次項第二号及び第四十七条第二号において同じ。）をもって作成することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">何人も、公益信託の受託者の業務時間内は、いつでも、第一項に規定する書類、第二項各号に掲げる書類、信託行為の内容を証する書面並びに信託法第三十七条第一項及び第二項に規定する書類（以下「財産目録等」という。）について、次に掲げる請求をすることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、当該公益信託の受託者は、正当な理由がないのにこれを拒んではならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">財産目録等が書面をもって作成されているときは、当該書面又は当該書面の写しの閲覧の請求</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">財産目録等が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を内閣府令で定める方法により表示したものの閲覧の請求</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、公益信託の受託者は、受託者等名簿について当該公益信託の信託管理人以外の者から同項の請求があった場合には、これに記載され、又は記録された事項中、個人（受託者であるものを除く。次条第二項において同じ。）の住所に係る記載又は記録の部分を除外して、前項各号の閲覧をさせることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（財産目録等の提出等）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の受託者は、財産目録等（信託行為の内容を証する書面を除く。）について、前条第一項に規定する書類にあっては毎信託事務年度開始の日の前日までに（公益信託認可を受けた日の属する信託事務年度にあっては、当該公益信託認可を受けた後遅滞なく）、その他の書類にあっては毎信託事務年度の経過後三月以内に（公益信託認可を受けた日の属する信託事務年度にあっては、同条第二項各号に掲げる書類を当該公益信託認可を受けた後遅滞なく）、内閣府令で定めるところにより、行政庁に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、内閣府令で定めるところにより、この法律又はこの法律に基づく命令の規定により公益信託の受託者から提出を受けた財産目録等（受託者等名簿にあっては、当該受託者等名簿に記載された事項中、個人の住所に係る記載の部分を除く。）を公表するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　公益信託の併合等</SectionTitle>
+          <Article Num="22">
+            <ArticleCaption>（公益信託の併合等の認可）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託に係る信託の併合又は信託の分割（第四項及び第五項において「公益信託の併合等」という。）をするときは、当該公益信託の受託者は、あらかじめ、行政庁の認可を申請しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託においては、信託の併合は、従前の各公益信託の目的が類似する場合に限り、することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託においては、吸収信託分割にあっては分割信託（信託法第百五十五条第一項第六号に規定する分割信託をいう。）及び承継信託（同号に規定する承継信託をいう。）の目的が類似する場合に限り、新規信託分割にあっては新たな公益信託及び当該新たな公益信託に信託財産の一部を移転する公益信託の目的が類似する場合に限り、することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の併合等は、第一項の認可を受けなければ、その効力を生じない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の認可の申請は、内閣府令で定めるところにより、公益信託の併合等に係る事項を記載した申請書を行政庁に提出してしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の申請書には、内閣府令で定める書類を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第八条から第十一条までの規定は、第一項の認可について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（公益信託の終了事由等）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託は、信託法第百六十三条の規定によるほか、第三十条第一項又は第二項の規定により公益信託認可が取り消された場合に終了する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託においては、信託法第百六十四条の規定にかかわらず、信託行為に別段の定めがあるときを除き、委託者及び信託管理人の合意により、公益信託を終了することはできない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（公益信託の継続）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">信託法第百六十三条（第一号に係る部分に限る。）の規定により公益信託が終了した場合には、委託者、受託者及び信託管理人は、その合意により、公益信託の目的を変更することによって、公益信託を継続することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により公益信託の目的を変更する場合には、受託者は、次条第一項の規定による届出の日から三月以内に、当該変更について第十二条第一項の認可を受けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委託者が現に存しない場合における第一項の規定の適用については、同項中「委託者、受託者」とあるのは、「受託者」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（信託の終了の届出等）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託が終了した場合（信託法第百六十三条第五号に掲げる事由によって終了した場合及び第三十条第一項又は第二項の規定による公益信託認可の取消しによって終了した場合を除く。）には、その受託者（同法第百六十三条第七号に掲げる事由によって公益信託が終了した場合にあっては、破産管財人）は、遅滞なく、その旨を行政庁に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、前項の規定による届出があったときは、内閣府令で定めるところにより、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleCaption>（清算の届出等）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の清算受託者（信託法第百七十七条に規定する清算受託者をいう。次項及び第四十九条において同じ。）は、当該公益信託の終了の日から三月を経過したときは、遅滞なく、残余財産の給付の見込みを行政庁に届け出なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">当該見込みに変更があったときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">清算受託者は、清算が結了したときは、遅滞なく、その旨を行政庁に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、前項の規定による届出があったときは、内閣府令で定めるところにより、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（残余財産の帰属）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託の信託行為における第四条第二項第三号の定めにより残余財産の帰属が定まらないときは、信託法第百八十二条第二項及び第三項の規定にかかわらず、残余財産は、国庫（都道府県知事が行政庁である場合にあっては、当該都道府県）に帰属する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="5">
+          <SectionTitle>第五節　公益信託の監督</SectionTitle>
+          <Article Num="28">
+            <ArticleCaption>（報告徴収及び立入検査）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、公益信託事務の適正な処理を確保するために必要な限度において、内閣府令で定めるところにより、受託者に対し、その公益信託事務の処理の状況並びに信託財産に属する財産及び信託財産責任負担債務の状況に関し必要な報告を求め、又はその職員に、当該受託者の住所若しくは事務所に立ち入り、その公益信託事務及び信託財産に属する財産の状況若しくは帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係者の請求があったときは、これを提示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29">
+            <ArticleCaption>（勧告、命令等）</ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、公益信託について、次条第二項各号のいずれかに該当すると疑うに足りる相当な理由がある場合には、当該公益信託の受託者に対し、期限を定めて、必要な措置をとるべき旨の勧告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、前項の勧告をしたときは、内閣府令で定めるところにより、その勧告の内容を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、第一項の勧告を受けた受託者が、正当な理由がなく、その勧告に係る措置をとらなかったときは、当該受託者に対し、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、前項の規定による命令をしたときは、内閣府令で定めるところにより、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、第一項の勧告及び第三項の規定による命令をしようとするときは、次の各号に掲げる事由の区分に応じ、当該事由の有無について、当該各号に定める者の意見を聴くことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第八条第一号、第二号若しくは第七号、第九条第一号イ若しくは第五号又は次条第二項第四号に規定する事由（公益事務を行うに当たり法令上許認可等行政機関の許認可等を必要とする場合に限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">許認可等行政機関</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第九条第一号ロに規定する事由</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">国税庁長官等</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第九条第二号ニ、第四号又は第六号に規定する事由</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">警察庁長官等</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="30">
+            <ArticleCaption>（公益信託認可の取消し）</ArticleCaption>
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、公益信託が次の各号のいずれかに該当するときは、その公益信託認可を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により公益信託認可又は第十二条第一項若しくは第二十二条第一項の認可を受けた場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第九条第六号に該当するに至った場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">受託者が、正当な理由がなく、前条第三項の規定による命令に従わない場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、公益信託が次の各号のいずれかに該当するときは、その公益信託認可を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第八条各号に掲げる基準のいずれかに適合しなくなった場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第九条第一号から第五号までのいずれかに該当するに至った場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十四条第一項、第十五条第一項又は第三節の規定に違反した場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、法令又は法令に基づく行政機関の処分に違反した場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第五項の規定は、前二項の規定による公益信託認可の取消しをしようとする場合について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、第一項又は第二項の規定により公益信託認可を取り消したときは、内閣府令で定めるところにより、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="31">
+            <ArticleCaption>（公益信託認可が取り消された場合における新受託者の選任）</ArticleCaption>
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、前条第一項又は第二項の規定により公益信託認可が取り消されたことにより公益信託が終了した場合には、行政庁又は委託者、信託管理人、信託債権者（信託法第二十一条第二項第四号に規定する信託債権者をいう。）その他の利害関係人の申立てにより、当該公益信託の清算のために新受託者を選任しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">信託法第百七十三条第二項から第六項までの規定は、前項の規定による新受託者の選任について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="32">
+            <ArticleCaption>（行政庁への意見）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次の各号に掲げる者は、公益信託について当該各号に定める事由があると疑うに足りる相当な理由があるため、行政庁が公益信託の受託者に対して適当な措置をとることが必要であると認める場合には、行政庁に対し、その旨の意見を述べることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">許認可等行政機関</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">第八条第一号、第二号若しくは第七号に掲げる基準に適合しない事由又は第九条第一号イ若しくは第五号若しくは第三十条第二項第四号に規定する事由（公益事務を行うに当たり法令上許認可等行政機関の許認可等を必要とする場合に限る。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">国税庁長官等</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">第九条第一号ロに規定する事由</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">警察庁長官等</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">第九条第二号ニ、第四号又は第六号に規定する事由</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="6">
+          <SectionTitle>第六節　信託法の適用関係</SectionTitle>
+          <Article Num="33">
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">信託法第二十九条第二項ただし書、第三十一条第二項（第三号に係る部分に限る。）及び第三項ただし書、第三十二条第三項ただし書、第三十五条第四項、第三十七条第三項ただし書、第四十七条第五項ただし書、第四十八条第三項ただし書、第五十八条第二項、第五十九条第一項ただし書、第六十条第一項ただし書、第百二十五条第一項ただし書、第百四十七条、第百八十三条第六項並びに第二百二十二条第五項ただし書の規定は、公益信託については、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公益信託においては、委託者の相続人は、委託者の地位を相続により承継しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前章及びこの章に定めるもののほか、公益信託に関する信託法の規定の適用については、次の表の上欄に掲げる同法の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                      <Sentence Num="1" WritingMode="vertical">第十九条第一項第三号及び第三項第三号並びに第三十一条第二項第四号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">受益者の利益を害しない</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">信託の目的の達成に支障とならない</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の受益者との</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">が信託の目的に関して有する</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十九条第三項第二号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">各信託の受益者（信託管理人が現に存する場合にあっては、信託管理人）の</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">公益信託（公益信託に関する法律（令和六年法律第三十号）第二条第一項第一号に規定する公益信託をいう。以下この号において同じ。）の信託管理人と他の信託の受益者（信託管理人が現に存する場合にあっては、信託管理人）又は他の公益信託若しくは第二百五十八条第一項の受益者の定めのない信託の信託管理人との</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十条及び第百二十六条第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">受益者</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">信託の目的の達成</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十一条第一項第四号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">と受益者との利益が相反する</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の利益となり、かつ、信託の目的の達成に支障となる</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十二条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">受益者の利益に反する</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">信託の目的の達成に支障となる</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十四条第一項第三号、第三十七条（第三項を除く。）、第三十八条第一項第二号及び第六項第二号、第四十七条第二項、第四項及び第五項、第五十九条第二項、第百五十一条第一項第五号、第百五十二条第二項第三号、第百五十五条第一項第七号、第百五十六条第二項第三号、第百五十九条第一項第七号、第百六十条第二項第三号、第二百十六条第二項第六号、第二百二十二条第二項から第四項まで及び第六項から第八項まで並びに第二百七十条第一項第三号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">法務省令</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">内閣府令・法務省令</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十八条第二項第三号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">受益者の共同の利益を害する</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">信託の目的の達成を妨げる</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十六条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">事由によって</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">事由によって、又は受託者が公益信託に関する法律第九条第一号若しくは第二号のいずれかに該当するに至ったこと若しくは同法第七条第二項第二号及び第五号に掲げる事項の変更（次項又は第三項の規定による受託者の任務の引継ぎに係るものに限る。）に係る同法第十二条第一項の認可を拒否する処分がされたこと（以下「特定終了事由」という。）により</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十八条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">いつでも</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">正当な理由があるときは</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十九条第一項及び第三項、第六十二条第一項及び第二項、第六十三条第一項、第七十五条第一項並びに第八十六条第四項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">事由</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">事由又は特定終了事由</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第八十七条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">受託者が二人</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">受託者又は信託管理人が二人</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">「受託者</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">「受託者又は信託管理人</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">すべての受託者</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">全ての受託者又は全ての信託管理人</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百二十五条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">受益者のために</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">信託の目的の達成のために</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百二十八条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">同条第一項第五号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">同条第一項中「第九条第一号若しくは第二号のいずれかに該当するに至ったこと若しくは同法第七条第二項第二号及び第五号に掲げる事項の変更（次項又は第三項の規定による受託者の任務の引継ぎに係るものに限る。）に係る同法第十二条第一項の認可を拒否する処分がされたこと（以下「特定終了事由」という。）」とあるのは「第九条第三号若しくは第四号のいずれかに該当するに至ったこと」と、同項第五号</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百二十九条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十六条第一項各号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十六条第一項</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百三十条第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">受益者に</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">委託者（他の信託管理人が現に存する場合にあっては、当該他の信託管理人）に</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百四十五条第一項、第二百六十二条第一項、第二百六十三条、第二百六十四条及び第二百七十条第一項第一号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">この法律</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">この法律及び公益信託に関する法律</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百四十九条第二項第二号、第百五十一条第二項第二号、第百五十五条第二項第二号及び第百五十九条第二項第二号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">信託の目的に反しないこと及び受益者の利益に適合すること</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">信託の目的の達成のために必要であること</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百五十条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">受益者の利益に適合しなくなる</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">信託の目的の達成に支障となる</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百六十三条第三号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">受託者</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">受託者又は信託管理人</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">新受託者</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">新受託者又は新信託管理人</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">とき</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">とき（当該期間が経過する日において新受託者又は新信託管理人の選任に係る公益信託に関する法律第十二条第一項の認可の申請に対する処分がされていない場合にあっては、当該認可を拒否する処分があったとき）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百六十五条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">受益者の利益に適合するに至った</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">適当である</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第二百三十五条</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百六十四条第一項若しくは第三項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">公益信託に関する法律第二十三条第一項</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　公益認定等委員会等への諮問等</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　公益認定等委員会への諮問等</SectionTitle>
+          <Article Num="34">
+            <ArticleCaption>（委員会への諮問）</ArticleCaption>
+            <ArticleTitle>第三十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">内閣総理大臣は、次に掲げる場合には、第十条（第十二条第六項及び第二十二条第七項において準用する場合を含む。）又は第二十九条第五項（第三十条第三項において準用する場合を含む。）の規定による許認可等行政機関の意見（第九条第一号イ及び第五号に規定する事由の有無に係るものを除く。）を付して、公益認定等委員会（以下「委員会」という。）に諮問しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、委員会が諮問を要しないものと認めたものについては、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公益信託認可の申請又は第十二条第一項若しくは第二十二条第一項の認可の申請に対する処分をしようとする場合（公益信託が第九条各号のいずれかに該当するものである場合及び行政手続法第七条の規定に基づきこれらの認可を拒否する場合を除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十九条第一項の勧告、同条第三項の規定による命令又は第三十条第一項若しくは第二項の規定による公益信託認可の取消し（以下この節において「監督処分等」という。）をしようとする場合（次に掲げる場合を除く。）</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">公益信託が第三十条第一項第二号又は第二項第二号に該当するものである場合</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第十四条第一項若しくは第十五条第一項の規定による届出又は第二十一条第一項の規定による財産目録等の提出をしなかったことを理由として監督処分等をしようとする場合</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第三十七条第一項の勧告に基づいて監督処分等をしようとする場合</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">内閣総理大臣は、次に掲げる場合には、委員会に諮問しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、委員会が諮問を要しないものと認めたものについては、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第八条第五号から第七号まで、第十二号ただし書及び第十三号ト、第三十八条において読み替えて準用する前項ただし書及び次項ただし書並びに別表第二十三号の政令の制定又は改廃の立案をしようとする場合並びに第四条第二項第四号、第七条第二項並びに第三項第四号及び第六号、第八条（第十二条第六項及び第二十二条第七項において準用する場合を含む。）、第十二条第四項及び第五項、第十四条第一項、第十五条第一項、第十六条から第十八条まで、第二十条第一項及び第二項、第二十二条第五項及び第六項、第二十八条第一項並びに次条第一項及び第三十七条第二項（これらの規定を第三十八条において準用する場合を含む。）の内閣府令の制定又は改廃をしようとする場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十三条の規定による要求を行おうとする場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">内閣総理大臣は、第一項第一号に規定する処分、第二十九条第三項の規定による命令又は第三十条第一項（第二号を除く。）若しくは第二項（第二号を除く。）の規定による公益信託認可の取消しについての審査請求に対する裁決をしようとする場合には、次に掲げる場合を除き、委員会に諮問しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、委員会が諮問を要しないものと認めたものについては、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">審査請求が不適法であるとして却下する場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">公益信託が第九条各号のいずれかに該当するものである場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項第二号イ又はロに規定する理由による監督処分等についての審査請求である場合</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="35">
+            <ArticleCaption>（答申の公表等）</ArticleCaption>
+            <ArticleTitle>第三十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、諮問に対する答申をしたときは、内閣府令で定めるところにより、その内容を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、前項の答申をしたときは、内閣総理大臣に対し、当該答申に基づいてとった措置について報告を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="36">
+            <ArticleCaption>（内閣総理大臣による送付等）</ArticleCaption>
+            <ArticleTitle>第三十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第十四条第一項、第十五条第一項、第二十五条第一項若しくは第二十六条第一項若しくは第二項の規定による届出に係る書類の写し又は第二十一条第一項の規定により提出を受けた財産目録等の写しを委員会に送付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第三十二条の規定により許認可等行政機関が述べた意見（公益信託が第九条第一号イ又は第五号に該当するものである旨の意見を除く。）を委員会に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、次の各号に掲げる場合において、委員会に諮問しないで当該各号に定める措置を講じたときは、その旨を委員会に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第三十四条各項の規定のただし書の規定により次に掲げる措置について委員会が諮問を要しないものと認めた場合</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該措置</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">公益信託認可の申請又は第十二条第一項若しくは第二十二条第一項の認可の申請に対する処分</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">監督処分等</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第三十四条第二項第一号の政令の制定又は改廃の立案及び同号の内閣府令の制定又は改廃</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第三十四条第三項に規定する審査請求に対する裁決</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第四十三条の規定による要求</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">公益信託が第九条各号のいずれかに該当するものである場合</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">前号イに規定する処分</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第三十四条第一項第二号イ又はロに掲げる場合</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">監督処分等</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第三十四条第三項第二号又は第三号に掲げる場合</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">第一号ニに規定する裁決</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="37">
+            <ArticleCaption>（委員会による勧告等）</ArticleCaption>
+            <ArticleTitle>第三十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、内閣総理大臣が第二十九条第一項の勧告若しくは同条第三項の規定による命令又は第三十条第一項若しくは第二項の規定による公益信託認可の取消しその他の措置をとる必要があると認めるときは、その旨を内閣総理大臣に勧告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、前項の勧告をしたときは、内閣府令で定めるところにより、当該勧告の内容を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、第一項の勧告をしたときは、内閣総理大臣に対し、当該勧告に基づいてとった措置について報告を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　都道府県に置かれる合議制の機関への諮問等</SectionTitle>
+          <Article Num="38">
+            <ArticleCaption>（行政庁が都道府県知事である場合についての準用）</ArticleCaption>
+            <ArticleTitle>第三十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十四条第一項及び第三項、第三十五条、第三十六条第一項、第二項及び第三項（第一号（ハ及びホに係る部分に限る。）を除く。）並びに前条の規定は、行政庁が都道府県知事である場合について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定（第三十四条第一項本文を除く。）中「委員会」とあるのは「合議制の機関」と、第三十四条第一項中「公益認定等委員会（以下「委員会」という。）」とあるのは「公益社団法人及び公益財団法人の認定等に関する法律第五十条第一項に規定する合議制の機関（以下「合議制の機関」という。）」と、同項ただし書及び同条第三項ただし書中「諮問」とあるのは「政令で定める基準に従い諮問」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39">
+            <ArticleCaption>（都道府県知事による通知等）</ArticleCaption>
+            <ArticleTitle>第三十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第四十三条の規定による要求が当該都道府県知事に対して行われた場合には、その旨を前条において読み替えて準用する第三十四条第一項に規定する合議制の機関に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Num="40">
+          <ArticleCaption>（協力依頼）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">行政庁は、この法律の施行のため必要があると認めるときは、官庁、公共団体その他の者に照会し、又は協力を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleCaption>（情報の提供）</ArticleCaption>
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣及び都道府県知事は、公益事務の実施の状況、公益信託に対して行政庁がとった措置その他の事項についての調査及び分析を行い、必要な統計その他の資料の作成を行うとともに、公益信託に関するデータベースの整備を図り、国民にインターネットその他の高度情報通信ネットワークの利用を通じて迅速に情報を提供できるよう必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleCaption>（権限の委任等）</ArticleCaption>
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第二十八条第一項の規定による権限（第三十五条第一項の答申又は第三十七条第一項の勧告のため必要なものに限り、第九条各号に掲げる公益信託に該当するか否かの調査に関するものを除く。）を委員会に委任する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">行政庁が都道府県知事である場合における第二十八条第一項の規定による権限（第三十八条において準用する第三十五条第一項の答申又は第三十八条において準用する第三十七条第一項の勧告のため必要なものに限り、第九条各号に掲げる公益信託に該当するか否かの調査に関するものを除く。）の行使については、第二十八条第一項中「行政庁」とあるのは「公益社団法人及び公益財団法人の認定等に関する法律第五十条第一項に規定する合議制の機関」と、「職員」とあるのは「庶務をつかさどる職員」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="43">
+          <ArticleCaption>（是正の要求の方式）</ArticleCaption>
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、都道府県知事のこの法律及びこれに基づく命令の規定による事務の管理及び執行に関して法令の規定に違反しているものがある場合又は当該事務の管理及び執行を怠るものがある場合において、公益信託認可の審査その他の当該事務の管理及び執行に関し地域間に著しい不均衡があることにより公益事務の適正な実施に支障が生じていることが明らかであるとして地方自治法（昭和二十二年法律第六十七号）第二百四十五条の五第一項の規定による求めを行うときは、当該都道府県知事が講ずべき措置の内容を示して行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="44">
+          <ArticleCaption>（命令への委任）</ArticleCaption>
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律の実施のための手続その他必要な事項は、命令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <Article Num="45">
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により公益信託認可又は第十二条第一項若しくは第二十二条第一項の認可を受けたときは、その違反行為をした者は、六月以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="46">
+          <ArticleTitle>第四十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第一項の規定に違反して、公益信託であると誤認されるおそれのある文字をその名称又は商号中に用いたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第二項の規定に違反して、他の公益信託であると誤認されるおそれのある名称又は商号を使用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="47">
+          <ArticleTitle>第四十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第二項、第十二条第四項若しくは第二十二条第五項の申請書又は第七条第三項、第十二条第五項若しくは第二十二条第六項の書類に虚偽の記載をして提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十条第一項又は第二項の規定に違反して、書類又は電磁的記録を備え置かず、又はこれらに記載し、若しくは記録すべき事項を記載せず、若しくは記録せず、若しくは虚偽の記載若しくは記録をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="48">
+          <ArticleTitle>第四十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人（法人でない団体で代表者又は管理人の定めのあるものを含む。以下この項において同じ。）の代表者若しくは管理人又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前三条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人でない団体について前項の規定の適用がある場合には、その代表者又は管理人が、その訴訟行為につき法人でない団体を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="49">
+          <ArticleTitle>第四十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした受託者（受託者であった者を含む。）、信託財産管理者（信託法第三章第五節第四款の信託財産管理者をいう。）、民事保全法（平成元年法律第九十一号）第五十六条に規定する仮処分命令により選任された受託者の職務を代行する者、信託財産法人管理人（信託法第七十四条第二項に規定する信託財産法人管理人をいう。）、清算受託者又は破産管財人は、五十万円以下の過料に処する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その行為について刑を科すべきときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十四条第一項、第十五条第一項、第二十五条第一項又は第二十六条第一項若しくは第二項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十一条第一項の規定に違反して、財産目録等を提出せず、又はこれに虚偽の記載をして提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十八条第一項（第四十二条第二項の規定により読み替えて適用する場合を含む。以下この号において同じ。）の規定による報告をせず、若しくは虚偽の報告をし、又は第二十八条第一項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
     </MainProvision>
     <SupplProvision Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -75,6 +1969,381 @@
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第二十二条及び第二十三条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（公益信託に関する法律の適用等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正後の公益信託に関する法律（以下「新法」という。）の規定は、附則第四条に定める場合を除き、この法律の施行の日（以下「施行日」という。）以後にする公益信託について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正前の公益信託ニ関スル法律（以下この項並びに附則第四条第三項及び第八条第二項において「旧公益信託法」という。）第一条に規定する公益信託で施行日前に旧公益信託法第二条第一項の許可（次条において「旧公益信託許可」という。）を受けてその効力が生じたもの（附則第四条第一項、第五条第一項及び第二十一条において「旧法公益信託」という。）については、施行日から起算して二年を経過する日までの間（附則第四条第一項及び第二項並びに第十七条第一項において「移行期間」という。）は、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（旧公益信託許可の申請に係る経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に旧公益信託許可の申請があった場合において、施行日の前日までに当該申請に対する処分がされないときは、当該申請は、施行日に、却下されたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（旧公益信託の新法の規定による公益信託への移行）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧法公益信託及び信託法の施行に伴う関係法律の整備等に関する法律（平成十八年法律第百九号。以下「信託法整備法」という。）第二条の規定によりなお従前の例によることとされた信託法整備法第一条の規定による改正前の信託法（大正十一年法律第六十二号。第三項及び附則第八条第二項において「旧信託法」という。）第六十六条に規定する公益信託（以下この項において「旧信託法公益信託」という。）は、移行期間内において、新法第三条に規定する行政庁（以下「行政庁」という。）の認可（以下「移行認可」という。）を受けた場合には、新法第七条第一項に規定する公益信託認可（附則第十二条において「公益信託認可」という。）を受けたものとして新法の規定による公益信託となることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、移行期間内に当該移行認可を受けていない旧法公益信託及び旧信託法公益信託（以下「旧公益信託」という。）は、移行期間が満了する日に終了するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧公益信託が移行期間内に移行認可の申請をした場合で移行期間内に当該申請に対する処分がされていないときにおける当該旧公益信託の附則第二条第二項及び前項の移行期間は、施行日からその処分がされる日までの間とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">第一項の規定により新法の規定による公益信託となった旧公益信託については、新法の規定（罰則を除く。）は、施行日前に生じた事項にも適用する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、旧公益信託法及び信託法整備法第二条の規定によりなお従前の例によることとされた旧信託法の規定によって生じた効力を妨げない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（旧公益信託の清算に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧法公益信託が前条第一項後段の規定により終了した場合における清算については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項及び信託法整備法第二条の規定にかかわらず、前条第一項後段の規定により終了した旧公益信託については、その信託行為の定めるところにより残余財産の帰属が定まらないときは、新法第二十七条の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（移行認可の申請）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">移行認可の申請は、内閣府令で定めるところにより、旧公益信託の受託者が新法第七条第二項各号に掲げる事項を記載した申請書を行政庁に提出してしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の申請書には、次に掲げる書類を添付しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">新法第七条第三項第二号から第六号までに掲げる書類</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">附則第九条第二項の規定による信託の変更の内容を証する書類</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">その他移行認可に関し必要なものとして内閣府令で定める書類</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（移行認可の基準）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">行政庁は、移行認可の申請に係る旧公益信託が新法第八条の基準に適合すると認めるときは、移行認可をするものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（移行認可の欠格事由）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第九条（第二号イ及び第四号（同条第二号イに係る部分に限る。）を除く。）の規定は、移行認可について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条第二項の規定によりなお従前の例によることとされた旧公益信託法第三条に規定する主務官庁又は信託法整備法第二条の規定によりなお従前の例によることとされた旧信託法第六十七条に規定する主務官庁（次条第五項並びに附則第十条第二項及び第十一条において「旧主務官庁」という。）の監督上の命令に違反している旧公益信託は、移行認可を受けることができない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（移行認可の申請のためにする信託の変更等）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">移行認可の申請に係る旧公益信託の信託行為においては、当該旧公益信託に係る信託の変更により、公益事務を行うことのみを目的とする旨及び新法第四条第二項各号に掲げる事項を定めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の信託の変更その他移行認可の申請に関し必要な旧公益信託に係る信託の変更は、信託行為の定めにより、又は委託者、受託者及び信託管理人の合意によってしなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">委託者が現に存しない場合における前項の規定の適用については、同項中「委託者、受託者及び信託管理人」とあるのは、「受託者及び信託管理人」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の信託の変更は、移行認可を受けなければ、その効力を生じない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧公益信託を附則第七条の基準に適合するものとするために必要な信託の変更その他移行認可の申請のため必要な信託の変更は、旧主務官庁の許可を要しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（移行認可に関する意見聴取）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第十条の規定は、移行認可について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">行政庁は、移行認可をしようとするときは、附則第八条第一項において準用する新法第九条第五号及び附則第八条第二項に規定する事由の有無について、旧主務官庁の意見を聴くものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（旧主務官庁への通知）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">行政庁は、附則第六条第一項の申請書の提出を受け、又は移行認可をし、若しくはしない処分をしたときは、直ちに、その旨を旧主務官庁に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（旧公益信託の公益信託への移行）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">移行認可を受けた旧公益信託については、移行認可を公益信託認可とみなして、移行認可があった日以後、新法の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（委員会への諮問）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">内閣総理大臣は、移行認可の申請に対する処分をしようとする場合（旧公益信託が附則第八条第一項において準用する新法第九条各号（第二号イ及び第四号（同条第二号イに係る部分に限る。）を除く。）のいずれかに該当するものである場合及び附則第八条第二項に規定するものである場合並びに行政手続法第七条の規定に基づき当該移行認可を拒否する場合を除く。）には、附則第十条第一項において準用する新法第十条の規定による同条第一号に規定する許認可等行政機関の意見（附則第八条第一項において準用する新法第九条第一号イ及び第五号に規定する事由の有無に係るものを除く。）を付して、新法第三十四条第一項に規定する委員会（以下「委員会」という。）に諮問しなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、委員会が諮問を要しないものと認めたものについては、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">内閣総理大臣は、附則第十六条において読み替えて準用する前項ただし書及び次項ただし書の政令の制定又は改廃の立案をしようとする場合並びに附則第六条第一項及び第二項第三号並びに次条（附則第十六条において準用する場合を含む。）において準用する新法第三十五条第一項の内閣府令の制定又は改廃をしようとする場合には、委員会に諮問しなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、委員会が諮問を要しないものと認めたものについては、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">内閣総理大臣は、第一項に規定する処分についての審査請求に対する裁決をしようとする場合には、次に掲げる場合を除き、委員会に諮問しなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、委員会が諮問を要しないものと認めたものについては、この限りでない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">審査請求が不適法であるとして却下する場合</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">審査請求をした旧公益信託が附則第八条第一項において準用する新法第九条各号のいずれかに該当するものである場合又は附則第八条第二項に規定するものである場合</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（答申の公表等）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第三十五条の規定は、前条の規定による諮問に対する答申について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（内閣総理大臣による通知）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、次の各号に掲げる場合において、委員会に諮問しないで当該各号に定める措置を講じたときは、その旨を委員会に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十三条各項の規定のただし書の規定により次に掲げる措置について委員会が諮問を要しないものと認めた場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該措置</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">移行認可の申請に対する処分</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">附則第十三条第二項の政令の制定又は改廃の立案及び同項の内閣府令の制定又は改廃</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="3">
+              <Subitem1Title>ハ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">附則第十三条第三項に規定する審査請求に対する裁決</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">旧公益信託が附則第八条第一項において準用する新法第九条各号（第二号イ及び第四号（同条第二号イに係る部分に限る。）を除く。）のいずれかに該当するものである場合又は附則第八条第二項に規定するものである場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">前号イに規定する処分</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十三条第三項第二号に掲げる場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">第一号ハに規定する裁決</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（行政庁が都道府県知事である場合についての準用）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第十三条第一項及び第三項並びに第十四条並びに前条（第一号（ロに係る部分に限る。）を除く。以下この条において同じ。）の規定は、行政庁が都道府県知事である場合について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、附則第十三条第一項中「新法第三十四条第一項に規定する委員会（以下「委員会」という。）」とあるのは「公益社団法人及び公益財団法人の認定等に関する法律第五十条第一項に規定する合議制の機関（以下「合議制の機関」という。）」と、同項ただし書、同条第三項及び前条中「委員会」とあるのは「合議制の機関」と、附則第十三条第一項ただし書及び第三項ただし書中「諮問」とあるのは「政令で定める基準に従い諮問」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（名称又は商号の使用制限に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧公益信託については、新法第五条第一項及び第二項の規定は、その移行期間（附則第四条第二項に規定する旧公益信託にあっては、同項に規定する期間）においては、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、この法律の施行の際現にその名称又は商号中に公益信託という文字を用いている者については、新法第五条第一項の規定は、施行日から起算して六月間は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（罰則）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により移行認可を受けたときは、その違反行為をした者は、六月以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第六条第一項の申請書又は同条第二項各号に掲げる書類に虚偽の記載をして提出したときは、その違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法人（法人でない団体で代表者又は管理人の定めのあるものを含む。以下この項において同じ。）の代表者若しくは管理人又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前二条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法人でない団体について前項の規定の適用がある場合には、その代表者又は管理人が、その訴訟行為につき法人でない団体を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleCaption>（過料に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にした行為及び附則第二条第二項の規定によりなお従前の例によることとされる場合における旧法公益信託に関し施行日以後にした行為に対する過料については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -106,5 +2375,147 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
+      <RelatedArticleNum>（第二条関係）</RelatedArticleNum>
+      <Item Num="1">
+        <ItemTitle>一</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">学術及び科学技術の振興を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="2">
+        <ItemTitle>二</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">文化及び芸術の振興を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="3">
+        <ItemTitle>三</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">障害者若しくは生活困窮者又は事故、災害若しくは犯罪による被害者の支援を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="4">
+        <ItemTitle>四</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">高齢者の福祉の増進を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="5">
+        <ItemTitle>五</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">勤労意欲のある者に対する就労の支援を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="6">
+        <ItemTitle>六</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">公衆衛生の向上を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="7">
+        <ItemTitle>七</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">児童又は青少年の健全な育成を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="8">
+        <ItemTitle>八</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">勤労者の福祉の向上を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="9">
+        <ItemTitle>九</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">教育、スポーツ等を通じて国民の心身の健全な発達に寄与し、又は豊かな人間性を<Ruby>涵<Rt>かん</Rt></Ruby>養することを目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="10">
+        <ItemTitle>十</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">犯罪の防止又は治安の維持を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="11">
+        <ItemTitle>十一</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">事故又は災害の防止を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="12">
+        <ItemTitle>十二</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">人種、性別その他の事由による不当な差別又は偏見の防止及び根絶を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="13">
+        <ItemTitle>十三</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">思想及び良心の自由、信教の自由又は表現の自由の尊重又は擁護を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="14">
+        <ItemTitle>十四</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">男女共同参画社会の形成その他のより良い社会の形成の推進を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="15">
+        <ItemTitle>十五</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">国際相互理解の促進及び開発途上にある海外の地域に対する経済協力を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="16">
+        <ItemTitle>十六</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">地球環境の保全又は自然環境の保護及び整備を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="17">
+        <ItemTitle>十七</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">国土の利用、整備又は保全を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="18">
+        <ItemTitle>十八</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">国政の健全な運営の確保に資することを目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="19">
+        <ItemTitle>十九</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">地域社会の健全な発展を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="20">
+        <ItemTitle>二十</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">公正かつ自由な経済活動の機会の確保及び促進並びにその活性化による国民生活の安定向上を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="21">
+        <ItemTitle>二十一</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">国民生活に不可欠な物資、エネルギー等の安定供給の確保を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="22">
+        <ItemTitle>二十二</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">一般消費者の利益の擁護又は増進を目的とする事務</Sentence>
+        </ItemSentence>
+      </Item>
+      <Item Num="23">
+        <ItemTitle>二十三</ItemTitle>
+        <ItemSentence>
+          <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、公益に関する事務として政令で定めるもの</Sentence>
+        </ItemSentence>
+      </Item>
+    </AppdxTable>
   </LawBody>
 </Law>
