@@ -1820,6 +1820,753 @@
         </Section>
         <Section Num="3">
           <SectionTitle>第三節　貯留事業及び試掘の実施</SectionTitle>
+          <Subsection Num="1">
+            <SubsectionTitle>第一款　貯留事業の実施</SubsectionTitle>
+            <Article Num="37">
+              <ArticleCaption>（事業着手の義務等）</ArticleCaption>
+              <ArticleTitle>第三十七条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留事業者は、貯留事業に着手するために通常必要と認められる期間として経済産業省令で定める期間内に、貯留事業に着手しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留事業者は、やむを得ない理由により前項の経済産業省令で定める期間内に貯留事業に着手することができないときは、期間を定め、理由を付して、経済産業大臣の認可を受けなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留事業者は、貯留事業に着手したときは、遅滞なく、その旨を経済産業大臣に届け出なければならない。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">許可貯留区域内の貯留層への二酸化炭素の注入を開始したときも、同様とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項後段の規定による届出を受理したときは、当該届出に係る貯留事業者の氏名又は名称及び住所その他経済産業省令で定める事項を独立行政法人エネルギー・金属鉱物資源機構（以下「機構」という。）に通知するものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留事業者は、引き続き一年以上その貯留事業を休止しようとするときは、期間を定め、理由を付して、経済産業大臣の認可を受けなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留事業者は、前項の認可を受けて休止した貯留事業を再開したときは、遅滞なく、その旨を経済産業大臣に届け出なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="38">
+              <ArticleCaption>（貯留事業実施計画）</ArticleCaption>
+              <ArticleTitle>第三十八条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留事業者は、許可貯留区域ごとに、主務省令で定めるところにより、次に掲げる事項を記載した貯留事業実施計画を定め、貯留事業を開始する前に、主務大臣の認可を受けなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">許可貯留区域</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">二酸化炭素の貯蔵の方法に関する事項</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">貯留事業場（許可貯留区域及び当該許可貯留区域に係る貯留事業の用に供する貯留等工作物を設置する場所をいう。以下同じ。）における保安を確保するための措置に関する事項</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">貯蔵する二酸化炭素の漏えいを防止するための措置に関する事項</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">貯蔵する二酸化炭素の貯蔵の状況の監視に関する事項</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="6">
+                  <ItemTitle>六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">貯蔵する二酸化炭素の特性に関する事項</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="7">
+                  <ItemTitle>七</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">貯留事業の安定的な遂行を確保するための措置に関する事項その他の主務省令で定める事項</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">主務大臣は、前項の認可の申請に係る貯留事業実施計画が次に掲げる基準に適合していると認めるときは、同項の認可をしなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">二酸化炭素の貯蔵の方法がその安定的な貯蔵を確保する観点から適切であること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">貯留事業場における保安を確保するための措置が、公共の安全の維持及び災害の発生の防止の観点から適切であること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">貯蔵する二酸化炭素の漏えいを防止するための措置が適切であること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">貯蔵する二酸化炭素の貯蔵の状況の監視が適切に行われることが見込まれること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">二酸化炭素の貯蔵が海域の貯留層において行われる場合にあっては、次に掲げる基準に適合すること。</Sentence>
+                  </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">貯蔵する二酸化炭素が政令で定める基準に適合するものであること。</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1" WritingMode="vertical">海域の貯留層における二酸化炭素の貯蔵以外に適切な処分の方法がないこと。</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                </Item>
+                <Item Num="6">
+                  <ItemTitle>六</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">その他貯留事業が安定的に遂行されることが見込まれること。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Num="39">
+              <ArticleCaption>（貯留事業実施計画の変更の認可等）</ArticleCaption>
+              <ArticleTitle>第三十九条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">貯留事業者は、前条第一項の認可を受けた貯留事業実施計画を変更しようとするときは、主務省令で定めるところにより、主務大臣の認可を受けなければならない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、主務省令で定める軽微な変更をしようとするときは、この限りでない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留事業者は、前条第一項の認可を受けた貯留事業実施計画について前項ただし書の主務省令で定める軽微な変更をしたときは、その旨を主務大臣に届け出なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第二項の規定は、第一項の規定による変更の認可について準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="40">
+              <ArticleCaption>（貯留事業実施計画の遵守）</ArticleCaption>
+              <ArticleTitle>第四十条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留事業者は、第三十八条第一項の認可を受けた貯留事業実施計画（前条第一項又は第二項の規定による変更の認可又は届出があったときは、その変更後のもの。以下「認可貯留事業実施計画」という。）によらなければ、貯留事業を行ってはならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="41">
+              <ArticleCaption>（認可貯留事業実施計画の変更勧告等）</ArticleCaption>
+              <ArticleTitle>第四十一条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">主務大臣は、貯留事業者の認可貯留事業実施計画を変更しなければその許可貯留区域における貯留事業の安定的な遂行又は貯留事業場における保安を確保することができないと認めるときは、当該貯留事業者に対し、認可貯留事業実施計画を変更すべきことを勧告することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">主務大臣は、前項の規定による勧告を受けた貯留事業者が、正当な理由がなくてその勧告に従わないときは、当該貯留事業者に対し、認可貯留事業実施計画を変更すべきことを命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="42">
+              <ArticleCaption>（貯留事業停止命令）</ArticleCaption>
+              <ArticleTitle>第四十二条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">主務大臣は、貯留事業者が次の各号のいずれかに該当するときは、当該貯留事業者に対し、期間を定めて当該貯留事業の全部又は一部の停止を命ずることができる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第十五条、前条第二項、次条第三項、第四十四条第二項、第四十八条第二項、第六十六条第三項、第六十七条第二項若しくは第三項、第六十八条第二項、第六十九条第四項、第七十三条、第七十四条第三項若しくは第七十五条第五項の規定による命令又は第六十七条第二項若しくは第三項の規定による制限に違反したとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第四十条の規定に違反して、認可貯留事業実施計画によらないで貯留事業を行ったとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第百三十条第一項の規定により貯留事業の許可又は第三十八条第一項の認可若しくは第三十九条第一項の規定による変更の認可に付された条件に違反したとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+            </Article>
+            <Article Num="43">
+              <ArticleCaption>（二酸化炭素の貯蔵の状況の監視）</ArticleCaption>
+              <ArticleTitle>第四十三条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留開始貯留事業者は、主務省令で定めるところにより、認可貯留事業実施計画に従い、その貯留開始貯留事業に係る許可貯留区域内の貯留層の温度、圧力その他の当該貯留層における二酸化炭素の貯蔵の状況を確認するために必要な事項として主務省令で定めるものを監視しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留開始貯留事業者は、主務省令で定めるところにより、前項の規定による監視の結果を主務大臣に報告しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">主務大臣は、貯留開始貯留事業者が認可貯留事業実施計画に従い、その貯留開始貯留事業に係る許可貯留区域内の貯留層における二酸化炭素の貯蔵の状況を適切に監視していないと認めるときは、当該貯留開始貯留事業者に対し、必要な措置をとるべきことを命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="44">
+              <ArticleCaption>（二酸化炭素の注入を終了した後の貯留開始貯留事業の実施に必要な費用に充てるための資金の確保）</ArticleCaption>
+              <ArticleTitle>第四十四条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留開始貯留事業者は、その貯留開始貯留事業に係る許可貯留区域内の貯留層への二酸化炭素の注入を終了したときから第五十三条第五項の許可を受けるまでの間における前条第一項の規定による監視に要する費用その他の当該貯留開始貯留事業の実施に必要な費用に充てるため、経済産業省令で定めるところにより、引当金の積立てその他の当該費用に充てるための資金を確保するための措置として経済産業省令で定めるものを講じなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、貯留開始貯留事業者が前項の経済産業省令で定める措置を講じていないと認めるときは、当該貯留開始貯留事業者に対し、当該措置を講ずべきことを命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="45">
+              <ArticleCaption>（拠出金）</ArticleCaption>
+              <ArticleTitle>第四十五条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留開始貯留事業者は、機構が行う第五十四条第一項に規定する通知貯留区域管理業務に必要な費用に充てるため、各年度（毎年四月一日から翌年三月三十一日までをいう。次条第一項において同じ。）、貯留開始貯留事業に係る許可貯留区域ごとに、機構に対し、拠出金を納付しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の拠出金の額は、許可貯留区域ごとの第五十四条第一項に規定する通知貯留区域管理業務に要する費用の長期的な見通しに照らし、当該通知貯留区域管理業務を円滑かつ着実に実施するために十分なものとするために経済産業省令で定める基準に従い、機構が定める。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留開始貯留事業者は、経済産業省令で定めるところにより、認可貯留事業実施計画、第四十三条第一項の規定による監視の結果その他経済産業省令で定める事項を機構に届け出なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、拠出金の額を定め、又はこれを変更しようとするときは、経済産業大臣の認可を受けなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、前項の認可を受けたときは、遅滞なく、経済産業省令で定めるところにより、当該認可に係る拠出金の額を貯留開始貯留事業者に通知しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第五十四条第一項に規定する通知貯留区域管理業務に要する費用に充てるための資金の確保の状況その他の事情に照らし必要と認めるときは、機構に対し、拠出金の額の変更をすべきことを命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="46">
+              <ArticleCaption>（拠出金の納付の期限等）</ArticleCaption>
+              <ArticleTitle>第四十六条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第一項の規定による拠出金の納付は、各年度の三月一日（その年度に貯留層への二酸化炭素の注入を新たに開始した許可貯留区域に係る拠出金にあっては、その注入を新たに開始した日の属する年度の翌年度の三月一日）までにしなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、拠出金を前項の納期限までに納付しない貯留開始貯留事業者があるときは、遅滞なく、その旨を経済産業大臣に報告しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の規定による報告を受けたときは、その旨を公表するものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">拠出金の延納その他拠出金の納付に関して必要な事項は、政令で定める。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="47">
+              <ArticleCaption>（督促及び滞納処分）</ArticleCaption>
+              <ArticleTitle>第四十七条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、貯留開始貯留事業者が前条第一項の納期限までに拠出金を納付しないときは、期限を指定して、これを督促しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、前項の規定による督促をするときは、貯留開始貯留事業者に対し、督促状を発する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、督促状により指定すべき期限は、督促状を発する日から起算して十日以上経過した日でなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、第一項の規定による督促を受けた貯留開始貯留事業者がその指定の期限までにその督促に係る拠出金及び第五項の規定による延滞金を納付しないときは、国税の滞納処分の例により、経済産業大臣の認可を受けて、滞納処分をすることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定による徴収金の先取特権の順位は、国税及び地方税に次ぐものとし、その時効については、国税の例による。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">機構は、第一項の規定による督促をしたときは、その督促に係る拠出金の額につき年十四・五パーセントの割合で、納期限の翌日からその拠出金の完納の日又は財産の差押えの日の前日までの日数により計算した額の延滞金を徴収することができる。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、経済産業省令で定める場合は、この限りでない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="48">
+              <ArticleCaption>（漏えい時の措置）</ArticleCaption>
+              <ArticleTitle>第四十八条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留開始貯留事業者は、その貯留開始貯留事業に係る許可貯留区域内の貯留層に貯蔵された二酸化炭素の漏えいが発生し、又は発生するおそれがあるときは、直ちに、二酸化炭素の漏えいの防止のための応急の措置を講ずるとともに、速やかに、その漏えいの状況及び講じた措置の概要を主務大臣に報告しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">主務大臣は、貯留開始貯留事業者が前項の応急の措置を講じていないと認めるときは、当該貯留開始貯留事業者に対し、同項の応急の措置を講ずべきことを命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="49">
+              <ArticleCaption>（定期の報告）</ArticleCaption>
+              <ArticleTitle>第四十九条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留事業者は、主務省令で定めるところにより、認可貯留事業実施計画の実施状況（第四十三条第一項の規定による監視の結果を除く。）を主務大臣に報告しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="50">
+              <ArticleCaption>（特定貯留事業約款）</ArticleCaption>
+              <ArticleTitle>第五十条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定貯留事業者（他の者の委託を受けて行う貯留事業であって、他の者の活動に伴って排出された二酸化炭素に係るもの（以下「特定貯留事業」という。）を行う貯留事業者をいう。以下同じ。）は、特定貯留事業に係る料金その他の条件について、経済産業省令で定めるところにより、特定貯留事業約款を定め、経済産業大臣に届け出なければならない。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">特定貯留事業者は、前項の規定による届出をした特定貯留事業約款以外の条件により特定貯留事業を行ってはならない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その特定貯留事業約款により難い特別の事情がある場合において、経済産業大臣の承認を受けた料金その他の条件により特定貯留事業を行うときは、この限りでない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、特定貯留事業約款が次の各号のいずれかに該当しないと認めるときは、当該特定貯留事業者に対し、相当の期限を定め、その特定貯留事業約款を変更すべきことを命ずることができる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第一項の規定による届出に係る特定貯留事業約款により二酸化炭素の貯蔵の役務の提供を受けようとする者が当該役務の提供を受けることを著しく困難にするおそれがないこと。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">料金の額の算出方法が適正かつ明確に定められていること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">特定の者に対して不当な差別的取扱いをするものでないこと。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定貯留事業者は、第一項の規定による届出をしたときは、経済産業省令で定めるところにより、その特定貯留事業約款を公表しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、特定貯留事業者が正当な理由なく特定貯留事業約款による二酸化炭素の貯蔵の役務の提供を拒んだときは、当該特定貯留事業者に対し、当該役務の提供を行うべきことを命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="51">
+              <ArticleCaption>（禁止行為等）</ArticleCaption>
+              <ArticleTitle>第五十一条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定貯留事業者は、その特定貯留事業の業務について、特定の者に対し、不当に優先的な取扱いをし、若しくは利益を与え、又は不当に不利な取扱いをし、若しくは不利益を与えてはならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の規定に違反する行為があると認めるときは、当該特定貯留事業者に対し、当該行為の停止又は変更を命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="52">
+              <ArticleCaption>（業務改善命令）</ArticleCaption>
+              <ArticleTitle>第五十二条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、貯留事業の適正な運営を確保するため必要があると認めるときは、その必要の限度において、貯留事業者に対し、業務の方法の変更その他業務の運営の改善に必要な措置をとるべきことを命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="2">
+            <SubsectionTitle>第二款　貯留事業の廃止等</SubsectionTitle>
+            <Article Num="53">
+              <ArticleCaption>（貯留開始貯留事業の廃止の許可等）</ArticleCaption>
+              <ArticleTitle>第五十三条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留開始貯留事業者は、一の許可貯留区域における貯留開始貯留事業を廃止しようとするときは、閉鎖措置（当該許可貯留区域に係る貯留事業場についての坑口の閉塞その他の主務省令で定める措置をいう。以下この条において同じ。）を講じなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留開始貯留事業者は、閉鎖措置を講じようとするときは、あらかじめ、主務省令で定めるところにより、閉鎖措置に関する計画（次項において「閉鎖措置計画」という。）を定め、主務大臣の認可を受けなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十二条第五項から第九項までの規定は、貯留開始貯留事業者並びにその閉鎖措置計画及び閉鎖措置について準用する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、同条第五項から第八項までの規定中「第三項」とあるのは、「第五十三条第二項」と読み替えるものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留開始貯留事業者は、閉鎖措置が終了したときは、主務省令で定めるところにより、その結果が主務省令で定める基準に適合していることについて、主務大臣の確認を受けなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の確認を受けた貯留開始貯留事業者は、当該閉鎖措置に係る許可貯留区域内の貯留層への二酸化炭素の注入を最後に行った日から起算して当該貯留層に貯蔵された二酸化炭素の貯蔵の状況が安定するまでに必要と認められる期間として主務省令で定める期間を経過する日以後、当該閉鎖措置に係る貯留開始貯留事業の廃止について、経済産業大臣に申請して、その許可を受けなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定による申請をしようとする貯留開始貯留事業者は、経済産業省令で定めるところにより、次に掲げる事項を記載した申請書を、経済産業大臣に提出しなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">廃止しようとする貯留開始貯留事業に係る許可貯留区域</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前号に掲げる許可貯留区域内の貯留層への二酸化炭素の注入を終了した年月日</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">貯留開始貯留事業を廃止する予定年月日</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">その他経済産業省令で定める事項</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="7">
+                <ParagraphNum>７</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の申請書には、経済産業省令で定めるところにより、次に掲げる書類を添付しなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">廃止しようとする貯留開始貯留事業に係る許可貯留区域内の貯留層における二酸化炭素の貯蔵の状況を説明する書類</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">貯留開始貯留事業の廃止後、機構が次条第一項に規定する通知貯留区域管理業務を円滑かつ着実に実施するために必要な事務の引継ぎその他の経済産業省令で定める措置の実施状況を説明する書類</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">その他経済産業省令で定める書類</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="8">
+                <ParagraphNum>８</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第五項の許可の申請が次に掲げる基準に適合していると認めるときでなければ、同項の許可をしてはならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">廃止しようとする貯留開始貯留事業に係る許可貯留区域内の貯留層における二酸化炭素の貯蔵の状況が安定しており、かつ、その状況が将来にわたって継続することが見込まれること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">機構に第四十五条第一項の拠出金が納付されていること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前項第二号の経済産業省令で定める措置が適切に実施されていると認められること。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="9">
+                <ParagraphNum>９</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第五項の許可（海域の貯留層における貯留開始貯留事業に係るものに限る。）をしようとするときは、その申請が前項第一号に掲げる基準に適合していることについて、あらかじめ、環境大臣に協議し、その同意を得なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="10">
+                <ParagraphNum>１０</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第五項の許可をしようとするときは、あらかじめ、機構の意見を聴かなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="11">
+                <ParagraphNum>１１</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第五項の許可をしたときは、直ちに、その旨、当該許可に係る許可貯留区域その他経済産業省令で定める事項を機構に通知しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="12">
+                <ParagraphNum>１２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第五項の許可をしたときは、遅滞なく、次に掲げる事項を告示しなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該許可を受けた貯留開始貯留事業に係る貯留権が機構に移転する旨</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">通知貯留区域（前項の規定による通知に係る許可貯留区域をいう。以下同じ。）</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="13">
+                <ParagraphNum>１３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十七条の規定は、前項の規定による告示をしたときについて準用する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、同条中「許可貯留区域等」とあるのは、「第五十三条第十二項第二号に規定する通知貯留区域」と読み替えるものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="14">
+                <ParagraphNum>１４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五項の規定による申請（抵当権の設定が登録されている貯留権に係る許可貯留区域に係るものに限る。）は、あらかじめ抵当権者の承諾を得なければすることができない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="54">
+              <ArticleCaption>（機構が行う通知貯留区域の管理の業務）</ArticleCaption>
+              <ArticleTitle>第五十四条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、通知貯留区域内の貯留層における二酸化炭素が安定的に貯蔵されていることを確認するために必要な事項として主務省令で定めるものの監視その他通知貯留区域の管理の業務（第三項及び次条第一項において「通知貯留区域管理業務」という。）を行うものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、主務省令で定めるところにより、前項の監視の結果を主務大臣に報告しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十三条第一項の規定は、機構が行う通知貯留区域管理業務については、適用しない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="55">
+              <ArticleCaption>（貯留権の移転等）</ArticleCaption>
+              <ArticleTitle>第五十五条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五十三条第十二項の規定による告示があったときは、第三十五条第一項の規定にかかわらず、当該告示に係る貯留権は機構に移転し、当該告示に係る通知貯留区域に係る土地に関するその他の権利は、機構が当該通知貯留区域において行う通知貯留区域管理業務を妨げ、又は通知貯留区域管理業務に支障を及ぼす限度においてその行使を制限される。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、前項の規定により移転した貯留権を放棄することができない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="56">
+              <ArticleCaption>（漏えい時の措置）</ArticleCaption>
+              <ArticleTitle>第五十六条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">機構は、通知貯留区域内の貯留層に貯蔵された二酸化炭素の漏えいが発生し、又は発生するおそれがあるときは、直ちに、二酸化炭素の漏えいの防止のための応急の措置を講ずるとともに、速やかに、その漏えいの状況及び講じた措置の概要を主務大臣に報告しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="57">
+              <ArticleCaption>（貯留開始貯留事業以外の貯留事業の廃止の届出等）</ArticleCaption>
+              <ArticleTitle>第五十七条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">貯留事業者は、一の許可貯留区域における貯留開始貯留事業以外の貯留事業を廃止したときは、経済産業省令で定めるところにより、その旨を経済産業大臣に届け出なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の規定による届出があったときは、遅滞なく、その旨及び次に掲げる事項を告示しなければならない。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該届出をした貯留事業者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該届出に係る貯留事業に係る貯留権が消滅する旨</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">当該届出に係る貯留事業に係る許可貯留区域</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定による告示があったときは、当該告示に係る貯留権は、消滅する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の規定により貯留事業者が抵当権の設定が登録されている貯留権に係る許可貯留区域における貯留開始貯留事業以外の貯留事業の廃止の届出をしようとするときは、あらかじめ、抵当権者の承諾を得なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十三条の規定は、貯留事業者が第一項の規定による届出をしたときについて準用する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「その取り消された許可、その解散し、若しくは死亡した貯留事業者等が行っていた貯留開始貯留事業以外の貯留事業若しくは試掘又はその有効期間が満了した試掘の許可」とあるのは「第五十七条第一項の規定による届出」と、「許可貯留区域等」とあるのは「許可貯留区域」と、「貯留事業等の用」とあるのは「貯留事業の用」と読み替えるものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
           <Subsection Num="3">
             <SubsectionTitle>第三款　試掘の実施等</SubsectionTitle>
             <Article Num="58">
@@ -2347,6 +3094,797 @@
               </Paragraph>
             </Article>
           </Subsection>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　導管輸送事業</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　導管輸送事業の届出等</SectionTitle>
+          <Article Num="78">
+            <ArticleCaption>（導管輸送事業の届出）</ArticleCaption>
+            <ArticleTitle>第七十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">導管輸送事業を行おうとする者は、経済産業省令で定めるところにより、次に掲げる事項を経済産業大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">輸送しようとする二酸化炭素が許可貯留区域内の貯留層に貯蔵される場合にあっては、当該許可貯留区域に係る貯留事業者に関する次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">許可貯留区域</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">輸送しようとする二酸化炭素が外国における貯留層に相当するものに貯蔵される場合にあっては、当該外国における貯留事業者に相当する者に関する次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該外国における許可貯留区域に相当する区域</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">導管の設置の場所及び内径その他の導管輸送工作物に関する事項として経済産業省令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">事業開始の予定年月日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他経済産業省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による届出には、経済産業省令で定める書類を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">導管輸送事業者（第一項の規定による届出をした者をいう。以下同じ。）は、同項各号に掲げる事項に変更があったときは、経済産業省令で定めるところにより、遅滞なく、その旨を経済産業大臣に届け出なければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、経済産業省令で定める軽微な変更については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="79">
+            <ArticleCaption>（承継）</ArticleCaption>
+            <ArticleTitle>第七十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">導管輸送事業の全部の譲渡しがあり、又は導管輸送事業者について相続、合併若しくは分割（当該導管輸送事業の全部を承継させるものに限る。）があったときは、導管輸送事業の全部を譲り受けた者又は相続人（相続人が二人以上ある場合において、その全員の同意により当該導管輸送事業者が行っていた導管輸送事業を承継すべき相続人を選定したときは、その者）、合併後存続する法人若しくは合併により設立された法人若しくは分割により当該導管輸送事業の全部を承継した法人は、導管輸送事業者の地位を承継する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により導管輸送事業者の地位を承継した者は、遅滞なく、その旨を経済産業大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="80">
+            <ArticleCaption>（事業の休止及び廃止並びに法人の解散）</ArticleCaption>
+            <ArticleTitle>第八十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">導管輸送事業者は、その事業を休止し、又は廃止したときは、遅滞なく、経済産業省令で定めるところにより、その旨を経済産業大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">導管輸送事業者である法人が合併以外の事由により解散したときは、その清算人（解散が破産手続開始の決定による場合にあっては、破産管財人）は、遅滞なく、その旨を経済産業大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="81">
+            <ArticleCaption>（流量等の測定義務）</ArticleCaption>
+            <ArticleTitle>第八十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">導管輸送事業者は、経済産業省令で定めるところにより、その輸送する二酸化炭素の流量、圧力その他経済産業省令で定める事項を測定し、その結果を記録し、これを保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="82">
+            <ArticleCaption>（特定導管輸送事業約款）</ArticleCaption>
+            <ArticleTitle>第八十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定導管輸送事業者（他の者の委託を受けて行う導管輸送事業であって、他の者の活動に伴って排出された二酸化炭素に係るもの（以下「特定導管輸送事業」という。）を行う導管輸送事業者をいう。以下同じ。）は、特定導管輸送事業に係る料金その他の条件について、経済産業省令で定めるところにより、特定導管輸送事業約款を定め、経済産業大臣に届け出なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">特定導管輸送事業者は、前項の規定による届出をした特定導管輸送事業約款以外の条件により特定導管輸送事業を行ってはならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その特定導管輸送事業約款により難い特別の事情がある場合において、経済産業大臣の承認を受けた料金その他の条件により特定導管輸送事業を行うときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、特定導管輸送事業約款が次の各号のいずれかに該当しないと認めるときは、当該特定導管輸送事業者に対し、相当の期限を定め、その特定導管輸送事業約款を変更すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の規定による届出に係る特定導管輸送事業約款により導管による二酸化炭素の輸送の役務の提供を受けようとする者が当該役務の提供を受けることを著しく困難にするおそれがないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">料金の額の算出方法が適正かつ明確に定められていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定の者に対して不当な差別的取扱いをするものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定導管輸送事業者は、第一項の規定による届出をしたときは、経済産業省令で定めるところにより、その特定導管輸送事業約款を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、特定導管輸送事業者が正当な理由なく特定導管輸送事業約款による導管による二酸化炭素の輸送の役務の提供を拒んだときは、当該特定導管輸送事業者に対し、当該役務の提供を行うべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="83">
+            <ArticleCaption>（禁止行為等）</ArticleCaption>
+            <ArticleTitle>第八十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定導管輸送事業者は、その特定導管輸送事業の業務その他のその維持し、及び運用する導管に係る業務について、特定の者に対し、不当に優先的な取扱いをし、若しくは利益を与え、又は不当に不利な取扱いをし、若しくは不利益を与えてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の規定に違反する行為があると認めるときは、当該特定導管輸送事業者に対し、当該行為の停止又は変更を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="84">
+            <ArticleCaption>（業務改善命令）</ArticleCaption>
+            <ArticleTitle>第八十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、導管輸送事業の適正な運営を確保するため必要があると認めるときは、その必要の限度において、導管輸送事業者に対し、業務の方法の変更その他業務の運営の改善に必要な措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　保安</SectionTitle>
+          <Subsection Num="1">
+            <SubsectionTitle>第一款　導管輸送事業者の義務等</SubsectionTitle>
+            <Article Num="85">
+              <ArticleCaption>（導管輸送事業者の義務）</ArticleCaption>
+              <ArticleTitle>第八十五条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">導管輸送事業者は、公共の安全の維持及び災害の発生の防止のために必要な措置を講じなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="86">
+              <ArticleCaption>（導管輸送工作物の維持等）</ArticleCaption>
+              <ArticleTitle>第八十六条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">導管輸送事業者は、その導管輸送工作物を経済産業省令で定める技術上の基準に適合するように維持しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、導管輸送工作物が前項の経済産業省令で定める技術上の基準に適合していないと認めるときは、導管輸送事業者に対し、当該技術上の基準に適合するようにその導管輸送工作物を修理し、改造し、若しくは移転し、若しくはその使用を一時停止すべきことを命じ、又はその使用を制限することができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、公共の安全の維持又は災害の発生の防止のため緊急の必要があると認めるときは、導管輸送事業者に対し、その導管輸送工作物を移転し、若しくはその使用を一時停止すべきことを命じ、若しくはその使用を制限し、又はその導管輸送工作物内における二酸化炭素の廃棄その他の必要な措置を講ずべきことを命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="87">
+              <ArticleCaption>（災害時の報告に係る規定の準用）</ArticleCaption>
+              <ArticleTitle>第八十七条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第六十八条の規定は、導管輸送事業者及び導管輸送事業について準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="2">
+            <SubsectionTitle>第二款　自主的な保安</SubsectionTitle>
+            <Article Num="88">
+              <ArticleCaption>（保安規程）</ArticleCaption>
+              <ArticleTitle>第八十八条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">導管輸送事業者は、その導管輸送工作物の工事、維持及び運用に関する保安を確保するため、経済産業省令で定めるところにより、保安規程を定め、導管輸送事業（第九十一条第一項の自主検査を伴う導管輸送工作物の設置又は変更の工事をする場合にあっては、当該工事）の開始前に、経済産業大臣に届け出なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">導管輸送事業者は、保安規程を変更したときは、遅滞なく、変更した事項を経済産業大臣に届け出なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、導管輸送工作物の工事、維持及び運用に関する保安を確保するため必要があると認めるときは、導管輸送事業者に対し、保安規程を変更すべきことを命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">導管輸送事業者及びその従業者は、保安規程を守らなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="89">
+              <ArticleCaption>（保安教育等に係る規定の準用）</ArticleCaption>
+              <ArticleTitle>第八十九条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第七十条から第七十三条までの規定は、導管輸送事業者について準用する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、第七十一条第一項、第七十二条第二項及び第七十三条中「貯留事業場等における保安」とあるのは「導管輸送工作物の工事、維持及び運用に関する保安」と、同項中「貯留事業等に従事する者」とあるのは「導管輸送工作物の工事、維持又は運用に従事する者」と読み替えるものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+          <Subsection Num="3">
+            <SubsectionTitle>第三款　工事計画及び検査</SubsectionTitle>
+            <Article Num="90">
+              <ArticleCaption>（工事計画）</ArticleCaption>
+              <ArticleTitle>第九十条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">導管輸送事業者は、その導管輸送工作物の設置又は変更の工事であって経済産業省令で定めるものをしようとするときは、その工事の計画を経済産業大臣に届け出なければならない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その導管輸送工作物が滅失し、若しくは損壊した場合又は災害その他非常の場合において、やむを得ない一時的な工事としてするときは、この限りでない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">導管輸送事業者は、前項の規定による届出に係る工事の計画を変更しようとするときは、経済産業大臣に届け出なければならない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その変更が経済産業省令で定める軽微なものであるときは、この限りでない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前二項の規定による届出をした者は、その届出が受理された日から三十日を経過した後でなければ、当該届出に係る工事を開始してはならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第一項又は第二項の規定による届出のあった工事の計画が次に掲げる基準に適合していると認めるときは、前項に規定する期間を短縮することができる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">その導管輸送工作物が第八十六条第一項の経済産業省令で定める技術上の基準に適合するものであること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">その導管輸送工作物の設置又は変更の工事が公共の安全の維持及び災害の発生の防止に支障を及ぼすおそれがないものであること。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第一項又は第二項の規定による届出のあった工事の計画が前項各号に掲げる基準のいずれかに適合していないと認めるときは、導管輸送事業者に対し、その届出を受理した日から三十日（次項の規定により第三項に規定する期間が延長された場合にあっては、その延長後の期間）以内に限り、当該工事の計画を変更し、又は廃止すべきことを命ずることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第一項又は第二項の規定による届出のあった工事の計画が第四項各号に掲げる基準に適合するかどうかについて審査するため相当の期間を要し、その審査が第三項に規定する期間内に終了しないと認める相当の理由があるときは、当該期間を相当と認める期間に延長することができる。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、経済産業大臣は、当該届出をした者に対し、遅滞なく、その延長後の期間及びその延長の理由を通知しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="7">
+                <ParagraphNum>７</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">導管輸送事業者は、第一項ただし書の規定によりやむを得ない一時的な工事をする場合は、当該工事の開始の後、遅滞なく、その旨を経済産業大臣に届け出なければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="8">
+                <ParagraphNum>８</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">導管輸送事業者は、第二項ただし書の経済産業省令で定める軽微な変更をする場合は、その工事の計画を変更した後、遅滞なく、その変更した工事の計画を経済産業大臣に届け出なければならない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、経済産業省令で定める場合は、この限りでない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="91">
+              <ArticleCaption>（使用前検査）</ArticleCaption>
+              <ArticleTitle>第九十一条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">導管輸送事業者は、前条第一項又は第二項の規定による届出をして設置又は変更の工事をする導管輸送工作物（その工事の計画について同条第五項の規定による命令があった場合において同条第一項又は第二項の規定による届出をしていないものを除く。）であって経済産業省令で定めるものの設置又は変更の工事を完成したときは、経済産業省令で定めるところにより、その使用の開始前に、当該導管輸送工作物について自主検査を行い、その結果が次項各号に掲げる基準に適合していることについて経済産業省令で定めるところにより経済産業大臣の登録を受けた者（以下「登録導管輸送工作物検査機関」という。）が行う検査を受け、これに合格した後でなければ、これを使用してはならない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、経済産業省令で定める場合は、この限りでない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録導管輸送工作物検査機関が行う検査においては、導管輸送工作物が次に掲げる基準に適合しているときは、合格とする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">その工事が前条第一項又は第二項の規定による届出をした工事の計画（同項ただし書の経済産業省令で定める軽微な変更をしたものを含む。）に従って行われたものであること。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第八十六条第一項の経済産業省令で定める技術上の基準に適合するものであること。</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">導管輸送事業者は、経済産業省令で定めるところにより、第一項の自主検査の記録を作成し、これを保存しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="92">
+              <ArticleCaption>（定期自主検査に係る規定の準用）</ArticleCaption>
+              <ArticleTitle>第九十二条</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第七十七条の規定は、導管輸送事業者及び導管輸送工作物について準用する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+          </Subsection>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　登録導管輸送工作物検査機関</SectionTitle>
+          <Article Num="93">
+            <ArticleCaption>（登録）</ArticleCaption>
+            <ArticleTitle>第九十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第九十一条第一項の登録（以下この節において単に「登録」という。）は、経済産業省令で定めるところにより、同項の検査（以下この節、第百三十一条第五号及び第百四十二条第四号において単に「検査」という。）を行おうとする者の申請により行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="94">
+            <ArticleCaption>（登録の基準）</ArticleCaption>
+            <ArticleTitle>第九十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前条の規定により登録を申請した者（第二号及び第三号において「登録申請者」という。）が次に掲げる基準に適合しているときは、その登録をしなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、登録に関して必要な手続は、経済産業省令で定める。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">経済産業省令で定める資格を有する者が検査を実施するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録申請者が次のいずれにも該当しないこと。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">この法律若しくはこの法律に基づく命令又はこれらに基づく処分に違反し、罰金以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から二年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第百四条第一項又は第二項の規定により登録を取り消され、その取消しの日から二年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">法人であって、その業務を行う役員のうちにイ又はロのいずれかに該当する者があるもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録申請者が、導管輸送事業者に支配されているものとして次のいずれかに該当するものでないこと。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">登録申請者が株式会社である場合にあっては、導管輸送事業者がその親法人（会社法（平成十七年法律第八十六号）第八百七十九条第一項に規定する親法人をいう。）であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">登録申請者の役員（会社法第五百七十五条第一項に規定する持分会社にあっては、業務を執行する社員）に占める導管輸送事業者の役員又は職員（過去二年間に当該導管輸送事業者の役員又は職員であった者を含む。）の割合が二分の一を超えていること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">登録申請者（法人にあっては、その代表権を有する役員）が、導管輸送事業者の役員又は職員（過去二年間に当該導管輸送事業者の役員又は職員であった者を含む。）であること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録は、導管輸送工作物検査機関登録簿に次に掲げる事項を記載してするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録年月日及び登録番号</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録導管輸送工作物検査機関の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録導管輸送工作物検査機関が検査を行う事業所の名称及び所在地</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、登録をしたときは、遅滞なく、前項各号に掲げる事項を告示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="95">
+            <ArticleCaption>（登録の更新）</ArticleCaption>
+            <ArticleTitle>第九十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録は、三年を下らない政令で定める期間ごとにその更新を受けなければ、その期間の経過によって、その効力を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二条（前条第三項を除く。）の規定は、前項の登録の更新について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の登録の更新の申請があった場合において、同項の期間（以下この項及び次項において「登録の有効期間」という。）の満了の日までにその申請に対する処分がされないときは、従前の登録は、登録の有効期間の満了後もその処分がされるまでの間は、なおその効力を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、第一項の登録の更新がされたときは、その登録の有効期間は、従前の登録の有効期間の満了の日の翌日から起算するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第一項の規定により登録が効力を失ったときは、遅滞なく、その旨を告示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="96">
+            <ArticleCaption>（検査の義務）</ArticleCaption>
+            <ArticleTitle>第九十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録導管輸送工作物検査機関は、検査を行うことを求められたときは、正当な理由がある場合を除き、遅滞なく、検査を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録導管輸送工作物検査機関は、公正に、かつ、経済産業省令で定める基準に適合する方法により検査を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="97">
+            <ArticleCaption>（変更の届出）</ArticleCaption>
+            <ArticleTitle>第九十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録導管輸送工作物検査機関は、その氏名若しくは名称、住所又は検査を行う事業所の名称若しくは所在地を変更しようとするときは、変更しようとする日の二週間前までに、経済産業大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第九十四条第三項の規定は、前項の規定による届出があったときについて準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="98">
+            <ArticleCaption>（業務規程）</ArticleCaption>
+            <ArticleTitle>第九十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録導管輸送工作物検査機関は、検査の業務に関する規程（次項及び第三項において「業務規程」という。）を定め、検査の業務の開始前に、経済産業大臣に届け出なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">業務規程には、検査の実施方法、検査に関する料金の算定方法その他の経済産業省令で定める事項を定めておかなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第一項の規定による届出のあった業務規程が検査の適正かつ確実な実施上不適当となったと認めるときは、当該業務規程を変更すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="99">
+            <ArticleCaption>（業務の休廃止の届出）</ArticleCaption>
+            <ArticleTitle>第九十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録導管輸送工作物検査機関は、検査の業務の全部又は一部を休止し、又は廃止しようとするときは、経済産業省令で定めるところにより、休止し、又は廃止しようとする日以前の経済産業省令で定める日までに、その旨を経済産業大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第九十五条第五項の規定は、前項の規定による届出があったときについて準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="100">
+            <ArticleCaption>（財務諸表等の備置き及び閲覧等）</ArticleCaption>
+            <ArticleTitle>第百条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録導管輸送工作物検査機関は、毎事業年度経過後三月以内に、その事業年度の財産目録、貸借対照表及び損益計算書又は収支計算書並びに事業報告書（これらの作成に代えて電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。次項第三号及び第四号において同じ。）の作成がされている場合における当該電磁的記録を含む。同項第一号及び第三号並びに第百四十七条において「財務諸表等」という。）を作成し、五年間事業所に備えて置かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">導管輸送事業者その他の利害関係人は、登録導管輸送工作物検査機関の業務時間内は、いつでも、次に掲げる請求をすることができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二号又は第四号の請求をするには、登録導管輸送工作物検査機関の定めた費用を支払わなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">財務諸表等が書面をもって作成されているときは、当該書面の閲覧又は謄写の請求</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号の書面の謄本又は抄本の請求</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">財務諸表等が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を経済産業省令で定める方法により表示したものの閲覧又は謄写の請求</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号の電磁的記録に記録された事項を電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であって経済産業省令で定めるものをいう。）により提供することの請求又は当該事項を記載した書面の交付の請求</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="101">
+            <ArticleCaption>（適合命令）</ArticleCaption>
+            <ArticleTitle>第百一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、登録導管輸送工作物検査機関が第九十四条第一項第一号又は第三号に掲げる基準のいずれかに適合しなくなったと認めるときは、当該登録導管輸送工作物検査機関に対し、これらの基準に適合するために必要な措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="102">
+            <ArticleCaption>（改善命令）</ArticleCaption>
+            <ArticleTitle>第百二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、登録導管輸送工作物検査機関が第九十六条の規定に違反していると認めるときは、当該登録導管輸送工作物検査機関に対し、検査を行うべきこと又は検査の方法その他の業務の方法の改善に関し必要な措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="103">
+            <ArticleCaption>（検査についての申請及び経済産業大臣の命令）</ArticleCaption>
+            <ArticleTitle>第百三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">導管輸送事業者は、その導管輸送工作物について、登録導管輸送工作物検査機関が検査を行わない場合又は登録導管輸送工作物検査機関の検査の結果に異議のある場合は、経済産業大臣に対し、当該登録導管輸送工作物検査機関が検査を行うこと又は改めて検査を行うことを命ずべきことを申請することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の規定による申請があった場合において、当該申請に係る登録導管輸送工作物検査機関が第九十六条の規定に違反していると認めるときは、当該申請に係る登録導管輸送工作物検査機関に対し、前条の規定による命令をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の場合において、前条の規定による命令をし、又は命令をしないことの決定をしたときは、遅滞なく、当該申請をした導管輸送事業者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="104">
+            <ArticleCaption>（登録の取消し等）</ArticleCaption>
+            <ArticleTitle>第百四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、登録導管輸送工作物検査機関が第九十四条第一項第二号イ又はハのいずれかに該当するに至ったときは、その登録を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、登録導管輸送工作物検査機関が次の各号のいずれかに該当するときは、その登録を取り消し、又は二年以内の期間を定めて検査の業務の全部若しくは一部を停止すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">偽りその他不正の手段により登録又はその更新を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第九十六条、第九十七条第一項、第九十八条第一項、第九十九条第一項、第百条第一項又は次条の規定に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第九十八条第三項、第百一条又は第百二条の規定による命令に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">正当な理由がないのに第百条第二項の規定による請求を拒んだとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第九十五条第五項の規定は、前二項の規定による処分をしたときについて準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="105">
+            <ArticleCaption>（帳簿の記載）</ArticleCaption>
+            <ArticleTitle>第百五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録導管輸送工作物検査機関は、経済産業省令で定めるところにより、帳簿を備え、検査に関し経済産業省令で定める事項を記載し、これを保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="106">
+            <ArticleCaption>（経済産業大臣による検査業務実施）</ArticleCaption>
+            <ArticleTitle>第百六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、登録を受ける者がいないとき、第九十九条第一項の規定による検査の業務の全部又は一部の休止又は廃止の届出があったとき、第百四条第一項又は第二項の規定により登録を取り消し、又は登録導管輸送工作物検査機関に対し検査の業務の全部若しくは一部の停止を命じたとき、登録導管輸送工作物検査機関が天災その他の事由により検査の業務の全部又は一部を実施することが困難となったときその他必要があると認めるときは、当該検査の業務の全部又は一部を自ら行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の規定により検査の業務の全部若しくは一部を自ら行うものとするとき、又は自ら行っていた検査の業務の全部若しくは一部を行わないこととするときは、その旨を告示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣が第一項の規定により検査の業務の全部又は一部を自ら行う場合における検査の業務の引継ぎその他の必要な事項については、経済産業省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
         </Section>
       </Chapter>
       <Chapter Num="4">
@@ -3078,7 +4616,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence/>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、この法律の施行に必要な限度において、貯留事業者に対し、その業務に関し必要な報告若しくは資料の提出を求め、又はその職員に、貯留事業者の事業所、事務所その他の事業場に立ち入り、業務の状況若しくは帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -3091,6 +4629,12 @@
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">経済産業大臣は、この法律の施行に必要な限度において、探査を行う者に対し、その行為に関し必要な報告若しくは資料の提出を求め、又はその職員に、探査を行う者の事業所、事務所若しくは自動車若しくは船舶（以下この項において「自動車等」という。）に立ち入り、その行為の状況、自動車等若しくは帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、この法律の施行に必要な限度において、登録導管輸送工作物検査機関に対し、その業務に関し必要な報告若しくは資料の提出を求め、又はその職員に、登録導管輸送工作物検査機関の事業所若しくは事務所に立ち入り、業務の状況若しくは帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -3136,6 +4680,54 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">貯留事業者等が行う貯留事業等及びその用に供する貯留等工作物並びに導管輸送事業者が行う導管輸送事業及びその用に供する導管輸送工作物については、高圧ガス保安法（昭和二十六年法律第二百四号）第五条、第十三条、第十五条第一項、第十六条第一項及び第三項、第十七条の二、第二十三条第三項、第二十五条、第三十九条第二号及び第三号、第六十二条第一項並びに第六十三条の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="135">
+          <ArticleCaption>（海上保安庁長官との関係）</ArticleCaption>
+          <ArticleTitle>第百三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第三十八条第一項又は第三十九条第一項の認可（海域の貯留層における貯留事業に係るものに限る。）をしたときは、遅滞なく、その旨を海上保安庁長官に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="136">
+          <ArticleCaption>（主務大臣等）</ArticleCaption>
+          <ArticleTitle>第百三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律における主務大臣は、次の各号に掲げる事項の区分に応じ、当該各号に定める大臣とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">海域の貯留層における貯留事業に関する事項（貯留事業場における保安に関する事項を除く。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣及び環境大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げる事項以外の事項</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律における主務省令は、前項各号に掲げる事項の区分に応じ、それぞれ当該各号に定める主務大臣の発する命令とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3257,6 +4849,18 @@
                 <Sentence Num="1" WritingMode="vertical">第二十二条第九項（第五十三条第三項において準用する場合を含む。）又は第二十三条第二項（第五十七条第五項及び第六十四条第三項において準用する場合を含む。）の規定による命令に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七十八条第一項の規定による届出をしないで導管輸送事業を行い、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第百四条第二項の規定による検査の業務の停止の命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="143">
@@ -3311,6 +4915,12 @@
                 <Sentence Num="1" WritingMode="vertical">第七十五条第五項又は第九十条第五項の規定による命令に違反して貯留等工作物又は導管輸送工作物の設置又は変更の工事をしたとき。</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第九十一条第一項の規定に違反して導管輸送工作物を使用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="145">
@@ -3332,10 +4942,22 @@
                 <Sentence Num="1" WritingMode="vertical">第四十三条第二項、第四十八条第一項、第四十九条（第六十四条第一項において準用する場合を含む。）又は第六十八条第一項（第八十七条において準用する場合を含む。）の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十条第四項又は第八十二条第四項の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">第七十四条第一項若しくは第二項、第七十六条第一項、第七十七条（第九十二条において準用する場合を含む。）、第八十一条又は第九十一条第三項の規定に違反して記録を作成せず、若しくは虚偽の記録を作成し、又は記録を保存しなかったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第百五条の規定に違反して、帳簿を備えず、帳簿に同条に規定する事項の記載をせず、若しくは虚偽の記載をし、又は帳簿を保存しなかったとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
@@ -3376,6 +4998,15 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、第百四十条から前条までの違反行為をしたときは、行為者を罰するほか、その法人又は人に対して各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="147">
+          <ArticleTitle>第百四十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第百条第一項の規定に違反して財務諸表等を備えて置かず、財務諸表等に記載すべき事項を記載せず、若しくは虚偽の記載をし、又は正当な理由がないのに同条第二項の規定による請求を拒んだ者は、二十万円以下の過料に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3434,6 +5065,98 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、我が国における貯留事業の実施状況、諸外国における貯留事業に相当する事業の実施状況及び当該事業に係る制度等を勘案し、必要があると認めるときは、この法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（貯留事業に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に貯留事業を行っている者（以下「既存貯留事業者」という。）は、この法律の施行の日（以下「施行日」という。）から起算して六月を経過する日までの間は、第十三条第一項の規定にかかわらず、引き続き貯留事業を行うことができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">既存貯留事業者がその期間内に次項の許可の申請をした場合において、その期間を経過したときは、その申請について許可又は不許可の処分があるまでの間も、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">既存貯留事業者は、施行日から起算して六月を経過する日後も引き続きその貯留事業を行っている区域内の貯留層における貯留事業を行おうとするときは、同日までに経済産業大臣に申請して、その許可を受けることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定による申請をしようとする既存貯留事業者は、経済産業省令で定めるところにより、次に掲げる事項を記載した申請書を、経済産業大臣に提出しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該申請に係る貯留区域（次項及び第六項において「申請貯留区域」という。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">貯留事業を開始した年月日</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">貯留事業の概要</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四条第三項から第五項までの規定は前項の申請書並びに当該申請書に係る貯留事業及び申請貯留区域について、第六条から第八条までの規定は第二項の許可並びに当該許可に係る貯留事業及び申請貯留区域について、第十条第三項（第三号を除く。）の規定は第二項の規定による申請及び当該申請に係る申請貯留区域について、第三十七条第四項の規定は第二項の許可（当該許可の日において既に申請貯留区域内の貯留層に二酸化炭素を貯蔵している既存貯留事業者に係るものに限る。）をしたときについて、第百三十三条の規定は同項の規定による経済産業大臣の処分について、それぞれ準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第二項の規定による申請（海域の貯留層における貯留事業に係るものに限る。）について同項の許可をしようとするときは、その申請が前項において準用する第十条第三項第一号（経理的基礎及び技術的能力に係る部分に限る。）及び第四号に掲げる基準に適合していることについて、あらかじめ、環境大臣に協議し、その同意を得なければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の許可を受けた既存貯留事業者（以下「許可既存貯留事業者」という。）については、当該許可を受けた日において貯留事業の許可を受けた貯留事業者（同日において既に申請貯留区域内の貯留層に二酸化炭素を貯蔵している場合にあっては、貯留開始貯留事業者）とみなして、この法律の規定（第三十七条第三項前段（貯留開始貯留事業者とみなされる許可既存貯留事業者にあっては、同項）を除く。）を適用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、第十九条第三項第二号及び第四項中「第十条第三項第一号」とあるのは「第十条第三項第一号（附則第三条第四項において準用する場合を含む。）」と、第三十八条第一項中「貯留事業を開始する前に」とあるのは「附則第三条第二項の許可後遅滞なく」と、第六十九条第一項中「貯留事業等（第七十六条第一項の自主検査を伴う貯留等工作物の設置又は変更の工事をする場合にあっては、当該工事）の開始前に」とあるのは「附則第三条第二項の許可後遅滞なく」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の許可を申請する者は、政令で定めるところにより、実費を勘案して政令で定める額の手数料を国に納付しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（工事計画に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第七十五条第一項の規定は、許可既存貯留事業者が前条第二項の許可を受けた時点において既に開始している貯留等工作物の設置又は変更の工事については、適用しない。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="5">
