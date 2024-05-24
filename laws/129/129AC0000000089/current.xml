@@ -1750,31 +1750,9 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">前項の公示は、公示送達に関する民事訴訟法（平成八年法律第百九号）の規定に従い、次の各号に掲げる区分に応じ、それぞれ当該各号に定める事項を不特定多数の者が閲覧することができる状態に置くとともに、当該事項が記載された書面を裁判所の掲示場に掲示し、又は当該事項を裁判所に設置した電子計算機（入出力装置を含む。以下この項において同じ。）の映像面に表示したものの閲覧をすることができる状態に置く措置をとり、かつ、その措置がとられたことを官報に少なくとも一回掲載して行う。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">前項の公示は、公示送達に関する民事訴訟法（平成八年法律第百九号）の規定に従い、裁判所の掲示場に掲示し、かつ、その掲示があったことを官報に少なくとも一回掲載して行う。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、裁判所は、相当と認めるときは、官報への掲載に代えて、市役所、区役所、町村役場又はこれらに準ずる施設の掲示場に掲示すべきことを命ずることができる。</Sentence>
                 </ParagraphSentence>
-                <Item Num="1">
-                  <ItemTitle>一</ItemTitle>
-                  <ItemSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">書類の公示による意思表示</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">裁判所書記官が意思表示を記載した書類を保管し、いつでも相手方に交付すべきこと。</Sentence>
-                    </Column>
-                  </ItemSentence>
-                </Item>
-                <Item Num="2">
-                  <ItemTitle>二</ItemTitle>
-                  <ItemSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）の公示による意思表示</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">裁判所書記官が、裁判所の使用に係る電子計算機に備えられたファイルに記録された電磁的記録に記録されている意思表示に係る事項につき、いつでも相手方にその事項を出力することにより作成した書面を交付し、又は閲覧若しくは記録をすることができる措置をとるとともに、相手方に対し、裁判所の使用に係る電子計算機と相手方の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織を使用して当該措置がとられた旨の通知を発すべきこと。</Sentence>
-                    </Column>
-                  </ItemSentence>
-                </Item>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
@@ -2756,7 +2734,7 @@
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第一項の合意がその内容を記録した電磁的記録によってされたときは、その合意は、書面によってされたものとみなして、前三項の規定を適用する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の合意がその内容を記録した電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）によってされたときは、その合意は、書面によってされたものとみなして、前三項の規定を適用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="5">
@@ -6321,35 +6299,26 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">質権者は、質権の担保する債権について不履行があったときは、その目的である債権を直接に取り立てることができる。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合において、質権者の受けた利益の価額がその担保する債権の額を超えるときは、その差額に相当する金銭を質権設定者に支払わなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">質権者は、質権の目的である債権を直接に取り立てることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第三債務者は、質権の設定について第三百六十四条の規定によりその規定に従うこととされる第四百六十七条第一項の規定による通知又は承諾がされた時より後に質権者に対してした弁済その他の債務を消滅させる事由をもって質権設定者その他の第三者に対抗することができる。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合において、質権者は、自己の債権の弁済期が到来するまでは、質権設定者に対し、その受けた利益の価額に相当する金銭を支払うことを要しない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">債権の目的物が金銭であるときは、質権者は、自己の債権額に対応する部分に限り、これを取り立てることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項前段の場合において、質権者の債権の弁済期が到来したときは、質権者は、質権設定者に対し、その受けた利益の価額から自己の債権の額を控除した残額を支払わなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の債権の弁済期が質権者の債権の弁済期前に到来したときは、質権者は、第三債務者にその弁済をすべき金額を供託させることができる。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、質権は、その供託金について存在する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">債権の目的物が金銭である場合において、その弁済期が質権者の債権についての不履行が生ずる前に到来したときは、質権者は、第三債務者にその弁済をすべき金額を供託させることができる。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合において、質権は、その供託金について存在する。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
-              <Paragraph Num="5">
-                <ParagraphNum>５</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">債権の目的が物の引渡しであるときは、質権者は、弁済として受けた物について質権を有する。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合においては、第一項後段及び第三項の規定は、適用しない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">債権の目的物が金銭でないときは、質権者は、弁済として受けた物について質権を有する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -6401,7 +6370,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">抵当権は、その担保する債権について不履行があったときは、抵当不動産の果実（収取されていないものに限る。）に及ぶ。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">抵当権は、その担保する債権について不履行があったときは、その後に生じた抵当不動産の果実に及ぶ。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
