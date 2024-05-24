@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Year="04" Num="105" LawType="Act" Lang="ja" PromulgateMonth="12" PromulgateDay="16" Era="Reiwa"><LawNum>令和四年法律第百五号</LawNum><LawBody><LawTitle Kana="ほうじんとうによるきふのふとうなかんゆうのぼうしとうにかんするほうりつ" Abbrev="不当寄附勧誘防止法" AbbrevKana="ふとうきふかんゆうぼうしほう">法人等による寄附の不当な勧誘の防止等に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　寄附の不当な勧誘の防止</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　配慮義務</SectionTitle>
+          <ArticleRange>（第三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　禁止行為</SectionTitle>
+          <ArticleRange>（第四条・第五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　違反に対する措置等</SectionTitle>
+          <ArticleRange>（第六条・第七条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　寄附の意思表示の取消し等</ChapterTitle>
+        <ArticleRange>（第八条―第十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　法人等の不当な勧誘により寄附をした者等に対する支援</ChapterTitle>
+        <ArticleRange>（第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <ArticleRange>（第十二条―第十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第十六条―第十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、法人等（法人又は法人でない社団若しくは財団で代表者若しくは管理人の定めがあるものをいう。以下同じ。）による不当な寄附の勧誘を禁止するとともに、当該勧誘を行う法人等に対する行政上の措置等を定めることにより、消費者契約法（平成十二年法律第六十一号）とあいまって、法人等からの寄附の勧誘を受ける者の保護を図ることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「寄附」とは、次に掲げるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">個人（事業のために契約の当事者となる場合又は単独行為をする場合におけるものを除く。以下同じ。）と法人等との間で締結される次に掲げる契約</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該個人が当該法人等に対し無償で財産に関する権利を移転することを内容とする契約（当該財産又はこれと種類、品質及び数量の同じものを返還することを約するものを除く。ロにおいて同じ。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">当該個人が当該法人等に対し当該法人等以外の第三者に無償で当該個人の財産に関する権利を移転することを委託することを内容とする契約</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">個人が法人等に対し無償で財産上の利益を供与する単独行為</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　寄附の不当な勧誘の防止</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　配慮義務</SectionTitle>
+          <Article Num="3">
+            <ArticleTitle>第三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人等は、寄附の勧誘を行うに当たっては、次に掲げる事項に十分に配慮しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">寄附の勧誘が個人の自由な意思を抑圧し、その勧誘を受ける個人が寄附をするか否かについて適切な判断をすることが困難な状態に陥ることがないようにすること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">寄附により、個人又はその配偶者若しくは親族（当該個人が民法（明治二十九年法律第八十九号）第八百七十七条から第八百八十条までの規定により扶養の義務を負う者に限る。第五条において同じ。）の生活の維持を困難にすることがないようにすること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">寄附の勧誘を受ける個人に対し、当該寄附の勧誘を行う法人等を特定するに足りる事項を明らかにするとともに、寄附される財産の使途について誤認させるおそれがないようにすること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　禁止行為</SectionTitle>
+          <Article Num="4">
+            <ArticleCaption>（寄附の勧誘に関する禁止行為）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人等は、寄附の勧誘をするに際し、次に掲げる行為をして寄附の勧誘を受ける個人を困惑させてはならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該法人等に対し、当該個人が、その住居又はその業務を行っている場所から退去すべき旨の意思を示したにもかかわらず、それらの場所から退去しないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該法人等が当該寄附の勧誘をしている場所から当該個人が退去する旨の意思を示したにもかかわらず、その場所から当該個人を退去させないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該個人に対し、当該寄附について勧誘をすることを告げずに、当該個人が任意に退去することが困難な場所であることを知りながら、当該個人をその場所に同行し、その場所において当該寄附の勧誘をすること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該個人が当該寄附の勧誘を受けている場所において、当該個人が当該寄附をするか否かについて相談を行うために電話その他の内閣府令で定める方法によって当該法人等以外の者と連絡する旨の意思を示したにもかかわらず、威迫する言動を交えて、当該個人が当該方法によって連絡することを妨げること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該個人が、社会生活上の経験が乏しいことから、当該寄附の勧誘を行う者に対して恋愛感情その他の好意の感情を抱き、かつ、当該勧誘を行う者も当該個人に対して同様の感情を抱いているものと誤信していることを知りながら、これに乗じ、当該寄附をしなければ当該勧誘を行う者との関係が破綻することになる旨を告げること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該個人に対し、霊感その他の合理的に実証することが困難な特別な能力による知見として、当該個人又はその親族の生命、身体、財産その他の重要な事項について、そのままでは現在生じ、若しくは将来生じ得る重大な不利益を回避することができないとの不安をあおり、又はそのような不安を抱いていることに乗じて、その重大な不利益を回避するためには、当該寄附をすることが必要不可欠である旨を告げること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="5">
+            <ArticleCaption>（借入れ等による資金調達の要求の禁止）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人等は、寄附の勧誘をするに際し、寄附の勧誘を受ける個人に対し、借入れにより、又は次に掲げる財産を処分することにより、寄附をするための資金を調達することを要求してはならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該個人又はその配偶者若しくは親族が現に居住の用に供している建物又はその敷地</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">現に当該個人が営む事業（その継続が当該個人又はその配偶者若しくは親族の生活の維持に欠くことのできないものに限る。）の用に供している土地若しくは土地の上に存する権利又は建物その他の減価償却資産（所得税法（昭和四十年法律第三十三号）第二条第一項第十九号に規定する減価償却資産をいう。）であって、当該事業の継続に欠くことのできないもの（前号に掲げるものを除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　違反に対する措置等</SectionTitle>
+          <Article Num="6">
+            <ArticleCaption>（配慮義務の遵守に係る勧告等）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、法人等が第三条の規定を遵守していないため、当該法人等から寄附の勧誘を受ける個人の権利の保護に著しい支障が生じていると明らかに認められる場合において、更に同様の支障が生ずるおそれが著しいと認めるときは、当該法人等に対し、遵守すべき事項を示して、これに従うべき旨を勧告することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による勧告をした場合において、その勧告を受けた法人等がこれに従わなかったときは、その旨を公表することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の規定による勧告をするために必要な限度において、法人等に対し、第三条各号に掲げる事項に係る配慮の状況に関し、必要な報告を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="7">
+            <ArticleCaption>（禁止行為に係る報告、勧告等）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第四条及び第五条の規定の施行に関し特に必要と認めるときは、その必要の限度において、法人等に対し、寄附の勧誘に関する業務の状況に関し、必要な報告を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、法人等が不特定又は多数の個人に対して第四条又は第五条の規定に違反する行為をしていると認められる場合において、引き続き当該行為をするおそれが著しいと認めるときは、当該法人等に対し、当該行為の停止その他の必要な措置をとるべき旨の勧告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による勧告を受けた法人等が、正当な理由がなくてその勧告に係る措置をとらなかったときは、当該法人等に対し、その勧告に係る措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による命令をしたときは、その旨を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　寄附の意思表示の取消し等</ChapterTitle>
+        <Article Num="8">
+          <ArticleCaption>（寄附の意思表示の取消し）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">個人は、法人等が寄附の勧誘をするに際し、当該個人に対して第四条各号に掲げる行為をしたことにより困惑し、それによって寄附に係る契約の申込み若しくはその承諾の意思表示又は単独行為をする旨の意思表示（以下「寄附の意思表示」と総称する。）をしたときは、当該寄附の意思表示（当該寄附が消費者契約（消費者契約法第二条第三項に規定する消費者契約をいう。第十条第一項第二号において同じ。）に該当する場合における当該消費者契約の申込み又はその承諾の意思表示を除く。次項及び次条において同じ。）を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による寄附の意思表示の取消しは、これをもって善意でかつ過失がない第三者に対抗することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定は、法人等が第三者に対し、当該法人等と個人との間における寄附について媒介をすることの委託（以下この項において単に「委託」という。）をし、当該委託を受けた第三者（その第三者から委託（二以上の段階にわたる委託を含む。）を受けた者を含む。次項において「受託者等」という。）が個人に対して第一項に規定する行為をした場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">寄附に係る個人の代理人（復代理人（二以上の段階にわたり復代理人として選任された者を含む。）を含む。以下この項において同じ。）、法人等の代理人及び受託者等の代理人は、第一項（前項において準用する場合を含む。以下同じ。）の規定の適用については、それぞれ個人、法人等及び受託者等とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（取消権の行使期間）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定による取消権は、追認をすることができる時から一年間（第四条第六号に掲げる行為により困惑したことを理由とする同項の規定による取消権については、三年間）行わないときは、時効によって消滅する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">寄附の意思表示をした時から五年（同号に掲げる行為により困惑したことを理由とする同項の規定による取消権については、十年）を経過したときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（扶養義務等に係る定期金債権を保全するための債権者代位権の行使に関する特例）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人等に寄附（金銭の給付を内容とするものに限る。以下この項において同じ。）をした個人の扶養義務等に係る定期金債権の債権者は、民法第四百二十三条第二項本文の規定にかかわらず、当該定期金債権のうち確定期限の到来していない部分を保全するため必要があるときは、当該個人である債務者に属する当該寄附に関する次に掲げる権利を行使することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第八条第一項の規定による取消権</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">債務者がした寄附に係る消費者契約の申込み又はその承諾の意思表示に係る消費者契約法第四条第三項（第一号から第四号まで、第六号又は第八号に係る部分に限る。）（同法第五条第一項において準用する場合を含む。）の規定による取消権</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号の取消権を行使したことにより生ずる寄附による給付の返還請求権</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項（第三号に係る部分に限る。）の場合において、同項の扶養義務等に係る定期金債権のうち確定期限が到来していない部分については、民法第四百二十三条の三前段の規定は、適用しない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、債権者は、当該法人等に当該確定期限が到来していない部分に相当する金額を債務者のために供託させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項後段の規定により供託をした法人等は、遅滞なく、第一項第三号に掲げる権利を行使した債権者及びその債務者に供託の通知をしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この条において「扶養義務等に係る定期金債権」とは、次に掲げる義務に係る確定期限の定めのある定期金債権をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">民法第七百五十二条の規定による夫婦間の協力及び扶助の義務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">民法第七百六十条の規定による婚姻から生ずる費用の分担の義務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">民法第七百六十六条（同法第七百四十九条、第七百七十一条及び第七百八十八条において準用する場合を含む。）の規定による子の監護に関する義務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">民法第八百七十七条から第八百八十条までの規定による扶養の義務</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　法人等の不当な勧誘により寄附をした者等に対する支援</ChapterTitle>
+        <Article Num="11">
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、前条第一項各号に掲げる権利を有する者又は同項若しくは民法第四百二十三条第一項本文の規定によりこれらの権利を行使することができる者が、その権利の適切な行使により被害の回復等を図ることができるようにするため、日本司法支援センターと関係機関及び関係団体等との連携の強化を図り、利用しやすい相談体制を整備する等必要な支援に関する施策を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <Article Num="12">
+          <ArticleCaption>（運用上の配慮）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の運用に当たっては、法人等の活動において寄附が果たす役割の重要性に留意しつつ、個人及び法人等の学問の自由、信教の自由及び政治活動の自由に十分配慮しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（内閣総理大臣への資料提供等）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、この法律の目的を達成するため必要があると認めるときは、関係行政機関の長に対し、資料の提供、説明その他必要な協力を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第二章第三節及び前条の規定による権限（同条の規定による権限にあっては、国務大臣に対するものを除く。）を消費者庁長官に委任する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（命令への委任）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律の実施のため必要な事項は、命令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Num="16">
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七条第三項の規定による命令に違反したときは、当該違反行為をした者は、一年以下の拘禁刑若しくは百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七条第一項の規定による報告をせず、又は虚偽の報告をしたときは、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人等の代表者若しくは管理人又は法人等の代理人、使用人その他の従業者が、その法人等の業務に関して、前二条の違反行為をしたときは、行為者を罰するほか、その法人等に対しても、各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人でない社団又は財団について前項の規定の適用がある場合には、その代表者又は管理人が、その訴訟行為につき法人でない社団又は財団を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条（第三号及び第四号に係る部分に限る。）及び第八条（第四条第三号及び第四号に係る部分に限る。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">消費者契約法及び消費者の財産的被害の集団的な回復のための民事の裁判手続の特例に関する法律の一部を改正する法律（令和四年法律第五十九号）の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第五条、第二章第三節及び第六章の規定並びに附則第四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第八条第一項の規定は、この法律の施行の日以後にされる寄附の意思表示（第四条第三号及び第四号に掲げる行為により困惑したことを理由とするものにあっては、前条第一号に掲げる規定の施行の日以後にされる寄附の意思表示）について適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">消費者契約法及び消費者の財産的被害の集団的な回復のための民事の裁判手続の特例に関する法律の一部を改正する法律の施行の日の前日までの間における第十条第一項の規定の適用については、同項第二号中「から第四号まで、第六号又は第八号」とあるのは、「、第二号、第四号又は第六号」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法等の一部を改正する法律（令和四年法律第六十七号）の施行の日（以下この条において「刑法施行日」という。）の前日までの間における第十六条の規定の適用については、同条中「拘禁刑」とあるのは、「懲役」とする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">刑法施行日以後における刑法施行日前にした行為に対する同条の規定の適用についても、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後二年を目途として、この法律の規定の施行の状況及び経済社会情勢の変化を勘案し、この法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年五月二四日法律第三三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第十六条から第十八条まで及び第十九条第一項の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
