@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Year="06" Num="039" LawType="Act" Lang="ja" PromulgateMonth="05" PromulgateDay="24" Era="Reiwa"><LawNum>令和六年法律第三十九号</LawNum><LawBody><LawTitle Kana="ふうりょくはつでんせつびのせっちとうによるでんぱのでんぱんしょうがいをかいひしでんぱをもちいたじえいたいとうのえんかつかつあんぜんなかつどうをかくほするためのそちにかんするほうりつ " Abbrev="" AbbrevKana="">風力発電設備の設置等による電波の伝搬障害を回避し電波を用いた自衛隊等の円滑かつ安全な活動を確保するための措置に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　電波障害防止区域の指定</ChapterTitle>
+        <ArticleRange>（第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　電波障害防止区域内における風力発電設備の設置等に係る手続</ChapterTitle>
+        <ArticleRange>（第四条―第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第十二条・第十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <ArticleRange>（第十四条―第十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、風力発電設備の設置等により自衛隊等の使用する電波の伝搬障害が生ずるおそれを回避するため、電波障害防止区域の指定、電波障害防止区域内における風力発電設備の設置等に係る届出等の義務及び風力発電設備の設置者と防衛大臣との協議等に関する制度を創設することにより、電波を用いた自衛隊等の円滑かつ安全な活動を確保することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">風力発電設備</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">陸上において羽根の回転により風力を電気に変換する発電設備であって、羽根の長さが五メートル以上のもの又は風車高（羽根の先端が最も高い位置にあるときの羽根の先端と地表との垂直距離をいう。次条第一項第一号及び第四条第一項において同じ。）が二十メートル以上のものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">自衛隊等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">自衛隊又は日本国とアメリカ合衆国との間の相互協力及び安全保障条約に基づき日本国にあるアメリカ合衆国の軍隊をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">風力発電設備の設置者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">風力発電設備の設置又は変更（以下「設置等」という。）に係る工事の請負契約の注文者又はその工事を請負契約によらないで自ら行う者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　電波障害防止区域の指定</ChapterTitle>
+        <Article Num="3">
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、次の各号に掲げる自衛隊等の活動について、風力発電設備の設置等が行われた場合に著しい障害を生ずるおそれがあり、これを防止して電波を用いた自衛隊等の円滑かつ安全な活動の確保を図るために必要があるときは、その必要な限度において、当該各号の区分に応じ、当該各号に定める区域を電波障害防止区域として指定することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">自衛隊法（昭和二十九年法律第百六十五号）第八十二条の三の規定による弾道ミサイル等に対する破壊措置、同法第八十四条の規定による領空侵犯に対する措置等のために必要なレーダーを用いてする監視</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該監視のために設置された電波を発射し及び受信する機材と水平線とを結んだ平面のうち、その高さを我が国において想定される最も高い風車高として防衛省令で定めるもの（以下この項において「想定最高風車高」という。）と標高とを合算した高さが超える部分を地上に投影した区域</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">自衛隊等の航空機による着陸又は飛行の安全確保のために必要なレーダーを用いてする誘導又は監視</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次のイ又はロに定める区域</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">自衛隊等が管制業務を行う飛行場の進入表面（航空法（昭和二十七年法律第二百三十一号）第二条第八項に規定する進入表面をいう。以下このイにおいて同じ。）を含む平面のうち、進入表面の外側底辺、進入表面の斜辺の外側上方への延長線及び当該外側底辺に平行な直線で当該外側底辺からの水平距離が十二キロメートルであるものにより囲まれる部分を地上に投影した区域のうち、滑走路の短辺を起点とした水平面から勾配が一・四度で伸びる平面のうち、その高さを想定最高風車高と標高とを合算した高さが超える部分を地上に投影した区域でもある区域</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">自衛隊等の防衛施設（自衛隊の施設又は日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定第二条第一項の施設及び区域をいう。以下このロにおいて同じ。）であって面積が九百ヘクタール以下であるもののうち防衛省令で定めるものの周囲五キロメートル以内の区域及び自衛隊等の防衛施設であって航空機による射撃又は爆撃を行うものに接続する陸上部分のうち長辺が二十キロメートル以内、短辺が五キロメートル以内からなる長方形の区域並びにこれらの区域と当該監視のために設置された電波を発射し及び受信する機材とを結んだ平面のうちその高さを想定最高風車高と標高とを合算した高さが超える部分を地上に投影した区域</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">自衛隊の使用する人工衛星の無線局と当該人工衛星との間で行われる無線通信</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該無線局を起点とした水平面から仰角三度で伸びる平面のうち、その高さを想定最高風車高と標高とを合算した高さが超える部分を地上に投影した区域</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、前項の規定により電波障害防止区域を指定する場合には、その旨及びその区域を官報で告示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による電波障害防止区域の指定は、前項の規定による告示によってその効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、防衛省令で定めるところにより、電波障害防止区域を表示した図面を、公衆の縦覧に供するとともに、防衛省令で定めるところにより、インターネットの利用その他の方法により公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、電波障害防止区域について、第一項の規定による指定の理由が消滅したときは、遅滞なく、その指定を解除しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、第二項及び第三項の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項から第四項までの規定は、電波障害防止区域の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　電波障害防止区域内における風力発電設備の設置等に係る手続</ChapterTitle>
+        <Article Num="4">
+          <ArticleCaption>（電波障害防止区域内における風力発電設備の設置等に係る防衛大臣への届出）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">風力発電設備の設置者は、電波障害防止区域内（その区域とその他の区域とにわたる場合を含む。第四項において同じ。）において風力発電設備の設置等に係る工事に自ら着手し又はその工事の請負人（請負工事の下請人を含む。以下同じ。）に着手させる前に、防衛省令で定めるところにより、当該風力発電設備に係る位置、風車高、形状、その者が風力発電設備の設置等に係る工事の請負契約の注文者である場合にはその工事の請負人の氏名又は名称及び住所（第五項において「風力発電設備設置関連事項」という。）その他必要な事項として防衛省令で定める事項を防衛大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による届出をした風力発電設備の設置者は、その届出をした事項を変更しようとするときは、防衛省令で定めるところにより、その変更に係る事項を防衛大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、前二項の規定による届出があった場合において、その届出に係る事項をもってしては、当該風力発電設備が当該電波障害防止区域において自衛隊等の使用する電波の伝搬障害の原因（以下「自衛隊等使用電波障害原因」という。）となるかどうかを判定することができないと認めるときは、その判定に必要な範囲内において、その届出をした風力発電設備の設置者に対し、期限を定めて、更に必要と認められる事項の報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">電波障害防止区域の指定又は変更があった際現に当該電波障害防止区域内において施工中の風力発電設備の設置等に係る工事（防衛省令で定める程度にその施工の準備が完了したものを含む。）については、第一項の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する風力発電設備の設置等に係る風力発電設備の設置者は、当該電波障害防止区域の指定又は変更後遅滞なく、防衛省令で定めるところにより、当該風力発電設備の設置等に係る風力発電設備設置関連事項その他必要な事項として防衛省令で定める事項を防衛大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項及び第三項の規定は、第四項に規定する風力発電設備の設置等に係る風力発電設備の設置者が前項の規定により届け出た事項（この項において準用する第二項の規定による変更の届出があったときは、その変更後のもの）を変更しようとする場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（届出をしない者に対する防衛大臣の命令）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、風力発電設備の設置者が、前条第一項若しくは第二項（同条第六項において準用する場合を含む。以下同じ。）若しくは次項において準用する同条第二項の規定による届出をしなければならない場合において、その届出をしないで、風力発電設備の設置等に係る工事若しくは当該変更に係る事項に係る部分の工事（防衛省令で定めるものを除く。）に自ら着手し若しくはその工事の請負人に着手させたことを知ったとき、又は同条第五項の規定による届出をしなければならない場合において、その届出をしていないことを知ったときは、直ちに、当該風力発電設備の設置者に対し、期限を定めて、同条第一項若しくは第二項（次項において準用する場合を含む。）又は第五項の規定により届け出るべきものとされている事項を防衛大臣に届け出るべきことを命ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第二項の規定は、前項の規定に基づき同条第一項又は第五項の規定により届け出るべきものとされている事項の届出を命ぜられてその届出をした者について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第三項（同条第六項において準用する場合を含む。次条第二項及び第九条第一項第二号において同じ。）の規定は、第一項の規定による命令に基づく届出（前条第五項の規定により届け出るべきものとされている事項に係る届出を除く。次条第一項において同じ。）又は前項において準用する前条第二項の規定による届出があった場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（自衛隊等の使用する電波の伝搬障害の有無等の通知）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、第四条第一項若しくは第二項（前条第二項において準用する場合を含む。）の規定による届出又は前条第一項の規定による命令に基づく届出があった場合において、その届出に係る事項を検討し、その届出に係る風力発電設備（変更の届出に係る場合にあっては、その変更後の風力発電設備。以下同じ。）が当該電波障害防止区域において自衛隊等使用電波障害原因となると認められるときにあっては、その風力発電設備のうち当該自衛隊等使用電波障害原因となる部分（第三項、次条及び第十四条第一号において「障害原因部分」という。）及びその理由を示して、当該風力発電設備が当該電波障害防止区域において自衛隊等使用電波障害原因とならないと認められるときにあっては、その検討の結果を示して、その旨を当該届出をした風力発電設備の設置者に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による通知は、当該届出があった日（第四条第三項（前条第三項において準用する場合を含む。）の規定による報告を求めた場合には、その報告があった日）から三週間以内にしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、第一項の規定により、風力発電設備の設置者に対して風力発電設備が当該電波障害防止区域において自衛隊等使用電波障害原因となると認められる旨の通知を発した場合において、その者が風力発電設備の設置等に係る工事の請負契約の注文者であるときは、その後直ちに、当該風力発電設備の設置者からの届出に係る当該工事の請負人に対して、当該障害原因部分その他必要な事項を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（自衛隊等使用電波障害原因となる風力発電設備の設置等に係る工事の制限）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定により、風力発電設備が当該電波障害防止区域において自衛隊等使用電波障害原因となると認められる旨の通知を受けた風力発電設備の設置者は、次の各号のいずれかに該当する場合を除くほか、その通知を受けた日から二年間は、当該風力発電設備の設置等に係る工事のうち当該通知に係る障害原因部分に係るものを自ら行い、又はその請負人に行わせてはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">風力発電設備の設置等に係る工事の計画を変更してその変更につき第四条第二項（第五条第二項において準用する場合を含む。）の規定による届出をし、これにつき、前条第一項の規定により当該風力発電設備が当該電波障害防止区域において自衛隊等使用電波障害原因とならない旨の通知を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">防衛大臣との間に次条第一項の規定による協議が調ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三条第五項の規定により当該電波障害防止区域の指定を解除したときその他防衛省令で定める場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（電波を用いた自衛隊等の円滑かつ安全な活動の確保のための協議）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条に規定する風力発電設備の設置者及び防衛大臣は、相互に、相手方に対し、レーダーの機能を補完するための措置及び風力発電設備の設置等に係る工事の計画の変更その他電波を用いた自衛隊等の円滑かつ安全な活動の確保と当該風力発電設備に係る財産権の行使との調整を図るため必要な措置について協議を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による求めを受けた防衛大臣又は前条に規定する風力発電設備の設置者は、当該求めに係る協議に応じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（違反の場合の措置）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、次の各号のいずれかに該当する場合において、必要があると認めるときは、その必要の範囲内において、当該各号の風力発電設備の設置者に対し、当該風力発電設備の設置者が現に自ら行い若しくはその請負人に行わせている当該各号の工事を停止し若しくはその請負人に停止させるべき旨又は相当の期間を定めて、その期間内は当該各号の工事を自ら行い若しくはその請負人に行わせてはならない旨を命ずることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四条第一項又は第二項（第五条第二項において準用する場合を含む。）の規定に違反して風力発電設備の設置者からこれらの規定による届出がなかった場合（第五条第一項の規定による命令に基づく届出があり、これにつき第六条第一項の規定による通知をした場合を除く。）において、当該風力発電設備の設置者が、現に当該風力発電設備の設置等に係る工事を自ら行い若しくはその請負人に行わせているとき、又は近く当該工事を自ら行い若しくはその請負人に行わせる見込みが確実であるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">防衛大臣が第四条第三項（第五条第三項において準用する場合を含む。）の規定により報告を求めたが当該風力発電設備の設置者から期限までにその報告がない場合において、当該風力発電設備の設置者が、現に当該風力発電設備の設置等に係る工事を自ら行い若しくはその請負人に行わせているとき、又は近く当該工事を自ら行い若しくはその請負人に行わせる見込みが確実であるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の相当の期間は、第七条に規定する期間を限度として、当該風力発電設備が当該電波障害防止区域において自衛隊等使用電波障害原因となる程度、レーダーの機能を補完するための措置を行うとすればその措置に通常要すべき期間その他の事情を勘案して定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、第一項の規定により風力発電設備の設置者に対し期間を定めて風力発電設備の設置等に係る工事を自ら行い又はその請負人に行わせてはならない旨を命じた場合において、その期間中に、当該風力発電設備の設置者と防衛大臣との間に協議が調ったとき、第七条第一号又は第三号に該当するに至ったときその他その必要が消滅するに至ったときは、遅滞なく、当該命令を撤回しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（報告の徴収）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、この章の規定を施行するため特に必要があると認めるときは、その必要の範囲内において、風力発電設備の設置者に対し、風力発電設備の設置等に係る工事の計画又は実施に関する事項に関し報告をさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（防衛大臣及び経済産業大臣の協力）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣及び経済産業大臣は、この章の規定の施行に関し相互に協力するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Num="12">
+          <ArticleCaption>（防衛省令への委任）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律の実施のため必要な手続その他の事項は、防衛省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <Article Num="14">
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条の規定に違反して、障害原因部分に係る工事を自ら行い、又はその請負人に行わせたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第九条第一項の規定に基づく命令に違反して、風力発電設備の設置等に係る工事を停止せず、若しくはその請負人に停止させないとき、又は当該工事を自ら行い若しくはその請負人に行わせたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第五条第一項の規定による命令に違反して届出をせず、又は虚偽の届出をしたときは、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四条第一項又は第二項（第五条第二項において準用する場合を含む。）の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十条の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、前三条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（調整規定）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行の日が刑法等の一部を改正する法律（令和四年法律第六十七号）の施行の日（以下この項において「刑法施行日」という。）前である場合には、刑法施行日の前日までの間における第十四条の規定の適用については、同条中「拘禁刑」とあるのは、「懲役」とする。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">刑法施行日以後における刑法施行日前にした行為に対する同条の規定の適用についても、同様とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphCaption>（検討）</ParagraphCaption>
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
