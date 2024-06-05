@@ -1,0 +1,3190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="112" Year="19" PromulgateMonth="07" PromulgateDay="06"><LawNum>平成十九年法律第百十二号</LawNum><LawBody><LawTitle Kana="じゅうたくかくほようはいりょしゃにたいするちんたいじゅうたくのきょうきゅうのそくしんにかんするほうりつ" Abbrev="住宅セーフティネット法" AbbrevKana="じ">住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　基本方針</ChapterTitle>
+        <ArticleRange>（第四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　都道府県賃貸住宅供給促進計画及び市町村賃貸住宅供給促進計画</ChapterTitle>
+        <ArticleRange>（第五条―第七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　住宅確保要配慮者円滑入居賃貸住宅事業</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　登録</SectionTitle>
+          <ArticleRange>（第八条―第十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　業務</SectionTitle>
+          <ArticleRange>（第十六条・第十七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　登録住宅に係る特例</SectionTitle>
+          <ArticleRange>（第十八条―第二十一条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　監督</SectionTitle>
+          <ArticleRange>（第二十二条―第二十四条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="5">
+          <SectionTitle>第五節　指定登録機関</SectionTitle>
+          <ArticleRange>（第二十五条―第三十七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="6">
+          <SectionTitle>第六節　雑則</SectionTitle>
+          <ArticleRange>（第三十八条・第三十九条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　居住安定援助賃貸住宅事業</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　居住安定援助計画の認定</SectionTitle>
+          <ArticleRange>（第四十条―第四十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　業務</SectionTitle>
+          <ArticleRange>（第四十六条―第五十一条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　認定住宅に係る特例</SectionTitle>
+          <ArticleRange>（第五十二条・第五十三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　監督</SectionTitle>
+          <ArticleRange>（第五十四条―第五十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="5">
+          <SectionTitle>第五節　雑則</SectionTitle>
+          <ArticleRange>（第五十七条・第五十八条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　住宅確保要配慮者居住支援法人</ChapterTitle>
+        <ArticleRange>（第五十九条―第七十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　認定家賃債務保証業者</ChapterTitle>
+        <ArticleRange>（第七十二条―第八十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="8">
+        <ChapterTitle>第八章　住宅確保要配慮者居住支援協議会</ChapterTitle>
+        <ArticleRange>（第八十一条・第八十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="9">
+        <ChapterTitle>第九章　住宅確保要配慮者に対する賃貸住宅の供給の促進に関する施策</ChapterTitle>
+        <ArticleRange>（第八十三条―第八十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="10">
+        <ChapterTitle>第十章　雑則</ChapterTitle>
+        <ArticleRange>（第八十八条―第九十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="11">
+        <ChapterTitle>第十一章　罰則</ChapterTitle>
+        <ArticleRange>（第九十二条―第九十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、住生活基本法（平成十八年法律第六十一号）の基本理念にのっとり、住宅確保要配慮者に対する賃貸住宅の供給の促進に関し、国土交通大臣及び厚生労働大臣による基本方針の策定、都道府県及び市町村による賃貸住宅供給促進計画の作成、住宅確保要配慮者の円滑な入居を促進するための賃貸住宅の登録制度等について定めることにより、住宅確保要配慮者に対する賃貸住宅の供給の促進に関する施策を総合的かつ効果的に推進し、もって国民生活の安定向上と社会福祉の増進に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「住宅確保要配慮者」とは、次の各号のいずれかに該当する者をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その収入が国土交通省令で定める金額を超えない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">災害（発生した日から起算して三年を経過していないものに限る。以下この号において同じ。）により滅失若しくは損傷した住宅に当該災害が発生した日において居住していた者又は災害に際し災害救助法（昭和二十二年法律第百十八号）が適用された同法第二条第一項に規定する災害発生市町村の区域に当該災害が発生した日において住所を有していた者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">高齢者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">障害者基本法（昭和四十五年法律第八十四号）第二条第一号に規定する障害者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">子ども（十八歳に達する日以後の最初の三月三十一日までの間にある者をいう。）を養育している者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、住宅の確保に特に配慮を要するものとして国土交通省令で定める者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「公的賃貸住宅」とは、次の各号のいずれかに該当する賃貸住宅をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公営住宅法（昭和二十六年法律第百九十三号）第二条第二号に規定する公営住宅その他地方公共団体が整備する賃貸住宅</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">独立行政法人都市再生機構又は地方住宅供給公社（以下「公社」という。）が整備する賃貸住宅</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定優良賃貸住宅の供給の促進に関する法律（平成五年法律第五十二号。以下「特定優良賃貸住宅法」という。）第六条に規定する特定優良賃貸住宅（同法第十三条第一項に規定する認定管理期間が経過したものを除く。以下単に「特定優良賃貸住宅」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、地方公共団体が住宅確保要配慮者の居住の安定の確保を図ることを目的としてその整備に要する費用の一部を負担して整備の推進を図る賃貸住宅（当該負担を行うに当たり付した条件に基づきその入居者を公募することとされているものに限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「民間賃貸住宅」とは、公的賃貸住宅以外の賃貸住宅をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（国及び地方公共団体の責務）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、住宅確保要配慮者に対する賃貸住宅の供給の促進を図るため、必要な施策を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　基本方針</ChapterTitle>
+        <Article Num="4">
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣及び厚生労働大臣は、住宅確保要配慮者に対する賃貸住宅の供給の促進に関する基本的な方針（以下「基本方針」という。）を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基本方針においては、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者に対する賃貸住宅の供給の促進に関する基本的な方向</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者に対する賃貸住宅の供給の目標の設定に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者に対する公的賃貸住宅の供給の促進に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者の民間賃貸住宅への円滑な入居の促進に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者が入居する賃貸住宅の管理の適正化に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">賃貸住宅に入居する住宅確保要配慮者に対する日常生活を営むために必要な援助その他の福祉サービスの提供体制の確保に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次条第一項に規定する都道府県賃貸住宅供給促進計画及び第六条第一項に規定する市町村賃貸住宅供給促進計画の作成に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、住宅確保要配慮者に対する賃貸住宅の供給の促進に関する重要事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基本方針は、住生活基本法第十五条第一項に規定する全国計画並びに介護保険法（平成九年法律第百二十三号）第百十六条第一項に規定する基本指針及び障害者の日常生活及び社会生活を総合的に支援するための法律（平成十七年法律第百二十三号。以下「障害者総合支援法」という。）第八十七条第一項に規定する基本指針との調和が保たれたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣及び厚生労働大臣は、基本方針を定めようとするときは、関係行政機関の長に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣及び厚生労働大臣は、基本方針を定めたときは、遅滞なく、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項の規定は、基本方針の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　都道府県賃貸住宅供給促進計画及び市町村賃貸住宅供給促進計画</ChapterTitle>
+        <Article Num="5">
+          <ArticleCaption>（都道府県賃貸住宅供給促進計画）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、基本方針に基づき、当該都道府県の区域内における住宅確保要配慮者に対する賃貸住宅の供給の促進に関する計画（以下「都道府県賃貸住宅供給促進計画」という。）を作成することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県賃貸住宅供給促進計画においては、次に掲げる事項を記載するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該都道府県の区域内における住宅確保要配慮者に対する賃貸住宅の供給の目標</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次に掲げる事項であって、前号の目標を達成するために必要なもの</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者に対する公的賃貸住宅の供給の促進に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者の民間賃貸住宅への円滑な入居の促進に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者が入居する賃貸住宅の管理の適正化に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">賃貸住宅に入居する住宅確保要配慮者に対する日常生活を営むために必要な援助その他の福祉サービスの提供体制の確保に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">計画期間</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県賃貸住宅供給促進計画においては、前項各号に掲げる事項のほか、当該都道府県の区域内における住宅確保要配慮者に対する賃貸住宅の供給の促進に関し必要な事項を記載するよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、当該都道府県の区域内において公社による第九条第一項第七号に規定する住宅確保要配慮者専用賃貸住宅又は第四十三条第二項に規定する認定住宅の整備及び賃貸その他の管理に関する事業の実施が必要と認められる場合には、第二項第二号に掲げる事項に、当該事業の実施に関する事項を記載することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、都道府県賃貸住宅供給促進計画に公社による前項に規定する事業の実施に関する事項を記載するときは、当該事項について、あらかじめ、当該公社の同意を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、当該都道府県の区域内において、特定優良賃貸住宅法第三条第四号に規定する資格を有する入居者をその全部又は一部について確保することができない特定優良賃貸住宅を活用し、住宅確保要配慮者（同号に規定する資格を有する者を除く。以下この項及び第七条第一項において同じ。）に対する住宅を供給することが必要と認められる場合には、第二項第二号に掲げる事項に、特定優良賃貸住宅の住宅確保要配慮者に対する賃貸に関する事項を記載することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、都道府県賃貸住宅供給促進計画に特定優良賃貸住宅の住宅確保要配慮者に対する賃貸に関する事項を記載するときは、当該事項について、あらかじめ、当該都道府県の区域内の市（特別区を含む。以下同じ。）の長の同意を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県賃貸住宅供給促進計画は、社会福祉法（昭和二十六年法律第四十五号）第百八条第一項に規定する都道府県地域福祉支援計画、老人福祉法（昭和三十八年法律第百三十三号）第二十条の九第一項に規定する都道府県老人福祉計画、介護保険法第百十八条第一項に規定する都道府県介護保険事業支援計画、障害者総合支援法第八十九条第一項に規定する都道府県障害福祉計画その他の法律の規定による計画であって住宅確保要配慮者に対する日常生活を営むために必要な援助その他の福祉サービスに関する事項を定めるものと調和が保たれたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、都道府県賃貸住宅供給促進計画を作成するときは、あらかじめ、インターネットの利用その他の国土交通省令・厚生労働省令で定める方法により、住民の意見を反映させるために必要な措置を講ずるよう努めるとともに、当該都道府県の区域内の市町村に協議しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第八十一条第一項の規定により住宅確保要配慮者居住支援協議会を組織し、又は地域における多様な需要に応じた公的賃貸住宅等の整備等に関する特別措置法（平成十七年法律第七十九号。第八十二条において「地域住宅特別措置法」という。）第五条第一項の規定により地域住宅協議会を組織している都道府県にあっては、当該住宅確保要配慮者居住支援協議会又は地域住宅協議会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、都道府県賃貸住宅供給促進計画を作成したときは、遅滞なく、これを公表するよう努めるとともに、国土交通大臣及び厚生労働大臣並びに当該都道府県の区域内の市町村にその写しを送付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四項から前項までの規定は、都道府県賃貸住宅供給促進計画の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（市町村賃貸住宅供給促進計画）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、基本方針（都道府県賃貸住宅供給促進計画が作成されている場合にあっては、都道府県賃貸住宅供給促進計画）に基づき、当該市町村の区域内における住宅確保要配慮者に対する賃貸住宅の供給の促進に関する計画（以下「市町村賃貸住宅供給促進計画」という。）を作成することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村賃貸住宅供給促進計画においては、次に掲げる事項を記載するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該市町村の区域内における住宅確保要配慮者に対する賃貸住宅の供給の目標</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次に掲げる事項であって、前号の目標を達成するために必要なもの</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者に対する公的賃貸住宅の供給の促進に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者の民間賃貸住宅への円滑な入居の促進に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者が入居する賃貸住宅の管理の適正化に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">賃貸住宅に入居する住宅確保要配慮者に対する日常生活を営むために必要な援助その他の福祉サービスの提供体制の確保に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">計画期間</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村賃貸住宅供給促進計画は、社会福祉法第百七条第一項に規定する市町村地域福祉計画、老人福祉法第二十条の八第一項に規定する市町村老人福祉計画、介護保険法第百十七条第一項に規定する市町村介護保険事業計画、障害者総合支援法第八十八条第一項に規定する市町村障害福祉計画その他の法律の規定による計画であって住宅確保要配慮者に対する日常生活を営むために必要な援助その他の福祉サービスに関する事項を定めるものと調和が保たれたものでなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第三項から第七項まで及び第九項から第十一項までの規定は、市町村賃貸住宅供給促進計画について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条第三項中「前項各号」とあるのは「次条第二項各号」と、「当該都道府県」とあるのは「当該市町村（特別区を含む。以下この条において同じ。）」と、同条第四項及び第六項中「都道府県」とあるのは「市町村」と、「第二項第二号」とあるのは「次条第二項第二号」と、同条第五項、第九項及び第十項中「都道府県は」とあるのは「市町村は」と、同条第七項中「都道府県は」とあるのは「町村は」と、「当該都道府県の区域内の市（特別区を含む。以下同じ。）の長」とあるのは「都道府県知事」と、同条第九項及び第十項中「当該都道府県の区域内の市町村」とあるのは「都道府県」と、同条第九項中「都道府県に」とあるのは「市町村に」と、同条第十一項中「第四項から前項まで」とあるのは「第四項から第七項まで、第九項及び前項並びに次条第三項」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（特定優良賃貸住宅の入居者の資格に係る認定の基準の特例）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定優良賃貸住宅法第五条第一項に規定する認定事業者（第三項において「認定事業者」という。）は、次に掲げる区域内において、特定優良賃貸住宅の全部又は一部について特定優良賃貸住宅法第三条第四号に規定する資格を有する入居者を国土交通省令で定める期間以上確保することができないときは、特定優良賃貸住宅法の規定にかかわらず、都道府県知事（市の区域内にあっては、当該市の長。第三項において同じ。）の承認を受けて、その全部又は一部を住宅確保要配慮者に賃貸することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第六項の規定により都道府県賃貸住宅供給促進計画に特定優良賃貸住宅の住宅確保要配慮者に対する賃貸に関する事項を記載した都道府県の区域</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第四項において準用する第五条第六項の規定により市町村賃貸住宅供給促進計画に特定優良賃貸住宅の住宅確保要配慮者に対する賃貸に関する事項を記載した市町村の区域</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により特定優良賃貸住宅の全部又は一部を賃貸する場合においては、当該賃貸借を、借地借家法（平成三年法律第九十号）第三十八条第一項の規定による建物の賃貸借（国土交通省令で定める期間を上回らない期間を定めたものに限る。）としなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定事業者が第一項の規定による都道府県知事の承認を受けた場合における特定優良賃貸住宅法第十一条第一項の規定の適用については、同項中「処分」とあるのは、「処分又は住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律（平成十九年法律第百十二号）第七条第二項の規定」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　住宅確保要配慮者円滑入居賃貸住宅事業</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　登録</SectionTitle>
+          <Article Num="8">
+            <ArticleCaption>（住宅確保要配慮者円滑入居賃貸住宅事業の登録）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者の入居を受け入れることとしている賃貸住宅を賃貸する事業（以下「住宅確保要配慮者円滑入居賃貸住宅事業」という。）を行う者は、住宅確保要配慮者円滑入居賃貸住宅事業に係る賃貸住宅（以下「住宅確保要配慮者円滑入居賃貸住宅」という。）を構成する建築物ごとに、都道府県知事の登録を受けることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（登録の申請）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条の登録を受けようとする者は、国土交通省令で定めるところにより、次に掲げる事項を記載した申請書を都道府県知事に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者円滑入居賃貸住宅の位置</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者円滑入居賃貸住宅の戸数</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者円滑入居賃貸住宅の規模</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者円滑入居賃貸住宅の構造及び設備</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">入居を受け入れることとする住宅確保要配慮者の範囲を定める場合にあっては、その範囲</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">入居者の資格を、自ら居住するため賃貸住宅を必要とする住宅確保要配慮者又は当該住宅確保要配慮者と同居するその配偶者等（配偶者その他の親族（婚姻の届出をしていないが事実上婚姻関係と同様の事情にある者及び当該事情にある者の親族を含む。第四十条第二項第七号において同じ。）で国土交通省令で定める者をいう。）に限る賃貸住宅（第十八条第一項において「住宅確保要配慮者専用賃貸住宅」という。）にあっては、その旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者円滑入居賃貸住宅の家賃その他賃貸の条件に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他国土交通省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の申請書には、第十一条第一項各号のいずれにも該当しないことを誓約する書面その他の国土交通省令で定める書類を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（登録の基準等）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第八条の登録の申請が次に掲げる基準に適合していると認めるときは、次条第一項の規定により登録を拒否する場合を除き、その登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者円滑入居賃貸住宅の各戸の床面積が、国土交通省令で定める規模以上であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者円滑入居賃貸住宅の構造及び設備が、住宅確保要配慮者の入居に支障を及ぼすおそれがないものとして国土交通省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第一項第六号に掲げる範囲が定められている場合にあっては、その範囲が、住宅確保要配慮者の入居を不当に制限しないものとして国土交通省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者円滑入居賃貸住宅の家賃その他賃貸の条件が、国土交通省令で定める基準に従い適正に定められるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他基本方針（住宅確保要配慮者円滑入居賃貸住宅が市町村賃貸住宅供給促進計画が作成されている市町村の区域内にある場合にあっては基本方針及び市町村賃貸住宅供給促進計画、住宅確保要配慮者円滑入居賃貸住宅が都道府県賃貸住宅供給促進計画が作成されている都道府県の区域（当該市町村の区域を除く。）内にある場合にあっては基本方針及び都道府県賃貸住宅供給促進計画）に照らして適切なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第八条の登録は、住宅確保要配慮者円滑入居賃貸住宅登録簿（以下「登録簿」という。）に次に掲げる事項を記載してするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第一項各号に掲げる事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録年月日及び登録番号</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第八条の登録をしたときは、遅滞なく、その旨を当該登録を受けた者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第八条の登録の申請が第一項の基準に適合しないと認めるときは、遅滞なく、その理由を示して、その旨を申請者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第八条の登録をしたときは、遅滞なく、その旨を、当該登録を受けた住宅確保要配慮者円滑入居賃貸住宅事業（以下「登録事業」という。）に係る住宅確保要配慮者円滑入居賃貸住宅（以下「登録住宅」という。）の存する市町村の長に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（登録の拒否）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第八条の登録を受けようとする者が次の各号のいずれかに該当するとき、又は第九条第一項の申請書若しくはその添付書類のうちに重要な事項について虚偽の記載があり、若しくは重要な事実の記載が欠けているときは、その登録を拒否しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">破産手続開始の決定を受けて復権を得ない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、又はこの法律の規定により罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から起算して二年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十四条第一項又は第二項の規定により登録を取り消され、その取消しの日から起算して二年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">暴力団員による不当な行為の防止等に関する法律（平成三年法律第七十七号）第二条第六号に規定する暴力団員又は同号に規定する暴力団員でなくなった日から五年を経過しない者（以下「暴力団員等」という。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">心身の故障により住宅確保要配慮者円滑入居賃貸住宅事業を適正に行うことができない者として国土交通省令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">営業に関し成年者と同一の行為能力を有しない未成年者でその法定代理人（法定代理人が法人である場合においては、その役員を含む。第四十二条第六号及び第七十三条第六号において同じ。）が前各号のいずれかに該当するもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人であって、その役員のうちに第一号から第五号までのいずれかに該当する者があるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">暴力団員等がその事業活動を支配する者</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により登録の拒否をしたときは、遅滞なく、その旨を当該登録の申請をした者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（登録事項等の変更）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録事業を行う者（以下「登録事業者」という。）は、第九条第一項各号に掲げる事項（以下「登録事項」という。）に変更があったとき、又は同条第二項に規定する添付書類の記載事項に変更があったときは、その日から三十日以内に、その旨を都道府県知事に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による届出をする場合には、国土交通省令で定める書類を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の規定による届出（登録事項の変更に係るものに限る。）を受けたときは、当該届出に係る登録事項が第十条第一項各号に掲げる基準に適合しないと認める場合又は第二十四条第一項若しくは第二項の規定により登録を取り消す場合を除き、当該変更があった登録事項を登録簿に記載して、変更の登録をしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により変更の登録をしたときは、遅滞なく、その旨を、当該登録に係る登録住宅の存する市町村の長に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（登録簿の閲覧）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、登録簿を一般の閲覧に供しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（廃止の届出）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録事業者は、登録事業を廃止したときは、その日から三十日以内に、その旨を都道府県知事に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による届出があったときは、第八条の登録は、その効力を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（登録の抹消）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、次の各号のいずれかに該当するときは、第八条の登録を抹消しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第二項の規定により登録が効力を失ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十四条第一項又は第二項の規定により登録が取り消されたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により登録を抹消したときは、遅滞なく、その旨を、当該登録に係る登録住宅の存する市町村の長に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　業務</SectionTitle>
+          <Article Num="16">
+            <ArticleCaption>（登録事項の公示）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録事業者は、国土交通省令で定めるところにより、登録事項を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（入居の拒否の制限）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録事業者は、登録住宅に入居を希望する住宅確保要配慮者（当該登録住宅について第九条第一項第六号に掲げる範囲を定めた場合にあっては、その範囲に属する者。以下この条及び第二十条第二項において同じ。）に対し、住宅確保要配慮者であることを理由として、入居を拒んではならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　登録住宅に係る特例</SectionTitle>
+          <Article Num="18">
+            <ArticleCaption>（委託により公社の行う住宅確保要配慮者専用賃貸住宅の整備等の業務）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公社は、地方住宅供給公社法（昭和四十年法律第百二十四号）第二十一条に規定する業務のほか、次に掲げる区域内において、委託により、住宅確保要配慮者専用賃貸住宅（登録住宅であるものに限る。）の整備及び賃貸その他の管理の業務を行うことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五条第四項の規定により都道府県賃貸住宅供給促進計画に公社による同項に規定する住宅確保要配慮者専用賃貸住宅の整備及び賃貸その他の管理に関する事業の実施に関する事項を記載した都道府県の区域</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第六条第四項において準用する第五条第四項の規定により市町村賃貸住宅供給促進計画に公社による前号に規定する事業の実施に関する事項を記載した市町村の区域</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により公社が同項に規定する業務を行う場合には、地方住宅供給公社法第四十九条第三号中「第二十一条に規定する業務」とあるのは、「第二十一条に規定する業務及び住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律（平成十九年法律第百十二号）第十八条第一項に規定する業務」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（機構の行う登録住宅の改良資金の融資）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">独立行政法人住宅金融支援機構（次条及び第八十条において「機構」という。）は、独立行政法人住宅金融支援機構法（平成十七年法律第八十二号。次条第一項及び第八十条第一項において「機構法」という。）第十三条第一項に規定する業務のほか、登録住宅の改良（登録住宅とすることを主たる目的とする人の居住の用その他その本来の用途に供したことのある建築物の改良を含む。）に必要な資金を貸し付けることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（機構の行う登録住宅入居者家賃債務保証保険契約に係る保険）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">機構は、機構法第十三条第一項に規定する業務のほか、登録住宅入居者家賃債務保証保険契約に係る保険を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の「登録住宅入居者家賃債務保証保険契約」とは、機構が事業年度ごとに家賃債務保証業者（賃貸住宅の賃借人の委託を受けて当該賃借人の家賃の支払に係る債務（以下この条、第六十二条第一号及び第七章において「家賃債務」という。）を保証することを業として行う者であって、家賃債務の保証を適正かつ確実に実施することができると認められるものとして国土交通省令で定める要件に該当する者をいう。以下この条及び同章において同じ。）と締結する契約であって、家賃債務保証業者が登録住宅に入居する住宅確保要配慮者（以下この章及び同号において「登録住宅入居者」という。）の家賃債務（利息に係るものを除く。以下この条において同じ。）の保証をしたことを機構に通知することにより、当該家賃債務保証業者が登録住宅入居者の家賃債務につき保証をした金額の総額が一定の金額に達するまで、その保証につき、機構と当該家賃債務保証業者との間に保険関係が成立する旨を定めるものをいう。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する登録住宅入居者家賃債務保証保険契約（第十項において「登録住宅入居者家賃債務保証保険契約」という。）に係る保険関係においては、家賃債務保証業者が登録住宅入居者の家賃債務につき保証をした金額を保険価額とし、家賃債務保証業者が登録住宅入居者に代わってする家賃債務の全部又は一部の弁済を保険事故とし、保険価額に百分の七十を超えない範囲内において国土交通省令で定める割合を乗じて得た金額を保険金額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">機構が前項の保険関係に基づいて支払うべき保険金の額は、家賃債務保証業者が登録住宅入居者に代わって弁済をした家賃債務の額から当該家賃債務保証業者が保険金の支払の請求をする時までに当該登録住宅入居者に対する求償権（弁済をした日以後の利息及び避けることができなかった費用その他の損害の賠償に係る部分を除く。）を行使して取得した額を控除した残額に、同項の国土交通省令で定める割合を乗じて得た額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の求償権を行使して取得した額は、家賃債務保証業者が登録住宅入居者の家賃債務のほか利息又は費用についても弁済をしたときは、当該求償権を行使して取得した総額に、その弁済をした家賃債務の額の総弁済額に対する割合を乗じて得た額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">家賃債務保証業者は、保険事故の発生の日から一年を超えない範囲内において国土交通省令で定める期間を経過した後は、保険金の支払の請求をすることができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">家賃債務保証業者は、第三項の保険関係が成立した保証に基づき登録住宅入居者に代わって弁済をした場合には、その求償に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">保険金の支払を受けた家賃債務保証業者は、その支払の請求をした後登録住宅入居者に対する求償権（家賃債務保証業者が登録住宅入居者に代わって家賃債務の弁済をした日以後保険金の支払を受けた日までの利息及び避けることができなかった費用その他の損害の賠償に係る部分を除く。）を行使して取得した額に、当該支払を受けた保険金の額の当該保険金に係る第四項に規定する残額に対する割合を乗じて得た額を機構に納付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の求償権を行使して取得した額については、第五項の規定を準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">機構は、家賃債務保証業者が登録住宅入居者家賃債務保証保険契約の条項に違反したときは、第三項の保険関係に基づく保険金の全部若しくは一部を支払わず、若しくは保険金の全部若しくは一部を返還させ、又は将来にわたって当該保険契約を解除することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（保護の実施機関による被保護入居者の状況の把握等）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録事業者（第八十一条第一項の住宅確保要配慮者居住支援協議会の構成員であることその他の国土交通省令・厚生労働省令で定める要件に該当する者に限る。）は、被保護入居者（被保護者（生活保護法（昭和二十五年法律第百四十四号）第六条第一項に規定する被保護者をいう。第五十三条第一項において同じ。）であって、登録住宅入居者である者又は登録住宅入居者となろうとする者をいう。以下この条において同じ。）が家賃の請求に応じないことその他の被保護入居者の居住の安定の確保を図る上で支障となるものとして国土交通省令・厚生労働省令で定める事情があるときは、国土交通省令・厚生労働省令で定めるところにより、その旨を保護の実施機関（同法第十九条第四項に規定する保護の実施機関をいう。次項及び第五十三条において同じ。）に通知することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">保護の実施機関は、前項の規定による通知を受けたときは、当該通知に係る被保護入居者に対し生活保護法第三十七条の二の規定による措置その他の同法による保護の目的を達するために必要な措置を講ずる必要があるかどうかを判断するため、速やかに、当該被保護入居者の状況の把握その他当該通知に係る事実について確認するための措置を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　監督</SectionTitle>
+          <Article Num="22">
+            <ArticleCaption>（報告の徴収）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、登録事業者に対し、登録住宅の管理の状況について報告を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（指示）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、登録された登録事項が事実と異なるときは、その登録事業者に対し、当該事項の訂正を申請すべきことを指示することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、登録事業が第十条第一項各号に掲げる基準に適合しないと認めるときは、その登録事業者に対し、その登録事業を当該基準に適合させるために必要な措置をとるべきことを指示することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、登録事業者が第十六条又は第十七条の規定に違反したときは、当該登録事業者に対し、その是正のために必要な措置をとるべきことを指示することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（登録の取消し）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、登録事業者が次の各号のいずれかに該当するときは、第八条の登録を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十一条第一項各号（第三号を除く。）のいずれかに該当するに至ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">不正な手段により第八条の登録を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、登録事業者が次の各号のいずれかに該当するときは、第八条の登録を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十二条第一項の規定に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条の規定による指示に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前二項の規定により登録を取り消したときは、遅滞なく、その旨を当該登録事業者であった者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="5">
+          <SectionTitle>第五節　指定登録機関</SectionTitle>
+          <Article Num="25">
+            <ArticleCaption>（指定登録機関の指定等）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、その指定する者（以下「指定登録機関」という。）に、住宅確保要配慮者円滑入居賃貸住宅事業の登録及び登録簿の閲覧の実施に関する事務（前節の規定による事務を除く。以下「登録事務」という。）の全部又は一部を行わせることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定登録機関の指定（以下この節において単に「指定」という。）は、登録事務を行おうとする者の申請により行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、指定をしたときは、指定登録機関が行う登録事務を行わないものとし、この場合における登録事務の引継ぎその他の必要な事項は、国土交通省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定登録機関が登録事務を行う場合における第八条から第十五条までの規定の適用については、これらの規定中「都道府県知事」とあるのは、「第二十五条第二項の指定を受けた者」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleCaption>（欠格条項）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、指定を受けることができない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">未成年者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">破産手続開始の決定を受けて復権を得ない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、又はこの法律の規定により罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から起算して二年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十五条第一項又は第二項の規定により指定を取り消され、その取消しの日から起算して二年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">心身の故障により登録事務を適正に行うことができない者として国土交通省令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人であって、その役員のうちに前各号のいずれかに該当する者があるもの</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（指定の基準）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、当該都道府県の区域において他に指定を受けた者がなく、かつ、指定の申請が次に掲げる基準に適合していると認めるときでなければ、指定をしてはならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">職員、登録事務の実施の方法その他の事項についての登録事務の実施に関する計画が、登録事務の適確な実施のために適切なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号の登録事務の実施に関する計画を適確に実施するに足りる経理的及び技術的な基礎を有するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録事務以外の業務を行っている場合には、その業務を行うことによって登録事務の公正な実施に支障を及ぼすおそれがないものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前三号に定めるもののほか、登録事務を公正かつ適確に行うことができるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="28">
+            <ArticleCaption>（指定の公示等）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、指定をしたときは、指定登録機関の名称及び住所、指定登録機関が行う登録事務の範囲、登録事務を行う事務所の所在地並びに登録事務の開始の日を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定登録機関は、その名称若しくは住所又は登録事務を行う事務所の所在地を変更しようとするときは、変更しようとする日の二週間前までに、その旨を都道府県知事に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定による届出があったときは、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29">
+            <ArticleCaption>（秘密保持義務等）</ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定登録機関（その者が法人である場合にあっては、その役員。次項において同じ。）及びその職員並びにこれらの者であった者は、登録事務に関して知り得た秘密を漏らし、又は自己の利益のために使用してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定登録機関及びその職員で登録事務に従事する者は、刑法（明治四十年法律第四十五号）その他の罰則の適用については、法令により公務に従事する職員とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="30">
+            <ArticleCaption>（登録事務規程）</ArticleCaption>
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定登録機関は、登録事務に関する規程（以下「登録事務規程」という。）を定め、都道府県知事の認可を受けなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">登録事務規程で定めるべき事項は、国土交通省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の認可をした登録事務規程が登録事務の公正かつ適確な実施上不適当となったと認めるときは、その登録事務規程を変更すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="31">
+            <ArticleCaption>（帳簿の備付け等）</ArticleCaption>
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定登録機関は、国土交通省令で定めるところにより、登録事務に関する事項で国土交通省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、指定登録機関は、国土交通省令で定めるところにより、登録事務に関する書類で国土交通省令で定めるものを保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="32">
+            <ArticleCaption>（監督命令）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、登録事務の公正かつ適確な実施を確保するため必要があると認めるときは、指定登録機関に対し、登録事務に関し監督上必要な命令をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33">
+            <ArticleCaption>（報告、検査等）</ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、登録事務の公正かつ適確な実施を確保するため必要があると認めるときは、指定登録機関に対し登録事務に関し必要な報告を求め、又はその職員に、指定登録機関の事務所に立ち入り、登録事務の状況若しくは帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="34">
+            <ArticleCaption>（登録事務の休廃止）</ArticleCaption>
+            <ArticleTitle>第三十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定登録機関は、都道府県知事の許可を受けなければ、登録事務の全部若しくは一部を休止し、又は廃止してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の許可をしたときは、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="35">
+            <ArticleCaption>（指定の取消し等）</ArticleCaption>
+            <ArticleTitle>第三十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、指定登録機関が第二十六条各号（第四号を除く。）のいずれかに該当するに至ったときは、その指定を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、指定登録機関が次の各号のいずれかに該当するときは、その指定を取り消し、又は期間を定めて登録事務の全部若しくは一部の停止を命ずることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十五条第四項の規定により読み替えて適用する第十条、第十一条、第十二条第三項若しくは第四項、第十三条又は第十五条の規定に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十八条第二項、第三十一条又は前条第一項の規定に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十条第一項の認可を受けた登録事務規程によらないで登録事務を行ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十条第三項又は第三十二条の規定による命令に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十七条各号に掲げる基準に適合していないと認めるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録事務に関し著しく不適当な行為をしたとき、又は法人にあってはその役員が登録事務に関し著しく不適当な行為をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">不正な手段により指定を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前二項の規定により指定を取り消し、又は前項の規定により登録事務の全部若しくは一部の停止を命じたときは、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="36">
+            <ArticleCaption>（都道府県知事による登録事務の実施）</ArticleCaption>
+            <ArticleTitle>第三十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、指定登録機関が第三十四条第一項の規定により登録事務の全部若しくは一部を休止したとき、前条第二項の規定により指定登録機関に対し登録事務の全部若しくは一部の停止を命じたとき、又は指定登録機関が天災その他の事由により登録事務の全部若しくは一部を実施することが困難となった場合において必要があると認めるときは、第二十五条第三項の規定にかかわらず、登録事務の全部又は一部を自ら行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により登録事務を行うこととし、又は同項の規定により行っている登録事務を行わないこととするときは、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事が、第一項の規定により登録事務を行うこととし、第三十四条第一項の規定により登録事務の廃止を許可し、若しくは前条第一項若しくは第二項の規定により指定を取り消し、又は第一項の規定により行っている登録事務を行わないこととする場合における登録事務の引継ぎその他の必要な事項は、国土交通省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="37">
+            <ArticleCaption>（登録手数料）</ArticleCaption>
+            <ArticleTitle>第三十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、地方自治法（昭和二十二年法律第六十七号）第二百二十七条の規定に基づき登録に係る手数料を徴収する場合においては、第二十五条の規定により指定登録機関が行う登録を受けようとする者に、条例で定めるところにより、当該手数料を当該指定登録機関に納めさせることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により指定登録機関に納められた手数料は、当該指定登録機関の収入とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="6">
+          <SectionTitle>第六節　雑則</SectionTitle>
+          <Article Num="38">
+            <ArticleCaption>（資金の確保等）</ArticleCaption>
+            <ArticleTitle>第三十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、登録住宅の整備のために必要な資金の確保又はその融通のあっせんに努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39">
+            <ArticleCaption>（賃貸住宅への円滑な入居のための援助）</ArticleCaption>
+            <ArticleTitle>第三十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、登録事業者が破産手続開始の決定を受けたときその他登録住宅入居者（登録住宅入居者であった者を含む。）の居住の安定を図るため必要があると認めるときは、当該登録住宅入居者に対し、他の適当な賃貸住宅に円滑に入居するために必要な助言その他の援助を行うよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　居住安定援助賃貸住宅事業</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　居住安定援助計画の認定</SectionTitle>
+          <Article Num="40">
+            <ArticleCaption>（居住安定援助計画の認定）</ArticleCaption>
+            <ArticleTitle>第四十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">賃貸住宅に日常生活を営むのに援助を必要とする住宅確保要配慮者を入居させ、訪問その他の方法によりその心身及び生活の状況を把握し、その状況に応じた利用可能な福祉サービスに関する情報の提供及び助言その他住宅確保要配慮者の生活の安定を図るために必要な援助を行う事業（以下「居住安定援助賃貸住宅事業」という。）を実施する者（以下この条において「居住安定援助賃貸住宅事業者」という。）は、国土交通省令・厚生労働省令で定めるところにより、当該居住安定援助賃貸住宅事業に関する計画（以下「居住安定援助計画」という。）を作成し、次の各号に掲げる当該賃貸住宅の存する区域の区分に応じ、当該各号に定める者（以下「都道府県知事等」という。）に対し、当該居住安定援助計画が居住安定援助賃貸住宅事業を適切かつ確実に実施するために適当なものである旨の認定を申請することができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">市の区域</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該市の長</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">社会福祉法に規定する福祉に関する事務所を設ける町村の区域</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該町村の長</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">その他の区域</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該区域を管轄する都道府県知事</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">居住安定援助計画には、次に掲げる事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">居住安定援助賃貸住宅事業に係る賃貸住宅（以下「居住安定援助賃貸住宅」という。）の位置</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">居住安定援助賃貸住宅の戸数</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">居住安定援助賃貸住宅の規模</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">居住安定援助賃貸住宅の構造及び設備</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">入居を受け入れることとする住宅確保要配慮者の範囲を定める場合にあっては、その範囲</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">入居者の資格を日常生活を営むのに援助を必要とする住宅確保要配慮者又は当該住宅確保要配慮者と同居するその配偶者等（配偶者その他の親族で国土交通省令・厚生労働省令で定める者をいう。）に限る居住安定援助賃貸住宅（第五十条において「専用賃貸住宅」という。）の戸数（次条第四号において「専用戸数」という。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">居住安定援助賃貸住宅の家賃その他賃貸の条件に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">日常生活を営むのに援助を必要とする住宅確保要配慮者である入居者に提供する居住安定援助（訪問その他の方法により住宅確保要配慮者の心身及び生活の状況を把握し、その状況に応じた利用可能な福祉サービスに関する情報の提供及び助言その他住宅確保要配慮者の生活の安定を図るために必要な援助を行うことをいう。以下同じ。）の内容</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">居住安定援助の提供の対価その他居住安定援助の提供の条件に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="11">
+                <ItemTitle>十一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他国土交通省令・厚生労働省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">居住安定援助計画には、第四十二条各号のいずれにも該当しないことを誓約する書面その他の国土交通省令・厚生労働省令で定める書類を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">居住安定援助を行う者（第四十八条において「援助実施者」という。）と住宅確保要配慮者を入居させる賃貸人とが異なる場合であっても、これらの者が共同して第一項の認定の申請を行うときは、この章の規定（これらの規定に係る罰則を含む。）の適用については、これらの者を一の居住安定援助賃貸住宅事業者とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">居住安定援助賃貸住宅事業者は、都道府県知事又は第八十九条に規定する指定都市等の長に対する第一項の認定の申請を当該賃貸住宅に係る第九条第一項の登録の申請と併せて行う場合には、第二項の規定にかかわらず、同項第二号から第六号まで及び第八号に掲げる事項の記載を省略することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="41">
+            <ArticleCaption>（認定の基準）</ArticleCaption>
+            <ArticleTitle>第四十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事等は、前条第一項の認定の申請があった場合において、当該申請に係る居住安定援助計画が次に掲げる基準に適合していると認めるときは、その認定をするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">居住安定援助賃貸住宅の各戸の床面積が、国土交通省令・厚生労働省令で定める規模以上であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">居住安定援助賃貸住宅の構造及び設備が、住宅確保要配慮者の入居に支障を及ぼすおそれがないものとして国土交通省令・厚生労働省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第二項第六号に掲げる範囲が定められている場合にあっては、その範囲が、住宅確保要配慮者の入居を不当に制限しないものとして国土交通省令・厚生労働省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">専用戸数が、国土交通省令・厚生労働省令で定める数以上であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">居住安定援助賃貸住宅の家賃その他賃貸の条件が、国土交通省令・厚生労働省令で定める基準に従い適正に定められているものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">入居者に提供する居住安定援助の内容が、住宅確保要配慮者の生活の安定を図るために必要なものとして国土交通省令・厚生労働省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">居住安定援助の提供の対価その他居住安定援助の提供の条件が、国土交通省令・厚生労働省令で定める基準に従い適正に定められているものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他基本方針（居住安定援助賃貸住宅が市町村賃貸住宅供給促進計画が作成されている市町村の区域内にある場合にあっては基本方針及び市町村賃貸住宅供給促進計画、居住安定援助賃貸住宅が都道府県賃貸住宅供給促進計画が作成されている都道府県の区域（当該市町村の区域を除く。）内にある場合にあっては基本方針及び都道府県賃貸住宅供給促進計画）に照らして適切なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="42">
+            <ArticleCaption>（欠格条項）</ArticleCaption>
+            <ArticleTitle>第四十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、第四十条第一項の認定を受けることができない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">破産手続開始の決定を受けて復権を得ない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、又はこの法律の規定により罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から起算して二年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五十六条第一項又は第二項の規定により認定を取り消され、その取消しの日から起算して二年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">暴力団員等</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">心身の故障により居住安定援助賃貸住宅事業を適正に行うことができない者として国土交通省令・厚生労働省令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">営業に関し成年者と同一の行為能力を有しない未成年者でその法定代理人が前各号のいずれかに該当するもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人であって、その役員又は国土交通省令・厚生労働省令で定める使用人のうちに第一号から第五号までのいずれかに該当する者があるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">個人であって、その国土交通省令・厚生労働省令で定める使用人のうちに第一号から第五号までのいずれかに該当する者があるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">暴力団員等がその事業活動を支配する者</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="43">
+            <ArticleCaption>（認定の通知）</ArticleCaption>
+            <ArticleTitle>第四十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事等は、第四十条第一項の認定をしたときは、遅滞なく、その旨を当該認定を受けた者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第四十条第一項の認定をしたときは、遅滞なく、その旨を、当該認定を受けた居住安定援助計画に記載された第四十一条第一号及び第二号に掲げる基準に適合する居住安定援助賃貸住宅（以下「認定住宅」という。）の存する町村の長に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="44">
+            <ArticleCaption>（居住安定援助計画の変更等）</ArticleCaption>
+            <ArticleTitle>第四十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十条第一項の認定を受けた者は、当該認定を受けた居住安定援助計画の変更（国土交通省令・厚生労働省令で定める軽微な変更を除く。）をするときは、国土交通省令・厚生労働省令で定めるところにより、都道府県知事等の認定を受けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前三条の規定は、前項の変更の認定について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十条第一項の認定（第一項の変更の認定を含む。以下「計画の認定」という。）を受けた者（以下「認定事業者」という。）は、計画の認定に係る居住安定援助賃貸住宅事業を廃止するときは、国土交通省令・厚生労働省令で定めるところにより、あらかじめ、その旨を都道府県知事等に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="45">
+            <ArticleCaption>（地位の承継）</ArticleCaption>
+            <ArticleTitle>第四十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認定事業者の一般承継人又は認定事業者から認定住宅の敷地の所有権その他当該認定住宅の整備及び管理に必要な権原を取得した者は、国土交通省令・厚生労働省令で定めるところにより、都道府県知事等の承認を受けて、当該認定事業者が有していた計画の認定に基づく地位を承継することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　業務</SectionTitle>
+          <Article Num="46">
+            <ArticleCaption>（契約締結前の書面の交付及び説明）</ArticleCaption>
+            <ArticleTitle>第四十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認定事業者は、認定住宅に入居する住宅確保要配慮者（以下「認定住宅入居者」という。）に対し居住安定援助を行う場合には、当該住宅確保要配慮者に対し、入居契約を締結するまでに、居住安定援助の内容及びその提供の対価その他国土交通省令・厚生労働省令で定める事項について、これらの事項を記載した書面を交付して説明しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認定事業者は、前項の規定による書面の交付に代えて、国土交通省令・厚生労働省令で定めるところにより、認定住宅に入居しようとする住宅確保要配慮者の承諾を得て、当該書面に記載すべき事項を電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であって国土交通省令・厚生労働省令で定めるものをいう。）により提供することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該認定事業者は、当該書面を交付したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="47">
+            <ArticleCaption>（認定事業者の事業実施義務）</ArticleCaption>
+            <ArticleTitle>第四十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認定事業者は、計画の認定を受けた居住安定援助計画（変更があったときは、その変更後のもの。第四十九条及び第五十条第一項において「認定計画」という。）に従い、居住安定援助賃貸住宅事業を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="48">
+            <ArticleCaption>（帳簿の備付け等）</ArticleCaption>
+            <ArticleTitle>第四十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認定事業者（第四十条第四項に規定する場合にあっては、認定事業者である援助実施者）は、国土交通省令・厚生労働省令で定めるところにより、居住安定援助に関する事項で国土交通省令・厚生労働省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="49">
+            <ArticleCaption>（都道府県知事等への定期報告）</ArticleCaption>
+            <ArticleTitle>第四十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認定事業者は、認定計画に基づく居住安定援助賃貸住宅事業の実施の状況その他国土交通省令・厚生労働省令で定める事項について、国土交通省令・厚生労働省令で定めるところにより、定期的に、都道府県知事等に報告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="50">
+            <ArticleCaption>（専用賃貸住宅の目的外使用）</ArticleCaption>
+            <ArticleTitle>第五十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認定事業者は、認定計画に記載された専用賃貸住宅の一部について入居者を国土交通省令・厚生労働省令で定める期間以上確保することができないときは、国土交通省令・厚生労働省令で定めるところにより、都道府県知事等の承認を受けて、その一部を第四十条第二項第七号に規定する者以外の者に賃貸することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の承認をしたときは、遅滞なく、その旨を当該承認に係る認定住宅の存する町村の長に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定により専用賃貸住宅の一部を賃貸する場合においては、当該賃貸借を、借地借家法第三十八条第一項の規定による建物の賃貸借（国土交通省令・厚生労働省令で定める期間を上回らない期間を定めたものに限る。）としなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="51">
+            <ArticleCaption>（その他遵守事項）</ArticleCaption>
+            <ArticleTitle>第五十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この節に規定するもののほか、認定住宅入居者の居住の安定を確保するために認定事業者の遵守すべき事項は、国土交通省令・厚生労働省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　認定住宅に係る特例</SectionTitle>
+          <Article Num="52">
+            <ArticleCaption>（登録住宅に関する規定の準用）</ArticleCaption>
+            <ArticleTitle>第五十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十八条及び第十九条の規定は、認定住宅について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第十八条第二項中「第十八条第一項」とあるのは、「第五十二条において準用する第十八条第一項」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="53">
+            <ArticleCaption>（生活保護法の特例）</ArticleCaption>
+            <ArticleTitle>第五十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認定事業者（第八十一条第一項の住宅確保要配慮者居住支援協議会の構成員であることその他の国土交通省令・厚生労働省令で定める要件に該当する者に限る。以下この項において同じ。）は、被保護認定住宅入居者（被保護者であって、認定住宅入居者である者又は認定住宅入居者となろうとする者をいう。以下この条において同じ。）の居住の安定の確保を図るために必要があると認めるときは、国土交通省令・厚生労働省令で定めるところにより、保護の実施機関が当該被保護認定住宅入居者に対して交付する生活保護法第三十一条第三項に規定する保護金品（住宅を賃借して居住することに伴い通常必要とされる費用として厚生労働省令で定めるものの額に相当する金銭に限る。）又は同法第三十三条第四項に規定する保護金品のうち、当該被保護認定住宅入居者が当該認定事業者（第四十条第四項に規定する場合にあっては、当該認定事業者である賃貸人。以下この条において「認定賃貸人」という。）に支払うべき費用（次項において「家賃等」という。）の額に相当する金銭について、当該被保護認定住宅入居者に代わり、当該認定賃貸人に支払うことを希望する旨を保護の実施機関に通知することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">保護の実施機関は、前項の規定による通知を受けたときは、家賃等の口座振替納付（預金又は貯金の払出しとその払い出した金銭による家賃等の納付をその預金口座又は貯金口座のある金融機関に委託して行うことをいう。）が行われている場合その他厚生労働省令で定める場合を除き、当該通知に係る家賃等の額に相当する金銭について、当該通知に係る被保護認定住宅入居者に代わり、当該通知に係る認定賃貸人に支払うものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該支払があったときは、生活保護法第三十一条第三項又は第三十三条第四項の規定により当該被保護認定住宅入居者に対し当該保護金品の交付があったものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　監督</SectionTitle>
+          <Article Num="54">
+            <ArticleCaption>（報告徴収及び立入検査）</ArticleCaption>
+            <ArticleTitle>第五十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事等は、この章の規定の施行に必要な限度において、認定事業者又は認定事業者から認定住宅の管理を委託された者（以下この項において「管理受託者」という。）に対しその業務に関し必要な報告を求め、又はその職員に、認定事業者若しくは管理受託者の事務所若しくは営業所若しくは認定住宅に立ち入り、その業務の状況若しくは帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による立入検査において、現に居住の用に供している認定住宅の居住部分に立ち入るときは、あらかじめ、当該居住部分に係る入居者の承諾を得なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十三条第二項及び第三項の規定は、第一項の規定による立入検査について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="55">
+            <ArticleCaption>（改善命令）</ArticleCaption>
+            <ArticleTitle>第五十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事等は、認定事業者が第四十六条から第四十八条までの規定に違反し、又は第五十一条の国土交通省令・厚生労働省令で定める事項を遵守していないと認めるときは、当該認定事業者に対し、その改善に必要な措置を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="56">
+            <ArticleCaption>（計画の認定の取消し）</ArticleCaption>
+            <ArticleTitle>第五十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事等は、認定事業者が次の各号のいずれかに該当するときは、計画の認定を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十二条各号（第三号を除く。）のいずれかに該当するに至ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">不正な手段により計画の認定を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事等は、認定事業者が次の各号のいずれかに該当するときは、計画の認定を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十九条又は第五十条第三項の規定に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第五十条第一項の承認を受けずに、第四十条第二項第七号に規定する者以外の者に賃貸したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条の規定による命令に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事等は、前二項の規定により計画の認定を取り消したときは、遅滞なく、その旨を当該認定事業者であった者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項又は第二項の規定により計画の認定を取り消したときは、遅滞なく、その旨を、当該取消しに係る居住安定援助計画に記載されていた居住安定援助賃貸住宅の存する町村の長に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="5">
+          <SectionTitle>第五節　雑則</SectionTitle>
+          <Article Num="57">
+            <ArticleCaption>（資金の確保等）</ArticleCaption>
+            <ArticleTitle>第五十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、認定住宅の整備のために必要な資金の確保又はその融通のあっせんに努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="58">
+            <ArticleCaption>（賃貸住宅への円滑な入居のための援助）</ArticleCaption>
+            <ArticleTitle>第五十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事等は、認定事業者が破産手続開始の決定を受けたときその他認定住宅入居者（認定住宅入居者であった者を含む。）の居住の安定を図るため必要があると認めるときは、当該認定住宅入居者に対し、他の適当な賃貸住宅に円滑に入居するために必要な助言その他の援助を行うよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　住宅確保要配慮者居住支援法人</ChapterTitle>
+        <Article Num="59">
+          <ArticleCaption>（住宅確保要配慮者居住支援法人）</ArticleCaption>
+          <ArticleTitle>第五十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、特定非営利活動促進法（平成十年法律第七号）第二条第二項に規定する特定非営利活動法人、一般社団法人若しくは一般財団法人その他の営利を目的としない法人又は住宅確保要配慮者の居住の支援を行うことを目的とする会社であって、第六十二条に規定する業務（以下「支援業務」という。）に関し次に掲げる基準に適合すると認められるものを、その申請により、住宅確保要配慮者居住支援法人（以下「支援法人」という。）として指定することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次条第二項第一号に規定する支援業務の実施に関する計画が、支援業務の適確な実施のために適切なものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号の計画を適確に実施するに足りる経理的及び技術的な基礎を有するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号に掲げるもののほか、第六十二条第一号又は第五号に掲げる業務を行う場合にあっては、当該業務を適正かつ確実に行うに足りる知識及び能力並びに当該業務を確実に遂行するために必要と認められる財産的な基礎であって国土交通省令で定めるものを有するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">役員又は職員の構成が、支援業務の公正な実施に支障を及ぼすおそれがないものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">支援業務以外の業務を行っている場合には、その業務を行うことによって支援業務の公正な実施に支障を及ぼすおそれがないものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に定めるもののほか、支援業務を公正かつ適確に行うことができるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、前項の規定による指定（以下この章において「指定」という。）を受けることができない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律の規定に違反し、刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から起算して二年を経過しない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七十条第一項又は第二項の規定により指定を取り消され、その取消しの日から起算して二年を経過しない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その役員のうちに、第一号に該当する者がある者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="60">
+          <ArticleCaption>（指定の申請）</ArticleCaption>
+          <ArticleTitle>第六十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定を受けようとする者は、次に掲げる事項を記載した指定申請書を都道府県知事に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">支援業務の種別（第六十二条各号に掲げる業務の別をいう。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">名称又は商号</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">主たる事務所又は営業所その他支援業務を行う事務所又は営業所の名称及び所在地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">役員の氏名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">支援業務以外の業務を行うときは、その業務の内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他国土交通省令・厚生労働省令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の指定申請書には、次に掲げる書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">職員、支援業務の実施の方法その他国土交通省令・厚生労働省令で定める事項を記載した支援業務の実施に関する計画</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">財産目録、貸借対照表その他の支援業務を行うために必要な経理的及び財産的な基礎を有することを明らかにする書類であって国土交通省令・厚生労働省令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他国土交通省令・厚生労働省令で定める書類</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、指定をしたときは、その旨及び第一項第一号から第三号までに掲げる事項を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="61">
+          <ArticleCaption>（変更の認可及び届出）</ArticleCaption>
+          <ArticleTitle>第六十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、前条第一項第一号の種別を変更して新たに次条第一号又は第五号に掲げる業務を行う場合には、あらかじめ、国土交通省令・厚生労働省令で定めるところにより、都道府県知事の認可を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項に定めるもののほか、支援法人は、前条第一項各号に掲げる事項を変更するときは、変更する日の二週間前までに、その旨を都道府県知事に届け出なければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、国土交通省令・厚生労働省令で定める軽微な変更については、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の変更の認可をしたとき又は前項の規定による届出があったときは、その旨及び当該変更の認可に係る事項又は当該届出に係る前条第一項第一号から第三号までに掲げる事項を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="62">
+          <ArticleCaption>（業務）</ArticleCaption>
+          <ArticleTitle>第六十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、当該都道府県の区域内において、次に掲げる業務を行うものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">登録事業者からの要請に基づき、登録住宅入居者の家賃債務の保証をすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">住宅確保要配慮者に対し、賃貸住宅への円滑な入居の促進に関する情報の提供、相談その他の援助を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">賃貸住宅に入居する住宅確保要配慮者に対し、その生活の安定及び向上に関する情報の提供、相談その他の援助を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">賃貸住宅の賃貸人に対し、住宅確保要配慮者に対する賃貸住宅の供給の促進を図るために必要な情報の提供を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">賃借人である住宅確保要配慮者からの委託に基づき、当該住宅確保要配慮者が死亡した場合における当該住宅確保要配慮者が締結した賃貸借契約の解除並びに当該住宅確保要配慮者が居住していた住宅及びその敷地内に存する動産の保管、処分その他の処理を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる業務に附帯する業務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="63">
+          <ArticleCaption>（業務の委託）</ArticleCaption>
+          <ArticleTitle>第六十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、都道府県知事の認可を受けて、前条第一号に掲げる業務（以下「債務保証業務」という。）のうち債務の保証の決定以外の業務の全部又は一部を金融機関その他の者に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">金融機関は、他の法律の規定にかかわらず、前項の規定による委託を受け、当該業務を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="64">
+          <ArticleCaption>（債務保証業務規程及び残置物処理等業務規程）</ArticleCaption>
+          <ArticleTitle>第六十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、次の各号に掲げる業務を行う場合には、当該各号に定める規程を定め、都道府県知事の認可を受けなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">債務保証業務</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">債務保証業務に関する規程（以下この条及び第七十条第二項第二号において「債務保証業務規程」という。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第六十二条第五号に掲げる業務（以下「残置物処理等業務」という。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">残置物処理等業務に関する規程（以下この条及び第七十条第二項第二号において「残置物処理等業務規程」という。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">債務保証業務規程及び残置物処理等業務規程で定めるべき事項は、国土交通省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、債務保証業務規程又は残置物処理等業務規程を変更するときは、都道府県知事の認可を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項又は前項の認可をした債務保証業務規程又は残置物処理等業務規程が債務保証業務又は残置物処理等業務の公正かつ適確な実施上不適当となったと認めるときは、その債務保証業務規程又は残置物処理等業務規程を変更すべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="65">
+          <ArticleCaption>（事業計画等）</ArticleCaption>
+          <ArticleTitle>第六十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、毎事業年度、国土交通省令・厚生労働省令で定めるところにより、支援業務に係る事業計画及び収支予算を作成し、当該事業年度の開始前に（指定を受けた日の属する事業年度にあっては、その指定を受けた後遅滞なく）、都道府県知事の認可を受けなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、毎事業年度、国土交通省令・厚生労働省令で定めるところにより、支援業務に係る事業報告書及び収支決算書を作成し、当該事業年度経過後三月以内に、都道府県知事に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="66">
+          <ArticleCaption>（区分経理）</ArticleCaption>
+          <ArticleTitle>第六十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、国土交通省令・厚生労働省令で定めるところにより、次に掲げる業務ごとに経理を区分して整理しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">債務保証業務及びこれに附帯する業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">残置物処理等業務及びこれに附帯する業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げる業務以外の業務</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="67">
+          <ArticleCaption>（帳簿の備付け等）</ArticleCaption>
+          <ArticleTitle>第六十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、国土交通省令・厚生労働省令で定めるところにより、支援業務に関する事項で国土交通省令・厚生労働省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、支援法人は、国土交通省令・厚生労働省令で定めるところにより、支援業務に関する書類で国土交通省令・厚生労働省令で定めるものを保存しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="68">
+          <ArticleCaption>（監督命令）</ArticleCaption>
+          <ArticleTitle>第六十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、支援業務の公正かつ適確な実施を確保するため必要があると認めるときは、支援法人に対し、支援業務に関し監督上必要な命令をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="69">
+          <ArticleCaption>（報告徴収及び立入検査）</ArticleCaption>
+          <ArticleTitle>第六十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、支援業務の公正かつ適確な実施を確保するため必要があると認めるときは、支援法人に対し支援業務若しくは資産の状況に関し必要な報告を求め、又はその職員に、支援法人の事務所若しくは営業所に立ち入り、支援業務の状況若しくは帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十三条第二項及び第三項の規定は、前項の規定による立入検査について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="70">
+          <ArticleCaption>（指定の取消し等）</ArticleCaption>
+          <ArticleTitle>第七十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、支援法人が次の各号のいずれかに該当するときは、その指定を取り消さなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十九条第二項第一号又は第三号のいずれかに該当するに至ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正な手段により指定を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、支援法人が次の各号のいずれかに該当するときは、その指定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十一条第一項若しくは第二項又は第六十五条から第六十七条までの規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十四条第一項又は第三項の認可を受けた債務保証業務規程又は残置物処理等業務規程によらないで債務保証業務又は残置物処理等業務を行ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十四条第四項又は第六十八条の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十九条第一項各号に掲げる基準に適合していないと認めるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">支援法人又はその役員が、支援業務に関し著しく不適当な行為をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前二項の規定により指定を取り消したときは、その旨を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="71">
+          <ArticleCaption>（支援法人による都道府県賃貸住宅供給促進計画の作成等の提案）</ArticleCaption>
+          <ArticleTitle>第七十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、その業務を行うために必要があると認めるときは、都道府県に対し、国土交通省令・厚生労働省令で定めるところにより、都道府県賃貸住宅供給促進計画の作成又は変更をすることを提案することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、基本方針に即して、当該提案に係る都道府県賃貸住宅供給促進計画の素案を作成して、これを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による提案を受けた都道府県は、当該提案に基づき都道府県賃貸住宅供給促進計画の作成又は変更をするか否かについて、遅滞なく、当該提案をした支援法人に通知するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、都道府県賃貸住宅供給促進計画の作成又は変更をしないこととするときは、その理由を明らかにしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定は、市町村に対する市町村賃貸住宅供給促進計画の作成又は変更の提案について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第一項中「基本方針」とあるのは、「基本方針（都道府県賃貸住宅供給促進計画が作成されている場合にあっては、都道府県賃貸住宅供給促進計画）」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　認定家賃債務保証業者</ChapterTitle>
+        <Article Num="72">
+          <ArticleCaption>（認定家賃債務保証業者の認定）</ArticleCaption>
+          <ArticleTitle>第七十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">家賃債務保証業者は、国土交通省令で定めるところにより、その行う住宅確保要配慮者の家賃債務の保証に関する業務（以下「家賃債務保証業務」という。）が次の各号に掲げる基準のいずれにも適合していることにつき、国土交通大臣の認定を受けることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">認定住宅の賃貸借契約を締結しようとする住宅確保要配慮者から家賃債務の保証に係る申込みがあった場合には、正当な理由なくこれを拒まないものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号に掲げるもののほか、家賃債務保証業務において、家賃債務の保証に係る申込みをした住宅確保要配慮者に対し、その保証に係る契約の締結の条件として、当該住宅確保要配慮者の親族その他国土交通省令で定める関係者の連絡先に関する情報の提供を求めないものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、家賃債務保証業務の実施方法が住宅確保要配慮者の民間賃貸住宅への円滑な入居に資するものとして国土交通省令で定める基準に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の認定（以下この章において「認定」という。）を受けようとする家賃債務保証業者は、国土交通省令で定めるところにより、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあっては、その代表者の氏名</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">主たる事務所又は営業所その他家賃債務保証業務を行う事務所又は営業所の名称及び所在地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他国土交通省令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の申請書には、第一項各号に掲げる基準に適合することを証する書類その他国土交通省令で定める書類を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、認定の申請に係る家賃債務保証業者が第一項各号に掲げる基準のいずれにも適合していると認めるときは、当該認定をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、認定をしたときは、遅滞なく、その旨を、申請者に通知するとともに、公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="73">
+          <ArticleCaption>（欠格条項）</ArticleCaption>
+          <ArticleTitle>第七十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、認定を受けることができない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">破産手続開始の決定を受けて復権を得ない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑に処せられ、又はこの法律の規定により罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から起算して二年を経過しない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七十九条第一項又は第二項の規定により認定を取り消され、その取消しの日から起算して二年を経過しない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">暴力団員等</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">心身の故障により家賃債務保証業務を適正に行うことができない者として国土交通省令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">営業に関し成年者と同一の行為能力を有しない未成年者でその法定代理人が前各号のいずれかに該当するもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">法人であって、その役員又は国土交通省令で定める使用人のうちに第一号から第五号までのいずれかに該当する者があるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">個人であって、その国土交通省令で定める使用人のうちに第一号から第五号までのいずれかに該当する者があるもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">暴力団員等がその事業活動を支配する者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="74">
+          <ArticleCaption>（変更の届出）</ArticleCaption>
+          <ArticleTitle>第七十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定を受けた家賃債務保証業者（以下「認定保証業者」という。）は、第七十二条第二項各号に掲げる事項に変更があったときは、国土交通省令で定めるところにより、遅滞なく、その旨を国土交通大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の規定による届出があったときは、その旨及び国土交通省令で定める事項を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="75">
+          <ArticleCaption>（廃止の届出）</ArticleCaption>
+          <ArticleTitle>第七十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定保証業者は、認定に係る家賃債務保証業務を廃止するときは、国土交通省令で定めるところにより、あらかじめ、その旨を国土交通大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前項の規定による届出があったときは、その旨を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="76">
+          <ArticleCaption>（帳簿の備付け等）</ArticleCaption>
+          <ArticleTitle>第七十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定保証業者は、国土交通省令で定めるところにより、家賃債務保証業務に関する事項で国土交通省令で定めるものを記載した帳簿を備え付け、これを保存しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、認定保証業者は、国土交通省令で定めるところにより、家賃債務保証業務に関する書類で国土交通省令で定めるものを保存しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="77">
+          <ArticleCaption>（適合命令）</ArticleCaption>
+          <ArticleTitle>第七十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、認定保証業者が第七十二条第一項各号に掲げる基準のいずれかに適合しなくなったと認めるときは、当該認定保証業者に対し、これらの基準に適合するために必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="78">
+          <ArticleCaption>（報告徴収及び立入検査）</ArticleCaption>
+          <ArticleTitle>第七十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、この章の規定の施行に必要な限度において、認定保証業者に対し家賃債務保証業務に関し必要な報告を求め、又はその職員に、認定保証業者の事務所若しくは営業所に立ち入り、家賃債務保証業務の状況若しくは帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十三条第二項及び第三項の規定は、前項の規定による立入検査について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="79">
+          <ArticleCaption>（認定の取消し）</ArticleCaption>
+          <ArticleTitle>第七十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、認定保証業者が次の各号のいずれかに該当するときは、その認定を取り消さなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七十三条各号（第三号を除く。）のいずれかに該当するに至ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正な手段により認定を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、認定保証業者が次の各号のいずれかに該当するときは、その認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七十四条第一項又は第七十六条の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第七十七条の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、前二項の規定により認定を取り消したときは、遅滞なく、その旨を、当該認定保証業者であった者に通知するとともに、公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="80">
+          <ArticleCaption>（機構の行う住宅確保要配慮者家賃債務保証保険契約に係る保険）</ArticleCaption>
+          <ArticleTitle>第八十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、機構法第十三条第一項に規定する業務のほか、住宅確保要配慮者家賃債務保証保険契約に係る保険を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の「住宅確保要配慮者家賃債務保証保険契約」とは、機構が事業年度ごとに認定保証業者と締結する契約であって、認定保証業者が住宅確保要配慮者の家賃債務（利息に係るものを除く。以下この項及び次項において同じ。）の保証をしたことを機構に通知することにより、当該認定保証業者が住宅確保要配慮者の家賃債務につき保証をした金額の総額が一定の金額に達するまで、その保証につき、機構と当該認定保証業者との間に保険関係が成立する旨を定めるものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定する住宅確保要配慮者家賃債務保証保険契約に係る保険関係においては、認定保証業者が住宅確保要配慮者の家賃債務につき保証をした金額を保険価額とし、認定保証業者が住宅確保要配慮者に代わってする家賃債務の全部又は一部の弁済を保険事故とし、保険価額に百分の九十を超えない範囲内において国土交通省令で定める割合を乗じて得た金額を保険金額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十条第四項から第十項までの規定は、前三項の規定による住宅確保要配慮者家賃債務保証保険契約に係る保険について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="8">
+        <ChapterTitle>第八章　住宅確保要配慮者居住支援協議会</ChapterTitle>
+        <Article Num="81">
+          <ArticleCaption>（住宅確保要配慮者居住支援協議会）</ArticleCaption>
+          <ArticleTitle>第八十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体は、単独で又は共同して、支援法人、宅地建物取引業者（宅地建物取引業法（昭和二十七年法律第百七十六号）第二条第三号に規定する宅地建物取引業者をいう。）、賃貸住宅を管理する事業を行う者その他の住宅確保要配慮者の民間賃貸住宅への円滑な入居の促進に資する活動を行う者及び社会福祉協議会（社会福祉法第十章第三節に規定する社会福祉協議会をいう。）その他の住宅確保要配慮者の福祉に関する活動を行う者により構成される住宅確保要配慮者居住支援協議会（以下この条及び次条において「支援協議会」という。）を置くように努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援協議会は、住宅確保要配慮者又は民間賃貸住宅の賃貸人に対する情報の提供、民間賃貸住宅への入居及び日常生活を営むために必要な福祉サービスの利用に関する住宅確保要配慮者からの相談に応じて適切に対応するための体制の整備、住宅確保要配慮者に対する賃貸住宅の供給に関する施策と住宅確保要配慮者の生活の安定及び向上に関する施策との連携の推進その他の住宅確保要配慮者の民間賃貸住宅への円滑な入居の促進に関し必要な措置について協議を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の協議を行うための会議において協議が調った事項については、支援協議会の構成員は、その協議の結果を尊重しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項に定めるもののほか、支援協議会の運営に関し必要な事項は、支援協議会が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="82">
+          <ArticleCaption>（支援協議会及び地域住宅協議会等の連携）</ArticleCaption>
+          <ArticleTitle>第八十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定により支援協議会が置かれた地方公共団体の区域について地域住宅特別措置法第五条第一項に規定する地域住宅協議会又は社会福祉法第百六条の六第一項に規定する支援会議、介護保険法第百十五条の四十八第一項に規定する会議、障害者総合支援法第八十九条の三第一項に規定する協議会、生活困窮者自立支援法（平成二十五年法律第百五号）第九条第一項に規定する支援会議その他の住宅確保要配慮者が日常生活を営むために必要な支援体制に関する検討を行う会議（以下この条において「地域住宅協議会等」という。）が置かれている場合には、当該支援協議会及び地域住宅協議会等は、住宅確保要配慮者の賃貸住宅への円滑な入居を促進するため、住宅確保要配慮者の賃貸住宅への入居に関する課題についての情報の共有その他相互の連携に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="9">
+        <ChapterTitle>第九章　住宅確保要配慮者に対する賃貸住宅の供給の促進に関する施策</ChapterTitle>
+        <Article Num="83">
+          <ArticleCaption>（公的賃貸住宅の供給の促進）</ArticleCaption>
+          <ArticleTitle>第八十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、所得の状況、心身の状況、世帯構成その他の住宅確保要配慮者の住宅の確保について配慮を必要とする事情を勘案し、既存の公的賃貸住宅の有効活用を図りつつ、公的賃貸住宅の適切な供給の促進に関し必要な施策を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公的賃貸住宅の管理者は、公的賃貸住宅の入居者の選考に当たり、住宅確保要配慮者の居住の安定に配慮するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="84">
+          <ArticleCaption>（民間賃貸住宅への円滑な入居の促進）</ArticleCaption>
+          <ArticleTitle>第八十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、住宅確保要配慮者が民間賃貸住宅を円滑に賃借することができるようにするため、住宅確保要配慮者及び民間賃貸住宅の賃貸人に対する支援その他の住宅確保要配慮者の民間賃貸住宅への円滑な入居の促進に関し必要な施策を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">民間賃貸住宅を賃貸する事業を行う者は、国及び地方公共団体が講ずる住宅確保要配慮者の民間賃貸住宅への円滑な入居の促進のための施策に協力するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="85">
+          <ArticleCaption>（情報の提供等）</ArticleCaption>
+          <ArticleTitle>第八十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、住宅確保要配慮者が賃貸住宅に関しその事情に応じた適切な情報を効果的かつ効率的に入手することができるようにするため、賃貸住宅に関する情報の提供及び相談の実施に関し必要な施策を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="86">
+          <ArticleCaption>（住宅確保要配慮者の生活の安定及び向上に関する施策等との連携）</ArticleCaption>
+          <ArticleTitle>第八十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、住宅確保要配慮者に対する賃貸住宅の供給の促進に関する施策を推進するに当たっては、住宅確保要配慮者の自立の支援に関する施策、住宅確保要配慮者の福祉に関する施策その他の住宅確保要配慮者の生活の安定及び向上に関する施策並びに良好な居住環境の形成に関する施策との連携を図るよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="87">
+          <ArticleCaption>（地方公共団体への支援）</ArticleCaption>
+          <ArticleTitle>第八十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、地方公共団体が講ずる住宅確保要配慮者に対する賃貸住宅の供給の促進に関する施策を支援するため、情報の提供その他の必要な措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="10">
+        <ChapterTitle>第十章　雑則</ChapterTitle>
+        <Article Num="88">
+          <ArticleCaption>（国土交通大臣の権限の委任）</ArticleCaption>
+          <ArticleTitle>第八十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に規定する国土交通大臣の権限は、国土交通省令で定めるところにより、その一部を地方整備局長又は北海道開発局長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="89">
+          <ArticleCaption>（大都市等の特例）</ArticleCaption>
+          <ArticleTitle>第八十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四章の規定により都道府県又は都道府県知事の権限に属するものとされている事務は、地方自治法第二百五十二条の十九第一項の指定都市（以下この条において「指定都市」という。）及び同法第二百五十二条の二十二第一項の中核市（以下この条において「中核市」という。）においては、指定都市若しくは中核市（以下この条において「指定都市等」という。）又は指定都市等の長が行うものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、同章中都道府県又は都道府県知事に関する規定は、指定都市等又は指定都市等の長に関する規定として指定都市等又は指定都市等の長に適用があるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="90">
+          <ArticleCaption>（省令への委任）</ArticleCaption>
+          <ArticleTitle>第九十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律の実施のための手続その他この法律の施行に関し必要な事項は、国土交通省令・厚生労働省令又は国土交通省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="91">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第九十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="11">
+        <ChapterTitle>第十一章　罰則</ChapterTitle>
+        <Article Num="92">
+          <ArticleTitle>第九十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十九条第一項の規定に違反して、その職務に関し知り得た秘密を漏らし、又は自己の利益のために使用した者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十五条第二項の規定による登録事務の停止の命令に違反したときは、その違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="93">
+          <ArticleTitle>第九十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正の手段によって第八条の登録、計画の認定又は第七十二条第一項の認定を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条第一項、第十四条第一項、第四十四条第三項、第七十四条第一項又は第七十五条第一項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条第一項、第四十八条、第六十七条第一項又は第七十六条第一項の規定に違反して、帳簿を備え付けず、帳簿に記載せず、若しくは帳簿に虚偽の記載をし、又は帳簿を保存しなかったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十一条第二項、第六十七条第二項又は第七十六条第二項の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十三条第一項、第五十四条第一項、第六十九条第一項若しくは第七十八条第一項の規定による報告をせず、若しくは虚偽の報告をし、又はこれらの規定による検査を拒み、妨げ、若しくは忌避し、若しくはこれらの規定による質問に対して答弁せず、若しくは虚偽の答弁をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十四条第一項の規定による許可を受けないで登録事務の全部を廃止したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="94">
+          <ArticleTitle>第九十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十二条の規定による報告をせず、又は虚偽の報告をしたときは、その違反行為をした者は、二十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="95">
+          <ArticleTitle>第九十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者がその法人又は人の業務に関して第九十二条第二項又は前二条の違反行為をした場合においては、その行為者を罰するほか、その法人又は人に対しても各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年四月二八日法律第三二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年四月二六日法律第二四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、この法律による改正後の住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四十条、第五十九条、第六十一条、第七十五条（児童福祉法第三十四条の二十の改正規定に限る。）、第八十五条、第百二条、第百七条（民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律第二十六条の改正規定に限る。）、第百十一条、第百四十三条、第百四十九条、第百五十二条、第百五十四条（不動産の鑑定評価に関する法律第二十五条第六号の改正規定に限る。）及び第百六十八条並びに次条並びに附則第三条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条、第四条、第五条（国家戦略特別区域法第十九条の二第一項の改正規定を除く。）、第二章第二節及び第四節、第四十一条（地方自治法第二百五十二条の二十八の改正規定を除く。）、第四十二条から第四十八条まで、第五十条、第五十四条、第五十七条、第六十条、第六十二条、第六十六条から第六十九条まで、第七十五条（児童福祉法第三十四条の二十の改正規定を除く。）、第七十六条、第七十七条、第七十九条、第八十条、第八十二条、第八十四条、第八十七条、第八十八条、第九十条（職業能力開発促進法第三十条の十九第二項第一号の改正規定を除く。）、第九十五条、第九十六条、第九十八条から第百条まで、第百四条、第百八条、第百九条、第百十二条、第百十三条、第百十五条、第百十六条、第百十九条、第百二十一条、第百二十三条、第百三十三条、第百三十五条、第百三十八条、第百三十九条、第百六十一条から第百六十三条まで、第百六十六条、第百六十九条、第百七十条、第百七十二条（フロン類の使用の合理化及び管理の適正化に関する法律第二十九条第一項第一号の改正規定に限る。）並びに第百七十三条並びに附則第十六条、第十七条、第二十条、第二十一条及び第二十三条から第二十九条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して六月を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（行政庁の行為等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（前条各号に掲げる規定にあっては、当該規定。以下この条及び次条において同じ。）の施行の日前に、この法律による改正前の法律又はこれに基づく命令の規定（欠格条項その他の権利の制限に係る措置を定めるものに限る。）に基づき行われた行政庁の処分その他の行為及び当該規定により生じた失職の効力については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、会社法（平成十七年法律第八十六号）及び一般社団法人及び一般財団法人に関する法律（平成十八年法律第四十八号）における法人の役員の資格を成年被後見人又は被保佐人であることを理由に制限する旨の規定について、この法律の公布後一年以内を目途として検討を加え、その結果に基づき、当該規定の削除その他の必要な法制上の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一〇日法律第三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月五日法律第四三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次条から附則第四条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年三月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（基本方針に関する準備行為）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国土交通大臣及び厚生労働大臣は、この法律の施行の日（以下「施行日」という。）前においても、第一条の規定による改正後の住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律（次条及び附則第四条において「新住宅確保要配慮者法」という。）第四条第四項の規定の例により、同条第一項に規定する基本方針の案について関係行政機関の長に協議することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（残置物処理等業務の認可等に関する準備行為）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第三号に掲げる規定の施行の際現に第一条の規定による改正前の住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律第四十条の規定により指定された支援法人であるものは、施行日前においても、新住宅確保要配慮者法第六十一条第一項の規定の例により、新住宅確保要配慮者法第六十二条第五号に掲げる業務の実施に係る認可の申請を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により認可の申請があった場合には、施行日前においても、新住宅確保要配慮者法第六十一条第一項及び第三項の規定の例により、その認可及び公示をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該認可及び公示は、施行日以後は、それぞれ同条第一項の認可及び同条第三項の規定による公示とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定により認可を受けた支援法人は、施行日前においても、新住宅確保要配慮者法第六十四条第一項（第二号に係る部分に限る。次項において同じ。）の規定の例により、同号に規定する残置物処理等業務規程の認可の申請を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により認可の申請があった場合には、施行日前においても、新住宅確保要配慮者法第六十四条第一項の規定の例により、その認可をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該認可は、施行日以後は、同項の認可とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（認定家賃債務保証業者の認定に関する準備行為）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新住宅確保要配慮者法第七十二条第一項の認定を受けようとする者は、施行日前においても、同項から同条第三項までの規定の例により、その認定の申請を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の規定について、その施行の状況等を勘案して検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
