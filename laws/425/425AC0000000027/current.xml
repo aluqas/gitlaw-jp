@@ -12,7 +12,7 @@
       </TOCChapter>
       <TOCChapter Num="3">
         <ChapterTitle>第三章　個人番号カード</ChapterTitle>
-        <ArticleRange>（第十六条の二―第十八条の五）</ArticleRange>
+        <ArticleRange>（第十六条の二―第十八条の六）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="4">
         <ChapterTitle>第四章　特定個人情報の提供</ChapterTitle>
@@ -115,7 +115,7 @@
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号カード」とは、次に掲げる事項（外国人住民（住民基本台帳法第三十条の四十五に規定する外国人住民をいう。次項において同じ。）にあっては、第二号に掲げる事項を除く。）が記載され、第十六条の二第一項の申請の日において本人の年齢が主務省令で定める年齢に満たない場合を除き本人の写真が表示され、かつ、これらの事項その他主務省令で定める事項（以下「カード記録事項」という。）が電磁的方法（電子的方法、磁気的方法その他人の知覚によって認識することができない方法をいう。第十八条において同じ。）により記録されたカードであって、この法律又はこの法律に基づく命令で定めるところによりカード記録事項を閲覧し、又は改変する権限を有する者以外の者による閲覧又は改変を防止するために必要なものとして主務省令で定める措置が講じられたものをいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号カード」とは、次に掲げる事項のうち第五号に掲げるもの以外のもの（外国人住民（住民基本台帳法第三十条の四十五に規定する外国人住民をいう。次項において同じ。）にあっては、次に掲げる事項のうち第二号及び第五号に掲げるもの以外のもの。以下この項において「カード記載事項」という。）が記載され、第十六条の二第一項の申請の日において本人の年齢が主務省令で定める年齢に満たない場合を除き本人の写真が表示され、かつ、カード記載事項及び同号に掲げる事項並びに本人の写真（当該場合にあっては、カード記載事項及び同号に掲げる事項）その他主務省令で定める事項（以下「カード記録事項」という。）が電磁的方法（電子的方法、磁気的方法その他人の知覚によって認識することができない方法をいう。以下同じ。）により記録されたカードであって、この法律又はこの法律に基づく命令で定めるところによりカード記録事項を閲覧し、又は改変する権限を有する者以外の者による閲覧又は改変を防止するために必要なものとして主務省令で定める措置が講じられたものをいう。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -169,7 +169,7 @@
           <Paragraph Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「特定個人情報」とは、個人番号（個人番号に対応し、当該個人番号に代わって用いられる番号、記号その他の符号であって、住民票コード以外のものを含む。第七条第一項及び第二項、第八条並びに第四十八条並びに附則第三条第一項から第三項まで及び第五項を除き、以下同じ。）をその内容に含む個人情報をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定個人情報」とは、個人番号（個人番号に対応し、当該個人番号に代わって用いられる番号、記号その他の符号であって、住民票コード以外のものを含む。第七条第一項及び第二項、第八条、第十八条の五第二項並びに第四十八条並びに附則第三条第一項から第三項まで及び第五項を除き、以下同じ。）をその内容に含む個人情報をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="10">
@@ -505,7 +505,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">個人番号利用事務等実施者は、第十四条第一項の規定により本人から個人番号の提供を受けるときは、次の各号のいずれかに掲げる措置をとらなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">個人番号利用事務等実施者は、第十四条第一項の規定により本人から個人番号の提供を受けるときは、次の各号のいずれかに掲げる措置をとらなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該個人番号利用事務等において性別に係る情報を利用している個人番号利用事務等として主務省令で定めるものの処理に関し個人番号の提供を受ける場合において、第一号の措置をとるときは、併せて、個人番号カードに記録された性別に係る情報を電磁的方法により確認する措置をとらなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -578,7 +579,7 @@
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">機構は、個人番号カードに関して、個人番号カードの作成及び送付（第十八条の五第一項において「個人番号カードの発行」という。）に関する状況並びに個人番号カードの運用に関する状況の管理その他総務省令で定める事務を行うものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、個人番号カードに関して、個人番号カードの作成及び送付（第十八条の六第一項及び第三項第一号において「個人番号カードの発行」という。）に関する状況並びに個人番号カードの運用に関する状況の管理その他総務省令で定める事務を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -589,7 +590,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">市町村長は、政令で定めるところにより、当該市町村が備える住民基本台帳に記録されている者又は当該市町村が備える戸籍の附票に記録されている者（国外転出者である者に限る。）に対し、前条第五項から第七項までの規定による送付又はその作成についての通知を受けたその者に係る個人番号カードを直接に又は機構若しくは同条第四項の申出に係る領事官若しくは市町村長を経由して交付するものとする。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該交付を行う市町村長（次項から第五項まで及び第十八条の五第三項において「交付市町村長」という。）は、その者が本人であることを確認するための次に掲げる措置をとらなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該交付を行う市町村長（次項から第五項まで及び第十八条の六第三項第一号において「交付市町村長」という。）は、その者が本人であることを確認するための次に掲げる措置をとらなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -718,7 +719,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">個人番号カードの交付を受けている者（個人番号カード用署名用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号。以下この条及び第三十八条の八第一項において「公的個人認証法」という。）第三条第一項に規定する個人番号カード用署名用電子証明書をいう。以下この条において同じ。）の発行を受け、当該個人番号カード用署名用電子証明書が効力を失っていない者に限り、第三項又は第十一項の規定により既に自己に係るカード代替電磁的記録の発行を受け、当該カード代替電磁的記録が効力を失っていない者を除く。）は、自己に係るカード代替電磁的記録をその者が使用する移動端末設備（電気通信事業法（昭和五十九年法律第八十六号）第十二条の二第四項第二号ロに規定する移動端末設備をいう。以下この条及び次条第一項において同じ。）に組み込まれた主務省令で定める電磁的記録媒体（電磁的記録に係る記録媒体をいう。以下この条において同じ。）に記録して利用するため、その者の申請により、当該カード代替電磁的記録の発行を受けることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">個人番号カードの交付を受けている者（個人番号カード用署名用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号。以下この条及び第三十八条の八第一項において「公的個人認証法」という。）第三条第一項に規定する個人番号カード用署名用電子証明書をいう。以下この条において同じ。）の発行を受け、当該個人番号カード用署名用電子証明書が効力を失っていない者に限り、第三項又は第十一項の規定により既に自己に係るカード代替電磁的記録の発行を受け、当該カード代替電磁的記録が効力を失っていない者を除く。）は、自己に係るカード代替電磁的記録をその者が使用する移動端末設備（電気通信事業法（昭和五十九年法律第八十六号）第十二条の二第四項第三号ロに規定する移動端末設備をいう。以下この条及び次条第一項において同じ。）に組み込まれた主務省令で定める電磁的記録媒体（電磁的記録に係る記録媒体をいう。以下この条において同じ。）に記録して利用するため、その者の申請により、当該カード代替電磁的記録の発行を受けることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -772,7 +773,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十七条第十項の規定により当該カード代替電磁的記録利用者の個人番号カードが失効し、又は公的個人認証法第十五条第一項の規定により当該カード代替電磁的記録利用者の個人番号カード用署名用電子証明書が失効したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条第十項若しくは第十八条の五第八項若しくは第十項の規定により当該カード代替電磁的記録利用者の個人番号カードが失効し、又は公的個人認証法第十五条第一項の規定により当該カード代替電磁的記録利用者の個人番号カード用署名用電子証明書が失効したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -931,12 +932,79 @@
           </Paragraph>
         </Article>
         <Article Num="18_5">
-          <ArticleCaption>（個人番号カードの発行等に関する手数料）</ArticleCaption>
+          <ArticleCaption>（特定在留カード等の交付に伴う措置等）</ArticleCaption>
           <ArticleTitle>第十八条の五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">機構は、第十六条の二第一項、第五項及び第七項並びに第十七条第三項の規定による個人番号カードの発行に係る事務並びに第十八条の二第三項及び第十一項の規定によるカード代替電磁的記録の発行に係る事務（第三項において「カード代替電磁的記録発行事務」という。）に関し、機構が定める額の手数料を徴収することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、出入国管理及び難民認定法（昭和二十六年政令第三百十九号。以下この条において「入管法」という。）第十九条の十五の二第一項若しくは第二項又は日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号。以下この条において「入管特例法」という。）第十六条の二第一項から第三項までの規定による入管法第十九条の十五の二第一項に規定する特定在留カード又は入管特例法第十六条の二第一項に規定する特定特別永住者証明書（以下この条において「特定在留カード等」という。）の交付の申請（以下この条において「特定在留カード等交付申請」という。）があった場合には、機構に対し、当該特定在留カード等交付申請があった旨を通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、前項の規定による通知があった場合には、出入国在留管理庁長官が入管法第十九条の十五の二第四項又は入管特例法第十六条の二第五項の規定により作成する特定在留カード等について、個人番号の記載及びその電磁的方法による記録その他個人番号カードとしての機能を付加するための措置として主務省令で定める措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、入管法第十九条の十五の二第四項又は入管特例法第十六条の二第五項の規定により特定在留カード等を作成した場合には、当該特定在留カード等の交付を受けようとする者が記録されている住民基本台帳を備える市町村の長（以下この条及び次条第三項第二号において「住所地市町村長」という。）に対し、当該特定在留カード等を作成した旨を通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">住所地市町村長は、前項の規定による通知があった場合には、当該特定在留カード等の交付を受けようとする者に係る住民票に記載されている氏名及び出生の年月日その他の個人を識別するための事項であって政令で定めるもの並びに当該住民票に記載されている個人番号を確認する措置をとらなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該住所地市町村長は、当該措置をとった旨を出入国在留管理庁長官に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、入管法第十九条の十五の二第五項から第七項まで又は入管特例法第十六条の二第六項から第九項までの規定により特定在留カード等を交付する場合には、特定在留カード等交付申請又は当該特定在留カード等交付申請に係る当該特定在留カード等の引渡しの際に、当該特定在留カード等の交付を受けようとする者からその者の氏名及び出生の年月日その他の個人を識別するための事項が記載された書類であって政令で定めるものの提示を受け、その者が当該書類に係る者であることを確認する措置（これに準ずるものとして主務省令で定める措置を含む。）をとらなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定在留カード等交付申請が、入管法第十九条の十五の二第二項又は入管特例法第十六条の二第一項若しくは第二項の規定により住所地市町村長（同条第一項の申請が同条第十一項の規定により住所地市町村長以外の市町村長を経由してされた場合には、当該市町村長。以下この項及び次条第三項第二号において同じ。）を経由してされた場合には、当該住所地市町村長は、出入国在留管理庁長官に代わって前項に規定する措置をとるものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該住所地市町村長は、当該措置をとった旨を出入国在留管理庁長官に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、入管法第十九条の十五の二第五項若しくは第七項若しくは入管特例法第十六条の二第八項若しくは第九項の規定により特定在留カード等を交付した場合、特定在留カード等の所持を失った者から、入管法第十九条の十二第一項の規定により入管法第十九条の三に規定する在留カードの再交付の申請がされた場合若しくは入管特例法第十三条第一項の規定により入管特例法第七条第一項に規定する特別永住者証明書の再交付の申請がされた場合（当該再交付の申請が住所地市町村長を経由してされた場合を除く。）又は入管法第十九条の十五若しくは第十九条の十五の四第二項若しくは入管特例法第十六条若しくは第十六条の三第二項の規定により特定在留カード等が返納された場合（入管法第十九条の十五の二第九項後段又は入管特例法第十六条第三項の規定により住所地市町村長を経由して返納された場合を除く。）には、その旨を住所地市町村長に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">個人番号カードの交付を受けている者は、入管法第十九条の十五の二第五項から第七項まで又は入管特例法第十六条の二第六項から第九項までの規定により特定在留カード等の交付を受ける場合には、特定在留カード等交付申請又は当該特定在留カード等交付申請に係る当該特定在留カード等の引渡しの際に、政令で定めるところにより、当該個人番号カードを直接に又は出入国在留管理庁長官を経由して住所地市町村長に返納しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、当該個人番号カードは、その効力を失う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">入管法第十九条の十五の二第五項から第七項まで又は入管特例法第十六条の二第六項から第九項までの規定により交付された特定在留カード等は、この法律（第十七条第六項から第九項まで及び第十三項並びに前項を除く。）の規定及び当該規定に基づく命令の規定並びに個人番号カードの利用に関する他の法令（第十八条の規定に基づく条例を含む。）の規定の適用については、第十七条第一項の規定により交付された個人番号カードとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定在留カード等が入管法第十九条の十四又は入管特例法第十五条の規定によりその効力を失った場合には、前項の規定により第十七条第一項の規定により交付された個人番号カードとみなされた場合における当該個人番号カードも、その効力を失う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18_6">
+          <ArticleCaption>（個人番号カードの発行等に関する手数料）</ArticleCaption>
+          <ArticleTitle>第十八条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第十六条の二第一項、第五項及び第七項並びに第十七条第三項の規定による個人番号カードの発行に係る事務、第十八条の二第三項及び第十一項の規定によるカード代替電磁的記録の発行に係る事務（第三項において「カード代替電磁的記録発行事務」という。）並びに前条第二項に規定する措置に係る事務に関し、機構が定める額の手数料を徴収することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -948,8 +1016,30 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">機構は、第一項の手数料（カード代替電磁的記録発行事務に関するものを除く。）の徴収の事務を交付市町村長（第十七条第二項又は第四項の規定により交付市町村長以外の市町村長が同条第一項第二号に掲げる措置をとる場合にあっては、当該市町村長）に委託することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第一項の手数料（カード代替電磁的記録発行事務に関するものを除く。）の徴収の事務を次の各号に掲げる手数料の区分に応じ、当該各号に定める者に委託することができる。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第十六条の二第一項、第五項及び第七項並びに第十七条第三項の規定による個人番号カードの発行に係る事務に関する手数料</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">交付市町村長（同条第二項又は第四項の規定により交付市町村長以外の市町村長が同条第一項第二号に掲げる措置をとる場合にあっては、当該市町村長）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前条第二項に規定する措置に係る事務に関する手数料</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官（同条第六項の規定により住所地市町村長が同条第五項に規定する措置をとる場合にあっては、当該住所地市町村長）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
       </Chapter>
@@ -2084,7 +2174,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">主務大臣は、個人番号カード関係事務（第十六条の二、第十七条第三項並びに第十八条の二第二項、第三項、第八項及び第十項から第十三項までの規定により機構が処理する事務並びに公的個人認証法第三十九条第一項に規定する認証事務をいう。以下この条から第三十八条の十二までにおいて同じ。）の実施に関し、三年以上五年以下の期間において機構が達成すべき業務運営に関する目標（以下「中期目標」という。）を定め、これを機構に指示するとともに、公表しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、個人番号カード関係事務（第十六条の二、第十七条第三項、第十八条の二第二項、第三項、第八項及び第十項から第十三項まで並びに第十八条の五第二項の規定により機構が処理する事務並びに公的個人認証法第三十九条第一項に規定する認証事務をいう。以下この条から第三十八条の十二までにおいて同じ。）の実施に関し、三年以上五年以下の期間において機構が達成すべき業務運営に関する目標（以下「中期目標」という。）を定め、これを機構に指示するとともに、公表しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">これを変更したときも、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -2394,7 +2484,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第七条第一項及び第二項、第八条第一項（附則第三条第四項において準用する場合を含む。）、第十六条の二第二項及び第六項、第十七条第一項から第五項まで及び第七項（同条第八項において準用する場合を含む。）、第二十一条の二第二項（情報提供者が第九条第三項の法務大臣である場合における通知に係る部分に限り、第二十六条において準用する場合を含む。）並びに附則第三条第一項から第三項までの規定により市町村が処理することとされている事務は、地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第七条第一項及び第二項、第八条第一項（附則第三条第四項において準用する場合を含む。）、第十六条の二第二項及び第六項、第十七条第一項から第五項まで及び第七項（同条第八項において準用する場合を含む。）、第十八条の五第四項及び第六項、第二十一条の二第二項（情報提供者が第九条第三項の法務大臣である場合における通知に係る部分に限り、第二十六条において準用する場合を含む。）並びに附則第三条第一項から第三項までの規定により市町村が処理することとされている事務は、地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5894,6 +5984,16 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="2">
+        <ArticleCaption>（行政手続における特定の個人を識別するための番号の利用等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第三号に掲げる規定の施行の際現に発行されている個人番号カードの記載事項及び個人番号利用事務等実施者（行政手続における特定の個人を識別するための番号の利用等に関する法律第十二条に規定する個人番号利用事務等実施者をいう。）が当該個人番号カードの提示を受けた場合における本人確認の措置については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="7">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
@@ -6068,6 +6168,16 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="11">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
@@ -6222,6 +6332,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="2">
+        <ArticleCaption>（調整規定）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日が出入国管理及び難民認定法等の一部を改正する法律（令和六年法律第五十九号）の施行の日（次条において「入管法等改正法施行日」という。）前である場合には、同法第三条のうち行政手続における特定の個人を識別するための番号の利用等に関する法律別表三十一の二の項の改正規定中「別表三十一の二の項」とあるのは、「別表三十一の三の項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="4">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
@@ -6229,6 +6349,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前二条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -6356,6 +6489,14 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">六の二　海難審判所長</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">海難審判法（昭和二十二年法律第百三十五号）による海事補佐人の登録に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">七　厚生労働大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6436,10 +6577,26 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十四の二　都道府県知事</Sentence>
+              <Sentence Num="1" WritingMode="vertical">十四の二　日本公認会計士協会</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">公認会計士法（昭和二十三年法律第百三号）による公認会計士、外国公認会計士又は特定社員の登録に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">十四の三　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">母体保護法（昭和二十三年法律第百五十六号）による指定（同法第十五条第一項の指定をいう。）に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">十四の四　都道府県知事</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">消防法（昭和二十三年法律第百八十六号）による危険物取扱者免状又は消防設備士免状の交付に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6487,7 +6644,7 @@
               <Sentence Num="1" WritingMode="vertical">十九の二　厚生労働大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">医療法（昭和二十三年法律第二百五号）による認定（同法第五条の二第一項の認定をいう。）に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医療法（昭和二十三年法律第二百五号）による認定（同法第五条の二第一項の認定をいう。）又は許可（同法第六条の六第一項の許可をいう。）に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6500,15 +6657,31 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十九の四　都道府県教育委員会</Sentence>
+              <Sentence Num="1" WritingMode="vertical">十九の四　都道府県教育委員会又は構造改革特別区域法（平成十四年法律第百八十九号）第十九条第一項の規定による認定を受けた市町村の教育委員会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">教育職員免許法（昭和二十四年法律第百四十七号）による教育職員の免許に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">教育職員免許法（昭和二十四年法律第百四十七号）（構造改革特別区域法により読み替えて適用する場合を含む。）による教育職員の免許に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十九の五　厚生労働大臣又は都道府県知事</Sentence>
+              <Sentence Num="1" WritingMode="vertical">十九の五　農林水産大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">獣医師法（昭和二十四年法律第百八十六号）による獣医師の免許に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">十九の六　国土交通大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">海上運送法（昭和二十四年法律第百八十七号）による安全統括管理者資格者証又は運航管理者資格者証の交付に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">十九の七　厚生労働大臣又は都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">死体解剖保存法（昭和二十四年法律第二百四号）による認定（同法第二条第一項第一号の認定をいう。）に関する事務であって主務省令で定めるもの</Sentence>
@@ -6516,7 +6689,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十九の六　都道府県知事</Sentence>
+              <Sentence Num="1" WritingMode="vertical">十九の八　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">通訳案内士法（昭和二十四年法律第二百十号）による全国通訳案内士の登録に関する事務であって主務省令で定めるもの</Sentence>
@@ -6524,7 +6697,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十九の七　通訳案内士法第五十四条第三項の同意を得た市町村又は都道府県の長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">十九の九　通訳案内士法第五十四条第三項の同意を得た市町村又は都道府県の長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">通訳案内士法による地域通訳案内士の登録に関する事務であって主務省令で定めるもの</Sentence>
@@ -6564,6 +6737,14 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">二十二の二　総務大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">電波法（昭和二十五年法律第百三十一号）による無線従事者の免許又は船舶局無線従事者証明書の交付に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">二十三　都道府県知事等</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6572,7 +6753,31 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十三の二　国土交通大臣</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十三の二　経済産業大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">火薬類取締法（昭和二十五年法律第百四十九号）による甲種火薬類製造保安責任者免状又は乙種火薬類製造保安責任者免状の交付に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">二十三の三　都道府県知事</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">火薬類取締法による丙種火薬類製造保安責任者免状又は火薬類取扱保安責任者免状の交付に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">二十三の四　日本司法書士会連合会</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">司法書士法（昭和二十五年法律第百九十七号）による司法書士の登録に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">二十三の五　国土交通大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">建築基準法（昭和二十五年法律第二百一号）による建築物調査員資格者証若しくは建築設備等検査員資格者証の交付又は建築基準適合判定資格者若しくは構造計算適合判定資格者の登録に関する事務であって主務省令で定めるもの</Sentence>
@@ -6580,7 +6785,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十三の三　国土交通大臣</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十三の六　国土交通大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">建築士法（昭和二十五年法律第二百二号）による一級建築士の免許に関する事務であって主務省令で定めるもの</Sentence>
@@ -6588,7 +6793,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十三の四　都道府県知事</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十三の七　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">建築士法による二級建築士又は木造建築士の免許に関する事務であって主務省令で定めるもの</Sentence>
@@ -6596,7 +6801,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十三の五　都道府県知事</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十三の八　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">クリーニング業法（昭和二十五年法律第二百七号）によるクリーニング師の免許に関する事務であって主務省令で定めるもの</Sentence>
@@ -6604,7 +6809,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十三の六　都道府県知事</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十三の九　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">家畜改良増殖法（昭和二十五年法律第二百九号）による家畜人工授精師の免許に関する事務であって主務省令で定めるもの</Sentence>
@@ -6628,7 +6833,15 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十五の二　日本行政書士会連合会</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十五の二　日本土地家屋調査士会連合会</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">土地家屋調査士法（昭和二十五年法律第二百二十八号）による土地家屋調査士の登録に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">二十五の三　日本行政書士会連合会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">行政書士法（昭和二十六年法律第四号）による行政書士の登録に関する事務であって主務省令で定めるもの</Sentence>
@@ -6636,7 +6849,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十五の三　国土交通大臣</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十五の四　国土交通大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">海事代理士法（昭和二十六年法律第三十二号）による海事代理士の登録に関する事務であって主務省令で定めるもの</Sentence>
@@ -6684,6 +6897,14 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">二十七の二　経済産業大臣又は都道府県知事</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">高圧ガス保安法（昭和二十六年法律第二百四号）による高圧ガス製造保安責任者免状又は高圧ガス販売主任者免状の交付に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">二十八　厚生労働大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -6716,10 +6937,26 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">三十一の二　法務大臣</Sentence>
+              <Sentence Num="1" WritingMode="vertical">三十一の二　外務大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法（昭和二十六年政令第三百十九号）による外国人の在留資格に係る許可に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">旅券法（昭和二十六年法律第二百六十七号）による旅券又は渡航書の発給に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">三十一の三　法務大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法による外国人の在留資格に係る許可に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">三十一の四　出入国在留管理庁長官</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法による外国人の出入国又は在留の管理に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6732,10 +6969,42 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">三十二の二　国土交通大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">宅地建物取引業法（昭和二十七年法律第百七十六号）による宅地建物取引業の免許に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">三十二の三　都道府県知事</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">宅地建物取引業法による宅地建物取引業の免許又は宅地建物取引士の登録に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">三十二の四　国土交通大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">航空法（昭和二十七年法律第二百三十一号）による耐空検査員の認定、航空従事者技能証明書の交付、操縦技能審査員の認定、運航管理者技能検定の実施又は無人航空機操縦者技能証明書の交付に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">三十三　防衛大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">防衛省の職員の給与等に関する法律による療養の給付若しくは入院時食事療養費、入院時生活療養費、保険外併用療養費、療養費、訪問看護療養費、移送費、高額療養費若しくは高額介護合算療養費の支給若しくはこれらに準ずる給付若しくは支給又は若年定年退職者給付金の支給に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">三十三の二　国税庁長官</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">酒税法（昭和二十八年法律第六号）による酒類の製造免許、酒母若しくはもろみの製造免許又は酒類の販売業免許に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6760,6 +7029,14 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">国税収納金整理資金に関する法律（昭和二十九年法律第三十六号）による国税等（同法第八条第一項に規定する国税等をいう。）の徴収若しくは収納又は債権者への支払に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">三十六の二　経済産業大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">ガス事業法（昭和二十九年法律第五十一号）によるガス主任技術者免状の交付に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -6796,7 +7073,23 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">三十九の三　国土交通大臣又は環境大臣</Sentence>
+              <Sentence Num="1" WritingMode="vertical">三十九の三　原子力規制委員会</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）による核燃料取扱主任者免状又は原子炉主任技術者免状の交付に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">三十九の四　原子力規制委員会</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">放射性同位元素等の規制に関する法律（昭和三十二年法律第百六十七号）による放射線取扱主任者免状の交付に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">三十九の五　国土交通大臣又は環境大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">水道法（昭和三十二年法律第百七十七号）による給水装置工事主任技術者免状の交付に関する事務であって主務省令で定めるもの</Sentence>
@@ -6935,6 +7228,22 @@
               <Sentence Num="1" WritingMode="vertical">五十三の二　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">電気工事士法（昭和三十五年法律第百三十九号）による電気工事士免状の交付に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">五十三の三　経済産業大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">電気工事士法による特種電気工事資格者認定証又は認定電気工事従事者認定証の交付に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">五十三の四　都道府県知事</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号）による登録販売者の登録に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
@@ -7004,6 +7313,14 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">六十一の二　経済産業大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">中小企業支援法（昭和三十八年法律第百四十七号）による中小企業の経営診断の業務に従事する者の登録に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">六十二　厚生労働大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -7048,6 +7365,14 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">特別児童扶養手当等の支給に関する法律による障害児福祉手当若しくは特別障害者手当又は国民年金法等の一部を改正する法律（昭和六十年法律第三十四号。以下この表において「昭和六十年法律第三十四号」という。）附則第九十七条第一項の福祉手当の支給に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">六十七の二　経済産業大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">電気事業法（昭和三十九年法律第百七十号）による主任技術者免状の交付に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7124,6 +7449,14 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">七十五の二　財務大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">通関業法（昭和四十二年法律第百二十二号）による確認（同法第三十一条第一項の確認をいう。）に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">七十六　石炭鉱業年金基金</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -7132,7 +7465,15 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">七十六の二　厚生労働大臣</Sentence>
+              <Sentence Num="1" WritingMode="vertical">七十六の二　都道府県知事</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">液化石油ガスの保安の確保及び取引の適正化に関する法律（昭和四十二年法律第百四十九号）による液化石油ガス設備士免状の交付に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">七十六の三　厚生労働大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">社会保険労務士法（昭和四十三年法律第八十九号）による社会保険労務士試験又は紛争解決手続代理業務試験の実施に関する事務であって主務省令で定めるもの</Sentence>
@@ -7191,7 +7532,7 @@
               <Sentence Num="1" WritingMode="vertical">七十九　預金保険機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">預金保険法（昭和四十六年法律第三十四号）による預金等に係る債権の額の把握に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険法（昭和四十六年法律第三十四号）による保険金の支払、預金等に係る債権の額の把握又は預金等債権（同法第七十条第一項に規定する預金等債権をいう。）の買取りに関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7223,7 +7564,7 @@
               <Sentence Num="1" WritingMode="vertical">八十二　農水産業協同組合貯金保険機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">農水産業協同組合貯金保険法（昭和四十八年法律第五十三号）による貯金等に係る債権の額の把握に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">農水産業協同組合貯金保険法（昭和四十八年法律第五十三号）による保険金の支払、貯金等に係る債権の額の把握又は貯金等債権（同法第七十条第一項に規定する貯金等債権をいう。）の買取りに関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7264,6 +7605,22 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律による後期高齢者医療給付の支給、保険料の徴収又は同法第百二十五条第一項の高齢者保健事業若しくは同条第五項の事業の実施に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">八十五の二　文部科学大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">技術士法（昭和五十八年法律第二十五号）による技術士又は技術士補の登録に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">八十五の三　総務大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">電気通信事業法による電気通信主任技術者資格者証又は工事担任者資格者証の交付に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7319,7 +7676,15 @@
               <Sentence Num="1" WritingMode="vertical">九十一の二　出入国在留管理庁長官</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号）による特別永住者証明書の交付に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法による特別永住者証明書の交付に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">九十一の三　経済産業大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">計量法（平成四年法律第五十一号）による計量士の登録に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7388,6 +7753,14 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">九十九の二　預金保険機構</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">金融機関等の更生手続の特例等に関する法律（平成八年法律第九十五号）による更生手続に属する行為（同法第三百九十五条本文に規定する行為をいう。）、再生手続に属する行為（同法第四百六十六条本文に規定する行為をいう。）又は破産手続に属する行為（同法第五百七条本文に規定する行為をいう。）の実施に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">百　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -7436,10 +7809,26 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">百五の二　国土交通大臣</Sentence>
+              <Sentence Num="1" WritingMode="vertical">百五の二　弁理士法（平成十二年法律第四十九号）第十一条第二号に規定する審議会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">マンションの管理の適正化の推進に関する法律（平成十二年法律第百四十九号）によるマンション管理士の登録に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">弁理士法による弁理士試験の執行に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">百五の三　農水産業協同組合貯金保険機構</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">農水産業協同組合の再生手続の特例等に関する法律（平成十二年法律第九十五号）による再生手続に属する行為（同法第十九条本文に規定する行為をいう。）又は破産手続に属する行為（同法第四十条本文に規定する行為をいう。）の実施に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">百五の四　国土交通大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">マンションの管理の適正化の推進に関する法律（平成十二年法律第百四十九号）によるマンション管理士、マンション管理業者又は管理業務主任者の登録に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7516,10 +7905,50 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">百十四の二　日本公認会計士協会</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">公認会計士法の一部を改正する法律（平成十五年法律第六十七号）附則第二条第一項の規定によりなおその効力を有するものとされた同法第二条の規定による改正前の公認会計士法による会計士補の登録に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">百十五　独立行政法人日本学生支援機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">独立行政法人日本学生支援機構法（平成十五年法律第九十四号）による学資の貸与及び支給に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">百十五の二　市町村長</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">武力攻撃事態等における国民の保護のための措置に関する法律（平成十六年法律第百十二号）による避難住民の誘導に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">百十五の三　都道府県知事</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">武力攻撃事態等における国民の保護のための措置に関する法律による避難住民及び武力攻撃災害若しくは緊急対処事態における災害による被災者の救援の実施又は医療関係者に対する実費の弁償に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">百十五の四　総務大臣又は地方公共団体の長</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">武力攻撃事態等における国民の保護のための措置に関する法律による安否情報の収集又は提供に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">百十五の五　地方公共団体の長</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">武力攻撃事態等における国民の保護のための措置に関する法律による損害の補償（同法第百六十条第一項又は第二項（これらの規定を同法第百八十三条において準用する場合を含む。）の規定による補償をいう。）に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7680,6 +8109,22 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">地方税法等の一部を改正する等の法律（平成二十八年法律第十三号）附則第三十一条第二項の規定によりなおその効力を有するものとされた同法第九条の規定による廃止前の地方法人特別税等に関する暫定措置法（平成二十年法律第二十五号）による地方法人特別税の賦課徴収又は地方法人特別税に関する調査（犯則事件の調査を含む。）に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">百三十三の二　農林水産大臣又は環境大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">愛玩動物看護師法（令和元年法律第五十号）による愛玩動物看護師の免許に関する事務であって主務省令で定めるもの</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">百三十三の三　国土交通大臣</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">賃貸住宅の管理業務等の適正化に関する法律（令和二年法律第六十号）による賃貸住宅管理業者の登録に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>

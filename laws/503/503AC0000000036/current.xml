@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Reiwa" Year="03" Num="036" PromulgateMonth="5" PromulgateDay="19" LawType="Act"><LawNum>令和三年法律第三十六号</LawNum><LawBody><LawTitle Kana="でじたるちょうせっちほう" Abbrev="" AbbrevKana="">デジタル庁設置法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　デジタル庁の設置並びに任務及び所掌事務</ChapterTitle>
+        <ArticleRange>（第二条―第四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　組織</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <ArticleRange>（第五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　デジタル庁の長及びデジタル庁に置かれる特別な職</SectionTitle>
+          <ArticleRange>（第六条―第十二条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　デジタル庁に置かれる職</SectionTitle>
+          <ArticleRange>（第十三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　デジタル社会推進会議</SectionTitle>
+          <ArticleRange>（第十四条・第十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="5">
+          <SectionTitle>第五節　雑則</SectionTitle>
+          <ArticleRange>（第十六条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第十七条・第十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、デジタル庁の設置並びに任務及びこれを達成するため必要となる明確な範囲の所掌事務を定めるとともに、その所掌する行政事務を能率的に遂行するため必要な組織に関する事項を定めることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　デジタル庁の設置並びに任務及び所掌事務</ChapterTitle>
+        <Article Num="2">
+          <ArticleCaption>（設置）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣に、デジタル庁を置く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（任務）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">デジタル庁は、次に掲げることを任務とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル社会形成基本法（令和三年法律第三十五号）第二章に定めるデジタル社会（同法第二条に規定するデジタル社会をいう。以下同じ。）の形成についての基本理念（次号において「基本理念」という。）にのっとり、デジタル社会の形成に関する内閣の事務を内閣官房と共に助けること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">基本理念にのっとり、デジタル社会の形成に関する行政事務の迅速かつ重点的な遂行を図ること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（所掌事務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">デジタル庁は、前条第一号の任務を達成するため、行政各部の施策の統一を図るために必要となる次に掲げる事務をつかさどる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル社会の形成のための施策に関する基本的な方針に関する企画及び立案並びに総合調整に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">関係行政機関が講ずるデジタル社会の形成のための施策の実施の推進に関すること（サイバーセキュリティ基本法（平成二十六年法律第百四号）第二十六条第一項に掲げる事務のうちサイバーセキュリティに関する施策で重要なものの実施の推進に関するものを除く。）。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、デジタル社会の形成のための施策に関する企画及び立案並びに総合調整に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">デジタル庁は、前条第二号の任務を達成するため、次に掲げる事務をつかさどる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル社会の形成に関する重点計画（デジタル社会形成基本法第三十九条第一項に規定する重点計画をいう。）の作成及び推進に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">官民データ活用推進基本計画（官民データ活用推進基本法（平成二十八年法律第百三号）第八条第一項に規定する官民データ活用推進基本計画をいう。）の作成及び推進に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">行政手続における特定の個人又は法人その他の団体を識別するための番号、記号その他の符号の利用に関する総合的かつ基本的な政策の企画及び立案並びに推進に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第五項に規定する個人番号、同条第七項に規定する個人番号カード、同条第八項に規定するカード代替電磁的記録及び同条第十六項に規定する法人番号の利用並びに同法第二十一条第一項の規定による情報提供ネットワークシステムの設置及び管理に関すること（他の府省の所掌に属するものを除く。）。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律（令和三年法律第三十八号）の規定による公的給付支給等口座登録簿への登録及び特定公的給付の指定に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律（令和三年法律第三十九号）の規定による預貯金者の意思に基づく個人番号の利用による預貯金口座の管理及び災害時又は相続時における預貯金口座に関する情報の提供に関する制度に関すること（他の府省の所掌に属するものを除く。）。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">情報通信技術を用いた本人確認に関する総合的かつ基本的な政策の企画及び立案並びに推進に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">情報通信技術を用いた本人確認の信頼性の確保及び利用の促進を図る観点からの、商業登記法（昭和三十八年法律第百二十五号）第十二条の二第一項、第三項及び第八項の規定による証明に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">電子署名及び認証業務に関する法律（平成十二年法律第百二号）第二条第一項に規定する電子署名に関すること（法務省の所掌に属するものを除く。）。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第十七条第四項に規定する署名検証者及び同法第三十六条第二項に規定する利用者証明検証者に関すること（総務省の所掌に属するものを除く。）。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">電子委任状の普及の促進に関する法律（平成二十九年法律第六十四号）第二条第一項に規定する電子委任状に関すること（総務省の所掌に属するものを除く。）。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">複数の国の行政機関、地方公共団体その他の公共機関及び民間事業者が利用する官民データ（官民データ活用推進基本法第二条第一項に規定する官民データをいう。）に係るデータの標準化（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第四条第二項第五号イに規定するデータの標準化をいう。）に係る総合的かつ基本的な政策の企画及び立案並びに推進に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">外部連携機能（情報通信技術を活用した行政の推進等に関する法律第四条第二項第五号ハに規定する外部連携機能をいう。）に関する総合的かつ基本的な政策の企画及び立案並びに推進に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公的基礎情報データベース（デジタル社会形成基本法第三十一条に規定する公的基礎情報データベースをいう。）の整備及び利用に関する総合的かつ基本的な政策の企画及び立案並びに推進に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="15">
+              <ItemTitle>十五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国の行政機関、地方公共団体その他の公共機関及び公共分野の民間事業者の情報システムの整備及び管理の基本的な方針の作成及び推進に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="16">
+              <ItemTitle>十六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">情報システム整備計画（情報通信技術を活用した行政の推進等に関する法律第四条第一項に規定する情報システム整備計画をいう。第十八号イ及びハにおいて同じ。）の作成及び推進に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="17">
+              <ItemTitle>十七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国の行政機関が行う情報システムの整備及び管理に関する行政各部の事業を統括し及び監理すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="18">
+              <ItemTitle>十八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国の行政機関が行う情報システム（国の安全等に関するものその他の政令で定めるものを除く。以下この号において同じ。）の整備及び管理に関する事業を、次に定めるところにより、実施すること。</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国の行政機関が行う情報システムの整備及び管理に関する事業に必要な予算を、第十五号の方針及び情報システム整備計画に基づき、一括して要求し、確保すること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国の行政機関が行う情報システムの整備及び管理に関する事業の実施に関する計画を定めること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国の行政機関が行う情報システムの整備及び管理に関する事業について、第十五号の方針及び情報システム整備計画に基づき当該事業の全部若しくは一部を自ら執行し、又は関係行政機関に、予算を配分するとともに、同号の方針及び情報システム整備計画並びにロの計画その他必要な事項を通知することにより、当該通知の内容に基づき当該事業の全部若しくは一部を当該事業に係る支出負担行為の実施計画に関する書類の作製を含め執行させること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="19">
+              <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国の行政機関が共用する情報システムの整備及び管理に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="20">
+              <ItemTitle>二十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">情報通信技術を活用した行政の推進等に関する法律第十三条第三項の規定による情報交換システムの整備及び管理に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="21">
+              <ItemTitle>二十一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">情報通信技術を活用した行政の推進等に関する法律第二十三条第二項に規定する共同利用クラウド・コンピューティング・サービスの共同利用に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="22">
+              <ItemTitle>二十二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル社会の形成に関する関係行政機関の事務の調整に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="23">
+              <ItemTitle>二十三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">所掌事務に係る国際協力に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="24">
+              <ItemTitle>二十四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、専らデジタル社会の形成を目的とする事務及び事業に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="25">
+              <ItemTitle>二十五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、法律（法律に基づく命令を含む。）に基づきデジタル庁に属させられた事務</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　組織</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　通則</SectionTitle>
+          <Article Num="5">
+            <ArticleCaption>（組織の構成）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁の組織は、任務及びこれを達成するため必要となる明確な範囲の所掌事務を有する行政機関により系統的に構成され、かつ、デジタル社会の形成に関する内閣の課題に弾力的に対応できるものとしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁は、内閣の統轄の下に、その政策について、自ら評価し、企画及び立案を行い、並びに内閣府及び国家行政組織法（昭和二十三年法律第百二十号）第一条の国の行政機関と相互の調整を図るとともに、その相互の連絡を図り、全て、一体として、行政機能を発揮しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　デジタル庁の長及びデジタル庁に置かれる特別な職</SectionTitle>
+          <Article Num="6">
+            <ArticleCaption>（デジタル庁の長）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁の長は、内閣総理大臣とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、デジタル庁に係る事項についての内閣法（昭和二十二年法律第五号）にいう主任の大臣とし、第四条第二項に規定する事務を分担管理する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="7">
+            <ArticleCaption>（内閣総理大臣の権限）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、デジタル庁の事務を統括し、職員の服務について統督する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、デジタル庁に係る主任の行政事務について、法律又は政令の制定、改正又は廃止を必要と認めるときは、案をそなえて、閣議を求めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、デジタル庁に係る主任の行政事務について、法律若しくは政令を施行するため、又は法律若しくは政令の特別の委任に基づいて、デジタル庁の命令としてデジタル庁令を発することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁令には、法律の委任がなければ、罰則を設け、又は義務を課し、若しくは国民の権利を制限する規定を設けることができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、デジタル庁の所掌事務について、公示を必要とする場合においては、告示を発することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、デジタル庁の所掌事務について、命令又は示達をするため、所管の諸機関及び職員に対し、訓令又は通達を発することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第三条第二号の任務を遂行するため政策について行政機関相互の調整を図る必要があると認めるときは、その必要性を明らかにした上で、関係行政機関の長に対し、必要な資料の提出及び説明を求め、並びに当該関係行政機関の政策に関し意見を述べることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="8">
+            <ArticleCaption>（デジタル大臣）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁に、デジタル大臣を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル大臣は、国務大臣をもって充てる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル大臣は、内閣総理大臣を助け、デジタル庁の事務を統括し、職員の服務について統督する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル大臣は、第四条第一項に規定する事務の遂行のため必要があると認めるときは、関係行政機関の長に対し、必要な資料の提出及び説明を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル大臣は、第四条第一項に規定する事務の遂行のため特に必要があると認めるときは、関係行政機関の長に対し、勧告することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、関係行政機関の長は、当該勧告を十分に尊重しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル大臣は、前項の規定により関係行政機関の長に対し勧告したときは、当該関係行政機関の長に対し、その勧告に基づいてとった措置について報告を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル大臣は、第五項の規定により勧告した事項に関し特に必要があると認めるときは、内閣総理大臣に対し、当該事項について内閣法第六条の規定による措置がとられるよう意見を具申することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（副大臣）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁に、副大臣一人を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁に、前項の副大臣のほか、他省の副大臣の職を占める者をもって充てられる副大臣を置くことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">副大臣は、デジタル大臣の命を受け、政策及び企画をつかさどり、政務を処理する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">各副大臣の行う前項の職務の範囲については、デジタル大臣の定めるところによる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">副大臣の任免は、内閣総理大臣の申出により内閣が行い、天皇がこれを認証する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">副大臣は、内閣総辞職の場合においては、内閣総理大臣その他の国務大臣が全てその地位を失ったときに、これと同時にその地位を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（大臣政務官）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁に、大臣政務官一人を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁に、前項の大臣政務官のほか、他省の大臣政務官の職を占める者をもって充てられる大臣政務官を置くことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">大臣政務官は、デジタル大臣を助け、特定の政策及び企画に参画し、政務を処理する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">各大臣政務官の行う前項の職務の範囲については、デジタル大臣の定めるところによる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">大臣政務官の任免は、内閣総理大臣の申出により、内閣が行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第六項の規定は、大臣政務官について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（デジタル監）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁に、デジタル監一人を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル監は、次に掲げる職務を行う。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">デジタル庁の所掌事務に関する重要事項に関し、デジタル大臣に進言し、及びデジタル大臣の命を受けて、デジタル大臣に意見を具申すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">デジタル大臣を助け、庁務を整理し、デジタル庁の各部局及び機関の事務を監督すること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル監の任免は、内閣総理大臣の申出により、内閣が行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国家公務員法（昭和二十二年法律第百二十号）第九十六条第一項、第九十八条第一項、第九十九条並びに第百条第一項及び第二項の規定は、デジタル監の服務について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル監は、在任中、内閣総理大臣の許可がある場合を除き、報酬を得て他の職務に従事し、又は営利事業を営み、その他金銭上の利益を目的とする業務を行ってはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（デジタル審議官）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁に、デジタル審議官一人を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル審議官は、命を受け、デジタル庁の所掌事務に係る重要な政策に関する事務を総括整理する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　デジタル庁に置かれる職</SectionTitle>
+          <Article Num="13">
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁には、その所掌事務の能率的な遂行のためその一部を所掌する職を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁には、前項の職のつかさどる職務の全部又は一部を助ける職を置くことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の職の設置、職務及び定数は、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　デジタル社会推進会議</SectionTitle>
+          <Article Num="14">
+            <ArticleCaption>（設置及び所掌事務）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">デジタル庁に、デジタル社会推進会議（以下この節において「会議」という。）を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">会議は、次に掲げる事務をつかさどる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">デジタル社会の形成のための施策の実施を推進すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">デジタル社会の形成のための施策について必要な関係行政機関相互の調整をすること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（組織）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">会議は、議長、副議長及び議員をもって組織する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">議長は、内閣総理大臣をもって充てる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">副議長は、内閣官房長官及びデジタル大臣をもって充てる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">議員は、次に掲げる者をもって充てる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">議長及び副議長以外の全ての国務大臣</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">内閣官房副長官、デジタル副大臣若しくは関係府省の副大臣、デジタル大臣政務官若しくは関係府省の大臣政務官又は国務大臣以外の関係行政機関の長のうちから、内閣総理大臣が任命する者</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">会議に、幹事を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">幹事は、関係行政機関の職員のうちから、内閣総理大臣が任命する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">幹事は、会議の所掌事務について、議長、副議長及び議員を助ける。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前各項に定めるもののほか、会議の組織及び運営に関し必要な事項は、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="5">
+          <SectionTitle>第五節　雑則</SectionTitle>
+          <Article Num="16">
+            <ArticleCaption>（政令への委任）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前各節に定めるもののほか、デジタル庁の組織に関し必要な事項は、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Num="17">
+          <ArticleCaption>（職員）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">デジタル庁に、デジタル事務官、デジタル技官その他所要の職員を置く。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">デジタル事務官は、命を受け、事務をつかさどる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">デジタル技官は、命を受け、技術をつかさどる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（国会への報告等）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、第十三条第三項の規定により政令で設置される同条第一項の職につき、その新設、改正及び廃止をしたときは、その状況を次の国会に報告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、少なくとも毎年一回デジタル庁の組織の一覧表を官報で公示するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和三年九月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第六十条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="59">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="60">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第十五条、第十六条、第五十一条及び前三条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="61">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第六十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後十年を経過した場合において、この法律の施行の状況及びデジタル社会の形成の状況を勘案し、デジタル庁の在り方について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十三条及び第十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和三年九月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二章（第八条を除く。）並びに附則第七条（住民基本台帳法（昭和四十二年法律第八十一号）別表第一の十三の項の次に次のように加える改正規定を除く。）、第九条及び第十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十一条及び第十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和三年九月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条及び第二条の規定並びに附則第七条、第十九条及び第二十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月七日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定（デジタル社会形成基本法第二十二条の改正規定を除く。）並びに第三条中行政手続における特定の個人を識別するための番号の利用等に関する法律の目次の改正規定（「第六条」を「第六条の二」に改める部分に限る。次号において同じ。）及び同法第一章に一条を加える改正規定並びに附則第四条、第六条、第七条及び第十二条の規定並びに附則第十三条中デジタル庁設置法（令和三年法律第三十六号）第四条第二項第一号の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条の規定（行政手続における特定の個人を識別するための番号の利用等に関する法律の目次の改正規定、同法第二条第七項の改正規定、同法第一章に一条を加える改正規定並びに同法第十六条にただし書及び各号を加える改正規定（同条ただし書に係る部分に限る。次号において同じ。）を除く。）並びに附則第八条から第十一条までの規定、附則第十三条中デジタル庁設置法第四条第二項第四号の改正規定及び附則第十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一月八日法律第四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
