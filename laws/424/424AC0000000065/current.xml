@@ -115,6 +115,10 @@
         <ChapterTitle>第四章の二　仕事・子育て両立支援事業</ChapterTitle>
         <ArticleRange>（第五十九条の二）</ArticleRange>
       </TOCChapter>
+      <TOCChapter Num="4_3">
+        <ChapterTitle>第四章の三　働き方等の多様化に対応した子育て支援事業</ChapterTitle>
+        <ArticleRange>（第五十九条の三）</ArticleRange>
+      </TOCChapter>
       <TOCChapter Num="5">
         <ChapterTitle>第五章　子ども・子育て支援事業計画</ChapterTitle>
         <ArticleRange>（第六十条―第六十四条）</ArticleRange>
@@ -329,8 +333,20 @@
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「小規模保育」とは、児童福祉法第六条の三第十項に規定する小規模保育事業として行われる保育をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「小規模保育」とは、次に掲げる保育をいう。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">児童福祉法第六条の三第十項に規定する小規模保育事業（同項第三号に掲げる事業を除く。）として行われる保育（第四十三条第二項第二号において「満三歳未満等小規模保育」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">児童福祉法第六条の三第十項に規定する小規模保育事業（同項第三号に掲げる事業に限る。）として行われる保育（以下「満三歳以上限定小規模保育」という。）</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
@@ -991,7 +1007,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">市町村は、教育・保育給付認定子どもが、教育・保育給付認定の有効期間内において、市町村長（特別区の区長を含む。以下同じ。）が施設型給付費の支給に係る施設として確認する教育・保育施設（以下「特定教育・保育施設」という。）から当該確認に係る教育・保育（地域型保育を除き、第十九条第一号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもにあっては認定こども園において受ける教育・保育（保育にあっては、同号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもに対して提供される教育に係る標準的な一日当たりの時間及び期間を勘案して内閣府令で定める一日当たりの時間及び期間の範囲内において行われるものに限る。）又は幼稚園において受ける教育に限り、同条第二号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもにあっては認定こども園において受ける教育・保育又は保育所において受ける保育に限り、満三歳未満保育認定子どもにあっては認定こども園又は保育所において受ける保育に限る。以下「特定教育・保育」という。）を受けたときは、内閣府令で定めるところにより、当該教育・保育給付認定子どもに係る教育・保育給付認定保護者に対し、当該特定教育・保育（保育にあっては、保育必要量の範囲内のものに限る。以下「支給認定教育・保育」という。）に要した費用について、施設型給付費を支給する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">市町村は、教育・保育給付認定子どもが、教育・保育給付認定の有効期間内において、市町村長（特別区の区長を含む。以下同じ。）が施設型給付費の支給に係る施設として確認する教育・保育施設（以下「特定教育・保育施設」という。）から当該確認に係る教育・保育（地域型保育を除き、第十九条第一号に掲げる小学校就学前子どもに該当する教育・保育給付認定子ども（以下「教育認定子ども」という。）にあっては認定こども園において受ける教育・保育（保育にあっては、教育認定子どもに対して提供される教育に係る標準的な一日当たりの時間及び期間を勘案して内閣府令で定める一日当たりの時間及び期間の範囲内において行われるものに限る。）又は幼稚園において受ける教育に限り、同条第二号に掲げる小学校就学前子どもに該当する教育・保育給付認定子ども（以下「満三歳以上保育認定子ども」という。）にあっては認定こども園において受ける教育・保育又は保育所において受ける保育に限り、満三歳未満保育認定子どもにあっては認定こども園又は保育所において受ける保育に限る。以下「特定教育・保育」という。）を受けたときは、内閣府令で定めるところにより、当該教育・保育給付認定子どもに係る教育・保育給付認定保護者に対し、当該特定教育・保育（保育にあっては、保育必要量の範囲内のものに限る。以下「支給認定教育・保育」という。）に要した費用について、施設型給付費を支給する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -1067,13 +1083,13 @@
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第十九条第一号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもが、特定教育・保育施設（保育所に限る。）から特別利用保育（同号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもに対して提供される教育に係る標準的な一日当たりの時間及び期間を勘案して内閣府令で定める一日当たりの時間及び期間の範囲内において行われる保育（地域型保育を除く。）をいう。以下同じ。）を受けたとき（地域における教育の体制の整備の状況その他の事情を勘案して必要があると市町村が認めるときに限る。）。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">教育認定子どもが、特定教育・保育施設（保育所に限る。）から特別利用保育（教育認定子どもに対して提供される教育に係る標準的な一日当たりの時間及び期間を勘案して内閣府令で定める一日当たりの時間及び期間の範囲内において行われる保育（地域型保育を除く。）をいう。以下同じ。）を受けたとき（地域における教育の体制の整備の状況その他の事情を勘案して必要があると市町村が認めるときに限る。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第十九条第二号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもが、特定教育・保育施設（幼稚園に限る。）から特別利用教育（教育のうち同号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもに対して提供されるものをいい、特定教育・保育を除く。以下同じ。）を受けたとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">満三歳以上保育認定子どもが、特定教育・保育施設（幼稚園に限る。）から特別利用教育（教育のうち満三歳以上保育認定子どもに対して提供されるものをいい、特定教育・保育を除く。以下同じ。）を受けたとき。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -1142,13 +1158,35 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">市町村は、満三歳未満保育認定子どもが、教育・保育給付認定の有効期間内において、市町村長が地域型保育給付費の支給に係る事業を行う者として確認する地域型保育を行う事業者（以下「特定地域型保育事業者」という。）から当該確認に係る地域型保育（以下「特定地域型保育」という。）を受けたときは、内閣府令で定めるところにより、当該満三歳未満保育認定子どもに係る教育・保育給付認定保護者に対し、当該特定地域型保育（保育必要量の範囲内のものに限る。以下「満三歳未満保育認定地域型保育」という。）に要した費用について、地域型保育給付費を支給する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">市町村は、次の各号に掲げる教育・保育給付認定子どもが、教育・保育給付認定の有効期間内において、市町村長が地域型保育給付費の支給に係る事業を行う者として確認する地域型保育を行う事業者（以下「特定地域型保育事業者」という。）から当該確認に係る地域型保育（以下「特定地域型保育」という。）のうち当該各号に定めるものを受けたときは、内閣府令で定めるところにより、当該教育・保育給付認定子どもに係る教育・保育給付認定保護者に対し、当該特定地域型保育に要した費用について、地域型保育給付費を支給する。</Sentence>
                 </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">満三歳以上保育認定子ども</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">満三歳以上保育認定子どもを対象とする特定地域型保育（満三歳以上限定小規模保育に限る。）であって、保育必要量の範囲内のもの（以下「満三歳以上限定保育認定地域型保育」という。）</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">満三歳未満保育認定子ども</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">満三歳未満保育認定子どもを対象とする特定地域型保育であって、保育必要量の範囲内のもの（以下「満三歳未満保育認定地域型保育」という。）</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">特定地域型保育事業者から満三歳未満保育認定地域型保育を受けようとする満三歳未満保育認定子どもに係る教育・保育給付認定保護者は、内閣府令で定めるところにより、特定地域型保育事業者に支給認定証を提示して当該満三歳未満保育認定地域型保育を当該満三歳未満保育認定子どもに受けさせるものとする。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">特定地域型保育事業者から満三歳以上限定保育認定地域型保育又は満三歳未満保育認定地域型保育を受けようとする保育認定子ども（満三歳以上保育認定子ども及び満三歳未満保育認定子どもをいう。以下同じ。）に係る教育・保育給付認定保護者は、内閣府令で定めるところにより、特定地域型保育事業者に支給認定証を提示して当該満三歳以上限定保育認定地域型保育又は満三歳未満保育認定地域型保育を当該保育認定子どもに受けさせるものとする。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、緊急の場合その他やむを得ない事由のある場合については、この限りでない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
@@ -1160,7 +1198,7 @@
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">地域型保育の種類ごとに、保育必要量、当該地域型保育の種類に係る特定地域型保育の事業を行う事業所（以下「特定地域型保育事業所」という。）の所在する地域等を勘案して算定される当該特定地域型保育に通常要する費用の額を勘案して内閣総理大臣が定める基準により算定した費用の額（その額が現に当該満三歳未満保育認定地域型保育に要した費用の額を超えるときは、当該現に満三歳未満保育認定地域型保育に要した費用の額）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">地域型保育の種類ごとに、保育必要量、当該地域型保育の種類に係る特定地域型保育の事業を行う事業所（以下「特定地域型保育事業所」という。）の所在する地域等を勘案して算定される当該特定地域型保育に通常要する費用の額を勘案して内閣総理大臣が定める基準により算定した費用の額（その額が現に当該満三歳以上限定保育認定地域型保育又は満三歳未満保育認定地域型保育に要した費用の額を超えるときは、当該額）</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
@@ -1179,7 +1217,7 @@
               <Paragraph Num="5">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">満三歳未満保育認定子どもが特定地域型保育事業者から満三歳未満保育認定地域型保育を受けたときは、市町村は、当該満三歳未満保育認定子どもに係る教育・保育給付認定保護者が当該特定地域型保育事業者に支払うべき当該満三歳未満保育認定地域型保育に要した費用について、地域型保育給付費として当該教育・保育給付認定保護者に支給すべき額の限度において、当該教育・保育給付認定保護者に代わり、当該特定地域型保育事業者に支払うことができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">保育認定子どもが特定地域型保育事業者から満三歳以上限定保育認定地域型保育又は満三歳未満保育認定地域型保育を受けたときは、市町村は、当該保育認定子どもに係る教育・保育給付認定保護者が当該特定地域型保育事業者に支払うべき当該満三歳以上限定保育認定地域型保育又は満三歳未満保育認定地域型保育に要した費用について、地域型保育給付費として当該教育・保育給付認定保護者に支給すべき額の限度において、当該教育・保育給付認定保護者に代わり、当該特定地域型保育事業者に支払うことができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="6">
@@ -1207,30 +1245,30 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">市町村は、次に掲げる場合において、必要があると認めるときは、内閣府令で定めるところにより、当該特定地域型保育（第三号に規定する特定利用地域型保育にあっては、保育必要量の範囲内のものに限る。）に要した費用又は第四号に規定する特例保育（第十九条第二号又は第三号に掲げる小学校就学前子どもに該当する教育・保育給付認定子ども（以下「保育認定子ども」という。）に係るものにあっては、保育必要量の範囲内のものに限る。）に要した費用について、特例地域型保育給付費を支給することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">市町村は、次に掲げる場合において、必要があると認めるときは、内閣府令で定めるところにより、当該特定地域型保育（第三号に規定する特定利用地域型保育にあっては、保育必要量の範囲内のものに限る。）に要した費用又は第四号に規定する特例保育（保育認定子どもに係るものにあっては、保育必要量の範囲内のものに限る。）に要した費用について、特例地域型保育給付費を支給することができる。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">満三歳未満保育認定子どもが、当該満三歳未満保育認定子どもに係る教育・保育給付認定保護者が第二十条第一項の規定による申請をした日から当該教育・保育給付認定の効力が生じた日の前日までの間に、緊急その他やむを得ない理由により特定地域型保育を受けたとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">保育認定子どもが、当該保育認定子どもに係る教育・保育給付認定保護者が第二十条第一項の規定による申請をした日から当該教育・保育給付認定の効力が生じた日の前日までの間に、緊急その他やむを得ない理由により特定地域型保育を受けたとき。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第十九条第一号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもが、特定地域型保育事業者から特定地域型保育（同号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもに対して提供される教育に係る標準的な一日当たりの時間及び期間を勘案して内閣府令で定める一日当たりの時間及び期間の範囲内において行われるものに限る。次項及び附則第九条第一項第三号イにおいて「特別利用地域型保育」という。）を受けたとき（地域における教育の体制の整備の状況その他の事情を勘案して必要があると市町村が認めるときに限る。）。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">教育認定子どもが、特定地域型保育事業者から特定地域型保育（教育認定子どもに対して提供される教育に係る標準的な一日当たりの時間及び期間を勘案して内閣府令で定める一日当たりの時間及び期間の範囲内において行われるものに限る。次項及び附則第九条第一項第三号イにおいて「特別利用地域型保育」という。）を受けたとき（地域における教育の体制の整備の状況その他の事情を勘案して必要があると市町村が認めるときに限る。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第十九条第二号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもが、特定地域型保育事業者から特定利用地域型保育（特定地域型保育のうち同号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもに対して提供されるものをいう。次項において同じ。）を受けたとき（地域における同号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもに係る教育・保育の体制の整備の状況その他の事情を勘案して必要があると市町村が認めるときに限る。）。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">満三歳以上保育認定子どもが、特定地域型保育事業者から特定利用地域型保育（満三歳以上保育認定子どもを対象とする特定地域型保育（満三歳以上限定小規模保育を除く。）をいう。次項において同じ。）を受けたとき（地域における満三歳以上保育認定子どもに係る教育・保育の体制の整備の状況その他の事情を勘案して必要があると市町村が認めるときに限る。）。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">特定教育・保育及び特定地域型保育の確保が著しく困難である離島その他の地域であって内閣総理大臣が定める基準に該当するものに居住地を有する教育・保育給付認定保護者に係る教育・保育給付認定子どもが、特例保育（特定教育・保育及び特定地域型保育以外の保育をいい、第十九条第一号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもに係るものにあっては、同号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもに対して提供される教育に係る標準的な一日当たりの時間及び期間を勘案して内閣府令で定める一日当たりの時間及び期間の範囲内において行われるものに限る。以下同じ。）を受けたとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">特定教育・保育及び特定地域型保育の確保が著しく困難である離島その他の地域であって内閣総理大臣が定める基準に該当するものに居住地を有する教育・保育給付認定保護者に係る教育・保育給付認定子どもが、特例保育（特定教育・保育及び特定地域型保育以外の保育（教育認定子どもに係るものにあっては、教育認定子どもに対して提供される教育に係る標準的な一日当たりの時間及び期間を勘案して内閣府令で定める一日当たりの時間及び期間の範囲内において行われるものに限る。）をいう。以下同じ。）を受けたとき。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -1413,7 +1451,7 @@
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">第十九条第二号に掲げる小学校就学前子どもに該当する教育・保育給付認定子ども（満三歳に達する日以後の最初の三月三十一日までの間にあるものを除く。）に係る教育・保育給付認定保護者</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">満三歳以上保育認定子ども（満三歳に達する日以後の最初の三月三十一日までの間にあるものを除く。）に係る教育・保育給付認定保護者</Sentence>
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">前条第二号に掲げる小学校就学前子ども</Sentence>
@@ -1424,7 +1462,7 @@
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">第十九条第二号に掲げる小学校就学前子どもに該当する教育・保育給付認定子ども（満三歳に達する日以後の最初の三月三十一日までの間にあるものに限る。）又は満三歳未満保育認定子どもに係る教育・保育給付認定保護者（その者及びその者と同一の世帯に属する者が市町村民税世帯非課税者である場合に限る。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">満三歳以上保育認定子ども（満三歳に達する日以後の最初の三月三十一日までの間にあるものに限る。）又は満三歳未満保育認定子どもに係る教育・保育給付認定保護者（その者及びその者と同一の世帯に属する者が市町村民税世帯非課税者である場合に限る。）</Sentence>
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">前条第三号に掲げる小学校就学前子ども</Sentence>
@@ -2282,13 +2320,91 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第二十九条第一項の確認は、内閣府令で定めるところにより、地域型保育事業を行う者の申請により、地域型保育の種類及び当該地域型保育の種類に係る地域型保育事業を行う事業所（以下「地域型保育事業所」という。）ごとに、第十九条第三号に掲げる小学校就学前子どもに係る利用定員（事業所内保育の事業を行う事業所（以下「事業所内保育事業所」という。）にあっては、その雇用する労働者の監護する小学校就学前子どもを保育するため当該事業所内保育の事業を自ら施設を設置し、又は委託して行う事業主に係る当該小学校就学前子ども（当該事業所内保育の事業が、事業主団体に係るものにあっては事業主団体の構成員である事業主の雇用する労働者の監護する小学校就学前子どもとし、共済組合等（児童福祉法第六条の三第十二項第一号ハに規定する共済組合等をいう。）に係るものにあっては共済組合等の構成員（同号ハに規定する共済組合等の構成員をいう。）の監護する小学校就学前子どもとする。以下「労働者等の監護する小学校就学前子ども」という。）及びその他の小学校就学前子どもごとに定める第十九条第三号に掲げる小学校就学前子どもに係る利用定員とする。）を定めて、市町村長が行う。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十九条第一項の確認は、内閣府令で定めるところにより、地域型保育事業を行う者の申請により、地域型保育事業の種類及び事業所ごとに利用定員を定めて、市町村長が行う。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">市町村長は、前項の規定により特定地域型保育事業（特定地域型保育を行う事業をいう。以下同じ。）の利用定員を定めようとするときは、第七十二条第一項の審議会その他の合議制の機関を設置している場合にあってはその意見を、その他の場合にあっては子どもの保護者その他子ども・子育て支援に係る当事者の意見を聴かなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の利用定員は、同項の申請に係る地域型保育事業についての次の各号に掲げる区分に応じ、当該各号に定める利用定員とする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">満三歳以上限定小規模保育の事業</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">第十九条第二号に掲げる小学校就学前子どもに係る利用定員</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">家庭的保育、満三歳未満等小規模保育及び居宅訪問型保育の事業</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">第十九条第三号に掲げる小学校就学前子どもに係る利用定員</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">事業所内保育の事業</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">労働者等監護満三歳未満小学校就学前子どもに係る利用定員及びその他の第十九条第三号に掲げる小学校就学前子どもに係る利用定員</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第三号の「労働者等監護満三歳未満小学校就学前子ども」とは、次の各号に掲げる事業所内保育の事業の区分に応じ、当該各号に定める小学校就学前子どもをいう。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">児童福祉法第六条の三第十二項第一号イに掲げる施設において行う事業所内保育の事業</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">同号イに規定する労働者の監護する第十九条第三号に掲げる小学校就学前子ども</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">児童福祉法第六条の三第十二項第一号ロに掲げる施設において行う事業所内保育の事業</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">同号ロに規定する労働者の監護する第十九条第三号に掲げる小学校就学前子ども</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">児童福祉法第六条の三第十二項第一号ハに掲げる施設において行う事業所内保育の事業</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">同号ハに規定する共済組合等の構成員の監護する第十九条第三号に掲げる小学校就学前子ども</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">市町村長は、第一項の規定により特定地域型保育事業（特定地域型保育を行う事業をいう。以下同じ。）の利用定員を定めようとするときは、第七十二条第一項の審議会その他の合議制の機関を設置している場合にあってはその意見を、その他の場合にあっては子どもの保護者その他子ども・子育て支援に係る当事者の意見を聴かなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2314,19 +2430,19 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">特定地域型保育事業者は、前項の申込みに係る満三歳未満保育認定子ども及び当該特定地域型保育事業者に係る特定地域型保育事業を現に利用している満三歳未満保育認定子どもの総数が、その利用定員の総数を超える場合においては、内閣府令で定めるところにより、同項の申込みに係る満三歳未満保育認定子どもを公正な方法で選考しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定地域型保育事業者は、前項の申込みに係る保育認定子どもに当該申込みに係る特定地域型保育を利用させることとした場合には当該特定地域型保育事業者が行う当該特定地域型保育を利用する保育認定子どもの総数が当該特定地域型保育事業者について定められた利用定員の総数を超えることとなると認めるときは、内閣府令で定めるところにより、当該申込みに係る保育認定子どもを公正な方法で選考しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">特定地域型保育事業者は、満三歳未満保育認定子どもに対し適切な地域型保育を提供するとともに、市町村、教育・保育施設、児童相談所、児童福祉施設、教育機関その他の関係機関との緊密な連携を図りつつ、良質な地域型保育を小学校就学前子どもの置かれている状況その他の事情に応じ、効果的に行うように努めなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定地域型保育事業者は、保育認定子どもに対し適切な特定地域型保育を提供するとともに、市町村、教育・保育施設、児童相談所、児童福祉施設、教育機関その他の関係機関との緊密な連携を図りつつ、良質な特定地域型保育を小学校就学前子どもの置かれている状況その他の事情に応じ、効果的に行うように努めなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">特定地域型保育事業者は、その提供する地域型保育の質の評価を行うことその他の措置を講ずることにより、地域型保育の質の向上に努めなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定地域型保育事業者は、その提供する特定地域型保育の質の評価を行うことその他の措置を講ずることにより、特定地域型保育の質の向上に努めなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="5">
@@ -2624,7 +2740,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">市町村は、特定地域型保育事業に関し必要な情報の提供を行うとともに、教育・保育給付認定保護者から求めがあった場合その他必要と認められる場合には、特定地域型保育事業を利用しようとする満三歳未満保育認定子どもに係る教育・保育給付認定保護者の地域型保育に係る希望、当該満三歳未満保育認定子どもの養育の状況、当該教育・保育給付認定保護者に必要な支援の内容その他の事情を勘案し、当該満三歳未満保育認定子どもが適切に特定地域型保育事業を利用できるよう、相談に応じ、必要な助言又は特定地域型保育事業の利用についてのあっせんを行うとともに、必要に応じて、特定地域型保育事業者に対し、当該満三歳未満保育認定子どもの利用の要請を行うものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">市町村は、特定地域型保育事業に関し必要な情報の提供を行うとともに、教育・保育給付認定保護者から求めがあった場合その他必要と認められる場合には、特定地域型保育事業を利用しようとする保育認定子どもに係る教育・保育給付認定保護者の地域型保育に係る希望、当該保育認定子どもの養育の状況、当該教育・保育給付認定保護者に必要な支援の内容その他の事情を勘案し、当該保育認定子どもが適切に特定地域型保育事業を利用できるよう、相談に応じ、必要な助言又は特定地域型保育事業の利用についてのあっせんを行うとともに、必要に応じて、特定地域型保育事業者に対し、当該保育認定子どもの利用の要請を行うものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -2691,7 +2807,7 @@
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">その確認に係る全ての教育・保育施設、地域型保育事業所（その確認に係る地域型保育の種類が異なるものを含む。次号において同じ。）又は乳児等通園支援事業所が一の市町村の区域に所在する特定教育・保育提供者</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その確認に係る全ての教育・保育施設、地域型保育事業を行う事業所（その確認に係る地域型保育の種類が異なるものを含む。次号において同じ。）又は乳児等通園支援事業所が一の市町村の区域に所在する特定教育・保育提供者</Sentence>
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">市町村長</Sentence>
@@ -2702,7 +2818,7 @@
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">その確認に係る教育・保育施設、地域型保育事業所又は乳児等通園支援事業所が二以上の都道府県の区域に所在する特定教育・保育提供者</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">その確認に係る教育・保育施設、地域型保育事業を行う事業所又は乳児等通園支援事業所が二以上の都道府県の区域に所在する特定教育・保育提供者</Sentence>
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">内閣総理大臣</Sentence>
@@ -2746,7 +2862,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前条第二項の規定による届出を受けた市町村長等は、当該届出を行った特定教育・保育提供者（同条第四項の規定による届出を受けた市町村長等にあっては、同項の規定による届出を行った特定教育・保育提供者を除く。）における同条第一項の規定による業務管理体制の整備に関して必要があると認めるときは、この法律の施行に必要な限度において、当該特定教育・保育提供者に対し、報告若しくは帳簿書類その他の物件の提出若しくは提示を命じ、当該特定教育・保育提供者若しくは当該特定教育・保育提供者の職員に対し出頭を求め、又は当該市町村長等の職員に、関係者に対し質問させ、若しくは当該特定教育・保育提供者の当該確認に係る教育・保育施設、地域型保育事業所若しくは乳児等通園支援事業所、事務所その他の教育・保育等（教育・保育又は乳児等通園支援をいう。以下同じ。）の提供に関係のある場所に立ち入り、その設備若しくは帳簿書類その他の物件を検査させることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第二項の規定による届出を受けた市町村長等は、当該届出を行った特定教育・保育提供者（同条第四項の規定による届出を受けた市町村長等にあっては、同項の規定による届出を行った特定教育・保育提供者を除く。）における同条第一項の規定による業務管理体制の整備に関して必要があると認めるときは、この法律の施行に必要な限度において、当該特定教育・保育提供者に対し、報告若しくは帳簿書類その他の物件の提出若しくは提示を命じ、当該特定教育・保育提供者若しくは当該特定教育・保育提供者の職員に対し出頭を求め、又は当該市町村長等の職員に、関係者に対し質問させ、若しくは当該特定教育・保育提供者の当該確認に係る教育・保育施設、地域型保育事業を行う事業所若しくは乳児等通園支援事業所、事務所その他の教育・保育等（教育・保育又は乳児等通園支援をいう。以下同じ。）の提供に関係のある場所に立ち入り、その設備若しくは帳簿書類その他の物件を検査させることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -3471,6 +3587,24 @@
           </Paragraph>
         </Article>
       </Chapter>
+      <Chapter Num="4_3">
+        <ChapterTitle>第四章の三　働き方等の多様化に対応した子育て支援事業</ChapterTitle>
+        <Article Num="59_3">
+          <ArticleTitle>第五十九条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、子どもを養育する者の働き方及び生活様式の多様化を踏まえ、仕事・子育て両立支援事業の対象とならない者の子育てに対する支援の充実を図るため、働き方等の多様化に対応した子育て支援事業として、一歳未満の子どもを養育する国民年金の被保険者に対して経済的支援を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の経済的支援は、国民年金法（昭和三十四年法律第百四十一号）第八十八条の三の定めるところによる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
       <Chapter Num="5">
         <ChapterTitle>第五章　子ども・子育て支援事業計画</ChapterTitle>
         <Article Num="60">
@@ -3479,7 +3613,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、教育・保育等及び地域子ども・子育て支援事業の提供体制を整備し、子ども・子育て支援給付並びに地域子ども・子育て支援事業及び仕事・子育て両立支援事業の円滑な実施の確保その他子ども・子育て支援のための施策を総合的に推進するための基本的な指針（以下「基本指針」という。）を定めるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、教育・保育等及び地域子ども・子育て支援事業の提供体制を整備し、子ども・子育て支援給付並びに地域子ども・子育て支援事業、仕事・子育て両立支援事業及び働き方等の多様化に対応した子育て支援事業の円滑な実施の確保その他子ども・子育て支援のための施策を総合的に推進するための基本的な指針（以下「基本指針」という。）を定めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -3490,7 +3624,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">子ども・子育て支援の意義並びに子どものための教育・保育給付及び乳児等のための支援給付に係る教育・保育等を一体的に提供する体制その他の教育・保育等を提供する体制の確保、子育てのための施設等利用給付の円滑な実施の確保並びに地域子ども・子育て支援事業及び仕事・子育て両立支援事業の実施に関する基本的事項</Sentence>
+                <Sentence Num="1" WritingMode="vertical">子ども・子育て支援の意義並びに子どものための教育・保育給付及び乳児等のための支援給付に係る教育・保育等を一体的に提供する体制その他の教育・保育等を提供する体制の確保、子育てのための施設等利用給付の円滑な実施の確保並びに地域子ども・子育て支援事業、仕事・子育て両立支援事業及び働き方等の多様化に対応した子育て支援事業の実施に関する基本的事項</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -3548,8 +3682,38 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">市町村が、地理的条件、人口、交通事情その他の社会的条件、教育・保育を提供するための施設の整備の状況その他の条件を総合的に勘案して定める区域（以下「教育・保育提供区域」という。）ごとの当該教育・保育提供区域における各年度の特定教育・保育施設に係る必要利用定員総数（第十九条各号に掲げる小学校就学前子どもの区分ごとの必要利用定員総数とする。）、特定地域型保育事業所（事業所内保育事業所における労働者等の監護する小学校就学前子どもに係る部分を除く。）に係る必要利用定員総数（同条第三号に掲げる小学校就学前子どもに係るものに限る。）その他の教育・保育の量の見込み並びに実施しようとする教育・保育の提供体制の確保の内容及びその実施時期</Sentence>
+                <Sentence Num="1" WritingMode="vertical">市町村が、地理的条件、人口、交通事情その他の社会的条件、教育・保育を提供するための施設の整備の状況その他の条件を総合的に勘案して定める区域（以下「教育・保育提供区域」という。）ごとの次に掲げる事項</Sentence>
               </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">各年度の当該教育・保育提供区域における特定教育・保育施設に係る第十九条各号に掲げる小学校就学前子どもの区分ごとの必要利用定員総数</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">各年度の当該教育・保育提供区域における特定地域型保育事業所に係る第十九条第二号に掲げる小学校就学前子ども（満三歳以上限定小規模保育を利用するものに限る。）の必要利用定員総数</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">各年度の当該教育・保育提供区域における特定地域型保育事業所に係る第十九条第三号に掲げる小学校就学前子ども（事業所内保育の事業を行う事業所に係る第四十三条第三項に規定する労働者等監護満三歳未満小学校就学前子どもを除く。）の必要利用定員総数</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その他各年度の当該教育・保育提供区域における教育・保育の量の見込み</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">各年度に当該教育・保育提供区域において実施しようとする教育・保育の提供体制の確保の内容及びその実施時期</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
@@ -3882,7 +4046,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十五条の規定により市町村が支弁する同条第二号に掲げる費用のうち、国、都道府県その他の者が負担すべきものの算定の基礎となる額として政令で定めるところにより算定した額（以下「施設型給付費等負担対象額」という。）であって、満三歳未満保育認定子ども（第十九条第二号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どものうち、満三歳に達する日以後の最初の三月三十一日までの間にある者を含む。第六十九条第一項及び第七十条第二項において同じ。）に係るものについては、その額の五十分の十一を超えない範囲内で政令で定める割合に相当する額（第六十七条第一項及び第六十八条第二項において「拠出金充当額」という。）を第六十九条第一項に規定する拠出金をもって充てる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十五条の規定により市町村が支弁する同条第二号に掲げる費用のうち、国、都道府県その他の者が負担すべきものの算定の基礎となる額として政令で定めるところにより算定した額（以下「施設型給付費等負担対象額」という。）であって、満三歳未満保育認定子ども（満三歳以上保育認定子どものうち、満三歳に達する日以後の最初の三月三十一日までの間にある者を含む。第六十九条第一項及び第七十条第二項において同じ。）に係るものについては、その額の五十分の十一を超えない範囲内で政令で定める割合に相当する額（第六十七条第一項及び第六十八条第二項において「拠出金充当額」という。）を第六十九条第一項に規定する拠出金をもって充てる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -5182,7 +5346,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">特定地域型保育事業の利用定員の設定に関し、第四十三条第二項に規定する事項を処理すること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定地域型保育事業の利用定員の設定に関し、第四十三条第四項に規定する事項を処理すること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -5610,7 +5774,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第十九条第一号に掲げる小学校就学前子どもに該当する教育・保育給付認定子どもに係る子どものための教育・保育給付の額は、第二十七条第三項、第二十八条第二項第一号及び第二号並びに第三十条第二項第二号及び第四号の規定にかかわらず、当分の間、一月につき、次の各号に掲げる子どものための教育・保育給付の区分に応じ、それぞれ当該各号に定める額とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">教育認定子どもに係る子どものための教育・保育給付の額は、第二十七条第三項、第二十八条第二項第一号及び第二号並びに第三十条第二項第二号及び第四号の規定にかかわらず、当分の間、一月につき、次の各号に掲げる子どものための教育・保育給付の区分に応じ、それぞれ当該各号に定める額とする。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
