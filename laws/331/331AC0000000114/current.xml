@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="114" Year="31" PromulgateMonth="05" PromulgateDay="22"><LawNum>昭和三十一年法律第百十四号</LawNum><LawBody><LawTitle Kana="くにのさいけんのかんりとうにかんするほうりつ" Abbrev="債権管理法" AbbrevKana="さ">国の債権の管理等に関する法律</LawTitle>
+<Law Lang="ja" Era="Showa" Year="31" Num="114" PromulgateMonth="05" PromulgateDay="22" LawType="Act"><LawNum>昭和三十一年法律第百十四号</LawNum><LawBody><LawTitle Kana="くにのさいけんのかんりとうにかんするほうりつ" Abbrev="債権管理法" AbbrevKana="さ">国の債権の管理等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -430,17 +430,23 @@
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">債務者である法人が解散したこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">債務者の財産について企業価値担保権の実行手続の開始があつたこと。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">債務者について相続の開始があつた場合において、相続人が限定承認をしたこと。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">債務者である法人が解散したこと。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">債務者について相続の開始があつた場合において、相続人が限定承認をしたこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">第四号から前号までに定める場合のほか、債務者の総財産についての清算が開始されたこと。</Sentence>
               </ItemSentence>
