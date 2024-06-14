@@ -1613,7 +1613,7 @@
                     <Sentence Num="1" WritingMode="vertical">専修学校</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">当該専修学校の生徒又は当該専修学校を卒業した者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該専修学校の学生若しくは生徒又は当該専修学校を卒業した者</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -4649,6 +4649,19 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月一四日法律第五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
