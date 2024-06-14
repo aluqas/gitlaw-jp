@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="127" Year="12" PromulgateMonth="11" PromulgateDay="27"><LawNum>平成十二年法律第百二十七号</LawNum><LawBody><LawTitle Kana="こうきょうこうじのにゅうさつおよびけいやくのてきせいかのそくしんにかんするほうりつ" Abbrev="入札契約適正化法" AbbrevKana="に">公共工事の入札及び契約の適正化の促進に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　情報の公表</ChapterTitle>
+        <ArticleRange>（第四条―第九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　不正行為等に対する措置</ChapterTitle>
+        <ArticleRange>（第十条・第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　適正な金額での契約の締結等のための措置</ChapterTitle>
+        <ArticleRange>（第十二条・第十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　施工体制の適正化</ChapterTitle>
+        <ArticleRange>（第十四条―第十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　適正化指針</ChapterTitle>
+        <ArticleRange>（第十八条―第二十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　国による情報の収集、整理及び提供等</ChapterTitle>
+        <ArticleRange>（第二十二条・第二十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、国、特殊法人等及び地方公共団体が行う公共工事の入札及び契約について、その適正化の基本となるべき事項を定めるとともに、情報の公表、不正行為等に対する措置、適正な金額での契約の締結等のための措置及び施工体制の適正化の措置を講じ、併せて適正化指針の策定等の制度を整備すること等により、公共工事に対する国民の信頼の確保とこれを請け負う建設業の健全な発達を図ることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特殊法人等」とは、法律により直接に設立された法人若しくは特別の法律により特別の設立行為をもって設立された法人（総務省設置法（平成十一年法律第九十一号）第四条第一項第八号の規定の適用を受けない法人を除く。）、特別の法律により設立され、かつ、その設立に関し行政官庁の認可を要する法人又は独立行政法人（独立行政法人通則法（平成十一年法律第百三号）第二条第一項に規定する独立行政法人をいう。第六条において同じ。）のうち、次の各号に掲げる要件のいずれにも該当する法人であって政令で定めるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">資本金の二分の一以上が国からの出資による法人又はその事業の運営のために必要な経費の主たる財源を国からの交付金若しくは補助金によって得ている法人であること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その設立の目的を実現し、又はその主たる業務を遂行するため、計画的かつ継続的に建設工事（建設業法（昭和二十四年法律第百号）第二条第一項に規定する建設工事をいう。次項において同じ。）の発注を行う法人であること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「公共工事」とは、国、特殊法人等又は地方公共団体が発注する建設工事をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「建設業」とは、建設業法第二条第二項に規定する建設業をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「各省各庁の長」とは、財政法（昭和二十二年法律第三十四号）第二十条第二項に規定する各省各庁の長をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（公共工事の入札及び契約の適正化の基本となるべき事項）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共工事の入札及び契約については、次に掲げるところにより、その適正化が図られなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">入札及び契約の過程並びに契約の内容の透明性が確保されること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">入札に参加しようとし、又は契約の相手方になろうとする者の間の公正な競争が促進されること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">入札及び契約からの談合その他の不正行為の排除が徹底されること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その請負代金の額によっては公共工事の適正な施工が通常見込まれない契約の締結が防止されること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">契約された公共工事の適正な施工が確保されること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　情報の公表</ChapterTitle>
+        <Article Num="4">
+          <ArticleCaption>（国による情報の公表）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">各省各庁の長は、政令で定めるところにより、毎年度、当該年度の公共工事の発注の見通しに関する事項で政令で定めるものを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">各省各庁の長は、前項の見通しに関する事項を変更したときは、政令で定めるところにより、変更後の当該事項を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">各省各庁の長は、政令で定めるところにより、次に掲げる事項を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">入札者の商号又は名称及び入札金額、落札者の商号又は名称及び落札金額、入札の参加者の資格を定めた場合における当該資格、指名競争入札における指名した者の商号又は名称その他の政令で定める公共工事の入札及び契約の過程に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">契約の相手方の商号又は名称、契約金額その他の政令で定める公共工事の契約の内容に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（特殊法人等による情報の公表）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特殊法人等の代表者（当該特殊法人等が独立行政法人である場合にあっては、その長。以下同じ。）は、前二条の規定に準じて、公共工事の入札及び契約に関する情報を公表するため必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（地方公共団体による情報の公表）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体の長は、政令で定めるところにより、毎年度、当該年度の公共工事の発注の見通しに関する事項で政令で定めるものを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体の長は、前項の見通しに関する事項を変更したときは、政令で定めるところにより、変更後の当該事項を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体の長は、政令で定めるところにより、次に掲げる事項を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">入札者の商号又は名称及び入札金額、落札者の商号又は名称及び落札金額、入札の参加者の資格を定めた場合における当該資格、指名競争入札における指名した者の商号又は名称その他の政令で定める公共工事の入札及び契約の過程に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">契約の相手方の商号又は名称、契約金額その他の政令で定める公共工事の契約の内容に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二条の規定は、地方公共団体が、前二条に規定する事項以外の公共工事の入札及び契約に関する情報の公表に関し、条例で必要な規定を定めることを妨げるものではない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　不正行為等に対する措置</ChapterTitle>
+        <Article Num="10">
+          <ArticleCaption>（公正取引委員会への通知）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">各省各庁の長、特殊法人等の代表者又は地方公共団体の長（以下「各省各庁の長等」という。）は、それぞれ国、特殊法人等又は地方公共団体（以下「国等」という。）が発注する公共工事の入札及び契約に関し、私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）第三条又は第八条第一号の規定に違反する行為があると疑うに足りる事実があるときは、公正取引委員会に対し、その事実を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（国土交通大臣又は都道府県知事への通知）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">各省各庁の長等は、それぞれ国等が発注する公共工事の入札及び契約に関し、当該公共工事の受注者である建設業者（建設業法第二条第三項に規定する建設業者をいう。次条において同じ。）に次の各号のいずれかに該当すると疑うに足りる事実があるときは、当該建設業者が建設業の許可を受けた国土交通大臣又は都道府県知事及び当該事実に係る営業が行われる区域を管轄する都道府県知事に対し、その事実を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">建設業法第八条第九号、第十一号（同条第九号に係る部分に限る。）、第十二号（同条第九号に係る部分に限る。）、第十三号（同条第九号に係る部分に限る。）若しくは第十四号（これらの規定を同法第十七条において準用する場合を含む。）又は第二十八条第一項第三号、第四号（同法第二十二条第一項に係る部分に限る。）若しくは第六号から第八号までのいずれかに該当すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条第二項若しくは第三項、同条第一項の規定により読み替えて適用される建設業法第二十四条の八第一項、第二項若しくは第四項又は同法第十九条の三第二項、第十九条の五、第二十条第二項若しくは第六項、第二十六条第一項から第三項まで、第二十六条の二若しくは第二十六条の三第七項の規定に違反したこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　適正な金額での契約の締結等のための措置</ChapterTitle>
+        <Article Num="12">
+          <ArticleCaption>（入札金額の内訳の提出）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">建設業者は、公共工事の入札に係る申込みの際に、入札金額の内訳（材料費、労務費及び当該公共工事に従事する労働者による適正な施工を確保するために不可欠な経費として国土交通省令で定めるものその他当該公共工事の施工のために必要な経費の内訳をいう。）を記載した書類を提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（各省各庁の長等の責務）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">各省各庁の長等は、その請負代金の額によっては公共工事の適正な施工が通常見込まれない契約の締結を防止し、及び不正行為を排除するため、前条の規定により提出された書類の内容の確認その他の必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">各省各庁の長等は、公共工事について、主要な資材の供給の著しい減少、資材の価格の高騰その他の工期又は請負代金の額に影響を及ぼすものとして国土交通省令で定める事象が発生した場合において、公共工事の受注者が請負契約の内容の変更について協議を申し出たときは、誠実に当該協議に応じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　施工体制の適正化</ChapterTitle>
+        <Article Num="14">
+          <ArticleCaption>（一括下請負の禁止）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共工事については、建設業法第二十二条第三項の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（施工体制台帳の作成及び提出等）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共工事についての建設業法第二十四条の八第一項、第二項及び第四項の規定の適用については、これらの規定中「特定建設業者」とあるのは「建設業者」と、同条第一項中「締結した下請契約の請負代金の額（当該下請契約が二以上あるときは、それらの請負代金の額の総額）が政令で定める金額以上になる」とあるのは「下請契約を締結した」と、同条第四項中「見やすい場所」とあるのは「工事関係者が見やすい場所及び公衆が見やすい場所」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共工事の受注者（前項の規定により読み替えて適用される建設業法第二十四条の八第一項の規定により同項に規定する施工体制台帳（以下「施工体制台帳」という。）を作成しなければならないこととされているものに限る。）は、当該公共工事に関する工事現場の施工体制を発注者が情報通信技術を利用する方法により確認することができる措置として国土交通省令で定めるものを講じている場合を除き、作成した施工体制台帳（同項の規定により記載すべきものとされた事項に変更が生じたことに伴い新たに作成されたものを含む。）の写しを発注者に提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、同条第三項の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の公共工事の受注者は、発注者から、公共工事の施工の技術上の管理をつかさどる者（第十七条第一項において「施工技術者」という。）の設置の状況その他の工事現場の施工体制が施工体制台帳の記載に合致しているかどうかの点検を求められたときは、これを受けることを拒んではならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（公共工事の適正な施工の確保のために必要な措置）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共工事についての建設業法第二十五条の二十八の規定の適用については、同条第一項及び第二項中「特定建設業者」とあるのは、「建設業者」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（各省各庁の長等の責務）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公共工事を発注した国等に係る各省各庁の長等は、施工技術者の設置の状況その他の工事現場の施工体制を適正なものとするため、当該工事現場の施工体制が施工体制台帳の記載に合致しているかどうかの点検その他の必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に規定するもののほか、同項の各省各庁の長等は、前条の規定により読み替えて適用する建設業法第二十五条の二十八第一項及び第二項に規定する措置が適確に講じられるよう、これらの規定に規定する建設業者に対し、必要な助言、指導その他の援助を行うよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　適正化指針</ChapterTitle>
+        <Article Num="18">
+          <ArticleCaption>（適正化指針の策定等）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、各省各庁の長等による公共工事の入札及び契約の適正化を図るための措置（第二章、第三章、第十三条及び前条に規定するものを除く。）に関する指針（以下「適正化指針」という。）を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">適正化指針には、第三条各号に掲げるところに従って、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">入札及び契約の過程並びに契約の内容に関する情報（各省各庁の長又は特殊法人等の代表者による措置にあっては第四条及び第五条、地方公共団体の長による措置にあっては第七条及び第八条に規定するものを除く。）の公表に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">入札及び契約の過程並びに契約の内容について学識経験を有する者等の第三者の意見を適切に反映する方策に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">入札及び契約の過程に関する苦情を適切に処理する方策に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公正な競争を促進し、及びその請負代金の額によっては公共工事の適正な施工が通常見込まれない契約の締結を防止するための入札及び契約の方法の改善に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公共工事の施工に必要な工期の確保及び地域における公共工事の施工の時期の平準化を図るための方策に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">将来におけるより適切な入札及び契約のための公共工事の施工状況の評価の方策に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する措置に関する事務を適切に行うために必要な体制の整備に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、入札及び契約の適正化を図るため必要な措置に関すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">適正化指針の策定に当たっては、特殊法人等及び地方公共団体の自主性に配慮しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣、総務大臣及び財務大臣は、あらかじめ各省各庁の長及び特殊法人等を所管する大臣に協議した上、適正化指針の案を作成し、閣議の決定を求めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣は、適正化指針の案の作成に先立って、中央建設業審議会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣、総務大臣及び財務大臣は、第四項の規定による閣議の決定があったときは、遅滞なく、適正化指針を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三項から前項までの規定は、適正化指針の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（適正化指針に基づく責務）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">各省各庁の長等は、適正化指針に定めるところに従い、公共工事の入札及び契約の適正化を図るため必要な措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（措置の状況の公表）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣及び財務大臣は、各省各庁の長又は特殊法人等を所管する大臣に対し、当該各省各庁の長又は当該大臣が所管する特殊法人等が適正化指針に従って講じた措置の状況について報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣及び総務大臣は、地方公共団体に対し、適正化指針に従って講じた措置の状況について報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣、総務大臣及び財務大臣は、毎年度、前二項の報告を取りまとめ、その概要を公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（要請等）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣及び財務大臣は、各省各庁の長又は特殊法人等を所管する大臣に対し、公共工事の入札及び契約の適正化を促進するため適正化指針に照らして特に必要があると認められる措置を講ずべきことを要請することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣及び総務大臣は、地方公共団体に対し、公共工事の入札及び契約の適正化を促進するため適正化指針に照らして特に必要があると認められる措置を講ずべきことを要請することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による要請をした場合において、国土交通大臣及び財務大臣は、前条第一項の規定による報告を踏まえ、適正化指針に照らして特に必要があると認められる措置の的確な実施のために必要があると認めるときは、各省各庁の長又は特殊法人等を所管する大臣に対し、必要な勧告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項の規定による要請をした場合において、国土交通大臣及び総務大臣は、前条第二項の規定による報告を踏まえ、適正化指針に照らして特に必要があると認められる措置の的確な実施のために必要があると認めるときは、地方公共団体に対し、必要な勧告、助言又は援助をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　国による情報の収集、整理及び提供等</ChapterTitle>
+        <Article Num="22">
+          <ArticleCaption>（国による情報の収集、整理及び提供）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣、総務大臣及び財務大臣は、第二章の規定により公表された情報その他その普及が公共工事の入札及び契約の適正化の促進に資することとなる情報の収集、整理及び提供に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleCaption>（関係法令等に関する知識の習得等）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国、特殊法人等及び地方公共団体は、それぞれその職員に対し、公共工事の入札及び契約が適正に行われるよう、関係法令及び所管分野における公共工事の施工技術に関する知識を習得させるための教育及び研修その他必要な措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣及び都道府県知事は、建設業を営む者に対し、公共工事の入札及び契約が適正に行われるよう、関係法令に関する知識の普及その他必要な措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二章から第四章まで並びに第十六条、第十七条第一項及び第二項、第十八条並びに附則第三条（建設業法第二十八条の改正規定に係る部分に限る。）の規定は平成十三年四月一日から、第十七条第三項の規定は平成十四年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第五条及び第八条の規定は、これらの規定の施行前に入札又は随意契約の手続に着手していた場合における当該入札及びこれに係る契約又は当該随意契約については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四章及び次条（建設業法第二十八条の改正規定に係る部分に限る。）の規定は、これらの規定の施行前に締結された契約に係る公共工事については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年六月一〇日法律第五一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日（以下「施行日」という。）から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第八条の改正規定、第八条の二第一項及び第二項の改正規定、第八条の三の改正規定（「第八条第一項第一号」を「第八条第一号」に改める部分に限る。）、第二十四条、第二十五条第一項及び第二十六条第一項の改正規定、第四十三条の次に一条を加える改正規定、第五十九条第二項の改正規定（「第八条第一項第一号」を「第八条第一号」に改める部分に限る。）、第六十六条第四項の改正規定（「第八条第一項」を「第八条」に改める部分に限る。）、第七十条の十三第一項の改正規定（「第八条第一項」を「第八条」に改める部分に限る。）、第七十条の十五に後段を加える改正規定、同条に一項を加える改正規定、第八十四条第一項の改正規定、第八十九条第一項第二号の改正規定、第九十条の改正規定、第九十一条の二の改正規定（同条第一号を削る部分に限る。）、第九十三条の改正規定並びに第九十五条の改正規定（同条第一項第三号中「（第三号を除く。）」を削る部分、同条第二項第三号中「、第九十一条第四号若しくは第五号（第四号に係る部分に限る。）、第九十一条の二第一号」を削る部分（第九十一条の二第一号に係る部分を除く。）及び第九十五条第三項中「前項」を「第二項」に改め、同条第二項の次に二項を加える部分を除く。）並びに附則第九条、第十四条、第十六条から第十九条まで及び第二十条第一項の規定、附則第二十一条中農業協同組合法（昭和二十二年法律第百三十二号）第七十二条の八の二及び第七十三条の二十四の改正規定並びに附則第二十三条及び第二十四条の規定は、公布の日から起算して一月を経過した日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月四日法律第五五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条（建設業法目次、第二十五条の二十七（見出しを含む。）及び第二十七条の三十七の改正規定並びに同法第四章の三中第二十七条の三十八の次に一条を加える改正規定に限る。）及び附則第七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（公共工事の入札及び契約の適正化の促進に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定による改正後の公共工事の入札及び契約の適正化の促進に関する法律（次項において「新入札契約適正化法」という。）第四章の規定は、この法律の施行の際現に入札に付されている公共工事については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に締結された契約に係る公共工事の施工については、新入札契約適正化法第十五条の規定にかかわらず、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、第一条から第四条までの規定による改正後の規定の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年九月一一日法律第六六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成二十八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一二日法律第三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前三条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月一四日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和三年九月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和三年九月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月一四日法律第四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条（建設業法第十九条の三に一項を加える改正規定、同法第十九条の五に一項を加える改正規定、同法第十九条の六の改正規定、同法第二十条の改正規定、同法第二十四条の五の改正規定、同法第二十八条第一項の改正規定、同法第三十四条の改正規定、同法第四十条の三の次に一条を加える改正規定、同法第四十二条第一項の改正規定及び同法第四十二条の二第三項の改正規定（「第十九条の三」を「第十九条の三第一項」に改める部分に限る。）を除く。）及び第二条（公共工事の入札及び契約の適正化の促進に関する法律第十一条第二号の改正規定及び同法第十二条の改正規定を除く。）の規定並びに次条第二項及び附則第三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の規定について、その施行の状況等を勘案して検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月一九日法律第五四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の施行の状況等について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（公共工事の入札及び契約の適正化の促進に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定による改正後の公共工事の入札及び契約の適正化の促進に関する法律（以下この条において「新入札契約適正化法」という。）第二十条第三項及び第四項の規定の適用については、第二条の規定による改正前の公共工事の入札及び契約の適正化の促進に関する法律第二十条第一項又は第二項の規定による要請は、新入札契約適正化法第二十条第一項又は第二項の規定による要請とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（国土交通省令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前三条に定めるもののほか、この法律の施行に関し必要な経過措置は、国土交通省令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
