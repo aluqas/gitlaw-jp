@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="037" Year="30" PromulgateMonth="06" PromulgateDay="01">
-  <LawNum>平成三十年法律第三十七号</LawNum>
-  <LawBody>
-    <LawTitle Kana="ちいきにおけるだいがくのしんこうおよびわかもののこようきかいのそうしゅつによるわかもののしゅうがくおよびしゅうぎょうのそくしんにかんするほうりつ" Abbrev="地方大学振興法,地方大学・産業創生法" AbbrevKana="ち,ち">地域における大学の振興及び若者の雇用機会の創出による若者の修学及び就業の促進に関する法律</LawTitle>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="037" Year="30" PromulgateMonth="06" PromulgateDay="01"><LawNum>平成三十年法律第三十七号</LawNum><LawBody><LawTitle Kana="ちいきにおけるだいがくのしんこうおよびわかもののこようきかいのそうしゅつによるわかもののしゅうがくおよびしゅうぎょうのそくしんにかんするほうりつ" Abbrev="地方大学振興法,地方大学・産業創生法" AbbrevKana="ち,ち">地域における大学の振興及び若者の雇用機会の創出による若者の修学及び就業の促進に関する法律</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -394,7 +391,7 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">特定地域内に設置している学部等（大学の学部、高等専門学校の学科又は専修学校の専門課程をいう。以下この号において同じ。）の廃止、特定地域内から特定地域外への学部等の移転その他の方法により特定地域内学部等収容定員（特定地域内に校舎が所在する学部等の学生等（大学の学部若しくは高等専門学校の学科の学生又は専修学校の専門課程の生徒をいう。以下この号において同じ。）の収容定員のうち、当該校舎で授業を受ける学生等に係るものとして政令で定めるところにより算定した収容定員をいう。以下この号及び次号において同じ。）を減少させることと併せて、政令で定めるところにより、当該学部等を置く大学、高等専門学校又は専修学校の設置者（同号において「大学等の設置者」という。）が当該減少させる特定地域内学部等収容定員の数を考慮して政令で定めるところにより算定した数の範囲内で特定地域内学部収容定員を増加させる場合</Sentence>
+              <Sentence Num="1" WritingMode="vertical">特定地域内に設置している学部等（大学の学部、高等専門学校の学科又は専修学校の専門課程をいう。以下この号において同じ。）の廃止、特定地域内から特定地域外への学部等の移転その他の方法により特定地域内学部等収容定員（特定地域内に校舎が所在する学部等の学生の収容定員のうち、当該校舎で授業を受ける学生に係るものとして政令で定めるところにより算定した収容定員をいう。以下この号及び次号において同じ。）を減少させることと併せて、政令で定めるところにより、当該学部等を置く大学、高等専門学校又は専修学校の設置者（同号において「大学等の設置者」という。）が当該減少させる特定地域内学部等収容定員の数を考慮して政令で定めるところにより算定した数の範囲内で特定地域内学部収容定員を増加させる場合</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
@@ -612,6 +609,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第十五条、第十六条、第五十一条及び前三条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月一四日法律第五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
