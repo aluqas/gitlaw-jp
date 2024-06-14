@@ -960,7 +960,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">債務者の財産の上に存する先取特権（民法第三百二十五条に規定する先取特権（同条第三号に係るものに限る。）に限る。）、質権又は抵当権（以下この款において「他の担保権」という。）と企業価値担保権とが競合する場合には、それらの優先権の順位は、他の担保権に係る登記、登録その他の対抗要件の具備と企業価値担保権に係る登記の前後による。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">債務者の財産の上に存する先取特権（民法第三百二十五条に規定する先取特権（同条第三号に係るものに限る。）に限る。）、質権、抵当権、譲渡担保権（譲渡担保契約及び所有権留保契約に関する法律（令和七年法律第五十六号）第二条第三号に規定する譲渡担保権をいう。第百三十一条第一項において同じ。）又は留保所有権（同法第二条第十八号に規定する留保所有権をいう。同項において同じ。）（以下この款において「他の担保権」という。）と企業価値担保権とが競合する場合には、それらの優先権の順位は、他の担保権に係る登記、登録その他の対抗要件の具備と企業価値担保権に係る登記の前後による。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -4203,7 +4203,7 @@
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">担保目的財産が共益債権の総額を弁済するのに足りないことが明らかになった場合における共益債権は、法令に定める優先権にかかわらず、債権額の割合により弁済する。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、共益債権について存する留置権、特別の先取特権、質権及び抵当権の効力を妨げない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、共益債権について存する留置権、特別の先取特権、質権、抵当権、譲渡担保権及び留保所有権の効力を妨げない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -8372,6 +8372,188 @@
               </TableRow>
             </Table>
           </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（手続費用額の確定手続に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">整備法施行日以後に第八十一条第一項において準用する民事訴訟法（以下「準用民事訴訟法」という。）第七十一条第二項の規定は、整備法施行日以後に開始される第七十条第二項に規定する執行事件（以下「整備法施行後執行事件」という。）における実行手続の費用の負担の額を定める申立てについて、適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（期日の呼出しに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">準用民事訴訟法第九十四条の規定は、整備法施行後執行事件における期日の呼出しについて適用し、整備法施行日前に開始された第七十条第二項に規定する執行事件（以下「整備法施行前執行事件」という。）における期日の呼出しについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（送達報告書に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">準用民事訴訟法第百条第二項の規定は、整備法施行後執行事件における送達報告書の提出について、適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（公示送達の方法に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">準用民事訴訟法第百十一条から第百十三条までの規定は、整備法施行後執行事件における公示送達について適用し、整備法施行前執行事件における公示送達については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（電子裁判書の作成に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">準用民事訴訟法第百二十二条において準用する民事訴訟法第二百五十二条及び第二百五十三条の規定は、整備法施行後執行事件における電子裁判書の作成について適用し、整備法施行前執行事件における裁判書の作成については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（電子情報処理組織による申立て等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">準用民事訴訟法第一編第七章の規定は、整備法施行後執行事件における準用民事訴訟法第百三十二条の十第一項に規定する申立て等について適用し、整備法施行前執行事件における附則第六条第一項に規定する申立て等については、同条の規定は、整備法施行日以後も、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（釈明処分による電磁的記録の提出に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">準用民事訴訟法第百五十一条第二項の規定は、整備法施行後執行事件における釈明処分による電磁的記録の提出について適用し、整備法施行前執行事件における釈明処分による電磁的記録の提出については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（口頭弁論調書に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">準用民事訴訟法第百六十条の規定は、整備法施行後執行事件における口頭弁論調書の作成、記録及び口頭弁論の方式に関する規定の遵守に係る証明について適用し、整備法施行前執行事件における口頭弁論調書の作成、記載及び口頭弁論の方式に関する規定の遵守に係る証明については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">準用民事訴訟法第百六十条の二の規定は、整備法施行後執行事件における口頭弁論調書の更正について適用し、整備法施行前執行事件における口頭弁論調書の更正については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（尋問に代わる書面の提出等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">準用民事訴訟法第二百五条第二項及び第二百十五条第二項（準用民事訴訟法第二百十八条第一項において準用する場合を含む。以下この条において同じ。）の規定は、整備法施行後執行事件における準用民事訴訟法第二百五条第二項の提出及び準用民事訴訟法第二百十五条第二項の意見の陳述について、適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（電磁的記録に記録された情報の内容に係る証拠調べに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">準用民事訴訟法第二百三十一条の二第二項及び第二百三十一条の三第二項の規定は、整備法施行後執行事件における電磁的記録に記録された情報の内容に係る証拠調べについて適用し、整備法施行前執行事件における電磁的記録に記録された情報の内容に係る証拠調べについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleCaption>（申立ての取下げが口頭でされた場合における期日の電子調書の記録に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">準用民事訴訟法第二百六十一条第四項の規定は、整備法施行後執行事件における申立ての取下げが口頭でされた場合における期日の準用民事訴訟法第百六十条第一項に規定する電子調書の記録について適用し、整備法施行前執行事件における申立ての取下げが口頭でされた場合における期日の調書の記載については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（事件に関する事項の証明に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第七十八条の規定は、整備法施行後執行事件に関する事項の証明について適用し、整備法施行前執行事件に関する事項の証明については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleCaption>（電子配当債権者表の作成等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第百三十七条、第百四十三条第三項（第百五十六条第五項において準用する場合を含む。）及び第四項、第百五十二条（第百五十六条第五項において準用する場合を含む。）並びに第百九十二条第一項の規定は、整備法施行後執行事件における電子配当債権者表の作成、記録及び更正の処分について適用し、整備法施行前執行事件における配当債権者表の作成、記載及び更正の処分については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第百四十九条（第百五十条第三項及び第百五十六条第五項において準用する場合を含む。）の規定は、整備法施行後執行事件における配当債権（第七十条第十三項に規定する配当債権をいう。以下この項において同じ。）に関する査定の手続又は訴訟手続における主張の制限について適用し、整備法施行前執行事件における配当債権に関する査定の手続又は訴訟手続における主張の制限については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleCaption>（電子裁判書の送達に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第百四十条第三項、第百四十一条第五項、第百四十四条第五項、第百四十七条第六項、第百六十三条第五項、第百八十九条第二項及び第三項、第百九十条第二項及び第三項並びに第二百六条第四項の規定は、整備法施行後執行事件における電子裁判書の送達について適用し、整備法施行前執行事件における裁判書の送達については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（配当の実施に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第百六十四条第三項の規定は、整備法施行後執行事件における配当について適用し、整備法施行前執行事件における配当については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="24">
+        <ArticleCaption>（配当表の更正に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第百七十四条（第一号に係る部分に限り、第百七十九条及び第百八十三条第三項において準用する場合を含む。）の規定は、整備法施行後執行事件における配当表の更正について適用し、整備法施行前執行事件における配当表の更正については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="25">
+        <ArticleCaption>（配当表に対する異議の申立てについての裁判に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第百七十五条第三項及び第五項（これらの規定を第百八十三条第三項において準用する場合を含む。）の規定は、整備法施行後執行事件における配当表に対する異議の申立てについての裁判について適用し、整備法施行前執行事件における配当表に対する異議の申立てについての裁判については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="26">
