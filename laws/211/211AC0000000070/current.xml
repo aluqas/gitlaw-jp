@@ -7116,7 +7116,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">保険料は、次に掲げる場合においては、納期前であっても、すべて徴収することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">保険料は、次に掲げる場合においては、納期前であっても、全て徴収することができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -7149,6 +7149,12 @@
               </Subitem1>
               <Subitem1 Num="5">
                 <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">企業価値担保権の実行手続の開始があったとき。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="6">
+                <Subitem1Title>ヘ</Subitem1Title>
                 <Subitem1Sentence>
                   <Sentence Num="1" WritingMode="vertical">競売の開始があったとき。</Sentence>
                 </Subitem1Sentence>
@@ -15931,7 +15937,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical"/>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後速やかに、この法律による改正後のそれぞれの法律の施行の状況等を勘案し、公的年金制度を長期的に持続可能な制度とする取組を更に進め、社会経済情勢の変化に対応した保障機能を一層強化し、並びに世代間及び世代内の公平性を確保する観点から、公的年金制度及びこれに関連する制度について、持続可能な社会保障制度の確立を図るための改革の推進に関する法律（平成二十五年法律第百十二号）第六条第二項各号に掲げる事項及び公的年金制度の所得再分配機能の強化その他必要な事項（次項から第四項までに定める事項を除く。）について引き続き検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -15961,6 +15967,179 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <SupplProvisionAppdxTable>
+        <SupplProvisionAppdxTableTitle WritingMode="vertical">附則別表第三</SupplProvisionAppdxTableTitle>
+        <TableStruct>
+          <TableStructTitle WritingMode="vertical">一　附則第二十四条第一項及び第二十五条第一項の申出があった日の属する月から通算して二年を経過した月の前月までの期間　次の表の上欄に掲げる標準報酬月額等級に応じて、それぞれ同表の下欄に定める増加負担割合</TableStructTitle>
+          <Table WritingMode="vertical">
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">標準報酬月額等級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">増加負担割合</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第一級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の二十五</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第二級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の二十五</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第三級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の二十五</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第四級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の二十五</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第五級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の二十</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第六級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の十四</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第七級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の九</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第八級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の五</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第九級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の二</Sentence>
+              </TableColumn>
+            </TableRow>
+          </Table>
+        </TableStruct>
+        <TableStruct>
+          <TableStructTitle WritingMode="vertical">二　附則第二十四条第一項及び第二十五条第一項の申出があった日の属する月から通算して二年を経過した月から、当該申出があった日の属する月から通算して三年を経過した月の前月までの期間　次の表の上欄に掲げる標準報酬月額等級に応じて、それぞれ同表の下欄に定める増加負担割合</TableStructTitle>
+          <Table WritingMode="vertical">
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">標準報酬月額等級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">増加負担割合</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第一級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の二十五に二分の一を乗じて得た割合</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第二級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の二十五に二分の一を乗じて得た割合</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第三級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の二十五に二分の一を乗じて得た割合</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第四級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の二十五に二分の一を乗じて得た割合</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第五級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の二十に二分の一を乗じて得た割合</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第六級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の十四に二分の一を乗じて得た割合</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第七級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の九に二分の一を乗じて得た割合</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第八級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の五に二分の一を乗じて得た割合</Sentence>
+              </TableColumn>
+            </TableRow>
+            <TableRow>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">第九級</Sentence>
+              </TableColumn>
+              <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                <Sentence Num="1" WritingMode="vertical">百分の二に二分の一を乗じて得た割合</Sentence>
+              </TableColumn>
+            </TableRow>
+          </Table>
+        </TableStruct>
+      </SupplProvisionAppdxTable>
     </SupplProvision>
   </LawBody>
 </Law>

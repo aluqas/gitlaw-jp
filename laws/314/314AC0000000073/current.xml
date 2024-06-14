@@ -4552,7 +4552,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">保険料は、次に掲げる場合においては、納期前であっても、すべて徴収することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">保険料は、次に掲げる場合においては、納期前であっても、全て徴収することができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -4585,6 +4585,12 @@
               </Subitem1>
               <Subitem1 Num="5">
                 <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">企業価値担保権の実行手続の開始があったとき。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="6">
+                <Subitem1Title>ヘ</Subitem1Title>
                 <Subitem1Sentence>
                   <Sentence Num="1" WritingMode="vertical">競売の開始があったとき。</Sentence>
                 </Subitem1Sentence>
@@ -17737,7 +17743,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical"/>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後速やかに、この法律による改正後のそれぞれの法律の施行の状況等を勘案し、公的年金制度を長期的に持続可能な制度とする取組を更に進め、社会経済情勢の変化に対応した保障機能を一層強化し、並びに世代間及び世代内の公平性を確保する観点から、公的年金制度及びこれに関連する制度について、持続可能な社会保障制度の確立を図るための改革の推進に関する法律（平成二十五年法律第百十二号）第六条第二項各号に掲げる事項及び公的年金制度の所得再分配機能の強化その他必要な事項（次項から第四項までに定める事項を除く。）について引き続き検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -17837,14 +17843,6 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">独立行政法人国立青少年教育振興機構法（平成十一年法律第百六十七号）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">独立行政法人国立女性教育会館</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">独立行政法人国立女性教育会館法（平成十一年法律第百六十八号）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -18082,6 +18080,14 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">独立行政法人男女共同参画機構</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">独立行政法人男女共同参画機構法（令和七年法律第七十九号）</Sentence>
             </TableColumn>
           </TableRow>
         </Table>
