@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="34" Num="147" PromulgateMonth="4" PromulgateDay="20" LawType="Act"><LawNum>昭和三十四年法律第百四十七号</LawNum><LawBody><LawTitle Kana="こくぜいちょうしゅうほう" Abbrev="" AbbrevKana="">国税徴収法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="34" Num="147" PromulgateMonth="04" PromulgateDay="20" LawType="Act"><LawNum>昭和三十四年法律第百四十七号</LawNum><LawBody><LawTitle Kana="こくぜいちょうしゅうほう" Abbrev="" AbbrevKana="">国税徴収法</LawTitle>
     <EnactStatement>国税徴収法（明治三十年法律第二十一号）の全部を改正する。</EnactStatement>
     <TOC>
       <TOCLabel>目次</TOCLabel>
@@ -345,7 +345,7 @@
                   <Sentence Num="1" WritingMode="vertical">強制換価手続</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">滞納処分（その例による処分を含む。以下同じ。）、強制執行、担保権の実行としての競売、企業担保権の実行手続及び破産手続をいう。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">滞納処分（その例による処分を含む。以下同じ。）、強制執行、担保権の実行としての競売、企業担保権の実行手続、企業価値担保権の実行手続及び破産手続をいう。</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -412,7 +412,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">納税者の財産を国税の滞納処分により換価したときは、その滞納処分に係る滞納処分費は、次条、第十四条から第十七条まで（担保を徴した国税の優先等）、第十九条から第二十一条まで（先取特権等の優先）及び第二十三条（法定納期限等以前にされた仮登記により担保される債権の優先等）の規定にかかわらず、その換価代金につき、他の国税、地方税その他の債権に先立つて徴収する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">納税者の財産を国税の滞納処分により換価したときは、その滞納処分に係る滞納処分費は、次条、第十四条から第十七条まで（担保を徴した国税の優先等）、第十八条の二第一項（法定納期限等以前に設定された企業価値担保権の優先等）、第十九条から第二十一条まで（先取特権等の優先）及び第二十三条（法定納期限等以前にされた仮登記により担保される債権の優先等）の規定にかかわらず、その換価代金につき、他の国税、地方税その他の債権に先立つて徴収する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -422,7 +422,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">国税通則法第三十九条（強制換価の場合の消費税等の徴収の特例）又は輸入品に対する内国消費税の徴収等に関する法律（昭和三十年法律第三十七号）第八条第一項第三号若しくは第七号（公売又は売却等の場合における内国消費税の徴収）の規定により徴収する消費税等（その滞納処分費を含む。）は、次条から第十七条まで（差押先着手による国税の優先等）及び第十九条から第二十一条まで（先取特権等の優先）の規定にかかわらず、その徴収の基因となつた移出又は公売若しくは売却に係る物品の換価代金につき、他の国税、地方税その他の債権に先だつて徴収する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">国税通則法第三十九条（強制換価の場合の消費税等の徴収の特例）又は輸入品に対する内国消費税の徴収等に関する法律（昭和三十年法律第三十七号）第八条第一項第三号若しくは第七号（公売又は売却等の場合における内国消費税の徴収）の規定により徴収する消費税等（その滞納処分費を含む。）は、次条から第十七条まで（差押先着手による国税の優先等）、第十八条の二第一項（法定納期限等以前に設定された企業価値担保権の優先等）及び第十九条から第二十一条まで（先取特権等の優先）の規定にかかわらず、その徴収の基因となつた移出又は公売若しくは売却に係る物品の換価代金につき、他の国税、地方税その他の債権に先立つて徴収する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -705,6 +705,23 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">質権又は抵当権により担保される債権額又は極度額を増加する登記がされた場合には、その登記がされた時において、その増加した債権額又は極度額につき新たに質権又は抵当権が設定されたものとみなして、前三条の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18_2">
+            <ArticleCaption>（法定納期限等以前に設定された企業価値担保権の優先等）</ArticleCaption>
+            <ArticleTitle>第十八条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">納税者が国税の法定納期限等以前にその財産上に企業価値担保権を設定しているときは、その国税は、その換価代金につき、その企業価値担保権により担保される債権に次いで徴収する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定に基づき国税に先立つ企業価値担保権により担保される事業性融資の推進等に関する法律（令和六年法律第五十二号）第六条第四項（定義）に規定する特定被担保債権の元本の金額は、その企業価値担保権者がその国税に係る差押え又は交付要求の通知を受けた時における債権額を限度とする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その国税に優先する他の債権を有する者の権利を害することとなるときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
