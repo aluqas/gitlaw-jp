@@ -812,12 +812,6 @@
                 <Sentence Num="1" WritingMode="vertical">海賊行為の処罰及び海賊行為への対処に関する法律（平成二十一年法律第五十五号）第二条第四号に係る海賊行為に係る同法第三条第一項（人質強要に係る海賊行為）又は第四条（人質強要に係る海賊行為致死傷）の罪</Sentence>
               </ItemSentence>
             </Item>
-            <Item Num="13">
-              <ItemTitle>十三</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律（令和七年法律第六十七号）第八十条（詐欺権利変更）の罪</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
@@ -1039,8 +1033,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">債権の没収の裁判が確定したときは、検察官は、当該債権の債務者に対し没収の裁判の裁判書の抄本（裁判書が電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）である場合にあっては、当該裁判書に記録されている事項の一部を記載し、又は記録した書面又は電磁的記録であってその内容が当該裁判書に記録されている事項と同一であることの証明がされたもの）を送付してその旨を通知するものとする。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電磁的記録による通知は、これを受ける者に異議があるときは、することができない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">債権の没収の裁判が確定したときは、検察官は、当該債権の債務者に対し没収の裁判の裁判書の抄本を送付してその旨を通知するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1087,58 +1080,24 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">没収保全命令又は附帯保全命令には、被告人の氏名、罪名、公訴事実の要旨、没収の根拠となるべき法令の条項、処分を禁止すべき財産又は権利の表示、これらの財産又は権利を有する者（名義人が異なる場合は、名義人を含む。）の氏名、発付の年月日その他最高裁判所規則で定める事項を記載し、又は記録しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">没収保全命令又は附帯保全命令には、被告人の氏名、罪名、公訴事実の要旨、没収の根拠となるべき法令の条項、処分を禁止すべき財産又は権利の表示、これらの財産又は権利を有する者（名義人が異なる場合は、名義人を含む。）の氏名、発付の年月日その他最高裁判所規則で定める事項を記載し、裁判長又は受命裁判官が、これに記名押印しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">没収保全命令又は附帯保全命令には、次の各号に掲げる場合の区分に応じ、裁判長又は受命裁判官が当該各号に定める措置をとらなければならない。</Sentence>
-              </ParagraphSentence>
-              <Item Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">没収保全命令又は附帯保全命令を書面をもって作成する場合</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">記名押印すること。</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
-              <Item Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">没収保全命令又は附帯保全命令を電磁的記録をもって作成する場合</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">最高裁判所規則で定める記名押印に代わる措置（没収保全命令又は附帯保全命令に記録された事項を電子計算機（入出力装置を含む。以下同じ。）の映像面、書面その他のものに表示したときに、併せて裁判長又は受命裁判官の氏名が表示されることとなるものに限る。）をとること。</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
-            </Paragraph>
-            <Paragraph Num="5">
-              <ParagraphNum>５</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">没収保全命令又は附帯保全命令を電磁的記録をもって作成したときは、最高裁判所規則の定めるところにより、これを裁判所の使用に係る電子計算機に備えられたファイル（以下単に「ファイル」という。）に記録しなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="6">
-              <ParagraphNum>６</ParagraphNum>
-              <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">裁判長は、急速を要する場合には、第一項若しくは第二項に規定する処分をし、又は合議体の構成員にこれをさせることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="7">
-              <ParagraphNum>７</ParagraphNum>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">没収保全（没収保全命令による処分の禁止をいう。以下同じ。）に関する処分は、第一回公判期日までは、裁判官が行う。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、裁判官は、その処分に関し、裁判所又は裁判長と同一の権限を有する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="8">
-              <ParagraphNum>８</ParagraphNum>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">没収保全がされた不動産又は動産については、刑事訴訟法の規定により押収することを妨げない。</Sentence>
               </ParagraphSentence>
@@ -1156,7 +1115,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">司法警察員は、その請求により没収保全命令又は附帯保全命令が発せられたときは、速やかに、関係書類（電磁的記録を含む。）を検察官に送付しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">司法警察員は、その請求により没収保全命令又は附帯保全命令が発せられたときは、速やかに、関係書類を検察官に送付しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -1176,33 +1135,20 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の場合においては、書面又は電磁的記録をもって更新の裁判の裁判書を作成しなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、電磁的記録をもって作成したときは、最高裁判所規則の定めるところにより、これをファイルに記録しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項又は前項の規定による請求は、請求する者の所属する官公署の所在地を管轄する地方裁判所の裁判官にしなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項又は第四項の規定による請求は、請求する者の所属する官公署の所在地を管轄する地方裁判所の裁判官にしなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項又は第四項の規定による請求を受けた裁判官は、没収保全に関し、裁判所又は裁判長と同一の権限を有する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項又は第四項の規定による請求を受けた裁判官は、没収保全に関し、裁判所又は裁判長と同一の権限を有する。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="8">
-              <ParagraphNum>８</ParagraphNum>
-              <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">検察官は、第一項の規定による没収保全が、公訴の提起があったためその効力を失うことがなくなるに至ったときは、その旨を没収保全命令を受けた者（被告人を除く。）に通知しなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、その者の所在が分からないため、又はその他の理由によって、通知をすることができないときは、通知に代えて、その旨を法務省令で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、その旨が記載された書面を検察庁の掲示場に掲示し、又はその旨を検察庁に設置した電子計算機の映像面に表示したものの閲覧をすることができる状態に置く措置をとることにより公告しなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="9">
-              <ParagraphNum>９</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定による公告の期間は、同項の措置を開始した日から七日間とする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、その者の所在が分からないため、又はその他の理由によって、通知をすることができないときは、通知に代えて、その旨を検察庁の掲示場に七日間掲示して公告しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1218,7 +1164,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">没収保全命令の執行は、当該没収保全命令により処分を禁止すべき財産を有する者にその謄本又はファイルに記録された当該没収保全命令に係る電磁的記録が送達される前であっても、することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">没収保全命令の執行は、当該命令により処分を禁止すべき財産を有する者にその謄本が送達される前であっても、することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1267,13 +1213,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">不動産（民事執行法（昭和五十四年法律第四号）第四十三条第一項に規定する不動産及び同条第二項の規定により不動産とみなされるものをいう。以下この条（第八項本文を除く。）、次条、第二十九条第一項及び第三十五条第一項において同じ。）の没収保全は、その処分を禁止する旨の没収保全命令を発して行う。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">不動産（民事執行法（昭和五十四年法律第四号）第四十三条第一項に規定する不動産及び同条第二項の規定により不動産とみなされるものをいう。以下この条（第七項本文を除く。）、次条、第二十九条第一項及び第三十五条第一項において同じ。）の没収保全は、その処分を禁止する旨の没収保全命令を発して行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の没収保全命令の謄本（没収保全命令が電磁的記録である場合にあっては、ファイルに記録された当該没収保全命令に係る電磁的記録。以下同じ。）及び第二十三条第四項の規定による更新の裁判の裁判書の謄本（裁判書が電磁的記録である場合にあっては、ファイルに記録された当該裁判書に係る電磁的記録。以下「更新の裁判の謄本」という。）は、不動産の所有者（民事執行法第四十三条第二項の規定により不動産とみなされる権利についてはその権利者とし、当該不動産又は権利に係る名義人が異なる場合は名義人を含む。）に送達しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の没収保全命令の謄本及び第二十三条第四項の規定による更新の裁判の裁判書の謄本（以下「更新の裁判の謄本」という。）は、不動産の所有者（民事執行法第四十三条第二項の規定により不動産とみなされる権利についてはその権利者とし、当該不動産又は権利に係る名義人が異なる場合は名義人を含む。）に送達しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -1286,39 +1232,33 @@
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前項の登記は、検察事務官が嘱託する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、嘱託は、検察官が没収保全命令の執行を指揮する書面又は電磁的記録に基づいて、これを行う。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、嘱託は、検察官が没収保全命令の執行を指揮する書面に基づいて、これを行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">登記官は、前項の規定による嘱託に基づいて没収保全の登記をしたときは、その登記事項証明書を登記の嘱託をした検察事務官の所属する検察庁の検察官に送付しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">不動産の没収保全の効力は、没収保全の登記がされた時に生ずる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">不動産の没収保全の効力は、没収保全の登記がされた時に生ずる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">不動産の没収保全の効力が生じたときは、検察官は、当該不動産の所在する場所に公示書を掲示する方法その他相当の方法により、その旨を公示する措置を執らなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">不動産の没収保全の効力が生じたときは、検察官は、当該不動産の所在する場所に公示書を掲示する方法その他相当の方法により、その旨を公示する措置を執らなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">不動産の登記請求権を保全するための処分禁止の仮処分の登記の後に没収保全の登記がされた場合において、その仮処分の債権者が保全すべき登記請求権に係る登記をするときは、没収保全の登記に係る処分の制限は、仮処分の登記に係る権利の取得又は消滅と抵触しないものとみなす。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その権利の取得を当該債権者に対抗することができない者を不動産を有する者として当該没収保全の登記がされたときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">不動産の登記請求権を保全するための処分禁止の仮処分の登記の後に没収保全の登記がされた場合において、その仮処分の債権者が保全すべき登記請求権に係る登記をするときは、没収保全の登記に係る処分の制限は、仮処分の登記に係る権利の取得又は消滅と抵触しないものとみなす。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その権利の取得を当該債権者に対抗することができない者を不動産を有する者として当該没収保全の登記がされたときは、この限りでない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="9">
-              <ParagraphNum>９</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">民事執行法第四十六条第二項の規定は、不動産の没収保全について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同項中「債務者」とあるのは、「没収保全財産を有する者」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">民事執行法第四十六条第二項及び第四十八条第二項の規定は、不動産の没収保全について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同法第四十六条第二項中「債務者」とあるのは「没収保全財産を有する者」と、同法第四十八条第二項中「前項」とあるのは「組織的な犯罪の処罰及び犯罪収益の規制等に関する法律第二十七条第四項」と、「執行裁判所」とあるのは「登記の嘱託をした検察事務官の所属する検察庁の検察官」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1385,7 +1325,7 @@
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">民事執行法第百五十条、第百五十六条第一項及び第四項並びに第百六十四条第五項の規定は、債権の没収保全について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同法第百五十条及び第百五十六条第一項中「差押え」とあり、及び同法第百五十条中「差押命令」とあるのは「没収保全」と、同条中「裁判所書記官は、申立てにより」とあるのは「検察事務官は、検察官が没収保全命令の執行を指揮する書面又は電磁的記録に基づいて」と、同法第百五十六条第一項及び第四項中「第三債務者」とあるのは「債務者」と、同項中「執行裁判所」とあるのは「没収保全命令を発した裁判所」と、同法第百六十四条第五項中「差し押さえられた債権」とあるのは「没収保全がされた債権」と、「支払又は供託」とあるのは「供託」と、「裁判所書記官は、申立てにより」とあるのは「検察事務官は、検察官が登記等の抹消の嘱託を指揮する書面又は電磁的記録に基づいて」と、「債権執行の申立てが取り下げられたとき、又は差押命令の取消決定が確定したときも」とあるのは「没収保全が効力を失つたとき、又は代替金が納付されたときも」と読み替えるものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同法第百五十条及び第百五十六条第一項中「差押え」とあり、及び同法第百五十条中「差押命令」とあるのは「没収保全」と、同条中「裁判所書記官は、申立てにより」とあるのは「検察事務官は、検察官が没収保全命令の執行を指揮する書面に基づいて」と、同法第百五十六条第一項及び第四項中「第三債務者」とあるのは「債務者」と、同項中「執行裁判所」とあるのは「没収保全命令を発した裁判所」と、同法第百六十四条第五項中「差し押さえられた債権」とあるのは「没収保全がされた債権」と、「支払又は供託」とあるのは「供託」と、「裁判所書記官は、申立てにより」とあるのは「検察事務官は、検察官が登記等の抹消の嘱託を指揮する書面に基づいて」と、「債権執行の申立てが取り下げられたとき、又は差押命令の取消決定が確定したときも」とあるのは「没収保全が効力を失つたとき、又は代替金が納付されたときも」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1452,8 +1392,8 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十七条第三項から第六項まで及び第八項の規定は、その他の財産権で権利の移転について登記等を要するものについて準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同条第五項中「前項」とあるのは、「第三十一条第三項において準用する前項」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条第三項から第五項まで及び第七項並びに民事執行法第四十八条第二項の規定は、その他の財産権で権利の移転について登記等を要するものについて準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同項中「前項」とあるのは「組織的な犯罪の処罰及び犯罪収益の規制等に関する法律第三十一条第三項において準用する同法第二十七条第四項」と、「執行裁判所」とあるのは「登記等の嘱託をした検察事務官の所属する検察庁の検察官」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1497,7 +1437,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">没収保全が効力を失ったとき、又は代替金が納付されたときは、検察官は、速やかに、検察事務官に当該没収保全の登記等の抹消の嘱託をさせ、及び公示書の除去その他の必要な措置を執らなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、没収保全の登記等の抹消の嘱託は、検察官がその嘱託を指揮する書面又は電磁的記録に基づいて、これを行う。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、没収保全の登記等の抹消の嘱託は、検察官がその嘱託を指揮する書面に基づいて、これを行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1607,19 +1547,12 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の場合においては、書面又は電磁的記録をもって決定の裁判書を作成しなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、電磁的記録をもって作成したときは、最高裁判所規則の定めるところにより、これをファイルに記録しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検察官が前項の決定の裁判書の謄本を執行裁判所（差押処分がされている場合にあっては、当該差押処分をした裁判所書記官。以下この項において同じ。）に提出したときは、執行裁判所は、強制執行を停止しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合における民事執行法の規定の適用については、同法第三十九条第一項第七号の文書の提出があったものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官が第一項の決定の裁判書の謄本（裁判書が電磁的記録である場合にあっては、当該裁判書に記録されている事項を記載した書面であってその内容が当該裁判書に記録されている事項と同一であることの証明がされたもの。第三十九条の二において同じ。）を執行裁判所（差押処分がされている場合にあっては、当該差押処分をした裁判所書記官。以下この項において同じ。）に提出したときは、執行裁判所は、強制執行を停止しなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合における民事執行法の規定の適用については、同法第三十九条第一項第七号の文書の提出があったものとみなす。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">裁判所は、没収保全が効力を失ったとき、代替金が納付されたとき、第一項の理由がなくなったとき、又は強制執行の停止の期間が不当に長くなったときは、検察官若しくは差押債権者の請求により、又は職権で、決定をもって、同項の決定を取り消さなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">第三十二条第二項の規定は、この場合に準用する。</Sentence>
@@ -1638,19 +1571,8 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">担保権の実行としての競売の手続が開始された後に当該担保権について附帯保全命令が発せられた場合において、検察官が当該附帯保全命令の謄本（当該附帯保全命令が電磁的記録である場合にあっては、当該附帯保全命令に記録されている事項を記載した書面であってその内容が当該附帯保全命令に記録されている事項と同一であることの証明がされたもの。次条において同じ。）を提出したときは、執行裁判所は、その手続を停止しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">担保権の実行としての競売の手続が開始された後に当該担保権について附帯保全命令が発せられた場合において、検察官が当該命令の謄本を提出したときは、執行裁判所は、その手続を停止しなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合における民事執行法の規定の適用については、同法第百八十三条第一項第二号ヘ（同法第百八十九条、第百九十二条又は第百九十三条第二項において準用する場合を含む。）の文書の提出があったものとみなす。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="39_2">
-            <ArticleCaption>（謄本の提出に代わる措置）</ArticleCaption>
-            <ArticleTitle>第三十九条の二</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官は、第三十八条第三項の規定による裁判書の謄本の提出又は前条第二項の規定による附帯保全命令の謄本の提出に代えて、最高裁判所規則の定めるところにより、当該裁判書又は当該附帯保全命令に係る事件を特定するために必要な情報として最高裁判所規則で定めるものを提供することができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、検察官は、これらの謄本を提出したものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1688,7 +1610,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">附帯保全命令は、当該附帯保全命令に係る没収保全が効力を有する間、その効力を有する。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">附帯保全命令は、当該命令に係る没収保全が効力を有する間、その効力を有する。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、代替金が納付されたときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1727,47 +1649,13 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">追徴保全命令には、被告人の氏名、罪名、公訴事実の要旨、追徴の根拠となるべき法令の条項、追徴保全額、処分を禁止すべき財産の表示、追徴保全解放金の額、発付の年月日その他最高裁判所規則で定める事項を記載し、又は記録しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">追徴保全命令には、被告人の氏名、罪名、公訴事実の要旨、追徴の根拠となるべき法令の条項、追徴保全額、処分を禁止すべき財産の表示、追徴保全解放金の額、発付の年月日その他最高裁判所規則で定める事項を記載し、裁判長又は受命裁判官が、これに記名押印しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">追徴保全命令には、次の各号に掲げる場合の区分に応じ、裁判長又は受命裁判官が当該各号に定める措置をとらなければならない。</Sentence>
-              </ParagraphSentence>
-              <Item Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">追徴保全命令を書面をもって作成する場合</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">記名押印すること。</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
-              <Item Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">追徴保全命令を電磁的記録をもって作成する場合</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">最高裁判所規則で定める記名押印に代わる措置（追徴保全命令に記録された事項を電子計算機の映像面、書面その他のものに表示したときに、併せて裁判長又は受命裁判官の氏名が表示されることとなるものに限る。）をとること。</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
-            </Paragraph>
-            <Paragraph Num="6">
-              <ParagraphNum>６</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">追徴保全命令を電磁的記録をもって作成したときは、最高裁判所規則の定めるところにより、これをファイルに記録しなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="7">
-              <ParagraphNum>７</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十二条第六項及び第七項の規定は、追徴保全（追徴保全命令による処分の禁止をいう。以下同じ。）について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十二条第四項及び第五項の規定は、追徴保全（追徴保全命令による処分の禁止をいう。以下同じ。）について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1783,7 +1671,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十三条第三項本文及び第四項から第七項までの規定は、前項の規定による追徴保全について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十三条第三項本文及び第四項から第六項までの規定は、前項の規定による追徴保全について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1800,7 +1688,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">追徴保全命令の執行は、当該追徴保全命令の謄本又はファイルに記録された当該追徴保全命令に係る電磁的記録が被告人又は被疑者に送達される前であっても、これをすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">追徴保全命令の執行は、追徴保全命令の謄本が被告人又は被疑者に送達される前であっても、これをすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -1889,14 +1777,14 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">没収保全又は追徴保全（追徴保全命令に基づく仮差押えの執行を除く。以下この節において同じ。）に関する送達については、最高裁判所規則に特別の定めがある場合を除き、民事訴訟に関する法令の規定（民事訴訟法（平成八年法律第百九号）第百九条の四の規定を除く。）を準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同法第百九条の二第二項中「受訴裁判所」とあるのは、「裁判所」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">没収保全又は追徴保全（追徴保全命令に基づく仮差押えの執行を除く。以下この節において同じ。）に関する書類の送達については、最高裁判所規則に特別の定めがある場合を除き、民事訴訟に関する法令の規定（民事訴訟法（平成八年法律第百九号）第百条第二項、第一編第五章第四節第三款、第百十一条及び第百十二条第二項の規定を除く。）を準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「前条の規定による措置を開始した日から二週間」とあるのは「組織的な犯罪の処罰及び犯罪収益の規制等に関する法律第五十条第二項の規定による掲示を始めた日から七日間」と、同項ただし書中「前条の規定による措置を開始した」とあるのは「当該掲示を始めた」と、同法第百十三条中「書類又は電磁的記録」とあるのは「書類」と、「記載又は記録」とあるのは「記載」と、「第百十一条の規定による措置を開始した」とあるのは「組織的な犯罪の処罰及び犯罪収益の規制等に関する法律第五十条第二項の規定による掲示を始めた」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項において準用する民事訴訟法第百十条第三項に規定する公示送達以外の公示送達については、その経過により送達の効力が生ずる期間は、前項において準用する同法第百十二条第一項本文及び第二項の規定にかかわらず、七日間とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項において準用する民事訴訟法第百十条の規定による公示送達は、裁判所書記官が送達すべき書類を保管し、いつでも送達を受けるべき者に交付すべき旨を裁判所の掲示場に掲示してする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1941,12 +1829,6 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">没収保全及び追徴保全に関する手続については、この法律に特別の定めがあるもののほか、刑事訴訟法の規定を準用する。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">没収保全及び追徴保全の請求については、前項の規定にかかわらず、刑事訴訟法第五十四条の三の規定は準用せず、同項の規定による同法第五十四条の四の規定の準用については、同条中「申立て等が、書面によりされたとき（前条第一項の規定に違反してされたとき及び当該申立て等が同項ただし書に該当するときを除く。）、又は裁判所の規則の定めるところにより当該申立て等」とあるのは「没収保全又は追徴保全の請求が、最高裁判所規則の定めるところにより、これらの請求」と、「当該書面に記載され、又は当該」とあるのは「当該」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2328,7 +2210,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">書類その他の物の所有者、所持者若しくは保管者にその物の提出を求め、又は電磁的記録の保管者若しくはこれを利用する権限を有する者にその電磁的記録の提出を求めること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">書類その他の物の所有者、所持者又は保管者にその物の提出を求めること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -2340,7 +2222,7 @@
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">電気通信を行うための設備を他人の通信の用に供する事業を営む者又は自己の業務のために不特定若しくは多数の者の通信を媒介することのできる電気通信を行うための設備を設置している者に対し、その業務上記録している電気通信の送信元、送信先、通信日時その他の通信履歴の電磁的記録のうち必要なものを特定し、三十日を超えない期間（延長する場合には、通じて六十日を超えない期間）を定めて、これを消去しないよう、書面又は電磁的記録により求めること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">電気通信を行うための設備を他人の通信の用に供する事業を営む者又は自己の業務のために不特定若しくは多数の者の通信を媒介することのできる電気通信を行うための設備を設置している者に対し、その業務上記録している電気通信の送信元、送信先、通信日時その他の通信履歴の電磁的記録のうち必要なものを特定し、三十日を超えない期間（延長する場合には、通じて六十日を超えない期間）を定めて、これを消去しないよう、書面で求めること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
@@ -2373,17 +2255,11 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この章に特別の定めがあるもののほか、裁判所若しくは裁判官のする審査、処分若しくは令状の発付、検察官若しくは検察事務官のする処分又は裁判所の審査への利害関係人の参加については第三章及び第四章、刑事訴訟法（第一編第二章及び第五章から第十三章まで、第二編第一章、第三編第一章及び第四章並びに第七編に限る。）、刑事訴訟費用に関する法令並びに刑事事件における第三者所有物の没収手続に関する応急措置法の規定を、共助の要請を受理した場合における措置については国際捜査共助等に関する法律（昭和五十五年法律第六十九号）第四条、第五条第一項（第一号に係る部分に限る。）及び第三項並びに第七条第一項並びに逃亡犯罪人引渡法（昭和二十八年法律第六十八号）第八条第二項及び第三項、第八条の二並びに第十一条第一項及び第二項の規定を、それぞれその性質に反しない限り、準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この章に特別の定めがあるもののほか、裁判所若しくは裁判官のする審査、処分若しくは令状の発付、検察官若しくは検察事務官のする処分又は裁判所の審査への利害関係人の参加については第三章及び第四章、刑事訴訟法（第一編第二章及び第五章から第十三章まで、第二編第一章、第三編第一章及び第四章並びに第七編に限る。）、刑事訴訟費用に関する法令並びに刑事事件における第三者所有物の没収手続に関する応急措置法の規定を、共助の要請を受理した場合における措置については国際捜査共助等に関する法律（昭和五十五年法律第六十九号）第四条、第五条第一項（第一号に係る部分に限る。）及び第三項並びに第七条第一項並びに逃亡犯罪人引渡法（昭和二十八年法律第六十八号）第八条第二項並びに第十一条第一項及び第二項の規定を、それぞれその性質に反しない限り、準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第五十三条第二項の規定は、この章の規定による没収保全及び追徴保全の請求について準用する。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第六十四条の二第一項に規定する譲与の要請の受理及び当該要請を受理した場合における措置については、国際捜査共助等に関する法律第三条、第四条、第十四条第一項前段、第五項及び第六項並びに第十六条第一項の規定を準用する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、同法第三条の見出し中「証拠の送付」とあるのは「執行財産等の引渡し」と、同条第一項中「証拠の送付」とあるのは「執行財産等（組織的な犯罪の処罰及び犯罪収益の規制等に関する法律（平成十一年法律第百三十六号）第六十四条の二第一項に規定する執行財産等をいう。以下同じ。）の引渡し」と、同条第二項中「証拠の送付」とあるのは「執行財産等の引渡し」と、同法第四条中「共助要請書」とあるのは「譲与要請書」と、同法第十四条第一項前段中「証拠の収集を終えた」とあるのは「執行財産等を保管するに至つた」と、「収集した証拠」とあるのは「当該執行財産等」と、「送付しなければ」とあるのは「引き渡さなければ」と、同条第五項中「第一項、第三項又は前項の規定による送付」とあるのは「第一項の規定による引渡し」と、「証拠」とあるのは「執行財産等」と、「返還」とあるのは「処分」と読み替えるものとする。</Sentence>
@@ -4719,19 +4595,6 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和六年六月二一日法律第六〇号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
     <SupplProvision AmendLawNum="令和七年四月二三日法律第二六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -4781,8 +4644,8 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-                <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">第一条の規定（前号に掲げる改正規定を除く。）、第五条中少年法第六条の五及び第十五条の改正規定、第九条中日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う刑事特別法第十三条の改正規定、第十二条中日本国における国際連合の軍隊に対する刑事裁判権の行使に関する議定書の実施に伴う刑事特別法第五条の改正規定、第十四条中日本国における国際連合の軍隊の地位に関する協定の実施に伴う刑事特別法第五条の改正規定、第十八条中国際捜査共助等に関する法律第八条第二項及び第十二条の改正規定、第二十一条の規定、第二十二条中不正競争防止法第二十六条第二項の改正規定（「記載した書面」」を「記載し、又は記録した書面又は電磁的記録」」に、「証拠書類」」を「証拠書類（電磁的記録を含む。）」」に改める部分を除く。）、同法第三十三条の改正規定及び同条の次に一条を加える改正規定、第二十三条中組織的犯罪処罰法第十八条の二の次に二条を加える改正規定、組織的犯罪処罰法第二十条の改正規定、組織的犯罪処罰法第三十条の次に二条を加える改正規定並びに組織的犯罪処罰法第三十一条第一項及び第七十一条第一項第七号の改正規定、第二十六条中国際受刑者移送法第二十一条の改正規定（「第四百八十七条」を「第四百八十七条第一項」に改める部分を除く。）、第二十七条中心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律（次条第一項及び附則第十八条第一項において「医療観察法」という。）第二十四条第三項及び第四項の改正規定、第二十八条中裁判員の参加する刑事裁判に関する法律第六十五条第二項の改正規定並びに第三十四条中性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律目次及び第八条第一項第二号の改正規定、同法第四章第二節に一条を加える改正規定、同法第十二条の改正規定、同条の次に一条を加える改正規定、同法第十三条の改正規定、同法第十七条の見出し並びに同条第一項、第二項及び第五項の改正規定、同法第十八条の見出しを削り、同条の前に見出しを付し、同条の次に一条を加える改正規定、同法第十九条の改正規定、同法第二十条の見出し並びに同条第一項及び第二項の改正規定、同法第四章第四節に二条を加える改正規定並びに同法第二十六条第一項第一号、第四十条第一項第三号及び第四十四条第一号の改正規定並びに次条並びに附則第十五条及び第二十九条の規定、附則第三十五条中刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律（令和四年法律第六十八号）第四百九十一条第七項の改正規定（「及び第九項から第十一項まで並びに第五百十四条」を「、第六項及び第十一項から第十三項まで並びに第五百十三条の二」に改める部分に限る。）、附則第三十八条中財務省設置法（平成十一年法律第九十五号）第二十七条第二項ただし書の改正規定並びに附則第四十条の規定</Sentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定（前号に掲げる改正規定を除く。）、第五条中少年法第六条の五及び第十五条の改正規定、第九条中日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う刑事特別法第十三条の改正規定、第十二条中日本国における国際連合の軍隊に対する刑事裁判権の行使に関する議定書の実施に伴う刑事特別法第五条の改正規定、第十四条中日本国における国際連合の軍隊の地位に関する協定の実施に伴う刑事特別法第五条の改正規定、第十八条中国際捜査共助等に関する法律第八条第二項及び第十二条の改正規定、第二十一条の規定、第二十二条中不正競争防止法第二十六条第二項の改正規定（「記載した書面」」を「記載し、又は記録した書面又は電磁的記録」」に、「証拠書類」」を「証拠書類（電磁的記録を含む。）」」に改める部分を除く。）、同法第三十三条の改正規定及び同条の次に一条を加える改正規定、第二十三条中組織的犯罪処罰法第十八条の二の次に二条を加える改正規定、組織的犯罪処罰法第二十条の改正規定、組織的犯罪処罰法第三十条の次に二条を加える改正規定並びに組織的犯罪処罰法第三十一条第一項及び第七十一条第一項第七号の改正規定、第二十六条中国際受刑者移送法第二十一条の改正規定（「第四百八十七条」を「第四百八十七条第一項」に改める部分を除く。）、第二十七条中心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律（次条第一項及び附則第十八条第一項において「医療観察法」という。）第二十四条第三項及び第四項の改正規定、第二十八条中裁判員の参加する刑事裁判に関する法律第六十五条第二項の改正規定並びに第三十四条中性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律目次及び第八条第一項第二号の改正規定、同法第四章第二節に一条を加える改正規定、同法第十二条の改正規定、同条の次に一条を加える改正規定、同法第十三条の改正規定、同法第十七条の見出し並びに同条第一項、第二項及び第五項の改正規定、同法第十八条の見出しを削り、同条の前に見出しを付し、同条の次に一条を加える改正規定、同法第十九条の改正規定、同法第二十条の見出し並びに同条第一項及び第二項の改正規定、同法第四章第四節に二条を加える改正規定並びに同法第二十六条第一項第一号、第四十条第一項第三号及び第四十四条第一号の改正規定並びに次条並びに附則第十五条及び第二十九条の規定、附則第三十五条中刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律（令和四年法律第六十八号）第四百九十一条第七項の改正規定（「及び第九項から第十一項まで並びに第五百十四条」を「、第六項及び第十一項から第十三項まで並びに第五百十三条の二」に改める部分に限る。）、附則第三十八条中財務省設置法（平成十一年法律第九十五号）第二十七条第二項ただし書の改正規定並びに附則第四十条の規定</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
@@ -4821,35 +4684,6 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、第三号施行日前に第三号改正前刑事訴訟法、第三号改正前少年法、第三号改正前国際捜査共助法、第三号改正前組織的犯罪処罰法又は第三号改正前医療観察法の規定により記録命令付差押えに係る令状が発せられた場合における当該記録命令付差押えについては、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="16">
-        <ArticleCaption>（組織的犯罪処罰法の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第十六条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第二十三条の規定（附則第一条第二号、第三号及び第五号に掲げる改正規定を除く。）による改正後の組織的犯罪処罰法（以下この条及び附則第二十一条第一項において「新組織的犯罪処罰法」という。）第二十三条第八項及び第九項（他の法律においてその例による場合を含む。）の規定は、施行日以後に公訴の提起があったため没収保全が効力を失った場合における通知に代わる公告について適用し、施行日前に公訴の提起があったため没収保全が効力を失った場合における通知に代わる公告については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新組織的犯罪処罰法第五十条第一項（第三十条の規定（附則第一条第二号に掲げる改正規定を除く。）による改正後の国際刑事裁判所に対する協力等に関する法律（附則第二十一条において「新国際刑事裁判所協力法」という。）第四十七条において準用する場合を含む。次項及び第五項において同じ。）において準用する民事訴訟法第百条第二項の規定は、施行日以後に没収保全命令又は追徴保全命令がされた場合における没収保全又は追徴保全に関する送達報告書の提出について、適用する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="4">
-          <ParagraphNum>４</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定にかかわらず、施行前刑事事件又は特定刑事事件における送達報告書の提出については、新組織的犯罪処罰法第五十条第一項において準用する民事訴訟法第百条第二項の規定は、適用しない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、施行前刑事事件又は特定日前刑事事件とこれらの事件以外の刑事事件を併せて審判する場合における送達報告書の提出については、この限りでない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="5">
-          <ParagraphNum>５</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新組織的犯罪処罰法第五十条第一項において準用する民事訴訟法第百十一条から第百十三条までの規定は、施行日以後に没収保全命令又は追徴保全命令がされた場合における没収保全又は追徴保全に関する公示送達について適用し、施行日前に没収保全命令又は追徴保全命令がされた場合における没収保全又は追徴保全に関する公示送達については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -4926,19 +4760,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年六月一三日法律第六七号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -5545,7 +5366,7 @@
       <Item Num="28">
         <ItemTitle>二十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法第七十条第一項第一号（不法入国）、第二号（不法上陸）若しくは第五号（不法残留）若しくは第二項（不法在留）の罪（正犯により犯されたものを除く。）、同法第七十三条の二第一項（不法就労助長）、第七十三条の三第一項から第六項まで（在留カード偽造等）、第七十三条の四（偽造在留カード等所持）、第七十四条第一項（集団密航者を不法入国させる行為等）、第七十四条の二（集団密航者の輸送）若しくは第七十四条の四第一項（集団密航者の収受等）の罪、同法第七十四条の六（不法入国等援助）の罪（同法第七十条第一項第一号又は第二号に規定する行為に係るものに限る。）又は同法第七十四条の六の二第一項第一号（難民旅行証明書等の不正受交付）若しくは第二号（偽造外国旅券等の所持等）若しくは第二項（営利目的の難民旅行証明書等の不正受交付等）若しくは第七十四条の八第一項若しくは第二項（不法入国者等の蔵匿等）の罪</Sentence>
+          <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法第七十条第一項第一号（不法入国）、第二号（不法上陸）若しくは第五号（不法残留）若しくは第二項（不法在留）の罪（正犯により犯されたものを除く。）、同法第七十三条の三第一項から第六項まで（在留カード偽造等）、第七十三条の四（偽造在留カード等所持）、第七十四条第一項（集団密航者を不法入国させる行為等）、第七十四条の二（集団密航者の輸送）若しくは第七十四条の四第一項（集団密航者の収受等）の罪、同法第七十四条の六（不法入国等援助）の罪（同法第七十条第一項第一号又は第二号に規定する行為に係るものに限る。）又は同法第七十四条の六の二第一項第一号（難民旅行証明書等の不正受交付）若しくは第二号（偽造外国旅券等の所持等）若しくは第二項（営利目的の難民旅行証明書等の不正受交付等）若しくは第七十四条の八第一項若しくは第二項（不法入国者等の蔵匿等）の罪</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="29">
@@ -5942,12 +5763,6 @@
         <ItemTitle>九十三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律（令和五年法律第六十七号）第三条第二項（不特定又は多数の者に対する性的影像記録提供等）又は第五条第一項若しくは第二項（性的姿態等影像送信）の罪</Sentence>
-        </ItemSentence>
-      </Item>
-      <Item Num="95">
-        <ItemTitle>九十四</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律第八十条（詐欺権利変更）又は第八十一条（特定の対象債権者に対する担保の供与等）の罪</Sentence>
         </ItemSentence>
       </Item>
     </AppdxTable>
