@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="005" Year="23" PromulgateMonth="02" PromulgateDay="09">
-  <LawNum>昭和二十三年法律第五号</LawNum>
-  <LawBody>
-    <LawTitle Kana="こくりつこっかいとしょかんほう" Abbrev="" AbbrevKana="">国立国会図書館法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="23" Num="005" PromulgateMonth="2" PromulgateDay="9" LawType="Act"><LawNum>昭和二十三年法律第五号</LawNum><LawBody><LawTitle Kana="こくりつこっかいとしょかんほう" Abbrev="" AbbrevKana="">国立国会図書館法</LawTitle>
     <Preamble>
       <Paragraph Num="1">
         <ParagraphNum/>
@@ -1623,6 +1620,19 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月二一日法律第六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表第一</AppdxTableTitle>
       <RelatedArticleNum>（第二十四条関係）</RelatedArticleNum>
@@ -1646,10 +1656,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">外国人技能実習機構</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外国人育成就労機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">外国人の技能実習の適正な実施及び技能実習生の保護に関する法律（平成二十八年法律第八十九号）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外国人の育成就労の適正な実施及び育成就労外国人の保護に関する法律（平成二十八年法律第八十九号）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>

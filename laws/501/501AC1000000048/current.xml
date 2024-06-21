@@ -302,13 +302,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">国は、事業主がその雇用する外国人等（次項に規定する技能実習生を除く。）に対して、日本語学習の機会を提供するとともに、研修等により専門分野に関する日本語教育の充実を図ることができるよう、必要な支援を行うものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">国は、事業主がその雇用する外国人等（次項に規定する育成就労外国人を除く。）に対して、日本語学習の機会を提供するとともに、研修等により専門分野に関する日本語教育の充実を図ることができるよう、必要な支援を行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">国は、事業主等が技能実習生（出入国管理及び難民認定法別表第一の二の表の技能実習の在留資格をもって在留する者をいう。）に対して日本語能力の更なる向上の機会を提供することができるよう、教材の開発その他の日本語学習に関する必要な支援を行うものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">国は、事業主等が育成就労外国人（出入国管理及び難民認定法別表第一の二の表の育成就労の在留資格をもって在留する者をいう。）に対して日本語能力の更なる向上の機会を提供することができるよう、教材の開発その他の日本語学習に関する必要な支援を行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -568,6 +568,19 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月二一日法律第六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>
