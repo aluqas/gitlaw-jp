@@ -410,6 +410,17 @@
                 </Column>
               </ItemSentence>
             </Item>
+            <Item Num="17">
+              <ItemTitle>十七</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">電磁的記録</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">電磁的方式（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式をいう。以下同じ。）で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="2_2">
@@ -940,13 +951,13 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">前項の申請をしようとする外国人は、入国審査官に対し、申請者の個人の識別のために用いられる法務省令で定める電子計算機の用に供するため、法務省令で定めるところにより、電磁的方式（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式をいう。以下同じ。）によつて個人識別情報（指紋、写真その他の個人を識別することができる情報として法務省令で定めるものをいう。以下同じ。）を提供しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前項の申請をしようとする外国人は、入国審査官に対し、申請者の個人の識別のために用いられる法務省令で定める電子計算機の用に供するため、法務省令で定めるところにより、電磁的方式によつて個人識別情報（指紋、写真その他の個人を識別することができる情報として法務省令で定めるものをいう。以下同じ。）を提供しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号のいずれかに該当する者については、この限りでない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号）に定める特別永住者（以下「特別永住者」という。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号。以下「特例法」という。）に定める特別永住者（以下「特別永住者」という。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -1943,58 +1954,88 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">在留資格、在留期間及び在留期間の満了の日</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">在留資格及び在留期間の満了の日</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">許可の種類及び年月日</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">在留カードの番号及び有効期間の満了の日</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">在留カードの番号、交付年月日及び有効期間の満了の日</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">就労制限の有無</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">就労制限の有無</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第十九条第二項の規定による許可を受けているときは、その旨</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="7">
                   <ItemTitle>七</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第十九条第二項の規定による許可を受けているときは、その旨</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その他法務省令で定める事項</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項第五号の在留カードの番号は、法務省令で定めるところにより、在留カードの交付（再交付を含む。）ごとに異なる番号を定めるものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第四号の在留カードの番号は、法務省令で定めるところにより、在留カードの交付（再交付を含む。）ごとに異なる番号を定めるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">在留カードには、法務省令で定めるところにより、中長期在留者の写真を表示するものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">在留カードには、交付の日において本人の年齢が法務省令で定める年齢に満たない場合を除き、法務省令で定めるところにより、中長期在留者の写真を表示するものとする。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">この場合において、出入国在留管理庁長官は、第六条第三項の規定その他法務省令で定める法令の規定により当該中長期在留者から提供された写真を利用することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前三項に規定するもののほか、在留カードの様式、在留カードに表示すべきものその他在留カードについて必要な事項は、法務省令で定める。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の規定により記載される事項の記載方法、前項の規定により表示される写真の表示方法、在留カードの様式その他在留カードについて必要な事項は、法務省令で定める。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="5">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、法務省令で定めるところにより、第一項各号に掲げる事項及び前二項の規定により表示されるものについて、その全部又は一部を、在留カードに電磁的方式により記録することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、法務省令で定めるところにより、第一項各号に掲げる事項及び第三項の規定により表示される写真に係る事項のほか、次に掲げる事項を、在留カードに電磁的方式により記録するものとする。</Sentence>
                 </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">在留期間</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">許可の種類及び年月日</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="3">
+                  <ItemTitle>三</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">在留カードの交付年月日</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="4">
+                  <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、法務省令で定める事項</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第一項各号に掲げる事項、第三項の規定により表示される写真に係る事項及び前各号に掲げる事項について、出入国在留管理庁長官が記録した旨</Sentence>
+                  </ItemSentence>
+                </Item>
               </Paragraph>
             </Article>
             <Article Num="19_5">
@@ -2012,7 +2053,7 @@
                       <Sentence Num="1" WritingMode="vertical">永住者（次号に掲げる者を除く。）又は高度専門職の在留資格（別表第一の二の表の高度専門職の項の下欄第二号に係るものに限る。）をもつて在留する者</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">在留カードの交付の日から起算して七年を経過する日</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">在留カードの交付の日（第十九条の十一第一項の規定による申請があつた場合は、当該申請をした者がその時に所持していた在留カード（次号及び第十九条の十五の三において「旧カード」という。）の有効期間の満了の日）後の十回目の誕生日（当該外国人の誕生日が二月二十九日であるときは、当該外国人のうるう年以外の年における誕生日は二月二十八日であるものとみなす。以下同じ。）</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -2020,10 +2061,10 @@
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">永住者であつて、在留カードの交付の日に十六歳に満たない者（第十九条の十一第三項において準用する第十九条の十第二項の規定により在留カードの交付を受ける者を除く。第四号において同じ。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">永住者であつて、在留カードの交付の日に十八歳に満たない者（第十九条の十一第一項の規定による申請については、旧カードの有効期間の満了の日が十八歳の誕生日である者を除く。）</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">十六歳の誕生日（当該外国人の誕生日が二月二十九日であるときは、当該外国人のうるう年以外の年における誕生日は二月二十八日であるものとみなす。以下同じ。）の前日</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">在留カードの交付の日（同項の規定による申請があつた場合は、旧カードの有効期間の満了の日）後の五回目の誕生日</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -2031,21 +2072,10 @@
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">前二号に掲げる者以外の者（次号に掲げる者を除く。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">前二号に掲げる者以外の者</Sentence>
                     </Column>
                     <Column Num="2">
                       <Sentence Num="1" WritingMode="vertical">在留期間の満了の日</Sentence>
-                    </Column>
-                  </ItemSentence>
-                </Item>
-                <Item Num="4">
-                  <ItemTitle>四</ItemTitle>
-                  <ItemSentence>
-                    <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">第一号又は第二号に掲げる者以外の者であつて、在留カードの交付の日に十六歳に満たない者</Sentence>
-                    </Column>
-                    <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">在留期間の満了の日又は十六歳の誕生日の前日のいずれか早い日</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -2053,7 +2083,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項第三号又は第四号の規定により、在留カードの有効期間が在留期間の満了の日が経過するまでの期間となる場合において、当該在留カードの交付を受けた中長期在留者が、第二十条第六項（第二十一条第四項において準用する場合を含む。以下この項、第二十四条第四号ロ及び第二十六条第四項において同じ。）の規定により、在留期間の満了後も引き続き本邦に在留することができることとなる場合にあつては、当該在留カードの有効期間は、第二十条第六項の規定により在留することができる期間の終了の時までの期間とする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第三号の規定により、在留カードの有効期間が在留期間の満了の日が経過するまでの期間となる場合において、当該在留カードの交付を受けた中長期在留者が、第二十条第六項（第二十一条第四項において準用する場合を含む。以下この項、第二十四条第四号ロ及び第二十六条第四項において同じ。）の規定により、在留期間の満了後も引き続き本邦に在留することができることとなる場合にあつては、当該在留カードの有効期間は、第二十条第六項の規定により在留することができる期間の終了の時までの期間とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2161,7 +2191,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">在留カードの交付を受けた中長期在留者は、当該在留カードの有効期間が当該中長期在留者の在留期間の満了の日までとされている場合を除き、当該在留カードの有効期間の満了の日の二月前（有効期間の満了の日が十六歳の誕生日の前日とされているときは、六月前）から有効期間が満了する日までの間（次項において「更新期間」という。）に、法務省令で定める手続により、出入国在留管理庁長官に対し、在留カードの有効期間の更新を申請しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">在留カードの交付を受けた中長期在留者は、当該在留カードの有効期間が当該中長期在留者の在留期間の満了の日までとされている場合を除き、当該在留カードの有効期間の満了の日の三月前から有効期間が満了する日までの間（次項において「更新期間」という。）に、法務省令で定める手続により、出入国在留管理庁長官に対し、在留カードの有効期間の更新を申請しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -2199,14 +2229,14 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">在留カードの交付を受けた中長期在留者は、当該在留カードが著しく毀損し、若しくは汚損し、又は第十九条の四第五項の規定による記録が毀損したとき（以下この項において「毀損等の場合」という。）は、法務省令で定める手続により、出入国在留管理庁長官に対し、在留カードの再交付を申請することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">在留カードの交付を受けた中長期在留者は、当該在留カードが著しく毀損し、若しくは汚損し、又は第十九条の四第五項の規定による記録（以下「在留カード電磁的記録」という。）が毀損したとき（以下この項において「毀損等の場合」という。）は、法務省令で定める手続により、出入国在留管理庁長官に対し、在留カードの再交付を申請することができる。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">在留カードの交付を受けた中長期在留者が、毀損等の場合以外の場合であつて在留カードの交換を希望するとき（正当な理由がないと認められるときを除く。）も、同様とする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、著しく毀損し、若しくは汚損し、又は第十九条の四第五項の規定による記録が毀損した在留カードを所持する中長期在留者に対し、在留カードの再交付を申請することを命ずることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、著しく毀損し、若しくは汚損し、又は在留カード電磁的記録が毀損した在留カードを所持する中長期在留者に対し、在留カードの再交付を申請することを命ずることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
@@ -2293,6 +2323,184 @@
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">在留カードが前条第六号の規定により効力を失つたときは、死亡した中長期在留者の親族又は同居者は、その死亡の日（死亡後に在留カードを発見するに至つたときは、その発見の日）から十四日以内に、出入国在留管理庁長官に対し、当該在留カードを返納しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="19_15_2">
+              <ArticleCaption>（特定在留カードの交付等）</ArticleCaption>
+              <ArticleTitle>第十九条の十五の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">住民基本台帳に記録されている中長期在留者は、次の各号に掲げる届出又は申請を行う場合には、当該各号に掲げる届出又は申請に併せて、総務省令・法務省令で定める手続により、出入国在留管理庁長官に対し、当該各号に掲げる届出又は申請に係る在留カードの交付を、特定在留カード（この条の規定及び行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下この条及び第十九条の十五の四において「番号利用法」という。）第十八条の五の規定に定める手続により個人番号カード（番号利用法第二条第七項に規定する個人番号カードをいう。第十九条の十五の四において同じ。）としての機能を付加するための措置が講じられた在留カードをいう。以下同じ。）の交付により行うことを求める旨の申請をすることができる。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第十九条の十第一項の規定による届出又は第十九条の十一第一項若しくは第十九条の十三第一項若しくは第三項の規定による申請</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">第二十条第二項の規定による申請（引き続き中長期在留者に該当する在留資格の変更（これに伴う在留期間の変更を含む。）に係る申請に限る。）又は第二十一条第二項若しくは第二十二条第一項の規定による申請</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の場合のほか、中長期在留者は、第十九条の七第三項の規定により同条第一項の規定による届出とみなされる同条第三項の届出、第十九条の八第三項の規定により同条第一項の規定による届出とみなされる同条第三項の届出又は第十九条の九第三項の規定により同条第一項の規定による届出とみなされる同条第三項の届出により、新たに住民基本台帳に記録される場合又は一の市町村の区域内において住所を変更する場合には、当該届出に併せて、総務省令・法務省令で定める手続により、住所地市町村長（当該届出を行う中長期在留者が記録されている住民基本台帳を備える市町村の長をいう。以下この条において同じ。）を経由して出入国在留管理庁長官に対し、当該住所地市町村長を経由した特定在留カードの交付を求める旨の申請をすることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定による申請を行う者（当該申請の際に当該住所地市町村長により番号利用法第十八条の五第六項に規定する措置がとられた者に限る。）のうち特定在留カードの交付を速やかに受ける必要がある者として政令で定めるものに該当する者は、当該申請に併せて、出入国在留管理庁長官から特定在留カードの送付を受けることを希望する旨の申出をすることができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="4">
+                <ParagraphNum>４</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、第一項又は第二項の規定による申請があつた場合（第一項（第二号に係る部分に限る。）の規定による申請にあつては、法務大臣が同号に掲げる申請の許可をすることとした場合に限る。）は、政令で定めるところにより、当該中長期在留者に係る特定在留カードを作成するものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、第一項の規定による申請があつた場合（番号利用法第十八条の五第四項の規定による通知があつた場合に限る。）においては、第一項第一号に掲げる届出又は申請に係る第十九条の十第二項（第十九条の十一第三項及び第十九条の十三第四項において準用する場合を含む。）の規定による在留カードの交付及び第一項第二号に掲げる申請に係る第二十条第四項第一号（第二十一条第四項において準用する場合を含む。）又は第二十二条第三項の規定による在留カードの交付は、前項の規定により作成した当該中長期在留者に係る特定在留カードを入国審査官に交付させることにより行うものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="6">
+                <ParagraphNum>６</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、第二項の規定による申請があつた場合（番号利用法第十八条の五第四項の規定による通知があつた場合に限る。）においては、第四項の規定により作成した当該中長期在留者に係る特定在留カードを住所地市町村長を経由して交付するものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="7">
+                <ParagraphNum>７</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、第二項の規定による申請に併せて第三項の規定による申出があつた場合（番号利用法第十八条の五第四項の規定による通知があつた場合に限る。）における前項の特定在留カードの交付は、政令で定めるところにより、出入国在留管理庁長官が、当該中長期在留者に対し、当該特定在留カードを送付することにより行う。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="8">
+                <ParagraphNum>８</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前三項の場合において、第一項若しくは第二項の規定による申請又は同項の規定による申請に併せてされた第三項の規定による申出後に第十九条の四第一項第一号に掲げる事項に変更を生じたときその他の出入国在留管理庁長官が当該外国人に特定在留カードを交付することが相当でないと認めるときは、前三項の規定にかかわらず、出入国在留管理庁長官は、特定在留カードを交付しないことができる。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="9">
+                <ParagraphNum>９</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第六項の規定により交付される特定在留カードを受領する者は、その者が記録されている住民基本台帳を備える市町村の事務所に自ら出頭してこれを行わなければならない。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、当該特定在留カードの受領により第十九条の十四第五号に該当して効力を失つたその所持する在留カードの前条第二項の規定による返納は、直ちに当該在留カードを住所地市町村長に引き渡し、当該住所地市町村長を経由して出入国在留管理庁長官に対して返納する方法により行わなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="10">
+                <ParagraphNum>１０</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第六十一条の八の三第二項及び第三項の規定は、前項の規定により特定在留カードを受領する場合について準用する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、同条第二項中「前項第一号又は第二号に掲げる行為」とあり、及び同条第三項中「第一項第一号及び第二号に掲げる行為」とあるのは、「第十九条の十五の二第九項前段の規定による行為」と読み替えるものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="11">
+                <ParagraphNum>１１</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第七項の規定により出入国在留管理庁長官が当該中長期在留者に対して特定在留カードを送付することにより交付した場合における前条第二項の規定の適用については、同項中「返納し」とあるのは、「送付して返納し」とする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="12">
+                <ParagraphNum>１２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第六十七条の二の規定にかかわらず、外国人は、第一項（第一号に係る部分に限る。）若しくは第二項の規定による申請又は同項の規定による申請に併せてされた第三項の規定による申出に基づき第五項から第七項までの規定により特定在留カードの交付を受けるときは、政令で定める場合を除くほか、政令で定める額の手数料を納付しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="19_15_3">
+              <ArticleCaption>（特定在留カードの有効期間等）</ArticleCaption>
+              <ArticleTitle>第十九条の十五の三</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十九条の五第一項の規定にかかわらず、次の各号に掲げる特定在留カードの有効期間は、当該各号に掲げる区分に応じ、当該各号に定める日が経過するまでの期間とする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">第十九条の五第一項第一号及び第二号に掲げる中長期在留者（次号に掲げる者を除く。）による前条第一項第一号に掲げる届出若しくは申請又は同条第二項に規定する届出に係る特定在留カード</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該届出又は申請の日（第十九条の十一第一項の規定による申請があつた場合は、旧カードの有効期間の満了の日）後の十回目の誕生日</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">永住者であつて、前条第一項第一号に掲げる届出若しくは申請又は同条第二項に規定する届出の日に十八歳に満たない者（第十九条の十一第一項の規定による申請については、旧カードの有効期間の満了の日が十八歳の誕生日である者を除く。）に係る特定在留カード</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">当該届出又は申請の日（第十九条の十一第一項の規定による申請があつた場合は、旧カードの有効期間の満了の日）後の五回目の誕生日</Sentence>
+                    </Column>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第一項の規定による申請（第十九条の十一第一項の規定による申請に係るものに限る。）があつた場合において、旧カードの有効期間の満了の日が経過するまでに、新たな特定在留カードが交付されないときは、第十九条の五第一項又は前項の規定にかかわらず、旧カードの有効期間は、次に掲げる時のいずれか早い時までの期間とする。</Sentence>
+                </ParagraphSentence>
+                <Item Num="1">
+                  <ItemTitle>一</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">新たな特定在留カードが交付される時</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="2">
+                  <ItemTitle>二</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1" WritingMode="vertical">旧カードの有効期間の満了の日から二月を経過する日が終了する時</Sentence>
+                  </ItemSentence>
+                </Item>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、前項第二号に掲げる時までに新たな特定在留カードの交付が困難であると認めるときは、その時までに、入国審査官に、当該中長期在留者に対し、新たな在留カードを交付させ、新たな特定在留カードの交付が可能となつたときは、当該特定在留カードを交付させるものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="19_15_4">
+              <ArticleCaption>（個人番号カードの機能の失効等に係る特定在留カードの取扱い）</ArticleCaption>
+              <ArticleTitle>第十九条の十五の四</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定在留カードについては、番号利用法第十八条の五第九項の規定により個人番号カードとみなして適用する番号利用法第十七条第十項の規定による個人番号カードの失効は、その在留カードとしての効力に影響を及ぼさない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="2">
+                <ParagraphNum>２</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">番号利用法第十八条の五第九項の規定により個人番号カードとみなして適用する番号利用法第十七条第十一項の規定又は番号利用法第四十七条の規定に基づく政令の規定による特定在留カードの返納は、これらの規定にかかわらず、法務省令で定める手続により、出入国在留管理庁長官に対して返納する方法により行うものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項の場合において、当該特定在留カードを返納する者が引き続き中長期在留者に該当するときは、出入国在留管理庁長官は、当該返納の際に、入国審査官に、当該中長期在留者に対し、新たな在留カードを交付させるものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="19_15_5">
+              <ArticleCaption>（デジタル庁令・総務省令・法務省令への委任）</ArticleCaption>
+              <ArticleTitle>第十九条の十五の五</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">前三条に定めるもののほか、特定在留カードの様式その他特定在留カードに関し必要な事項は、デジタル庁令・総務省令・法務省令で定める。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2869,7 +3077,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">入国審査官又は入国警備官は、前項の調査のため必要があるときは、関係人に対し、出頭を求め、質問をし、又は文書の提示を求めることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">入国審査官又は入国警備官は、前項の調査のため必要があるときは、関係人に対し、出頭を求め、質問をし、又は文書若しくは電磁的記録の提示を求めることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
@@ -3115,7 +3323,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、不実の記載のある文書（不実の記載のある文書又は図画の提出又は提示により交付を受けた在留資格認定証明書及び不実の記載のある文書又は図画の提出又は提示により旅券に受けた査証を含む。）又は図画の提出又は提示により、上陸許可の証印等を受けたこと。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、不実の記載又は記録のある文書（不実の記載又は記録のある文書若しくは図画又は電磁的記録の提出又は提示により交付を受けた在留資格認定証明書及び不実の記載又は記録のある文書若しくは図画又は電磁的記録の提出又は提示により旅券に受けた査証を含む。）若しくは図画又は電磁的記録の提出又は提示により、上陸許可の証印等を受けたこと。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
@@ -3387,7 +3595,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前二項の外国人は、入国審査官、入国警備官、警察官、海上保安官その他法務省令で定める国又は地方公共団体の職員が、その職務の執行に当たり、これらの規定に規定する旅券又は在留カード（以下この条において「旅券等」という。）の提示を求めたときは、これを提示しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の外国人は、入国審査官、入国警備官、警察官、海上保安官その他法務省令で定める国又は地方公共団体の職員が、その職務の執行に当たり、これらの規定に規定する旅券又は在留カード（以下この条において「旅券等」という。）の提示（在留カードにあつては、在留カード電磁的記録の内容を確認するために必要な措置を受けることを含む。）を求めたときは、これに応じなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -3444,7 +3652,7 @@
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">他の外国人に不正に前章第一節若しくは第二節の規定による証明書の交付、上陸許可の証印（第九条第四項の規定による記録を含む。）若しくは許可、同章第四節の規定による上陸の許可又は前二節、第五十条第一項若しくは第六十一条の二の五第一項の規定による許可を受けさせる目的で、文書若しくは図画を偽造し、若しくは変造し、虚偽の文書若しくは図画を作成し、若しくは偽造若しくは変造された文書若しくは図画若しくは虚偽の文書若しくは図画を行使し、所持し、若しくは提供し、又はこれらの行為を唆し、若しくはこれを助けた者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">他の外国人に不正に前章第一節若しくは第二節の規定による証明書の交付、上陸許可の証印（第九条第四項の規定による記録を含む。）若しくは許可、同章第四節の規定による上陸の許可又は前二節、第五十条第一項若しくは第六十一条の二の五第一項の規定による許可を受けさせる目的で、文書若しくは図画を偽造し、若しくは変造し、虚偽の文書若しくは図画を作成し、若しくは電磁的記録を不正に作り、若しくは偽造され、若しくは変造された文書若しくは図画若しくは虚偽の文書若しくは図画を行使し、所持し、若しくは提供し、若しくは不正に作られた電磁的記録を人の事務処理の用に供し、若しくは行使し、又はこれらの行為を唆し、若しくはこれを助けた者</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3_2">
@@ -3486,12 +3694,12 @@
               <Item Num="3_5">
                 <ItemTitle>三の五</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">次のイからニまでに掲げるいずれかの行為を行い、唆し、又はこれを助けた者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイからホまでに掲げるいずれかの行為を行い、唆し、又はこれを助けた者</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">行使の目的で、在留カード若しくは日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法第七条第一項に規定する特別永住者証明書（以下単に「特別永住者証明書」という。）を偽造し、若しくは変造し、又は偽造若しくは変造の在留カード若しくは特別永住者証明書を提供し、収受し、若しくは所持すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">行使の目的又は人の事務処理を誤らせる目的で、在留カード若しくは在留カード電磁的記録（以下この号において「在留カード等」という。）若しくは特例法第七条第一項に規定する特別永住者証明書若しくは特例法第十四条第一項に規定する特別永住者証明書電磁的記録（ホにおいて単に「特別永住者証明書電磁的記録」という。）（以下この号において「特別永住者証明書等」という。）を偽造し、変造し、若しくは不正に作り、又は偽造され、変造され、若しくは不正に作られた在留カード等若しくは特別永住者証明書等を提供し、収受し、所持し、若しくは保管すること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
@@ -3503,13 +3711,19 @@
                 <Subitem1 Num="3">
                   <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">偽造若しくは変造の在留カード若しくは特別永住者証明書又は他人名義の在留カード若しくは特別永住者証明書を行使すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">偽造され、変造され、若しくは不正に作られた在留カード等若しくは特別永住者証明書等を行使し、若しくは人の事務処理の用に供し、又は他人名義の在留カード若しくは特別永住者証明書を行使すること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="4">
                   <Subitem1Title>ニ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">在留カード若しくは特別永住者証明書の偽造又は変造の用に供する目的で、器械又は原料を準備すること。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">在留カード等若しくは特別永住者証明書等を偽造し、変造し、又は不正に作る行為の用に供する目的で、器械又は原料を準備すること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">ニの目的で、在留カード電磁的記録又は特別永住者証明書電磁的記録（以下このホにおいて「在留カード電磁的記録等」という。）の情報を取得し、若しくは提供し、又は不正に取得された在留カード電磁的記録等の情報を保管すること。</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -4041,7 +4255,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">入国警備官は、違反調査をするため必要があるときは、その所属官署の所在地を管轄する地方裁判所又は簡易裁判所の裁判官があらかじめ発する許可状により、臨検、捜索、差押え又は記録命令付差押え（電磁的記録（電磁的方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。以下この節及び第五十七条第九項において同じ。）を保管する者その他電磁的記録を利用する権限を有する者に命じて必要な電磁的記録を記録媒体に記録させ、又は印刷させた上、当該記録媒体を差し押さえることをいう。以下この節において同じ。）をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">入国警備官は、違反調査をするため必要があるときは、その所属官署の所在地を管轄する地方裁判所又は簡易裁判所の裁判官があらかじめ発する許可状により、臨検、捜索、差押え又は記録命令付差押え（電磁的記録を保管する者その他電磁的記録を利用する権限を有する者に命じて必要な電磁的記録を記録媒体に記録させ、又は印刷させた上、当該記録媒体を差し押さえることをいう。以下この節において同じ。）をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -4937,7 +5151,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">入国審査官又は入国警備官は、前二項の調査のため必要があるときは、関係人に対し出頭を求め、質問をし、又は文書の提示を求めることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">入国審査官又は入国警備官は、前二項の調査のため必要があるときは、関係人に対し出頭を求め、質問をし、又は文書若しくは電磁的記録の提示を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -5578,7 +5792,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">入国審査官又は入国警備官は、前二項の調査のため必要があるときは、関係人に対し出頭を求め、質問をし、又は文書の提示を求めることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">入国審査官又は入国警備官は、前二項の調査のため必要があるときは、関係人に対し出頭を求め、質問をし、又は文書若しくは電磁的記録の提示を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
@@ -8204,7 +8418,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">入国審査官又は入国警備官は、前項の調査のため必要があるときは、外国人その他の関係人に対し出頭を求め、質問をし、又は文書の提示を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">入国審査官又は入国警備官は、前項の調査のため必要があるときは、外国人その他の関係人に対し出頭を求め、質問をし、又は文書若しくは電磁的記録の提示を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -9120,7 +9334,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">難民調査官は、前二項の調査のため必要があるときは、関係人に対し出頭を求め、質問をし、又は文書の提示を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">難民調査官は、前二項の調査のため必要があるときは、関係人に対し出頭を求め、質問をし、又は文書若しくは電磁的記録の提示を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -9557,7 +9771,7 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">第十九条の十第一項の規定による届出、第十九条の十一第一項若しくは第二項、第十九条の十二第一項若しくは第十九条の十三第一項若しくは第三項の規定による申請、第十九条の十第二項（第十九条の十一第三項、第十九条の十二第二項及び第十九条の十三第四項において準用する場合を含む。）の規定により交付される在留カードの受領又は第四十四条の六、第五十二条の五若しくは第六十三条の二第二項の規定による届出</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第十九条の十第一項の規定による届出、第十九条の十一第一項若しくは第二項、第十九条の十二第一項若しくは第十九条の十三第一項若しくは第三項の規定による申請、第十九条の十第二項（第十九条の十一第三項、第十九条の十二第二項及び第十九条の十三第四項において準用する場合を含む。）若しくは第十九条の十五の四第三項の規定により交付される在留カードの受領又は第四十四条の六、第五十二条の五若しくは第六十三条の二第二項の規定による届出</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">地方出入国在留管理局</Sentence>
@@ -9579,7 +9793,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">外国人が十六歳に満たない場合又は疾病その他の事由により自ら前項第一号又は第二号に掲げる行為をすることができない場合には、当該行為は、次の各号に掲げる者（十六歳に満たない者を除く。）であつて当該外国人と同居するものが、当該各号の順序により、当該外国人に代わつてしなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外国人が十六歳に満たないとき、第十九条の十一第一項の規定による申請若しくは同条第三項において準用する第十九条の十第二項の規定により交付される在留カードの受領をする場合であつてその申請の日若しくは受領の日が十六歳の誕生日であるとき、又は疾病その他の事由により自ら前項第一号又は第二号に掲げる行為をすることができないときは、当該行為は、次の各号に掲げる者（十六歳に満たない者を除く。）であつて当該外国人と同居するものが、当該各号の順序により、当該外国人に代わつてしなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -9939,7 +10153,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第十九条の七第一項及び第二項（第十九条の八第二項及び第十九条の九第二項において準用する場合を含む。）、第十九条の八第一項並びに第十九条の九第一項の規定により市町村が処理することとされている事務は、地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第十九条の七第一項及び第二項（第十九条の八第二項及び第十九条の九第二項において準用する場合を含む。）、第十九条の八第一項、第十九条の九第一項並びに第十九条の十五の二第二項、第六項及び第九項後段の規定により市町村が処理することとされている事務は、地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -10431,7 +10645,25 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前三項の罪の未遂は、罰する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">人の事務処理を誤らせる目的で、在留カード電磁的記録を不正に作つた者も、第一項と同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">不正に作られた在留カード電磁的記録を、前項の目的で、人の事務処理の用に供した者も、第一項と同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">不正に作られた在留カード電磁的記録が記録された在留カードを、第四項の目的で、提供し、又は収受した者も、第一項と同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前各項の罪の未遂は、罰する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -10443,13 +10675,37 @@
               <Sentence Num="1" WritingMode="vertical">行使の目的で、偽造又は変造の在留カードを所持した者は、五年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">人の事務処理を誤らせる目的で、不正に作られた在留カード電磁的記録が記録された在留カードを所持した者も、前項と同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
         </Article>
         <Article Num="73_5">
           <ArticleTitle>第七十三条の五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第七十三条の三第一項の犯罪行為の用に供する目的で、器械又は原料を準備した者は、三年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第七十三条の三第一項又は第四項の犯罪行為の用に供する目的で、器械又は原料を準備した者は、三年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七十三条の三第四項の犯罪行為の用に供する目的で、在留カード電磁的記録の情報を取得し、又は提供した者も、前項と同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">不正に取得された在留カード電磁的記録の情報を、第七十三条の三第四項の犯罪行為の用に供する目的で保管した者も、第一項と同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項の罪の未遂は、罰する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -10699,7 +10955,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十三条第三項の規定に違反して在留カードの提示を拒んだ者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十三条第三項の規定に違反して、在留カードの提示を拒み、又は在留カード電磁的記録の内容を確認するために必要な措置を受けることを拒んだ者</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -14217,7 +14473,7 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第二十条の規定による改正後の出入国管理及び難民認定法第六十一条の八の二第七項及び第八項</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二十条の規定による改正後の出入国管理及び難民認定法及び第八項</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -14310,6 +14566,54 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（在留カードに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日（以下「施行日」という。）前に交付された在留カード（出入国管理及び難民認定法（第三項において「入管法」という。）第十九条の三に規定する在留カードをいう。以下この条及び附則第四条において同じ。）の有効期間については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に交付された有効期間の満了の日が十六歳の誕生日の前日とされている在留カードの有効期間の更新の手続については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に交付された有効期間の満了の日が十六歳の誕生日の前日とされている在留カードの有効期間の更新の申請があった場合に新たに交付される在留カードの有効期間については、第一条の規定による改正後の入管法第十九条の五第一項第二号中「五回目」とあるのは、「六回目」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に交付された在留カードに係る提示義務については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（退去強制に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条第一項に規定する在留カード又は前条第一項に規定する特別永住者証明書に関して行われる行為を事由とする退去強制については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="11">
@@ -14455,6 +14759,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（電磁的記録提供命令等における留意事項）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第一条の規定による改正後の刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令をいう。）により電磁的記録を提供させ、又は電磁的記録に係る記録媒体を押収するに当たっては、デジタル社会において個人情報の保護がより重要となっていることに鑑み、できる限り被告事件又は被疑事件と関連性を有しない個人情報を取得することとならないよう、特に留意しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
