@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Year="06" Num="063" LawType="Act" Lang="ja" PromulgateMonth="06" PromulgateDay="21" Era="Reiwa"><LawNum>令和六年法律第六十三号</LawNum><LawBody><LawTitle Kana="のうぎょうのせいさんせいのこうじょうのためのすまーとのうぎょうぎじゅつのかつようのそくしんにかんするほうりつ" Abbrev="" AbbrevKana="">農業の生産性の向上のためのスマート農業技術の活用の促進に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　基本方針</ChapterTitle>
+        <ArticleRange>（第六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　生産方式革新事業活動及び開発供給事業の促進のための措置</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　認定生産方式革新実施計画に係る措置</SectionTitle>
+          <ArticleRange>（第七条―第十二条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　認定開発供給実施計画に係る措置</SectionTitle>
+          <ArticleRange>（第十三条―第十九条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第二十条―第二十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <ArticleRange>（第二十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、農業者の減少及び高齢化の進展、農業の分野における情報通信技術の進展、食料に対する国民の需要の高度化及び多様化その他の農業を取り巻く環境の変化に対応して、農業の生産性の向上を図るため、スマート農業技術の活用及びこれと併せて行う農産物の新たな生産の方式の導入並びにスマート農業技術等の開発及びその成果の普及を促進するための措置を講ずることにより、スマート農業技術の活用を促進し、もって農業の持続的な発展及び国民に対する食料の安定供給の確保に資することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「スマート農業技術」とは、農業機械、農業用ソフトウェアその他農林水産省令で定めるもの（以下この条において「農業機械等」という。）に組み込まれる遠隔操作（農業機械から離れた場所から当該農業機械に情報通信技術（電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録をいう。）として記録された情報を活用する場合に用いられる情報通信技術をいう。以下この項及び次条第二項において同じ。）を用いて指令を与えることにより当該農業機械の操作をする技術をいう。）、自動制御（プログラム（情報処理の促進に関する法律（昭和四十五年法律第九十号）第二条第二項に規定するプログラムをいう。第七条第四項第一号において同じ。）により自動的に農業機械等の制御を行う技術をいう。）その他の情報通信技術を用いた技術であって、農業を行うに当たって必要となる認知、予測、判断又は動作に係る能力の全部又は一部を代替し、補助し、又は向上させることにより、農作業の効率化、農作業における身体の負担の軽減又は農業の経営管理の合理化（第三項第二号及び次条第一項において「農作業の効率化等」という。）を通じて農業の生産性を相当程度向上させることに資するものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「農業者等」とは、農業者又はその組織する団体（農業者が主たる構成員又は出資者（以下「構成員等」という。）となっている法人を含む。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「生産方式革新事業活動」とは、農業者等（当該農業者等が団体である場合におけるその構成員等を含む。次項において同じ。）が、次に掲げる事業活動の全てを相当規模で行うことにより、当該農業者等が行う農業の生産性を相当程度向上させることをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">スマート農業技術を活用して行う農産物の生産（農産物が出荷されるまでに行われる一連の行為を含む。次号及び次条第一項において同じ。）又は農業の経営管理</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号に掲げる事業活動の実施による農作業の効率化等の効果を十分に発揮させるために併せて行う農産物の新たな生産の方式の導入</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「スマート農業技術活用サービス」とは、農業者等が行う農業を支援するため対価を得て継続的に行うスマート農業技術を活用した次に掲げる役務をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">委託により、農業者等に代わって農作業を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農業者等に対し、農業機械等を使用させること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農業者等に対し、農業に関する高度な知識又は技術を有する者を派遣すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農業に関する情報を収集し、整理し、及び分析し、並びに農業者等に対し、その結果を提供し、又は当該結果に基づく農業の生産性の向上のための指導若しくは助言を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「開発供給事業」とは、農業において特に必要性が高いと認められるスマート農業技術等（スマート農業技術その他の生産方式革新事業活動に資する先端的な技術をいう。以下同じ。）の開発及び当該スマート農業技術等を活用した農業機械等、種苗その他の農業資材又はスマート農業技術活用サービスの供給を行う事業（当該事業の効率的な実施を図るため当該事業と併せて行う合併、会社の分割、出資の受入れ又は会社の設立若しくは清算その他農林水産省令で定める措置（第十八条第一項において「合併等の措置」という。）を含む。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（基本理念）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">生産方式革新事業活動は、スマート農業技術の活用による農作業の効率化等の効果を十分に発揮させるためには農産物の従来の生産の方式を変更することが重要であることに鑑み、国が生産方式革新事業活動の必要性及び有効性に関する知識の普及及び啓発を図り、かつ、農業者等が自ら活用するスマート農業技術の性格、生産する農産物の特性等に応じて、生産方式革新事業活動に主体的かつ積極的に取り組むことにより農業の生産性の向上を図ることを旨として、その促進が図られなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">開発供給事業は、農業技術及び情報通信技術を有効かつ適切に組み合わせ、及び農業者等の需要に的確に対応してスマート農業技術等の開発及びその成果の普及が図られることが重要であることに鑑み、開発供給事業を行う者、国立研究開発法人農業・食品産業技術総合研究機構（以下「研究機構」という。）その他の国立研究開発法人（独立行政法人通則法（平成十一年法律第百三号）第二条第三項に規定する国立研究開発法人をいう。）、地方公共団体及び地方独立行政法人（地方独立行政法人法（平成十五年法律第百十八号）第二条第一項に規定する地方独立行政法人をいう。）の試験研究機関、大学その他の関係者がそれぞれの知識及び技能並びに技術、設備、情報システム等を活用しつつ、これらの関係者の相互の密接な連携を図り、かつ、農業において特に必要性が高いと認められるスマート農業技術等を重点的かつ迅速に開発し、農業者等に供給することにより農業の生産性の向上を図ることを旨として、その促進が図られなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">生産方式革新事業活動及び開発供給事業の促進に当たっては、生産方式革新事業活動の実施を通じて得られた知見が開発供給事業に、又は開発供給事業の実施を通じて得られた成果が生産方式革新事業活動に有効に活用されるよう、生産方式革新事業活動を行う農業者等又は開発供給事業を行う者相互間の連携及び協力の促進が図られなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（国の責務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、前条の基本理念にのっとり、スマート農業技術の活用の促進に関する施策を総合的に策定し、及び実施するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、スマート農業技術の活用の促進に関する施策の推進に当たっては、生産方式革新事業活動を行う農業者等及び開発供給事業を行う者に対して集中的かつ効果的に支援を行うよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（地方公共団体の責務）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体は、第三条の基本理念にのっとり、その地方公共団体の区域の特性を生かしつつ、国の施策と相まって、スマート農業技術の活用の促進のために必要な施策を講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　基本方針</ChapterTitle>
+        <Article Num="6">
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、生産方式革新事業活動及び開発供給事業の促進に関する基本的な方針（以下「基本方針」という。）を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基本方針においては、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">生産方式革新事業活動の促進に関する次に掲げる事項</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">生産方式革新事業活動の促進の意義及び目標</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">生産方式革新事業活動の実施に関する基本的な事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">開発供給事業の促進に関する次に掲げる事項</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">開発供給事業の促進の意義及び目標</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">開発供給事業の実施に関する基本的な事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">生産方式革新事業活動と開発供給事業との連携に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、生産方式革新事業活動及び開発供給事業の促進に関する重要事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、スマート農業技術の発達又は普及の状況その他情勢の推移により必要が生じたときは、基本方針を変更するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、基本方針を定め、又はこれを変更しようとするときは、あらかじめ、関係行政機関の長に協議するとともに、食料・農業・農村政策審議会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、基本方針を定め、又はこれを変更したときは、遅滞なく、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　生産方式革新事業活動及び開発供給事業の促進のための措置</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　認定生産方式革新実施計画に係る措置</SectionTitle>
+          <Article Num="7">
+            <ArticleCaption>（生産方式革新実施計画の認定）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">生産方式革新事業活動を行おうとする農業者等は、単独で又は共同して、農林水産省令で定めるところにより、生産方式革新事業活動の実施に関する計画（当該農業者等が団体である場合にあっては、その構成員等が行う生産方式革新事業活動に関するものを含む。以下「生産方式革新実施計画」という。）を作成し、農林水産大臣の認定を申請することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、生産方式革新事業活動を行おうとする農業者等が共同して生産方式革新実施計画を作成したときは、農林水産省令で定めるところにより、代表者を定め、これを農林水産大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">生産方式革新実施計画には、次に掲げる事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">生産方式革新事業活動の目標</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">生産方式革新事業活動の内容及び実施期間</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">生産方式革新事業活動の実施体制</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">生産方式革新事業活動に必要な資金の額及びその調達方法</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">生産方式革新実施計画には、次の各号に掲げる者の区分に応じ、当該者が行うそれぞれ当該各号に定める措置（当該生産方式革新実施計画の認定を受けようとする農業者等が行う生産方式革新事業活動の促進に資するものに限る。）に関する事項を含めることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">スマート農業技術活用サービス事業者（スマート農業技術活用サービスを提供する事業者をいう。以下同じ。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">スマート農業技術活用サービスの提供</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">食品等事業者（農産物又は食品（農産物を原料又は材料として製造し、又は加工した飲食物のうち医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号）第二条第一項に規定する医薬品、同条第二項に規定する医薬部外品及び同条第九項に規定する再生医療等製品以外のものをいう。以下この号において同じ。）の製造、加工、流通又は販売の事業を行う者をいう。第十二条第一項第三号において同じ。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">農産物又は食品の新たな製造、加工、流通又は販売の方式の導入</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">生産方式革新実施計画には、第二項各号に掲げる事項又は前項に規定する措置に関する事項として、次の各号に掲げる行為の区分に応じ、それぞれ当該各号に定める事項を記載することができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">生産方式革新事業活動の用に供する設備等（施設、設備、機器、装置又はプログラムをいう。以下同じ。）の導入</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該設備等の種類その他の当該設備等の導入の内容</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その他農林水産省令で定める事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">前項に規定する措置の用に供する設備等の導入</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該設備等の種類その他の当該設備等の導入の内容</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該設備等の導入が当該生産方式革新実施計画に係る生産方式革新事業活動の促進に資するために必要な措置に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その他農林水産省令で定める事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">航空法（昭和二十七年法律第二百三十一号）第百三十二条の八十五第一項第二号に掲げる空域において無人航空機（同法第二条第二十二項に規定する無人航空機をいう。以下同じ。）を飛行させる行為</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該行為を行う空域及び期間並びに当該行為に使用する無人航空機を特定するために必要な事項</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">航空法第百三十二条の八十六第二項第一号から第三号まで、第五号又は第六号に掲げる方法のいずれかによらずに無人航空機を飛行させる行為</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該飛行の方法及び当該行為を行う期間並びに当該行為に使用する無人航空機を特定するために必要な事項</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第一項の規定による申請があった場合において、その申請に係る生産方式革新実施計画が次の各号のいずれにも適合すると認めるときは、その認定をするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">基本方針に照らし適切なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該生産方式革新実施計画に係る生産方式革新事業活動（第三項に規定する措置を含む。次条第三項及び第十二条第一項において同じ。）が円滑かつ確実に行われると見込まれるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第一項の認定をしようとする場合において、当該生産方式革新実施計画に第四項第三号又は第四号に定める事項が記載されているときは、当該事項について、あらかじめ、国土交通大臣に協議し、その同意を得なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、国土交通大臣は、当該事項に係る同項第三号又は第四号に掲げる行為により航空機の航行の安全並びに地上及び水上の人及び物件の安全が損なわれるおそれがないと認めるときは、その同意をするものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第二項第二号に掲げる事項として農地法（昭和二十七年法律第二百二十九号）第四十三条第二項に規定する農作物栽培高度化施設（以下この項及び第九条において「農作物栽培高度化施設」という。）の底面とするために農地をコンクリートその他これに類するもので覆う措置が記載された生産方式革新実施計画について第一項の認定をしたときは、遅滞なく、その旨を当該農作物栽培高度化施設の所在地を管轄する農業委員会（農業委員会等に関する法律（昭和二十六年法律第八十八号）第三条第五項の規定により農業委員会を置かない市町村にあっては、市町村長）に通知するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第二項第二号に掲げる事項として産地連携野菜供給契約（農業者等（当該農業者等が団体である場合におけるその構成員等を含む。以下この項において同じ。）が指定野菜（野菜生産出荷安定法（昭和四十一年法律第百三号）第二条に規定する指定野菜をいう。以下この項及び第十一条において同じ。）を原料若しくは材料として使用する製造若しくは加工の事業又は指定野菜の販売の事業を行う者との間において農林水産省令で定めるところにより締結する指定野菜の供給に係る契約（複数の産地の農業者等が連携して行う指定野菜の供給に係るものであって、天候その他やむを得ない事由により供給すべき指定野菜に不足が生じた場合に、これと同一の種別に属する指定野菜を供給することを内容とするものに限る。）をいう。以下この項及び第十一条において同じ。）に基づく指定野菜の供給の事業（当該産地連携野菜供給契約に係る指定野菜を生産する農業者等の作付面積の合計が農林水産省令で定める面積に達しているものに限る。）が記載された生産方式革新実施計画について第一項の認定をしたときは、遅滞なく、その旨を独立行政法人農畜産業振興機構に通知するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第一項の認定をしたときは、農林水産省令で定めるところにより、当該認定に係る生産方式革新実施計画の概要を公表するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="8">
+            <ArticleCaption>（生産方式革新実施計画の変更等）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前条第一項の認定を受けた農業者等は、当該認定に係る生産方式革新実施計画を変更しようとするときは、農林水産省令で定めるところにより、農林水産大臣の認定を受けなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、農林水産省令で定める軽微な変更については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の認定を受けた農業者等は、前項ただし書の農林水産省令で定める軽微な変更をしたときは、遅滞なく、その旨を農林水産大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、前条第一項の認定を受けた農業者等（当該農業者等が団体である場合におけるその構成員等及び当該農業者等に係る同条第三項に規定する措置を行うそれぞれ同項各号に掲げる者を含む。以下「認定生産方式革新事業者」という。）が当該認定に係る生産方式革新実施計画（第一項の規定による変更の認定又は前項の規定による変更の届出があったときは、その変更後のもの。以下「認定生産方式革新実施計画」という。）に従って生産方式革新事業活動を行っていないと認めるときは、その認定を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、前条第八項の規定による通知に係る認定生産方式革新実施計画の認定を前項の規定により取り消したときは、遅滞なく、その旨を独立行政法人農畜産業振興機構に通知するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第三項の規定により前条第一項の認定を取り消したときは、その旨を公表するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第五項から第九項までの規定は、第一項の認定について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（農地法の特例）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第二項第二号に掲げる事項として農作物栽培高度化施設の底面とするために農地をコンクリートその他これに類するもので覆う措置が記載された生産方式革新実施計画について同条第一項の認定（前条第一項の規定による変更の認定を含む。以下同じ。）があったときは、当該認定を受けた農業者等（当該農業者等が団体である場合におけるその構成員等を含む。）が認定生産方式革新実施計画に従って行う当該措置について、農地法第四十三条第一項の規定による届出があったものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（航空法の特例）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第四項第三号に定める事項が記載された生産方式革新実施計画について同条第一項の認定があったときは、当該認定の日において、認定生産方式革新事業者が当該認定に係る認定生産方式革新実施計画に従って行う同号に掲げる行為について、航空法第百三十二条の八十五第四項第二号の規定による許可があったものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第四項第四号に定める事項が記載された生産方式革新実施計画について同条第一項の認定があったときは、当該認定の日において、認定生産方式革新事業者が当該認定に係る認定生産方式革新実施計画に従って行う同号に掲げる行為について、航空法第百三十二条の八十六第五項第二号の承認があったものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（野菜生産出荷安定法の特例）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第八項の規定による通知に係る認定生産方式革新実施計画に従って産地連携野菜供給契約に基づく指定野菜の供給の事業を行う同条第一項の認定を受けた農業者等（当該農業者等が団体である場合におけるその構成員等を含む。）については、当該農業者等を野菜生産出荷安定法第十条第一項に規定する登録生産者とみなして、同法第十二条の規定を適用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条中「指定野菜を原料若しくは材料として使用する製造若しくは加工の事業又は指定野菜の販売の事業を行う者との間において農林水産省令で定めるところによりあらかじめ締結した契約（対象野菜の供給に係るものであつて、天候その他やむを得ない事由により供給すべき対象野菜に不足が生じた場合に、これと同一の種別に属する指定野菜を供給することを内容とするものに限る。）」とあるのは、「農業の生産性の向上のためのスマート農業技術の活用の促進に関する法律（令和六年法律第六十三号）第七条第八項に規定する産地連携野菜供給契約」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（株式会社日本政策金融公庫法の特例）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">株式会社日本政策金融公庫（以下「公庫」という。）は、株式会社日本政策金融公庫法（平成十九年法律第五十七号。以下「公庫法」という。）第十一条に規定する業務のほか、認定生産方式革新事業者であって次の各号に掲げる者に該当するものに対し、食料の安定供給の確保又は農業の持続的かつ健全な発展に資する長期かつ低利の資金であって認定生産方式革新実施計画に従って行われる生産方式革新事業活動を行うために必要なものであり、かつ、それぞれ当該各号に定めるもののうち農林水産大臣及び財務大臣の指定するものの貸付けの業務を行うことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">農業者等（当該農業者等が団体である場合におけるその構成員等を含む。）及びスマート農業技術活用サービス事業者（第二条第四項第一号に掲げる役務の提供を行う者に限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">他の金融機関が融通することを困難とする資金であって、当該農業者等及びスマート農業技術活用サービス事業者が資本市場から調達することが困難なもの</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">スマート農業技術活用サービス事業者（第二条第四項第二号から第四号までに掲げる役務の提供を行う者であって、中小企業者（公庫法第二条第三号に規定する中小企業者をいう。次号及び第十八条第一項第二号において同じ。）に該当するものに限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">他の金融機関が融通することを困難とする資金</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">食品等事業者（中小企業者に該当するものに限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">他の金融機関が融通することを困難とする資金であって、その償還期限が十年を超えるもの</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する資金の貸付けの利率、償還期限及び据置期間については、政令で定める範囲内で、公庫が定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定により公庫が行う同項に規定する資金の貸付けについての公庫法の規定の適用については、次の表の上欄に掲げる公庫法の規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十一条第一項第六号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">掲げる業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">掲げる業務及び農業の生産性の向上のためのスマート農業技術の活用の促進に関する法律（令和六年法律第六十三号。以下「スマート農業技術活用促進法」という。）第十二条第一項に規定する業務</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十二条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">掲げる業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">掲げる業務及びスマート農業技術活用促進法第十二条第一項に規定する業務</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十一条第二項第一号ロ及び第四十一条第二号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">又は別表第二第二号に掲げる業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">若しくは別表第二第二号に掲げる業務又はスマート農業技術活用促進法第十二条第一項に規定する業務</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">同項第五号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">スマート農業技術活用促進法第十二条第一項に規定する業務並びに第十一条第一項第五号</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十三条</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">同項第五号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">スマート農業技術活用促進法第十二条第一項に規定する業務並びに第十一条第一項第五号</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十八条及び第五十九条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">この法律</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">この法律、スマート農業技術活用促進法</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第六十四条第一項第四号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">又は別表第二第二号に掲げる業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">若しくは別表第二第二号に掲げる業務又はスマート農業技術活用促進法第十二条第一項に規定する業務</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">同項第五号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">スマート農業技術活用促進法第十二条第一項に規定する業務並びに第十一条第一項第五号</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第七十三条第三号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十一条</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十一条及びスマート農業技術活用促進法第十二条第一項</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">別表第二第九号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">又は別表第一第一号から第十四号までの下欄に掲げる資金の貸付けの業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">若しくは別表第一第一号から第十四号までの下欄に掲げる資金の貸付けの業務又はスマート農業技術活用促進法第十二条第一項に規定する業務</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　認定開発供給実施計画に係る措置</SectionTitle>
+          <Article Num="13">
+            <ArticleCaption>（開発供給実施計画の認定）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">開発供給事業を行おうとする者は、単独で又は共同して、農林水産省令で定めるところにより、開発供給事業の実施に関する計画（以下「開発供給実施計画」という。）を作成し、農林水産大臣の認定を申請することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、開発供給事業を行おうとする者が共同して開発供給実施計画を作成したときは、農林水産省令で定めるところにより、代表者を定め、これを農林水産大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">開発供給実施計画には、次に掲げる事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">開発供給事業の目標</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">開発供給事業の内容及び実施期間</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">開発供給事業の実施体制</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">開発供給事業に必要な資金の額及びその調達方法</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">開発供給実施計画には、前項各号に掲げる事項として、次の各号に掲げる行為の区分に応じ、それぞれ当該各号に定める事項を記載することができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">開発供給事業の用に供する設備等の導入</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該設備等の種類その他の当該設備等の導入の内容</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その他農林水産省令で定める事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">航空法第百三十二条の八十五第一項第二号に掲げる空域において無人航空機を飛行させる行為</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該行為を行う空域及び期間並びに当該行為に使用する無人航空機を特定するために必要な事項</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">航空法第百三十二条の八十六第二項第一号から第三号まで、第五号又は第六号に掲げる方法のいずれかによらずに無人航空機を飛行させる行為</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該飛行の方法及び当該行為を行う期間並びに当該行為に使用する無人航空機を特定するために必要な事項</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">研究機構の保有する研究開発に係る設備等及び土地のうち開発供給事業の促進に資するものとして農林水産省令で定めるもの（以下この号及び第十七条第一項において「研究開発設備等」という。）の利用</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該研究開発設備等の種類その他の当該研究開発設備等の利用の内容に関する事項</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">農業競争力強化支援法（平成二十九年法律第三十五号）第二条第六項に規定する事業参入</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">同法第二十一条第三項各号に掲げる事項</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第一項の規定による申請があった場合において、その申請に係る開発供給実施計画が次の各号のいずれにも適合すると認めるときは、その認定をするものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">基本方針に照らし適切なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該開発供給実施計画に係る開発供給事業が円滑かつ確実に行われると見込まれるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該開発供給実施計画に前項第五号に定める事項が記載されているときは、その内容が農業競争力強化支援法第二十一条第四項の規定により同条第一項の認定をすることができる場合に該当すること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第一項の規定による申請があったときは、遅滞なく、その内容を当該申請に係る開発供給実施計画の対象となる事業を所管する大臣（以下この項において「事業所管大臣」という。）に通知するものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、事業所管大臣は、必要があると認めるときは、農林水産大臣に対して意見を述べることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第一項の認定をしようとする場合において、当該開発供給実施計画に第三項第二号又は第三号に定める事項が記載されているときは、当該事項について、あらかじめ、国土交通大臣に協議し、その同意を得なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、国土交通大臣は、当該事項に係る同項第二号又は第三号に掲げる行為により航空機の航行の安全並びに地上及び水上の人及び物件の安全が損なわれるおそれがないと認めるときは、その同意をするものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第一項の認定をしようとする場合において、当該開発供給実施計画に第三項第五号に定める事項（農林水産大臣の所管する事業以外の農業生産関連事業（農業競争力強化支援法第二条第四項に規定する農業生産関連事業をいう。以下この項において同じ。）に係るものに限る。以下この項において同じ。）が記載されているときは、当該事項について、あらかじめ、当該事項に係る農業生産関連事業を所管する大臣（以下この項において「農業生産関連事業所管大臣」という。）に協議し、その同意を得なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、農業生産関連事業所管大臣は、当該事項が同法第二十一条第四項の規定により同条第一項の認定をすることができる場合に該当すると認めるときは、その同意をするものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第三項第四号に定める事項が記載された開発供給実施計画について第一項の認定をしたときは、遅滞なく、その旨を研究機構に通知するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第一項の認定をしたときは、農林水産省令で定めるところにより、当該認定に係る開発供給実施計画の概要を公表するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（開発供給実施計画の変更等）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">前条第一項の認定を受けた者（当該認定に係る開発供給実施計画に従って設立された法人を含む。以下「認定開発供給事業者」という。）は、当該認定に係る開発供給実施計画を変更しようとするときは、農林水産省令で定めるところにより、農林水産大臣の認定を受けなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、農林水産省令で定める軽微な変更については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">認定開発供給事業者は、前項ただし書の農林水産省令で定める軽微な変更をしたときは、遅滞なく、その旨を農林水産大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、認定開発供給事業者が当該認定に係る開発供給実施計画（第一項の規定による変更の認定又は前項の規定による変更の届出があったときは、その変更後のもの。以下「認定開発供給実施計画」という。）に従って開発供給事業を行っていないと認めるときは、その認定を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、前条第三項第四号に定める事項が記載された認定開発供給実施計画の認定を前項の規定により取り消したときは、遅滞なく、その旨を研究機構に通知するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、第三項の規定により前条第一項の認定を取り消したときは、その旨を公表するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第四項から第九項までの規定は、第一項の認定について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（航空法の特例）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十三条第三項第二号に定める事項が記載された開発供給実施計画について同条第一項の認定（前条第一項の規定による変更の認定を含む。次項及び第十九条において同じ。）があったときは、当該認定の日において、認定開発供給事業者が当該認定に係る認定開発供給実施計画に従って行う同号に掲げる行為について、航空法第百三十二条の八十五第四項第二号の規定による許可があったものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十三条第三項第三号に定める事項が記載された開発供給実施計画について同条第一項の認定があったときは、当該認定の日において、認定開発供給事業者が当該認定に係る認定開発供給実施計画に従って行う同号に掲げる行為について、航空法第百三十二条の八十六第五項第二号の承認があったものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（種苗法の特例）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、認定開発供給事業（認定開発供給実施計画に従って行われる開発供給事業をいう。以下同じ。）の成果に係る出願品種（種苗法（平成十年法律第八十三号）第三条第二項に規定する出願品種をいい、当該認定開発供給事業の実施期間の終了日から起算して二年以内に同条第一項第一号に規定する品種登録出願（以下この条において「品種登録出願」という。）がされたものに限る。以下この項において同じ。）に関する品種登録出願について、その出願者が次に掲げる者であって当該認定開発供給事業を行う認定開発供給事業者であるときは、政令で定めるところにより、同法第六条第一項の規定により納付すべき出願料を軽減し、又は免除することができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その出願品種の育成（種苗法第三条第一項に規定する育成をいう。次項第一号において同じ。）をした者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その出願品種が種苗法第八条第一項に規定する従業者等（次項第二号において「従業者等」という。）が育成した同条第一項に規定する職務育成品種（同号において「職務育成品種」という。）であって、契約、勤務規則その他の定めによりあらかじめ同項に規定する使用者等（以下この号及び次項第二号において「使用者等」という。）が品種登録出願をすることが定められている場合において、その品種登録出願をした使用者等</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、認定開発供給事業の成果に係る登録品種（種苗法第二十条第一項に規定する登録品種をいい、当該認定開発供給事業の実施期間の終了日から起算して二年以内に品種登録出願がされたものに限る。以下この項において同じ。）について、同法第四十五条第一項の規定による第一年から第六年までの各年分の登録料を納付すべき者が次に掲げる者であって当該認定開発供給事業を行う認定開発供給事業者であるときは、政令で定めるところにより、当該各年分の登録料を軽減し、又は免除することができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その登録品種の育成をした者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その登録品種が従業者等が育成した職務育成品種であって、契約、勤務規則その他の定めによりあらかじめ使用者等が品種登録出願をすること又は従業者等がした品種登録出願の出願者の名義を使用者等に変更することが定められている場合において、その品種登録出願をした使用者等又はその従業者等がした品種登録出願の出願者の名義の変更を受けた使用者等</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（研究機構の研究開発設備等の供用及び協力に係る業務）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">研究機構は、研究開発設備等を認定開発供給事業者の利用（当該認定開発供給事業者が行う認定開発供給事業に関するものに限る。）に供する業務を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">研究機構は、認定開発供給事業者の依頼に応じて、前項に規定する業務の実施に関し専門家の派遣その他必要な協力の業務を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（株式会社日本政策金融公庫法の特例）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公庫は、公庫法第十一条に規定する業務のほか、認定開発供給事業者であって次の各号に掲げる者に該当するものに対し、食料の安定供給の確保又は農業の持続的かつ健全な発展に資する長期かつ低利の資金であって認定開発供給事業（スマート農業技術等の開発を行う事業及び当該事業の効率的な実施を図るため当該事業と併せて行う合併等の措置を除く。）を行うために必要なものであり、かつ、それぞれ当該各号に定めるもののうち農林水産大臣及び財務大臣の指定するものの貸付けの業務を行うことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">スマート農業技術活用サービス事業者（第二条第四項第一号に掲げる役務の提供を行う者に限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">他の金融機関が融通することを困難とする資金であって、その者が資本市場から調達することが困難なもの</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">中小企業者（前号に掲げる者を除く。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">他の金融機関が融通することを困難とする資金</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する資金の貸付けの利率、償還期限及び据置期間については、政令で定める範囲内で、公庫が定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定により公庫が行う同項に規定する資金の貸付けについての公庫法の規定の適用については、次の表の上欄に掲げる公庫法の規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十一条第一項第六号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">掲げる業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">掲げる業務及び農業の生産性の向上のためのスマート農業技術の活用の促進に関する法律（令和六年法律第六十三号。以下「スマート農業技術活用促進法」という。）第十八条第一項に規定する業務</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十二条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">掲げる業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">掲げる業務及びスマート農業技術活用促進法第十八条第一項に規定する業務</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十一条第二項第一号ロ及び第四十一条第二号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">又は別表第二第二号に掲げる業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">若しくは別表第二第二号に掲げる業務又はスマート農業技術活用促進法第十八条第一項に規定する業務</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">同項第五号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">スマート農業技術活用促進法第十八条第一項に規定する業務並びに第十一条第一項第五号</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十三条</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">同項第五号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">スマート農業技術活用促進法第十八条第一項に規定する業務並びに第十一条第一項第五号</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十八条及び第五十九条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">この法律</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">この法律、スマート農業技術活用促進法</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第六十四条第一項第四号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">又は別表第二第二号に掲げる業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">若しくは別表第二第二号に掲げる業務又はスマート農業技術活用促進法第十八条第一項に規定する業務</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">同項第五号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">スマート農業技術活用促進法第十八条第一項に規定する業務並びに第十一条第一項第五号</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第七十三条第三号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十一条</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十一条及びスマート農業技術活用促進法第十八条第一項</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">別表第二第九号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">又は別表第一第一号から第十四号までの下欄に掲げる資金の貸付けの業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">若しくは別表第一第一号から第十四号までの下欄に掲げる資金の貸付けの業務又はスマート農業技術活用促進法第十八条第一項に規定する業務</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（農業競争力強化支援法の特例）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">開発供給事業を行おうとする者がその開発供給実施計画（第十三条第三項第五号に定める事項が記載されているものに限る。）について同条第一項の認定を受けたときは、当該者に対する農業競争力強化支援法第二十一条第一項の認定（同法第二十二条第一項の規定による変更の認定を含む。）があったものとみなして、同法第三章第三節（第二十一条第一項から第四項まで及び第二十二条第一項を除く。）、第二十四条、同章第五節（第三十二条を除く。）、第四章及び第三十七条の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Num="20">
+          <ArticleCaption>（国等の措置）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、生産方式革新事業活動又は開発供給事業の促進に資するよう、これらに関する情報の収集、整理及び提供を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、認定生産方式革新事業者又は認定開発供給事業者に対し、この法律に特別の定めがあるもののほか、この法律に基づく措置の円滑な実施のために必要な指導、助言、あっせんその他の援助（第四項において「指導等」という。）を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、生産方式革新事業活動又は開発供給事業の促進に資するよう、関係省庁相互間の及び関係する独立行政法人（独立行政法人通則法第二条第一項に規定する独立行政法人をいう。）との連携及び協力を図りつつ、スマート農業技術を活用するための農業生産の基盤及び高度情報通信ネットワークの整備、スマート農業技術の活用に係る人材の育成及び確保、スマート農業技術を活用した農作業の安全性の確保並びにスマート農業技術等に関する知的財産（知的財産基本法（平成十四年法律第百二十二号）第二条第一項に規定する知的財産をいう。）の保護及び活用その他の必要な措置を講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体は、認定生産方式革新事業者又は認定開発供給事業者に対し、認定生産方式革新実施計画又は認定開発供給実施計画の実施に関し必要な指導等を行うよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（報告の徴収）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、認定生産方式革新事業者又は認定開発供給事業者に対し、認定生産方式革新実施計画又は認定開発供給実施計画の実施状況について報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に規定する農林水産大臣の権限は、農林水産省令で定めるところにより、その一部を地方農政局長又は北海道農政事務所長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <Article Num="23">
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十一条の規定による報告をせず、又は虚偽の報告をしたときは、その違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人（法人でない団体で代表者又は管理人の定めのあるものを含む。以下この項において同じ。）の代表者若しくは管理人又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、同項の刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人でない団体について前項の規定の適用がある場合には、その代表者又は管理人がその訴訟行為について法人でない団体を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（施行のために必要な準備）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">農林水産大臣は、基本方針を定めようとするときは、この法律の施行前においても、関係行政機関の長に協議し、及び食料・農業・農村政策審議会の意見を聴くことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律の施行の状況を勘案し、必要があると認めるときは、この法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
