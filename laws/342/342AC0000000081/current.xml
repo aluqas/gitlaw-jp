@@ -10586,37 +10586,6 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和五年五月一九日法律第三一号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1:5">
-            <ItemTitle>一から五まで</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">略</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="6">
-            <ItemTitle>六</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">第一条中健康保険法第二百五条の四第二項の改正規定、第二条中船員保険法第百五十三条の十第二項の改正規定、第四条中国民健康保険法第百十三条の三第二項の改正規定、第六条中高齢者の医療の確保に関する法律第百六十五条の二第二項の改正規定及び第十四条の規定並びに附則第十九条中私立学校教職員共済法（昭和二十八年法律第二百四十五号）第四十七条の三第二項の改正規定、附則第二十条中国家公務員共済組合法（昭和三十三年法律第百二十八号）第百十四条の二第二項の改正規定、附則第二十一条中地方公務員等共済組合法（昭和三十七年法律第百五十二号）第百四十四条の三十三第二項の改正規定、附則第二十四条（第二号に係る部分に限る。）の規定、附則第二十六条中生活保護法（昭和二十五年法律第百四十四号）第八十条の四第二項の改正規定及び附則第二十九条の規定</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">公布の日から起算して四年を超えない範囲内において政令で定める日</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
     <SupplProvision AmendLawNum="令和五年六月九日法律第四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -11221,19 +11190,6 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和六年六月二一日法律第六〇号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
     <SupplProvision AmendLawNum="令和七年三月三一日法律第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -11408,16 +11364,6 @@
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年三月を超えない範囲内において政令で定める日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第四条の規定は、公布の日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="3">
-        <ArticleCaption>（調整規定）</ArticleCaption>
-        <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律の施行の日が入管法等改正法施行日前である場合には、入管法等改正法施行日の前日までの間における第二条の規定による改正後の住民基本台帳法別表第一の規定の適用については、同表の四十の二の項中「同法第十九条の十五の二第六項の特定在留カードの交付、同法第十九条の十五の四第二項の特定在留カードの返納、同条第三項の在留カードの交付、同法」とあるのは「同法」と、同表の四十の三の項中「、同法第十六条の特別永住者証明書の返納、同法第十六条の二第七項の特定特別永住者証明書の交付、同法第十六条の三第二項の特定特別永住者証明書の返納又は同条第三項の特別永住者証明書の交付」とあるのは「又は同法第十六条の特別永住者証明書の返納」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -11738,7 +11684,7 @@
               <Sentence Num="1" WritingMode="vertical">十三　預金保険機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">預金保険法（昭和四十六年法律第三十四号）による同法第五十三条第一項の保険金の支払、同条第四項の仮払金の支払、同法第五十五条の二第一項の預金等に係る債権の額の把握又は同法第七十条第一項の預金等債権の買取りに関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">預金保険法（昭和四十六年法律第三十四号）による同法第五十五条の二第一項の預金等に係る債権の額の把握に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -11746,20 +11692,12 @@
               <Sentence Num="1" WritingMode="vertical">十三の二　預金保険機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">金融機関等の更生手続の特例等に関する法律（平成八年法律第九十五号）による同法第三百九十五条の更生手続に属する行為の実施、同法第四百六十六条の再生手続に属する行為の実施又は同法第五百七条の破産手続に属する行為の実施に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十三の三　預金保険機構</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律（令和三年法律第三十八号）による同法第十二条第一項第二号の個人番号の確認に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十三の四　預金保険機構</Sentence>
+              <Sentence Num="1" WritingMode="vertical">十三の三　預金保険機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律（令和三年法律第三十九号）による同法第三条第四項、第五条第三項、第七条第三項若しくは第八条第三項の通知又は同法第九条第一項の規定による情報の提供に関する事務であつて総務省令で定めるもの</Sentence>
@@ -11770,23 +11708,7 @@
               <Sentence Num="1" WritingMode="vertical">十四　農水産業協同組合貯金保険機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">農水産業協同組合貯金保険法（昭和四十八年法律第五十三号）による同法第五十五条第一項の保険金の支払、同条第三項の仮払金の支払、同法第五十七条の二第一項の貯金等に係る債権の額の把握又は同法第七十条第一項の貯金等債権の買取りに関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十四の二　農水産業協同組合貯金保険機構</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">農水産業協同組合の再生手続の特例等に関する法律（平成十二年法律第九十五号）による同法第十九条の再生手続に属する行為の実施又は同法第四十条の破産手続に属する行為の実施に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十四の三　日本公認会計士協会</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">公認会計士法（昭和二十三年法律第百三号）による同法第十六条の二第一項の外国公認会計士（同条第五項に規定する外国公認会計士をいう。）の登録、同条第五項の登録の抹消、同法第十七条の公認会計士の登録、同法第二十条（同法第十六条の二第六項において準用する場合を含む。）の変更の登録、同法第二十一条第一項若しくは第二項（同法第十六条の二第六項において準用する場合を含む。）の登録の抹消、同法第三十四条の十の八の登録、同法第三十四条の十の十三の変更の登録若しくは同法第三十四条の十の十四第一項若しくは第二項の登録の抹消又は公認会計士法の一部を改正する法律（平成十五年法律第六十七号）附則第二条第一項の規定によりなおその効力を有するものとされた同法第二条の規定による改正前の公認会計士法第十七条の登録、同法第二十条の変更の登録若しくは同法第二十一条第一項の登録の抹消に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">農水産業協同組合貯金保険法（昭和四十八年法律第五十三号）による同法第五十七条の二第一項の貯金等に係る債権の額の把握に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -11794,7 +11716,7 @@
               <Sentence Num="1" WritingMode="vertical">十五　金融庁又は財務省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">公認会計士法による同法第三十四条の九の二若しくは第三十四条の十第二項の届出又は同法第三十四条の二十四若しくは第三十四条の二十八第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">公認会計士法（昭和二十三年法律第百三号）による同法第三十四条の九の二若しくは第三十四条の十第二項の届出又は同法第三十四条の二十四若しくは第三十四条の二十八第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -11935,14 +11857,6 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二十九の二　消防庁</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">武力攻撃事態等における国民の保護のための措置に関する法律（平成十六年法律第百十二号）による同法第九十五条第一項（同法第百八十三条において準用する場合を含む。）の安否情報の回答に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">三十　法務省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -12063,23 +11977,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">三十九の二　日本司法書士会連合会</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">司法書士法（昭和二十五年法律第百九十七号）による同法第八条第一項の司法書士の登録に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">三十九の三　日本土地家屋調査士会連合会</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">土地家屋調査士法（昭和二十五年法律第二百二十八号）による同法第八条第一項の土地家屋調査士の登録に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">三十九の四　法務省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">三十九の二　法務省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">法務局における遺言書の保管等に関する法律（平成三十年法律第七十三号）による遺言書の保管又は情報の管理に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12090,7 +11988,7 @@
               <Sentence Num="1" WritingMode="vertical">四十　法務省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法による同法第七条の二第一項の交付、同法第十一条第一項の異議の申出、同法第十二条第一項、第二十条第三項（同法第二十二条の二第三項（同法第二十二条の三において準用する場合を含む。）において準用する場合を含む。）、第二十一条第三項若しくは第二十二条第二項（同法第二十二条の二第四項（同法第二十二条の三において準用する場合を含む。）において準用する場合を含む。）の許可又は同法第二十二条の四第一項の在留資格の取消しに関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法による同法第七条の二第一項の交付、同法第二十条第三項（同法第二十二条の二第三項（同法第二十二条の三において準用する場合を含む。）において準用する場合を含む。）、第二十一条第三項若しくは第二十二条第二項（同法第二十二条の二第四項（同法第二十二条の三において準用する場合を含む。）において準用する場合を含む。）の許可又は同法第二十二条の四第一項の在留資格の取消しに関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12098,7 +11996,7 @@
               <Sentence Num="1" WritingMode="vertical">四十の二　出入国在留管理庁</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法による同法第九条第一項の上陸許可の証印、同条第四項の記録、同法第十条第八項若しくは第十一条第四項の上陸許可の証印、同法第十九条第二項の許可、同法第十九条の六の在留カードの交付、同法第十九条の七第一項、第十九条の八第一項若しくは第十九条の九第一項の届出、同法第十九条の十第二項（同法第十九条の十一第三項、第十九条の十二第二項及び第十九条の十三第四項において準用する場合を含む。）の在留カードの交付、同法第十九条の十五の在留カードの返納、同法第十九条の十五の二第六項の特定在留カードの交付、同法第十九条の十五の四第二項の特定在留カードの返納、同条第三項の在留カードの交付、同法第十九条の十六から第十九条の十八までの届出、同法第十九条の二十三第一項の登録、同条第二項の更新、同法第十九条の二十七第一項の届出、同法第二十条第四項第一号（同法第二十一条第四項、第二十二条の二第三項（同法第二十二条の三において準用する場合を含む。）及び第六十一条の二の五第三項において準用する場合を含む。）若しくは第二十二条第三項（同法第二十二条の二第四項（同法第二十二条の三において準用する場合を含む。）において準用する場合を含む。）の在留カードの交付、同法第二十五条第一項の確認又は同法第五十条第七項若しくは第六十一条の二の二第二項第一号の在留カードの交付に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法による同法第十九条の二十三第一項の登録、同条第二項の更新又は同法第十九条の二十七第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12106,23 +12004,23 @@
               <Sentence Num="1" WritingMode="vertical">四十の三　出入国在留管理庁</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法による同法第四条第一項若しくは第五条第一項の許可、同法第七条の特別永住者証明書の交付、同法第十条第一項若しくは第二項の届出、同法第十一条第二項（同法第十二条第三項、第十三条第二項及び第十四条第四項において準用する場合を含む。）の特別永住者証明書の交付、同法第十六条の特別永住者証明書の返納、同法第十六条の二第七項の特定特別永住者証明書の交付、同法第十六条の三第二項の特定特別永住者証明書の返納又は同条第三項の特別永住者証明書の交付に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法による同法第四条第一項若しくは第五条第一項の許可又は同法第七条第一項の特別永住者証明書の交付に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">四十の四　出入国在留管理庁、厚生労働省又は外国人育成就労機構</Sentence>
+              <Sentence Num="1" WritingMode="vertical">四十の四　出入国在留管理庁、厚生労働省又は外国人技能実習機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">外国人の育成就労の適正な実施及び育成就労外国人の保護に関する法律（平成二十八年法律第八十九号）による同法第十一条第一項に規定する育成就労認定又は同法第三十二条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外国人の技能実習の適正な実施及び技能実習生の保護に関する法律（平成二十八年法律第八十九号）による同法第八条第一項若しくは第十一条第一項の技能実習計画の認定又は同法第三十二条第三項の届出に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">四十の五　法務省、厚生労働省又は外国人育成就労機構</Sentence>
+              <Sentence Num="1" WritingMode="vertical">四十の五　法務省、厚生労働省又は外国人技能実習機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">外国人の育成就労の適正な実施及び育成就労外国人の保護に関する法律による同法第二十三条第一項の許可又は同法第三十一条第二項の更新に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外国人の技能実習の適正な実施及び技能実習生の保護に関する法律による同法第二十三条第一項若しくは第三十二条第一項の許可又は同法第三十一条第二項の更新に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12130,7 +12028,7 @@
               <Sentence Num="1" WritingMode="vertical">四十一　外務省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">旅券法（昭和二十六年法律第二百六十七号）による同法第三条第一項の申請、同法第四条第一項の請求、同法第五条第一項、第三項若しくは第四項若しくは第五条の二の発行、同法第九条第一項の渡航先の追加、同法第十条第三項ただし書の渡航先の訂正、同法第十六条若しくは第十七条第一項の届出、同法第十八条第一項の失効、同法第十九条第一項の命令又は同法第十九条の三第一項の申請に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">旅券法（昭和二十六年法律第二百六十七号）による同法第三条第一項の発給、同法第九条第一項の渡航先の追加又は同法第十六条若しくは第十七条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12243,14 +12141,6 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">とん税法（昭和三十二年法律第三十七号）による同法第六条第三項の規定により国税徴収の例によるものとされるとん税の徴収又は特別とん税法（昭和三十二年法律第三十八号）による同法第六条の規定において準用する同項の規定により国税徴収の例によるものとされる特別とん税の徴収に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">四十五の三　財務省</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">通関業法（昭和四十二年法律第百二十二号）による同法第三十一条第一項の確認に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12391,10 +12281,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二　社会保険診療報酬支払基金又は国民健康保険団体連合会</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">母子保健法（昭和四十年法律第百四十一号）による同法第八条の三第一項の情報の収集若しくは整理又は利用若しくは提供に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医療法（昭和二十三年法律第二百五号）による同法第五条の二第一項の認定に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12402,7 +12292,7 @@
               <Sentence Num="1" WritingMode="vertical">五十七の三　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">医療法（昭和二十三年法律第二百五号）による同法第五条の二第一項の認定又は同法第六条の六第一項の許可に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医師法（昭和二十三年法律第二百一号）による同法第二条の医師の免許、同法第九条の医師国家試験の実施又は同法第十六条の六第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12410,7 +12300,7 @@
               <Sentence Num="1" WritingMode="vertical">五十七の四　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">医師法（昭和二十三年法律第二百一号）による同法第二条の医師の免許、同法第九条の医師国家試験の実施又は同法第十六条の六第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">歯科医師法（昭和二十三年法律第二百二号）による同法第二条の歯科医師の免許、同法第九条の歯科医師国家試験の実施又は同法第十六条の四第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12418,7 +12308,7 @@
               <Sentence Num="1" WritingMode="vertical">五十七の五　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">歯科医師法（昭和二十三年法律第二百二号）による同法第二条の歯科医師の免許、同法第九条の歯科医師国家試験の実施又は同法第十六条の四第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">死体解剖保存法（昭和二十四年法律第二百四号）による同法第二条第一項第一号の認定に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12426,7 +12316,7 @@
               <Sentence Num="1" WritingMode="vertical">五十七の六　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">死体解剖保存法（昭和二十四年法律第二百四号）による同法第二条第一項第一号の認定に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">保健師助産師看護師法（昭和二十三年法律第二百三号）による同法第七条第一項の保健師の免許、同条第二項の助産師の免許、同条第三項の看護師の免許又は同法第十七条の保健師国家試験、助産師国家試験若しくは看護師国家試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12434,20 +12324,12 @@
               <Sentence Num="1" WritingMode="vertical">五十七の七　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">保健師助産師看護師法（昭和二十三年法律第二百三号）による同法第七条第一項の保健師の免許、同条第二項の助産師の免許、同条第三項の看護師の免許又は同法第十七条の保健師国家試験、助産師国家試験若しくは看護師国家試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の八　厚生労働省</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">看護師等の人材確保の促進に関する法律（平成四年法律第八十六号）による同法第九条第一項の都道府県による看護師等の資質の向上及び就業の促進のための取組の支援に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の九　厚生労働省又は歯科衛生士法（昭和二十三年法律第二百四号）第八条の二第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の八　厚生労働省又は歯科衛生士法（昭和二十三年法律第二百四号）第八条の二第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">歯科衛生士法による同法第三条の歯科衛生士の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12455,7 +12337,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十　厚生労働省又は歯科衛生士法第十二条の四第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の九　厚生労働省又は歯科衛生士法第十二条の四第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">歯科衛生士法による同法第十条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12463,7 +12345,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十一　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">診療放射線技師法（昭和二十六年法律第二百二十六号）による同法第三条の診療放射線技師の免許又は同法第十七条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12471,7 +12353,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十二　厚生労働省又は歯科技工士法（昭和三十年法律第百六十八号）第九条の二第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十一　厚生労働省又は歯科技工士法（昭和三十年法律第百六十八号）第九条の二第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">歯科技工士法による同法第三条の歯科技工士の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12479,7 +12361,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十三　厚生労働省又は歯科技工士法第十五条の三第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十二　厚生労働省又は歯科技工士法第十五条の三第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">歯科技工士法による同法第十一条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12487,7 +12369,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十四　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十三　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">臨床検査技師等に関する法律（昭和三十三年法律第七十六号）による同法第三条の臨床検査技師の免許若しくは同法第十一条の試験の実施又は臨床検査技師、衛生検査技師等に関する法律の一部を改正する法律（平成十七年法律第三十九号）附則第三条第三項の規定によりなおその効力を有するものとされた同法の規定による改正前の臨床検査技師、衛生検査技師等に関する法律第五条の登録に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12495,7 +12377,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十五　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十四　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">理学療法士及び作業療法士法（昭和四十年法律第百三十七号）による同法第三条の理学療法士若しくは作業療法士の免許又は同法第九条の理学療法士国家試験若しくは作業療法士国家試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12503,7 +12385,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十六　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十五　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">視能訓練士法（昭和四十六年法律第六十四号）による同法第三条の視能訓練士の免許又は同法第十条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12511,7 +12393,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十七　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十六　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">臨床工学技士法（昭和六十二年法律第六十号）による同法第三条の臨床工学技士の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12519,7 +12401,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十八　厚生労働省又は臨床工学技士法第十七条第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十七　厚生労働省又は臨床工学技士法第十七条第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">臨床工学技士法による同法第十条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12527,7 +12409,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の十九　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十八　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">義肢装具士法（昭和六十二年法律第六十一号）による同法第三条の義肢装具士の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12535,7 +12417,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十　厚生労働省又は義肢装具士法第十七条第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の十九　厚生労働省又は義肢装具士法第十七条第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">義肢装具士法による同法第十条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12543,7 +12425,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十一　厚生労働省又は救急救命士法（平成三年法律第三十六号）第十二条第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十　厚生労働省又は救急救命士法（平成三年法律第三十六号）第十二条第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">救急救命士法による同法第三条の救急救命士の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12551,7 +12433,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十二　厚生労働省又は救急救命士法第三十七条第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十一　厚生労働省又は救急救命士法第三十七条第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">救急救命士法による同法第三十条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12559,7 +12441,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十三　厚生労働省又は言語聴覚士法（平成九年法律第百三十二号）第十二条第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十二　厚生労働省又は言語聴覚士法（平成九年法律第百三十二号）第十二条第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">言語聴覚士法による同法第三条の言語聴覚士の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12567,7 +12449,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十四　厚生労働省又は言語聴覚士法第三十六条第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十三　厚生労働省又は言語聴覚士法第三十六条第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">言語聴覚士法による同法第二十九条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12575,7 +12457,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十五　厚生労働省又はあん摩マツサージ指圧師、はり師、きゆう師等に関する法律（昭和二十二年法律第二百十七号）第三条の四第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十四　厚生労働省又はあん摩マツサージ指圧師、はり師、きゆう師等に関する法律（昭和二十二年法律第二百十七号）第三条の四第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">あん摩マツサージ指圧師、はり師、きゆう師等に関する法律による同法第二条第一項のあん摩マツサージ指圧師国家試験、はり師国家試験又はきゆう師国家試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12583,7 +12465,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十六　厚生労働省又はあん摩マツサージ指圧師、はり師、きゆう師等に関する法律第三条の二十三第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十五　厚生労働省又はあん摩マツサージ指圧師、はり師、きゆう師等に関する法律第三条の二十三第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">あん摩マツサージ指圧師、はり師、きゆう師等に関する法律による同法第二条第一項のあん摩マツサージ指圧師、はり師又はきゆう師の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12591,7 +12473,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十七　厚生労働省又は柔道整復師法（昭和四十五年法律第十九号）第八条の二第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十六　厚生労働省又は柔道整復師法（昭和四十五年法律第十九号）第八条の二第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">柔道整復師法による同法第三条の柔道整復師の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12599,7 +12481,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十八　厚生労働省又は柔道整復師法第十三条の三第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十七　厚生労働省又は柔道整復師法第十三条の三第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">柔道整復師法による同法第十条の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12607,7 +12489,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の二十九　社会保険診療報酬支払基金又は国民健康保険団体連合会</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十八　社会保険診療報酬支払基金又は国民健康保険団体連合会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">予防接種法（昭和二十三年法律第六十八号）による同法第五十七条第一項第一号の情報の収集若しくは整理又は利用若しくは提供に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12615,7 +12497,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の二十九　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">新型インフルエンザ予防接種による健康被害の救済に関する特別措置法（平成二十一年法律第九十八号）による同法第三条第一項の給付の支給に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12623,7 +12505,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十一　社会保険診療報酬支払基金</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十　社会保険診療報酬支払基金</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">特定Ｂ型肝炎ウイルス感染者給付金等の支給に関する特別措置法（平成二十三年法律第百二十六号）による同法第三条第一項の特定Ｂ型肝炎ウイルス感染者給付金、同法第七条第一項の訴訟手当金、同法第八条第一項の追加給付金若しくは同法第十九条の定期検査費等の支給又は同法第十六条第一項の特定Ｂ型肝炎ウイルス感染者定期検査費等受給者証の交付に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12631,7 +12513,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十二　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十一　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">新型インフルエンザ等対策特別措置法（平成二十四年法律第三十一号）による同法第二十八条第一項の予防接種の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12639,7 +12521,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十三　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十二　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">原子爆弾被爆者に対する援護に関する法律（平成六年法律第百十七号）による同法第十八条第一項の一般疾病医療費の支給に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12647,7 +12529,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十四　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十三　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">栄養士法（昭和二十二年法律第二百四十五号）による同法第二条第三項の管理栄養士の免許又は同法第五条の二の管理栄養士国家試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12655,7 +12537,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十五　調理師法（昭和三十三年法律第百四十七号）第三条の二第二項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十四　調理師法（昭和三十三年法律第百四十七号）第三条の二第二項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">調理師法による同法第三条の二第一項の調理師試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12663,7 +12545,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十六　厚生労働省又は調理師法第八条の三第二項に規定する団体</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十五　厚生労働省又は調理師法第八条の三第二項に規定する団体</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">調理師法による同法第八条の三第一項の審査に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12671,7 +12553,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十七　製菓衛生師法（昭和四十一年法律第百十五号）第四条第二項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十六　製菓衛生師法（昭和四十一年法律第百十五号）第四条第二項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">製菓衛生師法による同法第四条第一項の製菓衛生師試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12679,7 +12561,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十八　厚生労働省</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十七　厚生労働省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">建築物における衛生的環境の確保に関する法律（昭和四十五年法律第二十号）による同法第七条第一項の建築物環境衛生管理技術者免状の交付に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12687,7 +12569,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の三十九　厚生労働省又は建築物における衛生的環境の確保に関する法律第八条第三項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十八　厚生労働省又は建築物における衛生的環境の確保に関する法律第八条第三項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">建築物における衛生的環境の確保に関する法律による同法第八条第一項の建築物環境衛生管理技術者試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12695,7 +12577,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の四十　厚生労働省又は理容師法（昭和二十二年法律第二百三十四号）第五条の三第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の三十九　厚生労働省又は理容師法（昭和二十二年法律第二百三十四号）第五条の三第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">理容師法による同法第二条の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12703,7 +12585,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の四十一　厚生労働省又は理容師法第四条の二第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の四十　厚生労働省又は理容師法第四条の二第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">理容師法による同法第三条第一項の理容師試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12711,7 +12593,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の四十二　厚生労働省又は美容師法（昭和三十二年法律第百六十三号）第五条の三第一項に規定する指定登録機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の四十一　厚生労働省又は美容師法（昭和三十二年法律第百六十三号）第五条の三第一項に規定する指定登録機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">美容師法による同法第三条第一項の免許に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12719,7 +12601,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の四十三　厚生労働省又は美容師法第四条の二第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の四十二　厚生労働省又は美容師法第四条の二第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">美容師法による同法第四条第一項の美容師試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -12727,7 +12609,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">五十七の四十四　クリーニング業法（昭和二十五年法律第二百七号）第七条の二第一項に規定する指定試験機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">五十七の四十三　クリーニング業法（昭和二十五年法律第二百七号）第七条の二第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">クリーニング業法による同法第七条第一項のクリーニング師の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -13055,14 +12937,6 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">七十一の二十　社会保険診療報酬支払基金又は国民健康保険団体連合会</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">介護保険法による同法第百十五条の四十五第二項第七号の事業の実施に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">七十二　厚生労働省及び日本年金機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -13375,23 +13249,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">八十一の二　農林水産省</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">獣医師法（昭和二十四年法律第百八十六号）による同法第三条の免許に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">八十一の三　農林水産省、環境省又は愛玩動物看護師法（令和元年法律第五十号）第十二条第一項に規定する指定登録機関</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">愛玩動物看護師法による同法第三条の免許に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">八十一の四　独立行政法人農業者年金基金</Sentence>
+              <Sentence Num="1" WritingMode="vertical">八十一の二　独立行政法人農業者年金基金</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">独立行政法人農業者年金基金法（平成十四年法律第百二十七号）による農業者年金事業の給付若しくは同法附則第六条第一項第一号の給付の支給又は同法第四十四条の保険料その他徴収金の徴収に関する事務であつて総務省令で定めるもの</Sentence>
@@ -13418,7 +13276,7 @@
               <Sentence Num="1" WritingMode="vertical">八十四　経済産業省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">計量法（平成四年法律第五十一号）による同法第四十条第一項若しくは第四十六条第一項の届出、同法第四十二条第一項（同法第四十六条第二項において準用する場合を含む。）の届出、同法第六十二条第一項（同法第百三十三条において準用する場合を含む。）の届出、同法第百二十二条第一項の計量士の登録又は同法第百二十五条の計量士国家試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">計量法（平成四年法律第五十一号）による同法第四十条第一項若しくは第四十六条第一項の届出、同法第四十二条第一項（同法第四十六条第二項において準用する場合を含む。）の届出又は同法第六十二条第一項（同法第百三十三条において準用する場合を含む。）の届出に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -13482,7 +13340,7 @@
               <Sentence Num="1" WritingMode="vertical">九十一　経済産業省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">火薬類取締法（昭和二十五年法律第百四十九号）による同法第三十一条第三項の試験の実施若しくは火薬類製造保安責任者免状の交付、同条第五項の命令又は同条第七項において準用する同法第十七条第七項の書換え若しくは同条第八項の再交付に関する事務（経済産業大臣が行うものに限る。）であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">火薬類取締法（昭和二十五年法律第百四十九号）による同法第三十一条第三項の試験（経済産業大臣が行うものに限る。）の実施に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -13490,23 +13348,7 @@
               <Sentence Num="1" WritingMode="vertical">九十二　火薬類取締法第三十一条の三第一項に規定する指定試験機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">火薬類取締法による同法第三十一条第三項の試験の実施若しくは火薬類製造保安責任者免状若しくは火薬類取扱保安責任者免状の交付又は同条第七項において準用する同法第十七条第七項の書換え若しくは同条第八項の再交付に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">九十二の二　経済産業省</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">高圧ガス保安法（昭和二十六年法律第二百四号）による同法第二十九条第三項の製造保安責任者免状若しくは販売主任者免状の交付、同法第三十条の命令又は同法第三十一条第二項の製造保安責任者試験若しくは販売主任者試験の実施に関する事務（経済産業大臣が行うものに限る。）であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">九十二の三　高圧ガス保安協会又は高圧ガス保安法第三十一条の二第一項に規定する指定試験機関</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">高圧ガス保安法による同法第三十一条第二項の製造保安責任者試験又は販売主任者試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">火薬類取締法による同法第三十一条第三項の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -13514,23 +13356,7 @@
               <Sentence Num="1" WritingMode="vertical">九十三　高圧ガス保安協会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">高圧ガス保安法第五十九条の二十八第一項第四号の四に規定する同法第二十九条の二第一項の免状交付事務又は液化石油ガスの保安の確保及び取引の適正化に関する法律（昭和四十二年法律第百四十九号）第三十八条の四の二第一項の免状交付事務の実施に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">九十三の二　経済産業省又はガス事業法（昭和二十九年法律第五十一号）第百十二条第一項に規定する指定試験機関</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">ガス事業法による同法第二十六条第三項のガス主任技術者免状の交付又は同法第二十九条第二項のガス主任技術者試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">九十三の三　経済産業省</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">ガス事業法による同法第二十六条第三項第二号の認定に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">高圧ガス保安法（昭和二十六年法律第二百四号）第五十九条の二十八第一項第四号の四に規定する液化石油ガスの保安の確保及び取引の適正化に関する法律（昭和四十二年法律第百四十九号）第三十八条の四の二第一項の免状交付事務の実施に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -13543,42 +13369,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">九十四の二　経済産業省</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">電気事業法（昭和三十九年法律第百七十号）による同法第四十四条第二項の主任技術者免状の交付に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">九十四の三　高圧ガス保安協会又は液化石油ガスの保安の確保及び取引の適正化に関する法律第三十八条の六第一項に規定する指定試験機関</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">液化石油ガスの保安の確保及び取引の適正化に関する法律による同法第三十八条の五第二項の液化石油ガス設備士試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">九十五　経済産業省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">電気工事業の業務の適正化に関する法律（昭和四十五年法律第九十六号）による同法第三条第一項若しくは第三項の登録又は同法第十条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">九十五の二　特許庁</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">弁理士法（平成十二年法律第四十九号）による同法第十二条第一項の弁理士試験の執行に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">九十五の三　中小企業庁</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">中小企業支援法（昭和三十八年法律第百四十七号）による同法第十一条第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -13858,14 +13652,6 @@
               <Sentence Num="1" WritingMode="vertical">百十四の二　国土交通省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">海上運送法（昭和二十四年法律第百八十七号）による同法第三十二条の三第一項の安全統括管理者資格者証（同法第三十二条の四に規定する安全統括管理者資格者証をいう。）又は同法第三十二条の七第一項の運航管理者資格者証（同法第三十二条の八に規定する運航管理者資格者証をいう。）の交付に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">百十四の三　国土交通省</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">海事代理士法（昭和二十六年法律第三十二号）による同法第九条第一項の海事代理士の登録に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
@@ -13922,7 +13708,7 @@
               <Sentence Num="1" WritingMode="vertical">百十八　国土交通省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">航空法（昭和二十七年法律第二百三十一号）による同法第五条の新規登録、同法第七条の変更登録、同法第七条の二の移転登録、同法第八条第一項の抹消登録、同法第十条の二第一項の認定、同法第二十二条の航空従事者技能証明、同法第三十一条第一項の航空身体検査証明、同法第三十五条第一項第一号の許可、同法第七十一条の三第一項の認定、同法第七十八条第一項の運航管理者技能検定、同法第百三十二条の四第一項の登録、同法第百三十二条の六第一項の登録の更新、同法第百三十二条の八第一項の届出、同法第百三十二条の十一第一項の登録の抹消又は同法第百三十二条の四十の無人航空機操縦者技能証明に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">航空法（昭和二十七年法律第二百三十一号）による同法第五条の新規登録、同法第七条の変更登録、同法第七条の二の移転登録、同法第八条第一項の抹消登録、同法第二十二条の航空従事者技能証明、同法第三十一条第一項の航空身体検査証明、同法第三十五条第一項第一号の許可、同法第百三十二条の四第一項の登録、同法第百三十二条の六第一項の登録の更新、同法第百三十二条の八第一項の届出又は同法第百三十二条の十一第一項の登録の抹消に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -13938,7 +13724,7 @@
               <Sentence Num="1" WritingMode="vertical">百十八の三　国土交通省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">海難審判法（昭和二十二年法律第百三十五号）による同法第二十一条第二項の登録、同法第二十九条の通告、同法第五章の審判、同法第四十九条若しくは第五十条の取上げ又は同条の還付に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">海難審判法（昭和二十二年法律第百三十五号）による同法第二十九条の通告、同法第五章の審判、同法第四十九条若しくは第五十条の取上げ又は同条の還付に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -13967,18 +13753,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">百二十の二　原子力規制委員会</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）による同法第二十二条の三第一項の核燃料取扱主任者免状の交付、同項第一号の核燃料取扱主任者試験の実施、同条第三項の命令、同法第四十一条第一項の原子炉主任技術者免状の交付、同項第一号の原子炉主任技術者試験の実施又は同条第三項の命令に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">百二十一　原子力規制委員会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">放射性同位元素等の規制に関する法律（昭和三十二年法律第百六十七号）による同法第三十五条第二項から第四項までの交付、同条第六項の命令又は同条第九項の再交付に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">放射性同位元素等の規制に関する法律（昭和三十二年法律第百六十七号）による同法第三十五条第二項から第四項までの交付又は同条第九項の再交付に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14026,29 +13804,12 @@
               <Sentence Num="1" WritingMode="vertical">一　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一　武力攻撃事態等における国民の保護のための措置に関する法律による同法第六十二条第一項（同法第百八十三条において準用する場合を含む。）の避難住民の誘導、同法第七十六条第二項（同法第百八十三条において準用する場合を含む。）の救援の補助、同法第九十四条第一項（同法第百八十三条において準用する場合を含む。）の安否情報の収集、同法第九十五条第一項（同法第百八十三条において準用する場合を含む。）の安否情報の回答又は同法第百六十条第一項（同法第百八十三条において準用する場合を含む。）の損害補償に関する事務であつて総務省令で定めるもの</Sentence>
-              <Sentence Num="2" WritingMode="vertical">二　武力攻撃事態等における国民の保護のための措置に関する法律による同法第七十五条第一項（同法第百八十三条において準用する場合を含む。）の救援の実施に関する事務のうち、同法第七十六条第一項（同法第百八十三条において準用する場合を含む。）の規定により市町村長が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の二　指定都市の長</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">武力攻撃事態等における国民の保護のための措置に関する法律による同法第七十五条第一項（同法第百八十三条において準用する場合を含む。）の救援の実施、同法第百五十九条第二項（同法第百八十三条において準用する場合を含む。）の実費弁償又は同法第百六十条第二項（同法第百八十三条において準用する場合を含む。）の損害補償に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の三　市町村長</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">新型インフルエンザ等対策特別措置法による同法第二十八条第一項の予防接種の実施に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の四　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の二　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">災害対策基本法（昭和三十六年法律第二百二十三号）による同法第八十六条の十五第一項の安否情報の回答、同法第九十条の二第一項の<Ruby>罹<Rt>り</Rt></Ruby>災証明書の交付又は同法第九十条の三第一項の被災者台帳の作成に関する事務であつて総務省令で定めるもの</Sentence>
@@ -14056,7 +13817,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の五　災害救助法（昭和二十二年法律第百十八号）第二条の二第一項に規定する救助実施市（別表第四の一の五の項において「救助実施市」という。）の長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の三　災害救助法（昭和二十二年法律第百十八号）第二条の二第一項に規定する救助実施市（別表第四の一の三の項において「救助実施市」という。）の長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">災害救助法による同法第二条の二第一項の救助又は同法第十二条の扶助金の支給に関する事務であつて総務省令で定めるもの</Sentence>
@@ -14064,7 +13825,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の六　災害救助法第十一条に規定する災害発生市町村等（以下この項及び別表第四の一の六の項において「災害発生市町村等」という。）の長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の四　災害救助法第十一条に規定する災害発生市町村等（以下この項及び別表第四の一の四の項において「災害発生市町村等」という。）の長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">災害救助法による同法第二条第一項若しくは第二項の救助又は同法第十二条の扶助金の支給に関する事務のうち、同法第十三条第一項の規定により災害発生市町村等の長が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
@@ -14072,7 +13833,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の七　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の五　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">被災者生活再建支援法による同法第三条第一項の被災者生活再建支援金の支給に関する事務のうち、同法第四条第二項の規定により市町村長が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
@@ -14080,7 +13841,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の八　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の六　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">災害弔慰金の支給等に関する法律（昭和四十八年法律第八十二号）による同法第三条第一項の災害弔慰金若しくは同法第八条第一項の災害障害見舞金の支給又は同法第十条第一項の災害援護資金の貸付けに関する事務であつて総務省令で定めるもの</Sentence>
@@ -14088,7 +13849,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の九　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の七　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">子ども・子育て支援法（平成二十四年法律第六十五号）による同法第十条の二の妊婦のための支援給付、同法第十一条の子どものための教育・保育給付、同法第三十条の二の子育てのための施設等利用給付若しくは同法第三十条の十二の乳児等のための支援給付の支給又は同法第五十九条の地域子ども・子育て支援事業の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -14096,7 +13857,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の十　指定都市の長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の八　指定都市の長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">特定非営利活動促進法（平成十年法律第七号）による同法第十条第一項の認証、同法第二十三条第二項の届出又は同法第三十四条第三項の認証に関する事務であつて総務省令で定めるもの</Sentence>
@@ -14104,7 +13865,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の十一　市町村長その他の執行機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の九　市町村長その他の執行機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律による同法第十条の特定公的給付の支給を実施するための基礎とする情報の管理に関する事務であつて総務省令で定めるもの</Sentence>
@@ -14112,7 +13873,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の十二　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の十　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">地方自治法による同法第二百三十一条の三第一項の督促、同条第二項の徴収、同条第三項の処分若しくは同法第二百四十条第二項の督促若しくは強制執行又は同法に基づく条例による歳入（地方税を除く。）の徴収に関する事務であつて総務省令で定めるもの</Sentence>
@@ -14120,7 +13881,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の十三　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の十一　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">公職選挙法による同法第九条第三項の規定により都道府県の議会の議員及び長の選挙権を有する者が従前住所を有していた現に選挙人名簿に登録されている市町村において当該都道府県の議会の議員又は長の選挙の投票をする場合に同法第四十四条第三項の規定により提示することとされている文書の交付に関する事務であつて総務省令で定めるもの</Sentence>
@@ -14156,14 +13917,6 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">学校保健安全法（昭和三十三年法律第五十六号）による同法第二十四条の医療に要する費用についての援助に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">三の三　構造改革特別区域法（平成十四年法律第百八十九号）第十九条第一項の規定による認定を受けた市町村の教育委員会</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">構造改革特別区域法第十九条第一項の規定により読み替えて適用する教育職員免許法（昭和二十四年法律第百四十七号）による同法第八条第一項若しくは第三項の記入、同法第十一条第一項から第三項までの取上げ、同条第四項の通知、同法第十三条第一項の公告及び通知、同条第二項の記入又は同法第十五条の書換若しくは再交付に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14283,7 +14036,7 @@
               <Sentence Num="1" WritingMode="vertical">五の十二　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">母子保健法による同法第九条の二第一項の相談、同条第二項の支援、同法第十条の保健指導、同法第十一条、第十七条第一項若しくは第十九条第一項の訪問指導、同法第十二条若しくは第十三条の健康診査、同法第十五条若しくは第十八条の届出、同法第十六条第一項の母子健康手帳の交付、同法第十七条の二第一項の産後ケア事業の実施、同法第二十条第一項の養育医療の給付若しくは養育医療に要する費用の支給、同法第二十一条の四第一項の費用の徴収又は同法第二十二条第一項のこども家庭センターの事業の実施に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">母子保健法（昭和四十年法律第百四十一号）による同法第九条の二第一項の相談、同条第二項の支援、同法第十条の保健指導、同法第十一条、第十七条第一項若しくは第十九条第一項の訪問指導、同法第十二条若しくは第十三条の健康診査、同法第十五条若しくは第十八条の届出、同法第十六条第一項の母子健康手帳の交付、同法第十七条の二第一項の産後ケア事業の実施、同法第二十条第一項の養育医療の給付若しくは養育医療に要する費用の支給、同法第二十一条の四第一項の費用の徴収又は同法第二十二条第一項のこども家庭センターの事業の実施に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14396,7 +14149,7 @@
               <Sentence Num="1" WritingMode="vertical">五の二十六　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">介護保険法による同法第十八条の保険給付の支給、同法第百十五条の四十五第一項の地域支援事業の実施、同条第二項第七号の事業の実施又は同法第百二十九条第一項の保険料の徴収に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">介護保険法による同法第十八条の保険給付の支給、同法第百十五条の四十五第一項の地域支援事業の実施又は同法第百二十九条第一項の保険料の徴収に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14732,8 +14485,7 @@
               <Sentence Num="1" WritingMode="vertical">一　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一　武力攻撃事態等における国民の保護のための措置に関する法律による同法第七十五条第一項（同法第百八十三条において準用する場合を含む。）の救援の実施、同法第九十四条第二項（同法第百八十三条において準用する場合を含む。）の安否情報の収集、同法第九十五条第一項（同法第百八十三条において準用する場合を含む。）の安否情報の回答、同法第百五十九条第二項（同法第百八十三条において準用する場合を含む。）の実費弁償又は同法第百六十条第一項若しくは第二項（同法第百八十三条において準用する場合を含む。）の損害補償に関する事務であつて総務省令で定めるもの</Sentence>
-              <Sentence Num="2" WritingMode="vertical">二　武力攻撃事態等における国民の保護のための措置に関する法律による同法第六十二条第一項（同法第百八十三条において準用する場合を含む。）の避難住民の誘導に関する事務のうち、同法第十四条第一項（同法第百八十三条において準用する場合を含む。）の規定により都道府県知事が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">新型インフルエンザ等対策特別措置法による同法第二十八条第一項の予防接種の実施に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14741,7 +14493,7 @@
               <Sentence Num="1" WritingMode="vertical">一の二　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">新型インフルエンザ等対策特別措置法による同法第二十八条第一項の予防接種の実施に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">災害対策基本法による同法第八十六条の十五第一項の安否情報の回答に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14749,7 +14501,7 @@
               <Sentence Num="1" WritingMode="vertical">一の三　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">災害対策基本法による同法第八十六条の十五第一項の安否情報の回答に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">災害救助法による同法第二条第一項若しくは第二項の救助又は同法第十二条の扶助金の支給に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14757,20 +14509,12 @@
               <Sentence Num="1" WritingMode="vertical">一の四　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">災害救助法による同法第二条第一項若しくは第二項の救助又は同法第十二条の扶助金の支給に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の五　都道府県知事</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">被災者生活再建支援法による同法第三条第一項の被災者生活再建支援金の支給に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の六　都道府県知事</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の五　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">特定非営利活動促進法による同法第十条第一項の認証、同法第二十三条第二項の届出又は同法第三十四条第三項の認証に関する事務であつて総務省令で定めるもの</Sentence>
@@ -14861,7 +14605,7 @@
               <Sentence Num="1" WritingMode="vertical">五の四　教育委員会</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">教育職員免許法による同法第八条第一項若しくは第三項の記入、同法第十一条第一項から第三項までの取上げ、同条第四項の通知、同法第十三条第一項の公告及び通知、同条第二項の記入又は同法第十五条の書換若しくは再交付に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">教育職員免許法（昭和二十四年法律第百四十七号）による同法第八条第一項若しくは第三項の記入、同法第十一条第一項から第三項までの取上げ、同条第四項の通知、同法第十三条第一項の公告及び通知、同条第二項の記入又は同法第十五条の書換若しくは再交付に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15229,7 +14973,7 @@
               <Sentence Num="1" WritingMode="vertical">十　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">計量法による同法第四十条第二項（同法第四十二条第三項において準用する場合を含む。）の経由、同法第四十六条第一項の届出、同条第二項において準用する同法第四十二条第一項の届出、同法第五十一条第一項の届出、同条第二項において準用する同法第四十二条第一項の届出、同法第百十四条において準用する同法第六十二条第一項の届出、同法第百二十二条第一項の計量士の登録又は同法第百六十八条の八の規定により都道府県知事が行うこととされた事務の実施に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">計量法による同法第四十条第二項（同法第四十二条第三項において準用する場合を含む。）の経由、同法第四十六条第一項の届出、同条第二項において準用する同法第四十二条第一項の届出、同法第五十一条第一項の届出、同条第二項において準用する同法第四十二条第一項の届出、同法第百十四条において準用する同法第六十二条第一項の届出又は同法第百六十八条の八の規定により都道府県知事が行うこととされた事務の実施に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15277,15 +15021,7 @@
               <Sentence Num="1" WritingMode="vertical">十三　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">火薬類取締法による同法第三十一条第三項の試験の実施若しくは火薬類製造保安責任者免状若しくは火薬類取扱保安責任者免状の交付、同条第五項の命令又は同条第七項において準用する同法第十七条第七項の書換え若しくは同条第八項の再交付に関する事務（都道府県知事が行うものに限る。）であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十三の二　都道府県知事</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">高圧ガス保安法による同法第二十九条第三項の製造保安責任者免状若しくは販売主任者免状の交付、同法第三十条の命令又は同法第三十一条第二項の製造保安責任者試験若しくは販売主任者試験の実施に関する事務（都道府県知事が行うものに限る。）であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">火薬類取締法による同法第三十一条第三項の試験（都道府県知事が行うものに限る。）の実施に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15309,7 +15045,7 @@
               <Sentence Num="1" WritingMode="vertical">十六　都道府県知事</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">液化石油ガスの保安の確保及び取引の適正化に関する法律による同法第三十八条の四第一項の交付、同条第四項の命令、同条第五項の再交付若しくは書換え又は同法第三十八条の五第二項の液化石油ガス設備士試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">液化石油ガスの保安の確保及び取引の適正化に関する法律による同法第三十八条の四第一項の交付又は同条第五項の書換えに関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15565,29 +15301,12 @@
               <Sentence Num="1" WritingMode="vertical">一　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一　武力攻撃事態等における国民の保護のための措置に関する法律による同法第六十二条第一項（同法第百八十三条において準用する場合を含む。）の避難住民の誘導、同法第七十六条第二項（同法第百八十三条において準用する場合を含む。）の救援の補助、同法第九十四条第一項（同法第百八十三条において準用する場合を含む。）の安否情報の収集、同法第九十五条第一項（同法第百八十三条において準用する場合を含む。）の安否情報の回答又は同法第百六十条第一項（同法第百八十三条において準用する場合を含む。）の損害補償に関する事務であつて総務省令で定めるもの</Sentence>
-              <Sentence Num="2" WritingMode="vertical">二　武力攻撃事態等における国民の保護のための措置に関する法律による同法第七十五条第一項（同法第百八十三条において準用する場合を含む。）の救援の実施に関する事務のうち、同法第七十六条第一項（同法第百八十三条において準用する場合を含む。）の規定により市町村長が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の二　指定都市の長</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">武力攻撃事態等における国民の保護のための措置に関する法律による同法第七十五条第一項（同法第百八十三条において準用する場合を含む。）の救援の実施、同法第百五十九条第二項（同法第百八十三条において準用する場合を含む。）の実費弁償又は同法第百六十条第二項（同法第百八十三条において準用する場合を含む。）の損害補償に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の三　市町村長</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">新型インフルエンザ等対策特別措置法による同法第二十八条第一項の予防接種の実施に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の四　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の二　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">災害対策基本法による同法第八十六条の十五第一項の安否情報の回答、同法第九十条の二第一項の罹災証明書の交付又は同法第九十条の三第一項の被災者台帳の作成に関する事務であつて総務省令で定めるもの</Sentence>
@@ -15595,7 +15314,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の五　救助実施市の長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の三　救助実施市の長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">災害救助法による同法第二条の二第一項の救助又は同法第十二条の扶助金の支給に関する事務であつて総務省令で定めるもの</Sentence>
@@ -15603,7 +15322,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の六　災害発生市町村等の長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の四　災害発生市町村等の長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">災害救助法による同法第二条第一項若しくは第二項の救助又は同法第十二条の扶助金の支給に関する事務のうち、同法第十三条第一項の規定により災害発生市町村等の長が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
@@ -15611,7 +15330,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の七　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の五　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">被災者生活再建支援法による同法第三条第一項の被災者生活再建支援金の支給に関する事務のうち、同法第四条第二項の規定により市町村長が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
@@ -15619,7 +15338,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の八　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の六　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">災害弔慰金の支給等に関する法律による同法第三条第一項の災害弔慰金若しくは同法第八条第一項の災害障害見舞金の支給又は同法第十条第一項の災害援護資金の貸付けに関する事務であつて総務省令で定めるもの</Sentence>
@@ -15627,7 +15346,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の九　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の七　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">子ども・子育て支援法による同法第十条の二の妊婦のための支援給付、同法第十一条の子どものための教育・保育給付、同法第三十条の二の子育てのための施設等利用給付若しくは同法第三十条の十二の乳児等のための支援給付の支給又は同法第五十九条の地域子ども・子育て支援事業の実施に関する事務であつて総務省令で定めるもの</Sentence>
@@ -15635,7 +15354,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の十　指定都市の長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の八　指定都市の長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">特定非営利活動促進法による同法第十条第一項の認証、同法第二十三条第二項の届出又は同法第三十四条第三項の認証に関する事務であつて総務省令で定めるもの</Sentence>
@@ -15643,7 +15362,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の十一　市町村長その他の執行機関</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の九　市町村長その他の執行機関</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律による同法第十条の特定公的給付の支給を実施するための基礎とする情報の管理に関する事務であつて総務省令で定めるもの</Sentence>
@@ -15651,7 +15370,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の十二　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の十　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">地方自治法による同法第二百三十一条の三第一項の督促、同条第二項の徴収、同条第三項の処分若しくは同法第二百四十条第二項の督促若しくは強制執行又は同法に基づく条例による歳入（地方税を除く。）の徴収に関する事務であつて総務省令で定めるもの</Sentence>
@@ -15659,7 +15378,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の十三　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の十一　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">公職選挙法による同法第九条第三項の規定により都道府県の議会の議員及び長の選挙権を有する者が従前住所を有していた現に選挙人名簿に登録されている市町村において当該都道府県の議会の議員又は長の選挙の投票をする場合に同法第四十四条第三項の規定により提示することとされている文書の交付に関する事務であつて総務省令で定めるもの</Sentence>
@@ -15667,7 +15386,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の十四　市町村長</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の十二　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">地方税法その他の地方税に関する法律及びこれらの法律に基づく条例又は森林環境税及び森林環境譲与税に関する法律による地方税若しくは森林環境税の賦課徴収又は地方税若しくは森林環境税に関する調査（犯則事件の調査を含む。）に関する事務であつて総務省令で定めるもの</Sentence>
@@ -15687,14 +15406,6 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">学校保健安全法による同法第二十四条の医療に要する費用についての援助に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">二の三　構造改革特別区域法第十九条第一項の規定による認定を受けた市町村の教育委員会</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">構造改革特別区域法第十九条第一項の規定により読み替えて適用する教育職員免許法による同法第八条第一項若しくは第三項の記入、同法第十一条第一項から第三項までの取上げ、同条第四項の通知、同法第十三条第一項の公告及び通知、同条第二項の記入又は同法第十五条の書換若しくは再交付に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15927,7 +15638,7 @@
               <Sentence Num="1" WritingMode="vertical">四の二十六　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">介護保険法による同法第十八条の保険給付の支給、同法第百十五条の四十五第一項の地域支援事業の実施、同条第二項第七号の事業の実施又は同法第百二十九条第一項の保険料の徴収に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">介護保険法による同法第十八条の保険給付の支給、同法第百十五条の四十五第一項の地域支援事業の実施又は同法第百二十九条第一項の保険料の徴収に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -16251,610 +15962,592 @@
       <Item Num="1">
         <ItemTitle>一</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">武力攻撃事態等における国民の保護のための措置に関する法律による同法第七十五条第一項（同法第百八十三条において準用する場合を含む。）の救援の実施、同法第九十四条第二項（同法第百八十三条において準用する場合を含む。）の安否情報の収集、同法第九十五条第一項（同法第百八十三条において準用する場合を含む。）の安否情報の回答、同法第百五十九条第二項（同法第百八十三条において準用する場合を含む。）の実費弁償又は同法第百六十条第一項若しくは第二項（同法第百八十三条において準用する場合を含む。）の損害補償に関する事務であつて総務省令で定めるもの</Sentence>
+          <Sentence Num="1" WritingMode="vertical">新型インフルエンザ等対策特別措置法による同法第二十八条第一項の予防接種の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="2">
         <ItemTitle>一の二</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">武力攻撃事態等における国民の保護のための措置に関する法律による同法第六十二条第一項（同法第百八十三条において準用する場合を含む。）の避難住民の誘導に関する事務のうち、同法第十四条第一項（同法第百八十三条において準用する場合を含む。）の規定により都道府県知事が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
+          <Sentence Num="1" WritingMode="vertical">災害対策基本法による同法第八十六条の十五第一項の安否情報の回答に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="3">
         <ItemTitle>一の三</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">新型インフルエンザ等対策特別措置法による同法第二十八条第一項の予防接種の実施に関する事務であつて総務省令で定めるもの</Sentence>
+          <Sentence Num="1" WritingMode="vertical">災害救助法による同法第二条第一項若しくは第二項の救助又は同法第十二条の扶助金の支給に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="4">
         <ItemTitle>一の四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">災害対策基本法による同法第八十六条の十五第一項の安否情報の回答に関する事務であつて総務省令で定めるもの</Sentence>
+          <Sentence Num="1" WritingMode="vertical">被災者生活再建支援法による同法第三条第一項の被災者生活再建支援金の支給に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
       <Item Num="5">
         <ItemTitle>一の五</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">災害救助法による同法第二条第一項若しくは第二項の救助又は同法第十二条の扶助金の支給に関する事務であつて総務省令で定めるもの</Sentence>
-        </ItemSentence>
-      </Item>
-      <Item Num="6">
-        <ItemTitle>一の六</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">被災者生活再建支援法による同法第三条第一項の被災者生活再建支援金の支給に関する事務であつて総務省令で定めるもの</Sentence>
-        </ItemSentence>
-      </Item>
-      <Item Num="7">
-        <ItemTitle>一の七</ItemTitle>
-        <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">特定非営利活動促進法による同法第十条第一項の認証、同法第二十三条第二項の届出又は同法第三十四条第三項の認証に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="8">
+      <Item Num="6">
         <ItemTitle>二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">労働金庫法による同法第八十九条の三第一項の許可又は同法第九十四条第三項において準用する銀行法第五十二条の三十九第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="9">
+      <Item Num="7">
         <ItemTitle>三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">貸金業法による同法第三条第一項の登録、同条第二項の更新又は同法第八条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="10">
+      <Item Num="8">
         <ItemTitle>三の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律による同法第十条の特定公的給付の支給を実施するための基礎とする情報の管理に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="11">
+      <Item Num="9">
         <ItemTitle>四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">恩給法（他の法律において準用する場合を含む。）による年金である給付又は一時金の支給に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="12">
+      <Item Num="10">
         <ItemTitle>四の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">地方自治法による同法第二百三十一条の三第一項の督促、同条第二項の徴収、同条第三項の処分若しくは同法第二百四十条第二項の督促若しくは強制執行又は同法に基づく条例による歳入（地方税を除く。）の徴収に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="13">
+      <Item Num="11">
         <ItemTitle>四の三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">地方税法その他の地方税に関する法律及びこれらの法律に基づく条例又は特別法人事業税及び特別法人事業譲与税に関する法律による地方税若しくは特別法人事業税の賦課徴収又は地方税若しくは特別法人事業税に関する調査（犯則事件の調査を含む。）に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="14">
+      <Item Num="12">
         <ItemTitle>四の四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">地方税法等の一部を改正する等の法律（平成二十八年法律第十三号）附則第三十一条第二項の規定によりなおその効力を有するものとされた同法第九条の規定による廃止前の地方法人特別税等に関する暫定措置法第三章の地方法人特別税の賦課徴収又は地方法人特別税に関する調査（犯則事件の調査を含む。）に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="15">
+      <Item Num="13">
         <ItemTitle>五</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">消防法による危険物取扱者免状の交付、危険物取扱者試験の実施、消防設備士免状の交付又は消防設備士試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="16">
+      <Item Num="14">
         <ItemTitle>六</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">旅券法による同法第三条第一項の申請、同法第九条第一項の渡航先の追加又は同法第十七条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
+          <Sentence Num="1" WritingMode="vertical">旅券法による同法第三条第一項の発給、同法第九条第一項の渡航先の追加又は同法第十七条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="17">
+      <Item Num="15">
         <ItemTitle>六の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">高等学校等就学支援金の支給に関する法律による同法第六条第一項の就学支援金の支給に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="18">
+      <Item Num="16">
         <ItemTitle>六の三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">死体解剖保存法による同法第二条第一項第一号の認定に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="19">
+      <Item Num="17">
         <ItemTitle>六の四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">保健師助産師看護師法による同法第八条の准看護師の免許又は同法第十七条の准看護師試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="20">
+      <Item Num="18">
         <ItemTitle>六の五</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">予防接種法による同法第六条第一項から第三項までの予防接種の実施又は同法第五十二条の実費の徴収に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="21">
+      <Item Num="19">
         <ItemTitle>六の六</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">感染症の予防及び感染症の患者に対する医療に関する法律による同法第十九条第一項若しくは第三項、第二十条第一項若しくは第二項（これらの規定を同法第二十六条において準用する場合を含む。）若しくは第四十六条第一項若しくは第二項の入院の勧告若しくは入院の措置、同法第三十七条第一項、第三十七条の二第一項、第四十四条の三の二第一項若しくは第五十条の三第一項の費用の負担又は同法第四十二条第一項、第四十四条の三の三第一項若しくは第五十条の四第一項の療養費の支給に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="22">
+      <Item Num="20">
         <ItemTitle>六の七</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">難病の患者に対する医療等に関する法律による同法第五条第一項の特定医療費の支給、同法第六条第一項の指定医の指定又は同法第二十八条第二項の指定難病要支援者証明事業の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="23">
+      <Item Num="21">
         <ItemTitle>七</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">原子爆弾被爆者に対する援護に関する法律による同法第二条第三項の被爆者健康手帳の交付、同法第七条の健康診断、同法第三十八条の居宅生活支援事業若しくは同法第三十九条の養護事業の実施又は同法第二十四条第一項の医療特別手当、同法第二十五条第一項の特別手当、同法第二十六条第一項の原子爆弾小頭症手当、同法第二十七条第一項の健康管理手当、同法第二十八条第一項の保健手当、同法第三十一条の介護手当若しくは同法第三十二条の葬祭料の支給に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="24">
+      <Item Num="22">
         <ItemTitle>七の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">原子爆弾被爆者に対する援護に関する法律による同法第十八条第一項の一般疾病医療費の支給に関する事務のうち、同法第五十一条の規定により都道府県知事が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="25">
+      <Item Num="23">
         <ItemTitle>七の三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">栄養士法による同法第二条第一項の栄養士の免許に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="26">
+      <Item Num="24">
         <ItemTitle>七の四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">調理師法による同法第三条の調理師の免許又は同法第三条の二第一項の調理師試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="27">
+      <Item Num="25">
         <ItemTitle>七の五</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">製菓衛生師法による同法第三条の製菓衛生師の免許又は同法第四条第一項の製菓衛生師試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="28">
+      <Item Num="26">
         <ItemTitle>七の六</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">クリーニング業法による同法第六条のクリーニング師の免許又は同法第七条第一項のクリーニング師の試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="29">
+      <Item Num="27">
         <ItemTitle>七の七</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">水道法による同法第二十五条の二第一項（同法第二十五条の三の二第四項において準用する場合を含む。）の申請又は同法第二十五条の七の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="30">
+      <Item Num="28">
         <ItemTitle>七の八</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律による同法第三十六条の八第一項の試験の実施又は同条第二項の登録に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="31">
+      <Item Num="29">
         <ItemTitle>七の九</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律による同法第十八条の職業転換給付金の支給に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="32">
+      <Item Num="30">
         <ItemTitle>八</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">職業能力開発促進法による職業訓練指導員の免許、職業訓練指導員試験の実施又は技能検定試験の実施その他技能検定に関する業務（同法第四十六条第二項の政令で定めるものに限る。）の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="33">
+      <Item Num="31">
         <ItemTitle>八の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">児童福祉法による同法第六条の四第一号の養育里親若しくは同条第二号の養子縁組里親の登録若しくは同条第三号の里親の認定、同法第十一条第一項第二号ハの児童及びその家庭についての調査及び判定、同法第十八条の十八第一項の保育士の登録、同法第十九条の二第一項の小児慢性特定疾病医療費の支給、同法第十九条の三第一項の指定医の指定、同法第十九条の二十二第四項の小児慢性特定疾病要支援者証明事業の実施、同法第二十条第一項の療育の給付、同法第二十四条の二第一項の障害児入所給付費、同法第二十四条の六第一項の高額障害児入所給付費、同法第二十四条の七第一項の特定入所障害児食費等給付費若しくは同法第二十四条の二十第一項の障害児入所医療費の支給、同法第三十三条の六第一項の児童自立生活援助の実施又は同法第五十六条第一項の負担能力の認定若しくは同条第二項の費用の徴収に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="34">
+      <Item Num="32">
         <ItemTitle>八の三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">児童福祉法による同法第十八条の二十八第一項の登録又は令和七年改正法附則第十五条第一項の規定によりなおその効力を有するものとされた準用旧児童福祉法第十八条の十八第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="35">
+      <Item Num="33">
         <ItemTitle>八の四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">児童福祉法による同法第二十二条第一項の助産施設における助産又は同法第二十三条第一項の母子生活支援施設における保護の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="36">
+      <Item Num="34">
         <ItemTitle>九</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">児童扶養手当法による同法第四条第一項の児童扶養手当の支給に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="37">
+      <Item Num="35">
         <ItemTitle>九の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">児童手当法による同法第十七条第一項の規定により読み替えて適用する同法第八条第一項の児童手当の支給に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="38">
+      <Item Num="36">
         <ItemTitle>九の三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">母子及び父子並びに寡婦福祉法による同法第十三条第一項、第三十一条の六第一項若しくは第三十二条第一項若しくは附則第三条第一項若しくは第六条第一項の資金の貸付け、同法第十七条第一項、第三十一条の七第一項若しくは第三十三条第一項の便宜の供与又は同法第三十一条（同法第三十一条の十において準用する場合を含む。）の給付金の支給に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="39">
+      <Item Num="37">
         <ItemTitle>九の四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">母体保護法による同法第十五条第一項の指定に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="40">
+      <Item Num="38">
         <ItemTitle>九の五</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">生活保護法による同法第十九条第一項の保護の決定及び実施、同法第五十五条の四第一項の就労自立給付金若しくは同法第五十五条の五第一項の進学・就職準備給付金の支給、同法第五十五条の八第一項の被保護者健康管理支援事業の実施、同法第六十三条の保護に要する費用の返還又は同法第七十七条第一項、第七十七条の二第一項、第七十八条第一項から第三項まで若しくは第七十八条の二第一項若しくは第二項の徴収金の徴収に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="41">
+      <Item Num="39">
         <ItemTitle>九の六</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">社会福祉士及び介護福祉士法による同法第四十八条の三第一項の登録、同法附則第十一条第一項の交付又は同条第二項の登録に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="42">
+      <Item Num="40">
         <ItemTitle>九の七</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">身体障害者福祉法による同法第十五条第四項の身体障害者手帳の交付に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="43">
+      <Item Num="41">
         <ItemTitle>九の八</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">精神保健及び精神障害者福祉に関する法律による同法第十八条第一項の指定、同法第二十七条第一項若しくは第二項の診察、同法第二十九条第一項若しくは第二十九条の二第一項の入院措置、同法第三十一条の費用の徴収、同法第三十八条の四の退院等の請求又は同法第四十五条第二項の精神障害者保健福祉手帳の交付に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="44">
+      <Item Num="42">
         <ItemTitle>九の九</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">知的障害者福祉法による同法第十一条第一項第二号ハの知的障害者の判定に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="45">
+      <Item Num="43">
         <ItemTitle>十</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">特別児童扶養手当等の支給に関する法律による同法第三条第一項の特別児童扶養手当、同法第十七条の障害児福祉手当若しくは同法第二十六条の二の特別障害者手当の支給又は国民年金法等の一部を改正する法律（昭和六十年法律第三十四号）による同法附則第九十七条第一項の福祉手当の支給に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="46">
+      <Item Num="44">
         <ItemTitle>十の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">障害者の日常生活及び社会生活を総合的に支援するための法律による同法第六条の自立支援給付の支給又は同法第七十八条の地域生活支援事業の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="47">
+      <Item Num="45">
         <ItemTitle>十の三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">介護保険法による同法第六十九条の二第一項の試験若しくは研修の実施若しくは介護支援専門員の登録、同法第六十九条の七第二項、第六十九条の八第二項若しくは同項ただし書の研修の実施又は同法第百十八条第三項第三号の事業の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="48">
+      <Item Num="46">
         <ItemTitle>十の四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律による同法第十四条第一項若しくは第三項の支援給付若しくは同法第十五条第一項の配偶者支援金の支給、平成十九年改正法による平成十九年改正法附則第四条第一項の支援給付の支給又は平成二十五年改正法附則第二条第一項の規定によりなお従前の例によることとされた平成二十五年改正法による改正前の中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律による同法第十四条第一項の支援給付の支給、平成二十五年改正法附則第二条第二項の規定によりなお従前の例によることとされた平成二十五年改正法による改正前の中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律による同法第十四条第三項の支援給付の支給若しくは平成二十五年改正法による平成二十五年改正法附則第二条第三項の支援給付若しくは平成二十五年改正法附則第三条第一項の配偶者支援金の支給に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="49">
+      <Item Num="47">
         <ItemTitle>十の五</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">戦傷病者戦没者遺族等援護法による同法第五条の援護に関する事務のうち、同法第五十条第一項の規定又は同法第五十一条の規定に基づく政令により都道府県知事が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="50">
+      <Item Num="48">
         <ItemTitle>十の六</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">未帰還者留守家族等援護法による同法第五条第一項の留守家族手当、同法第十五条の帰郷旅費、同法第十六条第一項の葬祭料、同法第十七条第一項の遺骨引取経費又は同法第二十六条の障害一時金の支給に関する事務のうち、同法第三十四条の二の規定により都道府県知事が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="51">
+      <Item Num="49">
         <ItemTitle>十の七</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">戦没者等の妻に対する特別給付金支給法による同法第三条の特別給付金の支給に関する事務のうち、同法第十二条の規定又は同法第十三条の規定に基づく政令により都道府県知事が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="52">
+      <Item Num="50">
         <ItemTitle>十の八</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">戦傷病者特別援護法による同法第九条の援護に関する事務のうち、同法第二十八条の規定により都道府県知事が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="53">
+      <Item Num="51">
         <ItemTitle>十の九</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">戦没者等の遺族に対する特別弔慰金支給法による同法第三条の特別弔慰金の支給に関する事務のうち、同法第十五条の規定又は同法第十六条の規定に基づく政令により都道府県知事が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="54">
+      <Item Num="52">
         <ItemTitle>十の十</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">戦傷病者等の妻に対する特別給付金支給法による同法第三条第一項の特別給付金の支給に関する事務のうち、同法第十二条の規定又は同法第十三条の規定に基づく政令により都道府県知事が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="55">
+      <Item Num="53">
         <ItemTitle>十の十一</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">戦没者の父母等に対する特別給付金支給法による同法第三条の特別給付金の支給に関する事務のうち、同法第十五条の規定又は同法第十六条の規定に基づく政令により都道府県知事が行うこととされたものに関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="56">
+      <Item Num="54">
         <ItemTitle>十の十二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">卸売市場法による同法第十三条第一項若しくは同法第十四条において準用する同法第六条第一項の認定又は同条第二項の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="57">
+      <Item Num="55">
         <ItemTitle>十の十三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">畜舎等の建築等及び利用の特例に関する法律による同法第三条第一項若しくは第四条第一項の認定、同法第九条第二項の届出又は同法第十条第一項から第三項までの認可に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="58">
+      <Item Num="56">
         <ItemTitle>十一</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">家畜商法による同法第三条第一項の免許又は同法第五条の登録に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="59">
+      <Item Num="57">
         <ItemTitle>十一の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">家畜改良増殖法による同法第十六条第一項の免許又は同法第二十四条の許可に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="60">
+      <Item Num="58">
         <ItemTitle>十二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">林業種苗法（昭和四十五年法律第八十九号）による同法第十条第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="61">
+      <Item Num="59">
         <ItemTitle>十三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">森林法による同法第二十五条の二第一項若しくは第二項の指定、同法第二十六条の二第一項若しくは第二項の指定の解除、同法第二十七条第二項（同法第三十三条の三及び第四十四条において準用する場合を含む。）の経由、同法第三十二条第一項（同法第三十三条の三及び第四十四条において準用する場合を含む。）の経由若しくは意見書の提出又は同法第三十三条の二第一項の変更に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="62">
+      <Item Num="60">
         <ItemTitle>十三の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">遊漁船業の適正化に関する法律による同法第三条第一項の登録、同条第二項の更新又は同法第七条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="63">
+      <Item Num="61">
         <ItemTitle>十四</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">計量法による同法第四十条第二項（同法第四十二条第三項において準用する場合を含む。）の経由、同法第四十六条第一項の届出、同条第二項において準用する同法第四十二条第一項の届出、同法第五十一条第一項の届出、同条第二項において準用する同法第四十二条第一項の届出、同法第百十四条において準用する同法第六十二条第一項の届出、同法第百二十二条第一項の計量士の登録又は同法第百六十八条の八の規定により都道府県知事が行うこととされた事務の実施に関する事務であつて総務省令で定めるもの</Sentence>
+          <Sentence Num="1" WritingMode="vertical">計量法による同法第四十条第二項（同法第四十二条第三項において準用する場合を含む。）の経由、同法第四十六条第一項の届出、同条第二項において準用する同法第四十二条第一項の届出、同法第五十一条第一項の届出、同条第二項において準用する同法第四十二条第一項の届出、同法第百十四条において準用する同法第六十二条第一項の届出又は同法第百六十八条の八の規定により都道府県知事が行うこととされた事務の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="64">
+      <Item Num="62">
         <ItemTitle>十五</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">大規模小売店舗立地法による同法第五条第一項、第六条第二項、第八条第七項、第九条第四項又は附則第五条第一項（同条第三項において準用する場合を含む。）の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="65">
+      <Item Num="63">
         <ItemTitle>十五の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">採石法による同法第三十二条の登録又は同法第三十二条の七第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="66">
+      <Item Num="64">
         <ItemTitle>十五の三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">砂利採取法による同法第三条の登録又は同法第九条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="67">
+      <Item Num="65">
         <ItemTitle>十五の四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">使用済自動車の再資源化等に関する法律による同法第四十二条第一項の登録、同条第二項の更新、同法第四十六条第一項の届出、同法第五十三条第一項の登録、同条第二項の更新、同法第五十七条第一項の届出、同法第六十条第一項の許可、同条第二項の更新、同法第六十三条第一項の届出、同法第六十七条第一項の許可、同条第二項の更新、同法第七十条第一項の許可又は同法第七十一条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="68">
+      <Item Num="66">
         <ItemTitle>十六</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">フロン類の使用の合理化及び管理の適正化に関する法律による同法第二十七条第一項の登録、同法第三十条第一項の更新又は同法第三十一条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="69">
+      <Item Num="67">
         <ItemTitle>十七</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">火薬類取締法による同法第三十一条第三項の試験の実施若しくは火薬類製造保安責任者免状若しくは火薬類取扱保安責任者免状の交付、同条第五項の命令又は同条第七項において準用する同法第十七条第七項の書換え若しくは同条第八項の再交付に関する事務（都道府県知事が行うものに限る。）であつて総務省令で定めるもの</Sentence>
+          <Sentence Num="1" WritingMode="vertical">火薬類取締法による同法第三十一条第三項の試験（都道府県知事が行うものに限る。）の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="70">
-        <ItemTitle>十七の二</ItemTitle>
-        <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">高圧ガス保安法による同法第二十九条第三項の製造保安責任者免状若しくは販売主任者免状の交付、同法第三十条の命令又は同法第三十一条第二項の製造保安責任者試験若しくは販売主任者試験の実施に関する事務（都道府県知事が行うものに限る。）であつて総務省令で定めるもの</Sentence>
-        </ItemSentence>
-      </Item>
-      <Item Num="71">
+      <Item Num="68">
         <ItemTitle>十八</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">電気工事士法による同法第四条第二項の交付又は同条第七項の書換えに関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="72">
+      <Item Num="69">
         <ItemTitle>十九</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">電気工事業の業務の適正化に関する法律による同法第三条第一項若しくは第三項の登録又は同法第十条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="73">
+      <Item Num="70">
         <ItemTitle>二十</ItemTitle>
         <ItemSentence>
-          <Sentence Num="1" WritingMode="vertical">液化石油ガスの保安の確保及び取引の適正化に関する法律による同法第三十八条の四第一項の交付、同条第四項の命令、同条第五項の再交付若しくは書換え又は同法第三十八条の五第二項の液化石油ガス設備士試験の実施に関する事務であつて総務省令で定めるもの</Sentence>
+          <Sentence Num="1" WritingMode="vertical">液化石油ガスの保安の確保及び取引の適正化に関する法律による同法第三十八条の四第一項の交付又は同条第五項の書換えに関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="74">
+      <Item Num="71">
         <ItemTitle>二十の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">所有者不明土地の利用の円滑化等に関する特別措置法による同法第六条若しくは第七条第一項の許可、同法第十条第一項若しくは第十九条第一項の申請、同法第二十二条第一項の承認、同法第二十七条第一項若しくは第三十七条第一項の申請、同法第四十二条第一項の命令若しくは選任の請求、同条第二項若しくは第五項の命令の請求、地域福利増進事業等の実施の準備又は同法第四十三条第二項の土地所有者等関連情報の提供に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="75">
+      <Item Num="72">
         <ItemTitle>二十一</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">建設業法による建設業の許可に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="76">
+      <Item Num="73">
         <ItemTitle>二十二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">浄化槽法による浄化槽工事業の登録に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="77">
+      <Item Num="74">
         <ItemTitle>二十三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">建設工事に係る資材の再資源化等に関する法律による同法第二十一条第一項の登録又は同法第二十五条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="78">
+      <Item Num="75">
         <ItemTitle>二十四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">宅地建物取引業法による宅地建物取引業の免許又は宅地建物取引士資格の登録に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="79">
+      <Item Num="76">
         <ItemTitle>二十五</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">旅行業法第六十七条の規定により都道府県知事が行うこととされた事務の実施に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="80">
+      <Item Num="77">
         <ItemTitle>二十五の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">住宅宿泊事業法による同法第三条第一項又は第四項の届出に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="81">
+      <Item Num="78">
         <ItemTitle>二十六</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">通訳案内士法による同法第十八条（同法第五十七条において準用する場合を含む。）の登録、同法第二十三条第一項（同法第五十七条において準用する場合を含む。）の届出又は同法第二十四条（同法第五十七条において準用する場合を含む。）の再交付に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="82">
+      <Item Num="79">
         <ItemTitle>二十七</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">不動産の鑑定評価に関する法律による同法第二十二条第一項若しくは第三項、同法第二十六条第一項又は同法第二十七条第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="83">
+      <Item Num="80">
         <ItemTitle>二十七の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">国土調査法による同法第五条第四項の指定を受けた地籍調査又は同法第六条の四第一項の地籍調査に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="84">
+      <Item Num="81">
         <ItemTitle>二十七の三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">土地区画整理法による土地区画整理事業の施行に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="85">
+      <Item Num="82">
         <ItemTitle>二十七の四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">首都圏の近郊整備地帯及び都市開発区域の整備に関する法律による工業団地造成事業の施行に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="86">
+      <Item Num="83">
         <ItemTitle>二十七の五</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">新住宅市街地開発法による新住宅市街地開発事業の施行に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="87">
+      <Item Num="84">
         <ItemTitle>二十七の六</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">近畿圏の近郊整備区域及び都市開発区域の整備及び開発に関する法律による工業団地造成事業の施行に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="88">
+      <Item Num="85">
         <ItemTitle>二十七の七</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">流通業務市街地の整備に関する法律による流通業務団地造成事業の施行に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="89">
+      <Item Num="86">
         <ItemTitle>二十七の八</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">都市再開発法による市街地再開発事業の施行に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="90">
+      <Item Num="87">
         <ItemTitle>二十七の九</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">新都市基盤整備法による新都市基盤整備事業の施行に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="91">
+      <Item Num="88">
         <ItemTitle>二十七の十</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">大都市地域における住宅及び住宅地の供給の促進に関する特別措置法による住宅街区整備事業の施行に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="92">
+      <Item Num="89">
         <ItemTitle>二十七の十一</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">密集市街地における防災街区の整備の促進に関する法律による防災街区整備事業の施行に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="93">
+      <Item Num="90">
         <ItemTitle>二十七の十二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">河川法による同法第七十五条第一項の命令又は同法第七十七条第一項の指示に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="94">
+      <Item Num="91">
         <ItemTitle>二十八</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">公営住宅法による同法第十五条の公営住宅の管理に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="95">
+      <Item Num="92">
         <ItemTitle>二十八の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">住宅地区改良法による同法第二十九条第一項の改良住宅の管理又は同条第三項の改良住宅の家賃若しくは敷金の決定若しくは変更若しくは収入超過者に対する措置に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="96">
+      <Item Num="93">
         <ItemTitle>二十九</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">特定優良賃貸住宅の供給の促進に関する法律による同法第十八条第二項の賃貸住宅の管理に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="97">
+      <Item Num="94">
         <ItemTitle>三十</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">高齢者の居住の安定確保に関する法律による同法第五条第一項の登録、同条第二項の更新又は同法第五十二条第一項の認可に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="98">
+      <Item Num="95">
         <ItemTitle>三十一</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">建築士法による同法第四条第三項若しくは第五項の免許、同法第五条第一項若しくは第二十三条第一項若しくは第三項の登録、同法第五条第二項の交付、同法第五条の二第一項若しくは第二項若しくは第八条の二若しくは第二十三条の五第一項若しくは第二十三条の七の届出又は同法第九条第一項第一号の申請に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="99">
+      <Item Num="96">
         <ItemTitle>三十一の二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">土壌汚染対策法による同法第三条第三項の通知、同法第四条第三項若しくは第五条第一項の命令又は同法第七条第一項の指示に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="100">
+      <Item Num="97">
         <ItemTitle>三十二</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">公害健康被害の補償等に関する法律による同法第三条第一項の補償給付の支給又は同法第四条第一項若しくは第二項の認定に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="101">
+      <Item Num="98">
         <ItemTitle>三十三</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">廃棄物の処理及び清掃に関する法律による同法第八条第一項若しくは第九条第一項の許可、同法第九条の二の四第一項の認定、同法第九条の五第一項（同法第十五条の四において準用する場合を含む。）の許可、同法第九条の六第一項（同法第十五条の四において準用する場合を含む。）の認可、同法第九条の七第二項（同法第十五条の四において準用する場合を含む。）の届出、同法第十二条の七第一項若しくは第七項の認定、同条第九項の届出、同法第十四条第一項の許可、同条第二項の更新、同条第六項の許可、同条第七項の更新、同法第十四条の二第一項の許可、同条第三項において準用する同法第七条の二第三項の届出、同法第十四条の四第一項の許可、同条第二項の更新、同条第六項の許可、同条第七項の更新、同法第十四条の五第一項の許可、同条第三項において準用する同法第七条の二第三項の届出、同法第十五条第一項若しくは第十五条の二の六第一項の許可、同条第三項において準用する同法第九条第三項の届出、同法第十五条の三の三第一項の認定、同法第十七条の二第一項の届出又は同法第二十条の二第一項の登録に関する事務であつて総務省令で定めるもの</Sentence>
         </ItemSentence>
       </Item>
-      <Item Num="102">
+      <Item Num="99">
         <ItemTitle>三十四</ItemTitle>
         <ItemSentence>
           <Sentence Num="1" WritingMode="vertical">福島復興再生特別措置法による同法第四十九条の健康管理調査の実施に関する事務であつて総務省令で定めるもの</Sentence>

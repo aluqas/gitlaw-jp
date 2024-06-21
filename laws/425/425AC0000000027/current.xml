@@ -12,7 +12,7 @@
       </TOCChapter>
       <TOCChapter Num="3">
         <ChapterTitle>第三章　個人番号カード</ChapterTitle>
-        <ArticleRange>（第十六条の二―第十八条の五）</ArticleRange>
+        <ArticleRange>（第十六条の二―第十八条の六）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="4">
         <ChapterTitle>第四章　特定個人情報の提供</ChapterTitle>
@@ -115,7 +115,7 @@
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号カード」とは、次に掲げる事項が記載され、第十六条の二第一項の申請の日において本人の年齢が主務省令で定める年齢に満たない場合を除き本人の写真が表示され、かつ、これらの事項その他主務省令で定める事項（以下「カード記録事項」という。）が電磁的方法（電子的方法、磁気的方法その他人の知覚によって認識することができない方法をいう。第十八条において同じ。）により記録されたカードであって、この法律又はこの法律に基づく命令で定めるところによりカード記録事項を閲覧し、又は改変する権限を有する者以外の者による閲覧又は改変を防止するために必要なものとして主務省令で定める措置が講じられたものをいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号カード」とは、次に掲げる事項（外国人住民（住民基本台帳法第三十条の四十五に規定する外国人住民をいう。次項において同じ。）にあっては、第二号に掲げる事項を除く。）が記載され、第十六条の二第一項の申請の日において本人の年齢が主務省令で定める年齢に満たない場合を除き本人の写真が表示され、かつ、これらの事項その他主務省令で定める事項（以下「カード記録事項」という。）が電磁的方法（電子的方法、磁気的方法その他人の知覚によって認識することができない方法をいう。第十八条及び第十八条の五第二項において同じ。）により記録されたカードであって、この法律又はこの法律に基づく命令で定めるところによりカード記録事項を閲覧し、又は改変する権限を有する者以外の者による閲覧又は改変を防止するために必要なものとして主務省令で定める措置が講じられたものをいう。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -126,29 +126,35 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">住所（国外転出者（住民基本台帳法第十七条第三号に規定する国外転出者をいう。以下同じ。）にあっては、国外転出者である旨及びその国外転出届（同号に規定する国外転出届をいう。第十七条第六項において同じ。）に記載された転出の予定年月日）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">氏名の振り仮名（戸籍法（昭和二十二年法律第二百二十四号）第十三条第一項第二号に規定する氏名の振り仮名をいう。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">生年月日</Sentence>
+                <Sentence Num="1" WritingMode="vertical">住所（国外転出者（住民基本台帳法第十七条第三号に規定する国外転出者をいう。以下同じ。）にあっては、国外転出者である旨及びその国外転出届（同号に規定する国外転出届をいう。第十七条第六項において同じ。）に記載された転出の予定年月日）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">性別</Sentence>
+                <Sentence Num="1" WritingMode="vertical">生年月日</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">個人番号</Sentence>
+                <Sentence Num="1" WritingMode="vertical">性別</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">個人番号</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">その他政令で定める事項</Sentence>
               </ItemSentence>
@@ -157,13 +163,13 @@
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「カード代替電磁的記録」とは、前項第一号から第五号までに掲げる事項及び本人の写真（本人の写真が表示されていない個人番号カードの交付を受けている者に係るものにあっては、当該事項。第十八条の二第二項において「カード代替記録事項」という。）に係る電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下この項並びに同条第一項及び第二項において同じ。）並びに当該電磁的記録がその送信を行った者のものであることを当該電磁的記録の送信を受けた者が確認するために必要な事項として主務省令で定める事項に係る電磁的記録について地方公共団体情報システム機構（以下「機構」という。）が電子署名（電子署名及び認証業務に関する法律（平成十二年法律第百二号）第二条第一項に規定する電子署名であって、主務省令で定める基準に適合するものをいう。第十八条の二第二項及び第三項において同じ。）を行ったものにより一体的に構成された電磁的記録をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「カード代替電磁的記録」とは、前項第一号から第六号までに掲げる事項（外国人住民にあっては、同項第二号に掲げる事項を除く。）及び本人の写真（本人の写真が表示されていない個人番号カードの交付を受けている者に係るものにあっては、当該事項。第十八条の二第二項において「カード代替記録事項」という。）に係る電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下この項並びに同条第一項及び第二項において同じ。）並びに当該電磁的記録がその送信を行った者のものであることを当該電磁的記録の送信を受けた者が確認するために必要な事項として主務省令で定める事項に係る電磁的記録について地方公共団体情報システム機構（以下「機構」という。）が電子署名（電子署名及び認証業務に関する法律（平成十二年法律第百二号）第二条第一項に規定する電子署名であって、主務省令で定める基準に適合するものをいう。第十八条の二第二項及び第三項において同じ。）を行ったものにより一体的に構成された電磁的記録をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「特定個人情報」とは、個人番号（個人番号に対応し、当該個人番号に代わって用いられる番号、記号その他の符号であって、住民票コード以外のものを含む。第七条第一項及び第二項、第八条並びに第四十八条並びに附則第三条第一項から第三項まで及び第五項を除き、以下同じ。）をその内容に含む個人情報をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定個人情報」とは、個人番号（個人番号に対応し、当該個人番号に代わって用いられる番号、記号その他の符号であって、住民票コード以外のものを含む。第七条第一項及び第二項、第八条、第十八条の五第二項並びに第四十八条並びに附則第三条第一項から第三項まで及び第五項を除き、以下同じ。）をその内容に含む個人情報をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="10">
@@ -398,7 +404,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法務大臣は、第十九条第八号又は第九号の規定による戸籍関係情報（戸籍又は除かれた戸籍（戸籍法（昭和二十二年法律第二百二十四号）第百十九条の規定により磁気ディスク（これに準ずる方法により一定の事項を確実に記録することができる物を含む。）をもって調製されたものに限る。以下この項及び第四十五条の二第一項において同じ。）の副本に記録されている情報の電子計算機処理等（電子計算機処理（電子計算機を使用して行われる情報の入力、蓄積、編集、加工、修正、更新、検索、消去、出力又はこれらに類する処理をいう。）その他これに伴う政令で定める措置をいう。以下同じ。）を行うことにより作成することができる戸籍又は除かれた戸籍の副本に記録されている者（以下この項において「戸籍等記録者」という。）についての他の戸籍等記録者との間の親子関係の存否その他の身分関係の存否に関する情報、婚姻その他の身分関係の形成に関する情報その他の情報のうち、第十九条第八号又は第九号の規定により提供するものとして法務省令で定めるものであって、情報提供用個人識別符号（同条第八号又は第九号の規定による利用特定個人情報の提供を管理し、及び当該利用特定個人情報を検索するために必要な限度で第二条第五項に規定する個人番号に代わって用いられる特定の個人を識別する符号であって、同条第九項に規定する個人番号であるものをいう。以下同じ。）をその内容に含むものをいう。以下同じ。）の提供に関する事務の処理に関して保有する特定個人情報ファイルにおいて個人情報を効率的に検索し、及び管理するために必要な限度で情報提供用個人識別符号を利用することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、第十九条第八号又は第九号の規定による戸籍関係情報（戸籍又は除かれた戸籍（戸籍法第百十九条の規定により磁気ディスク（これに準ずる方法により一定の事項を確実に記録することができる物を含む。）をもって調製されたものに限る。以下この項及び第四十五条の二第一項において同じ。）の副本に記録されている情報の電子計算機処理等（電子計算機処理（電子計算機を使用して行われる情報の入力、蓄積、編集、加工、修正、更新、検索、消去、出力又はこれらに類する処理をいう。）その他これに伴う政令で定める措置をいう。以下同じ。）を行うことにより作成することができる戸籍又は除かれた戸籍の副本に記録されている者（以下この項において「戸籍等記録者」という。）についての他の戸籍等記録者との間の親子関係の存否その他の身分関係の存否に関する情報、婚姻その他の身分関係の形成に関する情報その他の情報のうち、第十九条第八号又は第九号の規定により提供するものとして法務省令で定めるものであって、情報提供用個人識別符号（同条第八号又は第九号の規定による利用特定個人情報の提供を管理し、及び当該利用特定個人情報を検索するために必要な限度で第二条第五項に規定する個人番号に代わって用いられる特定の個人を識別する符号であって、同条第九項に規定する個人番号であるものをいう。以下同じ。）をその内容に含むものをいう。以下同じ。）の提供に関する事務の処理に関して保有する特定個人情報ファイルにおいて個人情報を効率的に検索し、及び管理するために必要な限度で情報提供用個人識別符号を利用することができる。</Sentence>
               <Sentence Num="2" WritingMode="vertical">当該事務の全部又は一部の委託を受けた者も、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -572,7 +578,7 @@
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">機構は、個人番号カードに関して、個人番号カードの作成及び送付（第十八条の五第一項において「個人番号カードの発行」という。）に関する状況並びに個人番号カードの運用に関する状況の管理その他総務省令で定める事務を行うものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、個人番号カードに関して、個人番号カードの作成及び送付（第十八条の六第一項及び第三項第一号において「個人番号カードの発行」という。）に関する状況並びに個人番号カードの運用に関する状況の管理その他総務省令で定める事務を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -583,7 +589,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">市町村長は、政令で定めるところにより、当該市町村が備える住民基本台帳に記録されている者又は当該市町村が備える戸籍の附票に記録されている者（国外転出者である者に限る。）に対し、前条第五項から第七項までの規定による送付又はその作成についての通知を受けたその者に係る個人番号カードを直接に又は機構若しくは同条第四項の申出に係る領事官若しくは市町村長を経由して交付するものとする。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該交付を行う市町村長（次項から第五項まで及び第十八条の五第三項において「交付市町村長」という。）は、その者が本人であることを確認するための次に掲げる措置をとらなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該交付を行う市町村長（次項から第五項まで及び第十八条の六第三項第一号において「交付市町村長」という。）は、その者が本人であることを確認するための次に掲げる措置をとらなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -712,7 +718,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">個人番号カードの交付を受けている者（個人番号カード用署名用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号。以下この条及び第三十八条の八第一項において「公的個人認証法」という。）第三条第一項に規定する個人番号カード用署名用電子証明書をいう。以下この条において同じ。）の発行を受け、当該個人番号カード用署名用電子証明書が効力を失っていない者に限り、第三項又は第十一項の規定により既に自己に係るカード代替電磁的記録の発行を受け、当該カード代替電磁的記録が効力を失っていない者を除く。）は、自己に係るカード代替電磁的記録をその者が使用する移動端末設備（電気通信事業法（昭和五十九年法律第八十六号）第十二条の二第四項第二号ロに規定する移動端末設備をいう。以下この条及び次条第一項において同じ。）に組み込まれた主務省令で定める電磁的記録媒体（電磁的記録に係る記録媒体をいう。以下この条において同じ。）に記録して利用するため、その者の申請により、当該カード代替電磁的記録の発行を受けることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">個人番号カードの交付を受けている者（個人番号カード用署名用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号。以下この条及び第三十八条の八第一項において「公的個人認証法」という。）第三条第一項に規定する個人番号カード用署名用電子証明書をいう。以下この条において同じ。）の発行を受け、当該個人番号カード用署名用電子証明書が効力を失っていない者に限り、第三項又は第十一項の規定により既に自己に係るカード代替電磁的記録の発行を受け、当該カード代替電磁的記録が効力を失っていない者を除く。）は、自己に係るカード代替電磁的記録をその者が使用する移動端末設備（電気通信事業法（昭和五十九年法律第八十六号）第十二条の二第四項第三号ロに規定する移動端末設備をいう。以下この条及び次条第一項において同じ。）に組み込まれた主務省令で定める電磁的記録媒体（電磁的記録に係る記録媒体をいう。以下この条において同じ。）に記録して利用するため、その者の申請により、当該カード代替電磁的記録の発行を受けることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -766,7 +772,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十七条第十項の規定により当該カード代替電磁的記録利用者の個人番号カードが失効し、又は公的個人認証法第十五条第一項の規定により当該カード代替電磁的記録利用者の個人番号カード用署名用電子証明書が失効したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条第十項若しくは第十八条の五第八項若しくは第十項の規定により当該カード代替電磁的記録利用者の個人番号カードが失効し、又は公的個人認証法第十五条第一項の規定により当該カード代替電磁的記録利用者の個人番号カード用署名用電子証明書が失効したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -925,12 +931,79 @@
           </Paragraph>
         </Article>
         <Article Num="18_5">
-          <ArticleCaption>（個人番号カードの発行等に関する手数料）</ArticleCaption>
+          <ArticleCaption>（特定在留カード等の交付に伴う措置等）</ArticleCaption>
           <ArticleTitle>第十八条の五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">機構は、第十六条の二第一項、第五項及び第七項並びに第十七条第三項の規定による個人番号カードの発行に係る事務並びに第十八条の二第三項及び第十一項の規定によるカード代替電磁的記録の発行に係る事務（第三項において「カード代替電磁的記録発行事務」という。）に関し、機構が定める額の手数料を徴収することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、出入国管理及び難民認定法（昭和二十六年政令第三百十九号。以下この条において「入管法」という。）第十九条の十五の二第一項若しくは第二項又は日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号。以下この条において「入管特例法」という。）第十六条の二第一項から第三項までの規定による入管法第十九条の十五の二第一項に規定する特定在留カード又は入管特例法第十六条の二第一項に規定する特定特別永住者証明書（以下この条において「特定在留カード等」という。）の交付の申請（以下この条において「特定在留カード等交付申請」という。）があった場合には、機構に対し、当該特定在留カード等交付申請があった旨を通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、前項の規定による通知があった場合には、出入国在留管理庁長官が入管法第十九条の十五の二第四項又は入管特例法第十六条の二第五項の規定により作成する特定在留カード等について、個人番号の記載及びその電磁的方法による記録その他個人番号カードとしての機能を付加するための措置として主務省令で定める措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、入管法第十九条の十五の二第四項又は入管特例法第十六条の二第五項の規定により特定在留カード等を作成した場合には、当該特定在留カード等の交付を受けようとする者が記録されている住民基本台帳を備える市町村の長（以下この条及び次条第三項第二号において「住所地市町村長」という。）に対し、当該特定在留カード等を作成した旨を通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">住所地市町村長は、前項の規定による通知があった場合には、当該特定在留カード等の交付を受けようとする者に係る住民票に記載されている氏名及び出生の年月日その他の個人を識別するための事項であって政令で定めるもの並びに当該住民票に記載されている個人番号を確認する措置をとらなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該住所地市町村長は、当該措置をとった旨を出入国在留管理庁長官に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、入管法第十九条の十五の二第五項から第七項まで又は入管特例法第十六条の二第六項から第九項までの規定により特定在留カード等を交付する場合には、特定在留カード等交付申請又は当該特定在留カード等交付申請に係る当該特定在留カード等の引渡しの際に、当該特定在留カード等の交付を受けようとする者からその者の氏名及び出生の年月日その他の個人を識別するための事項が記載された書類であって政令で定めるものの提示を受け、その者が当該書類に係る者であることを確認する措置（これに準ずるものとして主務省令で定める措置を含む。）をとらなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定在留カード等交付申請が、入管法第十九条の十五の二第二項又は入管特例法第十六条の二第一項若しくは第二項の規定により住所地市町村長（同条第一項の申請が同条第十一項の規定により住所地市町村長以外の市町村長を経由してされた場合には、当該市町村長。以下この項及び次条第三項第二号において同じ。）を経由してされた場合には、当該住所地市町村長は、出入国在留管理庁長官に代わって前項に規定する措置をとるものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該住所地市町村長は、当該措置をとった旨を出入国在留管理庁長官に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官は、入管法第十九条の十五の二第五項若しくは第七項若しくは入管特例法第十六条の二第八項若しくは第九項の規定により特定在留カード等を交付した場合、特定在留カード等の所持を失った者から、入管法第十九条の十二第一項の規定により入管法第十九条の三に規定する在留カードの再交付の申請がされた場合若しくは入管特例法第十三条第一項の規定により入管特例法第七条第一項に規定する特別永住者証明書の再交付の申請がされた場合（当該再交付の申請が住所地市町村長を経由してされた場合を除く。）又は入管法第十九条の十五若しくは第十九条の十五の四第二項若しくは入管特例法第十六条若しくは第十六条の三第二項の規定により特定在留カード等が返納された場合（入管法第十九条の十五の二第九項後段又は入管特例法第十六条第三項の規定により住所地市町村長を経由して返納された場合を除く。）には、その旨を住所地市町村長に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">個人番号カードの交付を受けている者は、入管法第十九条の十五の二第五項から第七項まで又は入管特例法第十六条の二第六項から第九項までの規定により特定在留カード等の交付を受ける場合には、特定在留カード等交付申請又は当該特定在留カード等交付申請に係る当該特定在留カード等の引渡しの際に、政令で定めるところにより、当該個人番号カードを直接に又は出入国在留管理庁長官を経由して住所地市町村長に返納しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、当該個人番号カードは、その効力を失う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">入管法第十九条の十五の二第五項から第七項まで又は入管特例法第十六条の二第六項から第九項までの規定により交付された特定在留カード等は、この法律（第十七条第六項から第九項まで及び第十三項並びに前項を除く。）の規定及び当該規定に基づく命令の規定並びに個人番号カードの利用に関する他の法令（第十八条の規定に基づく条例を含む。）の規定の適用については、第十七条第一項の規定により交付された個人番号カードとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定在留カード等が入管法第十九条の十四又は入管特例法第十五条の規定によりその効力を失った場合には、前項の規定により第十七条第一項の規定により交付された個人番号カードとみなされた場合における当該個人番号カードも、その効力を失う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18_6">
+          <ArticleCaption>（個人番号カードの発行等に関する手数料）</ArticleCaption>
+          <ArticleTitle>第十八条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第十六条の二第一項、第五項及び第七項並びに第十七条第三項の規定による個人番号カードの発行に係る事務、第十八条の二第三項及び第十一項の規定によるカード代替電磁的記録の発行に係る事務（第三項において「カード代替電磁的記録発行事務」という。）並びに前条第二項に規定する措置に係る事務に関し、機構が定める額の手数料を徴収することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -942,8 +1015,30 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">機構は、第一項の手数料（カード代替電磁的記録発行事務に関するものを除く。）の徴収の事務を交付市町村長（第十七条第二項又は第四項の規定により交付市町村長以外の市町村長が同条第一項第二号に掲げる措置をとる場合にあっては、当該市町村長）に委託することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第一項の手数料（カード代替電磁的記録発行事務に関するものを除く。）の徴収の事務を次の各号に掲げる手数料の区分に応じ、当該各号に定める者に委託することができる。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第十六条の二第一項、第五項及び第七項並びに第十七条第三項の規定による個人番号カードの発行に係る事務に関する手数料</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">交付市町村長（同条第二項又は第四項の規定により交付市町村長以外の市町村長が同条第一項第二号に掲げる措置をとる場合にあっては、当該市町村長）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前条第二項に規定する措置に係る事務に関する手数料</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">出入国在留管理庁長官（同条第六項の規定により住所地市町村長が同条第五項に規定する措置をとる場合にあっては、当該住所地市町村長）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
       </Chapter>
@@ -2078,7 +2173,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">主務大臣は、個人番号カード関係事務（第十六条の二、第十七条第三項並びに第十八条の二第二項、第三項、第八項及び第十項から第十三項までの規定により機構が処理する事務並びに公的個人認証法第三十九条第一項に規定する認証事務をいう。以下この条から第三十八条の十二までにおいて同じ。）の実施に関し、三年以上五年以下の期間において機構が達成すべき業務運営に関する目標（以下「中期目標」という。）を定め、これを機構に指示するとともに、公表しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、個人番号カード関係事務（第十六条の二、第十七条第三項、第十八条の二第二項、第三項、第八項及び第十項から第十三項まで並びに第十八条の五第二項の規定により機構が処理する事務並びに公的個人認証法第三十九条第一項に規定する認証事務をいう。以下この条から第三十八条の十二までにおいて同じ。）の実施に関し、三年以上五年以下の期間において機構が達成すべき業務運営に関する目標（以下「中期目標」という。）を定め、これを機構に指示するとともに、公表しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">これを変更したときも、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -2388,7 +2483,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第七条第一項及び第二項、第八条第一項（附則第三条第四項において準用する場合を含む。）、第十六条の二第二項及び第六項、第十七条第一項から第五項まで及び第七項（同条第八項において準用する場合を含む。）、第二十一条の二第二項（情報提供者が第九条第三項の法務大臣である場合における通知に係る部分に限り、第二十六条において準用する場合を含む。）並びに附則第三条第一項から第三項までの規定により市町村が処理することとされている事務は、地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第七条第一項及び第二項、第八条第一項（附則第三条第四項において準用する場合を含む。）、第十六条の二第二項及び第六項、第十七条第一項から第五項まで及び第七項（同条第八項において準用する場合を含む。）、第十八条の五第四項及び第六項、第二十一条の二第二項（情報提供者が第九条第三項の法務大臣である場合における通知に係る部分に限り、第二十六条において準用する場合を含む。）並びに附則第三条第一項から第三項までの規定により市町村が処理することとされている事務は、地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5765,6 +5860,27 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第四号に掲げる規定の施行の際現に申請され、又は発行されている個人番号カードの記載事項については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定による改正後の番号利用法第十六条の二第一項の申請をした者に係る住民票に当該申請の日において第三条の規定（附則第一条第三号に掲げる改正規定に限る。）による改正後の住民基本台帳法（以下この項及び附則第五条第三項において「新住民基本台帳法」という。）第七条第一号の二に掲げる事項が記載されていない場合（住民基本台帳法第十七条第三号に規定する国外転出者にあっては、その申請をした者に係る戸籍の附票に新住民基本台帳法第十七条第二号の二に掲げる事項が記載されていない場合）における当該申請に係る個人番号カードの記載事項については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二項の規定の適用を受けた個人番号カードの交付を受けている者に対して発行した又は発行する番号利用法第二条第八項に規定するカード代替電磁的記録の記録事項については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="20">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第二十条</ArticleTitle>
@@ -6041,6 +6157,16 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="5">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="11">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第十一条</ArticleTitle>
@@ -6202,6 +6328,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前二条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -6692,7 +6831,7 @@
               <Sentence Num="1" WritingMode="vertical">三十一の二　法務大臣</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法（昭和二十六年政令第三百十九号）による外国人の在留資格に係る許可に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法による外国人の在留資格に係る許可に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -7292,7 +7431,7 @@
               <Sentence Num="1" WritingMode="vertical">九十一の二　出入国在留管理庁長官</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号）による特別永住者証明書の交付に関する事務であって主務省令で定めるもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法による特別永住者証明書の交付に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
