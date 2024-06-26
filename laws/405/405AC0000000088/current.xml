@@ -712,7 +712,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">行政庁は、聴聞を行うに当たっては、聴聞を行うべき期日までに相当な期間をおいて、不利益処分の名宛人となるべき者に対し、次に掲げる事項を書面により通知しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、聴聞を行うに当たっては、聴聞を行うべき期日までに相当な期間をおいて、不利益処分の名あて人となるべき者に対し、次に掲げる事項を書面により通知しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -760,14 +760,8 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">行政庁は、不利益処分の名宛人となるべき者の所在が判明しない場合においては、第一項の規定による通知を、公示の方法によって行うことができる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の公示の方法による通知は、不利益処分の名宛人となるべき者の氏名、第一項第三号及び第四号に掲げる事項並びに当該行政庁が同項各号に掲げる事項を記載した書面をいつでもその者に交付する旨（以下この項において「公示事項」という。）を総務省令で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、公示事項が記載された書面を当該行政庁の事務所の掲示場に掲示し、又は公示事項を当該事務所に設置した電子計算機の映像面に表示したものの閲覧をすることができる状態に置く措置をとることによって行うものとする。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合においては、当該措置を開始した日から二週間を経過したときに、当該通知がその者に到達したものとみなす。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">行政庁は、不利益処分の名あて人となるべき者の所在が判明しない場合においては、第一項の規定による通知を、その者の氏名、同項第三号及び第四号に掲げる事項並びに当該行政庁が同項各号に掲げる事項を記載した書面をいつでもその者に交付する旨を当該行政庁の事務所の掲示場に掲示することによって行うことができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、掲示を始めた日から二週間を経過したときに、当該通知がその者に到達したものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -777,7 +771,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前条第一項の通知を受けた者（同条第四項後段の規定により当該通知が到達したものとみなされる者を含む。以下「当事者」という。）は、代理人を選任することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の通知を受けた者（同条第三項後段の規定により当該通知が到達したものとみなされる者を含む。以下「当事者」という。）は、代理人を選任することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -972,8 +966,8 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第十五条第三項及び第四項の規定は、前項本文の場合において、当事者又は参加人の所在が判明しないときにおける通知の方法について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同条第三項及び第四項中「不利益処分の名宛人となるべき者」とあるのは「当事者又は参加人」と、同項中「とき」とあるのは「とき（同一の当事者又は参加人に対する二回目以降の通知にあっては、当該措置を開始した日の翌日）」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条第三項の規定は、前項本文の場合において、当事者又は参加人の所在が判明しないときにおける通知の方法について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第三項中「不利益処分の名あて人となるべき者」とあるのは「当事者又は参加人」と、「掲示を始めた日から二週間を経過したとき」とあるのは「掲示を始めた日から二週間を経過したとき（同一の当事者又は参加人に対する二回目以降の通知にあっては、掲示を始めた日の翌日）」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1121,8 +1115,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第十五条第三項及び第四項並びに第十六条の規定は、弁明の機会の付与について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、第十五条第三項中「第一項」とあるのは「第三十条」と、同条第四項中「第一項第三号及び第四号」とあるのは「第三十条第三号」と、第十六条第一項中「前条第一項」とあるのは「第三十条」と、「同条第四項後段」とあるのは「第三十一条において準用する第十五条第四項後段」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条第三項及び第十六条の規定は、弁明の機会の付与について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第十五条第三項中「第一項」とあるのは「第三十条」と、「同項第三号及び第四号」とあるのは「同条第三号」と、第十六条第一項中「前条第一項」とあるのは「第三十条」と、「同条第三項後段」とあるのは「第三十一条において準用する第十五条第三項後段」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2002,28 +1996,6 @@
               <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
               </Column>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-      <Article Num="2">
-        <ArticleCaption>（公示送達等の方法に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">次に掲げる法律の規定は、前条第二号に掲げる規定の施行の日以後にする公示送達、送達又は通知について適用し、同日前にした公示送達、送達又は通知については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1:9">
-            <ItemTitle>一から九まで</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">略</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="10">
-            <ItemTitle>十</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第四十四条の規定による改正後の行政手続法第十五条第三項及び第四項（これらの規定を同法又は他の法律において準用する場合を含む。）</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>

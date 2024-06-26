@@ -911,8 +911,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">地方自治法第二百四十三条の二の八の規定は、地方公営企業の業務に従事する職員の賠償責任について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「規則」とあるのは「規則又は企業管理規程」と、同条第八項中「議会の同意を得て」とあるのは「条例で定める場合には議会の同意を得て」と読み替えるほか、第七条の規定により管理者が置かれている地方公営企業の業務に従事する職員の賠償責任について準用する場合に限り、同法第二百四十三条の二の八第三項中「普通地方公共団体の長」とあるのは「管理者」と、同条第八項中「普通地方公共団体の長」とあるのは「管理者」と、「あらかじめ監査委員の意見を聴き、その意見」とあるのは「管理者があらかじめ監査委員の意見を聴き、普通地方公共団体の長が当該意見」と読み替えるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地方自治法第二百四十三条の二の九の規定は、地方公営企業の業務に従事する職員の賠償責任について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「規則」とあるのは「規則又は企業管理規程」と、同条第八項中「議会の同意を得て」とあるのは「条例で定める場合には議会の同意を得て」と読み替えるほか、第七条の規定により管理者が置かれている地方公営企業の業務に従事する職員の賠償責任について準用する場合に限り、同法第二百四十三条の二の九第三項中「普通地方公共団体の長」とあるのは「管理者」と、同条第八項中「普通地方公共団体の長」とあるのは「管理者」と、「あらかじめ監査委員の意見を聴き、その意見」とあるのは「管理者があらかじめ監査委員の意見を聴き、普通地方公共団体の長が当該意見」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1006,7 +1006,7 @@
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">企業職員については、行政不服審査法（平成二十六年法律第六十八号）の規定は、適用しない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三十四条において準用する地方自治法第二百四十三条の二の八第三項の規定による処分を受けた場合は、この限りでない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三十四条において準用する地方自治法第二百四十三条の二の九第三項の規定による処分を受けた場合は、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -2542,6 +2542,37 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月二六日法律第六五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二百三十一条の四の見出し及び同条第一項、第二百四十二条の二第一項第四号ただし書並びに第二百四十三条の改正規定、第二百四十三条の二の八を第二百四十三条の二の九とし、第二百四十三条の二の七を第二百四十三条の二の八とし、第二百四十三条の二の六の次に一条を加える改正規定並びに第二百八十七条の二第十項の改正規定（「第二百四十三条の二の七第二項」を「第二百四十三条の二の八第二項」に改める部分に限る。）並びに附則第五条、第七条、第八条、第十一条、第十二条（地方独立行政法人法（平成十五年法律第百十八号）第十九条の二第五項の改正規定に限る。）及び第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>
