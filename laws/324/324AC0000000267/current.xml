@@ -133,11 +133,11 @@
       </TOCChapter>
       <TOCChapter Num="9">
         <ChapterTitle>第九章　雑則</ChapterTitle>
-        <ArticleRange>（第百七十四条―第百八十八条）</ArticleRange>
+        <ArticleRange>（第百七十四条―第百八十九条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="10">
         <ChapterTitle>第十章　罰則</ChapterTitle>
-        <ArticleRange>（第百八十九条―第百九十八条）</ArticleRange>
+        <ArticleRange>（第百九十条―第二百一条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -496,7 +496,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、資源管理基本方針を定めるに当たつては、水産資源の持続的な利用に関する国際機関その他の国際的な枠組み（我が国が締結した条約その他の国際約束により設けられたものに限る。以下この条及び第五十二条第二項において「国際的な枠組み」という。）において行われた資源評価を考慮しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、資源管理基本方針を定めるに当たつては、水産資源の持続的な利用に関する国際機関その他の国際的な枠組み（我が国が締結した条約その他の国際約束により設けられたものに限る。以下この章及び第五十二条第二項において「国際的な枠組み」という。）において行われた資源評価を考慮しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1022,13 +1022,19 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">年次漁獲割当量設定者は、漁獲割当管理区分において、特定水産資源の採捕をしたときは、農林水産省令で定める期間内に、農林水産省令又は規則で定めるところにより、漁獲量その他漁獲の状況に関し農林水産省令で定める事項を、当該漁獲割当管理区分が大臣管理区分である場合には農林水産大臣、知事管理区分である場合には当該知事管理区分に係る都道府県知事に報告しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">年次漁獲割当量設定者は、漁獲割当管理区分において、特定水産資源（次項に規定する特別管理特定水産資源を除く。）の採捕をしたときは、農林水産省令で定める期間内に、農林水産省令又は規則で定めるところにより、漁獲量その他漁獲の状況に関し農林水産省令で定める事項を、当該漁獲割当管理区分が大臣管理区分である場合には農林水産大臣、知事管理区分である場合には当該知事管理区分に係る都道府県知事に報告しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により報告を受けたときは、農林水産省令で定めるところにより、速やかに、当該事項を農林水産大臣に報告するものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">年次漁獲割当量設定者は、漁獲割当管理区分において、特定水産資源のうち、個体の経済的価値が高く、かつ、国際的な枠組み、資源評価、個体の取引状況その他の事情を勘案して特に厳格な漁獲量の管理を行う必要があると認められるものとして農林水産省令で定めるもの（以下この章及び第二百条第一号において「特別管理特定水産資源」という。）の採捕をしたときは、農林水産省令で定める期間内に、農林水産省令又は規則で定めるところにより、採捕をした個体の数、漁獲量その他漁獲の状況に関し農林水産省令で定める事項を、当該漁獲割当管理区分が大臣管理区分である場合には農林水産大臣、知事管理区分である場合には当該知事管理区分に係る都道府県知事に報告するとともに、農林水産省令で定めるところにより、当該採捕に係る船舶等の名称及び個体ごとの重量その他の農林水産省令で定める事項に関する記録を作成し、その報告をした日から農林水産省令で定める期間保存しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">都道府県知事は、前二項の規定により報告を受けたときは、農林水産省令で定めるところにより、速やかに、当該事項を農林水産大臣に報告するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1038,7 +1044,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">農林水産大臣又は都道府県知事は、年次漁獲割当量設定者が第二十五条第二項の規定に違反してその設定を受けた年次漁獲割当量を超えて特定水産資源の採捕をし、かつ、当該採捕を引き続きするおそれがあるときは、当該採捕をした者が使用する船舶について停泊港及び停泊期間を指定して停泊を命じ、又は当該採捕に使用した漁具その他特定水産資源の採捕の用に供される物について期間を指定してその使用の禁止若しくは陸揚げを命ずることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">農林水産大臣又は都道府県知事は、年次漁獲割当量設定者が、第二十五条第二項の規定に違反してその設定を受けた年次漁獲割当量を超えて特定水産資源の採捕をし、かつ、当該採捕を引き続きするおそれがあるとき、又は前条第二項の規定に違反して採捕した特別管理特定水産資源について報告をせず、若しくは虚偽の報告をし、かつ、当該違反行為を引き続きするおそれがあるときは、当該採捕若しくは当該違反行為をした者が使用する船舶について停泊港及び停泊期間を指定して停泊を命じ、又は当該採捕に使用した漁具その他特定水産資源の採捕の用に供される物について期間を指定してその使用の禁止若しくは陸揚げを命ずることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1083,13 +1089,19 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">漁獲割当管理区分以外の管理区分において特定水産資源の採捕（漁獲努力量の総量の管理を行う管理区分（以下この項及び次条において「漁獲努力量管理区分」という。）にあつては、当該漁獲努力量に係る漁ろう。以下この款において同じ。）をする者は、特定水産資源の採捕をしたときは、農林水産省令で定める期間内に、農林水産省令又は規則で定めるところにより、当該特定水産資源の漁獲量（漁獲努力量管理区分にあつては、当該特定水産資源に係る漁獲努力量。以下この款において同じ。）その他漁獲の状況に関し農林水産省令で定める事項を、当該管理区分が大臣管理区分（漁獲割当管理区分以外のものに限る。以下この款において同じ。）である場合には農林水産大臣、知事管理区分（漁獲割当管理区分以外のものに限る。以下この款において同じ。）である場合には当該知事管理区分に係る都道府県知事に報告しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">漁獲割当管理区分以外の管理区分において特定水産資源（特別管理特定水産資源を除く。以下この項において同じ。）の採捕（漁獲努力量の総量の管理を行う管理区分（以下この項及び次条において「漁獲努力量管理区分」という。）にあつては、当該漁獲努力量に係る漁ろう。以下この款において同じ。）をする者は、特定水産資源の採捕をしたときは、農林水産省令で定める期間内に、農林水産省令又は規則で定めるところにより、当該特定水産資源の漁獲量（漁獲努力量管理区分にあつては、当該特定水産資源に係る漁獲努力量。以下この款において同じ。）その他漁獲の状況に関し農林水産省令で定める事項を、当該管理区分が大臣管理区分（漁獲割当管理区分以外のものに限る。以下この款において同じ。）である場合には農林水産大臣、知事管理区分（漁獲割当管理区分以外のものに限る。以下この款において同じ。）である場合には当該知事管理区分に係る都道府県知事に報告しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により報告を受けたときは、農林水産省令で定めるところにより、速やかに、当該事項を農林水産大臣に報告するものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">漁獲割当管理区分以外の管理区分において特別管理特定水産資源の採捕をする者は、特別管理特定水産資源の採捕をしたときは、農林水産省令で定める期間内に、農林水産省令又は規則で定めるところにより、当該特別管理特定水産資源の個体の数及び漁獲量その他漁獲の状況に関し農林水産省令で定める事項を、当該管理区分が大臣管理区分である場合には農林水産大臣、知事管理区分である場合には当該知事管理区分に係る都道府県知事に報告するとともに、農林水産省令で定めるところにより、当該採捕に係る船舶等の名称及び個体ごとの重量その他の農林水産省令で定める事項に関する記録を作成し、その報告をした日から農林水産省令で定める期間保存しなければならない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="3">
+                <ParagraphNum>３</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">都道府県知事は、前二項の規定により報告を受けたときは、農林水産省令で定めるところにより、速やかに、当該事項を農林水産大臣に報告するものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1251,7 +1263,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">農林水産大臣又は都道府県知事は、前条の命令を受けた者が当該命令に違反する行為をし、かつ、当該行為を引き続きするおそれがあるときは、当該行為をした者が使用する船舶について停泊港及び停泊期間を指定して停泊を命じ、又は当該行為に使用した漁具その他特定水産資源の採捕の用に供される物について期間を指定してその使用の禁止若しくは陸揚げを命ずることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">農林水産大臣又は都道府県知事は、漁獲割当管理区分以外の管理区分において特別管理特定水産資源の採捕をする者が第三十条第二項の規定に違反して採捕した特別管理特定水産資源について報告をせず、若しくは虚偽の報告をし、かつ、当該違反行為を引き続きするおそれがあるとき、又は前条の命令を受けた者が当該命令に違反する行為をし、かつ、当該行為を引き続きするおそれがあるときは、当該違反行為若しくは当該行為をした者が使用する船舶について停泊港及び停泊期間を指定して停泊を命じ、又は当該行為に使用した漁具その他特定水産資源の採捕の用に供される物について期間を指定してその使用の禁止若しくは陸揚げを命ずることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -1647,7 +1659,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">許可を受けた者は、農林水産省令で定めるところにより、当該許可に係る大臣許可漁業における資源管理の状況、漁業生産の実績その他の農林水産省令で定める事項を農林水産大臣に報告しなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二十六条第一項又は第三十条第一項の規定により農林水産大臣に報告した事項については、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二十六条第一項若しくは第二項又は第三十条第一項若しくは第二項の規定により農林水産大臣に報告した事項については、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2869,7 +2881,7 @@
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Function="main" Num="1" WritingMode="vertical">漁業権者は、農林水産省令で定めるところにより、その有する漁業権の内容たる漁業における資源管理の状況、漁場の活用の状況その他の農林水産省令で定める事項を都道府県知事に報告しなければならない。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二十六条第一項又は第三十条第一項の規定により都道府県知事に報告した事項については、この限りでない。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二十六条第一項若しくは第二項又は第三十条第一項若しくは第二項の規定により都道府県知事に報告した事項については、この限りでない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
@@ -3851,7 +3863,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">広域漁業調整委員会は、都道府県の区域を超えた広域的な見地から、水産動植物の繁殖保護を図り、漁業権又は入漁権（第百八十三条の規定により農林水産大臣が自ら都道府県知事の権限を行う漁場に係る漁業権又は入漁権に限る。）の行使を適切にし、漁場（同条の規定により農林水産大臣が自ら都道府県知事の権限を行うものに限る。）の使用に関する紛争の防止又は解決を図り、その他漁業調整のために必要があると認めるときは、関係者に対し、水産動植物の採捕に関する制限又は禁止、漁業者の数に関する制限、漁場の使用に関する制限その他必要な指示をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">広域漁業調整委員会は、都道府県の区域を超えた広域的な見地から、水産動植物の繁殖保護を図り、漁業権又は入漁権（第百八十四条の規定により農林水産大臣が自ら都道府県知事の権限を行う漁場に係る漁業権又は入漁権に限る。）の行使を適切にし、漁場（同条の規定により農林水産大臣が自ら都道府県知事の権限を行うものに限る。）の使用に関する紛争の防止又は解決を図り、その他漁業調整のために必要があると認めるときは、関係者に対し、水産動植物の採捕に関する制限又は禁止、漁業者の数に関する制限、漁場の使用に関する制限その他必要な指示をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -4120,7 +4132,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">何人も、特定水産動植物（財産上の不正な利益を得る目的で採捕されるおそれが大きい水産動植物であつて当該目的による採捕が当該水産動植物の生育又は漁業の生産活動に深刻な影響をもたらすおそれが大きいものとして農林水産省令で定めるものをいう。次項第四号及び第百八十九条において同じ。）を採捕してはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">何人も、特定水産動植物（財産上の不正な利益を得る目的で採捕されるおそれが大きい水産動植物であつて当該目的による採捕が当該水産動植物の生育又は漁業の生産活動に深刻な影響をもたらすおそれが大きいものとして農林水産省令で定めるものをいう。次項第四号及び第百九十条において同じ。）を採捕してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -5474,12 +5486,28 @@
           </Paragraph>
         </Article>
         <Article Num="178">
-          <ArticleCaption>（行政手続法の適用除外）</ArticleCaption>
+          <ArticleCaption>（漁業者等に関する情報の利用等）</ArticleCaption>
           <ArticleTitle>第百七十八条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二十七条及び第三十四条の規定、第八十六条第一項（免許後に条件を付ける場合に限る。）、第八十九条第一項、第九十二条第一項及び第二項並びに第九十三条第一項の規定（これらの規定を第八十八条第四項（同条第五項において準用する場合を含む。）において準用する場合を含む。）並びに第百十六条第二項及び第三項、第百三十一条第一項（第二十五条第一項の規定に違反する行為に係るものに限る。）、第百六十九条第二項並びに前条第十四項において準用する同条第六項の規定による処分については、行政手続法第三章（第十二条及び第十四条を除く。）の規定は、適用しない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣及び都道府県知事は、その所掌事務の遂行に必要な限度で、その保有する漁業者又は漁獲物若しくはその製品に関する情報を、その保有に当たつて特定された利用の目的以外の目的のために内部で利用し、又は相互に提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣及び都道府県知事は、その所掌事務の遂行に必要な限度で、関係する国の行政機関、地方公共団体その他の者に対して、漁業者又は漁獲物若しくはその製品に関する情報の提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="179">
+          <ArticleCaption>（行政手続法の適用除外）</ArticleCaption>
+          <ArticleTitle>第百七十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十七条及び第三十四条の規定、第八十六条第一項（免許後に条件を付ける場合に限る。）、第八十九条第一項、第九十二条第一項及び第二項並びに第九十三条第一項の規定（これらの規定を第八十八条第四項（同条第五項において準用する場合を含む。）において準用する場合を含む。）並びに第百十六条第二項及び第三項、第百三十一条第一項（第二十五条第一項の規定に違反する行為に係るものに限る。）、第百六十九条第二項並びに第百七十七条第十四項において準用する同条第六項の規定による処分については、行政手続法第三章（第十二条及び第十四条を除く。）の規定は、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -5489,9 +5517,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="179">
+        <Article Num="180">
           <ArticleCaption>（行政不服審査法の適用の特例）</ArticleCaption>
-          <ArticleTitle>第百七十九条</ArticleTitle>
+          <ArticleTitle>第百八十条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5499,9 +5527,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="180">
+        <Article Num="181">
           <ArticleCaption>（審査請求の制限）</ArticleCaption>
-          <ArticleTitle>第百八十条</ArticleTitle>
+          <ArticleTitle>第百八十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5509,9 +5537,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="181">
+        <Article Num="182">
           <ArticleCaption>（抗告訴訟の取扱い）</ArticleCaption>
-          <ArticleTitle>第百八十一条</ArticleTitle>
+          <ArticleTitle>第百八十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5519,9 +5547,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="182">
+        <Article Num="183">
           <ArticleCaption>（都道府県が処理する事務）</ArticleCaption>
-          <ArticleTitle>第百八十二条</ArticleTitle>
+          <ArticleTitle>第百八十三条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5529,9 +5557,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="183">
+        <Article Num="184">
           <ArticleCaption>（管轄の特例）</ArticleCaption>
-          <ArticleTitle>第百八十三条</ArticleTitle>
+          <ArticleTitle>第百八十四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5545,8 +5573,8 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="184">
-          <ArticleTitle>第百八十四条</ArticleTitle>
+        <Article Num="185">
+          <ArticleTitle>第百八十五条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5554,9 +5582,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="185">
+        <Article Num="186">
           <ArticleCaption>（公示の方法）</ArticleCaption>
-          <ArticleTitle>第百八十五条</ArticleTitle>
+          <ArticleTitle>第百八十六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5570,9 +5598,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="186">
+        <Article Num="187">
           <ArticleCaption>（提出書類の経由機関）</ArticleCaption>
-          <ArticleTitle>第百八十六条</ArticleTitle>
+          <ArticleTitle>第百八十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5581,9 +5609,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="187">
+        <Article Num="188">
           <ArticleCaption>（事務の区分）</ArticleCaption>
-          <ArticleTitle>第百八十七条</ArticleTitle>
+          <ArticleTitle>第百八十八条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5603,9 +5631,9 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="188">
+        <Article Num="189">
           <ArticleCaption>（経過措置）</ArticleCaption>
-          <ArticleTitle>第百八十八条</ArticleTitle>
+          <ArticleTitle>第百八十九条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5616,8 +5644,8 @@
       </Chapter>
       <Chapter Num="10">
         <ChapterTitle>第十章　罰則</ChapterTitle>
-        <Article Num="189">
-          <ArticleTitle>第百八十九条</ArticleTitle>
+        <Article Num="190">
+          <ArticleTitle>第百九十条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5637,8 +5665,8 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="190">
-          <ArticleTitle>第百九十条</ArticleTitle>
+        <Article Num="191">
+          <ArticleTitle>第百九十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5694,8 +5722,17 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="191">
-          <ArticleTitle>第百九十一条</ArticleTitle>
+        <Article Num="192">
+          <ArticleTitle>第百九十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十六条第二項又は第三十条第二項の規定による報告をせず、又は虚偽の報告をしたときは、当該違反行為をした者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="193">
+          <ArticleTitle>第百九十三条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5703,18 +5740,18 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="192">
-          <ArticleTitle>第百九十二条</ArticleTitle>
+        <Article Num="194">
+          <ArticleTitle>第百九十四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">前三条の場合においては、犯人が所有し、又は所持する漁獲物、その製品、漁船又は漁具その他水産動植物の採捕若しくは養殖の用に供される物は、没収することができる。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第百九十条、第百九十一条又は前条の場合においては、犯人が所有し、又は所持する漁獲物、その製品、漁船又は漁具その他水産動植物の採捕若しくは養殖の用に供される物は、没収することができる。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、犯人が所有していたこれらの物件の全部又は一部を没収することができないときは、その価額を追徴することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="193">
-          <ArticleTitle>第百九十三条</ArticleTitle>
+        <Article Num="195">
+          <ArticleTitle>第百九十五条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5776,17 +5813,17 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="194">
-          <ArticleTitle>第百九十四条</ArticleTitle>
+        <Article Num="196">
+          <ArticleTitle>第百九十六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第百八十九条から第百九十一条まで又は前条第五号の罪を犯した者には、情状により、拘禁刑及び罰金を併科することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第百九十条から第百九十三条まで又は前条第五号の罪を犯した者には、情状により、拘禁刑及び罰金を併科することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="195">
-          <ArticleTitle>第百九十五条</ArticleTitle>
+        <Article Num="197">
+          <ArticleTitle>第百九十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5800,8 +5837,17 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="196">
-          <ArticleTitle>第百九十六条</ArticleTitle>
+        <Article Num="198">
+          <ArticleTitle>第百九十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十六条第二項又は第三十条第二項の規定に違反して、記録を作成せず、若しくは虚偽の記録を作成し、又は記録を保存しなかつたときは、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="199">
+          <ArticleTitle>第百九十九条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5827,17 +5873,39 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="197">
-          <ArticleTitle>第百九十七条</ArticleTitle>
+        <Article Num="200">
+          <ArticleTitle>第二百条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務又は財産に関して、第百八十九条から第百九十一条まで、第百九十三条、第百九十五条第一項又は前条第一号若しくは第二号の違反行為をしたときは、行為者を罰するほか、その法人又は人に対し、各本条の罰金刑を科する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務又は財産に関して、次の各号に掲げる規定の違反行為をしたときは、行為者を罰するほか、その法人に対して当該各号に定める罰金刑を、その人に対して各本条の罰金刑を科する。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第百九十一条第一号（特別管理特定水産資源に係る部分に限る。）若しくは第二号（特別管理特定水産資源に関してされた第二十七条、第三十三条又は第三十四条の規定による命令に係る部分に限る。）又は第百九十二条</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">一億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第百九十条、第百九十一条（前号に掲げる規定に係る部分を除く。）、第百九十三条、第百九十五条、第百九十七条第一項、第百九十八条又は前条第一項</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">各本条の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
-        <Article Num="198">
-          <ArticleTitle>第百九十八条</ArticleTitle>
+        <Article Num="201">
+          <ArticleTitle>第二百一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -8284,6 +8352,15 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="8">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
@@ -8291,6 +8368,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の規定について、その施行の状況等を勘案しつつ検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

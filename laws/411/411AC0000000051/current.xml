@@ -97,7 +97,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">漁業協同組合その他の漁業法（昭和二十四年法律第二百六十七号）第六十条第二項に規定する区画漁業権（これを目的とする入漁権を含む。）を有する者（以下「漁業協同組合等」という。）は、基本方針に基づいて持続的な養殖生産の確保を図るため、単独又は共同で養殖漁場の改善に関する計画（以下「漁場改善計画」という。）を作成し、当該漁場改善計画が適当である旨の都道府県知事（漁場改善計画の対象となる水域が二以上の都道府県知事の管轄に属する場合にあっては、当該水域を最も広くその管轄する水域に含む都道府県知事。ただし、当該漁場改善計画の対象となる水域に漁業法第百八十三条の規定により農林水産大臣が自ら都道府県知事の権限を行う養殖漁場が含まれる場合にあっては、農林水産大臣。以下この条及び次条において同じ。）の認定を受けることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">漁業協同組合その他の漁業法（昭和二十四年法律第二百六十七号）第六十条第二項に規定する区画漁業権（これを目的とする入漁権を含む。）を有する者（以下「漁業協同組合等」という。）は、基本方針に基づいて持続的な養殖生産の確保を図るため、単独又は共同で養殖漁場の改善に関する計画（以下「漁場改善計画」という。）を作成し、当該漁場改善計画が適当である旨の都道府県知事（漁場改善計画の対象となる水域が二以上の都道府県知事の管轄に属する場合にあっては、当該水域を最も広くその管轄する水域に含む都道府県知事。ただし、当該漁場改善計画の対象となる水域に同法第百八十四条の規定により農林水産大臣が自ら都道府県知事の権限を行う養殖漁場が含まれる場合にあっては、農林水産大臣。以下この条及び次条において同じ。）の認定を受けることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -230,7 +230,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">都道府県知事（漁業法第百八十三条の規定により農林水産大臣が自ら都道府県知事の権限を行う場合にあっては、農林水産大臣。以下同じ。）は、漁業協同組合等が基本方針に即した養殖漁場の利用を行わないため、養殖漁場の状態が著しく悪化していると認めるときは、当該漁業協同組合等に対し、漁場改善計画の作成その他の養殖漁場の改善のために必要な措置をとるべき旨の勧告をするものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県知事（漁業法第百八十四条の規定により農林水産大臣が自ら都道府県知事の権限を行う場合にあっては、農林水産大臣。以下同じ。）は、漁業協同組合等が基本方針に即した養殖漁場の利用を行わないため、養殖漁場の状態が著しく悪化していると認めるときは、当該漁業協同組合等に対し、漁場改善計画の作成その他の養殖漁場の改善のために必要な措置をとるべき旨の勧告をするものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -344,7 +344,7 @@
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の訴えにおいては、都道府県（漁業法第百八十三条の規定により農林水産大臣が自ら都道府県知事の権限を行う場合にあっては、国。第十三条第三項において同じ。）を被告とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の訴えにおいては、都道府県（漁業法第百八十四条の規定により農林水産大臣が自ら都道府県知事の権限を行う場合にあっては、国。第十三条第三項において同じ。）を被告とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -834,6 +834,19 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月二六日法律第六六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
