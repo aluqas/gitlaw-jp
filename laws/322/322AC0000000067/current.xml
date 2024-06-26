@@ -877,7 +877,7 @@
             <Paragraph Num="10" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定による訴訟の判決が確定したときは、当該裁判所は、直ちに電子判決書（民事訴訟法（平成八年法律第百九号）第二百五十二条第一項に規定する電子判決書をいい、同法第二百五十三条第二項の規定により裁判所の使用に係る電子計算機に備えられたファイルに記録されたものに限る。第七十四条の二第十項において同じ。）に記録されている事項を出力することにより作成した書面を添えてその旨を総務大臣及び関係のある都道府県知事に通知しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による訴訟の判決が確定したときは、当該裁判所は、直ちに判決書の写を添えてその旨を総務大臣及び関係のある都道府県知事に通知しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="11" OldNum="true" OldStyle="false">
@@ -1329,7 +1329,7 @@
               <Paragraph Num="10" OldNum="true" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">審査の申立てに対する裁決又は判決が確定したときは、当該都道府県の選挙管理委員会又は当該裁判所は、直ちに裁決書の写し又は電子判決書に記録されている事項を出力することにより作成した書面を関係市町村の選挙管理委員会に送付しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">審査の申立てに対する裁決又は判決が確定したときは、当該都道府県の選挙管理委員会又は当該裁判所は、直ちに裁決書又は判決書の写を関係市町村の選挙管理委員会に送付しなければならない。</Sentence>
                   <Sentence Num="2" WritingMode="vertical">この場合においては、送付を受けた当該市町村の選挙管理委員会は、直ちに条例の制定又は改廃の請求者の代表者にその旨を通知しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
@@ -2054,8 +2054,8 @@
               <Paragraph Num="2" OldNum="true" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">民事訴訟に関する法令の規定中証人の尋問に関する規定（過料、罰金、拘留又は勾引に関する規定を除く。）は、この法律に特別の定めがあるものを除くほか、前項後段の規定により議会が当該普通地方公共団体の事務に関する調査のため選挙人その他の関係人の証言を請求する場合に、これを準用する。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合において、民事訴訟法第二百五条第二項中「、最高裁判所規則で」とあるのは「、議会が」と、「最高裁判所規則で定める電子情報処理組織を使用してファイルに記録し、又は当該書面に記載すべき事項に係る電磁的記録を記録した記録媒体を提出する」とあるのは「電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法をいう。）により提供する」と、同条第三項中「ファイルに記録された事項若しくは同項の記録媒体に記録された」とあるのは「提供された」と読み替えるものとする。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">民事訴訟に関する法令の規定中証人の訊問に関する規定は、この法律に特別の定めがあるものを除くほか、前項後段の規定により議会が当該普通地方公共団体の事務に関する調査のため選挙人その他の関係人の証言を請求する場合に、これを準用する。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、過料、罰金、拘留又は勾引に関する規定は、この限りでない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -5221,7 +5221,7 @@
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">普通地方公共団体は、条例で、前項の者に対し、扶養手当、地域手当、住居手当、初任給調整手当（第一種初任給調整手当及び第二種初任給調整手当をいう。）、通勤手当、単身赴任手当、在宅勤務等手当、特殊勤務手当、特地勤務手当（これに準ずる手当を含む。）、へき地手当（これに準ずる手当を含む。）、時間外勤務手当、宿日直手当、管理職員特別勤務手当、夜間勤務手当、休日勤務手当、管理職手当、期末手当、勤勉手当、寒冷地手当、任期付研究員業績手当、義務教育等教員特別手当、定時制通信教育手当、産業教育手当、農林漁業普及指導手当、災害派遣手当（武力攻撃災害等派遣手当及び特定新型インフルエンザ等対策派遣手当を含む。）又は退職手当を支給することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">普通地方公共団体は、条例で、前項の者に対し、扶養手当、地域手当、住居手当、初任給調整手当、通勤手当、単身赴任手当、在宅勤務等手当、特殊勤務手当、特地勤務手当（これに準ずる手当を含む。）、へき地手当（これに準ずる手当を含む。）、時間外勤務手当、宿日直手当、管理職員特別勤務手当、夜間勤務手当、休日勤務手当、管理職手当、期末手当、勤勉手当、寒冷地手当、任期付研究員業績手当、義務教育等教員特別手当、定時制通信教育手当、産業教育手当、農林漁業普及指導手当、災害派遣手当（武力攻撃災害等派遣手当及び特定新型インフルエンザ等対策派遣手当を含む。）又は退職手当を支給することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -15446,7 +15446,7 @@
               <Sentence Num="1" WritingMode="vertical">予防接種法（昭和二十三年法律第六十八号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第六条、第六条の二第一項（臨時の予防接種に係る部分に限る。以下同じ。）、第七条の二（臨時の予防接種に係る部分に限る。以下同じ。）、第九条の三（臨時の予防接種に係る部分に限る。以下同じ。）及び第九条の四（臨時の予防接種に係る部分に限る。以下同じ。）の規定により都道府県が処理することとされている事務並びに第六条第一項から第三項まで、第六条の二第一項、第七条の二、第九条の三、第九条の四、第十五条第一項、第十八条及び第十九条第一項の規定により市町村が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第六条、第九条の三（臨時の予防接種に係る部分に限る。以下同じ。）及び第九条の四（臨時の予防接種に係る部分に限る。以下同じ。）の規定により都道府県が処理することとされている事務並びに第六条第一項から第三項まで、第九条の三、第九条の四、第十五条第一項、第十八条及び第十九条第一項の規定により市町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15576,7 +15576,7 @@
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">この法律の規定により都道府県が処理することとされている事務のうち、次に掲げるもの</Sentence>
               <Sentence Num="2" WritingMode="vertical">一　第二章（第十条、第十五条第四項（同条第六項において準用する場合を含む。）及び第三十五条を除く。）並びに第五十七条第一項及び第四項から第六項までの規定、第五十八条において準用する第三十八条、第三十九条、第四十条第二項、第四十一条第一項第五号及び第二項、第四十二条（第二項ただし書及び第三項ただし書を除く。）、第四十三条、第四十四条第一項から第三項まで、第四十五条（第二号及び第三号に係る部分に限る。）、第四十六条、第四十七条、第四十九条第二項、第五十条、第五十一条第一項、第五十二条、第五十四条第一項から第三項まで並びに第五十六条の規定並びに第百十九条第一項、第二項、第七項及び第八項、第百二十四条第一項、第百二十五条第一項、第百二十六条第一項から第三項まで並びに第百二十七条の規定により都道府県が処理することとされている事務</Sentence>
-              <Sentence Num="3" WritingMode="vertical">二　第百二十条第三項、第四項、第八項、第九項及び第十一項の規定、同条第十二項において準用する第八十六条第三項の規定、第百二十二条、第百三十一条第一項及び第二項、第百七十六条第一項及び第二項並びに第百七十七条第十三項（第四号に係る部分に限る。）の規定、同条第十四項において準用する同条第三項及び第十一項（これらの規定のうち同条第十三項（同号に係る部分に限る。）に係る部分に限る。）の規定並びに第百八十七条の規定により都道府県が処理することとされている事務（大臣許可漁業、知事許可漁業、第百十九条第一項の規定若しくは同条第二項の農林水産省令の規定により農林水産大臣の許可その他の処分を要する漁業又は同条第一項の規定若しくは同条第二項の規則の規定により都道府県知事の許可その他の処分を要する漁業に関するものに限る。）</Sentence>
+              <Sentence Num="3" WritingMode="vertical">二　第百二十条第三項、第四項、第八項、第九項及び第十一項の規定、同条第十二項において準用する第八十六条第三項の規定、第百二十二条、第百三十一条第一項及び第二項、第百七十六条第一項及び第二項並びに第百七十七条第十三項（第四号に係る部分に限る。）の規定、同条第十四項において準用する同条第三項及び第十一項（これらの規定のうち同条第十三項（同号に係る部分に限る。）に係る部分に限る。）の規定並びに第百八十六条の規定により都道府県が処理することとされている事務（大臣許可漁業、知事許可漁業、第百十九条第一項の規定若しくは同条第二項の農林水産省令の規定により農林水産大臣の許可その他の処分を要する漁業又は同条第一項の規定若しくは同条第二項の規則の規定により都道府県知事の許可その他の処分を要する漁業に関するものに限る。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -15830,7 +15830,7 @@
               <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法（昭和二十六年政令第三百十九号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第十九条の七第一項及び第二項（第十九条の八第二項及び第十九条の九第二項において準用する場合を含む。）、第十九条の八第一項、第十九条の九第一項並びに第十九条の十五の二第二項、第六項及び第九項後段の規定により市町村が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第十九条の七第一項及び第二項（第十九条の八第二項及び第十九条の九第二項において準用する場合を含む。）、第十九条の八第一項並びに第十九条の九第一項の規定により市町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -16549,7 +16549,7 @@
               <Sentence Num="1" WritingMode="vertical">電気通信事業法（昭和五十九年法律第八十六号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第百三十条第二項及び第三項（これらの規定を第百三十八条第四項（第百四十三条の十五において準用する場合を含む。）及び第百四十三条の十五において準用する場合を含む。）の規定により市町村が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第百三十条第二項及び第三項（これらの規定を第百三十八条第四項において準用する場合を含む。）の規定により市町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -16605,7 +16605,7 @@
               <Sentence Num="1" WritingMode="vertical">日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第四条第三項及び第四項、第六条第一項、第七条第二項、第十条第一項から第三項まで、第十一条第一項、同条第二項及び第三項（これらの規定を第十二条第三項、第十三条第二項及び第十四条第四項において準用する場合を含む。）、第十二条第一項及び第二項、第十三条第一項、第十四条第一項及び第三項、第十六条第三項並びに第十六条の二第一項、第二項、第六項、第七項及び第十一項の規定により市町村が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第四条第三項及び第四項、第六条第一項、第七条第二項、第十条第一項から第三項まで、第十一条第一項、同条第二項及び第三項（これらの規定を第十二条第三項、第十三条第二項及び第十四条第四項において準用する場合を含む。）、第十二条第一項及び第二項、第十三条第一項、第十四条第一項及び第三項並びに第十六条第三項の規定により市町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -17111,7 +17111,7 @@
               <Sentence Num="1" WritingMode="vertical">行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第七条第一項及び第二項、第八条第一項（附則第三条第四項において準用する場合を含む。）、第十六条の二第二項及び第六項、第十七条第一項から第五項まで及び第七項（同条第八項において準用する場合を含む。）、第十八条の五第四項及び第六項、第二十一条の二第二項（情報提供者が第九条第三項の法務大臣である場合における通知に係る部分に限り、第二十六条において準用する場合を含む。）並びに附則第三条第一項から第三項までの規定により市町村が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第七条第一項及び第二項、第八条第一項（附則第三条第四項において準用する場合を含む。）、第十六条の二第二項及び第六項、第十七条第一項から第五項まで及び第七項（同条第八項において準用する場合を含む。）、第二十一条の二第二項（情報提供者が第九条第三項の法務大臣である場合における通知に係る部分に限り、第二十六条において準用する場合を含む。）並びに附則第三条第一項から第三項までの規定により市町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -17211,7 +17211,7 @@
               <Sentence Num="1" WritingMode="vertical">電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第三条第三項（第九条第二項及び第十条第二項において準用する場合を含む。）、第四項、第五項（第九条第二項及び第十条第二項において準用する場合を含む。）及び第七項、第三条第十項において準用する同条第三項（第九条第二項及び第十条第二項において準用する場合を含む。）、第四項、第五項（第九条第二項及び第十条第二項において準用する場合を含む。）及び第七項、第三条の二第二項において準用する第三条第三項（第九条第三項及び第十条第三項において準用する場合を含む。）、第四項、第五項（第九条第三項及び第十条第三項において準用する場合を含む。）及び第七項、第三条の二第四項において準用する同条第二項において準用する第三条第三項（第九条第三項及び第十条第三項において準用する場合を含む。）、第四項、第五項（第九条第三項及び第十条第三項において準用する場合を含む。）及び第七項、第三条の二第六項において準用する同条第二項において準用する第三条第四項、第五項（第九条第三項及び第十条第三項において準用する場合を含む。）及び第七項、第三条の三第二項において準用する第三条第四項、第五項（第九条第二項及び第十条第二項において準用する場合を含む。）及び第七項、第二十二条第三項（第二十八条第二項及び第二十九条第二項において準用する場合を含む。）、第四項、第五項（第二十八条第二項及び第二十九条第二項において準用する場合を含む。）及び第七項、第二十二条第十項において準用する同条第三項（第二十八条第二項及び第二十九条第二項において準用する場合を含む。）、第四項、第五項（第二十八条第二項及び第二十九条第二項において準用する場合を含む。）及び第七項、第二十二条の二第二項において準用する第二十二条第三項（第二十八条第三項及び第二十九条第三項において準用する場合を含む。）、第四項、第五項（第二十八条第三項及び第二十九条第三項において準用する場合を含む。）及び第七項、第二十二条の二第四項において準用する同条第二項において準用する第二十二条第三項（第二十八条第三項及び第二十九条第三項において準用する場合を含む。）、第四項、第五項（第二十八条第三項及び第二十九条第三項において準用する場合を含む。）及び第七項、第二十二条の二第六項において準用する同条第二項において準用する第二十二条第四項、第五項（第二十八条第三項及び第二十九条第三項において準用する場合を含む。）及び第七項並びに第二十二条の三第二項において準用する第二十二条第四項、第五項（第二十八条第二項及び第二十九条第二項において準用する場合を含む。）及び第七項の規定により市町村が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三条第三項（第九条第二項及び第十条第二項において準用する場合を含む。）、第四項、第五項（第九条第二項及び第十条第二項において準用する場合を含む。）及び第七項、第三条第十項において準用する同条第三項（第九条第二項及び第十条第二項において準用する場合を含む。）、第四項、第五項（第九条第二項及び第十条第二項において準用する場合を含む。）及び第七項、第三条の二第二項において準用する第三条第三項（第九条第三項及び第十条第三項において準用する場合を含む。）、第四項、第五項（第九条第三項及び第十条第三項において準用する場合を含む。）及び第七項、第三条の二第四項において準用する同条第二項において準用する第三条第三項（第九条第三項及び第十条第三項において準用する場合を含む。）、第四項、第五項（第九条第三項及び第十条第三項において準用する場合を含む。）及び第七項、第三条の二第六項において準用する同条第二項において準用する第三条第四項、第五項（第九条第三項及び第十条第三項において準用する場合を含む。）及び第七項、第二十二条第三項（第二十八条第二項及び第二十九条第二項において準用する場合を含む。）、第四項、第五項（第二十八条第二項及び第二十九条第二項において準用する場合を含む。）及び第七項、第二十二条第十項において準用する同条第三項（第二十八条第二項及び第二十九条第二項において準用する場合を含む。）、第四項、第五項（第二十八条第二項及び第二十九条第二項において準用する場合を含む。）及び第七項、第二十二条の二第二項において準用する第二十二条第三項（第二十八条第三項及び第二十九条第三項において準用する場合を含む。）、第四項、第五項（第二十八条第三項及び第二十九条第三項において準用する場合を含む。）及び第七項、第二十二条の二第四項において準用する同条第二項において準用する第二十二条第三項（第二十八条第三項及び第二十九条第三項において準用する場合を含む。）、第四項、第五項（第二十八条第三項及び第二十九条第三項において準用する場合を含む。）及び第七項並びに第二十二条の二第六項において準用する同条第二項において準用する第二十二条第四項、第五項（第二十八条第三項及び第二十九条第三項において準用する場合を含む。）及び第七項の規定により市町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -17509,10 +17509,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">マンションの再生等の円滑化に関する法律（平成十四年法律第七十八号）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">マンションの建替え等の円滑化に関する法律（平成十四年法律第七十八号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">第九条第六項（第三十四条第二項、第四十五条第四項、第五十条第二項及び第五十四条第三項において準用する場合を含む。）、第十一条第一項（第三十四条第二項において準用する場合を含む。）、第十四条第三項（第三十四条第二項において準用する場合を含む。）、第二十五条第一項、第三十八条第五項、第四十九条第三項（第五十条第二項において準用する場合を含む。）、第五十一条第四項及び第六項、第九十七条第一項及び第三項並びに第百七十条第一項（第百八十三条第二項において準用する場合を含む。）の規定により町村が処理することとされている事務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第九条第七項（第三十四条第二項、第四十五条第四項、第五十条第二項及び第五十四条第三項において準用する場合を含む。）、第十一条第一項（第三十四条第二項において準用する場合を含む。）、第十四条第三項（第三十四条第二項において準用する場合を含む。）、第二十五条第一項、第三十八条第五項、第四十九条第三項（第五十条第二項において準用する場合を含む。）、第五十一条第四項及び第六項、第九十七条第一項及び第三項並びに第百七十条第一項（第百八十三条第二項において準用する場合を含む。）の規定により町村が処理することとされている事務</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -29717,32 +29717,6 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="101">
-        <ArticleCaption>（地方自治法及び市町村の合併の特例に関する法律の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第百一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">附則第三十六条の規定による改正後の地方自治法（次項において「新地方自治法」という。）第九条第十項の規定は、地方自治法第九条第九項の規定による訴えであって施行日以後に提起されたものに係る裁判所がする通知について適用し、同項の規定による訴えであって施行日前に提起されたものに係る裁判所がする通知については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新地方自治法第七十四条の二第十項（前条の規定による改正後の市町村の合併の特例に関する法律第五条第三十項において準用する場合を含む。）の規定は、地方自治法第七十四条の二第八項（市町村の合併の特例に関する法律第五条第三十項において準用する場合を含む。）及び第九項の規定による訴えであって施行日以後に提起されたものに係る裁判所がする送付について適用し、これらの規定による訴えであって施行日前に提起されたものに係る裁判所がする送付については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="124">
-        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第百二十四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="125">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第百二十五条</ArticleTitle>
@@ -30528,19 +30502,6 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和六年六月二六日法律第六六号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
     <SupplProvision AmendLawNum="令和六年一〇月一七日法律第七〇号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -30662,19 +30623,6 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
     <SupplProvision AmendLawNum="令和七年五月三〇日法律第四七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -30718,31 +30666,6 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年一二月二四日法律第八九号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日等）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">第二条、第四条及び第六条の規定並びに附則第五条、第七条及び第九条の規定</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">令和八年四月一日</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>
