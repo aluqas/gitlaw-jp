@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Reiwa" Year="02" Num="037" PromulgateMonth="6" PromulgateDay="3" LawType="Act"><LawNum>令和二年法律第三十七号</LawNum><LawBody><LawTitle Kana="とくていこうどじょうほうつうしんぎじゅつかつようしすてむのかいはつきょうきゅうおよびどうにゅうのそくしんにかんするほうりつ" Abbrev="" AbbrevKana="">特定高度情報通信技術活用システムの開発供給及び導入の促進に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　特定高度情報通信技術活用システムの開発供給等の促進に関する指針</ChapterTitle>
+        <ArticleRange>（第六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　特定高度情報通信技術活用システムの開発供給等に係る計画及び特定半導体生産施設整備等に係る計画の認定</ChapterTitle>
+        <ArticleRange>（第七条―第十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　認定開発供給計画等に係る支援措置</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　株式会社日本政策金融公庫法の特例</SectionTitle>
+          <ArticleRange>（第十三条―第二十四条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　中小企業投資育成株式会社法及び中小企業信用保険法の特例</SectionTitle>
+          <ArticleRange>（第二十五条―第二十七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　削除</SectionTitle>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　国立研究開発法人新エネルギー・産業技術総合開発機構の業務</SectionTitle>
+          <ArticleRange>（第二十九条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <ArticleRange>（第三十条―第三十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <ArticleRange>（第三十七条・第三十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、情報通信技術の分野における技術革新の進展及び我が国を取り巻く国際経済環境の変化その他の経済社会情勢の変化に伴い、国民生活及び経済活動の基盤となる特定高度情報通信技術活用システムの開発供給等がサイバーセキュリティ（サイバーセキュリティ基本法（平成二十六年法律第百四号）第二条に規定するサイバーセキュリティをいう。以下この章及び第三十一条において同じ。）を確保しつつ適切に行われるとともに特定高度情報通信技術活用システムに不可欠な特定半導体が我が国の技術の向上により国内で安定的に生産されることが我が国における産業基盤を整備する上で重要であることに鑑み、特定高度情報通信技術活用システムの開発供給等の促進に関する指針の策定、特定高度情報通信技術活用システムの開発供給等に係る計画及び特定半導体生産施設整備等に係る計画の認定制度の創設等の措置を講ずることにより、特定高度情報通信技術活用システムの普及を図り、もって国民生活の向上及び国民経済の健全な発展並びに我が国の安全保障に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定高度情報通信技術活用システム」とは、次に掲げるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">情報通信の業務を一体的に行うよう構成された無線設備及び交換設備その他の主務省令で定める設備並びにこれらに係るプログラムの集合体であって、政令で定める周波数の電波を使用することにより大量の情報を高速度で送受信することを可能とするものその他の高度な技術を活用した情報通信を実現するもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国、地方公共団体若しくは重要社会基盤事業者（サイバーセキュリティ基本法第三条第一項に規定する重要社会基盤事業者をいう。次号において同じ。）の事業又はこれに類するものとして政令で定める事業に係る点検、測量その他の政令で定める業務を一体的に行うよう構成された小型無人機（高度な情報通信技術を活用することにより飛行中の位置、姿勢及び状態を高度に制御できることその他の政令で定める性能を有するものに限る。）及び当該小型無人機に係る当該業務に応じ使用する撮影機器その他の経済産業省令で定める機器並びにこれらに係るプログラムの集合体</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国、地方公共団体若しくは重要社会基盤事業者の事業又はこれに類するものとして政令で定める事業に係る政令で定める業務を一体的に行うよう構成された主務省令で定める設備、機器及び装置並びにこれらに係るプログラムの集合体（高度な情報通信技術を活用するものに限る。）であって、その開発、提供及び維持管理並びに導入がサイバーセキュリティを確保しつつ適切に行われることが前二号に掲げるものに準じて必要なものとして政令で定めるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定高度情報通信技術活用システムの開発供給」とは、特定高度情報通信技術活用システムの開発又は提供及び維持管理（当該特定高度情報通信技術活用システムの一部を構成する設備、機器又は装置及びこれらに係るプログラムの集合体として主務省令で定めるものの開発又は提供及び維持管理を含む。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定高度情報通信技術活用システムの開発供給等」とは、特定高度情報通信技術活用システムの開発供給及び特定高度情報通信技術活用システムの導入をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定半導体」とは、特定高度情報通信技術活用システム（第一項第一号に掲げるものに限る。次条第二項において同じ。）に不可欠な大量の情報を高速度で処理することを可能とする半導体であって、国際的に生産能力が限られていることその他の事由により国内で安定的に生産することが特に必要なものとして政令で定める種類ごとに政令で定める性能を有するものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定半導体生産施設整備等」とは、次に掲げるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定半導体の生産施設（生産施設に係る設備を含む。次号において同じ。）の整備及び当該生産施設における生産</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定半導体の生産に不可欠な半導体材料又は半導体生産装置であって国際的に生産能力が限られていることその他の事由により国内で安定的に生産することが特に必要なものとして政令で定める種類ごとに政令で定める性能を有するもの（第十一条第三項第二号において「特定半導体材料等」という。）の生産施設の整備及び当該生産施設における生産</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（基本理念）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給等は、特定高度情報通信技術活用システムが我が国における国民生活及び経済活動の基盤となることに鑑み、サイバーセキュリティを確保しつつ適切に行われることを基本とし、我が国における特定高度情報通信技術活用システムの開発供給に関係する産業の国際競争力の強化並びに特定高度情報通信技術活用システムの活用による新たな事業の創出及び事業の革新の促進に資することを旨とし、国及び事業者が相互に密接な連携を図りつつ主体的かつ積極的に行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定半導体生産施設整備等は、特定半導体が特定高度情報通信技術活用システムに不可欠なものであり、かつ、我が国産業の国際競争力の強化をもたらす源泉であることに鑑み、国際的に特定半導体の生産能力が限られている状況においてもその需給の変動に対応できるよう我が国の技術の向上により特定半導体の国内における安定的な生産を確保すること、及び我が国における特定半導体の生産に関係する産業の発展に資することを旨とし、国及び事業者が相互に密接な連携を図りつつ行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（国の責務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、前条の基本理念にのっとり、特定高度情報通信技術活用システムの開発供給等の促進（特定半導体生産施設整備等の促進を含む。次条及び次章において同じ。）に関する施策を総合的に策定し、及び実施する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、特定高度情報通信技術活用システムの開発供給等を行う事業者及び特定半導体生産施設整備等を行う事業者に対して集中的かつ効果的に支援を行うよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（事業者の責務）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給等を行う事業者及び特定半導体生産施設整備等を行う事業者は、第三条の基本理念にのっとり、国が実施する特定高度情報通信技術活用システムの開発供給等の促進に関する施策に協力するよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　特定高度情報通信技術活用システムの開発供給等の促進に関する指針</ChapterTitle>
+        <Article Num="6">
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、特定高度情報通信技術活用システムの開発供給等の促進に関する指針（以下「指針」という。）を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指針においては、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給等の促進の意義及び基本的な方向に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給等に関する次に掲げる事項</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給等の内容に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給等の促進のための方策に関する事項（次号ロに掲げるものを除く。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給等の促進に当たって配慮すべき事項（次号ハに掲げるものを除く。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定半導体生産施設整備等に関する次に掲げる事項</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定半導体生産施設整備等の内容に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定半導体生産施設整備等の促進のための方策に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">特定半導体生産施設整備等の促進に当たって配慮すべき事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給等又は特定半導体生産施設整備等を行うために必要な資金の調達の円滑化に関して株式会社日本政策金融公庫（第四章第一節及び第三十八条において「公庫」という。）及び第十五条第四項第三号ロに規定する指定金融機関が果たすべき役割に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、経済事情の変動その他の情勢の推移により必要が生じたときは、指針を変更するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、指針を定め、又はこれを変更するときは、あらかじめ、関係行政機関の長（当該行政機関が合議制の機関である場合にあっては、当該行政機関。次章において同じ。）に協議するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、指針を定め、又はこれを変更したときは、遅滞なく、これを公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　特定高度情報通信技術活用システムの開発供給等に係る計画及び特定半導体生産施設整備等に係る計画の認定</ChapterTitle>
+        <Article Num="7">
+          <ArticleCaption>（特定高度情報通信技術活用システム開発供給計画の認定）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給を行おうとする事業者は、単独で又は共同して、その実施しようとする特定高度情報通信技術活用システムの開発供給に関する計画（以下「特定高度情報通信技術活用システム開発供給計画」という。）を作成し、主務省令で定めるところにより、主務大臣に提出して、その認定を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システム開発供給計画には、次に掲げる事項を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給の目標</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給の内容及び実施時期</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給の実施体制</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給を行うために必要な資金の額及びその調達方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、特定高度情報通信技術活用システムの開発供給に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第一項の認定の申請があった場合において、当該申請に係る特定高度情報通信技術活用システム開発供給計画が次の各号のいずれにも適合するものであると認めるときは、その旨の認定をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該特定高度情報通信技術活用システム開発供給計画の内容が指針に照らし適切なものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該特定高度情報通信技術活用システム開発供給計画に係る特定高度情報通信技術活用システムの開発供給が円滑かつ確実に実施されると見込まれるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第一項の認定に当たり必要があると認めるときは、あらかじめ、関係行政機関の長に協議することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第一項の認定をしたときは、主務省令で定めるところにより、当該認定に係る特定高度情報通信技術活用システム開発供給計画の概要を公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（特定高度情報通信技術活用システム開発供給計画の変更等）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の認定を受けた事業者（以下「認定開発供給事業者」という。）は、当該認定に係る特定高度情報通信技術活用システム開発供給計画を変更するときは、あらかじめ、主務省令で定めるところにより、主務大臣の認定を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、認定開発供給事業者がその認定に係る特定高度情報通信技術活用システム開発供給計画（前項の規定による変更の認定があったときは、その変更後のもの。以下「認定開発供給計画」という。）に従って特定高度情報通信技術活用システムの開発供給を実施していないと認めるときは、当該認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、認定開発供給計画が前条第三項各号のいずれかに適合しないものとなったと認めるときは、認定開発供給事業者に対して、当該認定開発供給計画の変更を指示し、又はその認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、前二項の規定により前条第一項の認定を取り消したときは、その旨を公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第三項から第五項までの規定は、第一項の規定による変更の認定について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（特定高度情報通信技術活用システム導入計画の認定）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの導入（認定開発供給計画に係る特定高度情報通信技術活用システムが含まれているものに限る。以下この章及び次章において同じ。）を行おうとする事業者は、単独で又は共同して、その実施しようとする特定高度情報通信技術活用システムの導入に関する計画（以下「特定高度情報通信技術活用システム導入計画」という。）を作成し、主務省令で定めるところにより、主務大臣に提出して、その認定を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システム導入計画には、次に掲げる事項を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの導入の目標</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの導入の内容及び実施時期</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの導入を行うために必要な資金の額及びその調達方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、特定高度情報通信技術活用システムの導入に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第一項の認定の申請があった場合において、当該申請に係る特定高度情報通信技術活用システム導入計画が次の各号のいずれにも適合するものであると認めるときは、その旨の認定をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該特定高度情報通信技術活用システム導入計画の内容が指針に照らし適切なものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該特定高度情報通信技術活用システム導入計画に係る特定高度情報通信技術活用システムの導入が円滑かつ確実に実施されると見込まれるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第一項の認定に当たり必要があると認めるときは、あらかじめ、経済産業大臣、総務大臣その他の関係行政機関の長に協議することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第一項の認定をしたときは、主務省令で定めるところにより、当該認定に係る特定高度情報通信技術活用システム導入計画の概要を公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（特定高度情報通信技術活用システム導入計画の変更等）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の認定を受けた事業者（以下「認定導入事業者」という。）は、当該認定に係る特定高度情報通信技術活用システム導入計画を変更するときは、あらかじめ、主務省令で定めるところにより、主務大臣の認定を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、認定導入事業者がその認定に係る特定高度情報通信技術活用システム導入計画（前項の規定による変更の認定があったときは、その変更後のもの。以下「認定導入計画」という。）に従って特定高度情報通信技術活用システムの導入を実施していないと認めるときは、当該認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、認定導入計画が前条第三項各号のいずれかに適合しないものとなったと認めるときは、認定導入事業者に対して、当該認定導入計画の変更を指示し、又はその認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、前二項の規定により前条第一項の認定を取り消したときは、その旨を公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第三項から第五項までの規定は、第一項の規定による変更の認定について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（特定半導体生産施設整備等計画の認定）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定半導体生産施設整備等を行おうとする事業者は、単独で又は共同して、その実施しようとする特定半導体生産施設整備等に関する計画（以下「特定半導体生産施設整備等計画」という。）を作成し、主務省令で定めるところにより、主務大臣に提出して、その認定を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定半導体生産施設整備等計画には、次に掲げる事項を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定半導体生産施設整備等の目標</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定半導体生産施設整備等の内容及び実施期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定半導体生産施設整備等の実施体制</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定半導体生産施設整備等を行うために必要な資金の額及びその調達方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定半導体の国内における安定的な生産に資する取組に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、特定半導体生産施設整備等に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第一項の認定の申請があった場合において、当該申請に係る特定半導体生産施設整備等計画が次の各号のいずれにも適合するものであると認めるときは、その旨の認定をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該特定半導体生産施設整備等計画の内容が指針に照らし適切なものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該特定半導体生産施設整備等計画に基づく特定半導体又は特定半導体材料等（第四号及び第五号において「特定半導体等」という。）の生産が主務省令で定める期間以上継続的に行われると見込まれるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該特定半導体生産施設整備等計画に係る特定半導体生産施設整備等が円滑かつ確実に実施されると見込まれるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定半導体等の需給がひっ迫した場合における増産、特定半導体等の生産能力を強化するための投資及び研究開発その他特定半導体の国内における安定的な生産に資するものとして主務省令で定める取組が行われると見込まれるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定半導体等に係る技術上の情報を適切に管理するための体制が整備されていること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第一項の認定に当たり必要があると認めるときは、あらかじめ、関係行政機関の長に協議することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、第一項の認定をしたときは、主務省令で定めるところにより、当該認定に係る特定半導体生産施設整備等計画の概要を公表するとともに、国立研究開発法人新エネルギー・産業技術総合開発機構（次条第四項及び第二十九条において「機構」という。）に当該認定をした旨を通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（特定半導体生産施設整備等計画の変更等）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の認定を受けた事業者（以下「認定特定半導体生産施設整備等事業者」という。）は、当該認定に係る特定半導体生産施設整備等計画を変更するときは、あらかじめ、主務省令で定めるところにより、主務大臣の認定を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、認定特定半導体生産施設整備等事業者がその認定に係る特定半導体生産施設整備等計画（前項の規定による変更の認定があったときは、その変更後のもの。以下「認定特定半導体生産施設整備等計画」という。）に従って特定半導体生産施設整備等を実施していないと認めるときは、当該認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、認定特定半導体生産施設整備等計画が前条第三項各号のいずれかに適合しないものとなったと認めるときは、認定特定半導体生産施設整備等事業者に対して、当該認定特定半導体生産施設整備等計画の変更を指示し、又はその認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、前二項の規定により前条第一項の認定を取り消したときは、その旨を公表するとともに、機構に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第三項から第五項までの規定は、第一項の規定による変更の認定について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　認定開発供給計画等に係る支援措置</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　株式会社日本政策金融公庫法の特例</SectionTitle>
+          <Article Num="13">
+            <ArticleCaption>（公庫の行う開発供給等促進円滑化業務）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公庫は、株式会社日本政策金融公庫法（平成十九年法律第五十七号）第一条及び第十一条の規定にかかわらず、第十五条第四項第三号ロに規定する指定金融機関に対し、認定開発供給事業者若しくは認定導入事業者が認定開発供給計画若しくは認定導入計画に従って特定高度情報通信技術活用システムの開発供給等を行うために必要な資金又は認定特定半導体生産施設整備等事業者が認定特定半導体生産施設整備等計画に従って特定半導体生産施設整備等を行うために必要な資金の貸付けに必要な資金を貸し付ける業務及びこれに附帯する業務（以下この節及び第三十四条第一項第五号において「開発供給等促進円滑化業務」という。）を行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（開発供給等促進円滑化業務の実施に関する方針）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公庫は、指針に即して、主務省令で定めるところにより、開発供給等促進円滑化業務の実施方法及び実施条件その他の開発供給等促進円滑化業務の実施に必要な事項に関する方針を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公庫は、前項の方針を定めるときは、あらかじめ、主務大臣の認可を受けなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">これを変更するときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公庫は、前項の認可を受けたときは、遅滞なく、第一項の方針を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公庫は、第一項の方針に従って開発供給等促進円滑化業務を行わなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（指定金融機関の指定）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">主務大臣は、主務省令で定めるところにより、認定開発供給事業者若しくは認定導入事業者が認定開発供給計画若しくは認定導入計画に従って特定高度情報通信技術活用システムの開発供給等を行うために必要な資金又は認定特定半導体生産施設整備等事業者が認定特定半導体生産施設整備等計画に従って特定半導体生産施設整備等を行うために必要な資金を貸し付ける業務のうち、当該貸付けに必要な資金について公庫から貸付けを受けて行おうとするもの（以下「開発供給等促進業務」という。）に関し、次の各号のいずれにも適合すると認められる者を、その申請により、開発供給等促進業務を行う者として指定することができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">銀行その他の政令で定める金融機関であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次項に規定する業務規程が、法令並びに指針及び前条第一項の方針に適合し、かつ、開発供給等促進業務を適正かつ確実に実施するために十分なものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">人的構成に照らして、開発供給等促進業務を適正かつ確実に実施することができる知識及び経験を有していること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による指定（以下この節において「指定」という。）を受けようとする者は、主務省令で定めるところにより、指針及び前条第一項の方針に即して開発供給等促進業務に関する規程（次項及び第十七条において「業務規程」という。）を定め、これを指定申請書に添えて、主務大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">業務規程には、開発供給等促進業務の実施体制及び実施方法に関する事項その他の主務省令で定める事項を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、指定を受けることができない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">この法律、銀行法（昭和五十六年法律第五十九号）その他の政令で定める法律若しくはこれらの法律に基づく命令又はこれらに基づく処分に違反し、罰金以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から起算して五年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十二条第一項又は第二項の規定により指定を取り消され、その取消しの日から起算して五年を経過しない者</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人であって、その業務を行う役員のうちに、次のいずれかに該当する者があるもの</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">心身の故障のため職務を適正に執行することができない者として主務省令で定める者又は破産手続開始の決定を受けて復権を得ない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">指定を受けた者（以下「指定金融機関」という。）が第二十二条第一項又は第二項の規定により指定を取り消された場合において、当該指定の取消しに係る聴聞の期日及び場所の公示の日前六十日以内にその指定金融機関の役員であった者で当該指定の取消しの日から起算して五年を経過しないもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（指定の公示等）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">主務大臣は、指定をしたときは、当該指定に係る指定金融機関の商号又は名称、住所及び開発供給等促進業務を行う営業所又は事務所の所在地を公示するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定金融機関は、その商号若しくは名称、住所又は開発供給等促進業務を行う営業所若しくは事務所の所在地を変更するときは、あらかじめ、その旨を主務大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">主務大臣は、前項の規定による届出があったときは、その旨を公示するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（業務規程の変更の認可等）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定金融機関は、業務規程を変更するときは、あらかじめ、主務大臣の認可を受けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">主務大臣は、指定金融機関の業務規程が開発供給等促進業務の適正かつ確実な実施上不適当となったと認めるときは、その業務規程を変更すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（協定）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公庫は、開発供給等促進円滑化業務については、指定金融機関と次に掲げる事項をその内容に含む協定を締結し、これに従いその業務を行うものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">指定金融機関が行う開発供給等促進業務に係る貸付けの条件の基準に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">指定金融機関は、その財務状況及び開発供給等促進業務の実施状況に関する報告書を作成し、公庫に提出すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、指定金融機関が行う開発供給等促進業務及び公庫が行う開発供給等促進円滑化業務の内容及び実施方法その他の主務省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">公庫は、前項の協定を締結するときは、あらかじめ、主務大臣の認可を受けなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">これを変更するときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（帳簿の記載）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定金融機関は、開発供給等促進業務について、主務省令で定めるところにより、帳簿を備え、主務省令で定める事項を記載し、これを保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（監督命令）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">主務大臣は、この法律を施行するため必要があると認めるときは、指定金融機関に対し、開発供給等促進業務に関し監督上必要な命令をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（業務の休廃止）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定金融機関は、開発供給等促進業務の全部又は一部を休止し、又は廃止するときは、主務省令で定めるところにより、あらかじめ、その旨を主務大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">主務大臣は、前項の規定による届出があったときは、その旨を公示するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定金融機関が開発供給等促進業務の全部を廃止したときは、当該指定金融機関の指定は、その効力を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（指定の取消し等）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">主務大臣は、指定金融機関が第十五条第四項第一号又は第三号に該当するに至ったときは、その指定を取り消すものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">主務大臣は、指定金融機関が次の各号のいずれかに該当するときは、その指定を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">開発供給等促進業務を適正かつ確実に実施することができないと認められるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">指定に関し不正の行為があったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">この法律又はこの法律に基づく命令若しくはこれらに基づく処分に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">主務大臣は、前二項の規定により指定を取り消したときは、その旨を公示するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（指定の取消し等に伴う業務の結了）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定金融機関について、第二十一条第三項の規定により指定がその効力を失ったとき、又は前条第一項若しくは第二項の規定により指定が取り消されたときは、当該指定金融機関であった者又は当該指定金融機関の一般承継人は、当該指定金融機関が行った開発供給等促進業務の契約に基づく取引を結了する目的の範囲内においては、なお指定金融機関とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（株式会社日本政策金融公庫法の適用）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">開発供給等促進円滑化業務が行われる場合における公庫の財務及び会計並びに主務大臣については、開発供給等促進円滑化業務をエネルギー環境適合製品の開発及び製造を行う事業の促進に関する法律（平成二十二年法律第三十八号）第六条に規定する特定事業促進円滑化業務とみなして、同法第十七条（同条の表第十一条第一項第五号の項、第五十八条及び第五十九条第一項の項、第七十一条の項、第七十三条第一号の項、第七十三条第三号の項、第七十三条第七号の項及び附則第四十七条第一項の項に係る部分を除く。）の規定により読み替えられた株式会社日本政策金融公庫法の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定するもののほか、開発供給等促進円滑化業務が行われる場合における株式会社日本政策金融公庫法の規定の適用については、次の表の上欄に掲げる同法の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、必要な技術的読替えは、政令で定める。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十一条第一項第五号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">行う業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">行う業務（特定高度情報通信技術活用システムの開発供給及び導入の促進に関する法律（令和二年法律第三十七号）第十三条に規定する開発供給等促進円滑化業務（以下「開発供給等促進円滑化業務」という。）を除く。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十八条及び第五十九条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">この法律</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">この法律、特定高度情報通信技術活用システムの開発供給及び導入の促進に関する法律</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第七十一条</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十九条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給及び導入の促進に関する法律第二十四条第二項の規定により読み替えて適用する第五十九条第一項</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第七十三条第一号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">この法律</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">この法律（特定高度情報通信技術活用システムの開発供給及び導入の促進に関する法律第二十四条第二項の規定により読み替えて適用する場合を含む。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第七十三条第三号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十一条</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第十一条及び特定高度情報通信技術活用システムの開発供給及び導入の促進に関する法律第十三条</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第七十三条第七号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第五十八条第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給及び導入の促進に関する法律第二十四条第二項の規定により読み替えて適用する第五十八条第二項</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">附則第四十七条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">公庫の業務</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">公庫の業務（開発供給等促進円滑化業務を除く。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　中小企業投資育成株式会社法及び中小企業信用保険法の特例</SectionTitle>
+          <Article Num="25">
+            <ArticleCaption>（中小企業者の定義）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この節において「中小企業者」とは、次の各号のいずれかに該当する者をいう。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">資本金の額又は出資の総額が三億円以下の会社並びに常時使用する従業員の数が三百人以下の会社及び個人であって、製造業、建設業、運輸業その他の業種（次号から第四号までに規定する業種及び第五号の政令で定める業種を除く。）に属する事業を主たる事業として営むもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">資本金の額又は出資の総額が一億円以下の会社並びに常時使用する従業員の数が百人以下の会社及び個人であって、卸売業（第五号の政令で定める業種を除く。）に属する事業を主たる事業として営むもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">資本金の額又は出資の総額が五千万円以下の会社並びに常時使用する従業員の数が百人以下の会社及び個人であって、サービス業（第五号の政令で定める業種を除く。）に属する事業を主たる事業として営むもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">資本金の額又は出資の総額が五千万円以下の会社並びに常時使用する従業員の数が五十人以下の会社及び個人であって、小売業（次号の政令で定める業種を除く。）に属する事業を主たる事業として営むもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">資本金の額又は出資の総額が政令で定める業種ごとに政令で定める金額以下の会社並びに常時使用する従業員の数がその業種ごとに政令で定める数以下の会社及び個人であって、その業種に属する事業を主たる事業として営むもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">企業組合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">協業組合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">事業協同組合、協同組合連合会その他の特別の法律により設立された組合及びその連合会であって、政令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">医業を主たる事業とする法人であって、常時使用する従業員の数が三百人以下のもの（前各号に掲げるものを除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleCaption>（中小企業投資育成株式会社法の特例）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">中小企業投資育成株式会社は、中小企業投資育成株式会社法（昭和三十八年法律第百一号）第五条第一項各号に掲げる事業のほか、次に掲げる事業を行うことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">中小企業者が認定開発供給計画若しくは認定導入計画に従って特定高度情報通信技術活用システムの開発供給等を行うため、又は認定特定半導体生産施設整備等計画に従って特定半導体生産施設整備等を行うために資本金の額が三億円を超える株式会社を設立する際に発行する株式の引受け及び当該引受けに係る株式の保有</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">中小企業者のうち資本金の額が三億円を超える株式会社が認定開発供給計画若しくは認定導入計画に従って特定高度情報通信技術活用システムの開発供給等を行うために必要とする資金又は認定特定半導体生産施設整備等計画に従って特定半導体生産施設整備等を行うために必要とする資金の調達を図るために発行する株式、新株予約権（新株予約権付社債に付されたものを除く。）又は新株予約権付社債等（中小企業投資育成株式会社法第五条第一項第二号に規定する新株予約権付社債等をいう。以下この号において同じ。）の引受け及び当該引受けに係る株式、新株予約権（その行使により発行され、又は移転された株式を含む。）又は新株予約権付社債等（新株予約権付社債等に付された新株予約権の行使により発行され、又は移転された株式を含む。）の保有</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項各号に掲げる事業は、中小企業投資育成株式会社法の規定の適用については、それぞれ同法第五条第一項第一号及び第二号に掲げる事業とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（中小企業信用保険法の特例）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">中小企業信用保険法（昭和二十五年法律第二百六十四号）第三条第一項に規定する普通保険（以下この条において「普通保険」という。）、同法第三条の二第一項に規定する無担保保険（以下この条において「無担保保険」という。）又は同法第三条の三第一項に規定する特別小口保険（以下この条において「特別小口保険」という。）の保険関係であって、特定高度情報通信技術活用システム開発供給等関連保証（同法第三条第一項、第三条の二第一項又は第三条の三第一項に規定する債務の保証であって、認定開発供給計画若しくは認定導入計画に従って特定高度情報通信技術活用システムの開発供給等を行うために必要な資金又は認定特定半導体生産施設整備等計画に従って特定半導体生産施設整備等を行うために必要な資金に係るものをいう。以下この条において同じ。）を受けた中小企業者に係るものについての次の表の上欄に掲げる同法の規定の適用については、これらの規定中同表の中欄に掲げる字句は、同表の下欄に掲げる字句とする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">保険価額の合計額が</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システムの開発供給及び導入の促進に関する法律（令和二年法律第三十七号）第二十七条第一項に規定する特定高度情報通信技術活用システム開発供給等関連保証（以下「特定高度情報通信技術活用システム開発供給等関連保証」という。）に係る保険関係の保険価額の合計額とその他の保険関係の保険価額の合計額とがそれぞれ</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三条の二第一項及び第三条の三第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">保険価額の合計額が</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システム開発供給等関連保証に係る保険関係の保険価額の合計額とその他の保険関係の保険価額の合計額とがそれぞれ</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三条の二第三項及び第三条の三第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">当該借入金の額のうち</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システム開発供給等関連保証及びその他の保証ごとに、それぞれ当該借入金の額のうち</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">当該債務者</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システム開発供給等関連保証及びその他の保証ごとに、当該債務者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">普通保険の保険関係であって、特定高度情報通信技術活用システム開発供給等関連保証に係るものについての中小企業信用保険法第三条第二項及び第五条の規定の適用については、同項中「百分の七十」とあり、及び同条中「百分の七十（無担保保険、特別小口保険、流動資産担保保険、公害防止保険、エネルギー対策保険、海外投資関係保険、新事業開拓保険、事業再生保険及び特定社債保険にあつては、百分の八十）」とあるのは、「百分の八十」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">普通保険、無担保保険又は特別小口保険の保険関係であって、特定高度情報通信技術活用システム開発供給等関連保証に係るものについての保険料の額は、中小企業信用保険法第四条の規定にかかわらず、保険金額に年百分の二以内において政令で定める率を乗じて得た額とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　削除</SectionTitle>
+          <Article Num="28">
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　国立研究開発法人新エネルギー・産業技術総合開発機構の業務</SectionTitle>
+          <Article Num="29">
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">機構は、特定半導体生産施設整備等を促進するため、次の業務を行う。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">認定特定半導体生産施設整備等事業者が認定特定半導体生産施設整備等計画に従って特定半導体生産施設整備等を行うために必要な資金に充てるための助成金を交付すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">認定特定半導体生産施設整備等事業者が認定特定半導体生産施設整備等計画に従って特定半導体生産施設整備等を行うために必要な資金の貸付けを行う金融機関に対し、利子補給金を支給すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前二号の業務に附帯する業務を行うこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　雑則</ChapterTitle>
+        <Article Num="30">
+          <ArticleCaption>（資金の確保）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、認定開発供給事業者若しくは認定導入事業者が認定開発供給計画若しくは認定導入計画に従って特定高度情報通信技術活用システムの開発供給等を行うために必要な資金又は認定特定半導体生産施設整備等事業者が認定特定半導体生産施設整備等計画に従って特定半導体生産施設整備等を行うために必要な資金の確保に努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（国等の配慮）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国、独立行政法人（独立行政法人通則法（平成十一年法律第百三号）第二条第一項に規定する独立行政法人をいう。）、特殊法人（法律により直接に設立された法人又は特別の法律により特別の設立行為をもって設立された法人であって、総務省設置法（平成十一年法律第九十一号）第四条第一項第八号の規定の適用を受けるものをいう。）、地方公共団体及び地方独立行政法人（地方独立行政法人法（平成十五年法律第百十八号）第二条第一項に規定する地方独立行政法人をいう。）は、特定高度情報通信技術活用システムの導入に当たっては、特定高度情報通信技術活用システムの開発供給がサイバーセキュリティを確保しつつ適切に行われることに最大限の配慮をするよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（報告の徴収）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、認定開発供給事業者又は認定導入事業者に対し、認定開発供給計画又は認定導入計画の実施状況について報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、認定特定半導体生産施設整備等事業者に対し、認定特定半導体生産施設整備等計画の実施状況について報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（指定金融機関に対する報告の徴収等）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">主務大臣は、この法律の施行に必要な限度において、指定金融機関から開発供給等促進業務に関し報告をさせ、又はその職員に、指定金融機関の営業所若しくは事務所に立ち入り、帳簿、書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係人に提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（主務大臣等）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律における主務大臣は、次のとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">指針（第二条第一項第一号に掲げる特定高度情報通信技術活用システムに係る部分に限る。）及び当該特定高度情報通信技術活用システムに係る特定高度情報通信技術活用システム開発供給計画に関する事項</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣及び総務大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">指針（第二条第一項第二号に掲げる特定高度情報通信技術活用システムに係る部分に限る。）及び当該特定高度情報通信技術活用システムに係る特定高度情報通信技術活用システム開発供給計画に関する事項</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">指針（第二条第一項第三号に掲げる特定高度情報通信技術活用システムに係る部分に限る。）及び当該特定高度情報通信技術活用システムに係る特定高度情報通信技術活用システム開発供給計画に関する事項</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">政令で定める大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">指針（特定半導体生産施設整備等に係る部分に限る。）及び特定半導体生産施設整備等計画に関する事項</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">指針（第六条第二項第四号に掲げる事項に係る部分に限る。）並びに開発供給等促進円滑化業務及び開発供給等促進業務に関する事項</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣及び財務大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システム導入計画に関する事項</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">特定高度情報通信技術活用システム導入計画に係る事業を所管する大臣</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">この法律における主務省令は、主務大臣の発する命令とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる主務省令については、当該各号に定めるとおりとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第一号の主務省令及び同条第二項の主務省令（同号に掲げる特定高度情報通信技術活用システムに係るものに限る。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣及び総務大臣の発する命令</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第二項の主務省令（同条第一項第二号に掲げる特定高度情報通信技術活用システムに係るものに限る。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">経済産業大臣の発する命令</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第三号の主務省令及び同条第二項の主務省令（同号に掲げる特定高度情報通信技術活用システムに係るものに限る。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">前項第三号に定める主務大臣の発する命令</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律による主務大臣の権限は、主務省令で定めるところにより、地方支分部局の長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　罰則</ChapterTitle>
+        <Article Num="37">
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の規定に違反して、帳簿を備えず、帳簿に記載せず、若しくは帳簿に虚偽の記載をし、又は帳簿を保存しなかったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十一条第一項の規定による届出をしないで開発供給等促進業務の全部若しくは一部を休止し、若しくは廃止し、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十二条の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十三条第一項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して同項の刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十四条第二項又は第十八条第二項の規定に違反して、主務大臣の認可を受けなかったときは、当該違反行為をした公庫の取締役又は執行役は、百万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（検討）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後三年を目途として、この法律の規定の施行の状況及び経済社会情勢の変化を勘案し、この法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和三年九月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="59">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年一二月二四日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、令和四年三月三十一日までの間において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（検討）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後三年を目途として、経済社会情勢の変化を勘案しつつ、この法律による改正後の規定の施行の状況について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年三月三一日法律第一三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和七年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="79">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="80">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
