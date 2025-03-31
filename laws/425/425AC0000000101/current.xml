@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Heisei" Year="25" Num="101" PromulgateMonth="12" PromulgateDay="13" LawType="Act"><LawNum>平成二十五年法律第百一号</LawNum><LawBody><LawTitle Kana="のうちちゅうかんかんりじぎょうのすいしんにかんするほうりつ" Abbrev="農地バンク法" AbbrevKana="の">農地中間管理事業の推進に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　農地中間管理事業の推進</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　農地中間管理事業の推進に関する基本方針</SectionTitle>
+          <ArticleRange>（第三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　農地中間管理機構</SectionTitle>
+          <ArticleRange>（第四条―第十六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　農地中間管理事業の実施</SectionTitle>
+          <ArticleRange>（第十七条―第二十二条の五）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　連携及び協力等</SectionTitle>
+          <ArticleRange>（第二十三条―第二十五条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　雑則</ChapterTitle>
+        <ArticleRange>（第二十六条―第三十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　罰則</ChapterTitle>
+        <ArticleRange>（第三十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、農地中間管理事業について、農地中間管理機構の指定その他これを推進するための措置等を定めることにより、農業経営の規模の拡大、耕作の事業に供される農用地の集団化、農業への新たに農業経営を営もうとする者の参入の促進等による農用地の利用の効率化及び高度化の促進を図り、もって農業の生産性の向上に資することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「農用地」とは、農地（耕作（農地法（昭和二十七年法律第二百二十九号）第四十三条第一項の規定により耕作に該当するものとみなされる農作物の栽培を含む。以下同じ。）の目的に供される土地をいう。以下同じ。）及び採草放牧地（農地以外の土地で、主として耕作又は養畜の事業のための採草又は家畜の放牧の目的に供されるものをいう。第三十二条第二号において同じ。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「農用地等」とは、次に掲げる土地をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農用地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">木竹の生育に供され、併せて耕作又は養畜の事業のための採草又は家畜の放牧の目的に供される土地</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農業用施設の用に供される土地（第一号に掲げる土地を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">開発して農用地又は農業用施設の用に供される土地とすることが適当な土地</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「農地中間管理事業」とは、農用地の利用の効率化及び高度化を促進するため、都道府県の区域（都市計画法（昭和四十三年法律第百号）第七条第一項の市街化区域と定められた区域（当該区域以外の区域に存する農用地と一体として農業上の利用が行われている農用地の存するものを除き、同法第二十三条第一項の規定による協議を要する場合にあっては当該協議が調ったものに限る。）を除く。）を事業実施地域として次に掲げる業務を行う事業であって、この法律で定めるところにより、農地中間管理機構が行うものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農用地等について農地中間管理権を取得すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理権を有する農用地等の貸付け（貸付けの相手方の変更を含む。第十八条第十項において同じ。）を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農用地等について農業の経営又は農作業（以下「農業経営等」という。）の委託を受けること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農業経営等の委託を受けている農用地等について農業経営等の委託（委託の相手方の変更を含む。）を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理権を有する農用地等の改良、造成又は復旧、農業用施設の整備その他当該農用地等の利用条件の改善を図るための業務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理権を有する農用地等の貸付けを行うまでの間、当該農用地等の管理（当該農用地等を利用して行う農業経営を含む。）を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理権を有する農用地等を利用して行う、新たに農業経営を営もうとする者が農業の技術又は経営方法を実地に習得するための研修を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる業務に附帯する業務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「農地中間管理機構」とは、第四条の規定による指定を受けた者をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「農地中間管理権」とは、農用地等について、次章第三節で定めるところにより貸し付けることを目的として、農地中間管理機構が取得する次に掲げる権利をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">賃借権又は使用貸借による権利</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">所有権（農用地等を貸付けの方法により運用することを目的とする信託（第二十七条第一項において「農地貸付信託」という。）の引受けにより取得するものに限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農地法第四十一条第一項に規定する利用権</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　農地中間管理事業の推進</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　農地中間管理事業の推進に関する基本方針</SectionTitle>
+          <Article Num="3">
+            <ArticleTitle>第三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、政令で定めるところにより、農地中間管理事業の推進に関する基本方針（以下「基本方針」という。）を定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">基本方針においては、次に掲げる事項を定めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">効率的かつ安定的な農業経営を営む者が利用する農用地の面積の目標その他農地中間管理事業の推進により達成しようとする農用地の利用の効率化及び高度化の促進に関する目標</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農地中間管理事業の推進に関する基本的な方向</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一号の目標を達成するために必要な次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">農地中間管理事業の実施方法に関する基本的な事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">農地中間管理事業に関する啓発普及その他農地中間管理事業を推進するための施策に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">地方公共団体、農地中間管理機構並びに株式会社日本政策金融公庫又は沖縄振興開発金融公庫及び株式会社農林漁業成長産業化支援機構（第二十三条及び第二十四条において「公庫等」という。）の連携及び協力に関する事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他農地中間管理事業の推進に関し必要な事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">基本方針は、農業経営基盤強化促進法（昭和五十五年法律第六十五号）第五条第一項に規定する基本方針に適合するとともに、農業振興地域整備計画その他法律の規定による地域の農業の振興に関する計画との調和が保たれたものでなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、情勢の推移により必要が生じたときは、基本方針を変更するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、基本方針を定め、又はこれを変更したときは、遅滞なく、これを公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　農地中間管理機構</SectionTitle>
+          <Article Num="4">
+            <ArticleCaption>（農地中間管理機構の指定）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、農用地の利用の効率化及び高度化の促進を図るための事業を行うことを目的とする一般社団法人又は一般財団法人（一般社団法人にあっては地方公共団体が総社員の議決権の過半数を有しているもの、一般財団法人にあっては地方公共団体が基本財産の額の過半を拠出しているものに限る。）であって、農地中間管理事業に関し、次に掲げる基準に適合すると認められるものを、その申請により、都道府県に一を限って、農地中間管理機構として指定することができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">職員、業務の方法その他の事項についての農地中間管理事業に係る業務の実施に関する計画が適切なものであり、かつ、その計画を確実に遂行するに足りる経理的及び技術的な基礎を有すると認められること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">役員の過半数が、経営に関し実践的な能力を有する者であると認められること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農地中間管理事業の運営が、公正に行われると認められること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農地中間管理事業以外の事業を行っている場合には、その事業を行うことによって農地中間管理事業の公正な実施に支障を及ぼすおそれがないものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他農地中間管理事業を適正かつ確実に行うに足りるものとして農林水産省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="5">
+            <ArticleCaption>（指定の公告等）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前条の規定による指定（以下この節において単に「指定」という。）をしたときは、当該指定を受けた農地中間管理機構の名称及び住所、農地中間管理事業を行う事務所の所在地並びに農地中間管理事業の開始の日を公告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、その名称若しくは住所又は農地中間管理事業を行う事務所の所在地を変更しようとするときは、あらかじめ、その旨を都道府県知事に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定による届出があったときは、その旨を公告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="6">
+            <ArticleCaption>（農地中間管理事業評価委員会の設置）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構には、農地中間管理事業評価委員会を置かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理事業評価委員会は、農地中間管理事業の実施状況を評価し、これに関し必要と認める意見を農地中間管理機構の代表者に述べることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理事業評価委員会の委員は、農地中間管理事業に関し客観的かつ中立公正な判断をすることができる者のうちから、都道府県知事の認可を受けて農地中間管理機構の代表者が任命する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="7">
+            <ArticleCaption>（役員の選任及び解任）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構の役員の選任及び解任は、都道府県知事の認可を受けなければ、その効力を生じない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、農地中間管理機構の役員が次の各号のいずれかに該当するときは、農地中間管理機構に対し、当該役員を解任すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">この法律若しくはこの法律に基づく命令若しくはこれらに基づく処分又は次条第一項に規定する農地中間管理事業規程に違反する行為をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農地中間管理事業に関し著しく不適当な行為をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農地中間管理事業の実施状況が著しく不十分である場合において、当該役員に引き続きその職務を行わせることが不適当であると認められるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="8">
+            <ArticleCaption>（農地中間管理事業規程）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、農地中間管理事業の開始前に、農地中間管理事業の実施に関する規程（以下「農地中間管理事業規程」という。）を定め、都道府県知事の認可を受けなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理事業規程においては、次に掲げる事項を定めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農地中間管理権を取得し、又は農業経営等の委託を受ける農用地等の基準</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農地中間管理権の取得又は農業経営等の受託の方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農地中間管理権を有する農用地等の貸付けを行い、又は農業経営等の委託を受けている農用地等について農業経営等の委託を行う方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二条第三項第五号に掲げる業務の実施基準</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農地中間管理事業に関する相談又は苦情に応ずるための体制に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農地中間管理事業に係る業務の委託の基準</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他農地中間管理事業の実施方法に関して農林水産省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の認可の申請があった場合において、当該申請に係る農地中間管理事業規程が次の各号のいずれにも適合していると認めるときは、その認可をしなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">基本方針に適合し、かつ、農地中間管理事業の実施方法が適正かつ明確に定められていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第一号に掲げる事項が、農用地等として利用することが著しく困難であるものを対象に含まないことその他農用地等の形状又は性質に照らして適切と認められるものであり、かつ、農用地等について借受け又は農業経営等の受託を希望する者の意向その他地域の事情を考慮して農地中間管理権を取得し、又は農業経営等の委託を受けることを内容とするものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第二号に掲げる事項が、次に掲げる事項を内容とするものであること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">農地中間管理事業を効率的かつ効果的に実施する観点から、第十七条第二項に規定する区域については農地中間管理機構が農用地等の所有者（当該農用地等について所有権以外の使用及び収益を目的とする権利を有する者を含む。以下この号において同じ。）に対し農地中間管理権の取得又は農業経営等の受託に関する協議を積極的に申し入れるほか農用地等の所有者からの申出に応じて当該協議を行い、その他の区域については農用地の利用の効率化及び高度化の促進を図るために特に必要があると認められる場合に農用地等の所有者と当該協議を行うこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その取得する権利の存続期間又は残存期間に関する基準、当該権利が賃借権である場合における借賃の算定基準及び支払の方法、当該権利が農業の経営の委託を受けることにより取得される使用及び収益を目的とする権利（以下「経営受託権」という。）である場合における農業の経営の委託者に帰属する損益の算定基準及び決済の方法その他農林水産省令で定める事項を適正に定め、これに基づき、農地中間管理権の取得又は農業経営等の受託を行うこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">農地中間管理事業を円滑に推進する観点から、農用地等を現に利用している者の農業経営の現状、当該農業経営に関する意向その他の事情を考慮して農地中間管理権の取得又は農業経営等の受託を行うこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">農地中間管理権の取得に当たって、当該取得した農地の貸付けを円滑に行う観点から、農地法第三十二条第一項各号のいずれかに該当する農地について、当該農地の所有者（その農地について所有権以外の権原に基づき使用及び収益をする者がある場合には、その者。以下このニにおいて「所有者等」という。）が農業上の利用の増進を図るために必要な措置を講ずることにより当該農地の貸付けが行われると見込まれる場合に、農地中間管理機構が、所有者等に対し当該措置を講ずることを促すこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">農地中間管理権の取得に当たって、農林水産省令で定めるところにより、あらかじめ、農用地等の所有者に対し、土地改良法（昭和二十四年法律第百九十五号）第八十七条の三第一項（同法第九十六条の四第一項において準用する場合を含む。次号ハにおいて同じ。）の規定による土地改良事業が行われることがあることについて説明すること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第三号に掲げる事項が、次に掲げる事項を内容とするものであること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">農業経営基盤強化促進法第十九条第一項に規定する地域計画（第十七条第二項及び第十八条第三項において単に「地域計画」という。）の達成に資することその他地域の農業の健全な発展を旨として、公平かつ適正に農用地等の貸付け又は農業経営等の委託の相手方の選定及びその変更を行うこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その貸付け又は農業の経営の委託に係る農用地等についての権利の存続期間又は残存期間に関する基準、当該権利が賃借権である場合における借賃の算定基準及び支払の方法、当該権利が経営受託権である場合における農地中間管理機構に帰属する損益の算定基準及び決済の方法その他農林水産省令で定める事項を適正に定め、これに基づき、農用地等の貸付け又は農業経営等の委託を行うこと。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">農用地等の貸付けに当たって、農林水産省令で定めるところにより、あらかじめ、当該農用地等の貸付けの相手方に対し、土地改良法第八十七条の三第一項の規定による土地改良事業が行われることがあることについて説明すること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第四号に掲げる事項が、農用地等の貸付け又は農業経営等の委託が確実に行われると見込まれる場合に実施することを内容とするものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第六号に掲げる事項が、その業務を適正かつ確実に実施することができると認められる者に委託することを内容とするものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定の者に対し不当に差別的な取扱いをするものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、第一項の認可を受けたときは、その農地中間管理事業規程を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の認可をした農地中間管理事業規程が農地中間管理事業の的確な実施上不適当となったと認めるときは、農地中間管理機構に対し、これを変更すべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（事業計画等）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、事業年度ごとに、その事業年度の事業計画及び収支予算を作成し、毎事業年度開始前に（指定を受けた日の属する事業年度にあっては、その指定を受けた後遅滞なく）、都道府県知事の認可を受けなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の事業計画においては、その事業年度における農地中間管理事業の目標その他農林水産省令で定める事項を定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、第一項の認可を受けたときは、その事業計画及び収支予算を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、事業年度ごとに、事業報告書、貸借対照表、収支決算書及び財産目録を作成し、第六条第二項の規定による農地中間管理事業評価委員会の意見を付して、毎事業年度経過後三月以内に、都道府県知事に提出するとともに、これらを公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（区分経理）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、農地中間管理事業以外の事業を行っている場合には、当該事業に係る経理と農地中間管理事業に係る経理とを区分して整理しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（帳簿の記載）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、農地中間管理事業について、農林水産省令で定めるところにより、帳簿を備え、農林水産省令で定める事項を記載し、これを保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（財務及び会計に関し必要な事項の農林水産省令への委任）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この節に定めるもののほか、農地中間管理機構が農地中間管理事業を行う場合における農地中間管理機構の財務及び会計に関し必要な事項は、農林水産省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（監督命令）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、農地中間管理事業の適正な実施を確保するため必要があると認めるときは、農地中間管理機構に対し、農地中間管理事業に関し監督上必要な命令をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（事業の休廃止）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、都道府県知事の認可を受けなければ、農地中間管理事業の全部又は一部を休止し、又は廃止してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事が前項の規定により農地中間管理事業の全部の廃止を認可したときは、当該農地中間管理機構に係る指定は、その効力を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の認可をしたときは、その旨を公告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（指定の取消し）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、農地中間管理機構が次の各号のいずれかに該当するときは、その指定を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農地中間管理事業を適正かつ確実に行うことができないと認められるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">不正な手段により指定を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">この法律若しくはこの法律に基づく命令又はこれらに基づく処分に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第八条第一項の認可を受けた農地中間管理事業規程によらないで農地中間管理事業を行ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定により指定を取り消したときは、その旨を公告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（指定を取り消した場合における経過措置）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の規定により指定を取り消した場合において、都道府県知事がその取消し後に新たに農地中間管理機構の指定をしたときは、取消しに係る農地中間管理機構は、その農地中間管理事業の全部を、新たに指定を受けた農地中間管理機構に引き継がなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、前条第一項の規定により指定を取り消した場合における農地中間管理事業に関する所要の経過措置（罰則に関する経過措置を含む。）は、合理的に必要と判断される範囲内において、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　農地中間管理事業の実施</SectionTitle>
+          <Article Num="17">
+            <ArticleCaption>（農地中間管理事業の実施）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、農地中間管理事業の趣旨の普及を図るとともに、農用地等について借受け又は農業経営等の受託を希望する者の意向を広域的な見地から把握した上で、地域との調和に配慮しつつ、農地中間管理事業を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、地域計画の区域において、農地中間管理事業を重点的に行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（農用地利用集積等促進計画）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">農地中間管理機構は、農地中間管理事業（第二条第三項第一号から第四号までに掲げる業務に係るものに限る。）の実施により、農地中間管理権若しくは経営受託権の設定若しくは移転（次項第一号において「農地中間管理権の設定等」という。）若しくは農作業の委託を受け、又は賃借権、使用貸借による権利若しくは経営受託権の設定若しくは移転（以下「賃借権の設定等」という。）若しくは農作業の委託を行おうとするときは、農林水産省令で定めるところにより、農用地利用集積等促進計画を定め、都道府県知事の認可を受けなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、農地法その他の法令の規定により農地中間管理機構が農地中間管理権又は経営受託権を取得する場合には、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農用地利用集積等促進計画においては、当該農用地利用集積等促進計画に従って行われる次の各号に掲げる行為の区分に応じ、それぞれ当該各号に定める事項を定めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">農地中間管理機構に対する農地中間管理権の設定等又は農作業の委託</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">農地中間管理権の設定等又は農作業の委託を行う者の氏名又は名称及び住所</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">農地中間管理機構がイに規定する者から農地中間管理権の設定等又は農作業の委託を受ける土地の所在、地番、地目及び面積</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">農地中間管理機構がイに規定する者から農地中間管理権の設定等を受ける場合には、当該権利の種類、内容（土地の利用目的を含む。）、始期又は移転の時期及び存続期間又は残存期間並びに当該権利が賃借権である場合にあっては借賃並びにその支払の相手方及び方法、当該権利が経営受託権である場合にあっては農業の経営の委託者に帰属する損益の算定基準並びに決済の相手方及び方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">農地中間管理機構がイに規定する者から農作業の委託を受ける場合には、当該農作業の内容、契約期間並びに対価及びその支払の方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その他農林水産省令で定める事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">農地中間管理機構による賃借権の設定等又は農作業の委託</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">賃借権の設定等又は農作業の委託を受ける者の氏名又は名称及び住所</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">イに規定する者が賃借権の設定等（その者が賃借権の設定等を受けた後において行う耕作又は養畜の事業に必要な農作業に常時従事すると認められない者（農地所有適格法人（農地法第二条第三項に規定する農地所有適格法人をいう。第五項第二号において同じ。）、農業協同組合、農業協同組合連合会その他政令で定める者を除く。同項第三号において同じ。）である場合には、賃借権又は使用貸借による権利の設定に限る。）又は農作業の委託を受ける土地の所在、地番、地目及び面積</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">ロに規定する土地について現に農地中間管理機構から賃借権、使用貸借による権利若しくは経営受託権の設定又は農作業の委託を受けている者がある場合には、その者の氏名又は名称及び住所</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">イに規定する者が賃借権の設定等を受ける場合には、当該権利の種類、内容（土地の利用目的を含む。）、始期又は移転の時期及び存続期間又は残存期間並びに当該権利が賃借権である場合にあっては借賃及びその支払の方法、当該権利が経営受託権である場合にあっては農地中間管理機構に帰属する損益の算定基準及び決済の方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">イに規定する者が農作業の委託を受ける場合には、当該農作業の内容、契約期間並びに対価並びにその支払の相手方及び方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="6">
+                  <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">イに規定する者が第二十一条第二項各号のいずれかに該当する場合に賃貸借、使用貸借又は農業経営等の委託の解除をする旨の条件</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>ト</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その他農林水産省令で定める事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、農用地利用集積等促進計画を定める場合には、農林水産省令で定めるところにより、あらかじめ、関係する農業委員会（農業委員会等に関する法律（昭和二十六年法律第八十八号）第三条第一項ただし書又は第五項の規定により農業委員会を置かない市町村にあっては、その長。以下同じ。）の意見を聴くとともに、前項第一号ロ又は第二号ロに規定する土地が地域計画の区域内の土地であるときにあってはその定めようとする農用地利用集積等促進計画の内容が当該地域計画の達成に資すると認められるかどうかについて当該地域計画を定めた市町村の意見を、その他のときにあっては利害関係人の意見を聴かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、第一項の認可の申請をしようとするときは、前項の規定により聴取した意見を記載した書類を提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の認可の申請があった場合において、当該申請に係る農用地利用集積等促進計画が次の各号のいずれにも該当すると認めるときは、その認可をしなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農用地利用集積等促進計画の内容が、基本方針及び農地中間管理事業規程に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">第二項第二号イに規定する者が、賃借権の設定等を受けた後において、次に掲げる要件の全て（農地所有適格法人及び次号に規定する者にあっては、イに掲げる要件）を備えることとなること。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、農業協同組合法（昭和二十二年法律第百三十二号）第十一条の五十第一項第一号に掲げる場合において農業協同組合又は農業協同組合連合会が賃借権又は使用貸借による権利の設定又は移転を受けるとき、その他政令で定める場合には、この限りでない。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">耕作又は養畜の事業に供すべき農用地の全てを効率的に利用して耕作又は養畜の事業を行うと認められること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">耕作又は養畜の事業に必要な農作業に常時従事すると認められること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二項第二号イに規定する者が賃借権の設定等を受けた後において行う耕作又は養畜の事業に必要な農作業に常時従事すると認められない者である場合には、次に掲げる要件の全てを備えること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その者が地域の農業における他の農業者との適切な役割分担の下に継続的かつ安定的に農業経営を行うと見込まれること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その者が法人である場合には、その法人の業務執行役員等（農地法第三条第三項第三号に規定する業務執行役員等をいう。）のうち一人以上の者がその法人の行う耕作又は養畜の事業に常時従事すると認められること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">第二項第一号ロに規定する土地ごとに、当該土地について所有権、地上権、永小作権、質権、賃借権、使用貸借による権利又はその他の使用及び収益を目的とする権利を有する者の全て（当該土地が農作業の委託を受ける土地である場合には、農作業の委託を行う者に限る。）の同意が得られていること。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、数人の共有に係る土地について賃借権、使用貸借による権利又は経営受託権（その存続期間が四十年を超えないものに限る。）の設定又は移転をする場合における当該土地について所有権を有する者の同意については、当該土地について二分の一を超える共有持分を有する者の同意が得られていれば足りる。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二項第二号ロに規定する土地ごとに、同号イに規定する者（同号ハに規定する者がある場合には、その者及び同号イに規定する者）の同意が得られていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二項第一号ロ又は第二号ロに規定する土地が次のイ又はロに掲げる土地のいずれかに該当する場合には、当該土地ごとに、それぞれ当該イ又はロに定める要件を備えること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">農用地であって、当該土地に係る第一項の権利の設定又は移転の内容が農地法第五条第一項本文に規定する場合に該当するもの</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">同条第二項の規定により同条第一項の許可をすることができない場合に該当しないこと。</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">農業振興地域の整備に関する法律（昭和四十四年法律第五十八号）第八条第二項第一号に規定する農用地区域内の土地であって、当該土地に係る第一項の権利の設定又は移転の内容が同法第十五条の二第一項に規定する開発行為に該当するもの（イに掲げる土地を除く。）</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">同条第四項の規定により同条第一項の許可をすることができない場合に該当しないこと。</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">都道府県知事は、第一項の認可をしようとする場合において、その申請に係る農用地利用集積等促進計画に定められた土地が次の各号に掲げる土地のいずれかに該当するときは、当該農用地利用集積等促進計画について、あらかじめ、それぞれ当該各号に定める者に協議しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、農地中間管理機構が、第三項の規定による市町村の意見の聴取において、あわせて、次の各号に掲げる土地のいずれかに該当する第二項第一号ロ又は第二号ロに規定する土地がそれぞれ前項第六号イ又はロに定める要件に該当することについて意見を聴き、その聴取した意見を第四項の書類に記載して都道府県知事に提出したときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">前項第六号イに掲げる土地（農地法第四条第一項に規定する指定市町村の区域内のものに限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該指定市町村の長</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">前項第六号ロに掲げる土地（農業振興地域の整備に関する法律第十五条の二第一項に規定する指定市町村の区域内のものに限る。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該指定市町村の長</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事は、第一項の認可をしたときは、農林水産省令で定めるところにより、遅滞なく、その旨を、関係する農業委員会に通知するとともに、公告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による公告があったときは、その公告があった農用地利用集積等促進計画の定めるところによって第一項の権利が設定され、又は移転する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第七項の規定による公告があったときは、その公告があった農用地利用集積等促進計画の定めるところによって農作業の委託に係る契約が締結されたものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10">
+              <ParagraphNum>１０</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、この節で定めるところにより農地中間管理権（第二条第五項第一号に係るものに限る。）を有する農用地等の貸付けを行う場合には、民法（明治二十九年法律第八十九号）第五百九十四条第二項又は第六百十二条第一項の規定にかかわらず、貸主又は賃貸人の承諾を得ることを要しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="11">
+              <ParagraphNum>１１</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農業委員会は、農用地の利用の効率化及び高度化の促進を図るために必要があると認めるときは、第二項各号に掲げる行為の区分に応じ、それぞれ当該各号に定める事項を示して農用地利用集積等促進計画を定めるべきことを農地中間管理機構に対し要請することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、農地中間管理機構が定めようとする農用地利用集積等促進計画の内容がこの項前段の規定による要請の内容と一致するものであるときは、第三項の規定にかかわらず、農業委員会の意見の聴取を要しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="12">
+              <ParagraphNum>１２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、前項の規定による要請があったときは、当該要請の内容を勘案して農用地利用集積等促進計画を定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（計画案の提出等の協力）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、農用地利用集積等促進計画を定める場合には、市町村又は農用地の利用の促進を行う者であって農林水産省令で定める基準に適合するものとして市町村が指定するもの（以下この条において「市町村等」という。）に対し、農用地等の保有及び利用に関する情報の提供その他必要な協力を求めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、前項の場合において必要があると認めるときは、市町村等に対し、その区域に存する農用地等について、前条第一項及び第二項の規定の例により、同条第五項各号のいずれにも該当する農用地利用集積等促進計画の案を作成し、農地中間管理機構に提出するよう求めることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、農地中間管理機構が定めようとする農用地利用集積等促進計画の内容がこの項前段の規定により市町村が提出した農用地利用集積等促進計画の案の内容と一致するものであるときは、同条第三項及び第六項の規定にかかわらず、同条第三項の規定による市町村の意見の聴取及び同条第六項の規定による協議を要しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村等は、前二項の規定による協力を行う場合において必要があると認めるときは、農業委員会の意見を聴くものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村等は、前項の規定により農業委員会の意見を聴いたときは、その旨及びその内容を記載した書類を、第二項前段の規定により提出する農用地利用集積等促進計画の案に添付するものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、農地中間管理機構が定めようとする農用地利用集積等促進計画の内容が当該案の内容と一致するものであるときは、前条第三項の規定にかかわらず、農業委員会の意見の聴取を要しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（農地中間管理権に係る賃貸借又は使用貸借等の解除）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、その有する農地中間管理権若しくは経営受託権又はその委託を受けている農作業に係る農用地等が次の各号のいずれかに該当するときは、都道府県知事の承認を受けて、第十八条第七項の規定による公告があった農用地利用集積等促進計画の定めるところによって設定され若しくは移転された農地中間管理権に係る賃貸借若しくは使用貸借、当該農用地利用集積等促進計画の定めるところによって農地中間管理機構に設定された経営受託権に係る農業の経営の委託、当該農用地利用集積等促進計画の定めるところによって締結されたものとみなされた農作業の委託に係る契約（農地中間管理機構が委託を受けるものに限る。）又は同条第一項ただし書に規定する場合に該当する場合における農地中間管理権若しくは経営受託権に係る賃貸借若しくは使用貸借若しくは農業の経営の委託の解除をすることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">相当の期間を経過してもなお当該農用地等の貸付け又は農業経営等の委託を行うことができる見込みがないと認められるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">災害その他の事由により農用地等としての利用を継続することが著しく困難となったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（農用地等の利用状況の報告等）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、第十八条第七項の規定による公告があった農用地利用集積等促進計画の定めるところにより賃借権の設定等又は農作業の委託を受けた者に対し、農林水産省令で定めるところにより、当該賃借権の設定等若しくは農作業の委託を受けた農用地等の利用の状況又は当該農用地等に係る農業経営等の状況について報告を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、前項に規定する者が次の各号のいずれかに該当するとき、又は農地法第六条の二第二項の規定による通知を受けたときは、都道府県知事の承認を受けて、前項に規定する農用地等に係る賃貸借、使用貸借又は農業経営等の委託の解除をすることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該農用地等を適正に利用していないと認めるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該農作業を適正に行っていないと認めるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">正当な理由がなくて前項の規定による報告をしないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（業務の委託）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、農用地利用集積等促進計画の決定その他農林水産省令で定める農地中間管理事業に係る業務を他の者に委託してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定は、第十九条第一項又は第二項の規定による協力の求めには、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22_2">
+            <ArticleCaption>（不確知共有者の探索の要請）</ArticleCaption>
+            <ArticleTitle>第二十二条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、農用地利用集積等促進計画（存続期間が四十年を超えない賃借権又は使用貸借による権利の設定を農地中間管理機構が受けることを内容とするものに限る。次条及び第二十二条の四において同じ。）を定める場合において、第十八条第二項第一号ロに規定する土地のうちに、同条第五項第四号ただし書に規定する土地であってその二分の一以上の共有持分を有する者を確知することができないもの（以下「共有者不明農用地等」という。）があるときは、関係する農業委員会に対し、当該共有者不明農用地等について共有持分を有する者であって確知することができないもの（以下「不確知共有者」という。）の探索を行うよう要請することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農業委員会は、前項の規定による要請を受けた場合には、相当な努力が払われたと認められるものとして政令で定める方法により、不確知共有者の探索を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22_3">
+            <ArticleCaption>（共有者不明農用地等に係る公示）</ArticleCaption>
+            <ArticleTitle>第二十二条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農業委員会は、前条第一項の規定による要請に係る探索を行ってもなお共有者不明農用地等について二分の一以上の共有持分を有する者を確知することができないときは、当該共有者不明農用地等について共有持分を有する者であって知れているものの全ての同意を得て、農地中間管理機構の定めようとする農用地利用集積等促進計画及び次に掲げる事項を公示するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">共有者不明農用地等の所在、地番、地目及び面積</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">共有者不明農用地等について二分の一以上の共有持分を有する者を確知することができない旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">共有者不明農用地等について、農用地利用集積等促進計画の定めるところによって農地中間管理機構が賃借権又は使用貸借による権利の設定を受ける旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号に規定する権利の種類、内容、始期及び存続期間並びに当該権利が賃借権である場合にあっては、借賃並びにその支払の相手方及び方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">不確知共有者は、公示の日から起算して二月以内に、農林水産省令で定めるところにより、その権原を証する書面を添えて農業委員会に申し出て、農用地利用集積等促進計画又は前二号に掲げる事項について異議を述べることができる旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">不確知共有者が前号に規定する期間内に異議を述べなかったときは、当該不確知共有者は農用地利用集積等促進計画について同意をしたものとみなす旨</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="22_4">
+            <ArticleCaption>（不確知共有者のみなし同意）</ArticleCaption>
+            <ArticleTitle>第二十二条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">不確知共有者が前条第五号に規定する期間内に異議を述べなかったときは、当該不確知共有者は、農用地利用集積等促進計画について同意をしたものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22_5">
+            <ArticleCaption>（情報提供等）</ArticleCaption>
+            <ArticleTitle>第二十二条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、共有者不明農用地等に関する情報の周知を図るため、地方公共団体その他の関係機関と連携し、第二十二条の三の規定による公示に係る共有者不明農用地等に関する情報のインターネットの利用による提供その他の必要な措置を講ずるように努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　連携及び協力等</SectionTitle>
+          <Article Num="23">
+            <ArticleCaption>（地方公共団体との連携等）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、地方公共団体及び公庫等と密接な連携の下に、その創意工夫を発揮して農地中間管理事業を積極的に実施しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（事業への協力）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農業委員会等に関する法律第四十四条第一項に規定する機構、農業協同組合、農業協同組合連合会、土地改良区、都道府県土地改良事業団体連合会その他の農業に関する団体及び公庫等は、農地中間管理事業の実施に関し農地中間管理機構から必要な協力を求められた場合には、これに応ずるように努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（農林水産大臣による評価等）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、農地中間管理事業の実施状況について全国的な見地から評価を行い、その結果及び農地中間管理事業を効率的かつ効果的に実施している農地中間管理機構の取組に関する情報を公表することその他の方法により、農地中間管理事業の効率的かつ効果的な実施に向けた取組が促進されるように努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　雑則</ChapterTitle>
+        <Article Num="26">
+          <ArticleCaption>（農業協同組合法の特例）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十八条第七項の規定による公告があった農用地利用集積等促進計画の定めるところによって賃借権、使用貸借による権利又は経営受託権が設定されたことにより農業協同組合法第二十一条第一項第一号の事由に該当することとなった農業協同組合の組合員たる個人（認定団体（農業経営基盤強化促進法第二十三条第十項に規定する認定団体をいう。次項において同じ。）の構成員であることその他農林水産大臣が定める基準に該当する者で当該農業協同組合の定款で定めるものに限る。）は、農業協同組合法第二十一条第一項の規定にかかわらず、同法第十六条第一項ただし書に規定する准組合員たる地位以外の組合員たる地位を失わないものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定は、第十八条第七項の規定による公告があった農用地利用集積等促進計画の定めるところによって賃借権、使用貸借による権利又は経営受託権が設定されたことにより農業協同組合法第七十三条第一項において準用する同法第二十一条第一項第一号の事由に該当することとなった同法第七十二条の十第一項第一号の事業を行う農事組合法人の組合員（認定団体の構成員であることその他農林水産大臣が定める基準に該当する者で当該農事組合法人の定款で定めるものに限る。）について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26_2">
+          <ArticleCaption>（登記の特例）</ArticleCaption>
+          <ArticleTitle>第二十六条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十八条第七項の規定による公告があった農用地利用集積等促進計画に係る土地の登記については、政令で、不動産登記法（平成十六年法律第百二十三号）の特例を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（信託法の特例）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">農地貸付信託の引受けを行う農地中間管理機構（以下「信託法人」という。）への農用地等の信託の委託者は、受益者となり、信託の利益の全部を享受する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">信託法人は、他の者と共同して信託の引受けをすることができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">信託法人への信託については、信託法（平成十八年法律第百八号）に規定する裁判所の権限（次に掲げる裁判に関するものを除く。）は、都道府県知事に属する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">信託法第百六十六条第一項の規定による信託の終了を命ずる裁判、同法第百六十九条第一項の規定による保全処分を命ずる裁判及び同法第百七十三条第一項の規定による新受託者の選任の裁判</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">信託法第百八十条第一項の規定による鑑定人の選任の裁判</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">信託法第二百二十三条の規定による書類の提出を命ずる裁判</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">信託法第二百三十条第二項の規定による弁済の許可の裁判</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">信託法第三条（第二号及び第三号に係る部分に限る。）、第四条第二項及び第三項、第五条、第六条、第二十三条第二項から第四項まで、第五十五条、第七十九条から第九十一条まで、第九十三条、第九十五条、第九十六条から第九十八条まで、第百三条、第百四条、第百二十三条から第百三十条まで、第百四十六条から第百四十八条まで、第八章、第十章、第十一章、第二百六十七条から第二百六十九条まで並びに第二百七十条第二項及び第四項の規定は、信託法人への信託については、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（報告徴収及び立入検査）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、農地中間管理事業の適正な運営を確保するため必要があると認めるときは、農地中間管理機構に対しその業務若しくは資産の状況に関し報告を求め、又はその職員に、農地中間管理機構の事務所に立ち入り、その業務の状況若しくは帳簿、書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、農地中間管理事業の適正な運営を確保するため特に必要があると認めるときは、その必要の限度において、農地中間管理機構から農地中間管理事業に係る業務の委託を受けた者（以下この項及び次項において「業務受託者」という。）に対しその委託を受けた業務の状況に関し報告を求め、又はその職員に、業務受託者の営業所若しくは事務所に立ち入り、その委託を受けた業務に関し業務の状況若しくは帳簿、書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">業務受託者は、正当な理由があるときは、前項の規定による報告又は立入検査を拒むことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項又は第二項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項及び第二項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（農林水産大臣への通知）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、次に掲げる場合は、遅滞なく、その旨を農林水産大臣に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四条の規定による指定をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第二項の規定による届出があったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六条第三項、第七条第一項、第八条第一項、第九条第一項又は第十四条第一項の認可をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第九条第四項に規定する書類の提出があったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条第一項の規定により第四条の規定による指定を取り消したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（事務の区分）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定により地方公共団体が処理することとされている事務のうち、次に掲げるものは、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三条第一項、第四項及び第五項、第四条、第五条、第八条第一項及び第五項、第十三条、第十四条第一項及び第三項、第十五条、第十八条第一項、第六項及び第七項、第二十条、第二十一条第二項、第二十八条並びに第三十条第一項及び第二項の規定により都道府県が処理することとされている事務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十八条第六項（第一号に係る部分に限る。）の規定により同号に規定する指定市町村が処理することとされている事務（農地を農地以外のものにするため又は採草放牧地を採草放牧地以外のもの（農地を除く。）にするため、農地又は農地と併せて採草放牧地について農地法第三条第一項本文に規定する権利を取得する行為であって、当該行為に係る農地の面積の合計が四ヘクタールを超えるものに係る農用地利用集積等促進計画に係るものに限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（農林水産省令への委任）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律の実施のため必要な事項は、農林水産省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　罰則</ChapterTitle>
+        <Article Num="34">
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十条第一項又は第二項の規定による報告をせず、又は虚偽の報告をした者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十条第一項又は第二項の規定による検査を拒み、妨げ、又は忌避した者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して同項の刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条第五項第三号の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">農業の構造改革を推進するための農業経営基盤強化促進法等の一部を改正する等の法律（平成二十五年法律第百二号）の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、農地中間管理事業及びこれに関連する事業に関し、その実施主体、これらの事業に対する国の財政措置の見直し（農地中間管理機構に対する賃料に係る助成の見直しを含む。）その他のこれらの事業の在り方全般について検討を加え、その結果に基づいて必要な法制上の措置その他の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、第二十六条第一項の協議の結果の取りまとめの状況等を踏まえ、同項に規定する協議の場に関し、そのより円滑な実施を図るための法制上の措置の在り方について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年九月四日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十八年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第二十八条、第二十九条第一項及び第三項、第三十条から第四十条まで、第四十七条（都道府県農業会議及び全国農業会議所の役員に係る部分に限る。）、第五十条、第百九条並びに第百十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日（以下「公布日」という。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="114">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="115">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年五月二六日法律第三九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条並びに次条及び附則第六条から第八条までの規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（農地中間管理事業の推進に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">農地中間管理機構は、施行日までに、第四条の規定による改正後の農地中間管理事業の推進に関する法律（以下この条において「新農地中間管理事業法」という。）第八条の規定の例により、同条第三項第四号ロ及び第五号ロに掲げる事項を内容とする農地中間管理事業の推進に関する法律第八条第一項に規定する農地中間管理事業規程の変更に係る同項の認可を受けなければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該認可は、施行日において新農地中間管理事業法第八条の規定によりされたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条ただし書に規定する規定については、当該規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年五月一八日法律第二三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年七月一三日法律第七二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第三十条及び第三十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（農業協同組合法及び農地中間管理事業の推進に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条の規定による改正後の同条各号に掲げる法律の規定は、施行日前に開始した相続に関し遺産の分割による受益権の承継がされた場合において、施行日以後にその承継の通知がされるときにも、適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月二四日法律第一二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中農地中間管理事業の推進に関する法律第二条第二項に一号を加える改正規定及び同条第三項の改正規定（同項第二号に係る部分を除く。）、第二条中農業経営基盤強化促進法の目次の改正規定、同法第四条から第七条までの改正規定、同法第二章第三節を削る改正規定、同法第十二条第一項及び第十三条第二項の改正規定、同条の次に一条を加える改正規定、同法第十四条の六第一項第二号、第十五条第二項及び第十六条の改正規定、同法第十八条の改正規定（同条第二項中第七号を削り、第八号を第七号とする部分を除く。）並びに同法第二十三条第十項及び第三十三条の改正規定、第三条中農地法第二条第三項第二号の改正規定、同法第三条の改正規定（同条第一項第七号の二に係る部分及び同条中第六項を削り、第七項を第六項とする部分を除く。）、同法第四条第一項第三号及び第五条第一項第二号の改正規定、同法第十七条ただし書の改正規定（「第四条第四項第一号」を「第四条第三項第一号」に改める部分に限る。）、同法第三十五条（見出しを含む。）の改正規定並びに同法第三十六条第一項第二号、第四十六条第一項及び第六十三条第一項第十四号の改正規定、第四条中農業振興地域の整備に関する法律第十五条の二第一項第五号の改正規定並びに附則第三条から第五条までの規定、附則第十一条中地方自治法（昭和二十二年法律第六十七号）別表第一農地法（昭和二十七年法律第二百二十九号）の項第十四号の改正規定並びに附則第十二条、第十三条及び第十五条から第十八条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年三月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（農用地利用配分計画に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にされた第一条の規定による改正前の農地中間管理事業の推進に関する法律（次項において「旧農地中間管理事業法」という。）第十八条第一項の認可の申請であって、この法律の施行の際、認可をするかどうかの処分がされていないものについての認可又は不認可の処分については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に旧農地中間管理事業法第十八条第一項の認可を受けた農用地利用配分計画（この法律の施行後に前項の規定によりなお従前の例により認可を受けた農用地利用配分計画を含む。）については、第三条の規定による改正後の農地法（附則第七条第二項において「新農地法」という。）第四条第一項第四号及び第五条第一項第三号並びに第四条の規定による改正後の農業振興地域の整備に関する法律第十五条の二第一項第六号の規定は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条第二号に掲げる規定にあっては、当該規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後の農地中間管理事業の推進に関する法律、農業経営基盤強化促進法、農地法及び農業振興地域の整備に関する法律の規定の施行の状況等を勘案し、必要があると認めるときは、これらの規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二七日法律第五六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第二十八条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（農地中間管理事業規程に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に第二条の規定による改正前の農地中間管理事業の推進に関する法律（以下「旧農地中間管理事業法」という。）第八条の規定により定められ、又は変更され、及び公表された農地中間管理事業の実施に関する規程は、施行日から起算して六月を経過する日（その日までに第二条の規定による改正後の農地中間管理事業の推進に関する法律（以下この条及び次条第二項において「新農地中間管理事業法」という。）第八条の規定により当該規程が変更され、及び公表されたときは、その公表の日の前日）までの間は、新農地中間管理事業法第八条の規定により定められ、又は変更され、及び公表された農地中間管理事業の実施に関する規程とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（農用地利用配分計画に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にされた旧農地中間管理事業法第十八条第一項の認可の申請であって、この法律の施行の際、認可をするかどうかの処分がされていないものについての認可又は不認可の処分については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に旧農地中間管理事業法第十八条第七項の規定による公告があった農用地利用配分計画（この法律の施行後に前項の規定によりなお従前の例により認可され、及び公告された農用地利用配分計画を含む。）の定めるところによってこの法律の施行前又は施行後に設定され、又は移転された同条第一項の権利は、新農地中間管理事業法第十八条第七項の規定による公告があった農用地利用集積等促進計画の定めるところによって設定され、又は移転された同条第一項の権利とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（農用地利用集積等促進計画によらない賃借権の設定等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行後に一の農用地利用集積計画（附則第五条第一項の規定によりなお従前の例により定め、及び公告される農用地利用集積計画をいう。）において農地中間管理機構が賃借権の設定等（旧農地中間管理事業法第十八条第一項に規定する賃借権の設定等をいう。以下この条において同じ。）を受ける農用地等について当該農地中間管理機構が同時に賃借権の設定等を行う場合には、旧農地中間管理事業法第十九条の二の規定は、なおその効力を有する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「農業経営基盤強化促進法第十八条第一項の」とあるのは「農業経営基盤強化促進法等の一部を改正する法律（令和四年法律第五十六号。以下「改正法」という。）附則第五条第一項の規定によりなお従前の例により定め、及び公告される」と、「が賃借権の設定等」とあるのは「が賃借権の設定等（改正法第二条の規定による改正前の農地中間管理事業の推進に関する法律（以下「旧農地中間管理事業法」という。）第十八条第一項に規定する賃借権の設定等をいう。以下同じ。）」と、「農用地利用配分計画」とあるのは「農用地利用集積等促進計画」と、「同条第三項第四号」とあるのは「改正法第一条の規定による改正前の農業経営基盤強化促進法第十八条第三項第四号」と、同条第二項中「第十八条第三項及び第四項」とあるのは「旧農地中間管理事業法第十八条第三項及び第四項」と、「第十九条の二第一項の規定による協議を」とあるのは「農業経営基盤強化促進法等の一部を改正する法律（令和四年法律第五十六号）附則第十条の規定によりなおその効力を有するものとして読み替えて適用される第十九条の二第一項の規定による協議を」と、「第十九条の二第一項の規定による協議」」とあるのは「農業経営基盤強化促進法等の一部を改正する法律附則第十条の規定によりなおその効力を有するものとして読み替えて適用される第十九条の二第一項の規定による協議」」と、同条第三項中「第十八条第五項第一号及び第二号」とあるのは「旧農地中間管理事業法第十八条第五項第一号」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（農業者等による協議の場の設置等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に旧農地中間管理事業法第二十六条第一項の規定により公表された協議の結果に係る区域における協議の場については、施行日から起算して二年を経過する日までの間は、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新基本構想を定め、又は変更し、及び公告した同意市町村は、この法律の施行前に旧農地中間管理事業法第二十六条第一項の規定により公表された協議の結果（この法律の施行後に前項の規定によりなお従前の例により設けられた協議の場に係る協議の結果を含む。）を新基盤強化法第十八条第一項の規定により公表された協議の結果とみなすことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の施行の状況を勘案し、必要があると認めるときは、これらの法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="28">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年三月三一日法律第一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和七年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第六条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
