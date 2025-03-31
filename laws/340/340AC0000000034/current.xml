@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="034" Year="40" PromulgateMonth="03" PromulgateDay="31">
-  <LawNum>昭和四十年法律第三十四号</LawNum>
+<Law Lang="ja" Era="Showa" Year="40" Num="034" PromulgateMonth="03" PromulgateDay="31" LawType="Act"><LawNum>昭和四十年法律第三十四号</LawNum>
+  
   <LawBody>
     <LawTitle Kana="ほうじんぜいほう" Abbrev="" AbbrevKana="">法人税法</LawTitle>
     <EnactStatement>法人税法（昭和二十二年法律第二十八号）の全部を改正する。</EnactStatement>
@@ -32794,6 +32794,14 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">医療情報基盤・診療報酬審査支払機構</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">沖縄振興開発金融公庫</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
@@ -32838,14 +32846,6 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">国立大学法人法（平成十五年法律第百十二号）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">社会保険診療報酬支払基金</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
