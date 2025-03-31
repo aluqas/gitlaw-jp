@@ -1557,7 +1557,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">復興特別所得税に係る次の表の第一欄に掲げる法律の適用については、同表の第二欄に掲げる規定中同表の第三欄に掲げる字句は、同表の第四欄に掲げる字句とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">この章の規定の適用がある場合における次の表の第一欄に掲げる法律の適用については、同表の第二欄に掲げる規定中同表の第三欄に掲げる字句は、同表の第四欄に掲げる字句とする。</Sentence>
               </ParagraphSentence>
               <TableStruct>
                 <Table WritingMode="vertical">
@@ -2406,8 +2406,36 @@
                     <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
                       <Sentence Num="1" WritingMode="vertical"/>
                     </TableColumn>
-                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">第四十条第四項第三号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">所得税が</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">所得税及び当該所得税に係る復興特別所得税が</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">その他</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">、東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法第四章（第八条、第十一条及び第六節を除く。）その他</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第四十条第四項第四号</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">所得税</Sentence>
@@ -2421,7 +2449,7 @@
                       <Sentence Num="1" WritingMode="vertical"/>
                     </TableColumn>
                     <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">第四十条第四項第四号</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">第四十条第四項第五号</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">所得税</Sentence>
@@ -4397,7 +4425,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項に定めるもののほか、所得税又は復興特別所得税に係る国税通則法の規定の適用については、次に定めるところによる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項に定めるもののほか、所得税及び復興特別所得税に係る国税通則法の規定の適用については、次に定めるところによる。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
