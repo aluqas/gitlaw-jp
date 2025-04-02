@@ -2829,7 +2829,7 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">選挙人名簿又は在外選挙人名簿に登録されていない者は、投票をすることができない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、選挙人名簿に登録されるべき旨の決定書又は確定判決の判決書の正本若しくは謄本若しくは電子判決書（民事訴訟法（平成八年法律第百九号）第二百五十二条第一項に規定する電子判決書（同法第二百五十三条第二項の規定により裁判所の使用に係る電子計算機に備えられたファイルに記録されたものに限る。）をいう。）に記録されている事項を記載した書面であつて裁判所書記官が当該書面の内容が当該ファイルに記録されている事項と同一であることを証明したもの（第二百二十条第三項及び第四項において「電子判決書記録事項証明書」という。）を所持し、選挙の当日投票所に至る者があるときは、投票管理者は、その者に投票をさせなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、選挙人名簿に登録されるべき旨の決定書又は確定判決書を所持し、選挙の当日投票所に至る者があるときは、投票管理者は、その者に投票をさせなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -3842,7 +3842,7 @@
                     <Sentence Num="1" WritingMode="vertical">選挙</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">選挙人名簿に登録されるべき旨の決定書又は確定判決の判決書の正本若しくは謄本若しくは電子判決書（民事訴訟法（平成八年法律第百九号）第二百五十二条第一項に規定する電子判決書（同法第二百五十三条第二項の規定により裁判所の使用に係る電子計算機に備えられたファイルに記録されたものに限る。）をいう。）に記録されている事項を記載した書面であつて裁判所書記官が当該書面の内容が当該ファイルに記録されている事項と同一であることを証明したもの（第二百二十条第三項及び第四項において「電子判決書記録事項証明書」という。）を所持し、選挙</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">選挙人名簿に登録されるべき旨の決定書又は確定判決書を所持し、選挙</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -3853,7 +3853,7 @@
                     <Sentence Num="1" WritingMode="vertical">第四十八条の二第一項</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">在外選挙人名簿に登録されるべき旨の決定書又は確定判決の判決書の正本若しくは謄本若しくは電子判決書（民事訴訟法（平成八年法律第百九号）第二百五十二条第一項に規定する電子判決書（同法第二百五十三条第二項の規定により裁判所の使用に係る電子計算機に備えられたファイルに記録されたものに限る。）をいう。）に記録されている事項を記載した書面であつて裁判所書記官が当該書面の内容が当該ファイルに記録されている事項と同一であることを証明したものを所持し、第四十八条の二第一項</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">在外選挙人名簿に登録されるべき旨の決定書又は確定判決書を所持し、第四十八条の二第一項</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -11055,8 +11055,8 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">民事訴訟に関する法令の規定中証人の尋問に関する規定（罰金、拘留、勾引又は過料に関する規定を除く。）は、前項の規定により選挙管理委員会が選挙人その他の関係人の出頭及び証言を求める場合について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、民事訴訟法第二百五条第二項中「、最高裁判所規則で」とあるのは「、選挙管理委員会が」と、「最高裁判所規則で定める電子情報処理組織を使用してファイルに記録し、又は当該書面に記載すべき事項に係る電磁的記録を記録した記録媒体を提出する」とあるのは「電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法をいう。）により提供する」と、同条第三項中「ファイルに記録された事項若しくは同項の記録媒体に記録された」とあるのは「提供された」と読み替えるものとする。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">民事訴訟に関する法令の規定中証人の尋問に関する規定は、前項の規定により選挙管理委員会が選挙人その他の関係人の出頭及び証言を求める場合について準用する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、罰金、拘留、<Ruby>勾<Rt>こう</Rt></Ruby>引又は過料に関する規定は、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -11157,7 +11157,7 @@
           </Paragraph>
         </Article>
         <Article Num="220">
-          <ArticleCaption>（選挙関係訴訟についての通知及び電子判決書記録事項証明書の送付）</ArticleCaption>
+          <ArticleCaption>（選挙関係訴訟についての通知及び判決書謄本の送付）</ArticleCaption>
           <ArticleTitle>第二百二十条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
@@ -11175,14 +11175,14 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二項に規定する訴訟につき判決が確定したときは、裁判所の長は、その電子判決書記録事項証明書を、総務大臣に送付し、かつ、衆議院（比例代表選出）議員又は参議院（比例代表選出）議員の選挙については中央選挙管理会、参議院合同選挙区選挙については合同選挙区都道府県の知事を経て当該選挙に関する事務を管理する参議院合同選挙区選挙管理委員会、この法律に定めるその他の選挙については関係地方公共団体の長を経て当該選挙に関する事務を管理する選挙管理委員会に送付しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に掲げる訴訟につき判決が確定したときは、裁判所の長は、その判決書の謄本を、総務大臣に送付し、かつ、衆議院（比例代表選出）議員又は参議院（比例代表選出）議員の選挙については中央選挙管理会、参議院合同選挙区選挙については合同選挙区都道府県の知事を経て当該選挙に関する事務を管理する参議院合同選挙区選挙管理委員会、この法律に定めるその他の選挙については関係地方公共団体の長を経て当該選挙に関する事務を管理する選挙管理委員会に送付しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、衆議院議員又は参議院議員については衆議院議長又は参議院議長に、地方公共団体の議会の議員については当該議会の議長に、併せて送付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判所の長は、衆議院（小選挙区選出）議員の選挙における候補者であつた者で当該選挙と同時に行われた衆議院（比例代表選出）議員の選挙における候補者であつたものについて当該衆議院（小選挙区選出）議員の選挙に係る第二項の規定による通知又は前項の規定による送付をする場合には、併せて、中央選挙管理会に、第二項に規定する訴訟が係属しなくなつた旨を通知し、又は前項の電子判決書記録事項証明書を送付しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所の長は、衆議院（小選挙区選出）議員の選挙における候補者であつた者で当該選挙と同時に行われた衆議院（比例代表選出）議員の選挙における候補者であつたものについて当該衆議院（小選挙区選出）議員の選挙に係る第二項の規定による通知又は前項の規定による送付をする場合には、併せて、中央選挙管理会に、第二項に規定する訴訟が係属しなくなつた旨を通知し、又は前項の判決書の謄本を送付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -12766,23 +12766,11 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の通知は、送達の方法をもつて行う。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該送達に関しては、民事訴訟に関する法令の規定中送達に関する規定を準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の送達については、民事訴訟に関する法令の規定中送達に関する規定（民事訴訟法第百条第二項、第一編第五章第四節第三款及び第百十一条の規定を除く。）を準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同法第百十二条第一項中「前条の規定による措置を開始した日から」とあるのは、「公職選挙法第二百五十四条の二第四項の規定による掲示を始めた日から」と読み替えるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二項の送達についてする公示送達は、裁判所書記官が第一項の書面を保管し、いつでも同項の規定による通知を受けるべき者に交付すべき旨を裁判所の掲示場に掲示してする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第一項の規定による通知が行われたときは、裁判所の長は、その旨を、総務大臣に通知し、かつ、参議院（比例代表選出）議員の選挙については中央選挙管理会に、参議院合同選挙区選挙については合同選挙区都道府県の知事を経て当該選挙に関する事務を管理する参議院合同選挙区選挙管理委員会に、その他の選挙については関係地方公共団体の長を経て当該選挙に関する事務を管理する選挙管理委員会に通知しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">衆議院（小選挙区選出）議員の選挙における候補者であつた者で当該選挙と同時に行われた衆議院（比例代表選出）議員の選挙における候補者であつたものに同項の規定による通知が行われた場合においては、中央選挙管理会に、併せて通知しなければならない。</Sentence>
@@ -18775,26 +18763,6 @@
               </Column>
             </ItemSentence>
           </Item>
-        </Paragraph>
-      </Article>
-      <Article Num="43">
-        <ArticleCaption>（公職選挙法の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第四十三条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前条の規定による改正後の公職選挙法第二百二十条第三項及び第四項の規定は、公職選挙法第二百二十条第一項及び第二項に規定する訴訟であって施行日以後に提起されたものに係る裁判所の長がする送付について適用し、これらの規定に規定する訴訟であって施行日前に提起されたものに係る裁判所の長がする送付については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="124">
-        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第百二十四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="125">
