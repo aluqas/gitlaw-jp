@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Reiwa" Year="07" Num="026" PromulgateMonth="04" PromulgateDay="23" LawType="Act"><LawNum>令和七年法律第二十六号</LawNum><LawBody><LawTitle Kana="にほんこくのじえいたいとわがくにいがいのていやくこくのぐんたいとのあいだにおけるそうごあくせすおよびきょうりょくのえんかつかにかんするにほんこくとわがくにいがいのていやくこくとのあいだのきょうていのじっしにかんするほうりつ" Abbrev="" AbbrevKana="">日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　道路運送法及び道路運送車両法の適用除外</ChapterTitle>
+        <ArticleRange>（第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　刑事手続等の特例</ChapterTitle>
+        <ArticleRange>（第四条―第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　国の賠償責任の特例</ChapterTitle>
+        <ArticleRange>（第十二条―第十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　特殊海事損害に係る賠償の請求についての援助</ChapterTitle>
+        <ArticleRange>（第十五条―第十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、円滑化協定の適確な実施を確保するため、円滑化協定の実施に伴う道路運送法（昭和二十六年法律第百八十三号）及び道路運送車両法（昭和二十六年法律第百八十五号）の適用除外、刑事手続等の特例、国の賠償責任の特例並びに特殊海事損害に係る賠償の請求についての援助に関する措置を定め、もって我が国と我が国以外の締約国（以下「締約国」という。）との間における防衛の分野に係る協力の円滑化に資することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">円滑化協定</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">日本国の自衛隊と締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と当該締約国との間の条約その他の国際約束であって、次に掲げる事項について定めるもののうち政令で定めるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">公用車両（締約国が所有し、又は専ら締約国が賃借する道路運送車両法第二条第二項に規定する自動車及び同条第三項に規定する原動機付自転車であって、締約国軍隊の構成員又は締約国軍隊の文民構成員が公務の執行のために使用するものをいう。次条において同じ。）に係る我が国における義務の免除に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">刑事裁判権の行使の特例に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国の賠償責任の特例に関する事項</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">締約国軍隊</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">円滑化協定に基づいて、我が国と締約国との間で合意した活動に関連して、我が国の同意を得て日本国内に所在する締約国の軍隊をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">締約国軍隊の構成員</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">締約国軍隊に属する者をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">締約国軍隊の文民構成員</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">締約国軍隊に随伴する締約国の国籍を有する文民その他我が国及び締約国が適当であると認める者であって、締約国に雇用されるもの又は締約国軍隊に勤務するもの（我が国に通常居住する者及び締約国又は締約国に代わる者との役務の提供を内容とする契約に基づき行われる事業に従事する者を除く。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　道路運送法及び道路運送車両法の適用除外</ChapterTitle>
+        <Article Num="3">
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公用車両（道路運送車両法第二条第二項に規定する自動車に限る。）には、道路運送法第九十四条及び第九十五条の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公用車両（道路運送車両法第二条第二項に規定する自動車に限り、我が国において賃借されるものを除く。）には、同法第四条、第十九条、第二十九条、第三十一条から第三十三条まで、第四十条から第四十三条まで、第四十七条から第五十条まで、第五十四条、第五十四条の二、第五十六条、第五十八条、第六十三条、第六十六条、第七十三条第一項、第九十七条の三、第九十九条から第九十九条の三まで及び第百条の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公用車両（道路運送車両法第二条第三項に規定する原動機付自転車に限り、我が国において賃借されるものを除く。）には、同法第四十四条及び第百条の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">締約国が所有し、又は専ら締約国が賃借する道路運送車両法第二条第四項に規定する軽車両であって、締約国軍隊の構成員又は締約国軍隊の文民構成員が公務の執行のために使用するもの（我が国において賃借されるものを除く。）には、同法第四十五条及び第百条の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　刑事手続等の特例</ChapterTitle>
+        <Article Num="4">
+          <ArticleCaption>（逮捕された締約国軍隊の構成員又は締約国軍隊の文民構成員の引渡し）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、逮捕された者が締約国軍隊の構成員又は締約国軍隊の文民構成員であり、かつ、その者の犯した罪が専ら締約国の財産若しくは安全のみに対する罪、専ら締約国軍隊の構成員若しくは締約国軍隊の文民構成員の身体若しくは財産のみに対する罪又は公務執行中の作為若しくは不作為から生ずる罪のいずれかに明らかに該当すると認めたときは、刑事訴訟法（昭和二十三年法律第百三十一号）の規定にかかわらず、直ちに被疑者を締約国軍隊に引き渡さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">司法警察員は、前項の規定により被疑者を締約国軍隊に引き渡した場合においても、必要な捜査を行い、速やかに書類及び証拠物並びに電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）と共に事件を検察官に送致しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（締約国軍隊によって逮捕された者の受領）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、締約国軍隊から日本国の法令による罪を犯した締約国軍隊の構成員又は締約国軍隊の文民構成員を引き渡す旨の通知があった場合には、裁判官の発する逮捕状について刑事訴訟法第二百一条第一項の規定による措置をとって、被疑者の引渡しを受け、又は検察事務官若しくは司法警察職員にその引渡しを受けさせなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第二百一条の二第二項の規定による逮捕状に代わるものの提供があったときは、当該逮捕状に代わるものについて同条第三項の規定による措置をとって、その引渡しを受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、前項に規定する場合において、引き渡されるべき者が日本国の法令による罪を犯したことを疑うに足りる十分な理由があって、急速を要し、あらかじめ裁判官の逮捕状を求めることができないときは、その理由を告げてその者の引渡しを受け、又は受けさせなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合には、直ちに裁判官の逮捕状を求める手続をしなければならない。</Sentence>
+              <Sentence Num="3" WritingMode="vertical">逮捕状が発せられないときは、直ちにその者を釈放し、又は釈放させなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の場合を除くほか、検察官又は司法警察員は、引き渡される者を受け取った後、直ちにその者を釈放し、又は釈放させなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項又は第二項の規定による引渡しがあった場合には、刑事訴訟法第百九十九条の規定により被疑者が逮捕された場合の手続の例による。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同法第二百三条第一項、第二百四条第一項及び第二百五条第三項の時間の制限は、それぞれ第一項又は第二項の規定による引渡しがあった時から起算する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（締約国軍隊の財産の差押え、捜索等）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">締約国軍隊の財産（締約国軍隊が日本国内に所在していない場合にあっては、日本国内に所在する締約国の軍隊の財産であって、締約国軍隊の用に供されていたものを含む。）についての捜索（捜索状の執行を含む。）、差押え（差押状の執行を含む。）、刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令（当該電磁的記録提供命令により電磁的記録を提供させることを含む。以下この条において単に「電磁的記録提供命令」という。）又は検証（検証状の執行を含む。）は、検察官若しくは司法警察員が締約国軍隊（締約国軍隊が日本国内に所在していない場合にあっては、締約国の軍隊。以下この条において同じ。）の権限ある者の同意を得て行い、又は検察官若しくは司法警察員から締約国軍隊の権限ある者に嘱託して行うものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、裁判所又は裁判官が必要とする電磁的記録提供命令又は検証は、その裁判所若しくは裁判官が締約国軍隊の権限ある者の同意を得て行い、又はその裁判所若しくは裁判官から締約国軍隊の権限ある者に嘱託して行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（締約国軍隊等への書類等の提供等）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所、検察官又は司法警察員は、その保管する書類若しくは証拠物又は電磁的記録について、締約国軍隊その他の締約国の権限ある当局から、締約国軍隊の構成員又は締約国軍隊の文民構成員が犯した罪に係る刑事事件の審判又は捜査のため必要があるものとして申出があったときは、次に掲げる措置をとることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その保管する書類の閲覧若しくは謄写を許し、謄本を作成して交付し、又はこれを一時貸与し、若しくは引き渡すこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その保管する証拠物の閲覧若しくは謄写を許し、又はこれを一時貸与し、若しくは引き渡すこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その保管する電磁的記録の閲覧若しくは謄写を許し、又は当該電磁的記録に記録されている事項を記載し、若しくは記録した書面若しくは電磁的記録であってその内容がその保管する電磁的記録に記録されている事項と同一であることの証明がされたものを作成して提供すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項（第三号に係る部分に限る。）の場合において、その保管する電磁的記録の閲覧は、その内容を表示したものを閲覧し、又はその内容を再生したものを視聴する方法によるものとし、当該電磁的記録の謄写は、これを複写し、若しくは印刷し、又はその内容を表示し若しくは再生したものを記載し若しくは記録する方法によるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（日本国の法令による罪に係る事件以外の刑事事件についての協力）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、締約国軍隊から、日本国の法令による罪に係る事件以外の刑事事件につき、締約国軍隊の構成員又は締約国軍隊の文民構成員の逮捕の要請を受けたときは、これを逮捕し、又は検察事務官若しくは司法警察職員に逮捕させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項の場合において、逮捕の要請があった者が、人の住居又は人の看守する邸宅、建造物若しくは船舶内にいることを疑うに足りる相当な理由があるときは、検察官又は司法警察員は、裁判官の許可を得て、その場所に入りその者を捜索し、又は検察事務官若しくは司法警察職員にその場所に入りその者を捜索させることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、追跡されている者がその場所に入ったことが明らかであって、急速を要し裁判官の許可を得ることができないときは、その許可を得ることを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により締約国軍隊の構成員又は締約国軍隊の文民構成員を逮捕したときは、直ちに検察官又は司法警察員から、その者を締約国軍隊に引き渡さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">司法警察員は、前項の規定により締約国軍隊の構成員又は締約国軍隊の文民構成員を引き渡したときは、その旨を検察官に通報しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、締約国軍隊その他の締約国の権限ある当局から、日本国の法令による罪に係る事件以外の刑事事件につき、協力の要請を受けたときは、参考人を取り調べ、実況見分をし、又は書類その他の物の所有者、所持者若しくは保管者にその物の提出を求め、若しくは電磁的記録の保管者若しくはこれを利用する権限を有する者にその電磁的記録の提出を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、検察事務官又は司法警察職員に前項の処分をさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の処分に際しては、検察官、検察事務官又は司法警察職員は、その処分を受ける者に対して締約国軍隊その他の締約国の権限ある当局の要請による旨を明らかにしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（自衛隊員への準用）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第五条の規定は、締約国の権限ある当局から、自衛隊員（自衛隊法（昭和二十九年法律第百六十五号）第二条第五項に規定する隊員であって、円滑化協定に基づいて、我が国と締約国との間で合意した活動に関連して、締約国の同意を得て締約国内に所在するものをいう。次項において同じ。）であって日本国の法令による罪を犯したものを引き渡す旨の通知があった場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七条の規定は、締約国の権限ある当局から、自衛隊員が犯した罪に係る刑事事件の審判又は捜査のために必要があるものとして申出があったときについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（刑事補償）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">刑事補償法（昭和二十五年法律第一号）又は少年の保護事件に係る補償に関する法律（平成四年法律第八十四号）の規定の適用については、締約国軍隊その他の締約国の権限ある当局による抑留又は拘禁は、刑事訴訟法による抑留若しくは拘禁又は少年の保護事件に係る補償に関する法律第二条第一項第二号に掲げる身体の自由の拘束とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　国の賠償責任の特例</ChapterTitle>
+        <Article Num="12">
+          <ArticleCaption>（職務遂行に係る賠償責任）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">締約国軍隊の構成員又は締約国軍隊の文民構成員が、その職務を行うについて日本国内において違法に他人に損害を加えたときは、国の公務員がその職務を行うについて違法に他人に損害を加えた場合の例により、国がその損害を賠償する責任を負う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（工作物等の設置等に係る賠償責任）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">締約国軍隊が占有し、所有し、又は管理する土地の工作物その他の物件の設置又は管理に<Ruby>瑕疵<Rt>かし</Rt></Ruby>があったために日本国内において他人に損害を生じたときは、国が占有し、所有し、又は管理する土地の工作物その他の物件の設置又は管理に瑕疵があったために他人に損害を生じた場合の例により、国がその損害を賠償する責任を負う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（適用除外）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二条の規定は、次に掲げる損害には、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">締約国軍隊の構成員又は締約国軍隊の文民構成員が被った損害</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">民間の保険による塡補の対象となる車両の使用に起因する損害（当該保険が塡補する部分に係るものに限る。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">契約に基づき処理することとなる損害</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特殊海事損害（船舶の航行若しくは運用若しくは貨物の船積み、運送若しくは陸揚げから生じ、又はこれらに関連して生ずる財産に対する損害（我が国と締約国との間の合意により決定する損害を除く。）をいう。次条において同じ。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　特殊海事損害に係る賠償の請求についての援助</ChapterTitle>
+        <Article Num="15">
+          <ArticleCaption>（請求のあっせんの申請）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特殊海事損害を被った日本国民又は日本国法人は、防衛省令で定めるところにより、その被った損害について締約国に対して行う賠償の請求のあっせんを防衛大臣に申請することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（請求のあっせん）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">防衛大臣は、前条の規定による請求のあっせんの申請があったときは、当該申請に係る請求のあっせんを行わなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、請求の理由がないと認められるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（訴訟の援助）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、前条本文の規定によるあっせんにより当該あっせんの申請をした者に係る請求が解決されない場合において、その者が締約国の裁判所に当該請求に係る訴訟を提起するときは、政令で定めるところにより、訴訟に関する費用の立替えその他当該訴訟について必要な援助を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の立替金には、利息を付さない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（立替金の償還等）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">政府は、前条第一項の規定により費用の立替えを受けた者に係る訴訟が終了した場合には、その立替金を償還させなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、政令で定めるところにより、償還金の支払を猶予し、又は立替金の全部若しくは一部の償還を免除することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第五条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（調整規定）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日（次項及び第三項において「施行日」という。）から情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律（令和七年法律第三十九号。以下「刑事訴訟法等一部改正法」という。）附則第一条第三号に掲げる規定の施行の日の前日までの間における第六条の規定の適用については、同条中「刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令（当該電磁的記録提供命令により電磁的記録を提供させることを含む。以下この条において単に「電磁的記録提供命令」という」とあるのは「記録命令付差押え（記録命令付差押状の執行を含む」と、同条ただし書中「電磁的記録提供命令又は検証」とあるのは「検証」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日から刑事訴訟法等一部改正法の施行の日の前日までの間における第四条第二項、第五条第一項及び第四項（これらの規定を第十条第一項において準用する場合を含む。以下この項において同じ。）、第七条第一項（第十条第二項において準用する場合を含む。以下この項において同じ。）並びに第九条第一項の規定の適用については、第四条第二項中「証拠物並びに電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）」とあるのは「証拠物」と、第五条第一項中「について刑事訴訟法第二百一条第一項の規定による措置をとって」とあるのは「を示して」と、「同法」とあるのは「刑事訴訟法」と、「提供」とあるのは「交付」と、「について同条第三項の規定による措置をとって」とあるのは「を示して」と、同条第四項中「第二百五条第三項」とあるのは「第二百五条第二項」と、第七条第一項中「若しくは証拠物又は電磁的記録」とあるのは「又は証拠物」と、「次に」とあるのは「第一号又は第二号に」と、第九条第一項中「提出を求め、若しくは電磁的記録の保管者若しくはこれを利用する権限を有する者にその電磁的記録の提出」とあるのは「提出」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第七条第二項（第十条第二項において準用する場合を含む。）の規定は、施行日から刑事訴訟法等一部改正法の施行の日の前日までの間は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（他の法律の廃止）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">次に掲げる法律は、廃止する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">日本国の自衛隊とオーストラリア国防軍との間における相互のアクセス及び協力の円滑化に関する日本国とオーストラリアとの間の協定の実施に関する法律（令和五年法律第二十六号）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">日本国の自衛隊とグレートブリテン及び北アイルランド連合王国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国とグレートブリテン及び北アイルランド連合王国との間の協定の実施に関する法律（令和五年法律第二十七号）</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（前条の規定による法律の廃止に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条の規定による廃止前の同条各号に掲げる法律又はこれらに基づく命令の規定によりした処分、手続その他の行為は、この法律又はこれに基づく命令の相当する規定によりした処分、手続その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条及び前条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
