@@ -1,0 +1,2811 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Heisei" Year="05" Num="047" PromulgateMonth="05" PromulgateDay="19" LawType="Act"><LawNum>平成五年法律第四十七号</LawNum><LawBody><LawTitle Kana="ふせいきょうそうぼうしほう" Abbrev="不競法" AbbrevKana="ふ">不正競争防止法</LawTitle>
+    <EnactStatement>不正競争防止法（昭和九年法律第十四号）の全部を改正する。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　差止請求、損害賠償等</ChapterTitle>
+        <ArticleRange>（第三条―第十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　国際約束に基づく禁止行為</ChapterTitle>
+        <ArticleRange>（第十六条―第十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ArticleRange>（第十九条―第二十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <ArticleRange>（第二十一条・第二十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　刑事訴訟手続の特例</ChapterTitle>
+        <ArticleRange>（第二十三条―第三十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　没収に関する手続等の特例</ChapterTitle>
+        <ArticleRange>（第三十二条―第三十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="8">
+        <ChapterTitle>第八章　保全手続</ChapterTitle>
+        <ArticleRange>（第三十五条・第三十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="9">
+        <ChapterTitle>第九章　没収及び追徴の裁判の執行及び保全についての国際共助手続等</ChapterTitle>
+        <ArticleRange>（第三十七条―第四十条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、事業者間の公正な競争及びこれに関する国際約束の的確な実施を確保するため、不正競争の防止及び不正競争に係る損害賠償に関する措置等を講じ、もって国民経済の健全な発展に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「不正競争」とは、次に掲げるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">他人の商品等表示（人の業務に係る氏名、商号、商標、標章、商品の容器若しくは包装その他の商品又は営業を表示するものをいう。以下同じ。）として需要者の間に広く認識されているものと同一若しくは類似の商品等表示を使用し、又はその商品等表示を使用した商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供して、他人の商品又は営業と混同を生じさせる行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">自己の商品等表示として他人の著名な商品等表示と同一若しくは類似のものを使用し、又はその商品等表示を使用した商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">他人の商品の形態（当該商品の機能を確保するために不可欠な形態を除く。）を模倣した商品を譲渡し、貸し渡し、譲渡若しくは貸渡しのために展示し、輸出し、輸入し、又は電気通信回線を通じて提供する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">窃取、詐欺、強迫その他の不正の手段により営業秘密を取得する行為（以下「営業秘密不正取得行為」という。）又は営業秘密不正取得行為により取得した営業秘密を使用し、若しくは開示する行為（秘密を保持しつつ特定の者に示すことを含む。次号から第九号まで、第十九条第一項第七号、第二十一条及び附則第四条第一号において同じ。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その営業秘密について営業秘密不正取得行為が介在したことを知って、若しくは重大な過失により知らないで営業秘密を取得し、又はその取得した営業秘密を使用し、若しくは開示する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その取得した後にその営業秘密について営業秘密不正取得行為が介在したことを知って、又は重大な過失により知らないでその取得した営業秘密を使用し、又は開示する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">営業秘密を保有する事業者（以下「営業秘密保有者」という。）からその営業秘密を示された場合において、不正の利益を得る目的で、又はその営業秘密保有者に損害を加える目的で、その営業秘密を使用し、又は開示する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その営業秘密について営業秘密不正開示行為（前号に規定する場合において同号に規定する目的でその営業秘密を開示する行為又は秘密を守る法律上の義務に違反してその営業秘密を開示する行為をいう。以下同じ。）であること若しくはその営業秘密について営業秘密不正開示行為が介在したことを知って、若しくは重大な過失により知らないで営業秘密を取得し、又はその取得した営業秘密を使用し、若しくは開示する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その取得した後にその営業秘密について営業秘密不正開示行為があったこと若しくはその営業秘密について営業秘密不正開示行為が介在したことを知って、又は重大な過失により知らないでその取得した営業秘密を使用し、又は開示する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四号から前号までに掲げる行為（技術上の秘密（営業秘密のうち、技術上の情報であるものをいう。以下同じ。）を使用する行為に限る。以下この号において「不正使用行為」という。）により生じた物を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、又は電気通信回線を通じて提供する行為（当該物を譲り受けた者（その譲り受けた時に当該物が不正使用行為により生じた物であることを知らず、かつ、知らないことにつき重大な過失がない者に限る。）が当該物を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、又は電気通信回線を通じて提供する行為を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">窃取、詐欺、強迫その他の不正の手段により限定提供データを取得する行為（以下「限定提供データ不正取得行為」という。）又は限定提供データ不正取得行為により取得した限定提供データを使用し、若しくは開示する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その限定提供データについて限定提供データ不正取得行為が介在したことを知って限定提供データを取得し、又はその取得した限定提供データを使用し、若しくは開示する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="13">
+              <ItemTitle>十三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その取得した後にその限定提供データについて限定提供データ不正取得行為が介在したことを知ってその取得した限定提供データを開示する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="14">
+              <ItemTitle>十四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">限定提供データを保有する事業者（以下「限定提供データ保有者」という。）からその限定提供データを示された場合において、不正の利益を得る目的で、又はその限定提供データ保有者に損害を加える目的で、その限定提供データを使用する行為（その限定提供データの管理に係る任務に違反して行うものに限る。）又は開示する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="15">
+              <ItemTitle>十五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その限定提供データについて限定提供データ不正開示行為（前号に規定する場合において同号に規定する目的でその限定提供データを開示する行為をいう。以下同じ。）であること若しくはその限定提供データについて限定提供データ不正開示行為が介在したことを知って限定提供データを取得し、又はその取得した限定提供データを使用し、若しくは開示する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="16">
+              <ItemTitle>十六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その取得した後にその限定提供データについて限定提供データ不正開示行為があったこと又はその限定提供データについて限定提供データ不正開示行為が介在したことを知ってその取得した限定提供データを開示する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="17">
+              <ItemTitle>十七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">営業上用いられている技術的制限手段（他人が特定の者以外の者に影像若しくは音の視聴、プログラムの実行若しくは情報（電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）に記録されたものに限る。以下この号、次号及び第八項において同じ。）の処理又は影像、音、プログラムその他の情報の記録をさせないために用いているものを除く。）により制限されている影像若しくは音の視聴、プログラムの実行若しくは情報の処理又は影像、音、プログラムその他の情報の記録（以下この号において「影像の視聴等」という。）を当該技術的制限手段の効果を妨げることにより可能とする機能を有する装置（当該装置を組み込んだ機器及び当該装置の部品一式であって容易に組み立てることができるものを含む。）、当該機能を有するプログラム（当該プログラムが他のプログラムと組み合わされたものを含む。）若しくは指令符号（電子計算機に対する指令であって、当該指令のみによって一の結果を得ることができるものをいう。次号において同じ。）を記録した記録媒体若しくは記憶した機器を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、若しくは輸入し、若しくは当該機能を有するプログラム若しくは指令符号を電気通信回線を通じて提供する行為（当該装置又は当該プログラムが当該機能以外の機能を併せて有する場合にあっては、影像の視聴等を当該技術的制限手段の効果を妨げることにより可能とする用途に供するために行うものに限る。）又は影像の視聴等を当該技術的制限手段の効果を妨げることにより可能とする役務を提供する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="18">
+              <ItemTitle>十八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">他人が特定の者以外の者に影像若しくは音の視聴、プログラムの実行若しくは情報の処理又は影像、音、プログラムその他の情報の記録をさせないために営業上用いている技術的制限手段により制限されている影像若しくは音の視聴、プログラムの実行若しくは情報の処理又は影像、音、プログラムその他の情報の記録（以下この号において「影像の視聴等」という。）を当該技術的制限手段の効果を妨げることにより可能とする機能を有する装置（当該装置を組み込んだ機器及び当該装置の部品一式であって容易に組み立てることができるものを含む。）、当該機能を有するプログラム（当該プログラムが他のプログラムと組み合わされたものを含む。）若しくは指令符号を記録した記録媒体若しくは記憶した機器を当該特定の者以外の者に譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、若しくは輸入し、若しくは当該機能を有するプログラム若しくは指令符号を電気通信回線を通じて提供する行為（当該装置又は当該プログラムが当該機能以外の機能を併せて有する場合にあっては、影像の視聴等を当該技術的制限手段の効果を妨げることにより可能とする用途に供するために行うものに限る。）又は影像の視聴等を当該技術的制限手段の効果を妨げることにより可能とする役務を提供する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="19">
+              <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正の利益を得る目的で、又は他人に損害を加える目的で、他人の特定商品等表示（人の業務に係る氏名、商号、商標、標章その他の商品又は役務を表示するものをいう。）と同一若しくは類似のドメイン名を使用する権利を取得し、若しくは保有し、又はそのドメイン名を使用する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="20">
+              <ItemTitle>二十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">商品若しくは役務若しくはその広告若しくは取引に用いる書類若しくは通信にその商品の原産地、品質、内容、製造方法、用途若しくは数量若しくはその役務の質、内容、用途若しくは数量について誤認させるような表示をし、又はその表示をした商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供し、若しくはその表示をして役務を提供する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="21">
+              <ItemTitle>二十一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">競争関係にある他人の営業上の信用を害する虚偽の事実を告知し、又は流布する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="22">
+              <ItemTitle>二十二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">パリ条約（商標法（昭和三十四年法律第百二十七号）第四条第一項第二号に規定するパリ条約をいう。）の同盟国、世界貿易機関の加盟国又は商標法条約の締約国において商標に関する権利（商標権に相当する権利に限る。以下この号において単に「権利」という。）を有する者の代理人若しくは代表者又はその行為の日前一年以内に代理人若しくは代表者であった者が、正当な理由がないのに、その権利を有する者の承諾を得ないでその権利に係る商標と同一若しくは類似の商標をその権利に係る商品若しくは役務と同一若しくは類似の商品若しくは役務に使用し、又は当該商標を使用したその権利に係る商品と同一若しくは類似の商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供し、若しくは当該商標を使用してその権利に係る役務と同一若しくは類似の役務を提供する行為</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「商標」とは、商標法第二条第一項に規定する商標をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「標章」とは、商標法第二条第一項に規定する標章をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「商品の形態」とは、需要者が通常の用法に従った使用に際して知覚によって認識することができる商品の外部及び内部の形状並びにその形状に結合した模様、色彩、光沢及び質感をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「模倣する」とは、他人の商品の形態に依拠して、これと実質的に同一の形態の商品を作り出すことをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「営業秘密」とは、秘密として管理されている生産方法、販売方法その他の事業活動に有用な技術上又は営業上の情報であって、公然と知られていないものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「限定提供データ」とは、業として特定の者に提供する情報として電磁的方法（電子的方法、磁気的方法その他人の知覚によっては認識することができない方法をいう。次項において同じ。）により相当量蓄積され、及び管理されている技術上又は営業上の情報（営業秘密を除く。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「技術的制限手段」とは、電磁的方法により影像若しくは音の視聴、プログラムの実行若しくは情報の処理又は影像、音、プログラムその他の情報の記録を制限する手段であって、視聴等機器（影像若しくは音の視聴、プログラムの実行若しくは情報の処理又は影像、音、プログラムその他の情報の記録のために用いられる機器をいう。以下この項において同じ。）が特定の反応をする信号を記録媒体に記録し、若しくは送信する方式又は視聴等機器が特定の変換を必要とするよう影像、音、プログラムその他の情報を変換して記録媒体に記録し、若しくは送信する方式によるものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「プログラム」とは、電子計算機に対する指令であって、一の結果を得ることができるように組み合わされたものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「ドメイン名」とは、インターネットにおいて、個々の電子計算機を識別するために割り当てられる番号、記号又は文字の組合せに対応する文字、番号、記号その他の符号又はこれらの結合をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律にいう「物」には、プログラムを含むものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　差止請求、損害賠償等</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（差止請求権）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">不正競争によって営業上の利益を侵害され、又は侵害されるおそれがある者は、その営業上の利益を侵害する者又は侵害するおそれがある者に対し、その侵害の停止又は予防を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">不正競争によって営業上の利益を侵害され、又は侵害されるおそれがある者は、前項の規定による請求をするに際し、侵害の行為を組成した物（侵害の行為により生じた物を含む。）の廃棄、侵害の行為に供した設備の除却その他の侵害の停止又は予防に必要な行為を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（損害賠償）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">故意又は過失により不正競争を行って他人の営業上の利益を侵害した者は、これによって生じた損害を賠償する責めに任ずる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十五条の規定により同条に規定する権利が消滅した後にその営業秘密又は限定提供データを使用する行為によって生じた損害については、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（損害の額の推定等）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第一項第一号から第十六号まで又は第二十二号に掲げる不正競争によって営業上の利益を侵害された者（以下この項において「被侵害者」という。）が故意又は過失により自己の営業上の利益を侵害した者（以下この項において「侵害者」という。）に対しその侵害により自己が受けた損害の賠償を請求する場合において、侵害者がその侵害の行為を組成した物（電磁的記録を含む。以下この項において同じ。）を譲渡したとき（侵害の行為により生じた物を譲渡したときを含む。）、又はその侵害の行為により生じた役務を提供したときは、次に掲げる額の合計額を、被侵害者が受けた損害の額とすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">被侵害者がその侵害の行為がなければ販売することができた物又は提供することができた役務の単位数量当たりの利益の額に、侵害者が譲渡した当該物又は提供した当該役務の数量（次号において「譲渡等数量」という。）のうち被侵害者の販売又は提供の能力に応じた数量（同号において「販売等能力相応数量」という。）を超えない部分（その全部又は一部に相当する数量を被侵害者が販売又は提供をすることができないとする事情があるときは、当該事情に相当する数量（同号において「特定数量」という。）を控除した数量）を乗じて得た額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">譲渡等数量のうち販売等能力相応数量を超える数量又は特定数量がある場合におけるこれらの数量に応じた次のイからホまでに掲げる不正競争の区分に応じて当該イからホまでに定める行為に対し受けるべき金銭の額に相当する額（被侵害者が、次のイからホまでに掲げる不正競争の区分に応じて当該イからホまでに定める行為の許諾をし得たと認められない場合を除く。）</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第二条第一項第一号又は第二号に掲げる不正競争</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該侵害に係る商品等表示の使用</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第二条第一項第三号に掲げる不正競争</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該侵害に係る商品の形態の使用</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第二条第一項第四号から第九号までに掲げる不正競争</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該侵害に係る営業秘密の使用</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第二条第一項第十一号から第十六号までに掲げる不正競争</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該侵害に係る限定提供データの使用</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第二条第一項第二十二号に掲げる不正競争</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該侵害に係る商標の使用</Sentence>
+                  </Column>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">不正競争によって営業上の利益を侵害された者が故意又は過失により自己の営業上の利益を侵害した者に対しその侵害により自己が受けた損害の賠償を請求する場合において、その者がその侵害の行為により利益を受けているときは、その利益の額は、その営業上の利益を侵害された者が受けた損害の額と推定する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第一項第一号から第九号まで、第十一号から第十六号まで、第十九号又は第二十二号に掲げる不正競争によって営業上の利益を侵害された者は、故意又は過失により自己の営業上の利益を侵害した者に対し、次の各号に掲げる不正競争の区分に応じて当該各号に定める行為に対し受けるべき金銭の額に相当する額の金銭を、自己が受けた損害の額としてその賠償を請求することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第一号又は第二号に掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該侵害に係る商品等表示の使用</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第三号に掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該侵害に係る商品の形態の使用</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第四号から第九号までに掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該侵害に係る営業秘密の使用</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第十一号から第十六号までに掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該侵害に係る限定提供データの使用</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第十九号に掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該侵害に係るドメイン名の使用</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第二十二号に掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該侵害に係る商標の使用</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第一項第二号イからホまで及び前項各号に定める行為に対し受けるべき金銭の額を認定するに当たっては、営業上の利益を侵害された者が、当該行為の対価について、不正競争があったことを前提として当該不正競争をした者との間で合意をするとしたならば、当該営業上の利益を侵害された者が得ることとなるその対価を考慮することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三項の規定は、同項に規定する金額を超える損害の賠償の請求を妨げない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、その営業上の利益を侵害した者に故意又は重大な過失がなかったときは、裁判所は、損害の賠償の額を定めるについて、これを参酌することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5_2">
+          <ArticleCaption>（技術上の秘密を取得した者の当該技術上の秘密を使用する行為等の推定）</ArticleCaption>
+          <ArticleTitle>第五条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">技術上の秘密（生産方法その他政令で定める情報に係るものに限る。以下この条において同じ。）について第二条第一項第四号、第五号又は第八号に掲げる不正競争（営業秘密を取得する行為に限る。）があった場合において、その行為をした者が当該技術上の秘密を使用する行為により生ずる物の生産その他技術上の秘密を使用したことが明らかな行為として政令で定める行為（以下この条において「生産等」という。）をしたときは、その者は、それぞれ当該各号に掲げる不正競争（営業秘密を使用する行為に限る。）として生産等をしたものと推定する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">技術上の秘密を取得した後にその技術上の秘密について営業秘密不正取得行為が介在したことを知って、又は重大な過失により知らないで、その技術上の秘密に係る技術秘密記録媒体等（技術上の秘密が記載され、又は記録された文書、図画又は記録媒体をいう。以下この条において同じ。）、その技術上の秘密が化体された物件又は当該技術秘密記録媒体等に係る送信元識別符号（自動公衆送信（公衆によって直接受信されることを目的として公衆からの求めに応じ自動的に送信を行うことをいい、放送又は有線放送に該当するものを除く。）の送信元を識別するための文字、番号、記号その他の符号をいう。第四項において同じ。）を保有する行為があった場合において、その行為をした者が生産等をしたときは、その者は、第二条第一項第六号に掲げる不正競争（営業秘密を使用する行為に限る。）として生産等をしたものと推定する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">技術上の秘密をその保有者から示された後に、不正の利益を得る目的で、又は当該技術上の秘密の保有者に損害を加える目的で、当該技術上の秘密の管理に係る任務に違反して、次に掲げる方法でその技術上の秘密を領得する行為があった場合において、その行為をした者が生産等をしたときは、その者は、第二条第一項第七号に掲げる不正競争（営業秘密を使用する行為に限る。）として生産等をしたものと推定する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">技術秘密記録媒体等又は技術上の秘密が化体された物件を横領すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">技術秘密記録媒体等の記載若しくは記録について、又は技術上の秘密が化体された物件について、その複製を作成すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">技術秘密記録媒体等の記載又は記録であって、消去すべきものを消去せず、かつ、当該記載又は記録を消去したように仮装すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">技術上の秘密を取得した後にその技術上の秘密について営業秘密不正開示行為があったこと若しくは営業秘密不正開示行為が介在したことを知って、又は重大な過失により知らないで、その技術上の秘密に係る技術秘密記録媒体等、その技術上の秘密が化体された物件又は当該技術秘密記録媒体等に係る送信元識別符号を保有する行為があった場合において、その行為をした者が生産等をしたときは、その者は、第二条第一項第九号に掲げる不正競争（営業秘密を使用する行為に限る。）として生産等をしたものと推定する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（具体的態様の明示義務）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">不正競争による営業上の利益の侵害に係る訴訟において、不正競争によって営業上の利益を侵害され、又は侵害されるおそれがあると主張する者が侵害の行為を組成したものとして主張する物又は方法の具体的態様を否認するときは、相手方は、自己の行為の具体的態様を明らかにしなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、相手方において明らかにすることができない相当の理由があるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（書類の提出等）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">裁判所は、不正競争による営業上の利益の侵害に係る訴訟においては、当事者の申立てにより、当事者に対し、当該侵害行為について立証するため、又は当該侵害の行為による損害の計算をするため必要な書類の提出を命ずることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その書類の所持者においてその提出を拒むことについて正当な理由があるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、前項本文の申立てに係る書類が同項本文の書類に該当するかどうか又は同項ただし書に規定する正当な理由があるかどうかの判断をするため必要があると認めるときは、書類の所持者にその提示をさせることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、何人も、その提示された書類の開示を求めることができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、前項の場合において、第一項本文の申立てに係る書類が同項本文の書類に該当するかどうか又は同項ただし書に規定する正当な理由があるかどうかについて前項後段の書類を開示してその意見を聴くことが必要であると認めるときは、当事者等（当事者（法人である場合にあっては、その代表者）又は当事者の代理人（訴訟代理人及び補佐人を除く。）、使用人その他の従業者をいう。以下同じ。）、訴訟代理人又は補佐人に対し、当該書類を開示することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第二項の場合において、同項後段の書類を開示して専門的な知見に基づく説明を聴くことが必要であると認めるときは、当事者の同意を得て、民事訴訟法（平成八年法律第百九号）第一編第五章第二節第一款に規定する専門委員に対し、当該書類を開示することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前各項の規定は、不正競争による営業上の利益の侵害に係る訴訟における当該侵害行為について立証するため必要な検証の目的の提示について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（損害計算のための鑑定）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">不正競争による営業上の利益の侵害に係る訴訟において、当事者の申立てにより、裁判所が当該侵害の行為による損害の計算をするため必要な事項について鑑定を命じたときは、当事者は、鑑定人に対し、当該鑑定をするため必要な事項について説明しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（相当な損害額の認定）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">不正競争による営業上の利益の侵害に係る訴訟において、損害が生じたことが認められる場合において、損害額を立証するために必要な事実を立証することが当該事実の性質上極めて困難であるときは、裁判所は、口頭弁論の全趣旨及び証拠調べの結果に基づき、相当な損害額を認定することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（秘密保持命令）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">裁判所は、不正競争による営業上の利益の侵害に係る訴訟において、その当事者が保有する営業秘密について、次に掲げる事由のいずれにも該当することにつき疎明があった場合には、当事者の申立てにより、決定で、当事者等、訴訟代理人又は補佐人に対し、当該営業秘密を当該訴訟の追行の目的以外の目的で使用し、又は当該営業秘密に係るこの項の規定による命令を受けた者以外の者に開示してはならない旨を命ずることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その申立ての時までに当事者等、訴訟代理人又は補佐人が第一号に規定する準備書面の閲読又は同号に規定する証拠の取調べ若しくは開示以外の方法により当該営業秘密を取得し、又は保有していた場合は、この限りでない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">既に提出され若しくは提出されるべき準備書面に当事者の保有する営業秘密が記載され、又は既に取り調べられ若しくは取り調べられるべき証拠（第七条第三項の規定により開示された書類又は第十三条第四項の規定により開示された書面を含む。）の内容に当事者の保有する営業秘密が含まれること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号の営業秘密が当該訴訟の追行の目的以外の目的で使用され、又は当該営業秘密が開示されることにより、当該営業秘密に基づく当事者の事業活動に支障を生ずるおそれがあり、これを防止するため当該営業秘密の使用又は開示を制限する必要があること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による命令（以下「秘密保持命令」という。）の申立ては、次に掲げる事項を記載した書面でしなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">秘密保持命令を受けるべき者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">秘密保持命令の対象となるべき営業秘密を特定するに足りる事実</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前項各号に掲げる事由に該当する事実</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">秘密保持命令が発せられた場合には、その決定書を秘密保持命令を受けた者に送達しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">秘密保持命令は、秘密保持命令を受けた者に対する決定書の送達がされた時から、効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">秘密保持命令の申立てを却下した裁判に対しては、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（秘密保持命令の取消し）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">秘密保持命令の申立てをした者又は秘密保持命令を受けた者は、訴訟記録の存する裁判所（訴訟記録の存する裁判所がない場合にあっては、秘密保持命令を発した裁判所）に対し、前条第一項に規定する要件を欠くこと又はこれを欠くに至ったことを理由として、秘密保持命令の取消しの申立てをすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">秘密保持命令の取消しの申立てについての裁判があった場合には、その決定書をその申立てをした者及び相手方に送達しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">秘密保持命令の取消しの申立てについての裁判に対しては、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">秘密保持命令を取り消す裁判は、確定しなければその効力を生じない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、秘密保持命令を取り消す裁判をした場合において、秘密保持命令の取消しの申立てをした者又は相手方以外に当該秘密保持命令が発せられた訴訟において当該営業秘密に係る秘密保持命令を受けている者があるときは、その者に対し、直ちに、秘密保持命令を取り消す裁判をした旨を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（訴訟記録の閲覧等の請求の通知等）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">秘密保持命令が発せられた訴訟（全ての秘密保持命令が取り消された訴訟を除く。）に係る訴訟記録につき、民事訴訟法第九十二条第一項の決定があった場合において、当事者から同項に規定する秘密記載部分の閲覧等の請求があり、かつ、その請求の手続を行った者が当該訴訟において秘密保持命令を受けていない者であるときは、裁判所書記官は、同項の申立てをした当事者（その請求をした者を除く。第三項において同じ。）に対し、その請求後直ちに、その請求があった旨を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、裁判所書記官は、同項の請求があった日から二週間を経過する日までの間（その請求の手続を行った者に対する秘密保持命令の申立てがその日までにされた場合にあっては、その申立てについての裁判が確定するまでの間）、その請求の手続を行った者に同項の秘密記載部分の閲覧等をさせてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定は、第一項の請求をした者に同項の秘密記載部分の閲覧等をさせることについて民事訴訟法第九十二条第一項の申立てをした当事者の全ての同意があるときは、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（当事者尋問等の公開停止）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">不正競争による営業上の利益の侵害に係る訴訟における当事者等が、その侵害の有無についての判断の基礎となる事項であって当事者の保有する営業秘密に該当するものについて、当事者本人若しくは法定代理人又は証人として尋問を受ける場合においては、裁判所は、裁判官の全員一致により、その当事者等が公開の法廷で当該事項について陳述をすることにより当該営業秘密に基づく当事者の事業活動に著しい支障を生ずることが明らかであることから当該事項について十分な陳述をすることができず、かつ、当該陳述を欠くことにより他の証拠のみによっては当該事項を判断の基礎とすべき不正競争による営業上の利益の侵害の有無についての適正な裁判をすることができないと認めるときは、決定で、当該事項の尋問を公開しないで行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、前項の決定をするに当たっては、あらかじめ、当事者等の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、前項の場合において、必要があると認めるときは、当事者等にその陳述すべき事項の要領を記載した書面の提示をさせることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、何人も、その提示された書面の開示を求めることができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、前項後段の書面を開示してその意見を聴くことが必要であると認めるときは、当事者等、訴訟代理人又は補佐人に対し、当該書面を開示することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第一項の規定により当該事項の尋問を公開しないで行うときは、公衆を退廷させる前に、その旨を理由とともに言い渡さなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">当該事項の尋問が終了したときは、再び公衆を入廷させなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（信用回復の措置）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">故意又は過失により不正競争を行って他人の営業上の信用を害した者に対しては、裁判所は、その営業上の信用を害された者の請求により、損害の賠償に代え、又は損害の賠償とともに、その者の営業上の信用を回復するのに必要な措置を命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（消滅時効）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第一項第四号から第九号までに掲げる不正競争のうち、営業秘密を使用する行為に対する第三条第一項の規定による侵害の停止又は予防を請求する権利は、次に掲げる場合には、時効によって消滅する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その行為を行う者がその行為を継続する場合において、その行為により営業上の利益を侵害され、又は侵害されるおそれがある営業秘密保有者がその事実及びその行為を行う者を知った時から三年間行わないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その行為の開始の時から二十年を経過したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定は、第二条第一項第十一号から第十六号までに掲げる不正競争のうち、限定提供データを使用する行為に対する第三条第一項の規定による侵害の停止又は予防を請求する権利について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、前項第一号中「営業秘密保有者」とあるのは、「限定提供データ保有者」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　国際約束に基づく禁止行為</ChapterTitle>
+        <Article Num="16">
+          <ArticleCaption>（外国の国旗等の商業上の使用禁止）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">何人も、外国の国旗若しくは国の紋章その他の記章であって経済産業省令で定めるもの（以下「外国国旗等」という。）と同一若しくは類似のもの（以下「外国国旗等類似記章」という。）を商標として使用し、又は外国国旗等類似記章を商標として使用した商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供し、若しくは外国国旗等類似記章を商標として使用して役務を提供してはならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その外国国旗等の使用の許可（許可に類する行政処分を含む。以下同じ。）を行う権限を有する外国の官庁の許可を受けたときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前項に規定するもののほか、何人も、商品の原産地を誤認させるような方法で、同項の経済産業省令で定める外国の国の紋章（以下「外国紋章」という。）を使用し、又は外国紋章を使用した商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供し、若しくは外国紋章を使用して役務を提供してはならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その外国紋章の使用の許可を行う権限を有する外国の官庁の許可を受けたときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">何人も、外国の政府若しくは地方公共団体の監督用若しくは証明用の印章若しくは記号であって経済産業省令で定めるもの（以下「外国政府等記号」という。）と同一若しくは類似のもの（以下「外国政府等類似記号」という。）をその外国政府等記号が用いられている商品若しくは役務と同一若しくは類似の商品若しくは役務の商標として使用し、又は外国政府等類似記号を当該商標として使用した商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供し、若しくは外国政府等類似記号を当該商標として使用して役務を提供してはならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その外国政府等記号の使用の許可を行う権限を有する外国の官庁の許可を受けたときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（国際機関の標章の商業上の使用禁止）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">何人も、その国際機関（政府間の国際機関及びこれに準ずるものとして経済産業省令で定める国際機関をいう。以下この条において同じ。）と関係があると誤認させるような方法で、国際機関を表示する標章であって経済産業省令で定めるものと同一若しくは類似のもの（以下「国際機関類似標章」という。）を商標として使用し、又は国際機関類似標章を商標として使用した商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供し、若しくは国際機関類似標章を商標として使用して役務を提供してはならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この国際機関の許可を受けたときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（外国公務員等に対する不正の利益の供与等の禁止）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">何人も、外国公務員等に対し、国際的な商取引に関して営業上の不正の利益を得るために、その外国公務員等に、その職務に関する行為をさせ若しくはさせないこと、又はその地位を利用して他の外国公務員等にその職務に関する行為をさせ若しくはさせないようにあっせんをさせることを目的として、金銭その他の利益を供与し、又はその申込み若しくは約束をしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項において「外国公務員等」とは、次に掲げる者をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">外国の政府又は地方公共団体の公務に従事する者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公共の利益に関する特定の事務を行うために外国の特別の法令により設立されたものの事務に従事する者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">一又は二以上の外国の政府又は地方公共団体により、発行済株式のうち議決権のある株式の総数若しくは出資の金額の総額の百分の五十を超える当該株式の数若しくは出資の金額を直接に所有され、又は役員（取締役、監査役、理事、監事及び清算人並びにこれら以外の者で事業の経営に従事しているものをいう。）の過半数を任命され若しくは指名されている事業者であって、その事業の遂行に当たり、外国の政府又は地方公共団体から特に権益を付与されているものの事務に従事する者その他これに準ずる者として政令で定める者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国際機関（政府又は政府間の国際機関によって構成される国際機関をいう。次号において同じ。）の公務に従事する者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">外国の政府若しくは地方公共団体又は国際機関の権限に属する事務であって、これらの機関から委任されたものに従事する者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <Article Num="19">
+          <ArticleCaption>（適用除外等）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三条から第十五条まで、第二十一条及び第二十二条の規定は、次の各号に掲げる不正競争の区分に応じて当該各号に定める行為については、適用しない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第一号、第二号、第二十号及び第二十二号に掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">商品若しくは営業の普通名称（ぶどうを原料又は材料とする物の原産地の名称であって、普通名称となったものを除く。）若しくは同一若しくは類似の商品若しくは営業について慣用されている商品等表示（以下「普通名称等」と総称する。）を普通に用いられる方法で使用し、若しくは表示をし、又は普通名称等を普通に用いられる方法で使用し、若しくは表示をした商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供する行為（同項第二十号及び第二十二号に掲げる不正競争の場合にあっては、普通名称等を普通に用いられる方法で表示をし、又は使用して役務を提供する行為を含む。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第一号、第二号及び第二十二号に掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">自己の氏名を不正の目的（不正の利益を得る目的、他人に損害を加える目的その他の不正の目的をいう。以下同じ。）でなく使用し、又は自己の氏名を不正の目的でなく使用した商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供する行為（同号に掲げる不正競争の場合にあっては、自己の氏名を不正の目的でなく使用して役務を提供する行為を含む。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第一号及び第二号に掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">商標法第四条第四項に規定する場合において商標登録がされた結果又は同法第八条第一項ただし書、第二項ただし書若しくは第五項ただし書の規定により商標登録がされた結果、同一の商品若しくは役務について使用（同法第二条第三項に規定する使用をいう。以下この号において同じ。）をする類似の登録商標（同法第二条第五項に規定する登録商標をいう。以下この号及び次項第二号において同じ。）又は類似の商品若しくは役務について使用をする同一若しくは類似の登録商標に係る商標権が異なった商標権者に属することとなった場合において、その一の登録商標に係る商標権者、専用使用権者又は通常使用権者が不正の目的でなく当該登録商標の使用をする行為</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第一号に掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">他人の商品等表示が需要者の間に広く認識される前からその商品等表示と同一若しくは類似の商品等表示を使用する者又はその商品等表示に係る業務を承継した者がその商品等表示を不正の目的でなく使用し、又はその商品等表示を不正の目的でなく使用した商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供する行為</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第二号に掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">他人の商品等表示が著名になる前からその商品等表示と同一若しくは類似の商品等表示を使用する者又はその商品等表示に係る業務を承継した者がその商品等表示を不正の目的でなく使用し、又はその商品等表示を不正の目的でなく使用した商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供する行為</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第三号に掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次のいずれかに掲げる行為</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">日本国内において最初に販売された日から起算して三年を経過した商品について、その商品の形態を模倣した商品を譲渡し、貸し渡し、譲渡若しくは貸渡しのために展示し、輸出し、輸入し、又は電気通信回線を通じて提供する行為</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">他人の商品の形態を模倣した商品を譲り受けた者（その譲り受けた時にその商品が他人の商品の形態を模倣した商品であることを知らず、かつ、知らないことにつき重大な過失がない者に限る。）がその商品を譲渡し、貸し渡し、譲渡若しくは貸渡しのために展示し、輸出し、輸入し、又は電気通信回線を通じて提供する行為</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第四号から第九号までに掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">取引によって営業秘密を取得した者（その取得した時にその営業秘密について営業秘密不正開示行為であること又はその営業秘密について営業秘密不正取得行為若しくは営業秘密不正開示行為が介在したことを知らず、かつ、知らないことにつき重大な過失がない者に限る。）がその取引によって取得した権原の範囲内においてその営業秘密を使用し、又は開示する行為</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第十号に掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">第十五条第一項の規定により同項に規定する権利が消滅した後にその営業秘密を使用する行為により生じた物を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、又は電気通信回線を通じて提供する行為</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第十一号から第十六号までに掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次のいずれかに掲げる行為</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">取引によって限定提供データを取得した者（その取得した時にその限定提供データについて限定提供データ不正開示行為であること又はその限定提供データについて限定提供データ不正取得行為若しくは限定提供データ不正開示行為が介在したことを知らない者に限る。）がその取引によって取得した権原の範囲内においてその限定提供データを開示する行為</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その相当量蓄積されている情報が無償で公衆に利用可能となっている情報と同一の限定提供データを取得し、又はその取得した限定提供データを使用し、若しくは開示する行為</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第二条第一項第十七号及び第十八号に掲げる不正競争</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">技術的制限手段の試験又は研究のために用いられる同項第十七号及び第十八号に規定する装置、これらの号に規定するプログラム若しくは指令符号を記録した記録媒体若しくは記憶した機器を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、若しくは輸入し、若しくは当該プログラム若しくは指令符号を電気通信回線を通じて提供する行為又は技術的制限手段の試験又は研究のために行われるこれらの号に規定する役務を提供する行為</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項第二号から第四号までに定める行為によって営業上の利益を侵害され、又は侵害されるおそれがある者は、次の各号に掲げる行為の区分に応じて当該各号に定める者に対し、自己の商品又は営業との混同を防ぐのに適当な表示を付すべきことを請求することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前項第二号に定める行為</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">自己の氏名を使用する者（自己の氏名を使用した商品を自ら譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、又は電気通信回線を通じて提供する者を含む。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前項第三号に定める行為</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">同号の一の登録商標に係る商標権者、専用使用権者及び通常使用権者</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前項第四号に定める行為</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">他人の商品等表示と同一又は類似の商品等表示を使用する者及びその商品等表示に係る業務を承継した者（その商品等表示を使用した商品を自ら譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、又は電気通信回線を通じて提供する者を含む。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="19_2">
+          <ArticleCaption>（営業秘密に関する訴えの管轄権）</ArticleCaption>
+          <ArticleTitle>第十九条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">日本国内において事業を行う営業秘密保有者の営業秘密であって、日本国内において管理されているものに関する第二条第一項第四号、第五号、第七号又は第八号に掲げる不正競争を行った者に対する訴えは、日本の裁判所に提起することができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該営業秘密が専ら日本国外において事業の用に供されるものである場合は、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">民事訴訟法第十条の二の規定は、前項の規定により日本の裁判所が管轄権を有する訴えについて準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条中「前節」とあるのは、「不正競争防止法第十九条の二第一項」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_3">
+          <ArticleCaption>（適用範囲）</ArticleCaption>
+          <ArticleTitle>第十九条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一章、第二章及びこの章の規定は、日本国内において事業を行う営業秘密保有者の営業秘密であって、日本国内において管理されているものに関し、日本国外において第二条第一項第四号、第五号、第七号又は第八号に掲げる不正競争を行う場合についても、適用する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該営業秘密が専ら日本国外において事業の用に供されるものである場合は、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_4">
+          <ArticleCaption>（政令等への委任）</ArticleCaption>
+          <ArticleTitle>第十九条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、没収保全と滞納処分との手続の調整について必要な事項で、滞納処分に関するものは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、第三十二条の規定による第三者の参加及び裁判に関する手続、第八章に規定する没収保全及び追徴保全に関する手続並びに第九章に規定する国際共助手続について必要な事項（前項に規定する事項を除く。）は、最高裁判所規則で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定に基づき政令又は経済産業省令を制定し、又は改廃する場合においては、その政令又は経済産業省令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <Article Num="21">
+          <ArticleCaption>（罰則）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、十年以下の拘禁刑若しくは二千万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正の利益を得る目的で、又はその営業秘密保有者に損害を加える目的で、詐欺等行為（人を欺き、人に暴行を加え、又は人を脅迫する行為をいう。次号において同じ。）又は管理侵害行為（財物の窃取、施設への侵入、不正アクセス行為（不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号）第二条第四項に規定する不正アクセス行為をいう。）その他の営業秘密保有者の管理を害する行為をいう。次号において同じ。）により、営業秘密を取得したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">詐欺等行為又は管理侵害行為により取得した営業秘密を、不正の利益を得る目的で、又はその営業秘密保有者に損害を加える目的で、使用し、又は開示したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正の利益を得る目的で、又はその営業秘密保有者に損害を加える目的で、前号若しくは次項第二号から第四号までの罪、第四項第二号の罪（前号の罪に当たる開示に係る部分に限る。）又は第五項第二号の罪に当たる開示によって営業秘密を取得して、その営業秘密を使用し、又は開示したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正の利益を得る目的で、又はその営業秘密保有者に損害を加える目的で、前二号若しくは次項第二号から第四号までの罪、第四項第二号の罪（前二号の罪に当たる開示に係る部分に限る。）又は第五項第二号の罪に当たる開示が介在したことを知って営業秘密を取得して、その営業秘密を使用し、又は開示したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正の利益を得る目的で、又はその営業秘密保有者に損害を加える目的で、自己又は他人の第二号から前号まで又は第四項第三号の罪に当たる行為（技術上の秘密を使用する行為に限る。以下この号において「違法使用行為」という。）により生じた物を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、又は電気通信回線を通じて提供したとき（当該物が違法使用行為により生じた物であることの情を知らないで譲り受け、当該物を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、又は電気通信回線を通じて提供した場合を除く。）。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、十年以下の拘禁刑若しくは二千万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">営業秘密を営業秘密保有者から示された者であって、不正の利益を得る目的で、又はその営業秘密保有者に損害を加える目的で、その営業秘密の管理に係る任務に背き、次のいずれかに掲げる方法でその営業秘密を領得したもの</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">営業秘密記録媒体等（営業秘密が記載され、又は記録された文書、図画又は記録媒体をいう。以下この号において同じ。）又は営業秘密が化体された物件を横領すること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">営業秘密記録媒体等の記載若しくは記録について、又は営業秘密が化体された物件について、その複製を作成すること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">営業秘密記録媒体等の記載又は記録であって、消去すべきものを消去せず、かつ、当該記載又は記録を消去したように仮装すること。</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">営業秘密を営業秘密保有者から示された者であって、その営業秘密の管理に係る任務に背いて前号イからハまでに掲げる方法により領得した営業秘密を、不正の利益を得る目的で、又はその営業秘密保有者に損害を加える目的で、その営業秘密の管理に係る任務に背き、使用し、又は開示したもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">営業秘密を営業秘密保有者から示されたその役員（理事、取締役、執行役、業務を執行する社員、監事若しくは監査役又はこれらに準ずる者をいう。次号において同じ。）又は従業者であって、不正の利益を得る目的で、又はその営業秘密保有者に損害を加える目的で、その営業秘密の管理に係る任務に背き、その営業秘密を使用し、又は開示したもの（前号に掲げる者を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">営業秘密を営業秘密保有者から示されたその役員又は従業者であった者であって、不正の利益を得る目的で、又はその営業秘密保有者に損害を加える目的で、その在職中に、その営業秘密の管理に係る任務に背いてその営業秘密の開示の申込みをし、又はその営業秘密の使用若しくは開示について請託を受けて、その営業秘密をその職を退いた後に使用し、又は開示したもの（第二号に掲げる者を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正の利益を得る目的で、又はその営業秘密保有者に損害を加える目的で、自己又は他人の第二号から前号まで又は第五項第三号の罪に当たる行為（技術上の秘密を使用する行為に限る。以下この号において「従業者等違法使用行為」という。）により生じた物を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、又は電気通信回線を通じて提供した者（当該物が従業者等違法使用行為により生じた物であることの情を知らないで譲り受け、当該物を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、又は電気通信回線を通じて提供した者を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正の目的をもって第二条第一項第一号又は第二十号に掲げる不正競争を行ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">他人の著名な商品等表示に係る信用若しくは名声を利用して不正の利益を得る目的で、又は当該信用若しくは名声を害する目的で第二条第一項第二号に掲げる不正競争を行ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正の利益を得る目的で第二条第一項第三号に掲げる不正競争を行ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正の利益を得る目的で、又は営業上技術的制限手段を用いている者に損害を加える目的で、第二条第一項第十七号又は第十八号に掲げる不正競争を行ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">商品若しくは役務若しくはその広告若しくは取引に用いる書類若しくは通信にその商品の原産地、品質、内容、製造方法、用途若しくは数量又はその役務の質、内容、用途若しくは数量について誤認させるような虚偽の表示をしたとき（第一号に掲げる場合を除く。）。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">秘密保持命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条又は第十七条の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、十年以下の拘禁刑若しくは三千万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">日本国外において使用する目的で、第一項第一号の罪を犯したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">相手方に日本国外において第一項第二号から第四号までの罪に当たる使用をする目的があることの情を知って、これらの罪に当たる開示をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">日本国内において事業を行う営業秘密保有者の営業秘密について、日本国外において第一項第二号から第四号までの罪に当たる使用をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十八条第一項の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、十年以下の拘禁刑若しくは三千万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">日本国外において使用する目的で、第二項第一号の罪を犯した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">相手方に日本国外において第二項第二号から第四号までの罪に当たる使用をする目的があることの情を知って、これらの罪に当たる開示をした者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">日本国内において事業を行う営業秘密保有者の営業秘密について、日本国外において第二項第二号から第四号までの罪に当たる使用をした者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項、第二項（第一号を除く。）、第四項（第四号を除く。）及び前項（第一号を除く。）の罪の未遂は、罰する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三項第六号の罪は、告訴がなければ公訴を提起することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項各号（第五号を除く。）、第二項各号（第五号を除く。）、第四項第一号若しくは第二号、第五項第一号若しくは第二号又は第六項（第一項第五号又は第二項第五号に係る部分を除く。）の罪は、日本国内において事業を行う営業秘密保有者の営業秘密について、日本国外においてこれらの罪を犯した者にも適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三項第六号の罪は、日本国外において同号の罪を犯した者にも適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四項第四号の罪は、刑法（明治四十年法律第四十五号）第三条の例に従う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四項第四号の罪は、日本国内に主たる事務所を有する法人の代表者、代理人、使用人その他の従業者であって、その法人の業務に関し、日本国外において同号の罪を犯した日本国民以外の者にも適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="12">
+            <ParagraphNum>１２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項から第六項までの規定は、刑法その他の罰則の適用を妨げない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="13">
+            <ParagraphNum>１３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次に掲げる財産は、これを没収することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項、第二項、第四項（第四号を除く。）、第五項及び第六項の罪の犯罪行為により生じ、若しくは当該犯罪行為により得た財産又は当該犯罪行為の報酬として得た財産</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号に掲げる財産の果実として得た財産、同号に掲げる財産の対価として得た財産、これらの財産の対価として得た財産その他同号に掲げる財産の保有又は処分に基づき得た財産</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="14">
+            <ParagraphNum>１４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">組織的な犯罪の処罰及び犯罪収益の規制等に関する法律（平成十一年法律第百三十六号。以下「組織的犯罪処罰法」という。）第十四条及び第十五条の規定は、前項の規定による没収について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、組織的犯罪処罰法第十四条中「前条第一項各号又は第四項各号」とあるのは、「不正競争防止法第二十一条第十三項各号」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="15">
+            <ParagraphNum>１５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十三項各号に掲げる財産を没収することができないとき、又は当該財産の性質、その使用の状況、当該財産に関する犯人以外の者の権利の有無その他の事情からこれを没収することが相当でないと認められるときは、その価額を犯人から追徴することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、次の各号に掲げる規定の違反行為をしたときは、行為者を罰するほか、その法人に対して当該各号に定める罰金刑を、その人に対して各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前条第四項又は第六項（同条第四項に係る部分に限る。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">十億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前条第一項又は第六項（同条第一項に係る部分に限る。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">五億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前条第三項</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">三億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、当該行為者に対してした前条第三項第六号の罪に係る同条第七項の告訴は、その法人又は人に対しても効力を生じ、その法人又は人に対してした告訴は、当該行為者に対しても効力を生ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により前条第一項、第三項、第四項又は第六項（同条第一項又は第四項に係る部分に限る。）の違反行為につき法人又は人に罰金刑を科する場合における時効の期間は、これらの規定の罪についての時効の期間による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　刑事訴訟手続の特例</ChapterTitle>
+        <Article Num="23">
+          <ArticleCaption>（営業秘密の秘匿決定等）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第二十一条第一項、第二項、第四項（第四号を除く。）、第五項若しくは第六項の罪又は前条第一項（第三号を除く。）の罪に係る事件を取り扱う場合において、当該事件の被害者若しくは当該被害者の法定代理人又はこれらの者から委託を受けた弁護士から、当該事件に係る営業秘密を構成する情報の全部又は一部を特定させることとなる事項を公開の法廷で明らかにされたくない旨の申出があるときは、被告人又は弁護人の意見を聴き、相当と認めるときは、その範囲を定めて、当該事項を公開の法廷で明らかにしない旨の決定をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の申出は、あらかじめ、検察官にしなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、検察官は、意見を付して、これを裁判所に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第一項に規定する事件を取り扱う場合において、検察官又は被告人若しくは弁護人から、被告人その他の者の保有する営業秘密を構成する情報の全部又は一部を特定させることとなる事項を公開の法廷で明らかにされたくない旨の申出があるときは、相手方の意見を聴き、当該事項が犯罪の証明又は被告人の防御のために不可欠であり、かつ、当該事項が公開の法廷で明らかにされることにより当該営業秘密に基づく被告人その他の者の事業活動に著しい支障を生ずるおそれがあると認める場合であって、相当と認めるときは、その範囲を定めて、当該事項を公開の法廷で明らかにしない旨の決定をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第一項又は前項の決定（以下「秘匿決定」という。）をした場合において、必要があると認めるときは、検察官及び被告人又は弁護人の意見を聴き、決定で、営業秘密構成情報特定事項（秘匿決定により公開の法廷で明らかにしないこととされた営業秘密を構成する情報の全部又は一部を特定させることとなる事項をいう。以下同じ。）に係る名称その他の表現に代わる呼称その他の表現を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、秘匿決定をした事件について、営業秘密構成情報特定事項を公開の法廷で明らかにしないことが相当でないと認めるに至ったとき、又は刑事訴訟法（昭和二十三年法律第百三十一号）第三百十二条の規定により罰条が撤回若しくは変更されたため第一項に規定する事件に該当しなくなったときは、決定で、秘匿決定の全部又は一部及び当該秘匿決定に係る前項の決定（以下「呼称等の決定」という。）の全部又は一部を取り消さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleCaption>（起訴状の朗読方法の特例）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">秘匿決定があったときは、刑事訴訟法第二百九十一条第一項の起訴状の朗読は、営業秘密構成情報特定事項を明らかにしない方法でこれを行うものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、検察官は、被告人に起訴状を示さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">刑事訴訟法第二百七十一条の二第四項の規定による措置がとられた場合（当該措置に係る個人特定事項（同法第二百一条の二第一項に規定する個人特定事項をいう。以下この項において同じ。）の全部について同法第二百七十一条の五第一項の決定があった場合を除く。）における前項後段の規定の適用については、同項後段中「起訴状」とあるのは、当該措置に係る個人特定事項の一部について同法第二百七十一条の五第一項の決定があった場合にあっては「起訴状抄本等（同法第二百七十一条の二第二項に規定する起訴状抄本等をいう。）及び同法第二百七十一条の五第四項に規定する書面」と、それ以外の場合にあっては「起訴状抄本等（同法第二百七十一条の二第二項に規定する起訴状抄本等をいう。）」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（尋問等の制限）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判長は、秘匿決定があった場合において、訴訟関係人のする尋問又は陳述が営業秘密構成情報特定事項にわたるときは、これを制限することにより、犯罪の証明に重大な支障を生ずるおそれがある場合又は被告人の防御に実質的な不利益を生ずるおそれがある場合を除き、当該尋問又は陳述を制限することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">訴訟関係人の被告人に対する供述を求める行為についても、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">刑事訴訟法第二百九十五条第五項及び第六項の規定は、前項の規定による命令を受けた検察官又は弁護士である弁護人がこれに従わなかった場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（公判期日外の証人尋問等）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、秘匿決定をした場合において、証人、鑑定人、通訳人若しくは翻訳人を尋問するとき、又は被告人が任意に供述をするときは、検察官及び被告人又は弁護人の意見を聴き、証人、鑑定人、通訳人若しくは翻訳人の尋問若しくは供述又は被告人に対する供述を求める行為若しくは被告人の供述が営業秘密構成情報特定事項にわたり、かつ、これが公開の法廷で明らかにされることにより当該営業秘密に基づく被害者、被告人その他の者の事業活動に著しい支障を生ずるおそれがあり、これを防止するためやむを得ないと認めるときは、公判期日外において当該尋問又は刑事訴訟法第三百十一条第二項及び第三項に規定する被告人の供述を求める手続をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">刑事訴訟法第百五十七条第一項及び第二項、第百五十八条第二項及び第三項、第百五十九条第一項、第二百七十三条第二項、第二百七十四条並びに第三百三条の規定は、前項の規定による被告人の供述を求める手続について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第百五十七条第一項、第百五十八条第三項及び第百五十九条第一項中「被告人又は弁護人」とあるのは「弁護人、共同被告人又はその弁護人」と、同法第百五十八条第二項中「被告人及び弁護人」とあるのは「弁護人、共同被告人及びその弁護人」と、同法第二百七十三条第二項中「公判期日」とあるのは「不正競争防止法第二十六条第一項の規定による被告人の供述を求める手続の期日」と、同法第二百七十四条中「公判期日」とあるのは「不正競争防止法第二十六条第一項の規定による被告人の供述を求める手続の日時及び場所」と、同法第三百三条中「証人その他の者の尋問、検証、押収及び捜索の結果を記載した書面並びに押収した物」とあるのは「不正競争防止法第二十六条第一項の規定による被告人の供述を求める手続の結果を記載した書面」と、「証拠書類又は証拠物」とあるのは「証拠書類」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（尋問等に係る事項の要領を記載した書面の提示命令）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、呼称等の決定をし、又は前条第一項の規定により尋問若しくは被告人の供述を求める手続を公判期日外においてする旨を定めるに当たり、必要があると認めるときは、検察官及び被告人又は弁護人に対し、訴訟関係人のすべき尋問若しくは陳述又は被告人に対する供述を求める行為に係る事項の要領を記載した書面の提示を命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（証拠書類の朗読方法の特例）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">秘匿決定があったときは、刑事訴訟法第三百五条第一項若しくは第二項の規定による証拠書類の朗読又は同法第三百七条の二第一項若しくは第二項の規定による電磁的記録の内容の朗読は、営業秘密構成情報特定事項を明らかにしない方法でこれを行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（公判前整理手続等における決定）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次に掲げる事項は、公判前整理手続及び期日間整理手続において行うことができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">秘匿決定若しくは呼称等の決定又はこれらの決定を取り消す決定をすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十六条第一項の規定により尋問又は被告人の供述を求める手続を公判期日外においてする旨を定めること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（証拠開示の際の営業秘密の秘匿要請）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">検察官又は弁護人は、第二十三条第一項に規定する事件について、刑事訴訟法第二百九十九条第一項の規定により証拠書類又は証拠物を閲覧する機会を与えるに当たり、第二十三条第一項又は第三項に規定する営業秘密を構成する情報の全部又は一部を特定させることとなる事項が明らかにされることにより当該営業秘密に基づく被害者、被告人その他の者の事業活動に著しい支障を生ずるおそれがあると認めるときは、相手方に対し、その旨を告げ、当該事項が、犯罪の証明若しくは犯罪の捜査又は被告人の防御に関し必要がある場合を除き、関係者（被告人を含む。）に知られないようにすることを求めることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、被告人に知られないようにすることを求めることについては、当該事項のうち起訴状に記載された事項以外のものに限る。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定は、検察官又は弁護人が刑事訴訟法第二編第三章第二節第一款第二目（同法第三百十六条の二十八第二項において準用する場合を含む。）の規定による証拠の開示をする場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（最高裁判所規則への委任）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、第二十三条から前条までの規定の実施に関し必要な事項は、最高裁判所規則で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　没収に関する手続等の特例</ChapterTitle>
+        <Article Num="32">
+          <ArticleCaption>（第三者の財産の没収手続等）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十一条第十三項各号に掲げる財産である債権等（不動産及び動産以外の財産をいう。第三十四条において同じ。）が被告人以外の者（以下この条において「第三者」という。）に帰属する場合において、当該第三者が被告事件の手続への参加を許されていないときは、没収の裁判をすることができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十一条第十三項の規定により、地上権、抵当権その他の第三者の権利がその上に存在する財産を没収しようとする場合において、当該第三者が被告事件の手続への参加を許されていないときも、前項と同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">組織的犯罪処罰法第十八条第三項から第五項までの規定は、地上権、抵当権その他の第三者の権利がその上に存在する財産を没収する場合において、第二十一条第十四項において準用する組織的犯罪処罰法第十五条第二項の規定により当該権利を存続させるべきときについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項及び第二項に規定する財産の没収に関する手続については、この法律に特別の定めがあるもののほか、刑事事件における第三者所有物の没収手続に関する応急措置法（昭和三十八年法律第百三十八号）の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（没収された債権等の処分等）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">組織的犯罪処罰法第十九条の規定は第二十一条第十三項の規定による没収について、組織的犯罪処罰法第二十条の規定は権利の移転について登記又は登録を要する財産を没収する裁判に基づき権利の移転の登記又は登録を関係機関に嘱託する場合について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条中「次章第一節」とあるのは、「不正競争防止法第八章」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（刑事補償の特例）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">債権等の没収の執行に対する刑事補償法（昭和二十五年法律第一号）による補償の内容については、同法第四条第六項の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="8">
+        <ChapterTitle>第八章　保全手続</ChapterTitle>
+        <Article Num="35">
+          <ArticleCaption>（没収保全命令）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第二十一条第一項、第二項、第四項（第四号を除く。）、第五項及び第六項の罪に係る被告事件に関し、同条第十三項の規定により没収することができる財産に当たると思料するに足りる相当な理由があり、かつ、当該財産を没収するため必要があると認めるときは、検察官の請求により、又は職権で、没収保全命令を発して、当該財産につき、その処分を禁止することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、地上権、抵当権その他の権利がその上に存在する財産について没収保全命令を発した場合又は発しようとする場合において、当該権利が没収により消滅すると思料するに足りる相当な理由がある場合であって当該財産を没収するため必要があると認めるとき、又は当該権利が仮装のものであると思料するに足りる相当の理由があると認めるときは、検察官の請求により、又は職権で、附帯保全命令を別に発して、当該権利の処分を禁止することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判官は、前二項に規定する理由及び必要があると認めるときは、公訴が提起される前であっても、検察官又は司法警察員（警察官たる司法警察員については、国家公安委員会又は都道府県公安委員会が指定する警部以上の者に限る。）の請求により、前二項に規定する処分をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項に定めるもののほか、これらの規定による処分については、組織的犯罪処罰法第四章第一節及び第三節の規定による没収保全命令及び附帯保全命令による処分の禁止の例による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（追徴保全命令）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第二十一条第一項、第二項、第四項（第四号を除く。）、第五項及び第六項の罪に係る被告事件に関し、同条第十五項の規定により追徴すべき場合に当たると思料するに足りる相当な理由がある場合において、追徴の裁判の執行をすることができなくなるおそれがあり、又はその執行をするのに著しい困難を生ずるおそれがあると認めるときは、検察官の請求により、又は職権で、追徴保全命令を発して、被告人に対し、その財産の処分を禁止することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判官は、前項に規定する理由及び必要があると認めるときは、公訴が提起される前であっても、検察官の請求により、同項に規定する処分をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に定めるもののほか、これらの規定による処分については、組織的犯罪処罰法第四章第二節及び第三節の規定による追徴保全命令による処分の禁止の例による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="9">
+        <ChapterTitle>第九章　没収及び追徴の裁判の執行及び保全についての国際共助手続等</ChapterTitle>
+        <Article Num="37">
+          <ArticleCaption>（共助の実施）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">外国の刑事事件（当該事件において犯されたとされている犯罪に係る行為が日本国内において行われたとした場合において、当該行為が第二十一条第一項、第二項、第四項（第四号を除く。）、第五項又は第六項の罪に当たる場合に限る。）に関して、当該外国から、没収若しくは追徴の確定裁判の執行又は没収若しくは追徴のための財産の保全の共助の要請があったときは、次の各号のいずれかに該当する場合を除き、当該要請に係る共助をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">共助犯罪（共助の要請において犯されたとされている犯罪をいう。以下この項において同じ。）に係る行為が日本国内において行われたとした場合において、日本国の法令によればこれについて刑罰を科すことができないと認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">共助犯罪に係る事件が日本国の裁判所に係属するとき、又はその事件について日本国の裁判所において確定判決を経たとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">没収の確定裁判の執行の共助又は没収のための保全の共助については、共助犯罪に係る行為が日本国内において行われたとした場合において、要請に係る財産が日本国の法令によれば共助犯罪について没収の裁判をし、又は没収保全をすることができる財産に当たるものでないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">追徴の確定裁判の執行の共助又は追徴のための保全の共助については、共助犯罪に係る行為が日本国内において行われたとした場合において、日本国の法令によれば共助犯罪について追徴の裁判をし、又は追徴保全をすることができる場合に当たるものでないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">没収の確定裁判の執行の共助については要請に係る財産を有し又はその財産の上に地上権、抵当権その他の権利を有すると思料するに足りる相当な理由のある者が、追徴の確定裁判の執行の共助については当該裁判を受けた者が、自己の責めに帰することのできない理由により、当該裁判に係る手続において自己の権利を主張することができなかったと認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">没収又は追徴のための保全の共助については、要請国の裁判所若しくは裁判官のした没収若しくは追徴のための保全の裁判に基づく要請である場合又は没収若しくは追徴の裁判の確定後の要請である場合を除き、共助犯罪に係る行為が行われたと疑うに足りる相当な理由がないとき、又は当該行為が日本国内で行われたとした場合において第三十五条第一項又は前条第一項に規定する理由がないと認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地上権、抵当権その他の権利がその上に存在する財産に係る没収の確定裁判の執行の共助をするに際し、日本国の法令により当該財産を没収するとすれば当該権利を存続させるべき場合に当たるときは、これを存続させるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleCaption>（追徴とみなす没収）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十一条第十三項各号に掲げる財産に代えて、その価額が当該財産の価額に相当する財産であって当該裁判を受けた者が有するものを没収する確定裁判の執行に係る共助の要請にあっては、当該確定裁判は、この法律による共助の実施については、その者から当該財産の価額を追徴する確定裁判とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定は、第二十一条第十三項各号に掲げる財産に代えて、その価額が当該財産の価額に相当する財産を没収するための保全に係る共助の要請について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39">
+          <ArticleCaption>（要請国への共助の実施に係る財産等の譲与）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十七条第一項に規定する没収又は追徴の確定裁判の執行の共助の要請をした外国から、当該共助の実施に係る財産又はその価額に相当する金銭の譲与の要請があったときは、その全部又は一部を譲与することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="40">
+          <ArticleCaption>（組織的犯罪処罰法による共助等の例）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三条に定めるもののほか、第三十七条の規定による共助及び前条の規定による譲与については、組織的犯罪処罰法第六章の規定による共助及び譲与の例による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">改正後の不正競争防止法（以下「新法」という。）の規定は、特別の定めがある場合を除いては、この法律の施行前に生じた事項にも適用する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、改正前の不正競争防止法（以下「旧法」という。）によって生じた効力を妨げない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条、第四条本文及び第五条の規定は、この法律の施行前に開始した次に掲げる行為を継続する行為については、適用しない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第一項第二号に掲げる行為に該当するもの（同項第一号に掲げる行為に該当するものを除く。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第一項第二十号に掲げる行為のうち、役務若しくはその広告若しくは取引に用いる書類若しくは通信にその役務の質、内容、用途若しくは数量について誤認させるような表示をし、又はその表示をして役務を提供する行為に該当するもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条から第五条まで、第十四条及び第十五条第一項の規定は、平成三年六月十五日前に行われた第二条第一項第四号に規定する営業秘密不正取得行為又は同項第八号に規定する営業秘密不正開示行為に係る同項第四号から第六号まで、第八号又は第九号に掲げる不正競争であって同日以後に行われるもの（次の各号に掲げる行為に該当するものを除く。）及び同日前に開始した同項第七号に規定する営業秘密を使用する行為を継続する行為については、適用しない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第一項第四号から第六号まで、第八号及び第九号に規定する営業秘密を開示する行為</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第一項第五号及び第八号に規定する営業秘密を取得する行為並びにこれらの行為により取得した営業秘密を使用する行為</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第七条の規定は、この法律の施行後に提起された訴えについて適用し、この法律の施行前に提起された訴えについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第十四条の規定は、この法律の施行前に開始した第二条第一項第二号又は第二十号に掲げる行為に該当するもの（同項第一号に掲げる行為に該当するものを除く。）を継続する行為については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に旧法第四条第一項から第三項まで又は第四条ノ二に規定する許可を受けている者は、それぞれ、新法第十六条第一項ただし書、第二項ただし書若しくは第三項ただし書又は第十七条ただし書に規定する許可を受けた者とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第十六条の規定は、この法律の施行の際現に旧法第四条第四項に規定する許可を受けている者については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新法第十七条の規定は、この法律の施行前に開始した同条に規定する国際機関類似標章（旧法第四条ノ二に規定する政府間国際機関ノ紋章、旗章其ノ他ノ徽章、略称又ハ名称ニシテ主務大臣ノ指定スルモノト同一又ハ類似ノモノを除く。以下「民間国際機関類似標章」という。）を商標として使用し、又は民間国際機関類似標章を商標として使用した商品を譲渡し、引き渡し、譲渡若しくは引渡しのために展示し、輸出し、輸入し、若しくは電気通信回線を通じて提供し、若しくは民間国際機関類似標章を商標として使用して役務を提供する行為に該当するものを継続する行為については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二十一条及び第二十二条の規定は、この法律の施行前に開始した附則第三条第二号に掲げる行為に該当するものを継続する行為については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に関する旧法第三条に規定する外国人が行う同条に規定する請求については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から第十一条まで及び前条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成六年一二月一四日法律第一一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成七年七月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中特許法第三十条第三項の改正規定、第五条の規定（商標法第十条第三項、第十三条第一項、第四十四条第二項及び第六十三条の二の改正規定を除く。）及び第九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成七年七月一日又は世界貿易機関を設立するマラケシュ協定が日本国について効力を生ずる日（以下「発効日」という。）のいずれか遅い日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の各改正規定の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる事項に係るこの法律の各改正規定の施行後にした行為に対する罰則の適用については、それぞれなお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成八年六月一二日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成九年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中商標法第四条第一項第二号及び第五号の改正規定、同法第九条第一項の改正規定、同法第九条の二の前に見出しを付す改正規定、同法第九条の二の次に一条を加える改正規定、同法第十三条第一項の改正規定並びに同法第五十三条の二の改正規定並びに第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">商標法条約が日本国について効力を生ずる日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一〇年九月二八日法律第一一一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、国際商取引における外国公務員に対する贈賄の防止に関する条約が日本国について効力を生ずる日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年四月二三日法律第三三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、平成十一年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一三年六月二九日法律第八一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条に定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年五月二三日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正後の不正競争防止法第九条の規定は、この法律の施行前に、第二審である高等裁判所又は地方裁判所における口頭弁論が終結した事件及び簡易裁判所の判決又は地方裁判所が第一審としてした判決に対して上告をする権利を留保して控訴をしない旨の合意をした事件については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年五月二六日法律第五一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、平成十七年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月一八日法律第一二〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成十七年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置の原則）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律による改正後の裁判所法、民事訴訟法、民事訴訟費用等に関する法律、特許法、実用新案法、意匠法、商標法、不正競争防止法及び著作権法の規定（罰則を除く。）は、この附則に特別の定めがある場合を除き、この法律の施行前に生じた事項にも適用する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この法律による改正前のこれらの法律の規定により生じた効力を妨げない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（特許法等の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">次に掲げる規定は、この法律の施行前に、訴訟の完結した事件、第二審である高等裁判所又は地方裁判所における口頭弁論が終結した事件及び簡易裁判所の判決又は地方裁判所が第一審としてした判決に対して上告をする権利を留保して控訴をしない旨の合意をした事件については、適用しない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:3">
+            <ItemTitle>一から三まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第八条の規定による改正後の不正競争防止法第十条から第十二条までの規定</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年六月二九日法律第七五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定による改正後の不正競争防止法第二条第一項第三号の規定は、この法律の施行後にした同号に掲げる行為について適用し、この法律の施行前にした第一条の規定による改正前の不正競争防止法第二条第一項第三号に掲げる行為については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年七月二六日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、会社法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年六月七日法律第五五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中意匠法第二条第三項、第三十八条、第四十四条の三及び第五十五条の改正規定、第六十九条の見出しを削る改正規定、同条の前に見出しを付する改正規定、同条の改正規定、同条の次に一条を加える改正規定並びに第七十四条の改正規定、第二条中特許法第二条、第百一条、第百十二条の三及び第百七十五条の改正規定、第百九十六条の見出しを削る改正規定、同条の前に見出しを付する改正規定、同条の改正規定、同条の次に一条を加える改正規定並びに第二百一条の改正規定、第三条の規定、第四条中商標法第二条第三項、第三十七条及び第六十七条の改正規定、第七十八条の見出しを削る改正規定、同条の前に見出しを付する改正規定、同条の改正規定、同条の次に一条を加える改正規定並びに第八十二条の改正規定並びに第五条の規定並びに次条第三項並びに附則第三条第二項、第四条、第五条第二項、第九条、第十二条、第十三条及び第十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成十九年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から第十一条まで及び前条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年四月三〇日法律第三〇号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月八日法律第六二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第六十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">不正競争防止法の一部を改正する法律（平成二十三年法律第六十二号。同条及び附則第六十三条において「不正競争防止法一部改正法」という。）の公布の日又は施行日のいずれか遅い日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年三月三一日法律第一二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一月を経過した日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年七月一〇日法律第五四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第十五条の改正規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正後の不正競争防止法第五条の二の規定は、この法律の施行前にこの法律による改正前の不正競争防止法（以下「旧法」という。）第二条第一項第四号、第五号又は第八号に規定する行為（旧法第二条第六項に規定する営業秘密を取得する行為に限る。）があった場合における当該営業秘密を取得する行為をした者については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧法第三条第一項の規定による侵害の停止又は予防を請求する権利の旧法第十五条後段に規定する期間がこの法律の施行の際既に経過していた場合については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前三条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年六月三日法律第五四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条（前号に掲げる改正規定を除く。）及び第六条の規定並びに次条並びに附則第四条、第六条、第八条、第十条、第十一条（裁判員の参加する刑事裁判に関する法律（平成十六年法律第六十三号）第六十四条第一項の表第四十三条第四項、第六十九条、第七十六条第二項、第八十五条、第百八条第三項、第百二十五条第一項、第百六十三条第一項、第百六十九条、第二百七十八条の二第二項、第二百九十七条第二項、第三百十六条の十一の項及び第六十五条第四項の改正規定に限る。）及び第十二条から第十五条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、民法改正法の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第百三条の二、第百三条の三、第二百六十七条の二、第二百六十七条の三及び第三百六十二条の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年五月三〇日法律第三三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十八条及び第三十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中不正競争防止法第二条第一項第十一号の改正規定（同号を同項第十七号とする部分を除く。）、同項第十二号の改正規定（同号を同項第十八号とする部分を除く。）、同条第七項の改正規定（「（電子的方法、磁気的方法その他の人の知覚によって認識することができない方法をいう。）」を削る部分及び同項を同条第八項とする部分を除く。）及び第十九条第一項第八号の改正規定（「第二条第一項第十一号及び第十二号」を「第二条第一項第十七号及び第十八号」に、「同項第十一号及び第十二号」を「同項第十七号及び第十八号」に改める部分及び同号を同項第九号とする部分を除く。）並びに次条第二項及び附則第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（不正競争防止法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定（前条第三号に掲げる改正規定を除く。）による改正後の不正競争防止法（以下この項において「新不競法」という。）第三条から第五条まで、第十四条及び第十五条第二項の規定は、この法律の施行の日（以下「施行日」という。）前に行われた新不競法第二条第一項第十一号に規定する限定提供データ不正取得行為に相当する行為又は同項第十五号に規定する限定提供データ不正開示行為に相当する行為に係る同項第十一号から第十三号まで、第十五号又は第十六号に掲げる不正競争であって施行日以後に行われるもの（次の各号に掲げる行為に相当する行為に該当するものを除く。）及び施行日前に開始した同項第十四号に規定する限定提供データを使用する行為に相当する行為を継続する行為については、適用しない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">新不競法第二条第一項第十一号から第十三号まで、第十五号及び第十六号に規定する限定提供データを開示する行為</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">新不競法第二条第一項第十二号及び第十五号に規定する限定提供データを取得する行為並びにこれらの行為により取得した限定提供データを使用する行為</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第三号に掲げる規定の施行の日から施行日までの間における第一条の規定（同号に掲げる改正規定に限る。）による改正後の不正競争防止法第二条第一項第十一号の規定の適用については、同号中「第八項」とあるのは、「第七項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二五日法律第四八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して四年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条の規定並びに附則第六十条中商業登記法（昭和三十八年法律第百二十五号）第五十二条第二項の改正規定及び附則第百二十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="125">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百二十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年五月一七日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して五年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中刑事訴訟法第三百四十四条に一項を加える改正規定、第二条中刑法第九十七条及び第九十八条の改正規定並びに第三条中出入国管理及び難民認定法第七十二条の改正規定（第一号を削り、第二号を第一号とし、第三号から第八号までを一号ずつ繰り上げる部分に限る。第六号において「第七十二条第一号を削る改正規定」という。）並びに附則第五条第一項及び第二項、第八条第四項並びに第二十条の規定、附則第二十四条中国際受刑者移送法（平成十四年法律第六十六号）第四十二条の改正規定、附則第二十七条中刑事収容施設及び被収容者等の処遇に関する法律（平成十七年法律第五十号）第二百九十三条の改正規定、附則第二十八条第二項、第三十条及び第三十一条の規定、附則第三十二条中少年鑑別所法（平成二十六年法律第五十九号）第百三十二条の改正規定、附則第三十五条のうち、刑法等の一部を改正する法律（令和四年法律第六十七号。以下「刑法等一部改正法」という。）第三条中刑事訴訟法第三百四十四条の改正規定の改正規定及び刑法等一部改正法第十一条中少年鑑別所法第百三十二条の改正規定を削る改正規定並びに附則第三十六条及び第四十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二十日を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中刑事訴訟法第百九十九条第二項の改正規定、同法第二百一条の次に一条を加える改正規定、同法第二百七条の次に二条を加える改正規定、同法第二百八条第一項の改正規定、同法第二百二十四条に一項を加える改正規定、同条の次に一条を加える改正規定、同法第二百五十六条の次に一条を加える改正規定、同法第二百七十一条の次に七条を加える改正規定、同法第二百九十条の二第一項、第二百九十一条、第二百九十一条の二、第二百九十九条の三ただし書、第二百九十九条の四、第二百九十九条の五、第二百九十九条の六、第二百九十九条の七及び第三百十二条の改正規定、同条の次に一条を加える改正規定、同法第三百十六条の五、第三百十六条の十一、第三百十六条の二十三第三項、第三百四十三条、第三百五十条の二十二、第四百二十九条及び第四百六十三条の改正規定並びに同法第四百六十八条に三項を加える改正規定並びに附則第四条の規定、附則第十六条中日米地位協定刑事特別法第十二条の改正規定、附則第十七条中日国連裁判権議定書刑事特別法第四条の改正規定、附則第十九条中日国連地位協定刑事特別法第四条の改正規定、附則第二十一条から第二十三条までの規定、附則第二十六条中裁判員の参加する刑事裁判に関する法律第六十四条第一項の表第四十三条第四項、第六十九条、第七十六条第三項、第八十五条、第百八条第三項、第百二十五条第一項、第百六十三条第一項、第百六十九条、第二百七十八条の二第二項、第二百九十七条第二項、第三百十六条の十一の項の改正規定（「第百六十九条」の下に「、第二百七十一条の八第一項及び第四項」を加える部分に限る。）、附則第三十三条及び第三十四条の規定並びに附則第三十五条のうち刑法等一部改正法第三条中刑事訴訟法第三百四十三条の改正規定の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して九月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一四日法律第五一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中特許法第百八十四条の九第五項の改正規定、同法第百八十六条第一項及び第二項の改正規定並びに同法第百九十一条第一項及び第二項の改正規定、第三条中実用新案法第五十五条第一項の改正規定、第四条中意匠法第六十三条第一項及び第二項の改正規定並びに附則第三条及び第七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（不正競争防止法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定による改正後の不正競争防止法（以下この条において「新不競法」という。）第三条から第五条まで、第十四条及び第十五条第二項の規定は、この法律の施行の日（以下「施行日」という。）前に次の各号に掲げる不正競争に相当する行為により取得した新不競法第二条第七項の規定により新たに限定提供データとなる情報（以下この項において「新限定提供データ」という。）に係る当該各号に定める不正競争であって施行日以後に行われるもの及び施行日前に開始した新限定提供データに係る同条第一項第十四号に掲げる不正競争（限定提供データを使用する行為に限る。）に相当する行為を施行日以後も継続する行為については、適用しない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">新不競法第二条第一項第十一号に規定する限定提供データ不正取得行為</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">同号に掲げる不正競争（限定提供データを使用する行為に限る。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">新不競法第二条第一項第十二号に掲げる不正競争（限定提供データを取得する行為に限る。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">同号に掲げる不正競争（限定提供データを使用する行為に限る。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">新不競法第二条第一項第十五号に掲げる不正競争（限定提供データを取得する行為に限る。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">同号に掲げる不正競争（限定提供データを使用する行為に限る。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新不競法第五条の二第二項の規定は、施行日前に開始した同項に規定する保有に相当する行為を継続する場合における施行日以後に行われる同条第一項に規定する生産等（次項及び第四項において「生産等」という。）については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新不競法第五条の二第三項の規定は、施行日前に同項に規定する領得に相当する行為があった場合における施行日以後に行われる生産等については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新不競法第五条の二第四項の規定は、施行日前に開始した同項に規定する保有に相当する行為を継続する場合における施行日以後に行われる生産等については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法等の一部を改正する法律（令和四年法律第六十七号）の施行の日（以下この項において「刑法施行日」という。）の前日までの間における新不競法第二十一条第二項及び第五項の規定の適用については、これらの規定中「拘禁刑」とあるのは、「懲役」とする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">刑法施行日以後における刑法施行日前にした行為に対するこれらの規定の適用についても、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年四月二三日法律第二六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二三日法律第三九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和九年三月三十一日までの間において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第三条第四項、第五条第四項、第十条第二項、第十八条第二項、第三十九条及び第四十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条のうち、刑事訴訟法第三百七条の二の改正規定、同法中同条を第三百七条の三とし、第三百七条の次に一条を加える改正規定並びに同法第三百二十一条第一項第一号及び第三百五十条の二十四第一項の改正規定、第三条の規定、第十七条の規定、第二十二条中不正競争防止法第二十八条の改正規定、第二十三条中組織的な犯罪の処罰及び犯罪収益の規制等に関する法律（以下「組織的犯罪処罰法」という。）別表第一第四号及び第十号並びに別表第三第二号ヌの改正規定、第二十四条中犯罪捜査のための通信傍受に関する法律別表第二第二号の改正規定並びに第三十条中国際刑事裁判所に対する協力等に関する法律第六十四条の次に一条を加える改正規定並びに附則第八条、第二十一条第二項及び第二十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二十日を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+             <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第一条の規定（前号に掲げる改正規定を除く。）、第五条中少年法第六条の五及び第十五条の改正規定、第九条中日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う刑事特別法第十三条の改正規定、第十二条中日本国における国際連合の軍隊に対する刑事裁判権の行使に関する議定書の実施に伴う刑事特別法第五条の改正規定、第十四条中日本国における国際連合の軍隊の地位に関する協定の実施に伴う刑事特別法第五条の改正規定、第十八条中国際捜査共助等に関する法律第八条第二項及び第十二条の改正規定、第二十一条の規定、第二十二条中不正競争防止法第二十六条第二項の改正規定（「記載した書面」」を「記載し、又は記録した書面又は電磁的記録」」に、「証拠書類」」を「証拠書類（電磁的記録を含む。）」」に改める部分を除く。）、同法第三十三条の改正規定及び同条の次に一条を加える改正規定、第二十三条中組織的犯罪処罰法第十八条の二の次に二条を加える改正規定、組織的犯罪処罰法第二十条の改正規定、組織的犯罪処罰法第三十条の次に二条を加える改正規定並びに組織的犯罪処罰法第三十一条第一項及び第七十一条第一項第七号の改正規定、第二十六条中国際受刑者移送法第二十一条の改正規定（「第四百八十七条」を「第四百八十七条第一項」に改める部分を除く。）、第二十七条中心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律（次条第一項及び附則第十八条第一項において「医療観察法」という。）第二十四条第三項及び第四項の改正規定、第二十八条中裁判員の参加する刑事裁判に関する法律第六十五条第二項の改正規定並びに第三十四条中性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律目次及び第八条第一項第二号の改正規定、同法第四章第二節に一条を加える改正規定、同法第十二条の改正規定、同条の次に一条を加える改正規定、同法第十三条の改正規定、同法第十七条の見出し並びに同条第一項、第二項及び第五項の改正規定、同法第十八条の見出しを削り、同条の前に見出しを付し、同条の次に一条を加える改正規定、同法第十九条の改正規定、同法第二十条の見出し並びに同条第一項及び第二項の改正規定、同法第四章第四節に二条を加える改正規定並びに同法第二十六条第一項第一号、第四十条第一項第三号及び第四十四条第一号の改正規定並びに次条並びに附則第十五条及び第二十九条の規定、附則第三十五条中刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律（令和四年法律第六十八号）第四百九十一条第七項の改正規定（「及び第九項から第十一項まで並びに第五百十四条」を「、第六項及び第十一項から第十三項まで並びに第五百十三条の二」に改める部分に限る。）、附則第三十八条中財務省設置法（平成十一年法律第九十五号）第二十七条第二項ただし書の改正規定並びに附則第四十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="39">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="41">
+        <ArticleCaption>（映像等の送受信による通話に係る取組の推進）</ArticleCaption>
+        <ArticleTitle>第四十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、被告人又は被疑者（以下「被告人等」という。）にとって、弁護人又は弁護人を選任することができる者の依頼により弁護人となろうとする者（弁護士でない者にあっては、刑事訴訟法第三十一条第二項の許可があった後に限る。）（以下「弁護人等」という。）の援助を受けることが重要であることに鑑み、同法第三十九条第一項の規定による接見のほかに、身体の拘束を受けている被告人等と弁護人等との間における映像と音声の送受信による通話を可能とするための運用上の措置について、地域の実情を踏まえ、被告人等と弁護人等との間の秘密の確保に配慮するとともに不正行為等の防止に万全を期しつつ、必要な取組を推進するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
