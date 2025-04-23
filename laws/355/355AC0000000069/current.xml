@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Showa" Year="55" Num="069" PromulgateMonth="05" PromulgateDay="29" LawType="Act"><LawNum>昭和五十五年法律第六十九号</LawNum><LawBody><LawTitle Kana="こくさいそうさきょうじょとうにかんするほうりつ" Abbrev="国際捜査共助法" AbbrevKana="こ">国際捜査共助等に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　証拠の収集等</ChapterTitle>
+        <ArticleRange>（第五条―第十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　国内受刑者に係る受刑者証人移送</ChapterTitle>
+        <ArticleRange>（第十九条―第二十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　外国受刑者の拘禁</ChapterTitle>
+        <ArticleRange>（第二十三条―第二十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">共助</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">外国の要請により、当該外国の刑事事件の捜査に必要な証拠の提供（受刑者証人移送を含む。）をすることをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">要請国</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">日本国に対して共助の要請をした外国をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">共助犯罪</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">要請国からの共助の要請において捜査の対象とされている犯罪をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">受刑者証人移送</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">条約により刑事手続における証人尋問に証人として出頭させることを可能とするために移送すべきものとされている場合において、刑の執行として拘禁されている者を国際的に移送することをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（共助の制限）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、共助をすることはできない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">共助犯罪が政治犯罪であるとき、又は共助の要請が政治犯罪について捜査する目的で行われたものと認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">条約に別段の定めがある場合を除き、共助犯罪に係る行為が日本国内において行われたとした場合において、その行為が日本国の法令によれば罪に当たるものでないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">証人尋問又は証拠物の提供に係る要請については、条約に別段の定めがある場合を除き、その証拠が捜査に欠くことのできないものであることを明らかにした要請国の書面がないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（要請の受理及び証拠の送付）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">共助の要請の受理及び要請国に対する証拠の送付は、外務大臣が行う。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、条約に基づき法務大臣が共助の要請の受理を行うこととされているとき、又は緊急その他特別の事情がある場合において外務大臣が同意したときは、法務大臣が行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項ただし書の規定により法務大臣が共助の要請の受理及び要請国に対する証拠の送付を行う場合においては、法務大臣は、外務大臣に対し、共助に関する事務の実施に関し、必要な協力を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（外務大臣の措置）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">外務大臣は、共助の要請を受理したときは、次の各号のいずれかに該当する場合を除き、共助要請書又は外務大臣の作成した共助の要請があつたことを証明する書面に関係書類を添付し、意見を付して、これを法務大臣に送付するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">要請が条約に基づいて行われたものである場合において、その方式が条約に適合しないと認めるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">要請が条約に基づかないで行われたものである場合において、日本国が行う同種の要請に応ずる旨の要請国の保証がないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　証拠の収集等</ChapterTitle>
+        <Article Num="5">
+          <ArticleCaption>（法務大臣の措置）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、受刑者証人移送以外の共助の要請について、第二条各号（第三条第一項ただし書の規定により法務大臣が共助の要請の受理を行う場合にあつては、第二条各号又は前条各号）のいずれにも該当せず、かつ、要請に応ずることが相当であると認めるときは、次項に規定する場合を除き、次の各号のいずれかの措置を採るものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">相当と認める地方検察庁の検事正に対し、関係書類を送付して、共助に必要な証拠の収集を命ずること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国家公安委員会に共助の要請に関する書面を送付すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">海上保安庁長官その他の刑事訴訟法（昭和二十三年法律第百三十一号）第百九十条に規定する司法警察職員として職務を行うべき者の置かれている国の機関の長に共助の要請に関する書面を送付すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、共助の要請が裁判所、検察官又は司法警察員の保管する訴訟に関する書類の提供に係るものであるときは、その書類の保管者に共助の要請に関する書面を送付するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、第一項に規定する措置その他の共助に関する措置を採るため必要があると認めるときは、関係人の所在その他必要な事項について調査を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（国家公安委員会の措置）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国家公安委員会は、前条第一項第二号の書面の送付を受けたときは、相当と認める警察庁又は都道府県警察に対し、共助に必要な証拠の収集を指示するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、都道府県警察に対して指示を行うときは、当該都道府県警察に関係書類を送付するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（検事正等の措置）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第五条第一項第一号の命令を受けた検事正は、その庁の検察官に共助に必要な証拠を収集するための処分をさせなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">警察庁が前条の指示を受けた場合においては、警察庁長官は、警察庁の司法警察員に前項の処分をさせなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の指示を受けた都道府県警察の警視総監又は道府県警察本部長（以下「警察本部長」という。）は、その都道府県警察の司法警察員に第一項の処分をさせなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第五条第一項第三号の書面の送付を受けた国の機関の長は、その機関の相当と認める司法警察員に第一項の処分をさせなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（検察官等の処分）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、共助に必要な証拠の収集に関し、次に掲げる処分をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">関係人の出頭を求めてこれを取り調べること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">鑑定を嘱託すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">実況見分をすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">書類その他の物の所有者、所持者又は保管者にその物の提出を求めること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公務所又は公私の団体に照会して必要な事項の報告を求めること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">電気通信を行うための設備を他人の通信の用に供する事業を営む者又は自己の業務のために不特定若しくは多数の者の通信を媒介することのできる電気通信を行うための設備を設置している者に対し、その業務上記録している電気通信の送信元、送信先、通信日時その他の通信履歴の電磁的記録のうち必要なものを特定し、三十日を超えない期間（延長する場合には、通じて六十日を超えない期間）を定めて、これを消去しないよう、書面で求めること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、共助に必要な証拠の収集に関し、必要があると認めるときは、裁判官の発する令状により、差押え、記録命令付差押え、捜索又は検証をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、前二項の規定により収集すべき証拠が業務書類等（業務を遂行する過程において作成され、又は保管される書類その他の物をいう。以下この項において同じ。）である場合において、当該業務書類等の作成又は保管の状況に関する事項の証明に係る共助の要請があるときは、作成者、保管者その他の当該業務書類等の作成又は保管の状況に係る業務上の知識を有すると認める者に対し、当該要請に係る事項についての証明書の提出を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、前項の規定により証明書の提出を求めるに当たつては、その提出を求める者に対し、虚偽の証明書を提出したときは刑罰が科されることがある旨を告知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、検察事務官又は司法警察職員に第一項から第三項までの処分をさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（罰則）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前条第三項の規定による証明書の提出を求められた者が、虚偽の証明書を提出したときは、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その者の当該行為が刑法（明治四十年法律第四十五号）の罪に触れるときは、これを適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（証人尋問の請求）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官は、次の各号のいずれかに該当する場合には、裁判官に証人尋問を請求することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">共助の要請が証人尋問に係るものであるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">関係人が第八条第一項の規定による出頭又は取調べに対する供述を拒んだとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第八条第三項の規定による証明書の提出を求められた者がこれを拒んだとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（令状の請求等）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">令状又は証人尋問の請求は、第二条第三号の書面を提出して、しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、条約に別段の定めがある場合には、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（管轄裁判所等）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">令状又は証人尋問の請求は請求する者の所属する官公署の所在地を管轄する地方裁判所の裁判官に、司法警察職員のした押収又は押収物の還付に関する処分に対する不服申立ては司法警察職員の職務執行地を管轄する地方裁判所に、しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（刑事訴訟法等の準用）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官、検察事務官若しくは司法警察職員のする処分、裁判官のする令状の発付若しくは証人尋問又は裁判所若しくは裁判官のする裁判については、この法律に特別の定めがあるもののほか、その性質に反しない限り、刑事訴訟法（第一編第二章及び第五章から第十三章まで、第二編第一章、第三編第一章及び第四章並びに第七編に限る。）及び刑事訴訟費用に関する法令の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（処分を終えた場合等の措置）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検事正は、共助に必要な証拠の収集を終えたときは、速やかに、意見を付して、収集した証拠を法務大臣に送付しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">第五条第一項第三号の国の機関の長が証拠の収集を終えたときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県公安委員会は、警察本部長が共助に必要な証拠の収集を終えたときは、速やかに、意見を付して、収集した証拠を国家公安委員会に送付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国家公安委員会は、警察庁長官が共助に必要な証拠の収集を終えたとき又は前項の規定により証拠の送付を受けたときは、速やかに、意見を付して、収集した証拠又は送付を受けた証拠を法務大臣に送付するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第五条第二項の規定により共助の要請に関する書面の送付を受けた訴訟に関する書類の保管者は、速やかに、意見を付して、当該書類又はその謄本を法務大臣に送付するものとし、送付することができないときは、共助の要請に関する書面を法務大臣に返送しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、第一項、第三項又は前項の規定による送付を受けた場合において、必要があると認めるときは、証拠の使用又は返還に関し要請国が遵守しなければならない条件を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、前項の条件を遵守する旨の要請国の保証がないときは、共助をしないものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（共助をしない場合の通知）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、第五条第一項第二号若しくは第三号又は第二項の措置を採つた後において、共助をしないことを相当と認めたときは、遅滞なく、その旨を共助の要請に関する書面の送付を受けた者に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（協議）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、要請が第四条第一号に該当するものと認めて共助をしないこととするとき、要請に応ずることが相当でないと認めて共助をしないこととするとき及び第十四条第五項の条件を定めるときは、外務大臣と協議するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、第五条第一項各号の措置を採ることとするときは、要請が証人尋問に係る場合その他共助の要請に関する書面において証拠の収集を行う機関が明らかな場合を除き、所管に応じて、国家公安委員会及び同項第三号の国の機関の長と協議するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（最高裁判所の規則）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この章に定めるもののほか、令状の発付、証人尋問及び不服申立てに関する手続について必要な事項は、最高裁判所が定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（国際刑事警察機構への協力）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国家公安委員会は、国際刑事警察機構から外国の刑事事件の捜査について協力の要請を受けたときは、次の各号のいずれかの措置を採ることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">相当と認める警察庁又は都道府県警察に必要な調査を指示すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第一項第三号の国の機関の長に協力の要請に関する書面を送付すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二条（第三号を除く。）の規定は、前項の場合に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国家公安委員会は、第一項に規定する措置を採るため必要があると認めるときは、警察庁の職員に関係人の所在その他必要な事項について調査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国家公安委員会は、第一項の措置に関し、要請において調査を行う機関が明らかな場合を除き、所管に応じて、同項第二号の国の機関の長と協議するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国家公安委員会は、第一項の措置を採ることとするときは、法務大臣の意見を聴くものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">警察庁が第一項第一号の指示を受けた場合においては、警察庁長官は、警察庁の警察官に調査のための必要な措置を採ることを命ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第一号の指示を受けた都道府県警察の警察本部長は、その都道府県警察の警察官に調査のための必要な措置を採ることを命ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項第二号の規定により協力の要請に関する書面の送付を受けた国の機関の長は、司法警察職員であるその機関の職員に当該要請に係る調査のための必要な措置を採ることを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">警察官又は前項の国の機関の職員は、前三項の調査に関し、関係人に質問し、実況見分をし、書類その他の物の所有者、所持者若しくは保管者にその物の提示を求め、又は公務所若しくは公私の団体に照会して必要な事項の報告を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　国内受刑者に係る受刑者証人移送</ChapterTitle>
+        <Article Num="19">
+          <ArticleCaption>（受刑者証人移送の決定等）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、要請国から、条約に基づき、国内受刑者（日本国において拘禁刑又は国際受刑者移送法（平成十四年法律第六十六号）第二条第二号に定める共助刑の執行として拘禁されている者をいう。以下同じ。）に係る受刑者証人移送の要請があつた場合において、第二条第一号若しくは第二号又は次の各号（第三条第一項ただし書の規定により法務大臣が共助の要請の受理を行う場合にあつては、第二条第一号若しくは第二号、第四条第一号又は次の各号）のいずれにも該当せず、かつ、要請に応ずることが相当であると認めるときは、国内受刑者を移送する期間を定めて、当該受刑者証人移送の決定をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国内受刑者の書面による同意がないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国内受刑者が二十歳に満たないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国内受刑者を移送する期間として要請された期間が三十日を超えるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国内受刑者の犯した罪に係る事件が日本国の裁判所に係属するとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十四条第五項及び第六項並びに第十六条第一項の規定は、国内受刑者に係る受刑者証人移送の要請があつた場合について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、第一項の決定をしたときは、国内受刑者が収容されている刑事施設の長に対し、当該決定に係る引渡しを命ずるとともに、当該国内受刑者にその旨を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（引渡しに関する措置）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、前条第三項の規定による命令をしたときは、外務大臣に受領許可証を送付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">外務大臣は、前項の規定による受領許可証の送付を受けたときは、直ちに、これを要請国に送付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定にかかわらず、第三条第一項ただし書の規定により法務大臣が共助の要請の受理を行う場合においては、要請国への受領許可証の送付は、法務大臣が行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第三項の規定による命令を受けた刑事施設の長は、要請国の官憲から受領許可証を示して国内受刑者の引渡しを求められたときは、国内受刑者を引き渡さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により国内受刑者の引渡しを受けた要請国の官憲は、速やかに、国内受刑者を要請国内に護送するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（国内受刑者の移送期間の取扱い）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国内受刑者が受刑者証人移送として移送されていた期間（身体の拘束を受けていなかつた期間を除く。）は、刑の執行を受けた期間とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（刑事収容施設及び被収容者等の処遇に関する法律の特則）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十条第四項の規定による国内受刑者の要請国の官憲への引渡しは、刑事収容施設及び被収容者等の処遇に関する法律（平成十七年法律第五十号）第五十二条、第五十三条第一項（同法第百三十二条第六項において準用する場合を含む。）及び第二項、第八十六条第一項、第九十八条第一項、第二項及び第四項、第百条第四項、第百三十二条第三項、第五項及び第七項、第百六十四条第一項（同法第百六十五条第三項において準用する場合を含む。）、第百六十六条第三項（同法第百六十七条第四項及び第百六十八条第四項において準用する場合を含む。）、第百七十一条、第百七十四条並びに第百七十五条の規定の適用については、釈放でないものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">刑事収容施設及び被収容者等の処遇に関する法律第五十四条（第一項第二号及び第三号を除く。）、第五十五条、第九十八条第五項（第一号に係る部分に限る。）、第九十九条、第百三十二条第四項から第七項まで及び第百七十六条の規定は、第二十条第四項の規定により要請国の官憲に引き渡した国内受刑者が逃走し、又は死亡した場合におけるその者に係る遺留物、作業報奨金又は発受を禁止し、若しくは差し止めた信書、削除した信書の部分若しくは抹消した信書の部分の複製について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第百三十二条第五項第二号及び第七項中「第五十四条第一項各号のいずれか」とあるのは「第五十四条第一項第一号」と、同条第六項中「第五十四条第一項」とあるのは「第五十四条第一項（第二号及び第三号を除く。）」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　外国受刑者の拘禁</ChapterTitle>
+        <Article Num="23">
+          <ArticleCaption>（外国受刑者の拘禁）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官は、外国受刑者（外国において拘禁刑又はこれに相当する刑の執行として拘禁されている者をいう。以下同じ。）であつて日本国の刑事手続において証人として尋問する旨の決定があつたものについて、受刑者証人移送として当該外国の官憲から当該外国受刑者の引渡しを受けたときは、あらかじめ発する受入移送拘禁状により、当該外国受刑者を拘禁しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">逃亡犯罪人引渡法（昭和二十八年法律第六十八号）第六条第一項から第三項まで及び第七条並びに刑事訴訟法第七十一条、第七十三条第三項、第七十四条及び第百二十六条の規定は、前項の受入移送拘禁状により外国受刑者を拘禁する場合について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleCaption>（外国の官憲への引渡し）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">受刑者証人移送として外国の官憲から引渡しを受けた外国受刑者については、その引渡しを受けた日から三十日以内に、これを当該外国の官憲に引き渡さなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、天災その他やむを得ない事由によりこの期間内に外国受刑者を当該外国の官憲に引き渡すことができない場合には、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官は、前項の規定により外国受刑者を当該外国の官憲に引き渡す場合において必要があるときは、前条第一項の受入移送拘禁状により、検察事務官、警察官、海上保安官又は海上保安官補に当該外国受刑者の護送をさせることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、刑事訴訟法第七十四条の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（外国受刑者の拘禁の停止）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官は、病気その他やむを得ない事由がある場合に限り、受入移送拘禁状により拘禁されている外国受刑者を医師その他適当と認められる者に委託し、又は外国受刑者の住居を制限して、拘禁の停止をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">検察官は、必要と認めるときは、いつでも、拘禁の停止を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">逃亡犯罪人引渡法第二十二条第三項から第五項までの規定は、前項の規定により外国受刑者の拘禁の停止を取り消した場合について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において必要な技術的読替えは、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、昭和五十五年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、この法律の施行前に犯された犯罪に係る外国からの共助の要請及び国際刑事警察機構からの協力の要請についても、適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月九日法律第八九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中国際捜査共助法に第三章及び第四章を加える改正規定並びに附則第三条及び第五条の規定は、公布の日から起算して六月を経過した日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、この法律の施行前に犯された犯罪に係る外国からの共助の要請及び国際刑事警察機構からの協力の要請についても、適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年五月二五日法律第五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年六月八日法律第五八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定、第三条中組織的な犯罪の処罰及び犯罪収益の規制等に関する法律（以下「組織的犯罪処罰法」という。）第七十一条第一項の改正規定、第四条及び第五条の規定並びに附則第十条から第十二条まで及び第十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年三月三一日法律第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和四年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年五月一七日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して五年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中刑事訴訟法第三百四十四条に一項を加える改正規定、第二条中刑法第九十七条及び第九十八条の改正規定並びに第三条中出入国管理及び難民認定法第七十二条の改正規定（第一号を削り、第二号を第一号とし、第三号から第八号までを一号ずつ繰り上げる部分に限る。第六号において「第七十二条第一号を削る改正規定」という。）並びに附則第五条第一項及び第二項、第八条第四項並びに第二十条の規定、附則第二十四条中国際受刑者移送法（平成十四年法律第六十六号）第四十二条の改正規定、附則第二十七条中刑事収容施設及び被収容者等の処遇に関する法律（平成十七年法律第五十号）第二百九十三条の改正規定、附則第二十八条第二項、第三十条及び第三十一条の規定、附則第三十二条中少年鑑別所法（平成二十六年法律第五十九号）第百三十二条の改正規定、附則第三十五条のうち、刑法等の一部を改正する法律（令和四年法律第六十七号。以下「刑法等一部改正法」という。）第三条中刑事訴訟法第三百四十四条の改正規定の改正規定及び刑法等一部改正法第十一条中少年鑑別所法第百三十二条の改正規定を削る改正規定並びに附則第三十六条及び第四十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二十日を経過した日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二号施行日前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年四月二三日法律第二六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二三日法律第三九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和九年三月三十一日までの間において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第三条第四項、第五条第四項、第十条第二項、第十八条第二項、第三十九条及び第四十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+                <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第一条の規定（前号に掲げる改正規定を除く。）、第五条中少年法第六条の五及び第十五条の改正規定、第九条中日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う刑事特別法第十三条の改正規定、第十二条中日本国における国際連合の軍隊に対する刑事裁判権の行使に関する議定書の実施に伴う刑事特別法第五条の改正規定、第十四条中日本国における国際連合の軍隊の地位に関する協定の実施に伴う刑事特別法第五条の改正規定、第十八条中国際捜査共助等に関する法律第八条第二項及び第十二条の改正規定、第二十一条の規定、第二十二条中不正競争防止法第二十六条第二項の改正規定（「記載した書面」」を「記載し、又は記録した書面又は電磁的記録」」に、「証拠書類」」を「証拠書類（電磁的記録を含む。）」」に改める部分を除く。）、同法第三十三条の改正規定及び同条の次に一条を加える改正規定、第二十三条中組織的犯罪処罰法第十八条の二の次に二条を加える改正規定、組織的犯罪処罰法第二十条の改正規定、組織的犯罪処罰法第三十条の次に二条を加える改正規定並びに組織的犯罪処罰法第三十一条第一項及び第七十一条第一項第七号の改正規定、第二十六条中国際受刑者移送法第二十一条の改正規定（「第四百八十七条」を「第四百八十七条第一項」に改める部分を除く。）、第二十七条中心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律（次条第一項及び附則第十八条第一項において「医療観察法」という。）第二十四条第三項及び第四項の改正規定、第二十八条中裁判員の参加する刑事裁判に関する法律第六十五条第二項の改正規定並びに第三十四条中性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律目次及び第八条第一項第二号の改正規定、同法第四章第二節に一条を加える改正規定、同法第十二条の改正規定、同条の次に一条を加える改正規定、同法第十三条の改正規定、同法第十七条の見出し並びに同条第一項、第二項及び第五項の改正規定、同法第十八条の見出しを削り、同条の前に見出しを付し、同条の次に一条を加える改正規定、同法第十九条の改正規定、同法第二十条の見出し並びに同条第一項及び第二項の改正規定、同法第四章第四節に二条を加える改正規定並びに同法第二十六条第一項第一号、第四十条第一項第三号及び第四十四条第一号の改正規定並びに次条並びに附則第十五条及び第二十九条の規定、附則第三十五条中刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律（令和四年法律第六十八号）第四百九十一条第七項の改正規定（「及び第九項から第十一項まで並びに第五百十四条」を「、第六項及び第十一項から第十三項まで並びに第五百十三条の二」に改める部分に限る。）、附則第三十八条中財務省設置法（平成十一年法律第九十五号）第二十七条第二項ただし書の改正規定並びに附則第四十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="39">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="41">
+        <ArticleCaption>（映像等の送受信による通話に係る取組の推進）</ArticleCaption>
+        <ArticleTitle>第四十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、被告人又は被疑者（以下「被告人等」という。）にとって、弁護人又は弁護人を選任することができる者の依頼により弁護人となろうとする者（弁護士でない者にあっては、刑事訴訟法第三十一条第二項の許可があった後に限る。）（以下「弁護人等」という。）の援助を受けることが重要であることに鑑み、同法第三十九条第一項の規定による接見のほかに、身体の拘束を受けている被告人等と弁護人等との間における映像と音声の送受信による通話を可能とするための運用上の措置について、地域の実情を踏まえ、被告人等と弁護人等との間の秘密の確保に配慮するとともに不正行為等の防止に万全を期しつつ、必要な取組を推進するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
