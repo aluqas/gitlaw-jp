@@ -196,6 +196,12 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">危険鳥獣の管理に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">その他鳥獣保護管理事業を実施するために必要な事項</Sentence>
               </ItemSentence>
             </Item>
@@ -272,11 +278,17 @@
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">鳥獣の生息の状況の調査に関する事項</Sentence>
+                <Sentence Num="1" WritingMode="vertical">危険鳥獣の当該都道府県の区域内における生息の状況その他の事情を勘案して必要があると認める場合においては、当該危険鳥獣の人の日常生活圏への侵入の防止に関する事項</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">鳥獣の生息の状況の調査に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">鳥獣保護管理事業の実施体制に関する事項</Sentence>
               </ItemSentence>
