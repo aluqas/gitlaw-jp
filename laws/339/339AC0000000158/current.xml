@@ -51,7 +51,7 @@
           <ArticleRange>（第七十七条―第百三条）</ArticleRange>
         </TOCSection>
         <TOCSection Num="2">
-          <SectionTitle>第二節　漁獲共済</SectionTitle>
+          <SectionTitle>第二節　漁獲・特定養殖共済</SectionTitle>
           <ArticleRange>（第百四条―第百十三条の三）</ArticleRange>
         </TOCSection>
         <TOCSection Num="3">
@@ -59,11 +59,7 @@
           <ArticleRange>（第百十四条―第百二十五条）</ArticleRange>
         </TOCSection>
         <TOCSection Num="4">
-          <SectionTitle>第四節　特定養殖共済</SectionTitle>
-          <ArticleRange>（第百二十五条の二―第百二十五条の十二）</ArticleRange>
-        </TOCSection>
-        <TOCSection Num="5">
-          <SectionTitle>第五節　漁業施設共済</SectionTitle>
+          <SectionTitle>第四節　漁業施設共済</SectionTitle>
           <ArticleRange>（第百二十六条―第百三十七条）</ArticleRange>
         </TOCSection>
       </TOCChapter>
@@ -121,7 +117,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">漁業災害補償の制度は、漁業共済組合が行う漁業共済事業、漁業共済組合連合会が行う漁業再共済事業又は漁業共済事業及び政府が行う漁業共済保険事業により、中小漁業者の相互救済の精神を基調として、その漁獲金額若しくは養殖に係る生産金額の減少又は養殖水産動植物、養殖施設若しくは漁具に係る損害に関して必要な給付を行う制度とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">漁業災害補償の制度は、漁業共済組合が行う漁業共済事業、漁業共済組合連合会が行う漁業再共済事業又は漁業共済事業及び政府が行う漁業共済保険事業により、中小漁業者の相互救済の精神を基調として、その漁獲若しくは養殖に係る生産金額の減少又は養殖水産動植物、養殖施設若しくは漁具に係る損害に関して必要な給付を行う制度とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2251,7 +2247,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">漁獲共済</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -2262,12 +2258,6 @@
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">特定養殖共済</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="4">
-                <ItemTitle>四</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">漁業施設共済</Sentence>
                 </ItemSentence>
@@ -2280,7 +2270,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">漁獲共済は、被共済者又はその構成員が営む漁業の共済責任期間中の操業に係る漁獲金額又は構成員を通ずる漁獲金額の合計額が共済限度額に達しない場合の被共済者又はその構成員の損失について、被共済者に対し共済金を交付する事業とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済は、被共済者又はその構成員が営む漁業の共済責任期間中の操業に係る漁獲若しくは養殖に係る生産金額又は構成員を通ずる漁獲に係る生産金額の合計額が共済限度額に達しない場合の被共済者又はその構成員の損失について、被共済者に対し共済金を交付する事業とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2292,12 +2282,6 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定養殖共済は、被共済者が営む養殖業の共済責任期間中の養殖に係る生産金額が共済限度額に達しない場合の被共済者の損失について、被共済者に対し共済金を交付する事業とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
-              <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">漁業施設共済は、被共済者が営む漁業の用に供する養殖施設又は漁具がその供用中に損壊し、流失した等の場合の被共済者の損害について、被共済者に対し共済金を交付する事業とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -2308,7 +2292,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">組合は、政令で定めるところにより、少なくとも、漁獲共済、養殖共済及び特定養殖共済のうちいずれか一以上の種類の漁業共済事業を行わなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">組合は、政令で定めるところにより、少なくとも、漁獲・特定養殖共済及び養殖共済のうちいずれか一以上の種類の漁業共済事業を行わなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2318,13 +2302,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">共済契約は、漁獲共済にあつては第百四条に規定する漁業の種類ごと、養殖共済にあつては第百十四条に規定する養殖業の種類ごと、特定養殖共済にあつては第百二十五条の二に規定する養殖業の種類ごと、漁業施設共済にあつては共済目的の種類たる養殖施設又は漁具ごとに、農林水産省令で定めるところにより、共済契約を組合との間に締結することができる者が共済規程で定める申込期間内に共済規程で定める様式の申込書を組合に提出して申し込み、組合がこれを承諾することによつて成立する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">共済契約は、漁獲・特定養殖共済にあつては第百四条に規定する漁業の種類ごとに（二以上の同条に規定する漁業の種類を一括して共済契約の対象とする場合は、対象とする二以上の同条に規定する漁業の種類を一括して）、養殖共済にあつては第百十四条に規定する養殖業の種類ごとに、漁業施設共済にあつては共済目的の種類たる養殖施設又は漁具ごとに、農林水産省令で定めるところにより、共済契約を組合との間に締結することができる者が共済規程で定める申込期間内に共済規程で定める様式の申込書を組合に提出して申し込み、組合がこれを承諾することによつて成立する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">組合は、第百四条第二号に掲げる漁業に係る共済契約、第百十四条の政令で定める養殖業に係る共済契約又は第百二十五条の二に規定する特定養殖業（以下この節において「特定養殖業」という。）に係る共済契約（これらの共済契約に係る共済掛金の支払を特に確保する必要があるものとして農林水産省令で定めるものに限る。）については、共済規程で定めるところにより、前項の申込みに際し、その申込みをする者に、当該共済契約に係る共済掛金に充てるものとして共済規程で定める金額の申込証拠金を提供させることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">組合は、第百四条第二号若しくは第三号に掲げる漁業に属する漁業の種類に係る共済契約又は第百十四条の政令で定める養殖業に属する養殖業の種類に係る共済契約（これらの共済契約に係る共済掛金の支払を特に確保する必要があるものとして農林水産省令で定めるものに限る。）については、共済規程で定めるところにより、前項の申込みに際し、その申込みをする者に、当該共済契約に係る共済掛金に充てるものとして共済規程で定める金額の申込証拠金を提供させることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -2417,13 +2401,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">被共済者（第百五条第一項第一号ロに掲げる組合員にあつては同号ロに規定する中小漁業者、同項第二号ロに掲げる団体にあつてはその構成員を含む。次条、第八十七条、第九十三条第一項第三号から第五号まで及び第百三条において同じ。）は、漁獲共済にあつては当該共済契約に係る漁業の漁獲物、養殖共済にあつては当該共済契約に係る共済目的たる養殖水産動植物、特定養殖共済にあつては当該共済契約に係る特定養殖業の養殖に係る水産動植物、漁業施設共済にあつては当該共済契約に係る共済目的たる養殖施設及び漁具につき、通常行うべき管理その他損害の防止又は軽減を怠つてはならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">被共済者（第百五条第一項第一号ロに掲げる組合員にあつては同号ロに規定する中小漁業者、同項第二号ロに掲げる団体にあつてはその構成員を含む。次条、第八十七条、第九十三条第一項第三号から第五号まで及び第百三条において同じ。）は、漁獲・特定養殖共済にあつては当該共済契約に係る漁業の漁獲又は養殖に係る水産動植物、養殖共済にあつては当該共済契約に係る共済目的たる養殖水産動植物、漁業施設共済にあつては当該共済契約に係る共済目的たる養殖施設及び漁具につき、通常行うべき管理その他損害の防止又は軽減を怠つてはならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">漁獲共済又は特定養殖共済にあつては、被共済者（第百五条第一項第一号ロに掲げる組合員にあつては同号ロに規定する中小漁業者、同項第二号ロに掲げる団体にあつてはその構成員。第九十三条第一項第八号において同じ。）は、前項の規定による義務を遂行するほか、当該共済契約に係る漁業又は特定養殖業につき、通常の操業を行うことができる場合において、通常の中小漁業者の行う漁獲又は養殖に係る努力を怠つてはならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済にあつては、被共済者（第百五条第一項第一号ロに掲げる組合員にあつては同号ロに規定する中小漁業者、同項第二号ロに掲げる団体にあつてはその構成員。第九十三条第一項第八号において同じ。）は、前項の規定による義務を遂行するほか、当該共済契約に係る漁業につき、通常の操業を行うことができる場合において、通常の中小漁業者の行う漁獲又は養殖に係る努力を怠つてはならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2444,7 +2428,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">組合は、被共済者が、帳簿を備えて、当該共済契約に係る漁業についての操業の状況若しくは漁獲物若しくは養殖水産動植物の販売、保管等の状況又は当該共済契約に係る養殖施設若しくは漁具についての供用の状況を記入すべきこと、これらの事項に関し定期に又は必要のつど組合に通知すべきことその他被共済者の遵守すべき事項として農林水産省令で定める事項を共済規程において定めることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">組合は、被共済者が、帳簿を備えて、当該共済契約に係る漁業についての操業の状況若しくは漁獲若しくは養殖に係る水産動植物若しくは共済目的たる養殖水産動植物の販売、保管等の状況又は当該共済契約に係る共済目的たる養殖施設若しくは漁具についての供用の状況を記入すべきこと、これらの事項に関し定期に又は必要の都度組合に通知すべきことその他被共済者の遵守すべき事項として農林水産省令で定める事項を共済規程において定めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2595,7 +2579,7 @@
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">漁獲共済又は特定養殖共済において、共済契約に係る漁業又は特定養殖業につき第九十一条第一項に規定する操業の条件又は方法の変更による危険の著しい変更又は増加があつた場合以外の場合であつて、被共済者が漁船の損傷その他共済規程で定める事由により通じて共済規程で定める日数以上操業することができなかつたとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済において、共済契約に係る漁業につき第九十一条第一項に規定する操業の条件又は方法の変更による危険の著しい変更又は増加があつた場合以外の場合であつて、被共済者が漁船の損傷その他共済規程で定める事由により通じて共済規程で定める日数以上操業することができなかつたとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="9">
@@ -2699,7 +2683,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">組合は、共済規程で定めるところにより、その行なう漁業共済事業に係る事務のうち、共済契約の申込書の受理、漁獲物の販売金額の調査その他農林水産省令で定める事項に係るものを漁業協同組合又は漁業協同組合連合会に委託することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">組合は、共済規程で定めるところにより、その行う漁業共済事業に係る事務のうち、共済契約の申込書の受理、漁獲又は養殖に係る水産動植物の販売金額の調査その他農林水産省令で定める事項に係るものを漁業協同組合又は漁業協同組合連合会に委託することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2731,14 +2715,14 @@
           </Article>
         </Section>
         <Section Num="2">
-          <SectionTitle>第二節　漁獲共済</SectionTitle>
+          <SectionTitle>第二節　漁獲・特定養殖共済</SectionTitle>
           <Article Num="104">
-            <ArticleCaption>（漁獲共済の対象とする漁業及び区分）</ArticleCaption>
+            <ArticleCaption>（漁獲・特定養殖共済の対象とする漁業及び区分）</ArticleCaption>
             <ArticleTitle>第百四条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">漁獲共済は、次に掲げる漁業につき行うものとし、その対象とする漁業の種類により区分する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済は、次に掲げる漁業につき行うものとし、政令で定めるところにより、その対象とする漁業の種類により区分する。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -2749,7 +2733,13 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前号に掲げる漁業、第百十四条に掲げる漁業及び第百二十五条の二に規定する特定養殖業以外の漁業であつて、政令で定めるもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げる漁業以外の漁業（養殖業を除く。）であつて、政令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第百十四条の政令で定める養殖業以外の養殖業であつて、政令で定めるもの（以下「特定養殖業」という。）</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -2760,49 +2750,55 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">漁獲共済の被共済者たる資格を有する者（以下この節において「被共済資格者」という。）は、漁獲共済の対象とする漁業の種類に応じ、次に掲げるとおりとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済の被共済者たる資格を有する者（以下この節において「被共済資格者」という。）は、漁獲・特定養殖共済の対象とする漁業の種類に応じ、次に掲げるとおりとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前条第一号に掲げる漁業に属する漁業に係る漁獲共済にあつては、次に掲げるもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第一号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済にあつては、次に掲げるもの</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">当該漁業を営む組合員</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該漁業の種類の漁業を営む組合員</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">組合員（その組合員の直接の構成員で、その組合員の地区内に住所を有し、かつ、政令で定めるところにより都道府県知事が水面を分けて定める一定の水域内において当該漁業を営む中小漁業者の全員（政令で定めるところにより、都道府県知事が、当該中小漁業者の全員の住所及び漁獲物の販売に関する事情を考慮して、当該中小漁業者の住所地の全てが含まれる地域を分けて二以上の区域を定めたときは、その定めた区域ごとに当該区域内に住所を有する当該中小漁業者の全員）が共済掛金の分担及び共済金の配分の方法等農林水産省令で定める事項について農林水産省令で定める基準に従つた規約を定めている場合における組合員に限る。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">組合員（その組合員の直接の構成員で、その組合員の地区内に住所を有し、かつ、政令で定めるところにより都道府県知事が水面を分けて定める一定の水域内において当該漁業の種類の漁業を営む中小漁業者の全員（政令で定めるところにより、都道府県知事が、当該中小漁業者の全員の住所及び漁獲物の販売に関する事情を考慮して、当該中小漁業者の住所地の全てが含まれる地域を分けて二以上の区域を定めたときは、その定めた区域ごとに当該区域内に住所を有する当該中小漁業者の全員）が当該漁業の種類に係る漁獲・特定養殖共済の共済掛金の分担及び共済金の配分の方法等農林水産省令で定める事項について農林水産省令で定める基準に従つた規約を定めている場合における組合員に限る。）</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前条第二号に掲げる漁業に属する漁業に係る漁獲共済にあつては、次に掲げるもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第二号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済にあつては、次に掲げるもの</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">当該漁業を営む組合員又は組合員の直接の構成員たる中小漁業者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">当該漁業の種類の漁業を営む組合員又は組合員の直接の構成員たる中小漁業者</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">政令で定めるところにより都道府県知事が定める区域及び当該区域に応じ前条第二号に掲げる漁業を分けて定める区分ごとに、当該区域内に住所又は漁業根拠地を有し、かつ、当該区分に係る漁業を営む組合員又は組合員の直接の構成員たる中小漁業者をその構成員の全部とし、共済掛金の分担及び共済金の配分の方法、代表者、代表権の範囲等農林水産省令で定める事項について農林水産省令で定める基準に従つた規約を有する団体</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">政令で定めるところにより都道府県知事が定める区域及び当該区域に応じ前条第二号に掲げる漁業を分けて定める区分ごとに、当該区域内に住所又は漁業根拠地を有し、かつ、当該区分に係る漁業の種類の漁業を営む組合員又は組合員の直接の構成員たる中小漁業者をその構成員の全部とし、当該区分に係る漁業の種類に係る漁獲・特定養殖共済の共済掛金の分担及び共済金の配分の方法、代表者、代表権の範囲等農林水産省令で定める事項について農林水産省令で定める基準に従つた規約を有する団体</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">特定養殖業に属する漁業の種類に係る漁獲・特定養殖共済にあつては、当該漁業の種類の漁業を営む組合員又は組合員の直接の構成員たる中小漁業者</Sentence>
+                </ItemSentence>
               </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">漁獲共済に係る共済契約の成立によつて被共済者となつた者は、被共済資格者でなくなつた場合においても、当該共済契約については、被共済資格者とみなす。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済に係る共済契約の成立によつて被共済者となつた者は、被共済資格者でなくなつた場合においても、当該共済契約については、被共済資格者とみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2840,7 +2836,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">漁獲共済に係る共済契約を組合との間に締結することができる者は、対象とする漁業の種類ごとに、当該種類の漁業に係る漁獲共済の被共済資格者で当該共済契約の成立によつて被共済者となるものに限るものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済に係る共済契約を組合との間に締結することができる者は、対象とする漁業の種類ごとに（二以上の漁業の種類を一括して共済契約の対象とする場合は、対象とする二以上の漁業の種類のそれぞれについて）、当該漁業の種類に係る漁獲・特定養殖共済の被共済資格者で当該共済契約の成立によつて被共済者となるものに限るものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2850,7 +2846,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">一の漁業単位につき漁獲共済に係る共済契約が締結されている場合には、被共済資格者は、その漁業単位については、当該共済契約に係る共済責任期間の全部又は一部をその共済責任期間の全部又は一部とする他の漁獲共済に係る共済契約を締結することができない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">一の漁業単位又は一の特定養殖業につき漁獲・特定養殖共済に係る共済契約が締結されている場合には、被共済資格者は、当該一の漁業単位又は一の特定養殖業については、当該共済契約に係る共済責任期間の全部又は一部をその共済責任期間の全部又は一部とする他の漁獲・特定養殖共済に係る共済契約を締結することができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">二以上の漁業の種類を一括して対象とする漁獲・特定養殖共済に係る共済契約を締結している被共済資格者は、他の漁獲・特定養殖共済に係る共済契約（第百十三条の三第一項の規定により包括継続申込特約をするものを除く。）を締結することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2860,28 +2862,35 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百五条第一項第一号ロに掲げる組合員は、同号ロに規定する規約が第百五条の二第一項の規定により定められたときは、組合に第百四条第一号に掲げる漁業に属する漁業に係る漁獲共済に係る共済契約の締結の申込みをしなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">当該漁獲共済の共済責任期間が終了したときも、同様とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百五条第一項第一号ロに掲げる組合員は、同号ロに規定する規約が第百五条の二第一項の規定により定められたときは、組合に、当該規約に係る第百四条第一号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済に係る共済契約の締結の申込みをしなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">当該漁獲・特定養殖共済の共済責任期間が終了したときも、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百五条第一項第二号ロの都道府県知事が定める区域及び区分ごとに、当該区域内に住所を有し、かつ、当該区分に係る漁業を営む被共済資格者で政令で定める要件に該当するもの（以下「特定第二号漁業者」という。）の三分の二以上の者が第百四条第二号に掲げる漁業に属する漁業に係る漁獲共済に係る共済契約の締結の申込みをし、又は第百五条第一項第二号ロに規定する団体の構成員として同号ロに規定する規約を定めることにつき同意をした場合において、当該同意につき第四項において準用する第百五条の二第四項の規定による公示があつたときは、特定第二号漁業者（当該公示があつた後に特定第二号漁業者となつた者を含む。）は、組合に当該漁獲共済に係る共済契約の締結の申込みをし、又は同号ロに規定する規約を定めなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">当該漁獲共済の共済責任期間が終了したときも、同様とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百五条第一項第二号ロの都道府県知事が定める区域及び区分ごとに、当該区域内に住所を有し、かつ、当該区分に係る漁業の種類の漁業を営む被共済資格者で政令で定める要件に該当するもの（以下「特定第二号漁業者」という。）の三分の二以上の者が当該区分に係る第百四条第二号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済に係る共済契約の締結の申込みをし、又は第百五条第一項第二号ロに規定する団体の構成員として同号ロに規定する規約を定めることにつき同意をした場合において、当該同意につき第五項において準用する第百五条の二第四項の規定による公示があつたときは、特定第二号漁業者（当該公示があつた後に特定第二号漁業者となつた者を含む。）は、組合に当該漁獲・特定養殖共済に係る共済契約の締結の申込みをし、又は同号ロに規定する規約を定めなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">当該漁獲・特定養殖共済の共済責任期間が終了したときも、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百五条第一項第二号ロに掲げる団体は、同号ロに規定する規約が前項の規定により定められたときは、組合に第百四条第二号に掲げる漁業に属する漁業に係る漁獲共済に係る共済契約の締結の申込みをしなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">当該漁獲共済の共済責任期間が終了したときも、同様とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百五条第一項第二号ロに掲げる団体は、同号ロに規定する規約が前項の規定により定められたときは、組合に、当該規約に係る第百四条第二号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済に係る共済契約の締結の申込みをしなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">当該漁獲・特定養殖共済の共済責任期間が終了したときも、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百五条の二第一項ただし書の規定は前各項の規定による共済契約の締結の申込み又は第二項の規定による規約の設定について、同条第二項から第四項までの規定は第二項の規定による特定第二号漁業者の同意について、それぞれ準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">政令で定めるところにより都道府県知事が特定養殖業の種類に応じ定める区域ごとに、当該区域内に住所を有し、かつ、当該特定養殖業の種類の特定養殖業を営む被共済資格者で政令で定める要件に該当するもの（以下「区域内特定養殖業者」という。）の三分の二以上の者が当該特定養殖業の種類に係る漁獲・特定養殖共済に係る共済契約の締結の申込みをすることにつき同意をした場合において、当該同意につき次項において準用する第百五条の二第四項の規定による公示があつたときは、区域内特定養殖業者（当該公示があつた後に区域内特定養殖業者となつた者を含む。）は、組合に当該漁獲・特定養殖共済に係る共済契約の締結の申込みをしなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">当該漁獲・特定養殖共済の共済責任期間が終了したときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第百五条の二第一項ただし書の規定は前各項の規定による共済契約の締結の申込み又は第二項の規定による規約の設定について、同条第二項から第四項までの規定は第二項の規定による特定第二号漁業者の同意又は前項の規定による区域内特定養殖業者の同意について、それぞれ準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2891,7 +2900,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">漁獲共済の共済責任期間は、対象とする漁業の種類ごとに、農林水産省令で定めるところにより、当該種類の漁業の漁業時期（周年操業をするものについては一年間とし、第百四条第一号に掲げる漁業についてはその漁業の目的である水産動植物の成育期間を含むものとする。）を基準として、共済規程で定める期間とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済の共済責任期間は、対象とする漁業の種類ごとに（二以上の漁業の種類を一括して共済契約の対象とする場合は、対象とする漁業の種類を通じて）、農林水産省令で定めるところにより、当該漁業の種類の漁業の漁業時期（周年操業をするものについては一年間とし、第百四条第一号に掲げる漁業に属する漁業の種類の漁業についてはその漁業の目的である水産動植物の成育期間を含むものとする。）を基準として、共済規程で定める期間とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2901,7 +2910,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">漁獲共済の共済金額は、共済限度額を超えない範囲内において、共済規程で定めるところにより、共済契約で定める金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済の共済金額は、共済限度額を超えない範囲内において、共済規程で定めるところにより、共済契約で定める金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2913,7 +2922,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百四条第一号に掲げる漁業に係る漁獲共済についての共済金額は、前二項の規定によるほか、政令で定める金額を下つて定めることができない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百四条第一号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済についての共済金額は、前二項の規定によるほか、政令で定める金額を下つて定めることができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2923,13 +2932,19 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前条第一項の共済限度額は、共済契約ごとに、政令で定めるところにより、当該被共済資格者の営む当該漁業の過去一定年間の操業に係る漁獲金額（第百四条第一号に掲げる漁業に係る漁獲共済については、被共済資格者が第百五条第一項第一号ロに掲げる組合員であるときは、同号ロに規定する中小漁業者の全てを通ずる当該漁業の過去一定年間の操業に係る漁獲金額の合計額とし、第百四条第二号に掲げる漁業に係る漁獲共済については、被共済資格者が第百五条第一項第二号ロに掲げる団体であるときは、その構成員の全てを通ずる当該漁業の過去一定年間の操業に係る漁獲金額の合計額とする。以下この項において同じ。）を基準とし、当該被共済資格者の当該漁業に係る経営事情、当該被共済資格者と当該漁業に関し近似する事情の存する当該漁業に係る漁獲共済の他の被共済資格者の営む当該漁業の過去一定年間の操業に係る漁獲金額その他当該地域における漁業事情を勘案して組合が定める金額に、百分の九十を超えない範囲内において当該被共済資格者の営む当該漁業の種類（第百四条第一号に掲げる漁業に係る漁獲共済については、その者が第百五条第一項第一号ロに掲げる組合員であるときは、同号ロに規定する中小漁業者の全ての営む当該漁業の種類とし、第百四条第二号に掲げる漁業に係る漁獲共済については、その者が第百五条第一項第二号ロに掲げる団体であるときは、その構成員の全ての営む当該漁業の種類とする。第百十三条第一項及び第二項において同じ。）に応じて農林水産省令で定める割合を乗じて得た金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の共済限度額は、共済契約ごとに、政令で定めるところにより、被共済資格者の営む漁業であつて、共済契約の対象とする漁業の種類の漁業（以下この条及び第百十三条において「対象漁業」という。）の過去一定年間の操業に係る生産金額（第百四条第一号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済については、被共済資格者が第百五条第一項第一号ロに掲げる組合員であるときは、同号ロに規定する中小漁業者の全てを通ずる対象漁業の過去一定年間の操業に係る生産金額の合計額とし、第百四条第二号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済については、被共済資格者が第百五条第一項第二号ロに掲げる団体であるときは、その構成員の全てを通ずる対象漁業の過去一定年間の操業に係る生産金額の合計額とする。以下この項において同じ。）を基準とし、当該被共済資格者の対象漁業に係る経営事情、当該被共済資格者と対象漁業に関し近似する事情の存する対象漁業に係る漁獲・特定養殖共済の他の被共済資格者の営む対象漁業の過去一定年間の操業に係る生産金額その他当該地域における漁業事情を勘案して組合が定める金額に、百分の九十を超えない範囲内において当該被共済資格者の営む対象漁業の種類（第百四条第一号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済については、その者が第百五条第一項第一号ロに掲げる組合員であるときは、同号ロに規定する中小漁業者の全ての営む対象漁業の種類とし、第百四条第二号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済については、その者が第百五条第一項第二号ロに掲げる団体であるときは、その構成員の全ての営む対象漁業の種類とする。第百十三条第一項及び第二項において同じ。）に応じて農林水産省令で定める割合を乗じて得た金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定により共済限度額を定める場合における同項の漁獲金額は、当該漁業の操業に係る漁獲物による収入金額（農林水産省令で定めるところにより収入とみなされるものの金額を含む。）として、農林水産省令で定める基準に従い組合が認定する金額によるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により共済限度額を定める場合における同項の生産金額は、対象漁業の操業に係る漁獲又は養殖に係る水産動植物による収入金額（農林水産省令で定めるところにより収入とみなされるものの金額を含む。）として、農林水産省令で定める基準に従い組合が認定する金額によるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済の対象とならない漁業の種類の漁業であつて政令で定めるものの過去一定年間の操業に係る生産金額を第一項の生産金額に加えることに関し農林水産省令で定める要件に該当する特約がある共済契約における前項の規定の適用については、同項中「対象漁業」とあるのは、「対象漁業及び次項の特約に係る漁業」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2939,13 +2954,35 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">漁獲共済の純共済掛金率は、対象とする漁業の種類その他危険の程度を区分する要因となる事項で農林水産大臣の定めるものに応ずる次項の危険階級に係る同項の基準共済掛金率を下らない範囲内において、組合が共済規程で定める割合とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済の純共済掛金率は、次の各号に掲げる共済契約の区分に応じ、当該各号に定める割合とする。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">二以上の漁業の種類を一括して対象とする共済契約</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">対象とする漁業の種類その他危険の程度を区分する要因となる事項で農林水産大臣の定めるものに応ずる次項の危険階級に係る同項の基準共済掛金率を用いて農林水産省令で定めるところにより算定した率に、二以上の漁業の種類を一括して対象とすることによる共済事故の発生率の低下その他の事情を考慮して農林水産大臣の定める割合を乗じて得た率を下らない範囲内において、組合が共済規程で定める割合</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">前号に掲げる共済契約以外のもの</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">対象とする漁業の種類その他危険の程度を区分する要因となる事項で農林水産大臣の定めるものに応ずる次項の危険階級に係る同項の基準共済掛金率を下らない範囲内において、組合が共済規程で定める割合</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、漁獲共済につき、漁業の種類その他前項の農林水産大臣の定める事項に応じて危険階級を区分し、その区分ごとに基準共済掛金率を定めなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、漁獲・特定養殖共済につき、漁業の種類その他前項の農林水産大臣の定める事項に応じて危険階級を区分し、その区分ごとに基準共済掛金率を定めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2955,19 +2992,19 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">漁獲共済の共済金は、共済契約ごとに、当該被共済者が営む当該漁業の共済責任期間中の操業に係る漁獲金額（第百四条第一号に掲げる漁業に係る漁獲共済については、被共済者が第百五条第一項第一号ロに掲げる組合員であるときは、同号ロに規定する中小漁業者の全てを通ずる当該漁業の共済責任期間中の操業に係る漁獲金額の合計額とし、第百四条第二号に掲げる漁業に係る漁獲共済については、被共済者が第百五条第一項第二号ロに掲げる団体であるときは、その構成員の全てを通ずる当該漁業の共済責任期間中の操業に係る漁獲金額の合計額とする。以下この項において同じ。）がその共済限度額に達しない場合に支払うものとし、共済金の金額は、その共済限度額から当該被共済者が営む当該漁業の共済責任期間中の操業に係る漁獲金額を差し引いて得た金額に、当該被共済者が営む当該漁業の種類に応じて農林水産省令で定める割合を乗じて得た金額に、共済金額の共済限度額に対する割合を乗じて得た金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済の共済金は、共済契約ごとに、当該被共済者が営む対象漁業の共済責任期間中の操業に係る生産金額（第百四条第一号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済については、被共済者が第百五条第一項第一号ロに掲げる組合員であるときは、同号ロに規定する中小漁業者の全てを通ずる対象漁業の共済責任期間中の操業に係る生産金額の合計額とし、第百四条第二号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済については、被共済者が第百五条第一項第二号ロに掲げる団体であるときは、その構成員の全てを通ずる対象漁業の共済責任期間中の操業に係る生産金額の合計額とする。以下この項において同じ。）がその共済限度額に達しない場合に支払うものとし、共済金の金額は、その共済限度額から当該被共済者が営む対象漁業の共済責任期間中の操業に係る生産金額を差し引いて得た金額に、当該被共済者が営む対象漁業の漁業の種類に応じて農林水産省令で定める割合を乗じて得た金額に、共済金額の共済限度額に対する割合を乗じて得た金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">政令で定める種類の漁業に係る漁獲共済であつて、前項の規定により共済金を支払うものとされる場合に該当する場合における共済金の支払に関し農林水産省令で定める要件に該当する特約がある共済契約に係るものの共済金は、同項の規定にかかわらず、当該共済契約の特約において共済金を支払うべきこととされた場合に該当する場合に支払うものとし、その金額は、当該共済契約の特約に従い算定した金額に、当該被共済者が営む当該漁業の種類に係る同項の農林水産省令で定める割合を乗じて得た金額に、共済金額の共済限度額に対する割合を乗じて得た金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">政令で定める漁業の種類に係る漁獲・特定養殖共済であつて、前項の規定により共済金を支払うものとされる場合に該当する場合における共済金の支払に関し農林水産省令で定める要件に該当する特約がある共済契約に係るものの共済金は、同項の規定にかかわらず、当該共済契約の特約において共済金を支払うべきこととされた場合に該当する場合に支払うものとし、その金額は、当該共済契約の特約に従い算定した金額に、当該被共済者が営む対象漁業の漁業の種類に係る同項の農林水産省令で定める割合を乗じて得た金額に、共済金額の共済限度額に対する割合を乗じて得た金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の漁獲金額については、第百十一条第二項の規定を準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の生産金額については、第百十一条第二項（同条第三項の規定により読み替えて適用する場合を含む。）の規定を準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2977,13 +3014,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">漁獲共済に係る共済契約が締結される場合には、これと併せて継続申込特約をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済に係る共済契約が締結される場合には、当該共済契約について継続申込特約をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の継続申込特約は、その締結される共済契約（以下この条において「当初契約」という。）に係る共済責任期間の終了日の翌日以降農林水産大臣が定める期間内に共済責任期間の開始日が到来することとなる漁獲共済に係る共済契約で当初契約に係る漁業単位及びこれに係る漁業の種類と漁業単位及びこれに係る漁業の種類が同一であるもの（以下この条において「継続契約」という。）について、それぞれの継続契約に係る第八十条第一項の申込期間内に組合に申込書を提出することなく、共済金額の共済限度額に対する割合並びに前条第一項及び第二項に規定する共済金の支払われる場合並びにその共済金の金額の算定の方法が当初契約と同一であるものとして、それぞれ、当該申込期間の終了日に第八十条第一項の締結の申込みがあつたものとする特約とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の継続申込特約は、その締結される共済契約（以下この条において「当初契約」という。）に係る共済責任期間の終了日の翌日以降農林水産大臣が定める期間内に共済責任期間の開始日が到来することとなる漁獲・特定養殖共済に係る共済契約で当初契約に係る漁業単位及びこれに係る漁業の種類又は当初契約に係る特定養殖業の種類と漁業単位及びこれに係る漁業の種類又は特定養殖業の種類が同一であるもの（以下この条において「継続契約」という。）について、それぞれの継続契約に係る第八十条第一項の申込期間内に組合に申込書を提出することなく、共済金額の共済限度額に対する割合並びに前条第一項及び第二項に規定する共済金の支払われる場合並びにその共済金の金額の算定の方法が当初契約と同一であるものとして、それぞれ、当該申込期間の終了日に第八十条第一項の締結の申込みがあつたものとする特約とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -3023,13 +3060,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百四条第二号に掲げる漁業に属する漁業であつて、その漁業に係る共済事故の発生の態様に照らして共済契約の締結につき特例を定める必要があるものとして農林水産省令で定める種類のものに係る漁獲共済に係る共済契約が締結される場合には、これと併せて包括継続申込特約をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百四条第二号に掲げる漁業に属する漁業の種類であつて、その漁業に係る共済事故の発生の態様に照らして共済契約の締結につき特例を定める必要があるものとして農林水産省令で定めるものに係る漁獲・特定養殖共済に係る共済契約（二以上の漁業の種類を一括して対象とする共済契約を除く。）が締結される場合には、当該共済契約について包括継続申込特約をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の包括継続申込特約は、その締結される共済契約（以下この条において「当初契約」という。）に係る共済責任期間の終了日の翌日以降農林水産大臣が定める期間内に共済責任期間の開始日が到来することとなる漁獲共済に係る共済契約で当初契約に係る漁業単位及びこれに係る漁業の種類と漁業単位及びこれに係る漁業の種類が同一であるもの（以下この条において「継続契約」という。）について、それぞれの継続契約に係る第八十条第一項の申込期間内に組合に申込書を提出することなく、共済金額の共済限度額に対する割合、第百十三条第一項及び第二項に規定する共済金の支払われる場合並びにその共済金の金額の算定の方法並びに共済限度額が当初契約と同一であるものとして、それぞれ、当該申込期間の終了日に第八十条第一項の締結の申込みがあつたものとする特約とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の包括継続申込特約は、その締結される共済契約（以下この条において「当初契約」という。）に係る共済責任期間の終了日の翌日以降農林水産大臣が定める期間内に共済責任期間の開始日が到来することとなる漁獲・特定養殖共済に係る共済契約で当初契約に係る漁業単位及びこれに係る漁業の種類と漁業単位及びこれに係る漁業の種類が同一であるもの（以下この条において「継続契約」という。）について、それぞれの継続契約に係る第八十条第一項の申込期間内に組合に申込書を提出することなく、共済金額の共済限度額に対する割合、第百十三条第一項及び第二項に規定する共済金の支払われる場合並びにその共済金の金額の算定の方法並びに共済限度額が当初契約と同一であるものとして、それぞれ、当該申込期間の終了日に第八十条第一項の締結の申込みがあつたものとする特約とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -3060,7 +3097,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">養殖共済は、政令で定める養殖業につき行うものとし、その対象とする養殖業の種類により区分する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">養殖共済は、政令で定める養殖業につき行うものとし、政令で定めるところにより、その対象とする養殖業の種類により区分する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3092,7 +3129,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">養殖共済の被共済者たる資格を有する者（以下この節において「被共済資格者」という。）は、養殖共済の対象とする養殖業の種類に応じ、当該養殖業を営む中小漁業者であつて組合員又は組合員の直接の構成員であるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">養殖共済の被共済者たる資格を有する者（以下この節において「被共済資格者」という。）は、養殖共済の対象とする養殖業の種類に応じ、当該養殖業の種類の養殖業を営む中小漁業者であつて組合員又は組合員の直接の構成員であるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -3108,7 +3145,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">養殖共済に係る共済契約を組合との間に締結することができる者は、対象とする養殖業の種類ごとに、当該種類の養殖業に係る養殖共済の被共済資格者で当該共済契約の成立によつて被共済者となるものに限るものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">養殖共済に係る共済契約を組合との間に締結することができる者は、対象とする養殖業の種類ごとに、当該養殖業の種類に係る養殖共済の被共済資格者で当該共済契約の成立によつて被共済者となるものに限るものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3118,7 +3155,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">養殖共済については、農林水産省令で定める養殖業の種類ごとに、被共済者となる者が、政令で定めるところにより都道府県知事が地先水面を分けて定める一定の水域（以下「単位漁場区域」という。）内（内水面において営む養殖業にあつては、一の事業場）においてその者の営む当該種類の養殖業に係る養殖水産動植物で共済目的とすることができるものの全てを共済目的とし、その養殖業においてその養殖業を営む者が当該共済責任期間中に追加する養殖水産動植物（当該養殖水産動植物と同種のものに限る。）がある場合にはその全てを共済目的とすることを約する場合でなければ、組合は、その者と共済契約を締結することができない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">養殖共済については、対象とする養殖業の種類ごとに、被共済者となる者が、政令で定めるところにより都道府県知事が地先水面を分けて定める一定の水域（以下「単位漁場区域」という。）内（内水面において営む養殖業にあつては、一の事業場）においてその者の営む当該養殖業の種類の養殖業に係る養殖水産動植物で共済目的とすることができるものの全てを共済目的とし、その養殖業においてその養殖業を営む者が当該共済責任期間中に追加する養殖水産動植物（当該養殖水産動植物と同種のものに限る。）がある場合にはその全てを共済目的とすることを約する場合でなければ、組合は、その者と共済契約を締結することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -3150,7 +3187,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">養殖共済の共済責任期間は、対象とする養殖業の種類ごとに、農林水産省令で定めるところにより、当該種類の養殖業の養殖時期（周年操業をするもの（内水面において営む養殖業であつて、農林水産省令で定めるものを除く。）については、一年間）を基準として、共済規程で定める期間とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">養殖共済の共済責任期間は、対象とする養殖業の種類ごとに、農林水産省令で定めるところにより、当該養殖業の種類の養殖業の養殖時期（周年操業をするもの（内水面において営む養殖業であつて、農林水産省令で定めるものを除く。）については、一年間）を基準として、共済規程で定める期間とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3244,36 +3281,36 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">養殖業に係る経営事情及び共済事故の発生の態様に照らして共済金の支払につき特例を定める必要がある次の各号の種類の養殖業に係る養殖共済の養殖水産動植物に係る共済金（第二号の種類の養殖業にあつては、同号の政令で定める共済事故に該当する事故であつて同号の共済規程で指定する単位漁場区域におけるものによつて受けた損害に係る共済金に限る。）については、前項の規定にかかわらず、それぞれ、当該各号に定めるところによるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">養殖業に係る経営事情及び共済事故の発生の態様に照らして共済金の支払につき特例を定める必要がある次の各号の養殖業の種類に係る養殖共済の養殖水産動植物に係る共済金（第二号の養殖業の種類にあつては、同号の政令で定める共済事故に該当する事故であつて同号の共済規程で指定する単位漁場区域におけるものによつて受けた損害に係る共済金に限る。）については、前項の規定にかかわらず、それぞれ、当該各号に定めるところによるものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">政令で定める種類の養殖業に係る養殖共済については、その共済金は、共済契約ごとに、当該共済責任期間における当該共済目的についての共済事故による損害額の合計額が当該共済価額に百分の三十を超えない範囲内において政令で定める割合を乗じて得た金額を超える場合に支払うものとし、その共済金の金額は、共済契約ごとに、当該損害額の合計額のうちその超える部分の金額に共済金額の共済価額に対する割合を乗じて得た金額とする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">政令で定める養殖業の種類に係る養殖共済については、その共済金は、共済契約ごとに、当該共済責任期間における当該共済目的についての共済事故による損害額の合計額が当該共済価額に百分の三十を超えない範囲内において政令で定める割合を乗じて得た金額を超える場合に支払うものとし、その共済金の金額は、共済契約ごとに、当該損害額の合計額のうちその超える部分の金額に共済金額の共済価額に対する割合を乗じて得た金額とする。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前号の政令で定める種類の養殖業以外の養殖業であつて政令で定める種類のものに係る養殖共済については、政令で定める共済事故に該当する事故であつて当該養殖共済の共済事故の発生の態様に応じ政令で定めるところにより組合が共済規程で指定する単位漁場区域におけるものによつて受けた損害に係る共済金は、共済契約ごとに、当該損害数量が、当該直前数量に前項の政令で定める割合（当該割合に比し、当該養殖業に係る養殖共済の共済事故の発生の態様に応じ百分の三十を超えない範囲内において政令で定めるところにより組合が共済規程で当該単位漁場区域につき指定する割合（以下この条において「指定割合」という。）が大きい場合にあつては、指定割合）を乗じて得た数量を超える場合に支払うものとし、その共済金の金額は、共済契約ごとに、政令で定める共済事故に該当する事故によつて受けた当該共済目的についての損害額から、直前数量に指定割合、当該共済目的の第百二十一条第一項の単位当たり共済価額及び第五項の割合を乗じて得た金額（第四項において「控除金額」という。）を差し引いて得た金額に、共済金額の共済価額に対する割合を乗じて得た金額（共済目的の種類たる養殖水産動植物で農林水産省令で定めるものにあつては、その金額に更に農林水産省令で定める割合を乗じて得た金額）とする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前号の政令で定める養殖業の種類以外の養殖業の種類であつて政令で定めるものに係る養殖共済については、政令で定める共済事故に該当する事故であつて当該養殖共済の共済事故の発生の態様に応じ政令で定めるところにより組合が共済規程で指定する単位漁場区域におけるものによつて受けた損害に係る共済金は、共済契約ごとに、当該損害数量が、当該直前数量に前項の政令で定める割合（当該割合に比し、当該養殖業の種類に係る養殖共済の共済事故の発生の態様に応じ百分の三十を超えない範囲内において政令で定めるところにより組合が共済規程で当該単位漁場区域につき指定する割合（以下この条において「指定割合」という。）が大きい場合にあつては、指定割合）を乗じて得た数量を超える場合に支払うものとし、その共済金の金額は、共済契約ごとに、政令で定める共済事故に該当する事故によつて受けた当該共済目的についての損害額から、直前数量に指定割合、当該共済目的の第百二十一条第一項の単位当たり共済価額及び第六項の割合を乗じて得た金額（第四項において「控除金額」という。）を差し引いて得た金額に、共済金額の共済価額に対する割合を乗じて得た金額（共済目的の種類たる養殖水産動植物で農林水産省令で定めるものにあつては、その金額に更に農林水産省令で定める割合を乗じて得た金額）とする。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">政令で定める種類の養殖業に係る養殖共済であつて、共済金の支払われる場合に関し次の各号のすべてに該当する特約がある共済契約に係るものの共済金は、前二項の規定にかかわらず、当該特約において支払うべきこととされた場合に該当する場合に支払うものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">政令で定める養殖業の種類に係る養殖共済であつて、共済金の支払われる場合に関し次の各号のいずれにも該当する特約がある共済契約に係るものの共済金は、前二項の規定にかかわらず、当該特約において支払うべきこととされた場合に該当する場合に支払うものとする。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">次号の政令で定める種類の養殖業以外の養殖業に係るものにあつては、前二項の規定により当該共済金を支払うものとされる場合以外に当該共済金を支払うものでないこと。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次号の政令で定める養殖業の種類以外の養殖業の種類に係るものにあつては、前二項の規定により当該共済金を支払うものとされる場合以外の場合に当該共済金を支払うものでないこと。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項第一号の政令で定める種類の養殖業以外の養殖業であつて、政令で定める種類のものに係るものにあつては、損害数量が直前数量に政令で定める割合（当該割合に比し、指定割合が大きい場合にあつては、指定割合）を乗じて得た数量を下回る場合に当該共済金を支払うものでないこと。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第一号の政令で定める養殖業の種類以外の養殖業の種類であつて政令で定めるものに係るものにあつては、損害数量が直前数量に政令で定める割合（当該割合に比し、指定割合が大きい場合にあつては、指定割合）を乗じて得た数量を下回る場合に当該共済金を支払うものでないこと。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -3286,13 +3323,37 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">政令で定める種類の養殖業に係る養殖共済であつて、共済金の金額の算定の方法に関し農林水産省令で定める要件に該当する特約がある共済契約に係るものの共済金の金額は、第一項又は第二項の規定にかかわらず、当該共済契約の特約に従い算定した金額（同項第二号に規定する損害に係る場合にあつては、控除金額を差し引いて得た金額）に、共済金額の共済価額に対する割合を乗じて得た金額（共済目的の種類たる養殖水産動植物で農林水産省令で定めるものにあつては、その金額に更に農林水産省令で定める割合を乗じて得た金額）とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">政令で定める養殖業の種類に係る養殖共済であつて、共済金の金額の算定の方法に関し農林水産省令で定める要件に該当する特約がある共済契約に係るものの共済金の金額は、第一項又は第二項の規定にかかわらず、当該共済契約の特約に従い算定した金額（同項第二号に規定する損害に係る場合にあつては、控除金額を差し引いて得た金額）に、共済金額の共済価額に対する割合を乗じて得た金額（共済目的の種類たる養殖水産動植物で農林水産省令で定めるものにあつては、その金額に更に農林水産省令で定める割合を乗じて得た金額）とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項及び第二項の損害額は、当該共済事故に係る損害数量に当該共済目的の第百二十一条第一項の単位当たり共済価額を乗じ、これに更に当該共済責任期間の開始日から当該共済事故の発生日までの期間に応じ農林水産省令で定めるところにより共済規程で定める割合を乗じて得た金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">政令で定める養殖業の種類に係る養殖共済であつて、共済金の支払われる場合及び共済金の金額の算定の方法に関し次の各号のいずれにも該当する特約がある共済契約に係るものの共済金は、第一項から第三項までの規定により支払うものとされる場合のほか、同一の原因による共済事故によつて受けた損害に係る養殖施設ごとの共済目的の数量（前条の規定によつて組合が塡補する責めを負わない損害に係る共済目的の数量を除く。）が当該共済事故の発生の直前の当該養殖施設ごとの当該共済目的の数量に政令で定める割合を乗じて得た数量以上である場合に支払うものとし、その場合の共済金の金額は、共済契約ごとに、同一の原因による共済事故によつて受けた損害に係る養殖施設ごとの損害額（前項に規定する特約がある場合にあつては、同一の原因による共済事故によつて受けた損害に係る養殖施設ごとに当該特約に従い算定した金額）に、共済金額の共済価額に対する割合を乗じて得た金額（共済目的の種類たる養殖水産動植物で農林水産省令で定めるものにあつては、その金額に更に農林水産省令で定める割合を乗じて得た金額）とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二項各号の政令で定める養殖業の種類に係るものにあつては、それぞれ当該各号の規定により当該共済金を支払うものとされる場合以外の場合に当該共済金を支払うものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">同一の原因による共済事故によつて受けた損害に係る養殖施設ごとの共済目的の数量（前条の規定によつて組合が塡補する責めを負わない損害に係る共済目的の数量を除く。）が当該共済事故の発生の直前の当該養殖施設ごとの当該共済目的の数量に政令で定める割合を乗じて得た数量を下回る場合に当該共済金を支払うものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">農林水産省令で定める要件に該当すること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項、第二項及び前項の損害額は、当該共済事故に係る損害数量に当該共済目的の第百二十一条第一項の単位当たり共済価額を乗じて得た金額に、当該共済責任期間の開始日から当該共済事故の発生日までの期間に応じ農林水産省令で定めるところにより共済規程で定める割合を乗じて得た金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3302,13 +3363,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">養殖共済に係る共済契約（共済金額の共済価額に対する割合が政令で定める割合以上であるものに限る。）が締結される場合には、これと併せて継続申込特約をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">養殖共済に係る共済契約（共済金額の共済価額に対する割合が政令で定める割合以上であるものに限る。）が締結される場合には、当該共済契約について継続申込特約をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の継続申込特約は、その締結される共済契約（以下この条において「当初契約」という。）に係る共済責任期間の終了日の翌日以降農林水産大臣が定める期間内に共済責任期間の開始日が到来することとなる養殖共済に係る共済契約で当初契約に係る養殖業の種類及び単位漁場区域と養殖業の種類及び単位漁場区域が同一であるもの（以下この条において「継続契約」という。）のすべてについて、それぞれの継続契約に係る第八十条第一項の申込期間内に組合に申込書を提出することなく、共済金額の共済価額に対する割合並びに前条第一項から第四項までに規定する共済金の支払われる場合及びその共済金の金額の算定の方法が当初契約と同一であるものとして、それぞれ、当該申込期間の終了日に第八十条第一項の締結の申込みがあつたものとする特約とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の継続申込特約は、その締結される共済契約（以下この条において「当初契約」という。）に係る共済責任期間の終了日の翌日以降農林水産大臣が定める期間内に共済責任期間の開始日が到来することとなる養殖共済に係る共済契約で当初契約に係る養殖業の種類及び単位漁場区域と養殖業の種類及び単位漁場区域が同一であるもの（以下この条において「継続契約」という。）について、それぞれの継続契約に係る第八十条第一項の申込期間内に組合に申込書を提出することなく、共済金額の共済価額に対する割合並びに前条第一項から第五項までに規定する共済金の支払われる場合及びその共済金の金額の算定の方法が当初契約と同一であるものとして、それぞれ、当該申込期間の終了日に第八十条第一項の締結の申込みがあつたものとする特約とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -3343,187 +3404,7 @@
           </Article>
         </Section>
         <Section Num="4">
-          <SectionTitle>第四節　特定養殖共済</SectionTitle>
-          <Article Num="125_2">
-            <ArticleCaption>（特定養殖共済の対象とする養殖業及び区分）</ArticleCaption>
-            <ArticleTitle>第百二十五条の二</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定養殖共済は、政令で定める養殖業（以下「特定養殖業」という。）につき行うものとし、その対象とする養殖業の種類により区分する。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="125_3">
-            <ArticleCaption>（被共済者の資格）</ArticleCaption>
-            <ArticleTitle>第百二十五条の三</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定養殖共済の被共済者たる資格を有する者（以下この節において「被共済資格者」という。）は、特定養殖業の種類に応じ、当該特定養殖業を営む組合員又は組合員の直接の構成員たる中小漁業者とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定養殖共済に係る共済契約の成立によつて被共済者となつた者については、第百五条第二項の規定を準用する。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="125_4">
-            <ArticleCaption>（共済契約者に関する制限）</ArticleCaption>
-            <ArticleTitle>第百二十五条の四</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定養殖共済に係る共済契約を組合との間に締結することができる者は、対象とする特定養殖業の種類ごとに、当該種類の特定養殖業に係る特定養殖共済の被共済資格者で当該共済契約の成立によつて被共済者となるものに限るものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="125_5">
-            <ArticleCaption>（共済契約の締結の制限）</ArticleCaption>
-            <ArticleTitle>第百二十五条の五</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">一の特定養殖業に係る特定養殖共済又は養殖共済の共済契約が締結されている場合には、当該特定養殖業に係る被共済資格者は、当該特定養殖業については、当該共済契約に係る共済責任期間の全部又は一部をその共済責任期間の全部又は一部とする当該特定養殖業に係る他の特定養殖共済又は養殖共済の共済契約を締結することができない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="125_6">
-            <ArticleCaption>（共済契約の締結の申込み等）</ArticleCaption>
-            <ArticleTitle>第百二十五条の六</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">政令で定めるところにより都道府県知事が特定養殖業の種類に応じその区域を分けて定める一定の区域ごとに、区域内特定養殖業者（当該区域内に住所を有し、かつ、当該特定養殖業を営む被共済資格者であつて政令で定める要件に該当するものをいう。以下この条において同じ。）の三分の二以上の者が特定養殖共済に係る共済契約の締結の申込みをすることにつき同意をした場合において、当該同意につき次項において準用する第百五条の二第四項の規定による公示があつたときは、区域内特定養殖業者（当該公示があつた後に区域内特定養殖業者となつた者を含む。）は、組合に当該特定養殖共済に係る共済契約の締結の申込みをしなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">当該特定養殖共済の共済責任期間が終了したときも、同様とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百五条の二第一項ただし書の規定は前項の規定による共済契約の締結の申込みについて、同条第二項から第四項までの規定は前項の規定による区域内特定養殖業者の同意について、それぞれ準用する。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="125_7">
-            <ArticleCaption>（共済責任期間）</ArticleCaption>
-            <ArticleTitle>第百二十五条の七</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定養殖共済の共済責任期間は、対象とする特定養殖業の種類ごとに、農林水産省令で定めるところにより、当該種類の特定養殖業の養殖時期（周年操業をするものについては、一年間）を基準として、共済規程で定める期間とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="125_8">
-            <ArticleCaption>（共済金額）</ArticleCaption>
-            <ArticleTitle>第百二十五条の八</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定養殖共済の共済金額は、共済限度額を超えない範囲内において、共済規程で定めるところにより、共済契約で定める金額とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定により共済金額を定める場合において、特定養殖業の種類のうち必要があると認めるものについて農林水産大臣があらかじめその最高限度を定めているときは、その限度を超えて定めることができない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="125_9">
-            <ArticleCaption>（共済限度額）</ArticleCaption>
-            <ArticleTitle>第百二十五条の九</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前条第一項の共済限度額は、共済契約ごとに、政令で定めるところにより、当該被共済資格者の営む当該特定養殖業の過去一定年間の養殖に係る生産金額を基準とし、当該被共済資格者の当該特定養殖業に係る経営事情、当該被共済資格者と当該特定養殖業に関し近似する事情の存する当該特定養殖業に係る特定養殖共済の他の被共済資格者の営む当該特定養殖業の過去一定年間の養殖に係る生産金額その他当該地域における養殖業の事情を勘案して組合が定める金額に、百分の九十を超えない範囲内において当該被共済資格者の営む当該特定養殖業の種類に応じて農林水産省令で定める割合を乗じて得た金額とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定により共済限度額を定める場合における同項の生産金額は、当該特定養殖業の養殖に係る水産動植物による収入金額（農林水産省令で定めるところにより収入とみなされるものの金額を含む。）として、農林水産省令で定める基準に従い組合が認定する金額によるものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="125_10">
-            <ArticleCaption>（純共済掛金率）</ArticleCaption>
-            <ArticleTitle>第百二十五条の十</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定養殖共済の純共済掛金率は、対象とする特定養殖業の種類その他危険の程度を区分する要因となる事項で農林水産大臣の定めるものに応ずる次項の危険階級に係る同項の基準共済掛金率を下らない範囲内において、組合が共済規程で定める割合とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">農林水産大臣は、特定養殖共済につき、特定養殖業の種類その他前項の農林水産大臣の定める事項に応じて危険階級を区分し、その区分ごとに基準共済掛金率を定めなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="125_11">
-            <ArticleCaption>（共済金）</ArticleCaption>
-            <ArticleTitle>第百二十五条の十一</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定養殖共済の共済金は、共済契約ごとに、当該被共済者が営む当該特定養殖業の共済責任期間中の養殖に係る生産金額がその共済限度額に達しない場合に支払うものとし、共済金の金額は、その共済限度額から当該被共済者が営む当該特定養殖業の共済責任期間中の養殖に係る生産金額を差し引いて得た金額に、当該被共済者が営む当該特定養殖業の種類に応じて農林水産省令で定める割合を乗じて得た金額に、共済金額の共済限度額に対する割合を乗じて得た金額とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">政令で定める種類の特定養殖業に係る特定養殖共済であつて、前項の規定により共済金を支払うものとされる場合に該当する場合における共済金の支払に関し農林水産省令で定める要件に該当する特約がある共済契約に係るものの共済金は、同項の規定にかかわらず、当該共済契約の特約において共済金を支払うべきこととされた場合に該当する場合に支払うものとし、その金額は、当該共済契約の特約に従い算定した金額に、当該被共済者が営む当該特定養殖業の種類に係る同項の農林水産省令で定める割合を乗じて得た金額に、共済金額の共済限度額に対する割合を乗じて得た金額とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の生産金額については、第百二十五条の九第二項の規定を準用する。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="125_12">
-            <ArticleCaption>（継続申込特約）</ArticleCaption>
-            <ArticleTitle>第百二十五条の十二</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定養殖共済に係る共済契約が締結される場合には、これと併せて継続申込特約をすることができる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の継続申込特約は、その締結される共済契約（以下この条において「当初契約」という。）に係る共済責任期間の終了日の翌日以降農林水産大臣が定める期間内に共済責任期間の開始日が到来することとなる特定養殖共済に係る共済契約で当初契約に係る特定養殖業の種類と特定養殖業の種類が同一であるもの（以下この条において「継続契約」という。）について、それぞれの継続契約に係る第八十条第一項の申込期間内に組合に申込書を提出することなく、共済金額の共済限度額に対する割合並びに前条第一項及び第二項に規定する共済金の支払われる場合並びにその共済金の金額の算定の方法が当初契約と同一であるものとして、それぞれ、当該申込期間の終了日に第八十条第一項の締結の申込みがあつたものとする特約とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">継続契約の共済金額の共済限度額に対する割合の変更については、第百十三条の二第四項及び第五項の規定を準用する。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">継続契約の共済限度額については、第百十三条の二第六項の規定を準用する。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="5">
-              <ParagraphNum>５</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の継続申込特約については、第百十三条の二第三項及び第七項の規定を準用する。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-        </Section>
-        <Section Num="5">
-          <SectionTitle>第五節　漁業施設共済</SectionTitle>
+          <SectionTitle>第四節　漁業施設共済</SectionTitle>
           <Article Num="126">
             <ArticleCaption>（共済目的及び共済事故）</ArticleCaption>
             <ArticleTitle>第百二十六条</ArticleTitle>
@@ -3680,13 +3561,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">漁業施設共済に係る共済契約（当該共済契約に係る第百三十一条第一項の割合が政令で定める割合以上であるものに限る。）が締結される場合には、これと併せて継続申込特約をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">漁業施設共済に係る共済契約（当該共済契約に係る第百三十一条第一項の割合が政令で定める割合以上であるものに限る。）が締結される場合には、当該共済契約について継続申込特約をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の継続申込特約は、その締結される共済契約（以下この条において「当初契約」という。）に係る共済責任期間の終了日の翌日以降農林水産大臣が定める期間内に共済責任期間の開始日が到来することとなる漁業施設共済に係る共済契約で当初契約に係る養殖施設又は漁具と養殖施設又は漁具が同一であるもの（以下この条において「継続契約」という。）のすべてについて、それぞれの継続契約に係る第八十条第一項の申込期間内に組合に申込書を提出することなく、第百三十一条第一項の割合並びに前三条に規定する共済金の支払われる場合及びその共済金の金額の算定の方法が当初契約と同一であるものとして、それぞれ、当該申込期間の終了日に第八十条第一項の締結の申込みがあつたものとする特約とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の継続申込特約は、その締結される共済契約（以下この条において「当初契約」という。）に係る共済責任期間の終了日の翌日以降農林水産大臣が定める期間内に共済責任期間の開始日が到来することとなる漁業施設共済に係る共済契約で当初契約に係る養殖施設又は漁具と養殖施設又は漁具が同一であるもの（以下この条において「継続契約」という。）について、それぞれの継続契約に係る第八十条第一項の申込期間内に組合に申込書を提出することなく、第百三十一条第一項の割合並びに前三条に規定する共済金の支払われる場合及びその共済金の金額の算定の方法が当初契約と同一であるものとして、それぞれ、当該申込期間の終了日に第八十条第一項の締結の申込みがあつたものとする特約とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -3749,7 +3630,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">漁獲共済、養殖共済及び特定養殖共済に係るものにあつては、共済契約ごとに、次に掲げる金額を合計して得た金額</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済及び養殖共済に係るものにあつては、共済契約ごとに、次に掲げる金額を合計して得た金額</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -3780,7 +3661,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項第一号に規定する団体責任分担共済金額は当該共済契約に係る共済金額のうち連合会が組合とその支払についての責任を分担すべき部分の金額として、同号に規定する特別団体責任分担共済金額は団体責任分担共済金額のうち主として連合会が当該責任を分担すべき部分の金額として、それぞれ、政令で定めるところにより漁獲共済に係るものにあつては漁業の種類、養殖共済に係るものにあつては養殖業の種類、特定養殖共済に係るものにあつては特定養殖業の種類に応じ組合の共済責任に係る危険の態様を勘案して農林水産大臣が定める方法により算定される金額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項第一号に規定する団体責任分担共済金額は当該共済契約に係る共済金額のうち連合会が組合とその支払についての責任を分担すべき部分の金額として、同号に規定する特別団体責任分担共済金額は団体責任分担共済金額のうち主として連合会が当該責任を分担すべき部分の金額として、それぞれ、政令で定めるところにより漁獲・特定養殖共済に係るものにあつては漁業の種類、養殖共済に係るものにあつては養殖業の種類に応じ組合の共済責任に係る危険の態様を勘案して農林水産大臣が定める方法により算定される金額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3795,7 +3676,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">漁獲共済、養殖共済及び特定養殖共済に係るものにあつては、共済契約に係る共済金額に当該共済契約に係る純共済掛金率の限度となつた基準共済掛金率を乗じて得た金額のうち、漁獲共済に係るものにあつては前条第二項の漁業の種類、養殖共済に係るものにあつては同項の養殖業の種類、特定養殖共済に係るものにあつては同項の特定養殖業の種類に応じ、連合会の再共済責任に係る危険に対応するものとして農林水産大臣の定めるところにより算定される部分の金額</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済及び養殖共済に係るものにあつては、共済契約に係る共済金額に当該共済契約に係る純共済掛金率の限度となつた基準共済掛金率を乗じて得た金額のうち、漁獲・特定養殖共済に係るものにあつては漁業の種類、養殖共済に係るものにあつては養殖業の種類に応じ、連合会の再共済責任に係る危険に対応するものとして農林水産大臣の定めるところにより算定される部分の金額</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -3812,7 +3693,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">会員は、第九十条第二項、第九十一条第四項、第九十二条第二項又は第百十三条の二第七項（第百二十四条の二第五項、第百二十五条の十二第五項及び第百三十六条の三第四項において準用する場合を含む。）の規定により共済掛金の払戻しをしなければならないときは、農林水産省令で定めるところにより、連合会に対し、再共済掛金の全部又は一部の払戻しを請求することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">会員は、第九十条第二項、第九十一条第四項、第九十二条第二項又は第百十三条の二第七項（第百二十四条の二第五項及び第百三十六条の三第四項において準用する場合を含む。）の規定により共済掛金の払戻しをしなければならないときは、農林水産省令で定めるところにより、連合会に対し、再共済掛金の全部又は一部の払戻しを請求することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3827,7 +3708,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">漁獲共済、養殖共済及び特定養殖共済に係るものにあつては、共済契約ごとに、次に掲げる金額</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">漁獲・特定養殖共済及び養殖共済に係るものにあつては、共済契約ごとに、次に掲げる金額</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -4016,7 +3897,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">連合会は、再共済契約につき第百四十二条の規定により再共済掛金の払戻しをしなければならないとき又は共済契約につき第百四十七条の二第二項において準用する第九十条第二項、第九十一条第四項、第九十二条第二項若しくは第百十三条の二第七項（第百二十四条の二第五項、第百二十五条の十二第五項及び第百三十六条の三第四項において準用する場合を含む。）の規定により共済掛金の払戻しをしなければならないときは、農林水産省令で定めるところにより、政府に対し、保険料の全部又は一部の払戻しを請求することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、再共済契約につき第百四十二条の規定により再共済掛金の払戻しをしなければならないとき又は共済契約につき第百四十七条の二第二項において準用する第九十条第二項、第九十一条第四項、第九十二条第二項若しくは第百十三条の二第七項（第百二十四条の二第五項及び第百三十六条の三第四項において準用する場合を含む。）の規定により共済掛金の払戻しをしなければならないときは、農林水産省令で定めるところにより、政府に対し、保険料の全部又は一部の払戻しを請求することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4154,13 +4035,13 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第百四条第一号に掲げる漁業に属する漁業に係る漁獲共済の共済契約者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百四条第一号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済の共済契約者（二以上の漁業の種類を一括して共済契約の対象とする漁獲・特定養殖共済の共済契約者にあつては、政令で定める要件に該当するものに限る。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第百四条第二号に掲げる漁業に属する漁業に係る漁獲共済、養殖共済又は特定養殖共済の共済契約者のうち、その営む漁業の規模（その者が第百五条第一項第二号ロに掲げる団体であるときはその構成員の営む漁業の平均規模）が政令で定める一定の規模以下であり、かつ、当該漁獲共済、養殖共済又は特定養殖共済への加入の円滑化等を図るため必要と認められる政令で定める一定の要件に適合するもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百四条第二号若しくは第三号に掲げる漁業に属する漁業の種類に係る漁獲・特定養殖共済の共済契約者（前号に掲げる共済契約者を除く。）又は養殖共済の共済契約者のうち、その営む漁業の規模（その者が第百五条第一項第二号ロに掲げる団体であるときはその構成員の営む漁業の平均規模）が政令で定める一定の規模以下であり、かつ、当該漁獲・特定養殖共済又は養殖共済への加入の円滑化等を図るため必要と認められる政令で定める一定の要件に適合するもの</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -4421,7 +4302,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">組合が行う地域共済事業は、組合員又はその直接の構成員たる中小漁業者の漁獲金額若しくは養殖に係る生産金額の減少又は養殖水産動植物、養殖施設若しくは漁具に係る損害であつて漁業共済事業によつてはてん補されないものにつき、被共済者に対し共済金を交付する事業とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">組合が行う地域共済事業は、組合員又はその直接の構成員たる中小漁業者の漁獲若しくは養殖に係る生産金額の減少又は養殖水産動植物、養殖施設若しくは漁具に係る損害であつて漁業共済事業によつては塡補されないものにつき、被共済者に対し共済金を交付する事業とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -5958,7 +5839,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年五月一四日法律第三一号" Extract="true">
+    <SupplProvision AmendLawNum="令和七年五月一四日法律第三一号">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -6012,6 +5893,22 @@
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律の施行の日前に旧法第百八条第五項及び第百二十五条の六第三項において準用する旧法第百五条の二第四項の規定によりされた公示で、この法律の施行の際現に効力を有するものは、第一条の規定による改正後の漁業災害補償法（以下この項において「新法」という。）第百八条第四項及び第百二十五条の六第二項において準用する新法第百五条の二第四項の規定によりされた公示とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（第二条の規定による漁業災害補償法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第二号に掲げる規定の施行の際現に成立している第二条の規定による改正前の漁業災害補償法（次項において「第二号旧法」という。）に基づく漁獲共済及び特定養殖共済に係る共済契約、当該共済契約に係る再共済契約及び保険契約並びに当該共済契約に基づき支払うべき共済掛金に係る補助金については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第二号に掲げる規定の施行の日前に第二号旧法第百八条第四項及び第百二十五条の六第二項において準用する第二号旧法第百五条の二第四項の規定によりされた公示で、附則第一条第二号に掲げる規定の施行の際現に効力を有するものは、第二条の規定による改正後の漁業災害補償法（以下この項において「第二号新法」という。）第百八条第五項において準用する第二号新法第百五条の二第四項の規定によりされた公示とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
