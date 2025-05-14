@@ -1,0 +1,1720 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Showa" Year="22" Num="135" PromulgateMonth="11" PromulgateDay="19" LawType="Act"><LawNum>昭和二十二年法律第百三十五号</LawNum><LawBody><LawTitle Kana="かいなんしんぱんほう" Abbrev="" AbbrevKana="">海難審判法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　海難審判所の組織及び管轄</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　組織</SectionTitle>
+          <ArticleRange>（第七条―第十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　管轄</SectionTitle>
+          <ArticleRange>（第十六条―第十八条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　補佐人</ChapterTitle>
+        <ArticleRange>（第十九条―第二十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　審判前の手続</ChapterTitle>
+        <ArticleRange>（第二十四条―第二十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　審判</ChapterTitle>
+        <ArticleRange>（第三十条―第四十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　裁決の取消しの訴え</ChapterTitle>
+        <ArticleRange>（第四十四条―第四十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　裁決の執行</ChapterTitle>
+        <ArticleRange>（第四十七条―第五十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="8">
+        <ChapterTitle>第八章　雑則</ChapterTitle>
+        <ArticleRange>（第五十二条―第五十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、職務上の故意又は過失によつて海難を発生させた海技士若しくは小型船舶操縦士又は水先人に対する懲戒を行うため、国土交通省に設置する海難審判所における審判の手続等を定め、もつて海難の発生の防止に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「海難」とは、次に掲げるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">船舶の運用に関連した船舶又は船舶以外の施設の損傷</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">船舶の構造、設備又は運用に関連した人の死傷</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">船舶の安全又は運航の阻害</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（懲戒）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海難審判所は、海難が海技士（船舶職員及び小型船舶操縦者法（昭和二十六年法律第百四十九号）第二十二条の二第一項又は第二十二条の三第一項の承認を受けた者を含む。第八条及び第二十八条第一項において同じ。）若しくは小型船舶操縦士又は水先人の職務上の故意又は過失によつて発生したものであるときは、裁決をもつてこれを懲戒しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（懲戒の種類）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">懲戒は、次の三種とし、その適用は、行為の軽重に従つてこれを定める。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">免許（船舶職員及び小型船舶操縦者法第二十二条の二第一項及び第二十二条の三第一項の承認を含む。第四十九条及び第五十一条において同じ。）の取消し</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">業務の停止</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">戒告</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">業務の停止の期間は、一箇月以上三年以下とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（懲戒免除）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海難審判所は、海難の性質若しくは状況又はその者の経歴その他の情状により、懲戒の必要がないと認めるときは、特にこれを免除することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（裁決の効力）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海難審判所は、本案につき既に確定裁決のあつた事件については、審判を行うことはできない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　海難審判所の組織及び管轄</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　組織</SectionTitle>
+          <Article Num="7">
+            <ArticleCaption>（設置）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通省に、特別の機関として、海難審判所を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="8">
+            <ArticleCaption>（任務）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">海難審判所は、海技士若しくは小型船舶操縦士又は水先人に対する懲戒を行うための海難の調査及び審判を行うことを任務とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（所掌事務）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">海難審判所は、前条の任務を達成するため、次に掲げる事務をつかさどる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">審判の請求に係る海難の調査を行うこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">審判を行うこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">裁決を執行すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">海事補佐人の監督に関すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、海難の審判に関すること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（海難審判所長）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">海難審判所の長は、海難審判所長とし、審判官をもつて充てる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（地方海難審判所）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">海難審判所の事務の一部を取り扱わせるため、所要の地に、地方海難審判所を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">地方海難審判所の名称、位置、管轄区域及び内部組織は、国土交通省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（審判官及び理事官）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">海難審判所に審判官及び理事官を置く。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">理事官は、審判の請求及びこれに係る海難の調査並びに裁決の執行に関することをつかさどる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">審判官及び理事官は、海難の調査及び審判を行うについて必要な法律及び海事に関する知識経験を有する者として政令で定める者の中から、国土交通大臣がこれを任命する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">審判官及び理事官の定数は、政令でこれを定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（職権の行使）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">審判官は、独立してその職権を行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（構成）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">海難審判所は、三名の審判官で構成する合議体で審判を行う。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、地方海難審判所においては、一名の審判官で審判を行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">地方海難審判所において、審判官は、事件が一名の審判官で審判を行うことが不適当であると認めるときは、前項の規定にかかわらず、三名の審判官で構成する合議体で審判を行う旨の決定をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">合議体で審判を行う場合においては、審判官のうち一人を審判長とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（国土交通省令への委任）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この節に定めるもののほか、海難審判所の位置及び内部組織は、国土交通省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　管轄</SectionTitle>
+          <Article Num="16">
+            <ArticleCaption>（事件の管轄）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">審判に付すべき事件のうち、旅客の死亡を伴う海難その他の国土交通省令で定める重大な海難以外の海難に係るものは、当該海難の発生した地点を管轄する地方海難審判所（海難の発生した地点が明らかでない場合には、その海難に係る船舶の船籍港を管轄する地方海難審判所）が管轄する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">同一事件が二以上の地方海難審判所に係属するときは、最初に審判開始の申立てを受けた地方海難審判所においてこれを審判する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国外で発生する事件の管轄については、国土交通省令の定めるところによる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（事件の移送）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">地方海難審判所は、事件がその管轄に属しないと認めるときは、決定をもつてこれを当該事件を管轄する地方海難審判所に移送しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により移送を受けた地方海難審判所は、更に事件を他の地方海難審判所に移送することはできない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の場合には、事件は、初めから移送を受けた地方海難審判所に係属したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（管轄の移転）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">理事官又は受審人は、国土交通省令の定めるところにより、海難審判所長に管轄の移転を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">海難審判所長は、前項の規定による請求があつた場合において、審判上便益があると認めるときは、管轄を移転することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　補佐人</ChapterTitle>
+        <Article Num="19">
+          <ArticleCaption>（補佐人の選任）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">受審人は、国土交通省令の定めるところにより、補佐人を選任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（補佐人の権限）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">補佐人は、この法律に定めるもののほか、国土交通省令の定める行為に限り、独立してこれをすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（補佐人の要件等）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">補佐人は、海難審判所に海事補佐人として登録した者の中からこれを選任しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、海難審判所の許可を受けたときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海事補佐人の資格及び登録に関する事項は、国土交通省令でこれを定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（海事補佐人の義務）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海事補佐人は、誠実にその職務を行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海事補佐人は、職務上知り得た秘密を守らなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleCaption>（海事補佐人に対する監督）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海事補佐人は、海難審判所長の監督を受ける。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　審判前の手続</ChapterTitle>
+        <Article Num="24">
+          <ArticleCaption>（海難の発生の通報）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国土交通大臣（船員法（昭和二十二年法律第百号）第百三条第一項の規定により国土交通大臣の行うべき事務を日本の領事官が行う場合にあつては、当該領事官）は、同法第十九条の規定により海難について報告があつたとき、又は海難が発生したことを知つたときは、直ちに管轄する海難審判所の理事官にその旨を通報しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海上保安官、警察官及び市町村長は、海難が発生したことを知つたときは、直ちに管轄する海難審判所の理事官にその旨を通報しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（理事官による調査）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">理事官は、この法律によつて審判を行わなければならない事実があつたことを認知したときは、直ちに、事実を調査し、かつ、証拠を集取しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（理事官の義務）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">理事官は、事実の調査及び証拠の集取については、秘密を守り、関係人の名誉を傷つけないように注意しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（調査のための処分）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">理事官は、その職務を行うため必要があるときは、次の処分をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">海難関係人に出頭をさせ、又は質問をすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">船舶その他の場所を検査すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">海難関係人に報告をさせ、又は帳簿書類その他の物件の提出を命ずること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣、運輸安全委員会、気象庁長官、海上保安庁長官その他の関係行政機関に対して報告又は資料の提出を求めること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">鑑定人、通訳人若しくは翻訳人に出頭をさせ、又は鑑定、通訳若しくは翻訳をさせること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">理事官は、前項第二号の処分をするには、その身分を示す証票を携帯しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（審判開始の申立て）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">理事官は、海難が海技士若しくは小型船舶操縦士又は水先人の職務上の故意又は過失によつて発生したものであると認めたときは、海難審判所に対して、その者を受審人とする審判開始の申立てをしなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、理事官は、事実発生の後五年を経過した海難については、審判開始の申立てをすることはできない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の申立ては、海難の事実及び受審人に係る職務上の故意又は過失の内容を示して、書面でこれをしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（通告）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">理事官は、国土交通省令の定めるところにより、審判開始の申立てをした旨を受審人に通告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　審判</ChapterTitle>
+        <Article Num="30">
+          <ArticleCaption>（審判の開始）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海難審判所は、理事官の審判開始の申立てによつて、審判を開始する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（審判の公開）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審判の対審及び裁決は、公開の審判廷でこれを行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（審判長等の権限）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審判長又は審判を開始した一名の審判官は、開廷中審判を指揮し、審判廷の秩序を維持する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">審判長又は審判を開始した一名の審判官は、審判を妨げる者に対し退廷を命じその他審判廷の秩序を維持するため必要な措置を執ることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（受審人の尋問）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海難審判所は、審判期日に受審人を召喚し、これを尋問することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（口頭弁論）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">裁決は、口頭弁論に基づいてこれをしなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、受審人が正当の理由なく審判期日に出頭しないときは、その陳述を聴かないで裁決をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（証拠の取調べ）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海難審判所は、申立てにより又は職権で、必要な証拠を取り調べることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海難審判所は、第一回の審判期日前においては、次の方法以外の方法により、証拠を取り調べることができない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">船舶その他の場所を検査すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">帳簿書類その他の物件の提出を命ずること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国土交通大臣、運輸安全委員会、気象庁長官、海上保安庁長官その他の関係行政機関に対して報告又は資料の提出を求めること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海難審判所は、<Ruby>勾<Rt>こう</Rt></Ruby>引、押収、捜索その他人の身体、物若しくは場所についての強制の処分をし、若しくはさせ、又は過料の決定をすることができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（宣誓）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">海難審判所は、前条第一項の証拠の取調べとして証人に証言をさせ、鑑定人に鑑定をさせ、通訳人に通訳をさせ、又は翻訳人に翻訳をさせる場合には、これらの者に国土交通省令で定める方法により宣誓をさせなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、国土交通省令で定める者には、宣誓をさせないことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleCaption>（証拠による事実認定）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事実の認定は、審判期日に取り調べた証拠によらなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleCaption>（自由心証主義）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">証拠の証明力は、審判官の自由な判断にゆだねる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39">
+          <ArticleCaption>（審判開始の申立ての棄却）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海難審判所は、次の場合には、裁決をもつて審判開始の申立てを棄却しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">事件について審判権を有しないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">審判開始の申立てがその規定に違反してされたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六条又は第十六条第二項の規定により審判を行うべきでないとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="40">
+          <ArticleCaption>（裁決の方式）</ArticleCaption>
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁決には、理由を付さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">本案の裁決には、海難の事実及び受審人に係る職務上の故意又は過失の内容を明らかにし、かつ、証拠によつてこれらの事実を認めた理由を示さなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、海難の事実がなかつたと認めるときは、その旨を明らかにすれば足りる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleCaption>（裁決の告知）</ArticleCaption>
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁決の告知は、審判廷における言渡しによつてこれをする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="43">
+          <ArticleCaption>（国土交通省令への委任）</ArticleCaption>
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、審判の手続に関し必要な事項は、国土交通省令でこれを定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　裁決の取消しの訴え</ChapterTitle>
+        <Article Num="44">
+          <ArticleCaption>（裁決の取消しの訴え）</ArticleCaption>
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁決の取消しの訴えは、東京高等裁判所の管轄に専属する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の訴えは、裁決の言渡しの日から三十日以内に、これを提起しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の期間は、これを不変期間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="45">
+          <ArticleCaption>（被告適格）</ArticleCaption>
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の訴えにおいては、海難審判所長を被告とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="46">
+          <ArticleCaption>（裁決の取消し）</ArticleCaption>
+          <ArticleTitle>第四十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、請求が理由があると認めるときは、裁決を取り消さなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合には、海難審判所は、更に審判を行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所の裁判において裁決の取消しの理由とした判断は、その事件について海難審判所を拘束する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　裁決の執行</ChapterTitle>
+        <Article Num="47">
+          <ArticleCaption>（裁決の執行時期）</ArticleCaption>
+          <ArticleTitle>第四十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁決は、確定の後これを執行する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="48">
+          <ArticleCaption>（裁決の執行者）</ArticleCaption>
+          <ArticleTitle>第四十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">海難審判所の裁決は、理事官が、これを執行する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="49">
+          <ArticleCaption>（免許取消しの裁決の執行）</ArticleCaption>
+          <ArticleTitle>第四十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">免許の取消しの裁決があつたときは、理事官は、海技免状（船舶職員及び小型船舶操縦者法第二十二条の二第七項（同法第二十二条の三第二項において準用する場合を含む。）において読み替えて準用する同法第七条第一項の承認証を含む。次条及び第五十一条において同じ。）若しくは小型船舶操縦免許証又は水先免状を取り上げ、これを国土交通大臣に送付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="50">
+          <ArticleCaption>（業務停止の裁決の執行）</ArticleCaption>
+          <ArticleTitle>第五十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">業務の停止の裁決があつたときは、理事官は、海技免状若しくは小型船舶操縦免許証又は水先免状を取り上げ、期間満了の後これを本人に還付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="51">
+          <ArticleCaption>（海技免状等の無効の告示）</ArticleCaption>
+          <ArticleTitle>第五十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">免許の取消し又は業務の停止を言い渡された者が理事官に海技免状若しくは小型船舶操縦免許証又は水先免状を差し出さないときは、理事官は、その海技免状若しくは小型船舶操縦免許証又は水先免状の無効を宣し、これを官報に告示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="8">
+        <ChapterTitle>第八章　雑則</ChapterTitle>
+        <Article Num="52">
+          <ArticleCaption>（証人等の費用）</ArticleCaption>
+          <ArticleTitle>第五十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定により出頭した証人、鑑定人、通訳人及び翻訳人には、国土交通省令の定めるところにより、旅費、日当及び宿泊料を支給する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">鑑定人、通訳人又は翻訳人は、それぞれ政令で定めるところにより鑑定料、通訳料又は翻訳料を請求することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="53">
+          <ArticleCaption>（行政手続法の適用除外）</ArticleCaption>
+          <ArticleTitle>第五十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に基づいてされる処分及び行政指導については、行政手続法（平成五年法律第八十八号）第二章から第四章の二までの規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="54">
+          <ArticleCaption>（審査請求）</ArticleCaption>
+          <ArticleTitle>第五十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に基づく処分又はその不作為については、審査請求をすることができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="55">
+          <ArticleCaption>（国土交通省令への委任）</ArticleCaption>
+          <ArticleTitle>第五十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、海難審判所の事務処理その他この法律の施行に関して必要な事項は、国土交通省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="56">
+          <ArticleCaption>（過料）</ArticleCaption>
+          <ArticleTitle>第五十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、三十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">海難審判所から受審人として再度の召喚を受け、正当の理由がないのに出頭しない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">海難審判所から証人、鑑定人、通訳人又は翻訳人として召喚を受け、正当の理由がないのに出頭せず、又はその義務を尽さない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">海難審判所の検査を拒み、妨げ又は忌避した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">海難審判所から提出を命ぜられた帳簿書類その他の物件を提出せず、又は虚偽の記載をした帳簿書類を提出した者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="57">
+          <ArticleTitle>第五十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十二条第二項の規定による審判長又は審判を開始した一名の審判官の命令に従わなかつた者は、これを十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律施行の期日は、政令でこれを定める。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、その期日は、昭和二十三年三月一日以後であつてはならない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、この法律施行前に発生した海難については、これを適用しない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">海員懲戒法は、これを廃止する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">水先法の一部を次のように改正する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="5" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律施行前に発生した事実に基く審判については、旧法及び改正前の水先法第十九条乃至第二十一条の規定は、なおその効力を有する。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">この場合において、旧法及びこれらの規定中「海員審判所」とあるのは「海難審判所」と読み替えるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="6" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">高等海員審判所においてした事件に関する手続は、これを高等海難審判所においてした事件に関する手続と、地方海員審判所においてした事件に関する手続は、これをその地方海員審判所の所在地を管轄する地方海難審判所においてした事件に関する手続とみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二三年四月二七日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="34">
+        <ArticleTitle>第三十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律施行の期日は、政令でこれを定める。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、その期日は、昭和二十三年五月一日後であつてはならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二四年五月三〇日法律第一二一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律施行の期日は、公布の日から三箇月をこえない期間内において、政令で定める。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二四年五月三一日法律第一五八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、昭和二十四年六月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">従前の海難審判所及びその職員は、第二条の規定による海難審判法の改正規定に基く相当の機関及び職員となり、同一性をもつて存続するものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">高等海難審判所においてした事件に関する手続は、これを高等海難審判庁においてした事件に関する手続と、地方海難審判所においてした事件に関する手続は、これを当該地方海難審判所の所在地を管轄する地方海難審判庁においてした事件に関する手続とみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二五年五月二三日法律第一九八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、昭和二十五年六月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二六年四月二日法律第一二一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二六年四月一六日法律第一四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律施行の期日は、公布の日から起算して六箇月をこえない期間内において政令で定める。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二七年四月二六日法律第九七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二七年七月三一日法律第二七八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、昭和二十七年八月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三三年四月五日法律第五二号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、昭和三十三年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三七年五月一六日法律第一四〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、昭和三十七年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律による改正後の規定は、この附則に特別の定めがある場合を除き、この法律の施行前に生じた事項にも適用する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この法律による改正前の規定によつて生じた効力を妨げない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に係属している訴訟については、当該訴訟を提起することができない旨を定めるこの法律による改正後の規定にかかわらず、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に係属している訴訟の管轄については、当該管轄を専属管轄とする旨のこの法律による改正後の規定にかかわらず、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律の施行の際現にこの法律による改正前の規定による出訴期間が進行している処分又は裁決に関する訴訟の出訴期間については、なお従前の例による。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この法律による改正後の規定による出訴期間がこの法律による改正前の規定による出訴期間より短い場合に限る。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <ParagraphNum>６</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行前にされた処分又は裁決に関する当事者訴訟で、この法律による改正により出訴期間が定められることとなつたものについての出訴期間は、この法律の施行の日から起算する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="7">
+        <ParagraphNum>７</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律の施行の際現に係属している処分又は裁決の取消しの訴えについては、当該法律関係の当事者の一方を被告とする旨のこの法律による改正後の規定にかかわらず、なお従前の例による。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、裁判所は、原告の申立てにより、決定をもつて、当該訴訟を当事者訴訟に変更することを許すことができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="8">
+        <ParagraphNum>８</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">前項ただし書の場合には、行政事件訴訟法第十八条後段及び第二十一条第二項から第五項までの規定を準用する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三七年九月一五日法律第一六一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、昭和三十七年十月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律による改正後の規定は、この附則に特別の定めがある場合を除き、この法律の施行前にされた行政庁の処分、この法律の施行前にされた申請に係る行政庁の不作為その他この法律の施行前に生じた事項についても適用する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この法律による改正前の規定によつて生じた効力を妨げない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行前に提起された訴願、審査の請求、異議の申立てその他の不服申立て（以下「訴願等」という。）については、この法律の施行後も、なお従前の例による。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">この法律の施行前にされた訴願等の裁決、決定その他の処分（以下「裁決等」という。）又はこの法律の施行前に提起された訴願等につきこの法律の施行後にされる裁決等にさらに不服がある場合の訴願等についても、同様とする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">前項に規定する訴願等で、この法律の施行後は行政不服審査法による不服申立てをすることができることとなる処分に係るものは、同法以外の法律の適用については、行政不服審査法による不服申立てとみなす。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">第三項の規定によりこの法律の施行後にされる審査の請求、異議の申立てその他の不服申立ての裁決等については、行政不服審査法による不服申立てをすることができない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <ParagraphNum>６</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行前にされた行政庁の処分で、この法律による改正前の規定により訴願等をすることができるものとされ、かつ、その提起期間が定められていなかつたものについて、行政不服審査法による不服申立てをすることができる期間は、この法律の施行の日から起算する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="8">
+        <ParagraphNum>８</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="9">
+        <ParagraphNum>９</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">前八項に定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="10">
+        <ParagraphNum>１０</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律及び行政事件訴訟法の施行に伴う関係法律の整理等に関する法律（昭和三十七年法律第百四十号）に同一の法律についての改正規定がある場合においては、当該法律は、この法律によつてまず改正され、次いで行政事件訴訟法の施行に伴う関係法律の整理等に関する法律によつて改正されるものとする。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四六年一二月三一日法律第一三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、琉球諸島及び大東諸島に関する日本国とアメリカ合衆国との間の協定の効力発生の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成五年一一月一二日法律第八九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、行政手続法（平成五年法律第八十八号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一〇年五月二七日法律第六九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条のうち船舶職員法目次、第五条第一項第五号、第六条第一項第一号イ、第二号及び第三号並びに第二十三条の二第一項から第三項までの改正規定、同条を同法第二十三条の二の二とし、同法第三章中第二十三条の次に一条を加える改正規定、同法第二十六条第一項の改正規定（「履歴限定若しくは設備限定」を「限定」に改める部分を除く。）、同法第二十六条の二、第二十九条の三第一項第一号、第三十条の三第二号及び第三十一条第二号の改正規定並びに同法第三十二条の改正規定（「五万円」を「十万円」に改める部分を除く。）並びに附則第三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第一〇二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十条第一項及び第五項、第十四条第三項、第二十三条、第二十八条並びに第三十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（別に定める経過措置）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条から前条までに規定するもののほか、この法律の施行に伴い必要となる経過措置は、別に法律で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年六月七日法律第六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年三月三一日法律第一九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条、第十条（国土交通省設置法第十五条の改正規定を除く。）、第十一条及び第十二条並びに次条、附則第三条、第五条から第八条まで、第十条、第十一条及び第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成十八年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定については、当該各規定）の施行前にした行為及び附則第四条の規定によりなお従前の例によることとされる場合における同条の規定の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後の規定の実施状況を勘案し、必要があると認めるときは、当該規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年五月二日法律第二六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成二十年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（処分等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正前の法律（これに基づく命令を含む。以下この条において「旧法令」という。）の規定により次の表の中欄に掲げる従前の国の機関（以下この条において「旧機関」という。）がした認可、指定その他の処分又は通知その他の行為は、この法律の施行後は、政令で定めるところにより、この法律による改正後の法律（これに基づく命令を含む。以下この条において「新法令」という。）の相当規定に基づいて、同表の下欄に掲げる相当の国等の機関（以下この条において「新機関」という。）がした認可、指定その他の処分又は通知その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">一</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">国土交通大臣（第一条の規定による改正前の国土交通省設置法（以下「旧設置法」という。）第四条第二十一号から第二十三号までに掲げる事務に係る場合に限る。）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">観光庁長官</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">二</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">航空・鉄道事故調査委員会</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">運輸安全委員会</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">三</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">海難審判庁</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">海難審判所</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">四</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">船員中央労働委員会（旧設置法第四条第九十六号に掲げる事務に係る場合に限る。）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">中央労働委員会</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">五</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">船員中央労働委員会（旧設置法第四条第九十七号及び第九十八号に掲げる事務に係る場合に限る。）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">交通政策審議会</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">六</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">船員地方労働委員会（旧設置法第四条第九十六号に掲げる事務に係る場合に限る。）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">中央労働委員会又は都道府県労働委員会</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">七</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">船員地方労働委員会（旧設置法第四条第九十七号及び第九十八号に掲げる事務のうち個別労働関係紛争の解決の促進に関する法律及び雇用の分野における男女の均等な機会及び待遇の確保等に関する法律に係る事務に係る場合に限る。）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地方運輸局長（運輸監理部長を含む。）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">八</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">船員地方労働委員会（旧設置法第四条第九十七号及び第九十八号に掲げる事務に係る場合（七の項に掲げる場合を除く。）に限る。）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地方運輸局に置かれる政令で定める審議会</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">九</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">地方運輸局長（運輸監理部長を含む。）（旧設置法第四条第九十六号に掲げる事務に係る場合に限る。）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧法令の規定により旧機関に対してされている申請、届出、申立てその他の行為は、附則第四条の規定によりなお従前の例によることとされるものを除き、この法律の施行後は、政令で定めるところにより、新法令の相当規定に基づいて、新機関に対してされた申請、届出、申立てその他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧法令の規定により旧機関に対して届出その他の手続をしなければならないとされている事項で、この法律の施行の日前にその手続がされていないものについては、この法律の施行後は、政令で定めるところにより、これを、新法令の相当規定により新機関に対してその手続をしなければならないとされた事項について、その手続がされていないものとみなして、当該相当規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（海難審判法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日前に審判開始の申立てがされた海難の審判及びこの法律の施行の日前に提起された高等海難審判庁の裁決に対する訴えについては、なお従前の例による。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、従前の高等海難審判庁及び地方海難審判庁並びにこれらの職員が行うべき事務は、海難審判所及びその相当する職員が行うものとし、このうち、従前の地方海難審判庁において取り扱うべき事務は、当該地方海難審判庁の所在地を管轄する地方海難審判所において取り扱うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及び前条第四項の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、この法律による改正後の規定の実施状況を勘案し、必要があると認めるときは、運輸の安全の一層の確保を図る等の観点から運輸安全委員会の機能の拡充等について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、行政不服審査法（平成二十六年法律第六十八号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（経過措置の原則）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">行政庁の処分その他の行為又は不作為についての不服申立てであってこの法律の施行前にされた行政庁の処分その他の行為又はこの法律の施行前にされた申請に係る行政庁の不作為に係るものについては、この附則に特別の定めがある場合を除き、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（訴訟に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正前の法律の規定により不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ訴えを提起できないこととされる事項であって、当該不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したもの（当該不服申立てが他の不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ提起できないとされる場合にあっては、当該他の不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したものを含む。）の訴えの提起については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の規定による改正前の法律の規定（前条の規定によりなお従前の例によることとされる場合を含む。）により異議申立てが提起された処分その他の行為であって、この法律の規定による改正後の法律の規定により審査請求に対する裁決を経た後でなければ取消しの訴えを提起することができないこととされるものの取消しの訴えの提起については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">不服申立てに対する行政庁の裁決、決定その他の行為の取消しの訴えであって、この法律の施行前に提起されたものについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為並びに附則第五条及び前二条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第五条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第七〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成二十七年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月一四日法律第三二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第二十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中船員法目次の改正規定（「第百三十六条」を「第百三十七条」に改める部分を除く。）、同法第八十一条の次に四条を加える改正規定、同法第八章の次に二章を加える改正規定（第八章の二に係る部分に限る。）、同法第百条の三第一項の改正規定（同項第六号の改正規定を除く。）、同法第百条の六第三項第一号及び第三号、第百条の十九第一項、第百二十条の三第一項から第三項まで及び第六項並びに第百二十一条の二の改正規定、同法第百三十条の改正規定（「まで若しくは」を「まで又は」に改め、「違反し、又は第七十三条の規定に基づく国土交通省令に」を削る部分を除く。）、同法中第百三十一条の四を第百三十一条の六とし、第百三十一条の三を第百三十一条の五とし、第百三十一条の二の次に二条を加える改正規定、同法第百三十三条第一項の改正規定（同項第二号の改正規定を除く。）並びに同法第百三十六条の改正規定並びに第三条の規定並びに附則第六条、第七条、第九条、第十二条第二項及び第三項、第十三条、第十六条、第二十一条並びに第二十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">千九百九十五年の漁船員の訓練及び資格証明並びに当直の基準に関する国際条約が日本国について効力を生ずる日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="28">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
