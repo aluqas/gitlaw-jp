@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="035" Year="42" PromulgateMonth="06" PromulgateDay="12">
-  <LawNum>昭和四十二年法律第三十五号</LawNum>
+<Law Lang="ja" Era="Showa" Year="42" Num="035" PromulgateMonth="06" PromulgateDay="12" LawType="Act"><LawNum>昭和四十二年法律第三十五号</LawNum>
+  
   <LawBody>
     <LawTitle Kana="とうろくめんきょぜいほう" Abbrev="" AbbrevKana="">登録免許税法</LawTitle>
     <EnactStatement>登録税法（明治二十九年法律第二十七号）の全部を改正する。</EnactStatement>
@@ -340,7 +340,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">登記又は登録につき債権金額を課税標準として登録免許税を課する場合において、一定の債権金額がないときは、当該登記又は登録の時における当該登記又は登録に係る債権の価額又は処分の制限の目的となる不動産、動産、立木、工場財団、鉱業財団、漁業財団、港湾運送事業財団、道路交通事業財団、自動車交通事業財団、観光施設財団、企業担保権、鉄道財団、軌道財団、運河財団、鉱業権、特定鉱業権、試掘権（二酸化炭素の貯留事業に関する法律（令和六年法律第三十八号）第二条第八項（定義）に規定する試掘権をいう。別表第一第二十二号の二において同じ。）、著作権、出版権、著作隣接権、特許権、実用新案権、意匠権、商標権、回路配置利用権、育成者権、漁業権、入漁権、ダム使用権、公共施設等運営権、樹木採取権又は漁港水面施設運営権に関する権利（以下第十四条までにおいて「不動産等に関する権利」という。）の価額をもつて債権金額とみなす。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">登記又は登録につき債権金額を課税標準として登録免許税を課する場合において、一定の債権金額がないときは、当該登記又は登録の時における当該登記又は登録に係る債権の価額又は処分の制限の目的となる不動産、動産、立木、工場財団、鉱業財団、漁業財団、港湾運送事業財団、道路交通事業財団、自動車交通事業財団、観光施設財団、企業担保権、鉄道財団、軌道財団、運河財団、鉱業権、特定鉱業権、試掘権（二酸化炭素の貯留事業に関する法律（令和六年法律第三十八号）第二条第八項（定義）に規定する試掘権をいう。別表第一第二十二号の二において同じ。）、貯留権、著作権、出版権、著作隣接権、特許権、実用新案権、意匠権、商標権、回路配置利用権、育成者権、漁業権、入漁権、ダム使用権、公共施設等運営権、樹木採取権又は漁港水面施設運営権に関する権利（以下第十四条までにおいて「不動産等に関する権利」という。）の価額をもつて債権金額とみなす。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -13858,6 +13858,77 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence Num="1" WritingMode="vertical">六の二　企業価値担保権の登記（企業価値担保権の信託の登記を含む。）</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">（一）　企業価値担保権の設定の登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">企業価値担保権の件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">一件につき三万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（二）　企業価値担保権の移転の登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">企業価値担保権の件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき六千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（三）　企業価値担保権の順位の変更の登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">企業価値担保権の件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき六千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（四）　信託の登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">企業価値担保権の件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき六千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（五）　付記登記、抹消された登記の回復の登記又は登記事項の更正若しくは変更の登記（これらの登記のうち（一）から（四）までに掲げるものを除く。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき六千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（六）　登記の抹消</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき六千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
               <Sentence Num="1" WritingMode="vertical">七　鉄道財団、軌道財団又は運河財団の登録（これらの財団の信託の登録を含む。）</Sentence>
             </TableColumn>
           </TableRow>
@@ -16666,7 +16737,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">二十二の二　試掘権の登録（試掘権の信託の登録を含む。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">二十二の二　試掘権又は貯留権の登録（試掘権又は貯留権の信託の登録を含む。）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -16748,7 +16819,106 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（四）　試掘権の処分の制限の登録</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（四）　貯留権の設定の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">貯留区域の数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一個につき十八万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（五）　貯留区域の増減、合併又は分割による貯留権の変更の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">イ　貯留区域の増加又は貯留区域の増加及び減少による変更の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">貯留区域の数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一個につき九万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">ロ　貯留区域の減少による変更の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">貯留区域の数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一個につき一万二千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">ハ　貯留区域の合併による変更の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">合併後の貯留区域の数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一個につき四万五千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">ニ　貯留区域の分割による変更の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">分割後の貯留区域の数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一個につき四万五千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（六）　貯留権の移転の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">イ　相続又は法人の合併による移転の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">貯留区域の数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一個につき一万八千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">ロ　その他の原因による移転の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">貯留区域の数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一個につき九万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（七）　抵当権の設定又は試掘権、貯留権若しくは抵当権の処分の制限の登録</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">債権金額又は極度金額</Sentence>
@@ -16759,10 +16929,54 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（五）　試掘権の信託の登録</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（八）　二酸化炭素の貯留事業に関する法律第十六条第五項（許可貯留区域の分割及び合併の許可の申請）の承諾及び協定に係る抵当権の変更の登録</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">試掘区域の数</Sentence>
+              <Sentence Num="1" WritingMode="vertical">貯留区域の数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一個につき三千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（九）　順位の変更による抵当権の変更の登録（（八）に掲げる登録を除く。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">貯留区域の数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一個につき六千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（十）　抵当権の移転の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">イ　相続又は法人の合併による移転の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">貯留区域の数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一個につき四千五百円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">ロ　その他の原因による移転の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">貯留区域の数</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">一個につき九千円</Sentence>
@@ -16770,10 +16984,54 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（六）　付記登録、仮登録、抹消した登録の回復の登録又は登録の更正若しくは変更の登録（これらの登録のうち（一）から（五）までに掲げるものを除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十一）　抵当権の順位の変更の登録</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">試掘区域の数</Sentence>
+              <Sentence Num="1" WritingMode="vertical">抵当権の件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（十二）　信託の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">イ　抵当権の信託の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">債権金額又は極度金額</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">千分の二</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">ロ　抵当権以外の権利の信託の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">試掘区域又は貯留区域の数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一個につき九千円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（十三）　付記登録、仮登録、抹消した登録の回復の登録又は登録の更正若しくは変更の登録（これらの登録のうち（一）から（十二）までに掲げるものを除く。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">試掘区域又は貯留区域の数</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">一個につき千円</Sentence>
@@ -16781,10 +17039,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（七）　登録の抹消</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十四）　登録の抹消</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">試掘区域の数</Sentence>
+              <Sentence Num="1" WritingMode="vertical">試掘区域又は貯留区域の数</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">一個につき千円</Sentence>
@@ -20276,6 +20534,22 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence Num="1" WritingMode="vertical">三十九の二　企業価値担保権に関する信託業務の免許</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">事業性融資の推進等に関する法律（令和六年法律第五十二号）第三十二条（免許）の企業価値担保権に関する信託業務の免許</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">免許件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">一件につき十五万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
               <Sentence Num="1" WritingMode="vertical">四十　金融商品市場の開設の免許、国際協力排出削減量に係る取引を行う市場の開設等の認可、組織変更の認可、店頭売買有価証券市場の開設の認可、外国市場取引の認可、金融商品取引所持株会社に係る認可、認定金融商品取引業協会若しくは認定投資者保護団体の認定又は自主規制業務の認可</Sentence>
             </TableColumn>
           </TableRow>
@@ -20657,7 +20931,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">四十九　第三者型前払式支払手段の発行者の登録、資金移動業者の登録、電子決済手段等取引業者の登録、暗号資産交換業者の登録、為替取引分析業者の許可、資金清算業の免許又は認定資金決済事業者協会の認定</Sentence>
+              <Sentence Num="1" WritingMode="vertical">四十九　第三者型前払式支払手段の発行者の登録、資金移動業者の登録、電子決済手段等取引業者の登録、暗号資産交換業者の登録、電子決済手段・暗号資産サービス仲介業者の登録、為替取引分析業者の許可、資金清算業の免許又は認定資金決済事業者協会の認定</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -20728,7 +21002,29 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（七）　資金決済に関する法律第六十三条の二十三（為替取引分析業者の許可）の為替取引分析業者の許可</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（七）　資金決済に関する法律第六十三条の二十二の二（電子決済手段・暗号資産サービス仲介業者の登録）の電子決済手段・暗号資産サービス仲介業者の登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（八）　資金決済に関する法律第六十三条の二十二の六第一項（変更登録等）の変更登録</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（九）　資金決済に関する法律第六十三条の二十三（為替取引分析業者の許可）の為替取引分析業者の許可</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
@@ -20739,7 +21035,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（八）　資金決済に関する法律第六十三条の三十三第一項（業務の種別の変更の許可等）の変更の許可</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十）　資金決済に関する法律第六十三条の三十三第一項（業務の種別の変更の許可等）の変更の許可</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
@@ -20750,7 +21046,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（九）　資金決済に関する法律第六十四条第一項（資金清算機関の免許等）の資金清算業の免許</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十一）　資金決済に関する法律第六十四条第一項（資金清算機関の免許等）の資金清算業の免許</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">免許件数</Sentence>
@@ -20761,7 +21057,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（十）　資金決済に関する法律第八十七条（認定資金決済事業者協会の認定）の認定資金決済事業者協会の認定</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十二）　資金決済に関する法律第八十七条（認定資金決済事業者協会の認定）の認定資金決済事業者協会の認定</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">認定件数</Sentence>
@@ -22064,7 +22360,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（一）　作業環境測定法第三十三条第一項（作業環境測定機関）の作業環境測定機関の登録（同法第二条第五号（定義）に規定する第一種作業環境測定士が受ける登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（一）　作業環境測定法第三十三条第一項（作業環境測定機関）の作業環境測定機関の登録（同法第二条第六号（定義）に規定する第一種作業環境測定士が受ける登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
@@ -23301,6 +23597,22 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence Num="1" WritingMode="vertical">百八の二　二酸化炭素を輸送する事業に係る登録導管輸送工作物検査機関の登録</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">二酸化炭素の貯留事業に関する法律第九十一条第一項（登録導管輸送工作物検査機関の登録）の登録（更新の登録を除く。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
@@ -25707,7 +26019,34 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">百五十六の二　使用済小型電子機器等の再資源化事業計画の認定</Sentence>
+              <Sentence Num="1" WritingMode="vertical">百五十六の二　使用済指定再資源化製品の自主回収・再資源化事業計画の認定</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">（一）　資源の有効な利用の促進に関する法律（平成三年法律第四十八号）第五十四条第三項（自主回収・再資源化事業計画の認定）の自主回収・再資源化事業計画の認定</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">認定件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">一件につき十五万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（二）　資源の有効な利用の促進に関する法律第五十五条第一項（自主回収・再資源化事業計画の変更等）の自主回収・再資源化事業計画の変更の認定（同法第五十四条第二項第四号の自主回収及び再資源化の対象とする使用済指定再資源化製品の種類の増加に係るものに限る。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">認定件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき三万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
+              <Sentence Num="1" WritingMode="vertical">百五十六の三　使用済小型電子機器等の再資源化事業計画の認定</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -25756,7 +26095,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">百五十六の三　使用済プラスチック使用製品の自主回収・再資源化事業計画又はプラスチック使用製品産業廃棄物等の再資源化事業計画の認定</Sentence>
+              <Sentence Num="1" WritingMode="vertical">百五十六の四　使用済プラスチック使用製品の自主回収・再資源化事業計画又はプラスチック使用製品産業廃棄物等の再資源化事業計画の認定</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -25783,7 +26122,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">百五十六の四　高度再資源化事業計画若しくは高度分離・回収事業計画の認定又は高度再資源化事業計画等の認定手続に係る登録調査機関の登録</Sentence>
+              <Sentence Num="1" WritingMode="vertical">百五十六の五　高度再資源化事業計画若しくは高度分離・回収事業計画の認定又は高度再資源化事業計画等の認定手続に係る登録調査機関の登録</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -26144,13 +26483,27 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一　外国人技能実習機構</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一　医療情報基盤・診療報酬審査支払機構</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">事務所用建物（専ら自己の事務所の用に供する建物をいう。以下同じ。）の所有権（賃借権を含む。以下同じ。）の取得登記（権利の保存、設定、転貸又は移転の登記をいう。以下同じ。）又は当該建物の敷地の用に供する土地の権利（土地の所有権及び土地の上に存する権利をいう。以下同じ。）の取得登記</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical"/>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">一の二　外国人技能実習機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">外国人の技能実習の適正な実施及び技能実習生の保護に関する法律</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">事務所用建物（専ら自己の事務所の用に供する建物をいう。以下同じ。）の所有権（賃借権を含む。以下同じ。）の取得登記（権利の保存、設定、転貸又は移転の登記をいう。以下同じ。）又は当該建物の敷地の用に供する土地の権利（土地の所有権及び土地の上に存する権利をいう。以下同じ。）の取得登記</Sentence>
+              <Sentence Num="1" WritingMode="vertical">事務所用建物の所有権の取得登記又は当該建物の敷地の用に供する土地の権利の取得登記</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">第三欄の登記に該当するものであることを証する財務省令で定める書類の添付があるものに限る。</Sentence>
@@ -26158,7 +26511,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の二　学校法人（私立学校法（昭和二十四年法律第二百七十号）第百五十二条第五項（私立専修学校等）の規定により設立された法人を含む。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の三　学校法人（私立学校法（昭和二十四年法律第二百七十号）第百五十二条第五項（私立専修学校等）の規定により設立された法人を含む。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">私立学校法</Sentence>
@@ -26175,7 +26528,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の三　株式会社国際協力銀行</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の四　株式会社国際協力銀行</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">会社法及び株式会社国際協力銀行法（平成二十三年法律第三十九号）</Sentence>
@@ -26189,7 +26542,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の四　株式会社日本政策金融公庫</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の五　株式会社日本政策金融公庫</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">会社法及び株式会社日本政策金融公庫法（平成十九年法律第五十七号）</Sentence>
@@ -26385,16 +26738,16 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十一　社会保険診療報酬支払基金</Sentence>
+              <Sentence Num="1" WritingMode="vertical">十一　削除</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）</Sentence>
+              <Sentence Num="1" WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">事務所用建物の所有権の取得登記又は当該建物の敷地の用に供する土地の権利の取得登記</Sentence>
+              <Sentence Num="1" WritingMode="vertical"/>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">　</Sentence>
+              <Sentence Num="1" WritingMode="vertical"/>
             </TableColumn>
           </TableRow>
           <TableRow>
