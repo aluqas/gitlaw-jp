@@ -198,7 +198,7 @@
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">行政手続法（平成五年法律第八十八号）第三章第二節（第二十五条、第二十六条及び第二十八条を除く。）の規定は、都道府県知事が前項の規定により意見の聴取を行う場合について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同節中「聴聞」とあるのは「意見の聴取」と、同法第十五条第一項中「行政庁」とあるのは「都道府県知事」と、同条第三項（同法第二十二条第三項において準用する場合を含む。）中「行政庁は」とあるのは「都道府県知事は」と、「当該行政庁が」とあるのは「当該都道府県知事が」と、「当該行政庁の」とあるのは「当該都道府県の」と、同法第十六条第四項並びに第十八条第一項及び第三項中「行政庁」とあるのは「都道府県知事」と、同法第十九条第一項中「行政庁が指名する職員その他政令で定める者」とあるのは「都道府県知事が指名する職員」と、同法第二十条第一項、第二項及び第四項中「行政庁」とあるのは「都道府県」と、同条第六項及び同法第二十四条第三項中「行政庁」とあるのは「都道府県知事」と読み替えるものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同節中「聴聞」とあるのは「意見の聴取」と、同法第十五条第一項及び第三項（同法第二十二条第三項において準用する場合を含む。）中「行政庁」とあるのは「都道府県知事」と、同法第十五条第四項（同法第二十二条第三項において準用する場合を含む。）中「当該行政庁が」とあるのは「当該都道府県知事が」と、「当該行政庁の」とあるのは「当該都道府県の」と、同法第十六条第四項並びに第十八条第一項及び第三項中「行政庁」とあるのは「都道府県知事」と、同法第十九条第一項中「行政庁が指名する職員その他政令で定める者」とあるのは「都道府県知事が指名する職員」と、同法第二十条第一項、第二項及び第四項中「行政庁」とあるのは「都道府県」と、同条第六項及び同法第二十四条第三項中「行政庁」とあるのは「都道府県知事」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
@@ -595,7 +595,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">薬剤師は、販売又は授与の目的で調剤した薬剤の容器又は被包に、処方せんに記載された患者の氏名、用法、用量その他厚生労働省令で定める事項を記載しなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">薬剤師は、販売又は授与の目的で調剤した薬剤の容器又は被包に、処方箋に記載された患者の氏名、用法、用量その他厚生労働省令で定める事項を記載しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号。以下「医薬品医療機器等法」という。）第九条の五の規定による委託に係る特定調剤業務（同条に規定する特定調剤業務をいう。次条及び第二十八条第二項において同じ。）を行うときは、当該特定調剤業務については、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -605,13 +606,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">薬剤師は、調剤した薬剤の適正な使用のため、販売又は授与の目的で調剤したときは、患者又は現にその看護に当たつている者に対し、必要な情報を提供し、及び必要な薬学的知見に基づく指導を行わなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">薬剤師は、調剤した薬剤の適正な使用のため、販売又は授与の目的で調剤したとき（医薬品医療機器等法第九条の五の規定による委託に係る特定調剤業務として調剤したときを除く。）は、患者又は現にその看護に当たつている者に対し、必要な情報を提供し、及び必要な薬学的知見に基づく指導を行わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">薬剤師は、前項に定める場合のほか、調剤した薬剤の適正な使用のため必要があると認める場合には、患者の当該薬剤の使用の状況を継続的かつ的確に把握するとともに、患者又は現にその看護に当たつている者に対し、必要な情報を提供し、及び必要な薬学的知見に基づく指導を行わなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">薬剤師は、前項に定める場合のほか、調剤した薬剤の適正な使用のため必要があると認める場合（医薬品医療機器等法第九条の五の規定による委託に係る特定調剤業務を行う場合を除く。）には、患者の当該薬剤の使用の状況を継続的かつ的確に把握するとともに、患者又は現にその看護に当たつている者に対し、必要な情報を提供し、及び必要な薬学的知見に基づく指導を行わなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -626,12 +627,12 @@
           </Paragraph>
         </Article>
         <Article Num="27">
-          <ArticleCaption>（処方せんの保存）</ArticleCaption>
+          <ArticleCaption>（処方箋の保存）</ArticleCaption>
           <ArticleTitle>第二十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">薬局開設者は、当該薬局で調剤済みとなつた処方せんを、調剤済みとなつた日から三年間、保存しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">薬局開設者は、当該薬局で調剤済みとなつた処方箋を、調剤済みとなつた日から五年間、保存しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -647,13 +648,14 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">薬剤師は、薬局で調剤したときは、厚生労働省令で定めるところにより、調剤録に厚生労働省令で定める事項を記入しなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">薬剤師は、薬局で調剤したときは、厚生労働省令で定めるところにより、調剤録に厚生労働省令で定める事項を記入しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、医薬品医療機器等法第九条の五の規定による委託に係る特定調剤業務として調剤したときは、当該調剤については、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">薬局開設者は、第一項の調剤録を、最終の記入の日から三年間、保存しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">薬局開設者は、第一項の調剤録を、最終の記入の日から五年間、保存しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1690,6 +1692,37 @@
         </Item>
       </Paragraph>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条、第十三条及び第二十条の規定、第二十一条中内航海運業法第六条第一項第二号の改正規定、第二十三条、第二十九条、第三十一条、第三十二条、第三十六条及び第三十九条の規定、第四十一条中貨物自動車運送事業法第五条第二号の改正規定、第四十三条、第四十四条及び第四十九条の規定、第五十五条中民間事業者による信書の送達に関する法律第八条第二号の改正規定並びに第五十六条、第五十八条、第六十条、第六十二条及び第六十三条の規定並びに次条並びに附則第十条、第十二条及び第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和七年五月二一日法律第三七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -1744,6 +1777,22 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">政府は、前項に定めるもののほか、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の施行の状況を勘案し、必要があると認めるときは、この法律による改正後のそれぞれの法律について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（処方箋及び調剤録の保存に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三号施行日前に調剤済みとなった処方箋の保存については、第六条の規定による改正後の薬剤師法（次項において「第三号新薬剤師法」という。）第二十七条の規定にかかわらず、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三号施行日前に最終の記入がされた調剤録の保存については、第三号新薬剤師法第二十八条第三項の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
