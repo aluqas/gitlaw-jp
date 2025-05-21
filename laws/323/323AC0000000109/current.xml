@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="23" Num="109" PromulgateMonth="7" PromulgateDay="7" LawType="Act"><LawNum>昭和二十三年法律第百九号</LawNum><LawBody><LawTitle Kana="ちほうざいせいほう" Abbrev="地財法" AbbrevKana="ち">地方財政法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="23" Num="109" PromulgateMonth="07" PromulgateDay="07" LawType="Act"><LawNum>昭和二十三年法律第百九号</LawNum><LawBody><LawTitle Kana="ちほうざいせいほう" Abbrev="地財法" AbbrevKana="ち">地方財政法</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（この法律の目的）</ArticleCaption>
@@ -753,7 +753,7 @@
           <Item Num="33">
             <ItemTitle>三十三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">妊婦のための支援給付に要する経費、子どものための教育・保育給付に要する経費（地方公共団体の設置する教育・保育施設に係るものを除く。）及び子育てのための施設等利用給付に要する経費（地方公共団体又は公立大学法人の設置する認定こども園、幼稚園又は特別支援学校に係るものを除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">妊婦のための支援給付に要する経費、子どものための教育・保育給付に要する経費（地方公共団体の設置する教育・保育施設に係るものを除く。）、子育てのための施設等利用給付に要する経費（地方公共団体又は公立大学法人の設置する認定こども園、幼稚園又は特別支援学校に係るものを除く。）及び乳児等のための支援給付に要する経費</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="34">
@@ -915,29 +915,23 @@
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">医薬品の検定に要する経費</Sentence>
+              <Sentence Num="1" WritingMode="vertical">あへんの取締に要する経費（第十条第八号に係るものを除く。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">あへんの取締に要する経費（第十条第八号に係るものを除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">国民年金、雇用保険及び特別児童扶養手当に要する経費</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">国民年金、雇用保険及び特別児童扶養手当に要する経費</Sentence>
+              <Sentence Num="1" WritingMode="vertical">土地の農業上の利用関係の調整に要する経費</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="7">
             <ItemTitle>七</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">土地の農業上の利用関係の調整に要する経費</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="8">
-            <ItemTitle>八</ItemTitle>
             <ItemSentence>
               <Sentence Num="1" WritingMode="vertical">未引揚邦人の調査に要する経費</Sentence>
             </ItemSentence>
@@ -2078,8 +2072,8 @@
       <Paragraph Num="3">
         <ParagraphNum>３</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">改正後の地方財政法第十条の四第七号に掲げる経費のうち政令で定めるものについては、当分の間、同条の規定にかかわらず、地方公共団体の負担とする。</Sentence>
-          <Sentence Num="2" WritingMode="vertical">改正後の地方財政法第十一条の二の規定は、この場合について準用する。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">地方財政法第十条の四第六号に掲げる経費のうち政令で定めるものについては、当分の間、同条の規定にかかわらず、地方公共団体の負担とする。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">同法第十一条の二の規定は、この場合について準用する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
@@ -5712,6 +5706,37 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、令和七年四月一日から施行する。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二一日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定（医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十八項を同条第十九項とする改正規定、同条第十七項を同条第十八項とする改正規定、同条第十六項の次に一項を加える改正規定、同法第十八条の二の次に三条を加える改正規定及び同法第六十九条第一項の改正規定（「第十八条の二」の下に「、第十八条の三、第十八条の四第一項若しくは第二項」を加える部分に限る。）を除く。）並びに附則第六条から第八条まで、第十二条第一項、第十三条第三項から第八項まで及び第十二項、第十九条、第二十条並びに第二十二条の規定、附則第二十七条の規定（薬事法の一部を改正する法律（平成十八年法律第六十九号）附則第九条第一項及び第二項の改正規定中「第六項まで」の下に「、第三十六条の十一」を加える部分及び同法附則第十一条の改正規定に限る。）、附則第二十八条中国家戦略特別区域法（平成二十五年法律第百七号）第三十七条の六の改正規定（「第二条第十七項」を「第二条第十八項」に改める部分を除く。）並びに附則第二十九条及び第三十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>
