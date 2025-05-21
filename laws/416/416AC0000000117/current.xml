@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="117" Year="16" PromulgateMonth="06" PromulgateDay="18"><LawNum>平成十六年法律第百十七号</LawNum><LawBody><LawTitle Kana="ぶりょくこうげきじたいおよびそんりつききじたいにおけるほりょとうのとりあつかいにかんするほうりつ" Abbrev="捕虜取扱い法,捕虜取扱法" AbbrevKana="ほ,ほ">武力攻撃事態及び存立危機事態における捕虜等の取扱いに関する法律</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="16" Num="117" PromulgateMonth="06" PromulgateDay="18" LawType="Act"><LawNum>平成十六年法律第百十七号</LawNum><LawBody><LawTitle Kana="ぶりょくこうげきじたいおよびそんりつききじたいにおけるほりょとうのとりあつかいにかんするほうりつ" Abbrev="捕虜取扱い法,捕虜取扱法" AbbrevKana="ほ,ほ">武力攻撃事態及び存立危機事態における捕虜等の取扱いに関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -4177,7 +4177,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">医師相当衛生要員等又は歯科医師相当衛生要員等は、自衛隊麻薬診療施設において医業又は歯科医業をするに当たっては、麻薬及び向精神薬取締法第二十四条第一項第二号及び第三号、第二十六条第一項第一号及び第二項、第二十七条第一項から第三項まで、第四項（ただし書を除く。）及び第六項、第二十八条第一項及び第二項、第三十三条第三項並びに第四十一条の規定の適用についてはこれらに規定する麻薬施用者と、同法第二十八条第一項及び第五十条の三十八第一項の規定の適用についてはこれらに規定する麻薬取扱者とみなす。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">医師相当衛生要員等又は歯科医師相当衛生要員等は、自衛隊麻薬診療施設において医業又は歯科医業をするに当たっては、麻薬及び向精神薬取締法第二十四条第一項第四号及び第五号、第二十六条第一項第一号及び第二項、第二十七条第一項から第三項まで、第四項（ただし書を除く。）及び第六項、第二十八条第一項及び第二項、第三十三条第三項並びに第四十一条の規定の適用についてはこれらに規定する麻薬施用者と、同法第二十八条第一項及び第五十条の三十八第一項の規定の適用についてはこれらに規定する麻薬取扱者とみなす。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、同法第二十七条第六項中「免許証の番号」とあるのは、「身分証明書番号」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -4684,6 +4684,37 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二一日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条、第五条及び第六条の規定並びに附則第三条、第九条、第十条、第十二条第二項、第十三条第九項及び第十項、第十七条、第二十三条、第二十五条並びに第二十六条の規定、附則第二十七条の規定（前号に掲げる改正規定を除く。）並びに附則第三十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>
