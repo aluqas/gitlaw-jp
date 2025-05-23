@@ -719,14 +719,14 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">第一項の事実の取調べのため必要があると認めるときは、証人尋問、鑑定、検証、押収、捜索、通訳及び翻訳を行い、並びに官公署、医療施設その他の公私の団体に対し、必要な事項の報告、資料の提出その他の協力を求めることができる。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第一項の事実の取調べのため必要があると認めるときは、証人尋問、鑑定、検証、押収（刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令（同項第一号イに掲げる方法による提供を命ずるものに限る。）を含む。次項において同じ。）、捜索、同条第一項に規定する電磁的記録提供命令（同号ロに掲げる方法による提供を命ずるものに限る。次項において単に「電磁的記録提供命令」という。）、通訳及び翻訳を行い、並びに官公署、医療施設その他の公私の団体に対し、必要な事項の報告、資料の提出その他の協力を求めることができる。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、差押えについては、あらかじめ所有者、所持者又は保管者に差し押さえるべき物の提出を命じた後でなければ、これをすることができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">刑事訴訟法中裁判所の行う証人尋問、鑑定、検証、押収、捜索、通訳及び翻訳に関する規定は、処遇事件の性質に反しない限り、前項の規定による証人尋問、鑑定、検証、押収、捜索、通訳及び翻訳について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">刑事訴訟法中裁判所の行う証人尋問、鑑定、検証、押収、電磁的記録提供命令、捜索、通訳及び翻訳に関する規定は、処遇事件の性質に反しない限り、前項の規定による証人尋問、鑑定、検証、押収、電磁的記録提供命令、捜索、通訳及び翻訳について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -3606,6 +3606,22 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="2">
+        <ArticleCaption>（記録命令付差押えに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第三号に掲げる規定の施行の日（次項及び附則第十五条において「第三号施行日」という。）前に第一条の規定（同号に掲げる改正規定に限る。）による改正前の刑事訴訟法（以下この条において「第三号改正前刑事訴訟法」という。）、第五条の規定（同号に掲げる改正規定に限る。）による改正前の少年法（同項において「第三号改正前少年法」という。）、第十八条の規定（同号に掲げる改正規定に限る。）による改正前の国際捜査共助等に関する法律（同項において「第三号改正前国際捜査共助法」という。）、第二十三条の規定（同号に掲げる改正規定に限る。）による改正前の組織的犯罪処罰法（同項において「第三号改正前組織的犯罪処罰法」という。）又は第二十七条の規定（同号に掲げる改正規定に限る。）による改正前の医療観察法（同項において「第三号改正前医療観察法」という。）の規定により記録命令付差押え（第三号改正前刑事訴訟法第九十九条の二に規定する記録命令付差押えをいう。以下この条において同じ。）に係る命令がされた場合における当該記録命令付差押えについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、第三号施行日前に第三号改正前刑事訴訟法、第三号改正前少年法、第三号改正前国際捜査共助法、第三号改正前組織的犯罪処罰法又は第三号改正前医療観察法の規定により記録命令付差押えに係る令状が発せられた場合における当該記録命令付差押えについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="18">
         <ArticleCaption>（医療観察法の一部改正に伴う経過措置）</ArticleCaption>
         <ArticleTitle>第十八条</ArticleTitle>
@@ -3629,6 +3645,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（電磁的記録提供命令等における留意事項）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第一条の規定による改正後の刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令をいう。）により電磁的記録を提供させ、又は電磁的記録に係る記録媒体を押収するに当たっては、デジタル社会において個人情報の保護がより重要となっていることに鑑み、できる限り被告事件又は被疑事件と関連性を有しない個人情報を取得することとならないよう、特に留意しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
