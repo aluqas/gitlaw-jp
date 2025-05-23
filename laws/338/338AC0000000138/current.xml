@@ -17,7 +17,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律の適用については、被告人以外の者に帰属する電磁的記録は、その者の所有に属するものとみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の適用については、被告人以外の者に帰属する電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。以下同じ。）は、その者の所有に属するものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -27,7 +27,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">検察官は、公訴を提起した場合において、被告人以外の者（以下「第三者」という。）の所有に属する物（被告人の所有に属するか第三者の所有に属するかが明らかでない物を含む。以下同じ。）の没収を必要と認めるときは、すみやかに、その第三者に対し、書面により、次の事項を告知しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">検察官は、公訴を提起した場合において、被告人以外の者（以下「第三者」という。）の所有に属する物（被告人の所有に属するか第三者の所有に属するかが明らかでない物を含む。以下同じ。）の没収を必要と認めるときは、速やかに、その第三者に対し、書面により、次の事項を告知しなければならない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -81,7 +81,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">検察官は、前二項の規定による告知又は公告をしたときは、これを証明する書面を裁判所に提出しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">検察官は、前二項の規定による告知又は公告をしたときは、これを証明する書面又は電磁的記録を裁判所に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -91,22 +91,44 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">没収されるおそれのある物を所有する第三者は、第一審の裁判があるまで（略式手続又は交通事件即決裁判手続による裁判があつたときは、正式裁判の請求をすることのできる期間が経過するまでとし、この場合において、正式裁判の請求があつたときは、さらに通常の規定による第一審の裁判があるまでとする。以下同じ。）、被告事件の係属する裁判所に対し、書面により、被告事件の手続への参加を申し立てることができる。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">没収されるおそれのある物を所有する第三者は、第一審の裁判があるまで（略式手続又は交通事件即決裁判手続による裁判があつたときは、正式裁判の請求をすることのできる期間が経過するまでとし、この場合において、正式裁判の請求があつたときは、更に通常の規定による第一審の裁判があるまでとする。以下同じ。）、被告事件の係属する裁判所に対し、書面により、被告事件の手続への参加を申し立てることができる。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前条第一項又は第二項の規定による告知又は公告があつたときは、告知又は公告があつた日から十四日以内に限る。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">検察官が前条第一項又は第二項の規定により告知し又は公告した裁判所が被告事件を移送した場合において、その裁判所に参加の申立てがあつたときは、申立てを受けた裁判所は、被告事件の移送を受けた裁判所にその申立ての書面を送付しなければならない。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、その書面が送付されたときは、参加の申立ては、はじめから、被告事件の移送を受けた裁判所に対してされたものとみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">検察官が前条第一項又は第二項の規定により告知し又は公告した裁判所が被告事件を移送した場合において、その裁判所に参加の申立てがあつたときは、申立てを受けた裁判所は、被告事件の移送を受けた裁判所に対し、次の各号に掲げる場合の区分に応じ、当該各号に定めるものを送付しなければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、その送付がされたときは、参加の申立ては、初めから、被告事件の移送を受けた裁判所に対してされたものとみなす。</Sentence>
           </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">参加の申立てが前項の書面によりされた場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">当該書面に記載されている事項を記録した電磁的記録（第十二条の規定により適用する刑事訴訟法（昭和二十三年法律第百三十一号）第五十四条の四ただし書の場合にあつては、当該書面）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">参加の申立てが第十二条の規定により読み替えて適用する刑事訴訟法第五十四条の二第一項の方法によりされた場合</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">裁判所の使用に係る電子計算機（入出力装置を含む。）に備えられたファイルに記録されている前項の書面に記載すべき事項を記録した電磁的記録（第十二条の規定により適用する同法第五十四条の四ただし書の場合にあつては、同条の記録媒体に記録されている同項の書面に記載すべき事項を記載し、又は記録した書面又は電磁的記録）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">裁判所は、参加の申立てが法令上の方式に違反し、若しくは第一項に規定する期間の経過後にされたとき、又は没収すべき物が申立人の所有に属しないことが明らかであるときは、参加の申立てを棄却しなければならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一項ただし書に規定する期間内に参加の申立てをしなかつたことが、申立人の責めに帰することのできない理由によると認めるときは、第一審の裁判があるまで参加を許すことができる。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同項ただし書に規定する期間内に参加の申立てをしなかつたことが、申立人の責めに帰することのできない理由によると認めるときは、第一審の裁判があるまで参加を許すことができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
@@ -126,7 +148,7 @@
         <Paragraph Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">参加に関する裁判は、申立人又は参加人、検察官及び被告人又は弁護人の意見をきき、決定でしなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">参加に関する裁判は、申立人又は参加人、検察官及び被告人又は弁護人の意見を聴き、決定でしなければならない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">検察官又は申立人若しくは参加人は、参加の申立てを棄却する決定又は参加を許す裁判を取り消す決定（第四項ただし書又は前項後段の規定による決定を除く。）に対し、即時抗告をすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -182,14 +204,14 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">参加人の参加は、刑事訴訟法（昭和二十三年法律第百三十一号）第三百二十条から第三百二十八条までの規定の適用に影響を及ぼさない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">参加人の参加は、刑事訴訟法第三百二十条から第三百二十八条までの規定の適用に影響を及ぼさない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">裁判所は、刑事訴訟法第三百二十条第二項本文、第三百二十六条又は第三百二十七条の規定により証拠とすることができる書面又は供述を取り調べた場合において、参加人がその書面又は供述の内容となつた供述をした者を証人として取り調べることを請求したときは、その権利の保護に必要と認める限り、これを取り調べなければならない。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">参加人の参加前に取り調べた証人について、参加人がさらにその取調べを請求したときも、同様とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">裁判所は、刑事訴訟法第三百二十条第二項本文、第三百二十六条又は第三百二十七条の規定により証拠とすることができる書面若しくは電磁的記録又は供述を取り調べた場合において、参加人がその書面若しくは電磁的記録又は供述の内容となつた供述をした者を証人として取り調べることを請求したときは、その権利の保護に必要と認める限り、これを取り調べなければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">参加人の参加前に取り調べた証人について、参加人が更にその取調べを請求したときも、同様とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -292,13 +314,13 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">代理人は、参加人の書面による同意がなければ、参加の取下げ、正式裁判の請求の取下げ又は上訴の放棄若しくは取下げをすることができない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">代理人は、参加人の書面又は電磁的記録による同意がなければ、参加の取下げ、正式裁判の請求の取下げ又は上訴の放棄若しくは取下げをすることができない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">刑事訴訟法第三十三条から第三十五条まで及び第四十条の規定は、代理人に準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">刑事訴訟法第三十三条から第三十五条まで、第四十条、第四十条の二及び第五十四条の三の規定は、代理人について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -334,6 +356,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第三者の所有に属する物を没収する手続については、この法律に特別の規定があるもののほか、刑事訴訟法による。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第五十四条の二第一項及び第二項中「この法律の」とあるのは「この法律又は刑事事件における第三者所有物の没収手続に関する応急措置法（昭和三十八年法律第百三十八号）の」と、同項中「その他の」とあるのは「、刑事事件における第三者所有物の没収手続に関する応急措置法その他の」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -356,7 +379,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第一項の規定による請求が法令上の方式に違反し、若しくは同項に規定する期間の経過後にされたとき、請求人がその責めに帰することのできない理由により被告事件の手続において権利を主張することができなかつたと認められないとき、又は没収された物が請求人の所有に属しないものであつたことが明らかであるときは、請求人及び検察官の意見をきき、決定で請求を棄却しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一項の規定による請求が法令上の方式に違反し、若しくは同項に規定する期間の経過後にされたとき、請求人がその責めに帰することのできない理由により被告事件の手続において権利を主張することができなかつたと認められないとき、又は没収された物が請求人の所有に属しないものであつたことが明らかであるときは、請求人及び検察官の意見を聴き、決定で請求を棄却しなければならない。</Sentence>
             <Sentence Num="2" WritingMode="vertical">請求人は、この決定に対し、即時抗告をすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -371,7 +394,7 @@
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">裁判所は、趣意書に包含された事項について、請求人及び検察官に陳述をさせ、並びに請求人若しくは検察官の申立てにより又は職権で、必要と認める証拠の取調べをしなければならない。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">請求人が公判期日に出頭しない場合においても、その不出頭について正当な理由がないと認めるときは、その期日の公判手続を行ない、又は判決の宣告をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">請求人が公判期日に出頭しない場合においても、その不出頭について正当な理由がないと認めるときは、その期日の公判手続を行い、又は判決の宣告をすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="6">
@@ -390,13 +413,13 @@
         <Paragraph Num="8">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、請求に関する裁判手続においては、請求人を証人として取り調べ、又は公判期日における供述に代えて書面を証拠とし、若しくは公判期日外における他の者の供述を内容とする供述を証拠とすることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、請求に関する裁判手続においては、請求人を証人として取り調べ、又は公判期日における供述に代えて書面若しくは電磁的記録を証拠とし、若しくは公判期日外における他の者の供述を内容とする供述を証拠とすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="9">
           <ParagraphNum>９</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">没収の裁判が取り消されたときは、刑事補償法（昭和二十五年法律第一号）に定める没収の執行による補償の例により、補償を行なう。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">没収の裁判が取り消されたときは、刑事補償法（昭和二十五年法律第一号）に定める没収の執行による補償の例により、補償を行う。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
