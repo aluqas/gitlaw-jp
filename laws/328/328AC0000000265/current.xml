@@ -142,8 +142,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">国際連合の軍隊がその権限に基づいて警備している国際連合の軍隊の使用する施設内における、又は国際連合の軍隊の財産についての捜索（捜索状の執行を含む。）、差押え（差押状の執行を含む。）、記録命令付差押え（記録命令付差押状の執行を含む。）又は検証（検証状の執行を含む。）は、当該国際連合の軍隊の権限ある者の同意を得て行い、又は検察官若しくは司法警察員から当該国際連合の軍隊の権限ある者に嘱託して行うものとする。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、裁判所又は裁判官が必要とする検証の嘱託は、その裁判所又は裁判官からするものとする。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">国際連合の軍隊がその権限に基づいて警備している国際連合の軍隊の使用する施設内における、又は国際連合の軍隊の財産についての捜索（捜索状の執行を含む。）、差押え（差押状の執行を含む。）、刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令（当該電磁的記録提供命令により電磁的記録を提供させることを含む。以下この条において単に「電磁的記録提供命令」という。）又は検証（検証状の執行を含む。）は、検察官若しくは司法警察員が当該国際連合の軍隊の権限ある者の同意を得て行い、又は検察官若しくは司法警察員から当該国際連合の軍隊の権限ある者に嘱託して行うものとする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、裁判所又は裁判官が必要とする電磁的記録提供命令又は検証は、その裁判所若しくは裁判官が当該国際連合の軍隊の権限ある者の同意を得て行い、又はその裁判所若しくは裁判官から当該国際連合の軍隊の権限ある者に嘱託して行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -481,6 +481,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（電磁的記録提供命令等における留意事項）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第一条の規定による改正後の刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令をいう。）により電磁的記録を提供させ、又は電磁的記録に係る記録媒体を押収するに当たっては、デジタル社会において個人情報の保護がより重要となっていることに鑑み、できる限り被告事件又は被疑事件と関連性を有しない個人情報を取得することとならないよう、特に留意しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
