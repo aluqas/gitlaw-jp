@@ -642,7 +642,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官は、第十二条前段又は前条第三項前段若しくは第七項前段の規定による領置をしたときは、その目録を作成し、所有者、所持者若しくは保管者（同条第一項若しくは第四項に規定する刑事被告事件の係属する裁判所又は同条第二項若しくは第五項に規定する家庭裁判所を除く。）又はこれらの者に代わるべき者に交付しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">検察官は、第十二条前段又は前条第三項前段若しくは第七項前段の規定による領置をしたときは、その目録を作成し、所有者、所持者若しくは保管者（同条第一項若しくは第四項に規定する刑事被告事件の係属する裁判所又は同条第二項若しくは第五項に規定する家庭裁判所を除く。）又はこれらの者に代わるべき者に提供しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電磁的記録をもって作成する目録の提供は、これを受ける者に異議があるときは、することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -734,30 +735,24 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定による聴聞を行う場合における行政手続法第十五条第四項及び第二十二条第三項の規定の適用については、同法第十五条第四項中「（以下この項において「公示事項」という。）を総務省令で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、公示事項が記載された書面を当該行政庁の事務所の掲示場に掲示し、又は公示事項を当該事務所に設置した電子計算機の映像面に表示したものの閲覧をすることができる状態に置く措置をとる」とあるのは「を当該行政庁の事務所の掲示場に掲示する」と、同項及び同法第二十二条第三項中「当該措置を開始した」とあるのは「掲示を始めた」とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による聴聞を行う場合において、行政手続法第十八条第一項に規定する当事者等は、同項に規定する資料中対象姿態等が記録された部分については謄写を求めることができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二項の規定による聴聞を行う場合において、行政手続法第十八条第一項に規定する当事者等は、同項に規定する資料中対象姿態等が記録された部分については謄写を求めることができない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検察官は、第二項の規定による聴聞を行った後、消去等決定、消去命令又は複写不許可決定をすることが必要であると認めるときは、遅滞なく、消去等決定、消去命令又は複写不許可決定をするものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官は、第二項の規定による聴聞を行った後、消去等決定、消去命令又は複写不許可決定をすることが必要であると認めるときは、遅滞なく、消去等決定、消去命令又は複写不許可決定をするものとする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="6">
-              <ParagraphNum>６</ParagraphNum>
-              <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">検察官は、第一項第一号又は第二号に定める者が複数である場合において、これらの者の一部を知ることができないときは、これらの者に該当する旨を二週間以内に申し出るべき旨を政令で定める方法によって公告しなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、検察官は、当該期間を経過したときにこれらの者として判明している者について第二項の規定による聴聞及び消去等決定を行えば消去等措置を実施することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="7">
-              <ParagraphNum>７</ParagraphNum>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第二項の規定による聴聞を行う場合における行政手続法第三章第二節の規定に基づく処分又はその不作為については、第二十六条の規定による審査の申立てをすることができない。</Sentence>
               </ParagraphSentence>
@@ -927,8 +922,8 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、送達を受けるべき者の所在が知れないとき、その他第一項の書面の謄本を送達することができないときは、検察官が当該書面の謄本を保管し、いつでもその送達を受けるべき者に交付すべき旨を当該検察官が所属する検察庁の掲示場に掲示することをもって前項の規定による送達に代えることができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合においては、掲示を始めた日から二週間を経過した時に同項の規定による送達があったものとみなす。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、送達を受けるべき者の所在が知れないとき、その他第一項の書面の謄本を送達することができないときは、検察官が当該書面の謄本を保管し、いつでもその送達を受けるべき者に交付すべき旨を法務省令で定める方法により不特定多数の者が閲覧することができる状態に置くとともに、その旨が記載された書面を当該検察官が所属する検察庁の掲示場に掲示し、又はその旨を当該検察庁に設置した電子計算機（入出力装置を含む。）の映像面に表示したものの閲覧をすることができる状態に置く措置をとることをもって前項の規定による送達に代えることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、当該措置を開始した日から二週間を経過した時に同項の規定による送達があったものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1931,7 +1926,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第十七条第一項各号に定める者その他の関係人に対して、報告、文書その他の物件の提出若しくは出頭を命じ、又は公務所若しくは公私の団体に照会して、必要な事項の報告を求めること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第十七条第一項各号に定める者その他の関係人に対して、報告、文書若しくは電磁的記録その他の物件の提出若しくは出頭を命じ、又は公務所若しくは公私の団体に照会して、必要な事項の報告を求めること。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -1950,7 +1945,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官は、消去命令に従って対象電磁的記録の消去がされたかどうかを確かめるため必要があると認めるときは、第十七条第一項第三号に定める者その他の関係人に対して、報告、文書その他の物件の提出若しくは出頭を命じ、又は公務所若しくは公私の団体に照会して、必要な事項の報告を求めることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検察官は、消去命令に従って対象電磁的記録の消去がされたかどうかを確かめるため必要があると認めるときは、第十七条第一項第三号に定める者その他の関係人に対して、報告、文書若しくは電磁的記録その他の物件の提出若しくは出頭を命じ、又は公務所若しくは公私の団体に照会して、必要な事項の報告を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -2014,7 +2009,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第四十条第一項（第一号に係る部分に限る。）又は第二項の規定による報告をせず、若しくは虚偽の報告をし、又は文書その他の物件を提出せず、若しくは虚偽の記載若しくは記録をした文書その他の物件を提出したとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十条第一項（第一号に係る部分に限る。）又は第二項の規定による報告をせず、若しくは虚偽の報告をし、又は文書若しくは電磁的記録その他の物件を提出せず、若しくは虚偽の記載若しくは記録をした文書若しくは電磁的記録その他の物件を提出したとき。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -2154,6 +2149,22 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleCaption>（性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前に開始したの規定（附則第一条第三号に掲げる改正規定を除く。次項において同じ。）による改正前の性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律第十七条第三項において読み替えて適用する行政手続法（平成五年法律第八十八号）第十五条第四項（同法第二十二条第三項において読み替えて準用する場合を含む。）に規定する公示の方法による通知については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">の規定による改正後の性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律第二十条第三項の規定は、施行日以後に同法第十一条の規定による命令又は同法第十六条の規定による決定があった場合における送達に代わる措置について適用し、施行日前に当該命令又は当該決定があった場合における送達に代わる措置については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="39">
