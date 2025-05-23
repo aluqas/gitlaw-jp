@@ -1,0 +1,2263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Heisei" Year="14" Num="151" PromulgateMonth="12" PromulgateDay="13" LawType="Act"><LawNum>平成十四年法律第百五十一号</LawNum><LawBody><LawTitle Kana="じょうほうつうしんぎじゅつをかつようしたぎょうせいのすいしんとうにかんするほうりつ" Abbrev="デジタル手続法,行政手続オンライン化法,デジタル行政推進法" AbbrevKana="で,ぎ,で">情報通信技術を活用した行政の推進等に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　情報通信技術を活用した行政の推進</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　情報システム整備計画等</SectionTitle>
+          <ArticleRange>（第四条・第五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　手続等における情報通信技術の利用</SectionTitle>
+          <ArticleRange>（第六条―第十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　添付書面等の省略</SectionTitle>
+          <ArticleRange>（第十一条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　特定法人事項変更届出に関する特例</SectionTitle>
+          <ArticleRange>（第十二条―第十四条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="5">
+          <SectionTitle>第五節　その他の施策</SectionTitle>
+          <ArticleRange>（第十五条・第十六条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　民間手続における情報通信技術の活用の促進に関する施策</ChapterTitle>
+        <ArticleRange>（第十七条・第十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　国の公的基礎情報データベースの整備及び改善の推進に関する施策</ChapterTitle>
+        <ArticleRange>（第十九条・第二十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　情報通信技術の効果的な活用の推進に関する施策</ChapterTitle>
+        <ArticleRange>（第二十一条―第二十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
+        <ArticleRange>（第二十五条―第二十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、デジタル社会形成基本法（令和三年法律第三十五号）第十七条及び官民データ活用推進基本法（平成二十八年法律第百三号）第七条の規定に基づく法制上の措置として、国、地方公共団体、民間事業者、国民その他の者があらゆる活動において情報通信技術（デジタル社会形成基本法第二条に規定する情報通信技術をいう。以下同じ。）の便益を享受できる社会が実現されるよう、情報通信技術を活用した行政の推進について、その基本原則及び情報システムの整備、情報通信技術の利用のための能力又は利用の機会における格差の是正その他の情報通信技術を利用する方法により手続等を行うために必要となる事項を定めるとともに、民間手続における情報通信技術の活用の促進に関する施策、国の公的基礎情報データベース（デジタル社会形成基本法第三十一条に規定する公的基礎情報データベースをいう。第四章において同じ。）の整備及び改善の推進に関する施策並びに情報通信技術の効果的な活用の推進に関する施策について定めることにより、手続等に係る関係者の利便性の向上、行政運営の簡素化及び効率化並びに社会経済活動の更なる円滑化を図り、もって国民生活の向上及び国民経済の健全な発展に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（基本原則）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">情報通信技術を活用した行政の推進は、事務又は業務の遂行に用いる情報を書面等から官民データ（官民データ活用推進基本法第二条第一項に規定する官民データをいう。以下この条において同じ。）へと転換することにより、公共分野における情報通信技術の活用を図るとともに、情報通信技術を活用した社会生活の利便性の向上及び事業活動の効率化を促進することが、急速な少子高齢化の進展への対応その他の我が国が直面する課題の解決にとって重要であることに鑑み、情報通信技術の利用のための能力又は知識経験が十分でない者に対する適正な配慮がされることを確保しつつ、デジタル社会（デジタル社会形成基本法第二条に規定するデジタル社会をいう。）の形成に関する施策及び官民データの適正かつ効果的な活用の推進に関する施策の一環として、次に掲げる事項を旨として行われなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">手続等並びにこれに関連する行政機関等の事務及び民間事業者の業務の処理に係る一連の行程が情報通信技術を利用して行われるようにすることにより、手続等に係る時間、場所その他の制約を除去するとともに、当該事務及び業務の自動化及び共通化を図り、もって手続等が利用しやすい方法により迅速かつ的確に行われるようにすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">民間事業者その他の者から行政機関等に提供された情報については、行政機関等が相互に連携して情報システムを利用した当該情報の共有を図ることにより、当該情報と同一の内容の情報の提供を要しないものとすること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">社会生活又は事業活動に伴い同一の機会に通常必要とされる多数の手続等（これらの手続等に関連して民間事業者に対して行われ、又は民間事業者が行う通知を含む。以下この号において同じ。）について、行政機関等及び民間事業者が相互に連携することにより、情報通信技術を利用して当該手続等を一括して行うことができるようにすること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">法令</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法律及び法律に基づく命令をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">行政機関等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次に掲げるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">内閣、法律の規定に基づき内閣に置かれる機関若しくは内閣の所轄の下に置かれる機関、宮内庁、内閣府設置法（平成十一年法律第八十九号）第四十九条第一項若しくは第二項に規定する機関、国家行政組織法（昭和二十三年法律第百二十号）第三条第二項に規定する機関若しくは会計検査院又はこれらに置かれる機関</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">イに掲げる機関の職員であって法律上独立に権限を行使することを認められたもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地方公共団体又はその機関（議会を除く。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">独立行政法人（独立行政法人通則法（平成十一年法律第百三号）第二条第一項に規定する独立行政法人をいう。ヘにおいて同じ。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地方独立行政法人（地方独立行政法人法（平成十五年法律第百十八号）第二条第一項に規定する地方独立行政法人をいう。ヘにおいて同じ。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="6">
+                <Subitem1Title>ヘ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法律により直接に設立された法人、特別の法律により特別の設立行為をもって設立された法人（独立行政法人を除く。）又は特別の法律により設立され、かつ、その設立に関し行政庁の認可を要する法人（地方独立行政法人を除く。）のうち、政令で定めるもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="7">
+                <Subitem1Title>ト</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">行政庁が法律の規定に基づく試験、検査、検定、登録その他の行政上の事務について当該法律に基づきその全部又は一部を行わせる者を指定した場合におけるその指定を受けた者</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="8">
+                <Subitem1Title>チ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">ニからトまでに掲げる者（トに掲げる者については、当該者が法人である場合に限る。）の長</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国の行政機関等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">次に掲げるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前号イ及びロに掲げるもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前号ニ及びヘからチまでに掲げる者のうちその者に係る手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化のために当該手続等における情報通信技術の利用の確保が必要なものとして政令で定めるもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">民間事業者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">個人又は法人その他の団体であって、事業を行うもの（行政機関等を除く。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">書面等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">書面、書類、文書、謄本、抄本、正本、副本、複本その他文字、図形その他の人の知覚によって認識することができる情報が記載された紙その他の有体物をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">署名等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">署名、記名、自署、連署、押印その他氏名又は名称を書面等に記載することをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">電磁的記録</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">申請等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">申請、届出その他の法令の規定に基づき行政機関等に対して行われる通知（訴訟手続その他の裁判所における手続並びに刑事事件及び政令で定める犯則事件に関する法令の規定に基づく手続（以下この条及び第十七条第一項において「裁判手続等」という。）において行われるものを除く。）をいう。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、経由機関（法令の規定に基づき他の行政機関等又は民間事業者を経由して行われる申請等における当該他の行政機関等又は民間事業者をいう。以下この号において同じ。）があるときは、当該申請等については、当該申請等をする者から経由機関に対して行われるもの及び経由機関から他の経由機関又は当該申請等を受ける行政機関等に対して行われるものごとに、それぞれ別の申請等とみなして、この法律の規定を適用する。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">処分通知等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">処分（行政庁の処分その他公権力の行使に当たる行為をいう。）の通知その他の法令の規定に基づき行政機関等が行う通知（不特定の者に対して行うもの及び裁判手続等において行うものを除く。）をいう。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、経由機関（法令の規定に基づき他の行政機関等又は民間事業者を経由して行う処分通知等における当該他の行政機関等又は民間事業者をいう。以下この号において同じ。）があるときは、当該処分通知等については、当該処分通知等を行う行政機関等が経由機関に対して行うもの及び経由機関が他の経由機関又は当該処分通知等を受ける者に対して行うものごとに、それぞれ別の処分通知等とみなして、この法律の規定を適用する。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">縦覧等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法令の規定に基づき行政機関等が書面等又は電磁的記録に記録されている事項を縦覧又は閲覧に供すること（裁判手続等において行うものを除く。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">作成等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法令の規定に基づき行政機関等が書面等又は電磁的記録を作成し、又は保存すること（裁判手続等において行うものを除く。）をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="12">
+              <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">手続等</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">申請等、処分通知等、縦覧等又は作成等をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　情報通信技術を活用した行政の推進</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　情報システム整備計画等</SectionTitle>
+          <Article Num="4">
+            <ArticleCaption>（情報システム整備計画）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">政府は、情報通信技術を利用して行われる手続等に係る国の行政機関等の情報システム（次条第四項を除き、以下この節において単に「情報システム」という。）の整備を総合的かつ計画的に実施するため、情報システムの整備に関する計画（以下「情報システム整備計画」という。）を作成しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">情報システム整備計画は、次に掲げる事項について定めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">計画期間</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">情報システムの整備に関する基本的な方針</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">申請等及び申請等に基づく処分通知等を電子情報処理組織を使用する方法により行うために必要な情報システムの整備に関する次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">申請等及び申請等に基づく処分通知等のうち、情報システムの整備により電子情報処理組織を使用する方法により行うことができるようにするものの範囲</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">イの情報システムの整備の内容及び実施期間</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">申請等に係る書面等の添付を省略するために必要な情報システムの整備に関する次に掲げる事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">申請等に係る書面等のうち、情報システムの整備により添付を省略することができるようにするものの種類</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">イの情報システムの整備の内容及び実施期間</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">情報システムを利用して迅速かつ的確に情報の授受を行うためにデータ（電磁的記録として記録された情報をいう。以下同じ。）に関して講ずべき次に掲げる措置に関する事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">データの標準化（データに含まれる用語、符号その他の事項を統一することその他の措置により、データの仕様を共通化し、又はデータの相互運用性を確保することをいう。第十九条第二項第五号及び第二十条第二項において同じ。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">データの品質の確保（データを正確かつ最新の内容に保つことその他のデータの品質を確保することをいう。第十九条第二項第四号において同じ。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">外部連携機能（プログラムが有するデータ又は機能を他のプログラムにおいて利用し得るようにするために必要な機能をいう。）の整備及び当該外部連携機能に係る仕様に関する情報の提供</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">行政機関等による情報システムの共用の推進に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他情報システムの整備に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、情報システム整備計画の案を作成し、閣議の決定を求めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による閣議の決定があったときは、遅滞なく、情報システム整備計画を公表しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の規定は、情報システム整備計画の変更について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="5">
+            <ArticleCaption>（国の行政機関等による情報システムの整備等）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国の行政機関等は、情報システム整備計画に従って情報システムを整備しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国の行政機関等は、前項の規定による情報システムの整備に当たっては、当該情報システムの安全性及び信頼性を確保するために必要な措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国の行政機関等は、第一項の規定による情報システムの整備に当たっては、これと併せて、当該情報システムを利用して行われる手続等及びこれに関連する行政機関等の事務についての簡素化又は合理化その他の見直しを行うよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国の行政機関等以外の行政機関等は、国の行政機関等が前三項の規定に基づき講ずる措置に準じて、情報通信技術を利用して行われる手続等に係る当該行政機関等の情報システムの整備その他の情報通信技術を活用した行政の推進を図るために必要な施策を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、国の行政機関等以外の行政機関等が講ずる前項の施策を支援するため、情報の提供その他の必要な措置を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　手続等における情報通信技術の利用</SectionTitle>
+          <Article Num="6">
+            <ArticleCaption>（電子情報処理組織による申請等）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">申請等のうち当該申請等に関する他の法令の規定において書面等により行うことその他のその方法が規定されているものについては、当該法令の規定にかかわらず、主務省令で定めるところにより、主務省令で定める電子情報処理組織（行政機関等の使用に係る電子計算機（入出力装置を含む。第二十三条第一項を除き、以下同じ。）とその手続等の相手方の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。次章を除き、以下同じ。）を使用する方法により行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の電子情報処理組織を使用する方法により行われた申請等については、当該申請等に関する他の法令の規定に規定する方法により行われたものとみなして、当該法令その他の当該申請等に関する法令の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の電子情報処理組織を使用する方法により行われた申請等は、当該申請等を受ける行政機関等の使用に係る電子計算機に備えられたファイルへの記録がされた時に当該行政機関等に到達したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">申請等のうち当該申請等に関する他の法令の規定において署名等をすることが規定されているものを第一項の電子情報処理組織を使用する方法により行う場合には、当該署名等については、当該法令の規定にかかわらず、電子情報処理組織を使用した個人番号カード（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードをいう。第十一条において同じ。）の利用その他の氏名又は名称を明らかにする措置であって主務省令で定めるものをもって代えることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">申請等のうち当該申請等に関する他の法令の規定において収入印紙をもってすることその他の手数料の納付の方法が規定されているものを第一項の電子情報処理組織を使用する方法により行う場合には、当該手数料の納付については、当該法令の規定にかかわらず、電子情報処理組織を使用する方法その他の情報通信技術を利用する方法であって主務省令で定めるものをもってすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">申請等をする者について対面により本人確認をするべき事情がある場合、申請等に係る書面等のうちにその原本を確認する必要があるものがある場合その他の当該申請等のうちに第一項の電子情報処理組織を使用する方法により行うことが困難又は著しく不適当と認められる部分がある場合として主務省令で定める場合には、主務省令で定めるところにより、当該申請等のうち当該部分以外の部分につき、前各項の規定を適用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第二項中「行われた申請等」とあるのは、「行われた申請等（第六項の規定により前項の規定を適用する部分に限る。以下この項から第五項までにおいて同じ。）」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="7">
+            <ArticleCaption>（電子情報処理組織による処分通知等）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">処分通知等のうち当該処分通知等に関する他の法令の規定において書面等により行うことその他のその方法が規定されているものについては、当該法令の規定にかかわらず、主務省令で定めるところにより、主務省令で定める電子情報処理組織を使用する方法により行うことができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該処分通知等を受ける者が当該電子情報処理組織を使用する方法により受ける旨の主務省令で定める方式による表示をする場合に限る。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の電子情報処理組織を使用する方法により行われた処分通知等については、当該処分通知等に関する他の法令の規定に規定する方法により行われたものとみなして、当該法令その他の当該処分通知等に関する法令の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の電子情報処理組織を使用する方法により行われた処分通知等は、当該処分通知等を受ける者の使用に係る電子計算機に備えられたファイルへの記録がされた時に当該処分通知等を受ける者に到達したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">処分通知等のうち当該処分通知等に関する他の法令の規定において署名等をすることが規定されているものを第一項の電子情報処理組織を使用する方法により行う場合には、当該署名等については、当該法令の規定にかかわらず、氏名又は名称を明らかにする措置であって主務省令で定めるものをもって代えることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">処分通知等を受ける者について対面により本人確認をするべき事情がある場合、処分通知等に係る書面等のうちにその原本を交付する必要があるものがある場合その他の当該処分通知等のうちに第一項の電子情報処理組織を使用する方法により行うことが困難又は著しく不適当と認められる部分がある場合として主務省令で定める場合には、主務省令で定めるところにより、当該処分通知等のうち当該部分以外の部分につき、前各項の規定を適用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第二項中「行われた処分通知等」とあるのは、「行われた処分通知等（第五項の規定により前項の規定を適用する部分に限る。以下この項から第四項までにおいて同じ。）」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="8">
+            <ArticleCaption>（電磁的記録による縦覧等）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">縦覧等のうち当該縦覧等に関する他の法令の規定において書面等により行うことが規定されているもの（申請等に基づくものを除く。）については、当該法令の規定にかかわらず、主務省令で定めるところにより、当該書面等に係る電磁的記録に記録されている事項又は当該事項を記載した書類により行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の電磁的記録に記録されている事項又は書類により行われた縦覧等については、当該縦覧等に関する他の法令の規定により書面等により行われたものとみなして、当該法令その他の当該縦覧等に関する法令の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（電磁的記録による作成等）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">作成等のうち当該作成等に関する他の法令の規定において書面等により行うことが規定されているものについては、当該法令の規定にかかわらず、主務省令で定めるところにより、当該書面等に係る電磁的記録により行うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の電磁的記録により行われた作成等については、当該作成等に関する他の法令の規定により書面等により行われたものとみなして、当該法令その他の当該作成等に関する法令の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">作成等のうち当該作成等に関する他の法令の規定において署名等をすることが規定されているものを第一項の電磁的記録により行う場合には、当該署名等については、当該法令の規定にかかわらず、氏名又は名称を明らかにする措置であって主務省令で定めるものをもって代えることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10">
+            <ArticleCaption>（適用除外）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次の各号に掲げる手続等については、当該各号に定める規定は、適用しない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">手続等のうち、申請等に係る事項に虚偽がないかどうかを対面により確認する必要があること、許可証その他の処分通知等に係る書面等を事業所に備え付ける必要があることその他の事由により当該手続等を電子情報処理組織を使用する方法その他の情報通信技術を利用する方法により行うことが適当でないものとして政令（内閣の所轄の下に置かれる機関及び会計検査院にあっては、当該機関の命令）で定めるもの</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">この節の規定</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">申請等及び処分通知等のうち当該申請等又は処分通知等に関する他の法令の規定において電子情報処理組織を使用する方法により行うことが規定されているもの（第六条第一項又は第七条第一項の規定に基づき行うことが規定されているものを除く。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">第六条及び第七条の規定</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">縦覧等及び作成等のうち当該縦覧等又は作成等に関する他の法令の規定において情報通信技術を利用する方法により行うことが規定されているもの（第八条第一項又は前条第一項の規定に基づき行うことが規定されているものを除く。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">第八条及び前条の規定</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　添付書面等の省略</SectionTitle>
+          <Article Num="11">
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">申請等をする者に係る住民票の写し、戸籍又は除かれた戸籍の謄本又は抄本、登記事項証明書その他の政令で定める書面等であって当該申請等に関する他の法令の規定において当該申請等に際し添付することが規定されているものについては、当該法令の規定にかかわらず、行政機関等が、当該申請等をする者が行う電子情報処理組織を使用した個人番号カードの利用その他の措置であって当該書面等の区分に応じ政令で定めるものにより、直接に、又は電子情報処理組織を使用して、当該書面等により確認すべき事項に係る情報を入手し、又は参照することができる場合には、添付することを要しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　特定法人事項変更届出に関する特例</SectionTitle>
+          <Article Num="12">
+            <ArticleCaption>（定義）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この節において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">特定法人事項</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">法人の名称その他の当該法人に係る登記事項であって主務省令・法務省令で定めるものをいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">特定法人事項変更登記情報</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">特定法人事項についての変更の登記があった場合における当該変更の登記に係る情報であって主務省令・法務省令で定めるものをいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">特定法人事項変更届出</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">他の法令の規定による届出のうち、当該他の法令の規定において、特定法人事項を変更した場合にはその旨を行政機関等に対して届け出なければならないことが規定されているものであって、主務省令・法務省令で定めるものをいう。</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（特定法人事項変更登記情報の求め及び提供）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定法人事項変更届出に関して特定法人事項変更登記情報を受けようとする行政機関等は、日曜日その他の主務省令・法務省令で定める日（次項及び次条第二項において「休日」という。）を除き、毎日、法務大臣に対し、特定法人事項変更届出対象法人（当該特定法人事項変更届出に関する他の法令の規定において、特定法人事項を変更した場合にはその旨を行政機関等に対して届け出なければならないことが規定されている法人をいう。以下この節において同じ。）の法人番号その他主務省令・法務省令で定める事項を通知して、特定法人事項変更届出対象法人に係る特定法人事項変更登記情報の提供を求めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による求めを受けた法務大臣は、当該求めに係る特定法人事項変更届出対象法人について、当該求めを受けた日（以下この項において「請求日」という。）に特定法人事項についての変更の登記があったときは、当該請求日の翌日（当該日が休日である場合にあっては、当該日後の直近の休日でない日）までに、当該求めをした行政機関等に対して、当該変更の登記に係る特定法人事項変更登記情報を提供するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">特定法人事項変更登記情報に関する第一項の規定による求め及び前項の規定による提供は、行政機関等の使用に係る電子計算機及び法務大臣の使用に係る電子計算機が電気通信回線を通じて接続された情報交換システム（デジタル社会形成基本法第二十二条に規定する情報交換システムをいう。）を利用して行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（特定法人事項変更登記情報の提供を受けた場合の特例）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">行政機関等が前条の規定による特定法人事項変更登記情報の提供を受けた場合における当該特定法人事項変更届出に関する他の法令の規定の適用については、当該特定法人事項変更登記情報が当該行政機関等の使用に係る電子計算機に備えられたファイルに記録された時において、当該特定法人事項変更登記情報に係る特定法人事項の変更について、当該特定法人事項変更届出対象法人から当該行政機関等に対する特定法人事項変更届出が行われたものとみなす。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該記録がされた時までに当該変更についての特定法人事項変更届出が行われていた場合その他主務省令・法務省令で定める場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、特定法人事項変更届出に関する他の法令の規定において、特定法人事項変更届出対象法人が特定法人事項の変更があった日から起算して一定の期間が経過する日（以下この項において「届出期限日」という。）までに当該特定法人事項変更届出を行わなければならないことが定められている場合において、届出期限日（届出期限日が休日である場合にあっては、当該届出期限日前の直近の休日でない日）の前日までに特定法人事項についての変更の登記があったにもかかわらず、前条第三項の情報交換システムに係る障害その他の特定法人事項変更届出対象法人の責めに帰することができない事由により、届出期限日の翌日以降に当該変更の登記に係る特定法人事項変更登記情報が当該行政機関等の使用に係る電子計算機に備えられたファイルに記録されることとなったときにおける当該他の法令の規定の適用については、当該特定法人事項変更登記情報に係る特定法人事項の変更についての特定法人事項変更届出は、届出期限日までに行われたものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">行政機関等は、前二項の規定により特定法人事項変更届出が行われたものとみなされたときは、主務省令・法務省令で定めるところにより、直ちに、当該特定法人事項変更届出対象法人に対して、その旨を通知するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="5">
+          <SectionTitle>第五節　その他の施策</SectionTitle>
+          <Article Num="15">
+            <ArticleCaption>（情報通信技術の利用のための能力等における格差の是正）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、情報通信技術を活用した行政の推進に当たっては、全ての者が情報通信技術の便益を享受できるよう、情報通信技術の利用のための能力又は知識経験が十分でない者が身近に相談、助言その他の援助を求めることができるようにするための施策、当該援助を行う者の確保及び資質の向上のための施策その他の年齢、障害の有無等の心身の状態、地理的な制約、経済的な状況その他の要因に基づく情報通信技術の利用のための能力又は利用の機会における格差の是正を図るために必要な施策を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">地方公共団体は、国が前項の規定に基づき講ずる施策に準じて、情報通信技術の利用のための能力又は利用の機会における格差の是正を図るために必要な施策を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（条例又は規則に基づく手続における情報通信技術の利用）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">地方公共団体は、情報通信技術を活用した行政の推進を図るため、条例又は規則に基づく手続について、手続等に準じて電子情報処理組織を使用する方法その他の情報通信技術を利用する方法により行うことができるようにするため、必要な施策を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、地方公共団体が講ずる前項の施策を支援するため、情報の提供その他の必要な措置を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　民間手続における情報通信技術の活用の促進に関する施策</ChapterTitle>
+        <Article Num="17">
+          <ArticleCaption>（民間事業者と行政機関等との連携等）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">手続等密接関連業務（手続等に密接に関連し、これと同一の機会に民間手続（契約の申込み又は承諾その他の通知をいい、裁判手続等において行うもの及び申請等又は処分通知等として行うものを除く。以下同じ。）が必要となる業務をいう。）を取り扱う民間事業者は、当該民間手続が情報通信技術を利用する方法により当該手続等と一括して行われるようにするため、当該民間手続を電子情報処理組織（民間事業者の使用に係る電子計算機とその民間手続の相手方の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。次条第二項において同じ。）を使用する方法その他の情報通信技術を利用する方法により行うとともに、当該手続等に係る行政機関等との連携を確保するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、前項の連携のため、同項の民間事業者に対し、必要な情報の提供、助言その他の援助を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（民間手続における情報通信技術の活用の促進のための環境整備等）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、民間手続における情報通信技術の活用の促進を図るため、契約の締結に際しての民間事業者による情報提供の適正化、取引における情報通信技術の適正な利用に関する啓発活動の実施その他の民間事業者とその民間手続の相手方との間の取引における情報通信技術の安全かつ適正な利用を図るために必要な施策を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、前項の施策の実施状況を踏まえ、民間事業者とその民間手続の相手方との間の取引における情報通信技術の安全かつ適正な利用に支障がないと認めるときは、民間手続（当該民間手続に関する法令の規定において書面等により行うことその他のその方法が規定されているものに限る。）が電子情報処理組織を使用する方法その他の情報通信技術を利用する方法により行われることが可能となるよう、法制上の措置その他の必要な施策を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　国の公的基礎情報データベースの整備及び改善の推進に関する施策</ChapterTitle>
+        <Article Num="19">
+          <ArticleCaption>（公的基礎情報データベース整備改善計画の作成等）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、国の行政機関等が保有する公的基礎情報データベースであって、手続等並びにこれに関連する行政機関等の事務及び民間事業者の業務の処理における国民の利便性の向上及び行政運営の改善に資するもの（次項及び次条において「国の公的基礎情報データベース」という。）の整備及びその利用を促進するための改善を総合的かつ計画的に実施するため、公的基礎情報データベースの整備及び改善に関する計画（以下この章において「公的基礎情報データベース整備改善計画」という。）を作成しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">公的基礎情報データベース整備改善計画は、次に掲げる事項について定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">計画期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国の公的基礎情報データベースの整備及び改善に関する基本的な方針</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国の公的基礎情報データベースの整備及び改善の内容及び実施時期</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国の公的基礎情報データベースを構成するデータに係るデータの品質の確保に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国の公的基礎情報データベースの整備及び改善に当たり、国の公的基礎情報データベースを構成するデータの加工、記録、保存及び提供に関して独立行政法人国立印刷局が果たすべき役割並びに当該データについてのデータの標準化に係る基準に関して独立行政法人情報処理推進機構が果たすべき役割に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他国の公的基礎情報データベースの整備及び改善に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、公的基礎情報データベース整備改善計画の案を作成し、閣議の決定を求めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による閣議の決定があったときは、遅滞なく、公的基礎情報データベース整備改善計画を公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定は、公的基礎情報データベース整備改善計画の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（国の公的基礎情報データベースの整備及び改善等）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国の行政機関等は、公的基礎情報データベース整備改善計画に従って国の公的基礎情報データベースの整備及び改善を行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国の行政機関等は、前項の規定による国の公的基礎情報データベースの整備及び改善に当たっては、国の公的基礎情報データベースを構成するデータの加工、記録、保存及び提供に関する事項にあっては独立行政法人国立印刷局に対し、当該データについてのデータの標準化に係る基準に関する事項にあっては独立行政法人情報処理推進機構に対し、技術的助言、情報の提供その他の必要な協力を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国の行政機関等は、第一項の規定による国の公的基礎情報データベースの整備及び改善に当たっては、これと併せて、当該国の公的基礎情報データベースを利用して行われる手続等及びこれに関連する行政機関等の事務についての簡素化又は合理化その他の見直しを行うよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国の行政機関等以外の行政機関等は、国の行政機関等が第一項及び前項の規定に基づき講ずる措置に準じて、その保有する公的基礎情報データベースの整備及び改善に関する施策を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、国の行政機関等以外の行政機関等が講ずる前項の施策を支援するため、情報の提供その他の必要な措置を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　情報通信技術の効果的な活用の推進に関する施策</ChapterTitle>
+        <Article Num="21">
+          <ArticleCaption>（情報通信技術の進展への対応）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、情報通信技術の進展の状況を踏まえ、手続等並びにこれに関連する行政機関等の事務及び民間事業者の業務の処理において、国民の利便性の向上及び行政運営の改善を図る観点から情報通信技術を効果的に活用することができるようにするため、必要な施策を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体は、国が前項の規定に基づき講ずる施策に準じて、条例又は規則に基づく手続並びにこれに関連する行政機関等の事務及び民間事業者の業務の処理において、国民の利便性の向上及び行政運営の改善を図る観点から情報通信技術を効果的に活用することができるようにするため、必要な施策を講ずるよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（規制の見直しに資する情報通信技術に関する情報の公表及び活用）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、情報通信技術の効果的な活用のための規制の見直しを推進するため、情報通信技術に関する情報であって当該見直しに資するものについて、インターネットの利用その他の方法により随時公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国の行政機関等は、情報通信技術の効果的な活用のための規制の見直しの検討に当たっては、前項の規定により公表された情報を活用するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleCaption>（公共情報システムの整備等におけるクラウド・コンピューティング・サービスの共同利用）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、クラウド・コンピューティング・サービス（インターネットその他の高度情報通信ネットワークを通じて電子計算機を他人の情報処理の用に供する役務をいう。以下この項及び次項において同じ。）を適切かつ効果的に活用することにより公共情報システム（国又は地方公共団体の事務の実施に関連する情報システムをいう。以下この条及び次条第一項において同じ。）の効果的かつ効率的な整備及び運用を推進するため、公共情報システムの整備又は運用において国と国以外の当該整備又は運用を行う者（次項及び次条第一項において「公共情報システム整備運用者」という。）とが共同してクラウド・コンピューティング・サービスを利用することができるようにするために当該共同利用の条件に関する契約の締結その他の必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国の行政機関等は、公共情報システムの整備を行おうとするときは、当該公共情報システムの効果的かつ効率的な整備及び運用その他の観点から、前項の規定に基づき講ずる措置を通じて国と公共情報システム整備運用者が共同して利用することができるものとされたクラウド・コンピューティング・サービス（以下この条及び次条第一項において「共同利用クラウド・コンピューティング・サービス」という。）を利用することについて検討を行い、その結果に基づいて当該公共情報システムの整備を行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国の行政機関等以外の行政機関等は、公共情報システムの整備を行おうとするときは、国の行政機関等が前項の規定に基づいて行う検討及び公共情報システムの整備に準じて、共同利用クラウド・コンピューティング・サービスの利用に関する検討及びその結果に基づく当該公共情報システムの整備に係る取組を行うよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、国の行政機関等以外の行政機関等が行う前項の取組を支援するため、共同利用クラウド・コンピューティング・サービスに関する情報の提供その他の必要な措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleCaption>（共同利用クラウド・コンピューティング・サービスの利用に関する金銭の保管）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、公共情報システムの効果的かつ効率的な整備及び運用を図るために、共同利用クラウド・コンピューティング・サービスの共同利用の条件に関する内閣総理大臣と当該共同利用クラウド・コンピューティング・サービスを提供する事業者との契約において、公共情報システム整備運用者が当該事業者に支払うべき当該共同利用クラウド・コンピューティング・サービスの利用に係る料金について内閣総理大臣が当該公共情報システム整備運用者から納付を受けた上で内閣総理大臣から当該事業者に引き渡す旨を定めたときは、当該納付を受けた料金その他の公共情報システム整備運用者の当該共同利用クラウド・コンピューティング・サービスの利用に関する金銭を保管することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による金銭の保管に関し必要な手続については、デジタル庁令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項のデジタル庁令を定めようとするときは、財務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
+        <Article Num="25">
+          <ArticleCaption>（情報通信技術を活用した行政の推進に関する状況の公表）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国の行政機関等は、電子情報処理組織を使用する方法により行うことができる当該国の行政機関等に係る申請等及び処分通知等その他この法律の規定による情報通信技術を活用した行政の推進に関する状況について、インターネットの利用その他の方法により随時公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定により公表された事項を取りまとめ、その概要について、インターネットの利用その他の方法により随時公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国の行政機関等以外の行政機関等は、電子情報処理組織を使用する方法により行うことができる当該行政機関等に係る申請等及び処分通知等その他この法律の規定による情報通信技術を活用した行政の推進に関する状況について、インターネットの利用その他の方法により公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（主務省令）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">この法律における主務省令は、手続等に関する他の法令（会計検査院規則、人事院規則、公正取引委員会規則、国家公安委員会規則、個人情報保護委員会規則、カジノ管理委員会規則、公害等調整委員会規則、公安審査委員会規則、中央労働委員会規則、運輸安全委員会規則及び原子力規制委員会規則を除く。）を所管する内閣官房、内閣府、デジタル庁又は各省の内閣官房令、内閣府令、デジタル庁令又は省令とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、会計検査院、人事院、公正取引委員会、国家公安委員会、個人情報保護委員会、カジノ管理委員会、公害等調整委員会、公安審査委員会、中央労働委員会、運輸安全委員会又は原子力規制委員会の所管に係る手続等については、それぞれ会計検査院規則、人事院規則、公正取引委員会規則、国家公安委員会規則、個人情報保護委員会規則、カジノ管理委員会規則、公害等調整委員会規則、公安審査委員会規則、中央労働委員会規則、運輸安全委員会規則又は原子力規制委員会規則とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（政令への委任）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、この法律の実施のために必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年八月一八日法律第一三三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日等）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:3">
+            <ItemTitle>一から三まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十一条の二の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）の施行の日又はこの法律の施行の日のいずれか遅い日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十一条の三の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">行政手続等における情報通信の技術の利用に関する法律の施行の日又は第三号に定める日のいずれか遅い日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年一二月六日法律第一三八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成十六年一月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年一二月一三日法律第一五二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">この法律の公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一四年一二月一三日法律第一五三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年四月九日法律第二三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年七月一六日法律第一一九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、地方独立行政法人法（平成十五年法律第百十八号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年五月二六日法律第五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年五月二六日法律第五七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第六条第二項の改正規定、同条の次に一条を加える改正規定、第七条、第七条の二第三項、第八条第三項、第九条第七項及び第九条の三第六項の改正規定、第九十条に五項を加える改正規定、第九十一条第七項、第二百五十二条の二十六の二、第二百五十二条の二十六の七、第二百五十五条、第二百五十九条第四項及び第二百八十一条の五の改正規定並びに次条から附則第八条までの規定は、平成十七年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年五月二六日法律第五九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成十七年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月二日法律第七三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条並びに附則第六条から第九条まで及び第十二条（「第四十七条第二項、第四十九条第五項」を「第四十七条第三項及び第五項、第四十八条第九項、第四十九条第六項」に改める部分及び「第五十五条第二項」の下に「、第五十五条の三第二項」を加える部分を除く。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一六年六月九日法律第九〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の規定は、次の各号に掲げる区分に従い、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:3">
+            <ItemTitle>一から三まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条並びに附則第五条、第十六条及び第二十条から第二十二条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年五月二〇日法律第四四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年六月一〇日法律第五五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年一一月七日法律第一一九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年五月二四日法律第四三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条第一項第二号の改正規定、第六条に一項を加える改正規定、第七条に一項を加える改正規定、第九条、第十条、第十一条第一項、第十三条第四項、第十三条の二第一項、第十四条から第十八条の二まで、第二十二条第二項ただし書及び第二十二条の四第一項第一号の改正規定、第二十四条の改正規定（同条第三号の次に二号を加える部分を除く。）、第七十条第一項第七号の二及び第七十二条第三号の改正規定並びに附則第八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年五月一八日法律第五一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を経過した日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年六月六日法律第七五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年六月一五日法律第八八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年六月二〇日法律第九〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第六十四条の改正規定、第七十五条第一項第一号の改正規定、第八十八条第一項の改正規定、第九十条の改正規定、第九十六条第六項の改正規定、第九十六条の三の改正規定、第九十七条の二第一項の改正規定、第百一条の三第一項の改正規定、第百一条の四の改正規定、第百二条の改正規定、第百三条の改正規定、第百三条の二の改正規定（同条第一項に係る部分を除く。）、第百四条の改正規定、第百四条の二の改正規定、第百四条の二の三の改正規定、第百四条の三第一項の改正規定、第百六条の改正規定、第百六条の二の改正規定、第百七条第三項の改正規定、第百七条の五の改正規定、第百七条の六の改正規定、第百七条の七第一項の改正規定、第百八条の付記の改正規定、第百八条の二の改正規定、第百十二条第一項の改正規定、第百十三条の二の改正規定、第百十七条の四第一号の改正規定（同号中「第五十一条の十二」を「第五十一条の三（車両移動保管関係事務の委託）第二項、第五十一条の十二」に改める部分を除く。）、第百十七条の五第三号の改正規定（「第百八条（免許関係事務の委託）第二項、」を削る部分に限る。）及び第百二十一条第一項第九号の改正規定並びに附則第四条から第六条まで及び第十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年五月二日法律第二六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成二十年十月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二〇年一二月五日法律第八六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年三月三一日法律第九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成二十一年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年七月一五日法律第七七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">目次の改正規定、第五条及び第八条の改正規定、第十九条に一項を加える改正規定、第二十一条、第二十二条第一項、第二十六条、第二十七条第一項及び第二項並びに第二十八条から第三十条までの改正規定、第四章の二の次に一章を加える改正規定、第三十四条第一項及び第二項、第三十九条並びに第四十七条第二号の改正規定、第五十三条の改正規定（同条第一項の改正規定（「第二十四条の二第一項若しくは第二項又は」を削る部分に限る。）を除く。）並びに別表第一の四十の項の改正規定並びに次条第二項及び第三項、附則第四条から第十条まで及び第十三条から第二十条までの規定、附則第二十一条の規定（行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）別表住民基本台帳法（昭和四十二年法律第八十一号）の項の改正規定（「及び第三十条の三第一項」を「、第三十条の三第一項及び第三十条の四十六から第三十条の四十八まで」に改める部分に限る。）に限る。）並びに附則第二十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する等の法律（平成二十一年法律第七十九号。以下「入管法等改正法」という。）の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二一年七月一五日法律第七九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定（入管法第二十三条（見出しを含む。）、第五十三条第三項、第七十六条及び第七十七条の二の改正規定を除く。）並びに次条から附則第五条まで、附則第四十四条（第六号を除く。）及び第五十一条の規定、附則第五十三条中雇用対策法（昭和四十一年法律第百三十二号）第四条第三項の改正規定、附則第五十五条第一項の規定並びに附則第五十七条のうち行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）別表出入国管理及び難民認定法（昭和二十六年政令第三百十九号）の項中「第二十条第四項（」の下に「第二十一条第四項及び」を加え、「、第二十一条第四項」を削る改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二二年三月三一日法律第一〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成二十二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月二二日法律第七〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成二十四年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年六月二七日法律第四七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第七条第一項（両議院の同意を得ることに係る部分に限る。）並びに附則第二条第三項（両議院の同意を得ることに係る部分に限る。）、第五条、第六条、第十四条第一項、第三十四条及び第八十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="87">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第八十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年五月三一日法律第二八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、番号利用法の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第三十三条から第四十二条まで、第四十四条（内閣府設置法第四条第三項第四十一号の次に一号を加える改正規定に限る。）及び第五十条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第三条、第二十八条、第二十九条（行政手続等における情報通信の技術の利用に関する法律第十二条の改正規定に限る。）及び第四十四条（内閣府設置法第四条第三項第四十一号の次に一号を加える改正規定を除く。）の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">番号利用法附則第一条第二号に掲げる規定の施行の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Num="3">
+          <ItemTitle>三</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第四条、第七条、第八条、第十条から第十二条まで、第十四条、第十五条、第十九条、第二十条、第二十四条、第二十五条、第二十九条（行政手続等における情報通信の技術の利用に関する法律別表の改正規定のうち同表電子署名に係る地方公共団体の認証業務に関する法律（平成十四年法律第百五十三号）の項中「電子署名に係る地方公共団体の認証業務に関する法律」を「電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律」に、「第三条第二項（第十条第二項において準用する場合を含む。）」を「第十条第二項において準用する第三条第二項及び第二十九条第二項において準用する第二十二条第二項」に改める部分に限る。）、第三十一条、第三十二条及び第四十三条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">番号利用法附則第一条第四号に掲げる規定の施行の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年六月一四日法律第四三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年六月二八日法律第六九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年四月一八日法律第二二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において、政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月一三日法律第六九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、行政不服審査法（平成二十六年法律第六十八号）の施行の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月一八日法律第七四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十七年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中出入国管理及び難民認定法の目次及び第六条第一項ただし書の改正規定、同法第十四条の次に一条を加える改正規定、同法第十五条第六項、第二十三条第一項及び第二十四条の改正規定、同法第四章第四節中第二十六条の二の次に一条を加える改正規定並びに同法第五十七条、第五十九条第一項、第六十一条の二の四第一項第二号、第七十条第一項、第七十二条、第七十三条の二第二項第三号、第七十七条第二号及び別表第一の四の表留学の項の改正規定並びに附則第四条及び第七条の規定並びに附則第八条のうち行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）別表出入国管理及び難民認定法（昭和二十六年政令第三百十九号）の項中「及び第六項」の下に「、第十四条の二第四項」を加える改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十七年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定及び附則第八条（前号に掲げる改正規定を除く。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年六月二四日法律第四五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年九月四日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十八年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第二十八条、第二十九条第一項及び第三項、第三十条から第四十条まで、第四十七条（都道府県農業会議及び全国農業会議所の役員に係る部分に限る。）、第五十条、第百九条並びに第百十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日（以下「公布日」という。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="115">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年九月九日法律第六五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条及び第四条並びに附則第五条、第六条、第七条第一項及び第三項、第八条、第九条、第十三条、第二十二条、第二十五条から第二十七条まで、第三十条、第三十二条、第三十四条並びに第三十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十八年一月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年一二月二日法律第九四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定並びに附則第六条中国会議員の選挙等の執行経費の基準に関する法律（昭和二十五年法律第百七十九号）第十三条の三の改正規定、附則第八条中住民基本台帳法（昭和四十二年法律第八十一号）第十七条の二の改正規定並びに附則第九条、第十条及び第十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年五月一二日法律第二七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中電波法第六条の改正規定、第二十条の改正規定、第二十七条の十七の改正規定、第六十三条の改正規定、第七十条の五の次に一条を加える改正規定、第七十六条の改正規定、第九十九条の十一第一項の改正規定（同項第一号中「免許手続）」の下に「、第二十四条の二第四項第二号（検査等事業者の登録）」を、「（特定無線設備）」の下に「、第三十八条の三第一項第二号（登録の基準）」を加える部分及び同項第二号に係る部分を除く。）、第百三条第一項の改正規定、第百十一条の改正規定及び第百十六条の改正規定並びに附則第五条から第七条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年三月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年七月二七日法律第八〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第十一章、第二百三十五条、第二百三十九条第一項（第四十四号に係る部分に限る。）、第二百四十三条第一項（第四号（第二百三十九条第一項第四十四号に係る部分に限る。）に係る部分に限る。）及び第三項並びに第二百五十一条並びに附則第五条、第七条から第十条まで、第十二条、第十四条（特定複合観光施設区域の整備の推進に関する法律第十九条第二項の改正規定に限る。）、第十五条及び第十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中住民基本台帳法別表第一の改正規定（同表の五十七の四の項を同表の五十七の五の項とし、同表の五十七の三の項の次に次のように加える部分に限る。）、同法別表第二の改正規定（第十号に掲げる部分を除く。）、同法別表第三の改正規定（同号に掲げる部分を除く。）、同法別表第四の改正規定（同号に掲げる部分を除く。）及び同法別表第五の改正規定（同号に掲げる部分を除く。）、第三条中電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律第十七条第三項の改正規定（同項第三号に係る部分及び同項第十一号に係る部分（「第五十七条」を「第五十七条第一項」に改める部分に限る。）を除く。）、同法第十八条の改正規定、同法第三十七条第三項の改正規定（同項第一号に係る部分及び同項第五号に係る部分（「第五十七条」を「第五十七条第一項」に改める部分に限る。）を除く。）、同法第五十六条（見出しを含む。）の改正規定、同法第五十七条の見出しの改正規定（「電子計算機処理等の受託者等」を「利用者証明検証者等」に改める部分に限る。）及び同条の改正規定（同条に二項を加える部分を除く。）、第四条中行政手続における特定の個人を識別するための番号の利用等に関する法律（以下この条から附則第六条までにおいて「番号利用法」という。）別表第一及び別表第二の改正規定並びに第七条の規定並びに附則第三条、第七条から第九条まで、第六十八条及び第八十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（行政手続等における情報通信の技術の利用に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定による改正後の情報通信技術を活用した行政の推進等に関する法律（以下「新情報通信技術活用法」という。）第六条及び第七条の規定は、施行日以後に行われる申請等（新情報通信技術活用法第三条第八号に規定する申請等をいう。）又は処分通知等（新情報通信技術活用法第三条第九号に規定する処分通知等をいう。）について適用し、施行日前に行われた電子情報処理組織による申請等（第一条の規定による改正前の行政手続等における情報通信の技術の利用に関する法律（以下この条において「旧情報通信技術利用法」という。）第二条第六号に規定する申請等をいう。）又は処分通知等（旧情報通信技術利用法第二条第七号に規定する処分通知等をいう。）については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に旧情報通信技術利用法第五条又は第六条の規定により行われている縦覧等又は作成等については、新情報通信技術活用法第八条又は第九条の規定により行われている縦覧等又は作成等とみなして、これらの規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の公布後速やかに、次に掲げる事項について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">新情報通信技術活用法第三条第二号に規定する行政機関等のうち同号イに掲げるもの（会計検査院を除く。以下この項において単に「行政機関等」という。）による情報通信技術に係る物品及び役務の調達並びに情報システムの整備及び運用（以下この項において「情報通信技術に係る政府調達等」という。）が適正かつ効率的に行われるよう、内閣官房において、当該行政機関等の所掌するそれぞれの事務の特性を勘案して、情報通信技術に係る政府調達等に必要な予算を一括して要求し、確保するとともに、当該予算を関係する行政機関等に配分することとすること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">行政機関等が情報通信技術に係る政府調達等を行うに際し、情報通信技術に関する専門的な知識経験を有する職員を有効に活用することができるよう、当該行政機関等の所掌するそれぞれの事務の特性を勘案して、関係する行政機関等の相互の連携協力体制を整備すること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、前項に定めるもののほか、この法律の施行後三年を目途として、この法律による改正後のそれぞれの法律の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（調整規定）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日が道路交通法の一部を改正する法律（令和元年法律第二十号）附則第一条第二号に掲げる規定の施行の日前である場合には、同法附則第八条の規定は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="74">
+        <ArticleCaption>（地方自治法等の一部を改正する法律の一部改正に伴う調整規定）</ArticleCaption>
+        <ArticleTitle>第七十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日が地方自治法等の一部を改正する法律（平成二十九年法律第五十四号）の施行の日以後である場合には、前条の規定は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="78">
+        <ArticleCaption>（特定複合観光施設区域整備法の一部改正に伴う調整規定）</ArticleCaption>
+        <ArticleTitle>第七十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日が特定複合観光施設区域整備法附則第一条第三号に掲げる規定の施行の日前である場合には、前条中「附則第八条」とあるのは「附則第八条の見出しを「（情報通信技術を活用した行政の推進等に関する法律の一部改正）」に改め、同条」と、「の下に「」とあるのは「を「情報通信技術を活用した行政の推進等に関する法律」と、「を加え、」とあるのは「に改め、同条のうち」と、「別表」とあるのは「第十二条本文の改正規定中「第十二条本文」を「第十八条本文」に改め、同法別表」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月三一日法律第一七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第百二十条の次に七条を加える改正規定、第百二十四条の改正規定（「市役所又は町村役場の所在地を管轄する法務局又は地方法務局の長」を「管轄法務局長等」に改める部分を除く。）、第百二十八条から第百三十条までの改正規定、第百三十七条を改め、同条を第百三十九条とする改正規定（第百三十七条を改める部分に限る。）、第百三十四条を改め、同条を第百三十六条とする改正規定（第百三十四条を改める部分に限る。）及び第百三十三条を改め、同条を第百三十五条とする改正規定（第百三十三条を改める部分に限る。）並びに附則第七条から第十条まで及び第十四条（前号に掲げる部分を除く。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して五年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年六月五日法律第二〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、道路運送車両法の一部を改正する法律（令和元年法律第十四号）の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条並びに次条から附則第四条まで及び附則第六条から第八条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和三年九月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一九日法律第三六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和三年九月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第六十条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="57">
+        <ArticleCaption>（処分等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にこの法律による改正前のそれぞれの法律（これに基づく命令を含む。以下この条及び次条において「旧法令」という。）の規定により従前の国の機関がした認定等の処分その他の行為は、法令に別段の定めがあるもののほか、この法律の施行後は、この法律による改正後のそれぞれの法律（これに基づく命令を含む。以下この条及び次条において「新法令」という。）の相当規定により相当の国の機関がした認定等の処分その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に旧法令の規定により従前の国の機関に対してされている申請、届出その他の行為は、法令に別段の定めがあるもののほか、この法律の施行後は、新法令の相当規定により相当の国の機関に対してされた申請、届出その他の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に旧法令の規定により従前の国の機関に対して申請、届出その他の手続をしなければならない事項で、この法律の施行の日前に従前の国の機関に対してその手続がされていないものについては、法令に別段の定めがあるもののほか、この法律の施行後は、これを、新法令の相当規定により相当の国の機関に対してその手続がされていないものとみなして、新法令の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="58">
+        <ArticleCaption>（命令の効力に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧法令の規定により発せられた内閣府設置法第七条第三項の内閣府令又は国家行政組織法第十二条第一項の省令は、法令に別段の定めがあるもののほか、この法律の施行後は、新法令の相当規定に基づいて発せられた相当の第七条第三項のデジタル庁令又は国家行政組織法第十二条第一項の省令としての効力を有するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="60">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第十五条、第十六条、第五十一条及び前三条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一六日法律第六三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条及び第二条の規定並びに附則第七条、第十九条及び第二十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月七日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定（デジタル社会形成基本法第二十二条の改正規定を除く。）並びに第三条中行政手続における特定の個人を識別するための番号の利用等に関する法律の目次の改正規定（「第六条」を「第六条の二」に改める部分に限る。次号において同じ。）及び同法第一章に一条を加える改正規定並びに附則第四条、第六条、第七条及び第十二条の規定並びに附則第十三条中デジタル庁設置法（令和三年法律第三十六号）第四条第二項第一号の改正規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一月八日法律第四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して二月を経過した日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二三日法律第四三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、重要電子計算機に対する不正な行為による被害の防止に関する法律（令和七年法律第四十二号）の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条の規定（前号に掲げる改正規定を除く。）、第八条から第十一条まで及び第十四条の規定並びに第十七条の規定（同号に掲げる改正規定を除く。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">重要電子計算機に対する不正な行為による被害の防止に関する法律附則第一条第三号に掲げる規定の施行の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
