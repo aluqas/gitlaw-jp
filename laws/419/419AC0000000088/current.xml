@@ -141,13 +141,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">国は、前条の目的の実現に資する活動であって民間の団体又は個人により自発的に行われるものを促進し、これらの者と連携協力するとともに、更生保護に対する国民の理解を深め、かつ、その協力を得るように努めなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">国は、前条の目的の実現に資する活動であって民間の団体又は個人により自発的に行われるもの（次項において「民間活動」という。）を促進し、同項の責務を果たすための地方公共団体の施策を支援し、これらの者と連携協力するとともに、更生保護に対する国民の理解を深め、かつ、その協力を得るように努めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">地方公共団体は、前項の活動が地域社会の安全及び住民福祉の向上に寄与するものであることにかんがみ、これに対して必要な協力をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">地方公共団体は、民間活動が地域社会の安全及び住民福祉の向上に寄与するものであることに鑑み、その地方公共団体の地域の状況に応じ、民間活動に対して必要な協力をするように努めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -253,6 +253,18 @@
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、補欠の委員長又は委員の任期は、前任者の残任期間とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員長及び委員は、再任されることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員長及び委員は、任期が満了した場合においても、後任者が任命されるまでは、第一項の規定にかかわらず、引き続き在任する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Num="8">
             <ArticleCaption>（委員長及び委員の服務等）</ArticleCaption>
@@ -322,7 +334,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">委員長に事故があるときは、あらかじめ委員長が定める順序により、常勤の委員が委員長の職務を行う。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">委員長に事故があるとき、又は委員長が欠けたときは、あらかじめ委員長が定める順序により、常勤の委員が委員長の職務を代理し、又はその職務を行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -356,7 +368,7 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">委員長に事故がある場合における第二項の規定の適用については、前条第二項の規定により委員長の職務を行う常勤の委員は、委員長とみなす。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">委員長に事故があり、又は委員長が欠けた場合における第二項の規定の適用については、前条第二項の規定により委員長の職務を代理し、又はその職務を行う常勤の委員は、委員長とみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -484,7 +496,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">委員の任期は、三年とする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">委員の任期は、三年とする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、再任を妨げない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -767,7 +780,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">保護司は、保護観察官で十分でないところを補い、地方委員会又は保護観察所の長の指揮監督を受けて、保護司法（昭和二十五年法律第二百四号）の定めるところに従い、それぞれ地方委員会又は保護観察所の所掌事務に従事するものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">保護司は、地域社会を構成する一員として、それぞれの個性と能力を発揮して、保護観察官で十分でないところを補い、地方委員会又は保護観察所の長の指揮監督を受けて、保護司法（昭和二十五年法律第二百四号）の定めるところに従い、それぞれ地方委員会又は保護観察所の所掌事務に従事するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -987,13 +1000,20 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">地方委員会は、前項の決定をしたときは、速やかに、その対象とされた者が収容されている刑事施設の長又は少年院の長に対し、その旨を書面で通知するとともに、当該決定を受けた者に対し、当該決定をした旨の証明書を交付しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">地方委員会は、前項の決定をしたときは、速やかに、その対象とされた者が収容されている刑事施設の長又は少年院の長に対し、その旨を書面又は電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）により通知するとともに、当該決定を受けた者に対し、当該決定をした旨の証明書（電磁的記録をもって作成するものを含む。）を提供しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電磁的記録をもって作成する証明書の提供は、これを受ける者に異議があるときは、することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第一項の決定の対象とされた者の刑期は、前項の通知が刑事施設又は少年院に到達した日に終了するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二項の規定によりされた電磁的記録による通知（電気通信回線を通じてされたものに限る。）は、刑事施設又は少年院の使用に係る電子計算機（入出力装置を含む。）に備えられたファイルに記録された時に当該刑事施設又は少年院に到達したものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1022,7 +1042,8 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">地方委員会は、前項の決定をしたときは、当該決定を受けた者に対し、当該決定をした旨の証明書を交付しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">地方委員会は、前項の決定をしたときは、当該決定を受けた者に対し、当該決定をした旨の証明書（電磁的記録をもって作成するものを含む。）を提供しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電磁的記録をもって作成する証明書の提供は、これを受ける者に異議があるときは、することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1654,8 +1675,8 @@
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">刑事訴訟法（昭和二十三年法律第百三十一号）第六十四条、第七十三条第一項前段及び第三項、第七十四条並びに第七十六条第一項本文及び第三項の規定（勾引に関する部分に限る。）は、第二項又は第三項の引致状及びこれらの規定による保護観察対象者の引致について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同法第六十四条第一項中「罪名、公訴事実の要旨」とあり、同法第七十三条第三項中「公訴事実の要旨」とあり、及び同法第七十六条第一項本文中「公訴事実の要旨及び弁護人を選任することができる旨並びに貧困その他の事由により自ら弁護人を選任することができないときは弁護人の選任を請求することができる旨」とあるのは「引致の理由」と、同法第六十四条第一項中「裁判長又は受命裁判官」とあるのは「裁判官」と、同法第七十四条中「刑事施設」とあるのは「刑事施設又は少年鑑別所」と、同法第七十六条第三項中「告知及び前項の教示」とあるのは「告知」と、「合議体の構成員又は裁判所書記官」とあるのは「地方更生保護委員会が引致した場合においては委員又は保護観察官、保護観察所の長が引致した場合においては保護観察官」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">刑事訴訟法（昭和二十三年法律第百三十一号）第六十二条第二項、第六十四条、第七十三条第一項前段及び第三項、第七十四条並びに第七十六条第一項本文及び第三項の規定（勾引に関する部分に限る。）は、第二項又は第三項の引致状及びこれらの規定による保護観察対象者の引致について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同法第六十四条第一項中「罪名、公訴事実の要旨」とあり、同法第七十三条第三項中「公訴事実の要旨」とあり、及び同法第七十六条第一項本文中「公訴事実の要旨及び弁護人を選任することができる旨並びに貧困その他の事由により自ら弁護人を選任することができないときは弁護人の選任を請求することができる旨」とあるのは「引致の理由」と、同法第六十四条第一項第二号中「検察官及び検察事務官又は司法警察職員（第七十条第二項の規定により刑事施設職員が執行する場合にあつては、検察官及び刑事施設職員）」とあるのは「保護観察官（更生保護法第六十三条第六項ただし書の規定により警察官が執行を嘱託された場合にあつては、保護観察官及び警察官）」と、同号、同条第二項及び同法第七十三条第一項第二号中「裁判長又は受命裁判官」とあるのは「裁判官」と、同法第七十四条中「刑事施設」とあるのは「刑事施設又は少年鑑別所」と、同法第七十六条第三項中「告知及び前項の教示」とあるのは「告知」と、「合議体の構成員又は裁判所書記官」とあるのは「地方更生保護委員会が引致した場合においては委員又は保護観察官、保護観察所の長が引致した場合においては保護観察官」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8">
@@ -1699,6 +1720,12 @@
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第二十五条第二項の規定は、第一項の規定による質問及び資料の提示の求めについて準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">保護観察所の長は、保護観察のための調査において、必要があると認めるときは、公務所又は公私の団体に照会して必要な事項の報告を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2335,13 +2362,24 @@
                 </ParagraphSentence>
               </Paragraph>
             </Article>
+            <Article Num="78_3">
+              <ArticleCaption>（鑑別の求め）</ArticleCaption>
+              <ArticleTitle>第七十八条の三</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">保護観察所の長は、刑法第二十五条の二第一項の規定により保護観察に付されている保護観察付執行猶予者（同項の規定により保護観察に付されている期間中に更に同項の規定により保護観察に付された保護観察付執行猶予者（以下「再保護観察付執行猶予者」という。）を除く。）について、その保護観察の開始に際し、執行を猶予された刑を言い渡される理由となった犯罪に結び付いた要因を的確に把握するため、少年鑑別所の長に対し、当該保護観察付執行猶予者の鑑別を求めるものとする。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、保護観察の実施のために必要とは認められないときは、この限りでない。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
             <Article Num="79">
               <ArticleCaption>（検察官への申出）</ArticleCaption>
               <ArticleTitle>第七十九条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">保護観察所の長は、保護観察付執行猶予者について、刑法第二十六条の二第二号又は第二十七条の五第二号の規定により刑の執行猶予の言渡しを取り消すべきものと認めるときは、刑事訴訟法第三百四十九条第一項に規定する地方裁判所、家庭裁判所又は簡易裁判所に対応する検察庁の検察官に対し、書面で、同条第二項に規定する申出をしなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">保護観察所の長は、保護観察付執行猶予者について、刑法第二十六条の二第二号又は第二十七条の五第二号の規定により刑の執行猶予の言渡しを取り消すべきものと認めるときは、刑事訴訟法第三百四十九条第一項に規定する地方裁判所、家庭裁判所又は簡易裁判所に対応する検察庁の検察官に対し、書面又は電磁的記録により、同条第二項に規定する申出をしなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2443,7 +2481,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">刑法第二十五条の二第一項の規定により保護観察に付されている期間中に更に同項の規定により保護観察に付された保護観察付執行猶予者（以下「再保護観察付執行猶予者」という。）に対する保護観察は、当該再保護観察付執行猶予者が保護観察に付されている期間中に犯罪をしたことを踏まえ、当該犯罪に結び付いた要因の的確な把握に留意して実施しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">再保護観察付執行猶予者に対する保護観察は、当該再保護観察付執行猶予者が保護観察に付されている期間中に犯罪をしたことを踏まえ、当該犯罪に結び付いた要因の的確な把握に留意して実施しなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2564,7 +2602,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第六十一条第一項の規定は、第八十二条第一項、第八十三条及び前条第一項の規定による措置について準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第六十一条第一項及び第六十四条第四項の規定は、第八十二条第一項、第八十三条及び前条第一項の規定による措置について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2689,7 +2727,7 @@
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">保護観察所の長は、更生緊急保護を行う必要があるか否かを判断するに当たっては、その申出をした者の刑事上の手続に関与した検察官又はその者が収容されていた刑事施設（労役場に留置されていた場合には、当該労役場が附置された刑事施設）の長若しくは少年院の長の意見を聴かなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、仮釈放の期間の満了によって前条第一項第一号に該当した者又は仮退院の終了により同項第九号に該当した者については、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、仮釈放の終了により前条第一項第一号若しくは第二号に該当した者又は仮退院若しくは少年法第六十四条第一項第二号の保護処分の終了により前条第一項第九号に該当した者については、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3903,6 +3941,17 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一二月一〇日法律第八二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三条中更生保護法第八十二条並びに第八十六条第一項及び第二項の改正規定並びに附則第三項の規定は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
     </SupplProvision>
   </LawBody>
 </Law>
