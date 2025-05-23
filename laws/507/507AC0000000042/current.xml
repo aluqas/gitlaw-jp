@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Reiwa" Year="07" Num="042" PromulgateMonth="05" PromulgateDay="23" LawType="Act"><LawNum>令和七年法律第四十二号</LawNum><LawBody><LawTitle Kana="じゅうようでんしけいさんきにたいするふせいなこういによるひがいのぼうしにかんするほうりつ" Abbrev="" AbbrevKana="">重要電子計算機に対する不正な行為による被害の防止に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　特別社会基盤事業者による特定侵害事象等の報告等</ChapterTitle>
+        <ArticleRange>（第四条―第十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　当事者協定</ChapterTitle>
+        <ArticleRange>（第十一条―第十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　外外通信目的送信措置</ChapterTitle>
+        <ArticleRange>（第十七条―第二十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　当事者協定又は外外通信目的送信措置により取得した取得通信情報の取扱い</ChapterTitle>
+        <ArticleRange>（第二十一条―第三十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　特定外内通信目的送信措置及び特定内外通信目的送信措置</ChapterTitle>
+        <ArticleRange>（第三十二条・第三十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　特定外内通信目的送信措置又は特定内外通信目的送信措置により取得した取得通信情報の取扱い</ChapterTitle>
+        <ArticleRange>（第三十四条―第三十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="8">
+        <ChapterTitle>第八章　総合整理分析情報等の提供</ChapterTitle>
+        <ArticleRange>（第三十七条―第四十四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="9">
+        <ChapterTitle>第九章　協議会</ChapterTitle>
+        <ArticleRange>（第四十五条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="10">
+        <ChapterTitle>第十章　サイバー通信情報監理委員会</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　設置等</SectionTitle>
+          <ArticleRange>（第四十六条―第六十二条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　検査等</SectionTitle>
+          <ArticleRange>（第六十三条―第七十条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="11">
+        <ChapterTitle>第十一章　雑則</ChapterTitle>
+        <ArticleRange>（第七十一条―第七十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="12">
+        <ChapterTitle>第十二章　罰則</ChapterTitle>
+        <ArticleRange>（第七十九条―第八十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、インターネットその他の高度情報通信ネットワークの整備、情報通信技術の活用の進展、国際情勢の複雑化等に伴い、そのサイバーセキュリティが害された場合に国家及び国民の安全を害し、又は国民生活若しくは経済活動に多大な影響を及ぼすおそれのある国等の重要な電子計算機のサイバーセキュリティを確保する重要性が増大していることに鑑み、重要電子計算機に対する特定不正行為による被害の防止のための基本的な方針の策定、特別社会基盤事業者による特定侵害事象等の報告の制度、重要電子計算機に対する国外通信特定不正行為による被害の防止のための通信情報の取得、当該通信情報の取扱いに関するサイバー通信情報監理委員会による審査及び検査、当該通信情報等を分析した結果の提供等について定めることにより、重要電子計算機に対する不正な行為による被害の防止を図ることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「サイバーセキュリティ」とは、サイバーセキュリティ基本法（平成二十六年法律第百四号）第二条に規定するサイバーセキュリティをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「重要電子計算機」とは、次の各号のいずれかに該当する電子計算機（当該電子計算機に組み込まれたプログラム（電子計算機に対する指令であって、一の結果を得ることができるように組み合わされたものをいう。第四十二条第一項及び第二項において同じ。）を含む。以下同じ。）をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次に掲げる者が使用する電子計算機のうち、そのサイバーセキュリティが害された場合において、当該者における重要情報（日米相互防衛援助協定等に伴う秘密保護法（昭和二十九年法律第百六十六号）第一条第三項に規定する特別防衛秘密、特定秘密の保護に関する法律（平成二十五年法律第百八号）第三条第一項に規定する特定秘密、防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律（令和五年法律第五十四号）第二十七条第一項に規定する装備品等秘密又は重要経済安保情報の保護及び活用に関する法律（令和六年法律第二十七号）第三条第一項に規定する重要経済安保情報である情報をいう。第三号において同じ。）の管理又は重要な情報システムの運用に関する事務の実施に重大な支障が生ずるおそれがあるものとして政令で定めるもの（次号に該当するものを除く。）</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法律の規定に基づき内閣に置かれる機関若しくは内閣の所轄の下に置かれる機関、宮内庁、内閣府設置法（平成十一年法律第八十九号）第四十九条第一項若しくは第二項に規定する機関、国家行政組織法（昭和二十三年法律第百二十号）第三条第二項に規定する機関若しくは会計検査院又はこれらに置かれる機関</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地方公共団体</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">独立行政法人（独立行政法人通則法（平成十一年法律第百三号）第二条第一項に規定する独立行政法人をいう。ホにおいて同じ。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地方独立行政法人（地方独立行政法人法（平成十五年法律第百十八号）第二条第一項に規定する地方独立行政法人をいう。ホにおいて同じ。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">法律により直接に設立された法人、特別の法律により特別の設立行為をもって設立された法人（独立行政法人を除く。）又は特別の法律により設立され、かつ、その設立に関し行政庁の認可を要する法人（地方独立行政法人を除く。）のうち、政令で定めるもの</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定社会基盤事業者（経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律（令和四年法律第四十三号）第五十条第一項に規定する特定社会基盤事業者をいう。次項において同じ。）が使用する電子計算機のうち、そのサイバーセキュリティが害された場合において、同条第一項に規定する特定重要設備の機能が停止し、又は低下するおそれがあるものとして政令で定めるもの（当該特定重要設備の一部を構成するものを含む。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">重要情報を保有する事業者（第一号ハからホまでに該当する法人を除く。）が使用する電子計算機のうち、そのサイバーセキュリティが害された場合において、当該事業者における重要情報の管理に関する業務の実施に重大な支障が生ずるおそれがあるものとして政令で定めるもの（前号に掲げるものを除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特別社会基盤事業者」とは、特定社会基盤事業者のうち、前項第二号に該当する重要電子計算機（以下「特定重要電子計算機」という。）を使用するものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定不正行為」とは、次の各号のいずれかに該当する行為をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">刑法（明治四十年法律第四十五号）第百六十八条の二第二項の罪に当たる行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正アクセス行為（不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号）第二条第四項に規定する不正アクセス行為をいう。第八十条第一項において同じ。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">電子計算機を用いて行われる業務に係る刑法第二編第三十五章の罪に当たる行為であって、当該電子計算機のサイバーセキュリティを害することによって行われるもの（当該電子計算機に接続された電気通信回線の機能に障害を与えることによって行われるものを含む。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定侵害事象」とは、重要電子計算機に対する特定不正行為により、当該重要電子計算機のサイバーセキュリティが害されることをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「通信情報」とは、次の各号のいずれかに該当する情報をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">事業電気通信役務（電気通信事業者（電気通信事業法（昭和五十九年法律第八十六号）第二条第五号に規定する電気通信事業者をいう。以下同じ。）が営む電気通信事業（同条第四号に規定する電気通信事業をいう。第十七条第一項において同じ。）により提供される同法第二条第三号に規定する電気通信役務をいう。以下同じ。）によって媒介される通信により送受信が行われる情報であって、当該電気通信事業者が管理しているもの（第三号、第十一条第三項及び第十七条第一項において「媒介中通信情報」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当事者設備（通信の当事者が使用する電気通信設備（電気通信事業法第二条第二号に規定する電気通信設備をいう。以下同じ。）をいう。以下この号において同じ。）から事業電気通信役務に係る電気通信設備に送信される情報若しくは事業電気通信役務によって媒介された通信により当事者設備に送信された情報又はこれらの情報の送受信に係る電気通信（同条第一号に規定する電気通信をいう。以下同じ。）の通信履歴に係る情報であって、当該通信の当事者が管理しているもの（次号及び第十三条において「当事者管理通信情報」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">媒介中通信情報又は当事者管理通信情報を複製した情報であって、内閣総理大臣が提供を受けたもの（その全部又は一部を複製し、又は加工したものを含み、第二十九条に規定する提供用選別後情報であるものを除く。以下「取得通信情報」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「国外通信特定不正行為」とは、国外にある電気通信設備（以下「国外設備」という。）を送信元とする電気通信の送信により行われる特定不正行為をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「機械的情報」とは、通信情報のうち次に掲げるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">電気通信の送信元又は送信先である電気通信設備を識別するアイ・ピー・アドレス（電気通信事業法第百六十四条第二項第三号に規定するアイ・ピー・アドレスをいう。第十一条第一項において同じ。）、通信日時その他の通信履歴に係る情報</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">電子計算機に動作をさせるべき指令を与える電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。第二十二条第二項第三号において同じ。）に記録された情報（第十七条第一項及び第二項第二号並びに第二十二条第二項第二号において「指令情報」という。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、電子計算機の動作の状況を示すために当該電子計算機が自動的に作成した情報その他のそれによっては通信の当事者が当該通信により伝達しようとする意思の本質的な内容を理解することができないと認められる情報として内閣府令で定める情報</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「通信情報保有機関」とは、次に掲げる行政機関（サイバー通信情報監理委員会を除く。）をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣府</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条第三項又は第三十一条第一項若しくは第二項（これらの規定を第三十六条の規定により適用する場合を含む。）の規定により選別後通信情報（第二十三条第二項に規定する選別後通信情報をいい、第三十六条の規定により選別後通信情報とみなされるものを含む。以下この項において同じ。）の提供を受けた行政機関であって、現に当該選別後通信情報（その全部又は一部を複製し、又は加工した選別後通信情報を含む。）を保有しているもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十八条第一項又は第二項の規定により選別後通信情報を含む総合整理分析情報（同条第一項に規定する総合整理分析情報をいう。第三条第二項第五号、第二十三条第四項第二号及び第三十条第五号において同じ。）の提供を受けた国の行政機関であって、現に当該選別後通信情報（その全部又は一部を複製し、又は加工した選別後通信情報を含む。）を保有しているもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="2_2">
+          <ArticleCaption>（通信の秘密の尊重）</ArticleCaption>
+          <ArticleTitle>第二条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の適用に当たっては、第一条に規定する目的を達成するために必要な最小限度において、この法律に定める規定に従って厳格にその権限を行使するものとし、いやしくも通信の秘密その他日本国憲法の保障する国民の権利と自由を不当に制限するようなことがあってはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（基本方針）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、重要電子計算機に対する特定不正行為による被害の防止のための基本的な方針（以下この条において「基本方針」という。）の案を作成し、閣議の決定を求めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基本方針においては、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">重要電子計算機に対する特定不正行為による被害の防止に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十三条に規定する当事者協定の締結に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">通信情報保有機関における通信情報の取扱いに関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十七条の規定による情報の整理及び分析に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">総合整理分析情報の提供に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十五条第一項に規定する協議会（第二十九条及び第三十七条において単に「協議会」という。）の組織に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、重要電子計算機に対する特定不正行為による被害の防止に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の規定による閣議の決定があったときは、遅滞なく、基本方針を公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項及び前項の規定は、基本方針の変更について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="11">
+        <ChapterTitle>第十一章　雑則</ChapterTitle>
+        <Article Num="76">
+          <ArticleCaption>（協議）</ArticleCaption>
+          <ArticleTitle>第七十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第二条第八項第三号、第二十六条第一項又は第二十九条に規定する内閣府令を定めるときは、あらかじめ、委員会に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="77">
+          <ArticleCaption>（経過措置）</ArticleCaption>
+          <ArticleTitle>第七十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の規定に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="78">
+          <ArticleCaption>（国際約束の誠実な履行）</ArticleCaption>
+          <ArticleTitle>第七十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律の施行に当たっては、我が国が締結した条約その他の国際約束の誠実な履行を妨げることがないよう留意しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第三条及び第六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一章及び第七十六条から第七十八条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第十章第一節（第四十八条第四号及び第六十一条第二項を除く。）、第七十一条、第八十二条（第五十九条に係る部分に限る。以下この号において同じ。）及び第八十五条（第八十二条に係る部分に限る。）並びに次条及び附則第五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三章から第七章まで、第六十一条第二項（第一号から第五号までに係る部分に限る。）、第十章第二節、第七十九条から第八十一条まで、第八十五条（第八十二条に係る部分を除く。）及び第八十六条（第八十条第一項に係る部分に限る。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（委員長及び委員の任命に係る準備行為）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第五十条第三項の規定による委員長及び委員の任命に関し必要な行為は、附則第一条第三号に掲げる規定の施行の日前においても、同項の規定の例によりすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
