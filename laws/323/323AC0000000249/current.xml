@@ -105,14 +105,20 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">新法第四十六条の規定により訴訟関係人から裁判書又は裁判を記載した調書の謄本又は抄本の交付を請求する場合の費用の額は、当分の間、その謄本又は抄本の用紙一枚につき六十円とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">刑事訴訟法（昭和二十三年法律第百三十一号）第四十六条第一項の規定により訴訟関係人から裁判書又は裁判を記載した調書の謄本又は抄本の交付を請求する場合の費用の額は、当分の間、その謄本又は抄本の用紙一枚につき六十円とする。</Sentence>
             <Sentence Num="2" WritingMode="vertical">第二条の事件について旧法第五十三条の規定により請求する場合についても、同様である。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の費用は、収入印紙で納めさせることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">刑事訴訟法第四十六条第二項の規定により訴訟関係人から同項に規定する書面又は電磁的記録の提供を請求する場合の費用の額は、当分の間、当該書面については用紙一枚につき六十円、当該電磁的記録については一件につき八千四百円とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二項の費用は、収入印紙で納めさせることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -300,6 +306,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（電磁的記録提供命令等における留意事項）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第一条の規定による改正後の刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令をいう。）により電磁的記録を提供させ、又は電磁的記録に係る記録媒体を押収するに当たっては、デジタル社会において個人情報の保護がより重要となっていることに鑑み、できる限り被告事件又は被疑事件と関連性を有しない個人情報を取得することとならないよう、特に留意しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

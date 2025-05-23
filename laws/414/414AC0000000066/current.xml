@@ -183,7 +183,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">受入移送及び送出移送の要請の発受並びに条約の実施に関し必要な締約国との間の文書及び通知の発受は、外務大臣が行う。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">受入移送及び送出移送の要請の発受並びに条約の実施に関し必要な締約国との間の文書及び電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）並びに通知の発受は、外務大臣が行う。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、緊急その他特別の事情がある場合において、外務大臣が同意したときは、法務大臣が行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -194,7 +194,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">外務大臣は、締約国から受入移送又は送出移送の要請を受理したときは、要請書に関係書類を添付し、意見を付して法務大臣に送付しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外務大臣は、締約国から受入移送又は送出移送の要請を受理したときは、要請書（電磁的記録を含む。）に関係書類（電磁的記録を含む。第十条第三項を除き、以下同じ。）を添えて、意見を付して法務大臣に送付しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -242,7 +242,6 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前条第一号の同意は、次の各号のいずれかに掲げる職員が確認するものとする。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、当該職員は、受入受刑者をして、第十六条及び第十七条の規定に関する事項その他法務省令で定める事項を記載した書面に、当該職員の面前で、署名押印させるものとする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -254,6 +253,24 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">法務大臣が指定する職員</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、当該職員は、その面前で、受入受刑者をして、次の各号のいずれかに掲げる措置をとらせるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条及び第十七条の規定に関する事項その他法務省令で定める事項を記載した書面に署名押印すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号に規定する事項を記録した電磁的記録に法務省令で定める署名押印に代わる措置をとること。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -292,7 +309,21 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の審査の請求は書面で行い、当該書面に関係書類を添付しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の審査の請求は、書面により、又は最高裁判所規則の定めるところにより、最高裁判所規則で定める電子情報処理組織（東京地方裁判所の使用に係る電子計算機（入出力装置を含む。以下この項及び第十九条第四項第二号において同じ。）と東京地方検察庁の検察官の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。）を使用して当該審査の請求に係る事項を東京地方裁判所の使用に係る電子計算機に備えられたファイル（以下単に「ファイル」という。）に記録する方法若しくは当該事項を記録した記録媒体を東京地方裁判所に提出する方法によりするものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、併せて関係書類を提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の電子情報処理組織を使用してファイルに記録する方法によりされた第一項の審査の請求は、当該審査の請求に係る事項がファイルに記録された時に東京地方裁判所に到達したものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の審査の請求が第二項の記録媒体を提出する方法によりされたときは、東京地方裁判所の裁判所書記官は、当該記録媒体に記録されている事項をファイルに記録しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該事項をファイルに記録することにつき困難な事情があるときは、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -302,7 +333,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">東京地方裁判所は、前条の審査の請求を受けたときは、速やかに、審査を開始し、決定をするものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">東京地方裁判所は、前条第一項の審査の請求を受けたときは、速やかに、審査を開始し、決定をするものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -336,7 +367,14 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">東京地方裁判所は、前項の決定をしたときは、速やかに、東京地方検察庁の検察官に裁判書の謄本を送達するとともに、関係書類を返還しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合においては、書面又は電磁的記録をもって裁判書を作成しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、電磁的記録をもって作成したときは、最高裁判所規則の定めるところにより、これをファイルに記録しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">東京地方裁判所は、第一項の決定をしたときは、速やかに、東京地方検察庁の検察官に裁判書の謄本又はファイルに記録された裁判書に係る電磁的記録を送達するとともに、関係書類を返還しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -346,7 +384,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">東京地方検察庁検事正は、前条第二項の規定により、裁判書の謄本が東京地方検察庁の検察官に送達されたときは、速やかに、関係書類とともに、これを法務大臣に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">東京地方検察庁検事正は、前条第三項の規定により、裁判書の謄本又はファイルに記録された裁判書に係る電磁的記録が東京地方検察庁の検察官に送達されたときは、速やかに、関係書類と共に、これを法務大臣に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -377,7 +415,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法務大臣は、第十二条の規定により裁判国に対して受入移送の要請をしたとき及び前条の規定により受入移送の命令をしたときは、当該受入受刑者に書面でその旨を通知しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、第十二条の規定により裁判国に対して受入移送の要請をしたとき及び前条の規定により受入移送の命令をしたときは、当該受入受刑者に書面又は電磁的記録によりその旨を通知しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">裁判国から要請があった場合又は第六条の規定に基づき受入受刑者の同意を確認した場合において、受入移送をしないこととしたときも、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -388,14 +426,42 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第十三条の命令は書面によるものとし、当該書面に関係書類の謄本を添付しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第十三条の命令は、書面又は電磁的記録によるものとし、当該書面又は電磁的記録に関係書類の謄本又は関係書類に記録されている事項を記載し、若しくは記録した書面若しくは電磁的記録を添えなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の書面には、受入受刑者の氏名、年齢、裁判国の名称、受入移送犯罪の名称、外国刑の刑期、引渡しを受ける日及び場所並びに引致すべき刑事施設を記載し、法務大臣が記名押印しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第十三条の命令の書面又は電磁的記録には、受入受刑者の氏名、年齢、裁判国の名称、受入移送犯罪の名称、外国刑の刑期、引渡しを受ける日及び場所並びに引致すべき刑事施設を記載し、又は記録しなければならない。</Sentence>
             </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十三条の命令の書面又は電磁的記録には、次の各号に掲げる場合の区分に応じ、法務大臣が当該各号に定める措置をとらなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第十三条の命令が書面による場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">記名押印すること。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第十三条の命令が電磁的記録による場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法務省令で定める記名押印に代わる措置をとること。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="16">
@@ -503,20 +569,54 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の受入収容状には、第十五条第二項に掲げる事項を記載し、東京地方検察庁の検察官が記名押印しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の受入収容状は、書面によるほか、法務省令で定めるところにより、電磁的記録によることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の受入収容状は、<Ruby>勾<Rt>こう</Rt></Ruby>引状と同一の効力を有するものとし、東京地方検察庁の検察官の指揮によって刑事施設の長又はその指名する刑事施設の職員が執行する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の受入収容状には、第十五条第二項に掲げる事項を記載し、又は記録しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の受入収容状には、次の各号に掲げる場合の区分に応じ、東京地方検察庁の検察官が当該各号に定める措置をとらなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">受入収容状が書面による場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">記名押印すること。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">受入収容状が電磁的記録による場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法務省令で定める記名押印に代わる措置（受入収容状に記録された事項を電子計算機の映像面、書面その他のものに表示したときに、併せて検察官の氏名が表示されることとなるものに限る。）をとること。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の受入収容状は、勾引状と同一の効力を有するものとし、東京地方検察庁の検察官の指揮によって刑事施設の長又はその指名する刑事施設の職員が執行する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">刑事訴訟法（昭和二十三年法律第百三十一号）第七十三条第一項前段及び第七十四条の規定は、第一項の受入収容状の執行について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定中「被告人」とあるのは「国際受刑者移送法第二条第九号の受入受刑者」と、同法第七十三条第一項前段中「勾引状」とあり、及び同法第七十四条中「勾引状又は勾留状」とあるのは「国際受刑者移送法第十九条第一項の受入収容状」と、同法第七十三条第一項前段中「裁判所その他の場所」とあるのは「刑事施設」と読み替えるものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、これらの規定中「被告人」とあるのは「国際受刑者移送法第二条第九号の受入受刑者」と、同法第七十三条第一項前段中「勾引状」とあり、及び同法第七十四条中「勾引状又は勾留状」とあるのは「国際受刑者移送法第十九条第一項の受入収容状」と、同項前段中「裁判所その他の場所」とあるのは「刑事施設」と、同項第二号中「裁判所の規則の」とあるのは「法務省令で」と、「第六十四条第二項（第二号に係る部分に限る。）の規定による措置に係る裁判長又は受命裁判官」とあるのは「国際受刑者移送法第十九条第四項（第二号に係る部分に限る。）の規定による措置に係る東京地方検察庁の検察官」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -532,8 +632,30 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の指揮は書面で行い、当該書面に第十五条第一項の書面の謄本及び関係書類の謄本を添付しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の指揮は、書面又は電磁的記録により行い、当該書面又は電磁的記録に、次の各号に掲げる場合の区分に応じ、当該各号に定めるもの及び関係書類の謄本又は関係書類に記録されている事項を記載し、若しくは記録した書面若しくは電磁的記録を添えなければならない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第十三条の命令が書面による場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該書面の謄本</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第十三条の命令が電磁的記録による場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">当該命令に係る事項を記載し、又は記録した書面又は電磁的記録</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="21">
@@ -542,8 +664,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">共助刑の執行に関しては、第十六条第一項の規定による共助刑の執行を受ける者を拘禁刑に処せられた者と、共助刑を拘禁刑とそれぞれみなして、刑法（明治四十年法律第四十五号）第二十二条、第二十四条、第二十八条、第二十九条、第三十一条から第三十三条まで及び第三十四条第一項、刑事訴訟法第四百七十四条、第四百八十条から第四百八十二条まで、第四百八十四条から第四百八十五条まで、第四百八十六条から第四百八十九条まで、第五百二条から第五百四条まで、第五百七条から第五百十条まで、第五百十二条、第五百十三条第一項、第二項及び第九項から第十一項まで並びに第五百十四条から第五百十六条まで、少年法（昭和二十三年法律第百六十八号）第二条第一項、第二十七条第一項、第五十六条、第五十七条、第六十一条、第六十七条第四項（第五十六条第一項及び第二項に係る部分に限る。）及び第六十八条本文並びに更生保護法（平成十九年法律第八十八号）第三条、第四条第二項、第十一条から第十四条まで、第十六条、第二十三条から第三十条まで、第三十三条、第三十四条第一項、第三十五条から第四十条まで、第四十八条、第四十九条第一項及び第三項、第五十条第一項、第五十一条、第五十二条第二項及び第三項、第五十三条第二項及び第三項、第五十四条第二項、第五十五条から第五十八条まで、第六十条から第六十五条の四まで、第七十五条から第七十七条まで、第八十二条、第八十四条から第八十八条の二まで並びに第九十一条から第九十八条までの規定を適用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、刑法第二十八条中「三分の一」とあるのは「三分の一（国際受刑者移送法第二条第七号の裁判国（以下「裁判国」という。）において同法第二条第十一号の受入移送犯罪（以下「受入移送犯罪」という。）に係る確定裁判において言い渡された同法第二条第一号の外国刑（以下「外国刑」という。）の執行としての拘禁をしたとされる日数を含む。）」と、「十年」とあるのは「十年（裁判国において受入移送犯罪に係る確定裁判において言い渡された外国刑の執行としての拘禁をしたとされる日数を含む。）」と、同法第三十二条中「刑の言渡しが確定した後」とあるのは「国際受刑者移送法第十三条の命令により裁判国から引渡しを受けた後」と、刑事訴訟法第四百七十四条中「二以上の」とあるのは「国際受刑者移送法第二条第二号の共助刑（以下「共助刑」という。）と」と、「その重いもの」とあり、及び「重い刑」とあるのは「共助刑」と、「他の刑」とあるのは「主刑」と、同法第四百八十条及び第四百八十二条中「刑の言渡しをした裁判所に対応する検察庁」とあるのは「東京地方検察庁」と、同法第四百八十七条中「刑名」とあるのは「刑名（共助刑である場合はその旨）」と、同法第五百二条中「裁判の執行を受ける者」とあるのは「共助刑の執行を受ける者」と、「言渡しをした裁判所」とあるのは「東京地方裁判所」と、同法第五百十三条第一項中「裁判の執行を受ける者若しくは裁判の執行の対象となるものの所在若しくは状況に関する資料、裁判の執行を受ける者の資産に関する資料、裁判の執行の対象となるもの若しくは裁判の執行を受ける者の財産を管理するために使用されている物又は第四百九十条第二項の規定によりその規定に従うこととされる民事執行法その他強制執行の手続に関する法令の規定により金銭の支払を目的とする債権についての強制執行の目的となる物若しくはそれ以外の物であつて当該強制執行の手続において執行官による取上げの対象となるべきもの」とあるのは「共助刑の執行を受ける者の所在又は状況に関する資料」と、少年法第二十七条第一項中「保護処分の継続中、本人に対して有罪判決が確定した」とあり、及び同法第五十七条中「保護処分の継続中、拘禁刑又は拘留の刑が確定した」とあるのは「国際受刑者移送法第二条第二号の共助刑の執行を受ける者が保護処分の継続中である」とし、その他これらの規定の適用に関し必要な技術的読替えは、政令で定める。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">共助刑の執行に関しては、第十六条第一項の規定による共助刑の執行を受ける者を拘禁刑に処せられた者と、共助刑を拘禁刑とそれぞれみなして、刑法（明治四十年法律第四十五号）第二十二条、第二十四条、第二十八条、第二十九条、第三十一条から第三十三条まで及び第三十四条第一項、刑事訴訟法第四百七十四条、第四百八十条から第四百八十二条まで、第四百八十四条から第四百八十五条まで、第四百八十六条から第四百八十九条まで、第五百二条から第五百四条まで、第五百七条から第五百十条まで、第五百十二条、第五百十三条第一項、第二項、第六項及び第十一項から第十三項まで、第五百十三条の二並びに第五百十四条から第五百十六条まで、少年法（昭和二十三年法律第百六十八号）第二条第一項、第二十七条第一項、第五十六条、第五十七条、第六十一条、第六十七条第四項（第五十六条第一項及び第二項に係る部分に限る。）及び第六十八条本文並びに更生保護法（平成十九年法律第八十八号）第三条、第四条第二項、第十一条から第十四条まで、第十六条、第二十三条から第三十条まで、第三十三条、第三十四条第一項、第三十五条から第四十条まで、第四十八条、第四十九条第一項及び第三項、第五十条第一項、第五十一条、第五十二条第二項及び第三項、第五十三条第二項及び第三項、第五十四条第二項、第五十五条から第五十八条まで、第六十条から第六十五条の四まで、第七十五条から第七十七条まで、第八十二条、第八十四条から第八十八条の二まで並びに第九十一条から第九十八条までの規定を適用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、刑法第二十八条中「三分の一」とあるのは「三分の一（国際受刑者移送法第二条第七号の裁判国（以下「裁判国」という。）において同法第二条第十一号の受入移送犯罪（以下「受入移送犯罪」という。）に係る確定裁判において言い渡された同法第二条第一号の外国刑（以下「外国刑」という。）の執行としての拘禁をしたとされる日数を含む。）」と、「十年」とあるのは「十年（裁判国において受入移送犯罪に係る確定裁判において言い渡された外国刑の執行としての拘禁をしたとされる日数を含む。）」と、同法第三十二条中「刑の言渡しが確定した後」とあるのは「国際受刑者移送法第十三条の命令により裁判国から引渡しを受けた後」と、刑事訴訟法第四百七十四条中「二以上の」とあるのは「国際受刑者移送法第二条第二号の共助刑（以下「共助刑」という。）と」と、「その重いもの」とあり、及び「重い刑」とあるのは「共助刑」と、「他の刑」とあるのは「主刑」と、同法第四百八十条及び第四百八十二条中「刑の言渡しをした裁判所に対応する検察庁」とあるのは「東京地方検察庁」と、同法第四百八十七条第一項中「刑名」とあるのは「刑名（共助刑である場合はその旨）」と、同法第五百二条中「裁判の執行を受ける者」とあるのは「共助刑の執行を受ける者」と、「言渡しをした裁判所」とあるのは「東京地方裁判所」と、同法第五百十三条第一項中「裁判の執行を受ける者若しくは裁判の執行の対象となるものの所在若しくは状況に関する資料、裁判の執行を受ける者の資産に関する資料、裁判の執行の対象となるもの若しくは裁判の執行を受ける者の財産を管理するために使用されている物又は第四百九十条第二項の規定によりその規定に従うこととされる民事執行法その他強制執行の手続に関する法令の規定により金銭の支払を目的とする債権についての強制執行の目的となる物若しくはそれ以外の物であつて当該強制執行の手続において執行官による取上げの対象となるべきもの」とあるのは「共助刑の執行を受ける者の所在又は状況に関する資料」と、少年法第二十七条第一項中「保護処分の継続中、本人に対して有罪判決が確定した」とあり、及び同法第五十七条中「保護処分の継続中、拘禁刑又は拘留の刑が確定した」とあるのは「国際受刑者移送法第二条第二号の共助刑の執行を受ける者が保護処分の継続中である」とし、その他これらの規定の適用に関し必要な技術的読替えは、政令で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -734,7 +856,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法務大臣は、送出受刑者が送出移送の申出をした場合において、条約に基づき日本国が当該送出受刑者の執行国となるべき国に対し行うこととされる通知をしたときは、当該送出受刑者に書面でその旨を通知しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、送出受刑者が送出移送の申出をした場合において、条約に基づき日本国が当該送出受刑者の執行国となるべき国に対し行うこととされる通知をしたときは、当該送出受刑者に書面又は電磁的記録によりその旨を通知しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -744,13 +866,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">送出受刑者は、第二十八条第一号の同意をするときは、その収容されている刑事施設の長又はその指定する職員の立会いの下に、法務省令で定める事項を記載した書面に署名押印しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">送出受刑者は、第二十八条第一号の同意をするときは、その収容されている刑事施設の長又はその指定する職員の立会いの下に、法務省令で定める事項を記載した書面に署名押印し、又は法務省令で定める事項を記録した電磁的記録に法務省令で定める署名押印に代わる措置をとらなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">刑事施設の長は、送出受刑者が前項の書面に署名押印したときは、速やかに、当該書面を法務大臣に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">刑事施設の長は、送出受刑者が前項の書面に署名押印し、又は同項の電磁的記録に署名押印に代わる措置をとったときは、速やかに、当該書面又は電磁的記録を法務大臣に提出しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -815,7 +937,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法務大臣は、第三十三条第一項の規定により執行国に対し送出移送の要請をしたとき及び前条第二項の規定により引渡しの命令をしたときは、当該送出受刑者に書面でその旨を通知しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、第三十三条第一項の規定により執行国に対し送出移送の要請をしたとき及び前条第二項の規定により引渡しの命令をしたときは、当該送出受刑者に書面又は電磁的記録によりその旨を通知しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">執行国から要請があった場合又は第三十一条第一項の規定に基づく送出受刑者の同意があった場合において、送出移送をしないこととしたときも、同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -826,8 +948,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">逃亡犯罪人引渡法（昭和二十八年法律第六十八号）第十六条第一項、第三項及び第四項、第十九条第一項、第二十条第一項並びに第二十一条の規定は、第三十四条第二項の命令により送出受刑者を執行国に引き渡す場合について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同法第十六条第一項中「第十四条第一項の規定による引渡の命令」とあり、及び同法第二十条第一項中「第十七条第一項又は第五項の規定による逃亡犯罪人の引渡の指揮」とあるのは「国際受刑者移送法第三十四条第二項の命令」と、同法第十六条第四項中「逃亡犯罪人の氏名、引渡犯罪名、請求国の名称、引渡の場所、引渡の期限及び発付の年月日」とあるのは「国際受刑者移送法第二条第十号の送出受刑者（以下「送出受刑者」という。）の氏名、年齢、国籍、同法第二条第八号の執行国（以下「執行国」という。）の名称、同法第二条第十二号の送出移送犯罪の名称、刑名、刑期、引渡日及び引渡しの場所」と、同法第十九条第一項中「第十六条第三項」とあるのは「国際受刑者移送法第三十六条の規定により準用される逃亡犯罪人引渡法第十六条第三項」と、同法第十九条第一項、第二十条第一項及び第二十一条中「請求国」とあるのは「執行国」と、同法第二十条第一項中「示して逃亡犯罪人の」とあるのは「示して送出受刑者の」と、「逃亡犯罪人を」とあるのは「送出受刑者を」と、同法第二十一条中「前条第一項」とあるのは「国際受刑者移送法第三十六条の規定により準用される逃亡犯罪人引渡法第二十条第一項」と、「逃亡犯罪人」とあるのは「送出受刑者」と読み替えるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">逃亡犯罪人引渡法（昭和二十八年法律第六十八号）第十六条第一項及び第三項から第六項まで、第十九条第一項、第二十条第一項並びに第二十一条の規定は、第三十四条第二項の命令により送出受刑者を執行国に引き渡す場合について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第十六条第一項中「第十四条第一項の規定による引渡しの命令」とあり、及び同法第二十条第一項中「第十七条第一項又は第六項の規定による逃亡犯罪人の引渡しの指揮」とあるのは「国際受刑者移送法第三十四条第二項の命令」と、同法第十六条第五項中「逃亡犯罪人の氏名、引渡犯罪名、請求国の名称、引渡しの場所、引渡しの期限及び発付の年月日」とあるのは「国際受刑者移送法第二条第十号の送出受刑者（以下「送出受刑者」という。）の氏名、年齢、国籍、同法第二条第八号の執行国（以下「執行国」という。）の名称、同法第二条第十二号の送出移送犯罪の名称、刑名、刑期、引渡日及び引渡しの場所」と、同法第十九条第一項中「第十六条第三項」とあるのは「国際受刑者移送法第三十六条の規定により準用される逃亡犯罪人引渡法第十六条第三項」と、同法第十九条第一項、第二十条第一項及び第二十一条中「請求国」とあるのは「執行国」と、同法第二十条第一項中「とつて逃亡犯罪人の」とあるのは「とつて送出受刑者の」と、「逃亡犯罪人を」とあるのは「送出受刑者を」と、同法第二十一条中「前条第一項」とあるのは「国際受刑者移送法第三十六条の規定により準用される逃亡犯罪人引渡法第二十条第一項」と、「逃亡犯罪人」とあるのは「送出受刑者」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -872,13 +994,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法務大臣は、第十三条の命令により裁判国から引渡しを受けた受入受刑者（第二十一条の規定により適用される刑法第二十八条又はこの法律第二十二条の規定により仮釈放中の者を除く。）について、受入移送犯罪に係る外国刑の確定裁判の再審の審判に出頭する場合その他やむを得ない事情があると認める場合において、裁判国からの要請があるときは、当該受入受刑者が収容されている刑事施設の長に対し、裁判国への引渡し（以下本条において「送還」という。）を命ずることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、第十三条の命令により裁判国から引渡しを受けた受入受刑者（第二十一条の規定により適用される刑法第二十八条又はこの法律第二十二条の規定により仮釈放中の者を除く。）について、受入移送犯罪に係る外国刑の確定裁判の再審の審判に出頭する場合その他やむを得ない事情があると認める場合において、裁判国からの要請があるときは、当該受入受刑者が収容されている刑事施設の長に対し、裁判国への引渡し（以下この条において「送還」という。）を命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法務大臣は、前項の規定により送還の命令をしたときは、当該受入受刑者に書面でその旨を通知しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、前項の規定により送還の命令をしたときは、当該受入受刑者に書面又は電磁的記録によりその旨を通知しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -890,8 +1012,8 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">逃亡犯罪人引渡法第十六条第一項、第三項及び第四項、第十九条第一項、第二十条第一項並びに第二十一条の規定は、第一項の命令により送還をする場合について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同法第十六条第一項中「第十四条第一項の規定による引渡の命令」とあり、及び同法第二十条第一項中「第十七条第一項又は第五項の規定による逃亡犯罪人の引渡の指揮」とあるのは「国際受刑者移送法第三十九条第一項の命令」と、同法第十六条第四項中「逃亡犯罪人の氏名、引渡犯罪名、請求国の名称、引渡の場所、引渡の期限及び発付の年月日」とあるのは「国際受刑者移送法第二条第九号の受入受刑者（以下「受入受刑者」という。）の氏名、年齢、同法第二条第七号の裁判国（以下「裁判国」という。）の名称、同法第二条第十一号の受入移送犯罪の名称、同法第二条第一号の外国刑の刑期、引渡日及び引渡しの場所」と、同法第十九条第一項中「第十六条第三項」とあるのは「国際受刑者移送法第三十九条第四項の規定により準用される逃亡犯罪人引渡法第十六条第三項」と、同法第十九条第一項、第二十条第一項及び第二十一条中「請求国」とあるのは「裁判国」と、同法第二十条第一項中「示して逃亡犯罪人の」とあるのは「示して受入受刑者の」と、「逃亡犯罪人を」とあるのは「受入受刑者を」と、同法第二十一条中「前条第一項」とあるのは「国際受刑者移送法第三十九条第四項の規定により準用される逃亡犯罪人引渡法第二十条第一項」と、「逃亡犯罪人」とあるのは「受入受刑者」と読み替えるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">逃亡犯罪人引渡法第十六条第一項及び第三項から第六項まで、第十九条第一項、第二十条第一項並びに第二十一条の規定は、第一項の命令により送還をする場合について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第十六条第一項中「第十四条第一項の規定による引渡しの命令」とあり、及び同法第二十条第一項中「第十七条第一項又は第六項の規定による逃亡犯罪人の引渡しの指揮」とあるのは「国際受刑者移送法第三十九条第一項の命令」と、同法第十六条第五項中「逃亡犯罪人の氏名、引渡犯罪名、請求国の名称、引渡しの場所、引渡しの期限及び発付の年月日」とあるのは「国際受刑者移送法第二条第九号の受入受刑者（以下「受入受刑者」という。）の氏名、年齢、同法第二条第七号の裁判国（以下「裁判国」という。）の名称、同法第二条第十一号の受入移送犯罪の名称、同法第二条第一号の外国刑の刑期、引渡日及び引渡しの場所」と、同法第十九条第一項中「第十六条第三項」とあるのは「国際受刑者移送法第三十九条第四項の規定により準用される逃亡犯罪人引渡法第十六条第三項」と、同法第十九条第一項、第二十条第一項及び第二十一条中「請求国」とあるのは「裁判国」と、同法第二十条第一項中「とつて逃亡犯罪人の」とあるのは「とつて受入受刑者の」と、「逃亡犯罪人を」とあるのは「受入受刑者を」と、同法第二十一条中「前条第一項」とあるのは「国際受刑者移送法第三十九条第四項の規定により準用される逃亡犯罪人引渡法第二十条第一項」と、「逃亡犯罪人」とあるのは「受入受刑者」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1390,6 +1512,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（電磁的記録提供命令等における留意事項）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第一条の規定による改正後の刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令をいう。）により電磁的記録を提供させ、又は電磁的記録に係る記録媒体を押収するに当たっては、デジタル社会において個人情報の保護がより重要となっていることに鑑み、できる限り被告事件又は被疑事件と関連性を有しない個人情報を取得することとならないよう、特に留意しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

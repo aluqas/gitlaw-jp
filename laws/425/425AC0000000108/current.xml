@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="108" Year="25" PromulgateMonth="12" PromulgateDay="13"><LawNum>平成二十五年法律第百八号</LawNum><LawBody><LawTitle Kana="とくていひみつのほごにかんするほうりつ" Abbrev="特定秘密法,特定秘密保護法" AbbrevKana="と,と">特定秘密の保護に関する法律</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="25" Num="108" PromulgateMonth="12" PromulgateDay="13" LawType="Act"><LawNum>平成二十五年法律第百八号</LawNum><LawBody><LawTitle Kana="とくていひみつのほごにかんするほうりつ" Abbrev="特定秘密法,特定秘密保護法" AbbrevKana="と,と">特定秘密の保護に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -363,14 +363,14 @@
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">刑事事件の捜査又は公訴の維持であって、刑事訴訟法（昭和二十三年法律第百三十一号）第三百十六条の二十七第一項（同条第三項及び同法第三百十六条の二十八第二項において準用する場合を含む。）の規定により裁判所に提示する場合のほか、当該捜査又は公訴の維持に必要な業務に従事する者以外の者に当該特定秘密を提供することがないと認められるもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">刑事事件の捜査又は公訴の維持であって、刑事訴訟法（昭和二十三年法律第百三十一号）第三百十六条の二十七第一項（同条第四項及び同法第三百十六条の二十八第二項において準用する場合を含む。）の規定により裁判所に提示する場合のほか、当該捜査又は公訴の維持に必要な業務に従事する者以外の者に当該特定秘密を提供することがないと認められるもの</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">民事訴訟法（平成八年法律第百九号）第二百二十三条第六項の規定により裁判所に提示する場合</Sentence>
+                <Sentence Num="1" WritingMode="vertical">民事訴訟法（平成八年法律第百九号）第二百二十三条第六項（同法第二百三十一条の三第一項において準用する場合を含む。）の規定により裁判所に提示する場合</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -1030,6 +1030,16 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="124">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="125">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第百二十五条</ArticleTitle>
@@ -1063,7 +1073,20 @@
         </Item>
       </Paragraph>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和七年五月二三日法律第三九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和九年三月三十一日までの間において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第三条、第五条―第九条関係）</RelatedArticleNum>
       <Item Num="1">

@@ -2448,8 +2448,14 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項ただし書（前項において準用する場合を含む。）の連戻状は、少年院の長の請求により、その少年院の所在地を管轄する家庭裁判所の裁判官が発する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項ただし書（前項において準用する場合を含む。次項において同じ。）の連戻状は、少年院の長の請求により、その少年院の所在地を管轄する家庭裁判所の裁判官が発する。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合においては、少年法第四条及び第三十六条の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項ただし書の連戻状は、書面によるほか、最高裁判所規則の定めるところにより、電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。第百四十条第三号において同じ。）によることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2491,7 +2497,7 @@
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条第三項の規定は、第四項（前項において準用する場合を含む。）の連戻状について準用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前条第三項及び第四項の規定は、第四項（前項において準用する場合を含む。）の連戻状について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3852,7 +3858,7 @@
                   <Sentence Num="1" WritingMode="vertical">前二号に掲げる場合以外の場合</Sentence>
                 </Column>
                 <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">出院の根拠となる文書が少年院に到達した時から十時間以内</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">出院の根拠となる文書若しくは当該文書に記載すべき事項を記録した記録媒体が少年院に到達し、又は当該事項を記録した電磁的記録が電気通信回線を通じて少年院の使用に係る電子計算機（入出力装置を含む。）に備えられたファイルに記録された時から十時間以内</Sentence>
                 </Column>
               </ItemSentence>
             </Item>
@@ -4357,6 +4363,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（電磁的記録提供命令等における留意事項）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第一条の規定による改正後の刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令をいう。）により電磁的記録を提供させ、又は電磁的記録に係る記録媒体を押収するに当たっては、デジタル社会において個人情報の保護がより重要となっていることに鑑み、できる限り被告事件又は被疑事件と関連性を有しない個人情報を取得することとならないよう、特に留意しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
