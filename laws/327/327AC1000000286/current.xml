@@ -56,18 +56,24 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の裁判は、第二条第一項にあたる行為が終つた時から一箇月を経過した後は、することができない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の裁判は、第二条第一項に該当する行為が終わつた時から一箇月を経過した後は、することができない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">裁判所は、裁判をするについて必要があるときは、証人尋問その他の証拠調べをすることができる。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合においては、その性質に反しない限り、民事訴訟法（平成八年法律第百九号）による証拠調べの場合の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の場合においては、民事訴訟法（平成八年法律第百九号）第二編第四章第一節から第六節までの規定（同法第百七十九条、第百八十二条、第百八十五条第三項、第百八十七条第三項及び第四項、第二百五条第二項、第二百七条第二項、第二百八条、第二百十五条第二項、第二百二十四条（同法第二百二十九条第二項、第二百三十一条の三第一項及び第二百三十二条第一項において準用する場合を含む。）、第二百二十七条第二項、第二百二十九条第三項及び第四項並びに第二百三十二条の二の規定を除く。）を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、別表の上欄に掲げる同法の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">制裁を科する裁判をしたときは、手続に要した費用の全部又は一部を本人に負担させることができる。</Sentence>
           </ParagraphSentence>
@@ -182,7 +188,7 @@
         <Paragraph Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第一項及び前二項の規定は、第四条第四項の規定による裁判の執行について準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一項及び前二項の規定は、第四条第五項の規定による裁判の執行について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="7">
@@ -194,7 +200,7 @@
         <Paragraph Num="8">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">監置の裁判を受けた者について、当該裁判の執行によつて著しく健康を害する虞があるとき、その他重大な事由があるときは、裁判所は、本人の請求又は職権により、当該裁判の執行を停止することができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">監置の裁判を受けた者について、当該裁判の執行によつて著しく健康を害するおそれがあるとき、その他重大な事由があるときは、裁判所は、本人の請求又は職権により、当該裁判の執行を停止することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -399,6 +405,16 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="40">
+        <ArticleCaption>（電磁的記録提供命令等における留意事項）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第一条の規定による改正後の刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令をいう。）により電磁的記録を提供させ、又は電磁的記録に係る記録媒体を押収するに当たっては、デジタル社会において個人情報の保護がより重要となっていることに鑑み、できる限り被告事件又は被疑事件と関連性を有しない個人情報を取得することとならないよう、特に留意しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="41">
         <ArticleCaption>（映像等の送受信による通話に係る取組の推進）</ArticleCaption>
         <ArticleTitle>第四十一条</ArticleTitle>
@@ -410,5 +426,57 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <AppdxTable>
+      <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
+      <RelatedArticleNum>（第四条関係）</RelatedArticleNum>
+      <TableStruct>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">第二百五条第三項</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">事項又は前項の規定によりファイルに記録された事項若しくは同項の記録媒体に記録された事項</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">事項</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">第二百十五条第四項</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">事項又は第二項の規定によりファイルに記録された事項若しくは同項の記録媒体に記録された事項</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">事項</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">第二百三十一条の二第二項</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">方法又は最高裁判所規則で定める電子情報処理組織を使用する方法</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">方法</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">第二百三十一条の三第二項</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">若しくは送付し、又は最高裁判所規則で定める電子情報処理組織を使用する</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+              <Sentence Num="1" WritingMode="vertical">又は送付する</Sentence>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxTable>
   </LawBody>
 </Law>
