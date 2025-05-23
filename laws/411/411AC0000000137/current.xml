@@ -169,17 +169,23 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判官は、傍受令状を発する場合において、傍受の実施（通信の傍受をすること及び通信手段について直ちに傍受をすることができる状態で通信の状況を監視することをいう。以下同じ。）に関し、適当と認める条件を付することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">傍受令状は、書面によるほか、最高裁判所規則の定めるところにより、電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）によることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判官は、前条第三項の請求があったときは、同項の請求を相当と認めるときは、当該請求に係る許可をするものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">裁判官は、傍受令状を発する場合において、傍受の実施（通信の傍受をすること及び通信手段について直ちに傍受をすることができる状態で通信の状況を監視することをいう。以下同じ。）に関し、適当と認める条件を付することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判官は、前条第三項の請求があったときは、同項の請求を相当と認めるときは、当該請求に係る許可をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">裁判官は、前項の規定により第二十条第一項の許可をするときは、傍受の実施の場所として、通信管理者等（通信手段の傍受の実施をする部分を管理する者（会社その他の法人又は団体にあっては、その役職員）又はこれに代わるべき者をいう。以下同じ。）の管理する場所を定めなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合において、前条第三項の請求をした者から申立てがあり、かつ、当該申立てに係る傍受の実施の場所の状況その他の事情を考慮し、相当と認めるときは、指定期間（第二十条第一項に規定する指定期間をいう。以下この項において同じ。）における傍受の実施の場所及び指定期間以外の期間における傍受の実施の場所をそれぞれ定めるものとする。</Sentence>
@@ -187,19 +193,69 @@
           </Paragraph>
         </Article>
         <Article Num="6">
-          <ArticleCaption>（傍受令状の記載事項）</ArticleCaption>
+          <ArticleCaption>（傍受令状の記載事項等）</ArticleCaption>
           <ArticleTitle>第六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">傍受令状には、被疑者の氏名、被疑事実の要旨、罪名、罰条、傍受すべき通信、傍受の実施の対象とすべき通信手段、傍受の実施の方法及び場所、傍受ができる期間、傍受の実施に関する条件、有効期間及びその期間経過後は傍受の処分に着手することができず傍受令状はこれを返還しなければならない旨並びに発付の年月日その他最高裁判所規則で定める事項を記載し、裁判官が、これに記名押印しなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、被疑者の氏名については、これが明らかでないときは、その旨を記載すれば足りる。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">傍受令状には、被疑者の氏名、被疑事実の要旨、罪名、罰条、傍受すべき通信、傍受の実施の対象とすべき通信手段、傍受の実施の方法及び場所、傍受ができる期間、傍受の実施に関する条件、次の各号に掲げる場合の区分に応じ当該各号に定める事項並びに発付の年月日その他最高裁判所規則で定める事項を記載し、又は記録しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、被疑者の氏名については、これが明らかでないときは、その旨を記載し、又は記録すれば足りる。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">傍受令状が書面による場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">有効期間及びその期間経過後は傍受の処分に着手することができず傍受令状を返還しなければならない旨</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">傍受令状が電磁的記録による場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">有効期間及びその期間経過後は傍受の処分に着手することができず検察官又は司法警察員の使用に係る電子計算機（入出力装置を含む。以下同じ。）から傍受令状を消去することその他の最高裁判所規則で定める措置をとり、かつ、当該措置をとった旨を記録した電磁的記録を裁判官に提出しなければならない旨</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">裁判官は、前条第三項の規定により第二十条第一項の許可又は第二十三条第一項の許可をするときは、傍受令状にその旨を記載するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">傍受令状には、次の各号に掲げる場合の区分に応じ、裁判官が当該各号に定める措置をとらなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">傍受令状が書面による場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">記名押印すること。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">傍受令状が電磁的記録による場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">最高裁判所規則で定める記名押印に代わる措置（傍受令状に記録された事項を電子計算機の映像面、書面その他のものに表示したときに、併せて裁判官の氏名が表示されることとなるものに限る。）をとること。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判官は、前条第四項の規定により第二十条第一項の許可又は第二十三条第一項の許可をするときは、傍受令状にその旨を記載し、又は記録するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -216,8 +272,36 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の延長は、傍受令状に延長する期間及び理由を記載し記名押印してこれをしなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による延長の裁判をする場合においては、書面又は電磁的記録をもって裁判書を作成しなければならない。</Sentence>
             </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の裁判書には、延長する期間及び理由を記載し、又は記録するとともに、次の各号に掲げる場合の区分に応じ、裁判官が当該各号に定める措置をとらなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前項の裁判書を書面をもって作成する場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">記名押印すること。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前項の裁判書を電磁的記録をもって作成する場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">最高裁判所規則で定める記名押印に代わる措置（同項の裁判書に記録された事項を電子計算機の映像面、書面その他のものに表示したときに、併せて裁判官の氏名が表示されることとなるものに限る。）をとること。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="8">
@@ -242,7 +326,7 @@
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">傍受令状に第二十条第一項の許可をする旨の記載があるとき</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">傍受令状に第二十条第一項の許可をする旨の記載又は記録があるとき</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">同項の規定による暗号化に用いる変換符号及びその対応変換符号を作成し、これらを通信管理者等に提供すること。</Sentence>
@@ -253,7 +337,7 @@
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">傍受令状に第二十三条第一項の許可をする旨の記載があるとき</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">傍受令状に第二十三条第一項の許可をする旨の記載又は記録があるとき</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">次のイからハまでに掲げる措置</Sentence>
@@ -281,19 +365,42 @@
           </Paragraph>
         </Article>
         <Article Num="10">
-          <ArticleCaption>（傍受令状の提示）</ArticleCaption>
+          <ArticleCaption>（傍受令状等の提示）</ArticleCaption>
           <ArticleTitle>第十条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">傍受令状は、通信管理者等に示さなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">傍受令状については、通信管理者等に対し、次の各号に掲げる場合の区分に応じ、当該各号に定める措置をとらなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、被疑事実の要旨については、この限りでない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">傍受令状が書面である場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">傍受令状を示すこと。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">傍受令状が電磁的記録である場合</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">最高裁判所規則の定めるところにより、傍受令状に記録された事項及び第六条第二項（第二号に係る部分に限る。）の規定による措置に係る裁判官の氏名を、電子計算機の映像面、書面その他のものに表示して示すこと又は通信管理者等をしてその使用に係る電子計算機の映像面、書面その他のものに表示させて示すこと。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">傍受ができる期間が延長されたときも、前項と同様とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定は、傍受ができる期間が延長された場合における第七条第二項の裁判書について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、前項第二号中「第六条第二項（第二号に係る部分に限る。）」とあるのは、「第七条第三項（第二号に係る部分に限る。）」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -347,7 +454,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、傍受の実施をしている間に行われた通信であって、傍受令状に記載された傍受すべき通信（以下単に「傍受すべき通信」という。）に該当するかどうか明らかでないものについては、傍受すべき通信に該当するかどうかを判断するため、これに必要な最小限度の範囲に限り、当該通信の傍受をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、傍受の実施をしている間に行われた通信であって、傍受令状に記載され、又は記録された傍受すべき通信（以下単に「傍受すべき通信」という。）に該当するかどうか明らかでないものについては、傍受すべき通信に該当するかどうかを判断するため、これに必要な最小限度の範囲に限り、当該通信の傍受をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -364,7 +471,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、傍受の実施をしている間に、傍受令状に被疑事実として記載されている犯罪以外の犯罪であって、別表第一若しくは別表第二に掲げるもの又は死刑若しくは無期若しくは短期一年以上の拘禁刑に当たるものを実行したこと、実行していること又は実行することを内容とするものと明らかに認められる通信が行われたときは、当該通信の傍受をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、傍受の実施をしている間に、傍受令状に被疑事実として記載され、又は記録されている犯罪以外の犯罪であって、別表第一若しくは別表第二に掲げるもの又は死刑若しくは無期若しくは短期一年以上の拘禁刑に当たるものを実行したこと、実行していること又は実行することを内容とするものと明らかに認められる通信が行われたときは、当該通信の傍受をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -374,7 +481,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">医師、歯科医師、助産師、看護師、弁護士（外国法事務弁護士を含む。）、弁理士、公証人又は宗教の職にある者（傍受令状に被疑者として記載されている者を除く。）との間の通信については、他人の依頼を受けて行うその業務に関するものと認められるときは、傍受をしてはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医師、歯科医師、助産師、看護師、弁護士（外国法事務弁護士を含む。）、弁理士、公証人又は宗教の職にある者（傍受令状に被疑者として記載され、又は記録されている者を除く。）との間の通信については、他人の依頼を受けて行うその業務に関するものと認められるときは、傍受をしてはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -409,7 +516,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">傍受令状の記載するところに従い傍受の実施を中断し又は終了すべき時に現に通信が行われているときは、その通信手段の使用（以下「通話」という。）が終了するまで傍受の実施を継続することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">傍受令状の記載し、又は記録するところに従い傍受の実施を中断し又は終了すべき時に現に通信が行われているときは、その通信手段の使用（以下「通話」という。）が終了するまで傍受の実施を継続することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -419,7 +526,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">傍受の実施は、傍受の理由又は必要がなくなったときは、傍受令状に記載された傍受ができる期間内であっても、これを終了しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">傍受の実施は、傍受の理由又は必要がなくなったときは、傍受令状又は第七条第二項の裁判書に記載され、又は記録された傍受ができる期間内であっても、これを終了しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -429,7 +536,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、裁判官の許可を受けて、通信管理者等に命じて、傍受令状の記載するところに従い傍受の実施をすることができる期間（前条の規定により傍受の実施を終了した後の期間を除く。）内において検察官又は司法警察員が指定する期間（当該期間の終期において第十八条の規定により傍受の実施を継続することができるときは、その継続することができる期間を含む。以下「指定期間」という。）に行われる全ての通信について、第九条第一号の規定により提供された変換符号を用いた原信号（通信の内容を伝達するものに限る。）の暗号化をさせ、及び当該暗号化により作成される暗号化信号について一時的保存をさせる方法により、傍受をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、裁判官の許可を受けて、通信管理者等に命じて、傍受令状又は第七条第二項の裁判書の記載し、又は記録するところに従い傍受の実施をすることができる期間（前条の規定により傍受の実施を終了した後の期間を除く。）内において検察官又は司法警察員が指定する期間（当該期間の終期において第十八条の規定により傍受の実施を継続することができるときは、その継続することができる期間を含む。以下「指定期間」という。）に行われる全ての通信について、第九条第一号の規定により提供された変換符号を用いた原信号（通信の内容を伝達するものに限る。）の暗号化をさせ、及び当該暗号化により作成される暗号化信号について一時的保存をさせる方法により、傍受をすることができる。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合における傍受の実施については、第十三条の規定は、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -522,14 +629,14 @@
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の規定による再生の実施は、傍受令状に記載された傍受ができる期間内に終了しなかったときは、傍受令状に記載された傍受ができる期間の終了後できる限り速やかに、これを終了しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による再生の実施は、傍受令状又は第七条第二項の裁判書に記載され、又は記録された傍受ができる期間内に終了しなかったときは、傍受令状又は同項の裁判書に記載され、又は記録された傍受ができる期間の終了後できる限り速やかに、これを終了しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の規定による再生の実施は、傍受の理由又は必要がなくなったときは、傍受令状に記載された傍受ができる期間内であっても、その開始前にあってはこれを開始してはならず、その開始後にあってはこれを終了しなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、傍受の理由又は必要がなくなるに至るまでの間に一時的保存をされた暗号化信号については、傍受すべき通信に該当する通信が行われると疑うに足りる状況がなくなったこと又は傍受令状に記載された傍受の実施の対象とすべき通信手段が被疑者が通信事業者等との間の契約に基づいて使用しているものではなくなったこと若しくは犯人による傍受すべき通信に該当する通信に用いられると疑うに足りるものではなくなったことを理由として傍受の理由又は必要がなくなった場合に限り、再生の実施をすることができる。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の規定による再生の実施は、傍受の理由又は必要がなくなったときは、傍受令状又は第七条第二項の裁判書に記載され、又は記録された傍受ができる期間内であっても、その開始前にあってはこれを開始してはならず、その開始後にあってはこれを終了しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、傍受の理由又は必要がなくなるに至るまでの間に一時的保存をされた暗号化信号については、傍受すべき通信に該当する通信が行われると疑うに足りる状況がなくなったこと又は傍受令状に記載され、若しくは記録された傍受の実施の対象とすべき通信手段が被疑者が通信事業者等との間の契約に基づいて使用しているものではなくなったこと若しくは犯人による傍受すべき通信に該当する通信に用いられると疑うに足りるものではなくなったことを理由として傍受の理由又は必要がなくなった場合に限り、再生の実施をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -628,7 +735,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">検察官及び司法警察員は、傍受令状に第一項の許可をする旨の記載がある場合には、同項に規定する方法によるほか、傍受の実施をすることができない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">検察官及び司法警察員は、傍受令状に第一項の許可をする旨の記載又は記録がある場合には、同項に規定する方法によるほか、傍受の実施をすることができない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -735,7 +842,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、傍受の実施の終了後、遅滞なく、次に掲げる事項を記載した書面を、第二十五条第四項に規定する裁判官に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、傍受の実施の終了後、遅滞なく、次に掲げる事項を記載し、又は記録した書面又は電磁的記録を、第二十五条第四項に規定する裁判官に提出しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">第七条の規定により傍受ができる期間の延長を請求する時も、同様とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -796,7 +903,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、第二十三条第一項第一号の規定による傍受の実施をしたときは、前項の規定にかかわらず、傍受の実施の終了後、遅滞なく、次に掲げる事項を記載した書面を、第二十五条第四項に規定する裁判官に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、第二十三条第一項第一号の規定による傍受の実施をしたときは、前項の規定にかかわらず、傍受の実施の終了後、遅滞なく、次に掲げる事項を記載し、又は記録した書面又は電磁的記録を、第二十五条第四項に規定する裁判官に提出しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">同号の規定による傍受の実施をした後に第七条の規定により傍受ができる期間の延長を請求する時も、同様とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -839,7 +946,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二項に規定する書面の提出を受けた裁判官は、第一項第六号又は前項第四号の通信については、これが第十五条に規定する通信に該当するかどうかを審査し、これに該当しないと認めるときは、当該通信の傍受の処分を取り消すものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に規定する書面又は電磁的記録の提出を受けた裁判官は、第一項第六号又は前項第四号の通信については、これが第十五条に規定する通信に該当するかどうかを審査し、これに該当しないと認めるときは、当該通信の傍受の処分を取り消すものとする。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合においては、第三十三条第三項、第五項及び第六項の規定を準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -849,7 +956,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、傍受の実施をした期間のうちに第二十条第一項の規定による傍受の実施をした期間があるときは、前条第一項の規定にかかわらず、傍受の実施の終了後（傍受の実施を終了する時に第二十条第一項の規定により一時的保存をされた暗号化信号であって第二十一条第一項の規定による復号をされていないものがあるときは、再生の実施の終了後）、遅滞なく、当該期間以外の期間に関しては前条第一項各号に掲げる事項を、第二十条第一項の規定による傍受の実施をした期間に関しては次に掲げる事項を、それぞれ記載した書面を、第二十五条第四項に規定する裁判官に提出しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、傍受の実施をした期間のうちに第二十条第一項の規定による傍受の実施をした期間があるときは、前条第一項の規定にかかわらず、傍受の実施の終了後（傍受の実施を終了する時に第二十条第一項の規定により一時的保存をされた暗号化信号であって第二十一条第一項の規定による復号をされていないものがあるときは、再生の実施の終了後）、遅滞なく、当該期間以外の期間に関しては前条第一項各号に掲げる事項を、第二十条第一項の規定による傍受の実施をした期間に関しては次に掲げる事項を、それぞれ記載し、又は記録した書面又は電磁的記録を、第二十五条第四項に規定する裁判官に提出しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">第二十条第一項の規定による傍受の実施をした後に第七条の規定により傍受ができる期間の延長を請求する時も、同様とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -928,8 +1035,8 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、傍受の実施をした期間のうちに第二十三条第一項第二号の規定による傍受の実施をした期間があるときは、前条第二項の規定にかかわらず、傍受の実施の終了後（傍受の実施を終了する時に同号の規定により一時的保存をした暗号化信号であって第二十三条第四項の規定による復号をしていないものがあるときは、再生の実施の終了後）、遅滞なく、当該期間以外の期間に関しては前条第二項各号に掲げる事項を、第二十三条第一項第二号の規定による傍受の実施をした期間に関しては次に掲げる事項を、それぞれ記載した書面を、第二十五条第四項に規定する裁判官に提出しなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">同号の規定による傍受の実施をした後に第七条の規定により傍受ができる期間の延長をする時も、同様とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、傍受の実施をした期間のうちに第二十三条第一項第二号の規定による傍受の実施をした期間があるときは、前条第二項の規定にかかわらず、傍受の実施の終了後（傍受の実施を終了する時に同号の規定により一時的保存をした暗号化信号であって第二十三条第四項の規定による復号をしていないものがあるときは、再生の実施の終了後）、遅滞なく、当該期間以外の期間に関しては前条第二項各号に掲げる事項を、第二十三条第一項第二号の規定による傍受の実施をした期間に関しては次に掲げる事項を、それぞれ記載し、又は記録した書面又は電磁的記録を、第二十五条第四項に規定する裁判官に提出しなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">同号の規定による傍受の実施をした後に第七条の規定により傍受ができる期間の延長を請求する時も、同様とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -983,7 +1090,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二項に規定する書面の提出を受けた裁判官は、前条第一項第六号若しくは第二項第四号又は第一項第九号若しくは前項第六号の通信については、これが第十五条に規定する通信に該当するかどうかを審査し、これに該当しないと認めるときは、当該通信の傍受又は再生の処分を取り消すものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前二項に規定する書面又は電磁的記録の提出を受けた裁判官は、前条第一項第六号若しくは第二項第四号又は第一項第九号若しくは前項第六号の通信については、これが第十五条に規定する通信に該当するかどうかを審査し、これに該当しないと認めるときは、当該通信の傍受又は再生の処分を取り消すものとする。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合においては、第三十三条第三項、第五項及び第六項の規定を準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -1093,7 +1200,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">検察官又は司法警察員は、傍受記録に記録されている通信の当事者に対し、傍受記録を作成した旨及び次に掲げる事項を書面で通知しなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">検察官又は司法警察員は、傍受記録に記録されている通信の当事者に対し、傍受記録を作成した旨及び次に掲げる事項を書面又は電磁的記録により通知しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電磁的記録による通知は、これを受ける者に異議があるときは、することができない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1122,7 +1230,7 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">傍受令状に記載された罪名及び罰条</Sentence>
+                <Sentence Num="1" WritingMode="vertical">傍受令状に記載され、又は記録された罪名及び罰条</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
@@ -1378,7 +1486,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、傍受令状の発付、傍受ができる期間の延長、記録媒体の封印及び提出、傍受の原記録の保管その他の取扱い、傍受の実施の状況を記載した書面の提出、第十五条に規定する通信に該当するかどうかの審査、通信の当事者に対する通知を発しなければならない期間の延長、裁判所が保管する傍受記録の聴取及び閲覧並びにその複製の作成並びに不服申立てに関する手続について必要な事項は、最高裁判所規則で定める。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、傍受令状の発付、傍受ができる期間の延長、記録媒体の封印及び提出、傍受の原記録の保管その他の取扱い、傍受の実施の状況を記載し、又は記録した書面又は電磁的記録の提出、第十五条に規定する通信に該当するかどうかの審査、通信の当事者に対する通知を発しなければならない期間の延長、裁判所が保管する傍受記録の聴取及び閲覧並びにその複製の作成並びに不服申立てに関する手続について必要な事項は、最高裁判所規則で定める。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
