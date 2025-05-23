@@ -876,13 +876,13 @@
                   <Subitem1 Num="3">
                     <Subitem1Title>ハ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">弁護士法（昭和二十四年法律第二百五号）その他の法律により依頼を受けて裁判所に提出する書類を作成することを業とすることができる者に対し民事裁判等手続（特定援助対象者を援助する場合にあっては、イ（１）に定める手続）に必要な書類の作成を依頼して支払うべき報酬及びその作成に必要な実費の立替えをすること。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">弁護士法（昭和二十四年法律第二百五号）その他の法律により依頼を受けて裁判所に提出する書類又は電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下この号において同じ。）を作成することを業とすることができる者に対し民事裁判等手続（特定援助対象者を援助する場合にあっては、イ（１）に定める手続）に必要な書類又は電磁的記録の作成を依頼して支払うべき報酬及びその作成に必要な実費の立替えをすること。</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="4">
                     <Subitem1Title>ニ</Subitem1Title>
                     <Subitem1Sentence>
-                      <Sentence Num="1" WritingMode="vertical">ハに規定する立替えに代え、ハに規定する報酬及び実費に相当する額を支援センターに支払うことを約した者のため、適当な契約弁護士等にハに規定する書類を作成する事務を取り扱わせること。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">ハに規定する立替えに代え、ハに規定する報酬及び実費に相当する額を支援センターに支払うことを約した者のため、適当な契約弁護士等にハに規定する書類又は電磁的記録を作成する事務を取り扱わせること。</Sentence>
                     </Subitem1Sentence>
                   </Subitem1>
                   <Subitem1 Num="5">
@@ -1344,7 +1344,7 @@
                       <Sentence Num="1" WritingMode="vertical">前号に規定する国選弁護人等契約弁護士以外の国選弁護人等契約弁護士</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">刑事訴訟法第三十八条第二項の規定の例により裁判所がその額を定めた旅費、日当、宿泊料及び報酬</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">刑事訴訟法第三十八条第二項の規定の例により裁判所書記官がその額を定めた旅費、日当及び宿泊料並びに裁判所がその額を定めた報酬</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -1401,7 +1401,7 @@
                       <Sentence Num="1" WritingMode="vertical">前号に規定する国選弁護人等契約弁護士以外の国選弁護人等契約弁護士</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">少年法第二十二条の三第四項の規定の例により裁判所がその額を定めた旅費、日当、宿泊料及び報酬</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">少年法第二十二条の三第四項の規定の例により裁判所書記官がその額を定めた旅費、日当及び宿泊料並びに裁判所がその額を定めた報酬</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -1445,7 +1445,7 @@
                       <Sentence Num="1" WritingMode="vertical">前号に規定する被害者参加弁護士契約弁護士以外の被害者参加弁護士契約弁護士</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">犯罪被害者等保護法第十四条第四項の規定の例により裁判所がその額を定めた旅費、日当、宿泊料及び報酬</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">犯罪被害者等保護法第十四条第四項の規定の例により裁判所書記官がその額を定めた旅費、日当及び宿泊料並びに裁判所がその額を定めた報酬</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -3012,6 +3012,16 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="124">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="125">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第百二十五条</ArticleTitle>
@@ -3091,6 +3101,16 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（総合法律支援法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第十四条の規定は、施行前刑事事件又は施行前保護事件に係る総合法律支援法第三十九条第二項第二号、第三十九条の二第二項第二号又は第三十九条の三第二項第二号に定める旅費、日当及び宿泊料の額について準用する。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="39">
