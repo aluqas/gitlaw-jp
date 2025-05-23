@@ -431,6 +431,749 @@
           </Paragraph>
         </Article>
       </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　当事者協定</ChapterTitle>
+        <Article Num="11">
+          <ArticleCaption>（特別社会基盤事業者との協定の締結）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、特別社会基盤事業者との間で、内閣総理大臣が、当該特別社会基盤事業者を通信の当事者とする通信情報の提供を受けた上で、当該通信情報のうち外内通信情報（外内通信（当該通信に係るアイ・ピー・アドレスその他の電気通信設備を識別する符号（第十七条第一項、第二十二条第二項第一号及び第三十三条第一項において「アイ・ピー・アドレス等」という。）から判断して、国外設備から国内設備（国外設備以外の電気通信設備をいう。第十七条第一項及び第三十三条第一項において同じ。）に送信される電気通信に該当すると認められる電気通信をいう。第二十二条第一項第一号、第三十二条第一項及び第三十五条第一項第一号において同じ。）により送受信が行われる情報に係る通信情報をいう。次条第一項において同じ。）に該当するものを用いて、当該特別社会基盤事業者が使用する特定重要電子計算機その他の電子計算機のサイバーセキュリティの確保を図るために必要な分析を行い、その分析の結果及びこれに関連する情報（第二号及び第十六条において「個別分析情報」という。）を当該特別社会基盤事業者に提供することを内容とする協定であって、次に掲げる事項を含むものを締結することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣が提供を受ける通信情報の範囲並びに提供の方法及び期間に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣からの個別分析情報の提供の要領に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">通信情報の提供のために施設又は設備の整備が必要な場合にあっては、当該施設又は設備の整備に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">協定を変更し、又は廃止する場合の手続に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十八条第三項に規定する同意をする場合にあっては、その旨</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他内閣府令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣及び特別社会基盤事業者は、相互に、相手方に対し、前項の協定を締結することについて協議を求めることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該求めを受けた内閣総理大臣又は特別社会基盤事業者は、正当な理由がない限り、当該求めに係る協議に応じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の協定において、同項第一号に規定する提供の方法として、当該協定を締結する特別社会基盤事業者に事業電気通信役務を提供する電気通信事業者が管理する当該特別社会基盤事業者を通信の当事者とする媒介中通信情報であって、当該特別社会基盤事業者が内閣総理大臣に提供することに同意した範囲のものが複製され、内閣総理大臣の設置する設備に送信されるようにする方法（電気通信事業法第四条第一項に規定する通信の秘密の確保に支障がない方法に限る。）を定めようとする場合には、当該協定は、内閣総理大臣、当該特別社会基盤事業者及び当該電気通信事業者により締結しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（特別社会基盤事業者以外の事業電気通信役務の利用者との協定の締結）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、事業電気通信役務の利用者（事業電気通信役務を利用する者をいい、特別社会基盤事業者を除く。以下この項及び次条において「利用者」という。）との間で、内閣総理大臣が、当該利用者を通信の当事者とする通信情報の提供を受けた上で、当該通信情報のうち外内通信情報に該当するものを用いて、当該利用者が使用する電子計算機のサイバーセキュリティの確保を図るために必要な分析を行い、その分析の結果及びこれに関連する情報（第二号及び第十六条において「利用者個別分析情報」という。）を当該利用者に提供することを内容とする協定であって、次に掲げる事項を含むものを締結することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣が提供を受ける通信情報の範囲並びに提供の方法及び期間に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣からの利用者個別分析情報の提供の要領に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">通信情報の提供のために施設又は設備の整備が必要な場合にあっては、当該施設又は設備の整備に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">協定を変更し、又は廃止する場合の手続に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十八条第三項に規定する同意をする場合にあっては、その旨</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他内閣府令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第三項の規定は、前項の協定について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（電気通信事業者に対する協議の求め）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、当事者協定（第十一条第一項又は前条第一項の協定をいう。以下同じ。）に基づき通信情報の提供を受ける方法として、協定当事者（第十一条第一項の協定を締結する特別社会基盤事業者又は前条第一項の協定を締結する利用者をいう。以下同じ。）に係る当事者管理通信情報を複製したものの提供を受ける方法をとることが困難な場合であって、当該協定当事者が第十一条第三項（前条第二項において準用する場合を含む。）に規定する方法をとることについて同意したときは、当該協定当事者に事業電気通信役務を提供する電気通信事業者に対して、当事者協定を締結することについて協議を求めることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該求めを受けた電気通信事業者は、正当な理由がない限り、当該求めに係る協議に応じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（当事者協定を締結したときのサイバー通信情報監理委員会への通知）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、当事者協定を締結し、変更し、又は廃止したときは、遅滞なく、当該当事者協定又は変更の内容（当事者協定を廃止した場合にあっては、その旨）をサイバー通信情報監理委員会に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（通信情報の取得）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、その締結した当事者協定の定めるところに従い、当該当事者協定の協定当事者を通信の当事者とする通信情報の提供を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（通信情報の提供を受けた内閣総理大臣の措置）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定により通信情報の提供を受けた内閣総理大臣は、当該取得通信情報に係る第二十三条第四項第一号に規定する選別後当事者通信情報を用いて、当該当事者協定の協定当事者が使用する電子計算機のサイバーセキュリティの確保に資する情報を得るための分析を行った上で、当該協定当事者に係る個別分析情報又は利用者個別分析情報を当該協定当事者に提供するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の分析においては、当該個別分析情報又は利用者個別分析情報の提供に必要な範囲内において、当該協定当事者が使用する電子計算機に対する特定不正行為に関する分析を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　外外通信目的送信措置</ChapterTitle>
+        <Article Num="17">
+          <ArticleCaption>（外外通信目的送信措置）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、外外通信（当該通信に係るアイ・ピー・アドレス等から判断して国外設備を送信元及び送信先とする電気通信に該当すると認められる電気通信であって、国内設備を用いて媒介されるものをいう。第二十二条第一項第二号において同じ。）であって、重要電子計算機に対する国外通信特定不正行為のうちその実行のために用いられる電子計算機、当該電子計算機に動作をさせるために用いられる指令情報その他の当該国外通信特定不正行為に関する実態が明らかでないために当該国外通信特定不正行為による重要電子計算機の被害を防止することが著しく困難であり、かつ、この項の規定による措置以外の方法によっては当該実態の把握が著しく困難であるものに関係するものが、特定の国外関係電気通信設備（電気通信事業者の電気通信事業の用に供する電気通信設備であって、他の電気通信設備との接続の状況その他の事項により、当該電気通信設備を用いて提供される事業電気通信役務が国外関係通信（当該通信に係るアイ・ピー・アドレス等から判断して国外設備を送信元又は送信先とする電気通信に該当すると認められる電気通信をいう。以下この項、第三十二条第一項及び第三十三条第一項において同じ。）を媒介していると認められるものをいう。以下同じ。）を用いて提供される事業電気通信役務が媒介する国外関係通信に含まれると疑うに足りる場合において、必要と認めるときは、当該国外通信特定不正行為に関する第二十二条第二項に規定する選別の条件を定めるための基準（同項において「外外通信選別条件設定基準」という。）を定め、サイバー通信情報監理委員会の承認を受けて、当該国外関係通信により送受信が行われる媒介中通信情報（第三十二条第一項及び第三十三条第一項において「国外関係通信媒介中通信情報」という。）の一部（当該国外関係電気通信設備の伝送容量の百分の三十を上限とする。）が複製され、内閣総理大臣の設置する設備（第三十二条第一項及び第三十三条第一項において「受信用設備」という。）に送信されるようにするための措置（以下「外外通信目的送信措置」という。）を講ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">二以上の国外通信特定不正行為が次に掲げる場合に該当する場合における前項の規定の適用については、これらを一の国外通信特定不正行為とみなす。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その実行のために用いられる電子計算機（電気通信回線に接続されているものに限る。次号において同じ。）の全部又は一部が共通すると疑うに足りる状況がある場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号に掲げる場合のほか、電子計算機の動作をさせるために用いられる指令情報その他の国外通信特定不正行為の特徴が共通すると疑うに足りる状況がある場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">外外通信目的送信措置を講ずることができる期間（第十九条第一項において「措置期間」という。）は、六月とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次条の規定による条件としてサイバー通信情報監理委員会が六月未満の期間を定めたときは、当該期間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（サイバー通信情報監理委員会の承認）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">サイバー通信情報監理委員会は、前条第一項の承認の求めがあった場合において、当該求めに理由があると認めるときは、遅滞なく、当該承認をするものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、サイバー通信情報監理委員会は、当該求めに係る外外通信目的送信措置の実施又は当該外外通信目的送信措置により内閣総理大臣が取得する取得通信情報の取扱いに関し、適当と認める条件を付することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（措置期間の延長）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、措置期間が経過した後において更に当該外外通信目的送信措置を継続する必要があると認めるとき（引き続き第十七条第一項に規定する場合に該当する場合に限る。）は、あらかじめサイバー通信情報監理委員会の承認を受けて、その措置期間を延長することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">当該延長に係る措置期間が経過した後において、これを更に延長しようとするときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定は、前項の承認の求めについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の延長の期間は、六月とする。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前項において準用する前条の規定による条件としてサイバー通信情報監理委員会が六月未満の期間を定めたときは、当該期間とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（電気通信事業者に対する協力の求め）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、外外通信目的送信措置の実施に関し、国外関係電気通信設備を設置する電気通信事業者（以下この条、第三十二条第一項及び第三十三条第一項において「国外関係電気通信事業者」という。）に対し、当該国外関係電気通信設備に関する情報の提供、当該実施のための機器の接続その他の必要な協力を求めることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、当該国外関係電気通信事業者は、正当な理由がない限り、これを拒んではならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　当事者協定又は外外通信目的送信措置により取得した取得通信情報の取扱い</ChapterTitle>
+        <Article Num="21">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この章において取得通信情報に係る「対象不正行為」とは、第十五条の規定により取得した取得通信情報である場合にあっては重要電子計算機に対する国外通信特定不正行為又は協定当事者が使用する電子計算機に対する特定不正行為をいい、外外通信目的送信措置により取得した取得通信情報である場合にあっては当該外外通信目的送信措置に係る第十八条の規定による承認に係る国外通信特定不正行為をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（自動選別の実施）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第十五条の規定又は外外通信目的送信措置により取得通信情報を取得したときは、当該取得通信情報の中から次に掲げる要件を満たす機械的情報であるもののみを選別して記録する措置であって、その選別が完了する前に当該取得通信情報が何人にも閲覧その他の知得をされない自動的な方法（第三十五条第一項において「自動的方法」という。）で行われるもの（以下「自動選別」という。）を講じなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条の規定により取得した取得通信情報については、外内通信により送受信が行われたものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">外外通信目的送信措置により取得した取得通信情報については、外外通信により送受信が行われたものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該取得通信情報に係る対象不正行為に関係があると認めるに足りる状況のあるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項第三号に掲げる要件を満たす取得通信情報を選別するための自動選別は、次の各号のいずれかに該当する情報のうち二以上のものを選別の条件に用いて行うものでなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、外外通信目的送信措置により取得した取得通信情報についての選別の条件は、外外通信選別条件設定基準に従って定められたものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該取得通信情報に係る対象不正行為に関係がある電気通信の送信元又は送信先であると認めるに足りる状況のある電気通信設備のアイ・ピー・アドレス等</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該取得通信情報に係る対象不正行為の実施に用いられるものと認めるに足りる状況のある指令情報</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げる情報のほか、当該情報を選別の条件に用いて自動選別を行うことにより当該取得通信情報に係る対象不正行為に関係がある電気通信、電子計算機又は電磁的記録の探査が容易になると認めるに足りる状況のある情報</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、自動選別が終了したときは、直ちに、当該自動選別により得られた取得通信情報を除き、自動選別の対象となった取得通信情報の全てを消去しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleCaption>（利用及び提供の制限）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、取得通信情報の自動選別を行う場合を除き、自動選別を行う前の取得通信情報を自ら利用し、又は提供してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第四項の規定による場合を除き、重要電子計算機に対する国外通信特定不正行為（対象不正行為であって当該国外通信特定不正行為に該当しないものを含む。）による被害を防止する目的（以下「特定被害防止目的」という。）以外の目的のために、自動選別により得られた取得通信情報（当該取得通信情報を複製し、又は加工して作成された情報（第二十九条に規定する提供用選別後情報となったものを除く。）を含む。以下「選別後通信情報」という。）を自ら利用してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、次項の規定による場合を除き、選別後通信情報を提供してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、次に掲げる場合には、選別後通信情報を、特定被害防止目的以外の目的のために自ら利用し、又は提供することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十五条の規定により取得した取得通信情報についての自動選別により得られた選別後通信情報（第三十八条第三項において「選別後当事者通信情報」という。）を、当該当事者協定の協定当事者の同意を得て、自ら利用し又は提供する場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条第三項若しくは第二十八条（これらの規定を第三十六条の規定により適用する場合を含む。）の規定により選別後通信情報を提供し、又は第三十八条第一項若しくは第二項の規定により選別後通信情報を含む総合整理分析情報を提供する場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十七条第一項、第十九条第一項（第三十二条第二項及び第三十三条第二項において準用する場合を含む。）、第三十二条第一項又は第三十三条第一項の承認を求めるために、サイバー通信情報監理委員会に提供する場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条第一項又は第二項の規定による検査に際し、サイバー通信情報監理委員会に提供する場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十四条第二項の規定により提供する場合</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleCaption>（非識別化措置等）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、特定記述等（電子メールアドレス（特定電子メールの送信の適正化等に関する法律（平成十四年法律第二十六号）第二条第三号に規定する電子メールアドレスをいい、ドメイン名（電気通信事業法第百六十四条第二項第二号に規定するドメイン名をいう。）以外の部分に限る。）その他の特定の個人を識別することができることとなるおそれが大きいと認められる情報（公開されていない他の情報との照合（容易に行うことができるものに限る。）により特定の個人を識別することができることとなるおそれが大きいと認められるものを含む。）をいう。以下この項及び次項において同じ。）が含まれている選別後通信情報を取り扱うときは、当該選別後通信情報について、当該特定記述等の全部又は一部を他の符号（特定記述等となるものを除く。）に変換することその他の方法によって他の情報と照合しない限り特定の個人を識別することができないようにするための措置（以下この条、第三十条第二号及び第六十三条第一項において「非識別化措置」という。）を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、選別後通信情報について前項の規定により非識別化措置を講じた場合において、当該選別後通信情報と選別後通信情報以外の情報であって特定記述等を含むものとの照合による分析を行うことが特定被害防止目的の達成のために特に必要があると認めるときは、当該選別後通信情報について、その必要な限度において、当該非識別化措置を講じた特定記述等の復元その他の当該特定記述等を利用することができるようにするための措置（以下この条、第三十条第二号及び第六十三条第一項において「再識別化措置」という。）を講ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による再識別化措置を講じた選別後通信情報について、再識別化措置の必要がなくなったときは、直ちに、再び非識別化措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第二項の規定により再識別化措置を講ずる場合を除き、特定の個人を識別するために、第一項又は前項の規定により非識別化措置が講じられている選別後通信情報を他の情報と照合してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（選別後通信情報の保存期間等）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、選別後通信情報が記録された文書（図画及び電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られた記録をいう。）を含む。以下この項において同じ。）を作成し、又は取得したときは、当該選別後通信情報を得るための自動選別が終了した日の属する年度の翌年度の初日から起算して二年を超えない範囲内（次項の規定により保存期間を延長した選別後通信情報が記録された文書を作成し、又は取得した場合においては、当該延長後の保存期間の満了の日までの期間を超えない範囲内）で、当該選別後通信情報の保存期間を設定しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、特定被害防止目的の達成のために必要があると認める場合又は第二十三条第四項各号（第三十六条の規定により適用する場合を含む。）に掲げる場合（これらの場合に該当することとなることが合理的に予測される状況にある場合を含む。）は、二年を超えない範囲内において保存期間（この項の規定により延長した保存期間を含む。以下この条において同じ。）を延長することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、保存期間の満了の日前であっても、選別後通信情報を保存する必要がなくなったと認めるときは、速やかに、当該保存を終了することを決定するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、保存期間は、その決定がされた日に満了したものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、選別後通信情報の保存期間が満了したときは、できる限り速やかに、当該選別後通信情報を消去しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（安全管理措置等）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、選別後通信情報の取扱いの業務を行わせる職員の範囲を定めることその他の取得通信情報の安全管理のために必要かつ適切なものとして内閣府令で定める措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">取得通信情報の取扱いに関する事務に従事する内閣府の職員（サイバー通信情報監理委員会の委員長、委員、専門委員及び事務局の職員を除く。）又はその職にあった者は、正当な理由がなく、当該事務に関して知り得た取得通信情報に関する秘密を漏らし、又は盗用してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（関係行政機関の分析への協力）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、自動選別又は選別後通信情報の分析（以下この項において「自動選別等」という。）を行うために必要があると認めるときは、防衛大臣その他の関係行政機関の長（当該行政機関が合議制の機関である場合にあっては、当該行政機関。以下この条において同じ。）に対し、自動選別等に関する専門的知識を有する職員による技術的援助、自動選別等の実施に用いる電子計算機の貸与その他の必要な協力を要請することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による要請を受けた関係行政機関の長は、その所掌事務に支障を生じない限度において、同項の協力を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の協力を行う関係行政機関の長が当該協力を行う場合において必要があると認めるときは、当該関係行政機関に対し、選別後通信情報を提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（外国の政府等に対する選別後通信情報の提供）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、特定被害防止目的の達成のために必要があると認めるときは、外国の政府又は国際機関であって、この法律の規定により内閣総理大臣が選別後通信情報を保護するために講ずることとされる措置に相当する措置を講じているものに対し、選別後通信情報を提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（提供用選別後情報の作成）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、選別後通信情報を加工して、協議会の構成員その他の者にこれを提供したとしてもその通信の当事者の通信に係る権利利益の保護に支障を生ずるおそれがないものとして内閣府令で定める基準を満たすもの（第三十六条及び第三十七条において「提供用選別後情報」という。）を作成することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（サイバー通信情報監理委員会への通知）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、次に掲げる場合には、速やかに、その旨をサイバー通信情報監理委員会に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">自動選別を行ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">非識別化措置又は再識別化措置を講じたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条第一項又は第二項（これらの規定を第三十六条の規定により適用する場合を含む。）の規定により保存期間を設定し、又は延長したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条第四項（第三十六条の規定により適用する場合を含む。）の規定により選別後通信情報を消去したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条第三項若しくは第二十八条（これらの規定を第三十六条の規定により適用する場合を含む。）の規定により選別後通信情報を提供し、又は第三十八条第一項若しくは第二項の規定により選別後通信情報を含む総合整理分析情報を提供したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（通信情報保有機関における選別後通信情報の取扱い）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">通信情報保有機関が次の各号に掲げる行政機関である場合において、当該通信情報保有機関の長（通信情報保有機関が合議制の機関である場合にあっては、当該通信情報保有機関。以下同じ。）が特定被害防止目的の達成のために必要があると認めるときは、当該通信情報保有機関の長は、当該各号に定める行政機関に対し、選別後通信情報を提供することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国家公安委員会</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">警察庁</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">警察庁</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国家公安委員会又は都道府県警察</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">都道府県公安委員会</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">都道府県警察</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">都道府県警察</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">警察庁又は都道府県公安委員会</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">通信情報保有機関が次の各号に掲げる行政機関である場合において、当該通信情報保有機関の長が特定被害防止目的の達成のために必要があると認めるときは、当該通信情報保有機関の長は、警察官職務執行法（昭和二十三年法律第百三十六号）第六条の二第二項（自衛隊法（昭和二十九年法律第百六十五号）第八十九条第一項、第九十一条の三、第九十二条第二項又は第九十五条の四第一項において準用する場合を含む。）の規定による処置に関する事務の実施に必要な範囲内で、当該各号に定める行政機関に対し、選別後通信情報を提供することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">警察庁</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">サイバー通信情報監理委員会又は防衛省</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">防衛省</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">サイバー通信情報監理委員会又は警察庁</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">都道府県警察</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">サイバー通信情報監理委員会</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十三条第二項から第四項まで、第二十四条第二項から第四項まで、第二十五条、第二十六条及び第二十八条から前条までの規定は、通信情報保有機関の長（第二条第九項第二号若しくは第三号に該当する行政機関の長又は当該行政機関であるものに限る。）による選別後通信情報の取扱いについて準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第二十三条第三項中「次項」とあるのは「次項又は第三十一条第一項若しくは第二項（これらの規定を第三十六条の規定により適用する場合を含む。）」と、同条第四項中「次に」とあるのは「第一号、第二号、第四号又は第五号に」と、同項第二号中「第二十七条第三項若しくは第二十八条（これらの規定を」とあるのは「特定被害防止目的の達成のために内閣総理大臣に選別後通信情報を提供し、第二十八条（」と、「第三十八条第一項若しくは第二項」とあるのは「第三十八条第四項」と、第二十四条第二項中「できる。」とあるのは「できる。この場合において、第三十一条第三項に規定する通信情報保有機関の長は、内閣総理大臣に対し、当該再識別化措置に必要な情報の提供を求めることができる。」と、同条第三項中「再び非識別化措置を講じなければならない」とあるのは「非識別化措置を講ずるとともに、前項後段の規定により内閣総理大臣から提供された情報を消去しなければならない」と、第二十五条第二項中「又は第二十三条第四項各号」とあるのは「、第二十三条第四項第一号、第二号、第四号若しくは第五号」と、「掲げる場合」とあるのは「掲げる場合又は第三十一条第一項若しくは第二項（これらの規定を第三十六条の規定により適用する場合を含む。）の規定により提供する場合」と、第二十八条中「外国」とあるのは「あらかじめ内閣総理大臣の同意を得て、外国」と、前条中「次に」とあるのは「第二号から第五号までに」と、同条第五号中「第二十七条第三項若しくは第二十八条」とあるのは「第二十八条若しくは次条第一項若しくは第二項」と、「第三十八条第一項若しくは第二項」とあるのは「第三十八条第四項」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　特定外内通信目的送信措置及び特定内外通信目的送信措置</ChapterTitle>
+        <Article Num="32">
+          <ArticleCaption>（特定外内通信目的送信措置）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、外内通信であって、重要電子計算機に対する国外通信特定不正行為に用いられていると疑うに足りる状況のある特定の国外設備を送信元とし、又は当該国外通信特定不正行為に用いられていると疑うに足りる状況のある特定の機械的情報（外国の政府又は国際機関、関係行政機関その他の関係機関から自動選別以外の方法で取得した情報であって機械的情報に相当するものを含む。次条第一項及び第三十五条第二項第二号において同じ。）が含まれているもの（以下この項及び同条第二項において「特定外内通信」という。）の分析をしなければ当該国外通信特定不正行為による重要電子計算機の被害を防止することが著しく困難であり、かつ、この項の規定による措置以外の方法（次条第一項に規定する特定内外通信目的送信措置を除く。）によっては当該特定外内通信の分析が著しく困難である場合において、必要と認めるときは、この項の規定による措置により取得通信情報を取得した場合における第三十五条第二項に規定する選別の条件を定めるための基準（同項において「特定外内通信選別条件設定基準」という。）を定め、サイバー通信情報監理委員会の承認を受けて、国外関係電気通信事業者の設置する特定の国外関係電気通信設備であって当該国外関係電気通信設備を用いて媒介される国外関係通信に当該特定外内通信が含まれると疑うに足りるものにより送受信が行われる国外関係通信媒介中通信情報が複製され、受信用設備に送信されるようにするための措置（以下「特定外内通信目的送信措置」という。）を講ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十七条第三項及び第十八条から第二十条までの規定は、前項の規定により内閣総理大臣が特定外内通信目的送信措置を講ずる場合について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第十七条第三項及び第十九条第三項中「六月」とあるのは「三月」と、第十八条中「前条第一項」とあり、及び第十九条第一項中「第十七条第一項」とあるのは「第三十二条第一項」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（特定内外通信目的送信措置）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、内外通信（当該通信に係るアイ・ピー・アドレス等から判断して、国内設備から国外設備に送信される電気通信に該当すると認められる電気通信をいう。第三十五条第一項第二号において同じ。）であって、重要電子計算機に対する国外通信特定不正行為に用いられていると疑うに足りる状況のある特定の国外設備を送信先とし、又は当該国外通信特定不正行為に用いられていると疑うに足りる状況のある特定の機械的情報が含まれているもの（以下この項及び同条第二項において「特定内外通信」という。）の分析をしなければ当該国外通信特定不正行為による重要電子計算機の被害を防止することが著しく困難であり、かつ、この項の規定による措置以外の方法によっては当該特定内外通信の分析が著しく困難である場合において、必要と認めるときは、当該措置により取得通信情報を取得した場合における同条第二項に規定する選別の条件を定めるための基準（同項において「特定内外通信選別条件設定基準」という。）を定め、サイバー通信情報監理委員会の承認を受けて、国外関係電気通信事業者の設置する特定の国外関係電気通信設備であって当該国外関係電気通信設備を用いて媒介される国外関係通信に当該特定内外通信が含まれると疑うに足りるものにより送受信が行われる国外関係通信媒介中通信情報が複製され、受信用設備に送信されるようにするための措置（以下「特定内外通信目的送信措置」という。）を講ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十七条第三項及び第十八条から第二十条までの規定は、前項の規定により内閣総理大臣が特定内外通信目的送信措置を講ずる場合について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第十七条第三項及び第十九条第三項中「六月」とあるのは「三月」と、第十八条中「前条第一項」とあり、及び第十九条第一項中「第十七条第一項」とあるのは「第三十三条第一項」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　特定外内通信目的送信措置又は特定内外通信目的送信措置により取得した取得通信情報の取扱い</ChapterTitle>
+        <Article Num="34">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この章において取得通信情報に係る「対象不正行為」とは、特定外内通信目的送信措置により取得した取得通信情報である場合にあっては当該特定外内通信目的送信措置に係る第三十二条第二項において準用する第十八条の規定による承認に係る国外通信特定不正行為をいい、特定内外通信目的送信措置により取得した取得通信情報である場合にあっては当該特定内外通信目的送信措置に係る前条第二項において準用する第十八条の規定による承認に係る国外通信特定不正行為をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（自動的方法により取得通信情報を選別して記録する措置の実施）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、特定外内通信目的送信措置又は特定内外通信目的送信措置により取得通信情報を取得したときは、当該取得通信情報の中から次に掲げる要件を満たす機械的情報であるもののみを選別して記録する措置であって、自動的方法で行われるものを講じなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定外内通信目的送信措置により取得した取得通信情報については、外内通信により送受信が行われたものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定内外通信目的送信措置により取得した取得通信情報については、内外通信により送受信が行われたものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該取得通信情報に係る対象不正行為に関係があると認めるに足りる状況のあるものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項第三号に掲げる要件を満たす取得通信情報を選別するための同項の措置は、次の各号のいずれかに該当する情報を選別の条件に用いて行うものでなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、特定外内通信目的送信措置又は特定内外通信目的送信措置により取得した取得通信情報についての選別の条件は、それぞれ特定外内通信選別条件設定基準又は特定内外通信選別条件設定基準に従って定められたものでなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十二条第二項において準用する第十八条の規定による承認に係る特定外内通信の送信元となる特定の国外設備に係る情報又は第三十三条第二項において準用する第十八条の規定による承認に係る特定内外通信の送信先となる特定の国外設備に係る情報</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十二条第二項において準用する第十八条の規定による承認に係る特定外内通信に含まれる特定の機械的情報又は第三十三条第二項において準用する第十八条の規定による承認に係る特定内外通信に含まれる特定の機械的情報</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の措置が終了したときは、直ちに、当該措置により得られた取得通信情報を除き、当該措置の対象となった取得通信情報の全てを消去しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（取得通信情報の取扱いに関する規定の適用）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣が特定外内通信目的送信措置又は特定内外通信目的送信措置により取得通信情報を取得した場合には、特定外内通信目的送信措置又は特定内外通信目的送信措置により取得した取得通信情報を外外通信目的送信措置により取得した取得通信情報と、前条第一項の措置を自動選別と、当該措置により得られた取得通信情報（当該取得通信情報を複製し、又は加工して作成された情報（提供用選別後情報となったものを除く。）を含む。）を選別後通信情報とそれぞれみなして、第二十三条から第三十一条までの規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
       <Chapter Num="8">
         <ChapterTitle>第八章　総合整理分析情報等の提供</ChapterTitle>
         <Article Num="37">
@@ -1052,6 +1795,36 @@
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前項の報告には、次の各号に掲げる事項が含まれていなければならない。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十七条第一項の承認の求め及び当該承認並びに第十九条第一項の承認の求め及び当該承認のそれぞれの件数（次号及び第三号に掲げるものを除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十二条第一項の承認の求め及び当該承認並びに同条第二項において準用する第十九条第一項の承認の求め及び当該承認のそれぞれの件数</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十三条第一項の承認の求め及び当該承認並びに同条第二項において準用する第十九条第一項の承認の求め及び当該承認のそれぞれの件数</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第六十三条第一項及び第二項の規定による検査の結果の概要</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第六十六条第一項の規定による通知、第六十七条第一項の規定による要求及び第六十八条の規定による勧告のそれぞれの件数及び概要</Sentence>
+                </ItemSentence>
+              </Item>
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
@@ -1085,6 +1858,149 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">委員会は、その所掌事務について、法律若しくは政令を実施するため、又は法律若しくは政令の特別の委任に基づいて、サイバー通信情報監理委員会規則を制定することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　検査等</SectionTitle>
+          <Article Num="63">
+            <ArticleCaption>（検査）</ArticleCaption>
+            <ArticleTitle>第六十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、自動選別若しくは第三十五条第一項の規定による措置、非識別化措置又は再識別化措置が行われたときは、速やかに、その指定する委員長若しくは委員又は職員（以下この条及び第六十五条第二項において「指定職員等」という。）に、これらの措置が第五章又は第七章の規定を遵守して行われたかどうかを検査させなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、委員会は、指定職員等に、通信情報保有機関における取得通信情報の取扱いについて、この法律の規定（第十八条（第三十二条第二項及び第三十三条第二項において準用する場合を含む。）の規定により付した条件を含む。以下この節において同じ。）が遵守されているかどうかを継続的に検査させなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定職員等は、委員会の定めるところにより、前二項の規定による検査（以下単に「検査」という。）の状況又は結果を委員会に報告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定職員等は、検査の結果、通信情報保有機関における取得通信情報の取扱いに関し、この法律の規定に違反する事実があると認めたときは、前項の規定にかかわらず、速やかに、その旨及び当該違反の概要を委員会に報告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、前項の規定による報告を受けたときは、速やかに当該報告に係る事実を確認し、必要があると認めるときは、第六十六条第一項の規定による通知その他の措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="64">
+            <ArticleCaption>（資料の提出の要求及び実地調査）</ArticleCaption>
+            <ArticleTitle>第六十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、第十七条第一項、第十九条第一項（第三十二条第二項及び第三十三条第二項において準用する場合を含む。）、第三十二条第一項若しくは第三十三条第一項の承認の求めに対する審査、検査、第六十六条第一項の規定による通知、第六十七条第一項の規定による要求又は第六十八条の規定による勧告の実施に当たり、必要があると認めるときは、通信情報保有機関の長に対し、資料（選別後通信情報その他の第三十七条に規定する情報又は総合整理分析情報であるものを含む。）の提出若しくは説明を求め、又はその職員に実地調査をさせることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">通信情報保有機関の長は、委員会から前項の規定による求めがあったときは、他の法令の規定による制限のある場合を除き、その求めに応じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="65">
+            <ArticleCaption>（通信情報保有機関による協力）</ArticleCaption>
+            <ArticleTitle>第六十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第二項に定めるもののほか、通信情報保有機関は、検査に対し、協力しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">通信情報保有機関は、取得通信情報の処理のために使用する情報システムその他の検査の対象となる事務のために用いる情報システムについて、指定職員等が検査の的確かつ円滑な実施に必要な利用を行うことができるようにしておかなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="66">
+            <ArticleCaption>（通知）</ArticleCaption>
+            <ArticleTitle>第六十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、通信情報保有機関における取得通信情報の取扱いがこの法律の規定に違反していると認めたときは、当該通信情報保有機関の長に対し、その旨を通知するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">通信情報保有機関の長は、前項の通知を受けたときは、速やかに当該通知に係る取得通信情報の利用の停止その他の当該違反行為の是正及び再発の防止のために必要な措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="67">
+            <ArticleCaption>（懲戒処分の要求）</ArticleCaption>
+            <ArticleTitle>第六十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、通信情報保有機関の職員が故意又は重大な過失によりこの法律の規定に違反して取得通信情報を取り扱ったことにより取得通信情報が漏えいしたと認めるときは、当該職員の任命権者に対し、当該職員の懲戒処分を要求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、前項の規定により懲戒処分の要求をしたときは、その旨を人事院に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">任命権者は、第一項の規定による懲戒処分の要求を受けたときは、当該職員に対しその懲戒処分をすることが適当かどうか直ちに調査してこれについて措置するとともに、その結果を委員会及び人事院に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二項の規定及び前項の規定中人事院に対する通知に関する部分は、通信情報保有機関の職員が都道府県の職員である場合には、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="68">
+            <ArticleCaption>（勧告）</ArticleCaption>
+            <ArticleTitle>第六十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、通信情報保有機関における取得通信情報の取扱いがこの法律の規定に違反することを防止するため必要があると認めるときは、通信情報保有機関の長に対し、当該取扱いその他の事項に関し、必要な勧告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="69">
+            <ArticleCaption>（安全管理措置）</ArticleCaption>
+            <ArticleTitle>第六十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、サイバー通信情報監理委員会規則で定めるところにより、その取り扱う取得通信情報の漏えい、滅失又は毀損の防止その他の当該取得通信情報の安全管理のために必要かつ適切な措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="70">
+            <ArticleCaption>（評価）</ArticleCaption>
+            <ArticleTitle>第七十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">委員会は、定期的に検査の実施状況について評価を行い、必要があると認めるときは、検査の実施方法を変更することその他の必要な措置を講じなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1223,6 +2139,51 @@
       </Chapter>
       <Chapter Num="12">
         <ChapterTitle>第十二章　罰則</ChapterTitle>
+        <Article Num="79">
+          <ArticleTitle>第七十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">通信情報保有機関又は委員会において取得通信情報の取扱いに関する事務に従事する者又は従事していた者が、正当な理由がないのに、その業務に関して取り扱った取得通信情報が記録されたデータベース（電磁的方式（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式をいう。）により記録された情報の集合物であって、それらの情報を電子計算機を用いて検索することができるように体系的に構成したものをいい、その全部又は一部を複製し、又は加工したものを含む。）を提供したときは、四年以下の拘禁刑若しくは二百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="80">
+          <ArticleTitle>第八十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">人を欺き、人に暴行を加え、若しくは人を脅迫する行為により、又は財物の窃取若しくは損壊、施設への侵入、有線電気通信の傍受、不正アクセス行為その他の取得通信情報を保有する通信情報保有機関若しくは委員会の管理を害する行為により、取得通信情報を取得したときは、当該違反行為をした者は、三年以下の拘禁刑又は百五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定は、刑法その他の罰則の適用を妨げない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="81">
+          <ArticleTitle>第八十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、三年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十六条第二項（第三十一条第三項において準用する場合及び第三十六条の規定により適用する場合を含む。）の規定に違反して秘密を漏らし、又は盗用した者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十九条の規定に違反して取得通信情報に関する秘密を漏らし、又は盗用した者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
         <Article Num="82">
           <ArticleTitle>第八十二条</ArticleTitle>
           <Paragraph Num="1">
