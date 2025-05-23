@@ -55,12 +55,12 @@
         </Paragraph>
       </Article>
       <Article Num="5">
-        <ArticleCaption>（書類等の差出）</ArticleCaption>
+        <ArticleCaption>（書類等の提出）</ArticleCaption>
         <ArticleTitle>第五条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">検察官は、即決裁判の請求と同時に、即決裁判をするために必要があると思料する書類及び証拠物を裁判所に差し出さなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">検察官は、即決裁判の請求をする際は、併せて、即決裁判をするために必要があると思料する書類及び証拠物並びに電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。以下同じ。）を裁判所に提出しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -142,7 +142,7 @@
         </Paragraph>
       </Article>
       <Article Num="10">
-        <ArticleCaption>（期日における取調）</ArticleCaption>
+        <ArticleCaption>（期日における取調べ）</ArticleCaption>
         <ArticleTitle>第十条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
@@ -159,7 +159,7 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">裁判所は、必要と認めるときは、適当と認める方法により被告人又は参考人の陳述を聴き、書類及び証拠物を取り調べ、その他事実の取調をすることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">裁判所は、必要と認めるときは、適当と認める方法により被告人又は参考人の陳述を聴き、書類及び証拠物並びに電磁的記録を取り調べ、その他事実の取調べをすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
@@ -175,7 +175,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">即決裁判手続においては、被告人の憲法上の権利を侵さない限り、検察官が差し出した書類及び証拠物並びに期日において取調をしたすべての資料に基いて、裁判することができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">即決裁判手続においては、被告人の憲法上の権利を侵さない限り、検察官が提出した書類及び証拠物並びに電磁的記録並びに期日において取調べをした全ての資料に基づいて、裁判することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -287,7 +287,14 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">交通に関する刑事事件の即決裁判手続については、この法律に特別の規定があるものの外、その性質に反しない限り、刑事訴訟法による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">交通に関する刑事事件の即決裁判手続については、この法律に特別の規定があるもののほか、その性質に反しない限り、刑事訴訟法による。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第五十四条の二第一項及び第二項中「この法律の」とあるのは「この法律又は交通事件即決裁判手続法（昭和二十九年法律第百十三号）の」と、同項中「その他の」とあるのは「、交通事件即決裁判手続法その他の」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">即決裁判の請求及びこれと同時にする公訴の提起については、前項の規定にかかわらず、刑事訴訟法第五十四条の三の規定は適用せず、同項の規定による同法第五十四条の四の規定の適用については、同条中「申立て等が、書面によりされたとき（前条第一項の規定に違反してされたとき及び当該申立て等が同項ただし書に該当するときを除く。）、又は裁判所の規則の定めるところにより当該申立て等」とあるのは「即決裁判の請求及びこれと同時にする公訴の提起が、裁判所の規則の定めるところにより、当該即決裁判の請求及びこれと同時にする公訴の提起」と、「当該書面に記載され、又は当該」とあるのは「当該」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
