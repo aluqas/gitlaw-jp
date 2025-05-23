@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Year="06" Num="027" LawType="Act" Lang="ja" PromulgateMonth="05" PromulgateDay="17" Era="Reiwa"><LawNum>令和六年法律第二十七号</LawNum><LawBody><LawTitle Kana="じゅうようけいざいあんぽじょうほうのほごおよびかつようにかんするほうりつ" Abbrev="" AbbrevKana="">重要経済安保情報の保護及び活用に関する法律</LawTitle>
+<Law Lang="ja" Era="Reiwa" Year="06" Num="027" PromulgateMonth="05" PromulgateDay="17" LawType="Act"><LawNum>令和六年法律第二十七号</LawNum><LawBody><LawTitle Kana="じゅうようけいざいあんぽじょうほうのほごおよびかつようにかんするほうりつ" Abbrev="" AbbrevKana="">重要経済安保情報の保護及び活用に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -390,7 +390,7 @@
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">刑事訴訟法（昭和二十三年法律第百三十一号）第三百十六条の二十七第一項（同条第三項及び同法第三百十六条の二十八第二項において準用する場合を含む。）の規定により裁判所に提示する場合のほか、刑事事件の捜査又は公訴の維持に必要な業務であって、当該業務に従事する者以外の者に当該重要経済安保情報を提供することがないと認められるもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">刑事訴訟法（昭和二十三年法律第百三十一号）第三百十六条の二十七第一項（同条第四項及び同法第三百十六条の二十八第二項において準用する場合を含む。）の規定により裁判所に提示する場合のほか、刑事事件の捜査又は公訴の維持に必要な業務であって、当該業務に従事する者以外の者に当該重要経済安保情報を提供することがないと認められるもの</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
             </Item>
@@ -1116,6 +1116,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">国会に対する重要経済安保情報の提供については、政府は、国会が国権の最高機関であり各議院がその会議その他の手続及び内部の規律に関する規則を定める権能を有することを定める日本国憲法及びこれに基づく国会法等の精神にのっとり、この法律を運用するものとし、重要経済安保情報の提供を受ける国会におけるその保護に関する方策については、国会において、検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二三日法律第三九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和九年三月三十一日までの間において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
