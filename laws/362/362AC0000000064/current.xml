@@ -17,17 +17,23 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">刑事被告事件に係る訴訟の記録（犯罪被害者等の権利利益の保護を図るための刑事手続に付随する措置に関する法律（平成十二年法律第七十五号）第二十条第一項に規定する和解記録については、その謄本）は、訴訟終結後は、当該被告事件について第一審の裁判をした裁判所に対応する検察庁の検察官（以下「保管検察官」という。）が保管するものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">刑事被告事件に係る訴訟の記録（犯罪被害者等の権利利益の保護を図るための刑事手続に付随する措置に関する法律（平成十二年法律第七十五号）第二十条第一項に規定する和解記録については、当該和解記録中同項第二号に規定する電磁的和解記録を除いた部分の謄本及び当該電磁的和解記録の内容の全部を証明した電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。以下同じ。））は、訴訟終結後は、当該被告事件について第一審の裁判をした裁判所に対応する検察庁の検察官（以下「保管検察官」という。）が保管するものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の規定により保管検察官が保管する記録（以下「保管記録」という。）の保管期間は、別表の上欄に掲げる保管記録の区分に応じ、それぞれ同表の下欄に定めるところによる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項に規定する訴訟の記録については、その全部又は一部が電磁的記録である場合における当該電磁的記録を除き、同項の規定による保管は、当該訴訟の記録の原本に代えてその内容を記録した電磁的記録を保管する方法によることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項の規定により保管検察官が保管する記録（以下「保管記録」という。）の保管期間は、別表の上欄に掲げる保管記録の区分に応じ、それぞれ同表の下欄に定めるところによる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">保管検察官は、必要があると認めるときは、保管期間を延長することができる。</Sentence>
           </ParagraphSentence>
@@ -45,21 +51,27 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">再審の請求をしようとする者、再審の請求をした者又は刑事訴訟法（昭和二十三年法律第百三十一号）第四百四十条第一項の規定により選任された弁護人は、保管検察官に対し、保管記録を再審保存記録として保存することを請求することができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前条第二項の規定は、前項の規定による再審保存記録（その全部又は一部が電磁的記録である場合における当該電磁的記録を除く。）の保存について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定による請求があつたときは、保管検察官は、請求に係る保管記録を再審保存記録として保存するかどうかを決定し、請求をした者にその旨を通知しなければならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、請求に係る保管記録が再審保存記録として保存することとされているものであるときは、その旨の通知をすれば足りる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">再審の請求をしようとする者、再審の請求をした者又は刑事訴訟法（昭和二十三年法律第百三十一号）第四百四十条第一項の規定により選任された弁護人は、保管検察官に対し、保管記録を再審保存記録として保存することを請求することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定による請求があつたときは、保管検察官は、請求に係る保管記録を再審保存記録として保存するかどうかを決定し、請求をした者にその旨を通知しなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、請求に係る保管記録が再審保存記録として保存することとされているものであるときは、その旨の通知をすれば足りる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">再審保存記録の保存期間は、延長することができる。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合においては、前三項の規定を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合においては、前各項の規定を準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -69,14 +81,20 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">保管検察官は、請求があつたときは、保管記録（刑事訴訟法第五十三条第一項の訴訟記録に限る。次項において同じ。）を閲覧させなければならない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">保管検察官は、請求があつたときは、保管記録（刑事訴訟法第五十三条第一項の訴訟記録に限る。次項及び第三項において同じ。）を閲覧させなければならない。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同条第一項ただし書に規定する事由がある場合は、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">保管検察官は、保管記録が刑事訴訟法第五十三条第三項に規定する事件のものである場合を除き、次に掲げる場合には、保管記録（第二号の場合にあつては、終局裁判の裁判書を除く。）を閲覧させないものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">保管記録の全部又は一部が電磁的記録であるときは、前項の規定による当該電磁的記録の閲覧は、その内容を表示したものを閲覧させ、又はその内容を再生したものを視聴させる方法によるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">保管検察官は、保管記録が刑事訴訟法第五十三条第三項に規定する事件のものである場合を除き、次に掲げる場合には、保管記録（第二号の場合にあつては、終局裁判の裁判書（電磁的記録を含む。別表において同じ。）を除く。）を閲覧させないものとする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、訴訟関係人又は閲覧につき正当な理由があると認められる者から閲覧の請求があつた場合については、この限りでない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
@@ -116,16 +134,17 @@
             </ItemSentence>
           </Item>
         </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第一項の規定は、刑事訴訟法第五十三条第一項の訴訟記録以外の保管記録について、訴訟関係人又は閲覧につき正当な理由があると認められる者から閲覧の請求があつた場合に準用する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">保管検察官は、保管記録を閲覧させる場合において、その保存のため適当と認めるときは、原本の閲覧が必要である場合を除き、その謄本を閲覧させることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一項及び第二項の規定は、刑事訴訟法第五十三条第一項の訴訟記録以外の保管記録について、訴訟関係人又は閲覧につき正当な理由があると認められる者から閲覧の請求があつた場合に準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">保管検察官は、保管記録（その全部又は一部が電磁的記録である場合における当該電磁的記録を除く。）を閲覧させる場合において、その保存のため適当と認めるときは、原本の閲覧が必要である場合を除き、その謄本又はその内容を記録した電磁的記録を閲覧させることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該電磁的記録の閲覧については、第二項の規定を準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -135,20 +154,20 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">保管検察官は、第三条第二項に規定する者から請求があつたときは、再審保存記録を閲覧させなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">保管検察官は、第三条第三項に規定する者から請求があつたときは、再審保存記録を閲覧させなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前条第一項ただし書及び第四項の規定は、前項の請求があつた場合に準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前条第一項ただし書、第二項及び第五項の規定は、前項の請求があつた場合に準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">保管検察官は、学術研究のため必要があると認める場合その他法務省令で定める場合には、申出により、再審保存記録を閲覧させることができる。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合においては、前条第四項の規定を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合においては、前条第二項及び第五項の規定を準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -178,7 +197,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第三条第二項の規定により保存の請求をした者（同条第四項において準用する同条第二項の規定により保存期間の延長の請求をした者を含む。）又は第四条第一項（同条第三項において準用する場合を含む。）若しくは第五条第一項の規定により閲覧の請求をした者であつて、当該請求に基づく保管検察官の保存又は閲覧に関する処分に不服があるものは、その保管検察官が所属する検察庁の対応する裁判所にその処分の取消し又は変更を請求することができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第三条第三項の規定により保存の請求をした者（同条第五項において準用する同条第三項の規定により保存期間の延長の請求をした者を含む。）又は第四条第一項（同条第四項において準用する場合を含む。）若しくは第五条第一項の規定により閲覧の請求をした者であつて、当該請求に基づく保管検察官の保存又は閲覧に関する処分に不服があるものは、その保管検察官が所属する検察庁の対応する裁判所にその処分の取消し又は変更を請求することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -200,20 +219,26 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法務大臣は、学術研究のため必要があると認める場合その他法務省令で定める場合には、申出により、刑事参考記録を閲覧させることができる。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合においては、第四条第四項及び第六条の規定を準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第二条第二項の規定は、前項の規定による刑事参考記録（その全部又は一部が電磁的記録である場合における当該電磁的記録を除く。）の保存について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">刑事参考記録について再審の手続のため保存の必要があると認められる場合におけるその保存及び閲覧については、再審保存記録の保存及び閲覧の例による。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">法務大臣は、学術研究のため必要があると認める場合その他法務省令で定める場合には、申出により、刑事参考記録を閲覧させることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合においては、第四条第五項及び第六条の規定を準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">法務大臣は、法務省令で定めるところにより、第一項又は第二項の規定に基づく権限を所部の職員に委任することができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">刑事参考記録について再審の手続のため保存の必要があると認められる場合におけるその保存及び閲覧については、再審保存記録の保存及び閲覧の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法務大臣は、法務省令で定めるところにより、第一項から第三項までの規定に基づく権限を所部の職員に委任することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
