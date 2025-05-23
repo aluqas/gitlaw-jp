@@ -38,7 +38,7 @@
           <ArticleRange>（第五十七条―第九十八条の二十四）</ArticleRange>
         </TOCChapter>
         <TOCChapter Num="9">
-          <ChapterTitle>第九章　押収及び捜索</ChapterTitle>
+          <ChapterTitle>第九章　押収、捜索等</ChapterTitle>
           <ArticleRange>（第九十九条―第百二十七条）</ArticleRange>
         </TOCChapter>
         <TOCChapter Num="10">
@@ -1055,14 +1055,14 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">弁護人は、公訴の提起後は、裁判所において、訴訟に関する書類及び証拠物を閲覧し、且つ謄写することができる。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、証拠物を謄写するについては、裁判長の許可を受けなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">弁護人は、公訴の提起後は、裁判所において、訴訟に関する書類及び証拠物を閲覧し、及び謄写することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">ただし、証拠物を謄写するについては、裁判長の許可を受けなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、第百五十七条の六第四項に規定する記録媒体は、謄写することができない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、第百五十七条の六第五項に規定する記録媒体は、謄写することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1309,7 +1309,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">書類の送達については、裁判所の規則に特別の定のある場合を除いては、民事訴訟に関する法令の規定（公示送達に関する規定を除く。）を準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">書類の送達については、裁判所の規則に特別の定めのある場合を除いては、民事訴訟に関する法令の規定（民事訴訟法（平成八年法律第百九号）第百条第二項並びに第一編第五章第四節第三款及び第四款の規定を除く。）を準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2529,35 +2529,26 @@
           </Article>
         </Chapter>
         <Chapter Num="9">
-          <ChapterTitle>第九章　押収及び捜索</ChapterTitle>
+          <ChapterTitle>第九章　押収、捜索等</ChapterTitle>
           <Article Num="99">
             <ArticleTitle>第九十九条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">裁判所は、必要があるときは、証拠物又は没収すべき物と思料するものを差し押えることができる。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、特別の定のある場合は、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特別の定めのある場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">差し押さえるべき物が電子計算機であるときは、当該電子計算機に電気通信回線で接続している記録媒体であつて、当該電子計算機で作成若しくは変更をした電磁的記録又は当該電子計算機で変更若しくは消去をすることができることとされている電磁的記録を保管するために使用されていると認めるに足りる状況にあるものから、その電磁的記録を当該電子計算機又は他の記録媒体に複写した上、当該電子計算機又は当該他の記録媒体を差し押さえることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">差し押さえるべき物が電子計算機であるときは、当該電子計算機に電気通信回線で接続している記録媒体であつて、当該電子計算機で作成若しくは変更をした電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。以下同じ。）又は当該電子計算機で変更若しくは消去をすることができることとされている電磁的記録を保管するために使用されていると認めるに足りる状況にあるものから、その電磁的記録を当該電子計算機又は他の記録媒体に複写した上、当該電子計算機又は当該他の記録媒体を差し押さえることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">裁判所は、差し押えるべき物を指定し、所有者、所持者又は保管者にその物の提出を命ずることができる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="99_2">
-            <ArticleTitle>第九十九条の二</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">裁判所は、必要があるときは、記録命令付差押え（電磁的記録を保管する者その他電磁的記録を利用する権限を有する者に命じて必要な電磁的記録を記録媒体に記録させ、又は印刷させた上、当該記録媒体を差し押さえることをいう。以下同じ。）をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2604,6 +2595,55 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">被告人以外の者の身体、物又は住居その他の場所については、押収すべき物の存在を認めるに足りる状況のある場合に限り、捜索をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="102_2">
+            <ArticleTitle>第百二条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、必要があるときは、電磁的記録提供命令（次の各号に掲げる者に対し、当該各号に定める方法により必要な電磁的記録を提供することを命ずる命令をいう。以下同じ。）をすることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">電磁的記録を保管する者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">次のイ又はロに掲げる方法</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">電磁的記録を記録媒体に記録させ又は移転させて当該記録媒体を提出させる方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">電気通信回線を通じて電磁的記録を当該命令をする者の管理に係る記録媒体に記録させ又は移転させる方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">電磁的記録を利用する権限を有する者（前号に掲げる者を除く。）</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">同号イ又はロに掲げる方法（電磁的記録を記録媒体に記録させるものに限る。）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令は、提供させるべき電磁的記録及び提供の方法を指定してするものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2654,12 +2694,22 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="105_2">
+            <ArticleTitle>第百五条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前三条の規定は、電磁的記録提供命令（第百二条の二第一項第一号ロに掲げる方法による提供を命ずるものに限る。）による電磁的記録の提供について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第百三条及び前条中「又は所持する物」とあるのは、「その他利用する権限を有する電磁的記録」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="106">
             <ArticleTitle>第百六条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">公判廷外における差押え、記録命令付差押え又は捜索は、差押状、記録命令付差押状又は捜索状を発してこれをしなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">公判廷外における差押え又は捜索は、差押状又は捜索状を発してこれをしなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2668,7 +2718,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">差押状、記録命令付差押状又は捜索状には、被告人の氏名、罪名、差し押さえるべき物、記録させ若しくは印刷させるべき電磁的記録及びこれを記録させ若しくは印刷させるべき者又は捜索すべき場所、身体若しくは物、有効期間及びその期間経過後は執行に着手することができず令状はこれを返還しなければならない旨並びに発付の年月日その他裁判所の規則で定める事項を記載し、裁判長が、これに記名押印しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">差押状又は捜索状には、被告人の氏名、罪名、差し押さえるべき物又は捜索すべき場所、身体若しくは物、有効期間及びその期間経過後は執行に着手することができず令状はこれを返還しなければならない旨並びに発付の年月日その他裁判所の規則で定める事項を記載し、裁判長が、これに記名押印しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -2680,7 +2730,7 @@
             <Paragraph Num="3" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十四条第二項の規定は、第一項の差押状、記録命令付差押状又は捜索状についてこれを準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十四条第二項の規定は、第一項の差押状又は捜索状について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2689,14 +2739,14 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">差押状、記録命令付差押状又は捜索状は、検察官の指揮によつて、検察事務官又は司法警察職員がこれを執行する。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">差押状又は捜索状は、検察官の指揮によつて、検察事務官又は司法警察職員がこれを執行する。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、裁判所が被告人の保護のため必要があると認めるときは、裁判長は、裁判所書記官又は司法警察職員にその執行を命ずることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">裁判所は、差押状、記録命令付差押状又は捜索状の執行に関し、その執行をする者に対し書面で適当と認める指示をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、差押状又は捜索状の執行に関し、その執行をする者に対し書面で適当と認める指示をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -2708,7 +2758,7 @@
             <Paragraph Num="4" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第七十一条の規定は、差押状、記録命令付差押状又は捜索状の執行についてこれを準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第七十一条の規定は、差押状又は捜索状の執行について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2717,7 +2767,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察事務官又は裁判所書記官は、差押状、記録命令付差押状又は捜索状の執行について必要があるときは、司法警察職員に補助を求めることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検察事務官又は裁判所書記官は、差押状又は捜索状の執行について必要があるときは、司法警察職員に補助を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2726,7 +2776,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">差押状、記録命令付差押状又は捜索状は、処分を受ける者にこれを示さなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">差押状又は捜索状は、処分を受ける者にこれを示さなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2757,14 +2807,20 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">差押状、記録命令付差押状又は捜索状の執行については、錠をはずし、封を開き、その他必要な処分をすることができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">公判廷で差押え、記録命令付差押え又は捜索をする場合も、同様である。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">差押状又は捜索状の執行については、錠を外し、封を開き、その他必要な処分をすることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">公判廷で差押え又は捜索をする場合も、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前項の処分は、押収物についても、これをすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第百二条の二第一項第一号ロに掲げる方法による提供を命ずるものに限る。）により電磁的記録を提供させたときは、当該電磁的記録の内容を確認するための措置をとることその他必要な処分をすることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2783,7 +2839,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">差押状、記録命令付差押状又は捜索状の執行中は、何人に対しても、許可を得ないでその場所に出入りすることを禁止することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">差押状又は捜索状の執行中は、何人に対しても、許可を得ないでその場所に出入りすることを禁止することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -2798,14 +2854,14 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">検察官、被告人又は弁護人は、差押状、記録命令付差押状又は捜索状の執行に立ち会うことができる。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">検察官、被告人又は弁護人は、差押状又は捜索状の執行に立ち会うことができる。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、身体の拘束を受けている被告人は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">差押状、記録命令付差押状又は捜索状の執行をする者は、あらかじめ、執行の日時及び場所を前項の規定により立ち会うことができる者に通知しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">差押状又は捜索状の執行をする者は、あらかじめ、執行の日時及び場所を前項の規定により立ち会うことができる者に通知しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これらの者があらかじめ裁判所に立ち会わない意思を明示した場合及び急速を要する場合は、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -2821,13 +2877,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">公務所内で差押状、記録命令付差押状又は捜索状の執行をするときは、その長又はこれに代わるべき者に通知してその処分に立ち会わせなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">公務所内で差押状又は捜索状の執行をするときは、その長又はこれに代わるべき者に通知してその処分に立ち会わせなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定による場合を除いて、人の住居又は人の看守する邸宅、建造物若しくは船舶内で差押状、記録命令付差押状又は捜索状の執行をするときは、住居主若しくは看守者又はこれらの者に代わるべき者をこれに立ち会わせなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による場合を除き、人の住居又は人の看守する邸宅、建造物若しくは船舶内で差押状又は捜索状の執行をするときは、住居主若しくは看守者又はこれらの者に代わるべき者をこれに立ち会わせなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">これらの者を立ち会わせることができないときは、隣人又は地方公共団体の職員を立ち会わせなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -2847,13 +2903,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">日出前、日没後には、令状に夜間でも執行することができる旨の記載がなければ、差押状、記録命令付差押状又は捜索状の執行のため、人の住居又は人の看守する邸宅、建造物若しくは船舶内に入ることはできない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">日出前、日没後には、令状に夜間でも執行することができる旨の記載がなければ、差押状又は捜索状の執行のため、人の住居又は人の看守する邸宅、建造物若しくは船舶内に入ることはできない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">日没前に差押状、記録命令付差押状又は捜索状の執行に着手したときは、日没後でも、その処分を継続することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">日没前に差押状又は捜索状の執行に着手したときは、日没後でも、その処分を継続することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2862,7 +2918,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">次に掲げる場所で差押状、記録命令付差押状又は捜索状の執行をするについては、前条第一項に規定する制限によることを要しない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">次に掲げる場所で差押状又は捜索状の執行をするについては、前条第一項に規定する制限によることを要しない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -2884,7 +2940,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">差押状、記録命令付差押状又は捜索状の執行を中止する場合において必要があるときは、執行が終わるまでその場所を閉鎖し、又は看守者を置くことができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">差押状又は捜索状の執行を中止する場合において必要があるときは、執行が終わるまでその場所を閉鎖し、又は看守者を置くことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2902,7 +2958,19 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">押収をした場合には、その目録を作り、所有者、所持者若しくは保管者（第百十条の二の規定による処分を受けた者を含む。）又はこれらの者に代わるべき者に、これを交付しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">押収をした場合には、その目録を作り、所有者、所持者若しくは保管者（第百十条の二の規定による処分又は電磁的記録提供命令（第百二条の二第一項第一号イに掲げる方法による提供を命ずるものに限る。）を受けた者を含む。）又はこれらの者に代わるべき者に交付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第百二条の二第一項第一号ロに掲げる方法による提供を命ずるものに限る。）により電磁的記録を提供させた場合には、書面又は電磁的記録をもつてその目録を作り、当該電磁的記録提供命令を受けた者又はこれに代わるべき者に提供しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、電磁的記録をもつて作成する目録の提供は、これを受ける者に異議があるときは、することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2953,13 +3021,50 @@
             <Paragraph Num="3" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">押収物が第百十条の二の規定により電磁的記録を移転し、又は移転させた上差し押さえた記録媒体で留置の必要がないものである場合において、差押えを受けた者と当該記録媒体の所有者、所持者又は保管者とが異なるときは、被告事件の終結を待たないで、決定で、当該差押えを受けた者に対し、当該記録媒体を交付し、又は当該電磁的記録の複写を許さなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">押収物が次の各号に掲げる記録媒体で留置の必要がないものである場合において、当該各号に定める者と当該記録媒体の所有者、所持者又は保管者とが異なるときは、被告事件の終結を待たないで、決定で、当該各号に定める者に対し、当該記録媒体を交付し、又は当該電磁的記録の複写を許さなければならない。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第百十条の二の規定により電磁的記録を移転し、又は移転させた上差し押さえた記録媒体</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">差押えを受けた者</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第百二条の二第一項第一号イに掲げる方法（電磁的記録を記録媒体に移転させるものに限る。）による提供を命ずるものに限る。以下この号において同じ。）により提出させた記録媒体</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令を受けた者</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="4" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前三項の決定をするについては、検察官及び被告人又は弁護人の意見を聴かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="123_2">
+            <ArticleTitle>第百二十三条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第百二条の二第一項第一号ロに掲げる方法（電磁的記録を記録媒体に移転させるものに限る。）による提供を命ずるものに限る。）により移転させた電磁的記録について、当該電磁的記録提供命令を受けた者に保管させないこととする理由がなくなつたときは、当該者の請求により又は職権で、被告事件の終結を待たないで、決定で、当該者に対し、当該電磁的記録の複写を許さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第四項の規定は、前項の決定について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2978,12 +3083,27 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="124_2">
+            <ArticleTitle>第百二十四条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">正当な理由がなく、第百二条の二第一項の規定による電磁的記録提供命令に違反したときは、その違反行為をした者は、一年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、前項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても同項の罰金刑を科する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="125">
             <ArticleTitle>第百二十五条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">押収又は捜索は、合議体の構成員にこれをさせ、又はこれをすべき地の地方裁判所、家庭裁判所若しくは簡易裁判所の裁判官にこれを嘱託することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">押収（電磁的記録提供命令（第百二条の二第一項第一号イに掲げる方法による提供を命ずるものに限る。）を含む。第四項において同じ。）、捜索又は電磁的記録提供命令（同号ロに掲げる方法による提供を命ずるものに限る。同項において同じ。）は、合議体の構成員にこれをさせ、又はこれをすべき地の地方裁判所、家庭裁判所若しくは簡易裁判所の裁判官にこれを嘱託することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -3001,8 +3121,8 @@
             <Paragraph Num="4" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">受命裁判官又は受託裁判官がする押収又は捜索については、裁判所がする押収又は捜索に関する規定を準用する。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、第百条第三項の通知は、裁判所がこれをしなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">受命裁判官又は受託裁判官がする押収、捜索又は電磁的記録提供命令については、裁判所がする押収、捜索又は電磁的記録提供命令に関する規定を準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">ただし、第百条第三項の通知は、裁判所がこれをしなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3534,7 +3654,7 @@
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">裁判所は、証人を尋問する場合において、次に掲げる場合であつて、相当と認めるときは、検察官及び被告人又は弁護人の意見を聴き、同一構内以外にある場所であつて裁判所の規則で定めるものに証人を在席させ、映像と音声の送受信により相手の状態を相互に認識しながら通話をすることができる方法によつて、尋問することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、証人（国内にいる者に限る。以下この項及び次項において同じ。）を尋問する場合において、次に掲げる場合であつて、相当と認めるときは、検察官及び被告人又は弁護人の意見を聴き、他の裁判所の構内にある場所その他の同一構内以外にある場所であつて、適当と認めるものに証人を在席させ、映像と音声の送受信により相手の状態を相互に認識しながら通話をすることができる方法によつて、尋問することができる。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -3557,17 +3677,47 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">証人がその傷病又は心身の障害により同一構内に出頭することが著しく困難であると認めるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">証人が遠隔地に居住し、その年齢、職業、健康状態その他の事情により、同一構内に出頭することが著しく困難であると認めるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">証人が身体の拘束を受けている場合であつて、その年齢、心身の状態、処遇の実施状況その他の事情により、同一構内への出頭に伴う移動により証人が精神の平穏を著しく害され、その処遇の適切な実施に著しい支障を生ずるおそれがあると認めるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">証人が身体の拘束を受けている場合であつて、同一構内への出頭に伴う移動に際し、証人を奪取し又は解放する行為がなされるおそれがあると認めるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">証人にさせる供述が鑑定に属するものである場合であつて、その職業、健康状態その他の事情により証人がその尋問の日時に同一構内に出頭することが著しく困難であり、かつ、証人の重要性、審理の状況その他の事情により当該日時に尋問することが特に必要であると認めるとき。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
             <Paragraph Num="3" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前二項に規定する方法により証人尋問を行う場合（前項第四号の規定による場合を除く。）において、裁判所は、その証人が後の刑事手続において同一の事実につき再び証人として供述を求められることがあると思料する場合であつて、証人の同意があるときは、検察官及び被告人又は弁護人の意見を聴き、その証人の尋問及び供述並びにその状況を記録媒体（映像及び音声を同時に記録することができるものに限る。）に記録することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前二項に規定する場合のほか、裁判所は、証人を尋問する場合において、前二項に規定する方法のいずれかによつて尋問することについて検察官及び被告人に異議がなく、証人の重要性、当該方法によつて尋問することの必要性その他の事情を考慮し、相当と認めるときは、当該方法によつて、尋問することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項又は第二項に規定する方法により証人尋問を行う場合（同項第五号から第八号までの規定による場合を除く。）において、裁判所は、その証人が後の刑事手続において同一の事実につき再び証人として供述を求められることがあると思料する場合であつて、証人の同意があるときは、検察官及び被告人又は弁護人の意見を聴き、その証人の尋問及び供述並びにその状況を記録媒体（映像及び音声を同時に記録することができるものに限る。）に記録することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前項の規定により証人の尋問及び供述並びにその状況を記録した記録媒体は、訴訟記録に添付して調書の一部とするものとする。</Sentence>
@@ -3840,7 +3990,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前章の規定は、勾引に関する規定を除いて、鑑定についてこれを準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前章の規定は、勾引に関する規定を除き、鑑定について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第百五十七条の六第二項中「ときは、」とあるのは、「とき、又は鑑定人を尋問する場合（鑑定の経過及び結果に関する尋問をする場合を除く。）において、相当と認めるときは、」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3918,7 +4069,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前章の規定は、通訳及び翻訳についてこれを準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前章の規定は、通訳及び翻訳について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第百七十一条において準用する第百五十七条の六第二項中「場合において、次に掲げる場合であつて」とあるのは「場合において」と、「方法に」とあるのは「方法（当該方法による通訳又は翻訳が著しく困難であるときにあつては、音声の送受信により同時に通話をすることができる方法）に」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3930,7 +4082,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">被告人、被疑者又は弁護人は、あらかじめ証拠を保全しておかなければその証拠を使用することが困難な事情があるときは、第一回の公判期日前に限り、裁判官に押収、捜索、検証、証人の尋問又は鑑定の処分を請求することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">被告人、被疑者又は弁護人は、あらかじめ証拠を保全しておかなければその証拠を使用することが困難な事情があるときは、第一回の公判期日前に限り、裁判官に押収（電磁的記録提供命令（第百二条の二第一項第一号イに掲げる方法による提供を命ずるものに限る。）を含む。）、捜索、電磁的記録提供命令（同号ロに掲げる方法による提供を命ずるものに限る。）、検証、証人の尋問又は鑑定の処分を請求することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -3945,14 +4097,14 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">検察官及び弁護人は、裁判所において、前条第一項の処分に関する書類及び証拠物を閲覧し、且つ謄写することができる。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、弁護人が証拠物の謄写をするについては、裁判官の許可を受けなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検察官及び弁護人は、裁判所において、前条第一項の処分に関する書類及び証拠物を閲覧し、及び謄写することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">ただし、弁護人が証拠物の謄写をするについては、裁判官の許可を受けなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、第百五十七条の六第四項に規定する記録媒体は、謄写することができない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、第百五十七条の六第五項に規定する記録媒体は、謄写することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -4299,8 +4451,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">捜査については、その目的を達するため必要な取調をすることができる。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、強制の処分は、この法律に特別の定のある場合でなければ、これをすることができない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">捜査については、その目的を達するため必要な取調べをすることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">ただし、強制の処分は、この法律に特別の定めのある場合でなければ、これをすることができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -4312,8 +4464,8 @@
             <Paragraph Num="3" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官、検察事務官又は司法警察員は、差押え又は記録命令付差押えをするため必要があるときは、電気通信を行うための設備を他人の通信の用に供する事業を営む者又は自己の業務のために不特定若しくは多数の者の通信を媒介することのできる電気通信を行うための設備を設置している者に対し、その業務上記録している電気通信の送信元、送信先、通信日時その他の通信履歴の電磁的記録のうち必要なものを特定し、三十日を超えない期間を定めて、これを消去しないよう、書面で求めることができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、当該電磁的記録について差押え又は記録命令付差押えをする必要がないと認めるに至つたときは、当該求めを取り消さなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検察官、検察事務官又は司法警察員は、差押えをし、又は電磁的記録提供命令により電磁的記録を提供させるため必要があるときは、電気通信を行うための設備を他人の通信の用に供する事業を営む者又は自己の業務のために不特定若しくは多数の者の通信を媒介することのできる電気通信を行うための設備を設置している者に対し、その業務上記録している電気通信の送信元、送信先、通信日時その他の通信履歴の電磁的記録のうち必要なものを特定し、三十日を超えない期間を定めて、これを消去しないよう、書面又は電磁的記録により求めることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該求めに係る電磁的記録について差押えをし、又は電磁的記録提供命令により当該電磁的記録を提供させる必要がないと認めるに至つたときは、当該求めを取り消さなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4" OldNum="true" OldStyle="false">
@@ -4928,7 +5080,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官、検察事務官又は司法警察職員は、犯罪の捜査をするについて必要があるときは、裁判官の発する令状により、差押え、記録命令付差押え、捜索又は検証をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検察官、検察事務官又は司法警察職員は、犯罪の捜査をするについて必要があるときは、裁判官の発する令状により、差押え、捜索、電磁的記録提供命令又は検証をすることができる。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、身体の検査は、身体検査令状によらなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -4941,25 +5093,43 @@
             <Paragraph Num="3" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">身体の拘束を受けている被疑者の指紋若しくは足型を採取し、身長若しくは体重を測定し、又は写真を撮影するには、被疑者を裸にしない限り、第一項の令状によることを要しない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検察官、検察事務官又は司法警察職員は、電磁的記録提供命令をする場合において、必要があるときは、裁判官の許可を受けて、当該電磁的記録提供命令を受ける者に対し、一年を超えない期間を定めて、みだりに当該電磁的記録提供命令を受けたこと及び当該電磁的記録提供命令により提供を命じられた電磁的記録を提供し又は提供しなかつたことを漏らしてはならない旨を命ずることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の令状は、検察官、検察事務官又は司法警察員の請求により、これを発する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">身体の拘束を受けている被疑者の指紋若しくは足型を採取し、身長若しくは体重を測定し、又は写真を撮影するには、被疑者を裸にしない限り、第一項の令状によることを要しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官、検察事務官又は司法警察員は、身体検査令状の請求をするには、身体の検査を必要とする理由及び身体の検査を受ける者の性別、健康状態その他裁判所の規則で定める事項を示さなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の令状は、検察官、検察事務官又は司法警察員の請求により、これを発する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">裁判官は、身体の検査に関し、適当と認める条件を附することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三項の許可の請求は、前項の請求をする際に、検察官、検察事務官又は司法警察員からしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">検察官、検察事務官又は司法警察職員は、第三項の規定による命令をした場合において、その必要がなくなつたときは、自ら又は当該命令を受けた者の請求により、これを取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">検察官、検察事務官又は司法警察員は、身体検査令状の請求をするには、身体の検査を必要とする理由及び身体の検査を受ける者の性別、健康状態その他裁判所の規則で定める事項を示さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判官は、身体の検査に関し、適当と認める条件を付することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4968,7 +5138,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前条の令状には、被疑者若しくは被告人の氏名、罪名、差し押さえるべき物、記録させ若しくは印刷させるべき電磁的記録及びこれを記録させ若しくは印刷させるべき者、捜索すべき場所、身体若しくは物、検証すべき場所若しくは物又は検査すべき身体及び身体の検査に関する条件、有効期間及びその期間経過後は差押え、記録命令付差押え、捜索又は検証に着手することができず令状はこれを返還しなければならない旨並びに発付の年月日その他裁判所の規則で定める事項を記載し、裁判官が、これに記名押印しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条の令状には、被疑者若しくは被告人の氏名、罪名、差し押さえるべき物、捜索すべき場所、身体若しくは物、提供させるべき電磁的記録、提供させるべき者及び提供の方法、検証すべき場所若しくは物又は検査すべき身体及び身体の検査に関する条件、有効期間及びその期間経過後は差押え、捜索若しくは検証に着手し、又は電磁的記録提供命令をすることができず令状はこれを返還しなければならない旨並びに発付の年月日その他裁判所の規則で定める事項を記載し、裁判官が、これに記名押印しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -4980,7 +5150,13 @@
             <Paragraph Num="3" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十四条第二項の規定は、前条の令状についてこれを準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">裁判官は、前条第三項の許可をするときは、同条の令状にその旨及び同項の規定により漏らしてはならない旨を命ずる期間を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十四条第二項の規定は、前条の令状について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -5040,7 +5216,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">第九十九条第一項、第百条、第百二条から第百五条まで、第百十条から第百十二条まで、第百十四条、第百十五条及び第百十八条から第百二十四条までの規定は、検察官、検察事務官又は司法警察職員が第二百十八条、第二百二十条及び前条の規定によつてする押収又は捜索について、第百十条、第百十一条の二、第百十二条、第百十四条、第百十八条、第百二十九条、第百三十一条及び第百三十七条から第百四十条までの規定は、検察官、検察事務官又は司法警察職員が第二百十八条又は第二百二十条の規定によつてする検証についてこれを準用する。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第九十九条第一項、第百条、第百二条、第百三条から第百五条まで、第百十条、第百十条の二前段、第百十一条第一項前段及び第二項、第百十一条の二前段、第百十二条、第百十四条、第百十五条、第百十八条、第百十九条、第百二十条第一項、第百二十一条第一項及び第二項、第百二十二条、第百二十三条第一項から第三項まで並びに第百二十四条の規定は、検察官、検察事務官又は司法警察職員が第二百十八条、第二百二十条及び前条の規定によつてする押収又は捜索について、第百十条の規定は、検察官、検察事務官又は司法警察職員が第二百十八条の規定によつてする電磁的記録提供命令（第百二条の二第一項第一号イに掲げる方法による提供を命ずるものに限る。）について、第百五条の二、第百十条、第百十一条第三項、第百二十条第二項及び第三項並びに第百二十三条の二第一項の規定は、検察官、検察事務官又は司法警察職員が第二百十八条の規定によつてする電磁的記録提供命令（同号ロに掲げる方法による提供を命ずるものに限る。）（当該電磁的記録提供命令により電磁的記録を提供させることを含む。）について、第百十条、第百十一条の二前段、第百十二条、第百十四条、第百十八条、第百二十九条、第百三十一条及び第百三十七条から第百四十条までの規定は、検察官、検察事務官又は司法警察職員が第二百十八条又は第二百二十条の規定によつてする検証について、それぞれ準用する。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、司法巡査は、第百二十二条から第百二十四条までに規定する処分をすることができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -5053,14 +5229,14 @@
             <Paragraph Num="3" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百十六条及び第百十七条の規定は、検察官、検察事務官又は司法警察職員が第二百十八条の規定によつてする差押え、記録命令付差押え又は捜索について、これを準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百十六条及び第百十七条の規定は、検察官、検察事務官又は司法警察職員が第二百十八条の規定によつてする差押え又は捜索について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">日出前、日没後には、令状に夜間でも検証をすることができる旨の記載がなければ、検察官、検察事務官又は司法警察職員は、第二百十八条の規定によつてする検証のため、人の住居又は人の看守する邸宅、建造物若しくは船舶内に入ることができない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">但し、第百十七条に規定する場所については、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第百十七条各号に掲げる場所については、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5" OldNum="true" OldStyle="false">
@@ -5072,7 +5248,7 @@
             <Paragraph Num="6" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官、検察事務官又は司法警察職員は、第二百十八条の規定により差押、捜索又は検証をするについて必要があるときは、被疑者をこれに立ち会わせることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検察官、検察事務官又は司法警察職員は、第二百十八条の規定により差押え、捜索又は検証をするについて必要があるときは、被疑者をこれに立ち会わせることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7" OldNum="true" OldStyle="false">
@@ -5081,9 +5257,73 @@
                 <Sentence Num="1" WritingMode="vertical">第一項の規定により、身体の検査を拒んだ者を過料に処し、又はこれに賠償を命ずべきときは、裁判所にその処分を請求しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="8" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">検察官、検察事務官又は司法警察職員は、第二百十八条の規定により電磁的記録提供命令をする場合において、第一項において準用する第百十条の規定による令状の提示のため必要があるときは、裁判官の許可を受けて、人の住居又は人の看守する邸宅、建造物若しくは船舶内に入ることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の許可の請求は、第二百十八条第五項の請求をする際に、検察官、検察事務官又は司法警察員からしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="10" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判官は、第八項の許可をするときは、第二百十八条の令状に立ち入るべき場所を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="11" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">検察官、検察事務官又は司法警察職員が第二百十八条の規定により電磁的記録提供命令をする場合（第八項の許可を受けた場合に限る。）における第一項において準用する第百十条の規定による令状の提示については、次に掲げる処分その他必要な処分をすることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">錠を外すこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">何人に対しても、検察官、検察事務官又は司法警察職員の許可を受けないで令状の提示をする場所に出入りすることを禁止すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">この項（前号に係る部分に限る。）の規定による処分に従わない者について、これを退去させ、又は令状の提示が終わるまでこれに看守者を付すること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="12" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第八項の規定にかかわらず、日出前、日没後には、第二百十八条の令状（第十項の規定により立ち入るべき場所が記載されたものに限る。）に夜間でも令状の提示をすることができる旨の記載がなければ、検察官、検察事務官又は司法警察職員は、同条の規定により電磁的記録提供命令をする場合における第一項において準用する第百十条の規定による令状の提示のため、人の住居又は人の看守する邸宅、建造物若しくは船舶内に入ることができない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第百十七条各号に掲げる場所については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Num="222_2">
             <ArticleTitle>第二百二十二条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">正当な理由がなく、第二百十八条第一項の規定による電磁的記録提供命令又は同条第三項の規定による命令に違反したときは、その違反行為をした者は、一年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、前項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても同項の罰金刑を科する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="222_3">
+            <ArticleTitle>第二百二十二条の三</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
@@ -5892,13 +6132,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官は、公訴の提起後は、訴訟に関する書類及び証拠物を閲覧し、且つ謄写することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検察官は、公訴の提起後は、訴訟に関する書類及び証拠物を閲覧し、及び謄写することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、第百五十七条の六第四項に規定する記録媒体は、謄写することができない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、第百五十七条の六第五項に規定する記録媒体は、謄写することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -6889,7 +7129,7 @@
               <Paragraph Num="6" OldNum="true" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第百五十七条の四、第百五十七条の五並びに第百五十七条の六第一項及び第二項の規定は、第一項の規定による意見の陳述について準用する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第百五十七条の四、第百五十七条の五並びに第百五十七条の六第一項、第二項（第八号に係る部分を除く。）及び第三項の規定は、第一項の規定による意見の陳述について準用する。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="7" OldNum="true" OldStyle="false">
@@ -7420,7 +7660,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">公判準備においてした証人その他の者の尋問、検証、押収及び捜索の結果を記載した書面並びに押収した物については、裁判所は、公判期日において証拠書類又は証拠物としてこれを取り調べなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">公判準備においてした証人その他の者の尋問、検証、押収（電磁的記録提供命令（第百二条の二第一項第一号イに掲げる方法による提供を命ずるものに限る。）を含む。）、捜索及び電磁的記録提供命令（同号ロに掲げる方法による提供を命ずるものに限る。）（当該電磁的記録提供命令により電磁的記録を提供させることを含む。）の結果を記載した書面並びに押収した物及び電磁的記録提供命令（同号ロに掲げる方法による提供を命ずるものに限る。）により提供させた電磁的記録を記録した記録媒体については、裁判所は、公判期日において証拠書類又は証拠物としてこれを取り調べなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -7487,14 +7727,14 @@
               <Paragraph Num="5" OldNum="true" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">第百五十七条の六第四項の規定により記録媒体がその一部とされた調書の取調べについては、第一項又は第二項の規定による朗読に代えて、当該記録媒体を再生するものとする。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">第百五十七条の六第五項の規定により記録媒体がその一部とされた調書の取調べについては、第一項又は第二項の規定による朗読に代えて、当該記録媒体を再生するものとする。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、裁判長は、検察官及び被告人又は弁護人の意見を聴き、相当と認めるときは、当該記録媒体の再生に代えて、当該調書の取調べを請求した者、陪席の裁判官若しくは裁判所書記官に当該調書に記録された供述の内容を告げさせ、又は自らこれを告げることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="6" OldNum="true" OldStyle="false">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">裁判所は、前項の規定により第百五十七条の六第四項に規定する記録媒体を再生する場合において、必要と認めるときは、検察官及び被告人又は弁護人の意見を聴き、第百五十七条の五に規定する措置を採ることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">裁判所は、前項の規定により第百五十七条の六第五項に規定する記録媒体を再生する場合において、必要と認めるときは、検察官及び被告人又は弁護人の意見を聴き、第百五十七条の五に規定する措置を採ることができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -8233,14 +8473,14 @@
                     <Item Num="9">
                       <ItemTitle>九</ItemTitle>
                       <ItemSentence>
-                        <Sentence Num="1" WritingMode="vertical">検察官請求証拠である証拠物の押収手続記録書面（押収手続の記録に関する準則に基づき、検察官、検察事務官又は司法警察職員が職務上作成することを義務付けられている書面であつて、証拠物の押収に関し、その押収者、押収の年月日、押収場所その他の押収の状況を記録したものをいう。次項及び第三項第二号イにおいて同じ。）</Sentence>
+                        <Sentence Num="1" WritingMode="vertical">検察官請求証拠である証拠物の押収手続等記録書面（押収手続又は電磁的記録提供命令（第百二条の二第一項第一号ロに掲げる方法による提供を命ずるものに限る。以下この号において同じ。）により電磁的記録を提供させる手続の記録に関する準則に基づき、検察官、検察事務官又は司法警察職員が職務上作成することを義務付けられている書面であつて、証拠物の押収又は電磁的記録提供命令による電磁的記録の提供に関し、その押収者、押収の年月日、押収場所その他の押収の状況又はその命令をした者、電磁的記録の提供の年月日その他の電磁的記録提供命令による電磁的記録の提供の状況を記録したものをいう。次項及び第三項第二号イにおいて同じ。）</Sentence>
                       </ItemSentence>
                     </Item>
                   </Paragraph>
                   <Paragraph Num="2" OldNum="true" OldStyle="false">
                     <ParagraphNum/>
                     <ParagraphSentence>
-                      <Sentence Num="1" WritingMode="vertical">前項の規定による開示をすべき証拠物の押収手続記録書面（前条第一項又は前項の規定による開示をしたものを除く。）について、被告人又は弁護人から開示の請求があつた場合において、当該証拠物により特定の検察官請求証拠の証明力を判断するために当該開示をすることの必要性の程度並びに当該開示によつて生じるおそれのある弊害の内容及び程度を考慮し、相当と認めるときも、同項と同様とする。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">前項の規定による開示をすべき証拠物の押収手続等記録書面（前条第一項又は前項の規定による開示をしたものを除く。）について、被告人又は弁護人から開示の請求があつた場合において、当該証拠物により特定の検察官請求証拠の証明力を判断するために当該開示をすることの必要性の程度並びに当該開示によつて生じるおそれのある弊害の内容及び程度を考慮し、相当と認めるときも、同項と同様とする。</Sentence>
                     </ParagraphSentence>
                   </Paragraph>
                   <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -8284,7 +8524,7 @@
                       <Subitem1 Num="1">
                         <Subitem1Title>イ</Subitem1Title>
                         <Subitem1Sentence>
-                          <Sentence Num="1" WritingMode="vertical">開示の請求に係る押収手続記録書面を識別するに足りる事項</Sentence>
+                          <Sentence Num="1" WritingMode="vertical">開示の請求に係る押収手続等記録書面を識別するに足りる事項</Sentence>
                         </Subitem1Sentence>
                       </Subitem1>
                       <Subitem1 Num="2">
@@ -9720,6 +9960,16 @@
                 <ParagraphNum/>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">押収した物について、没収の言渡がないときは、押収を解く言渡があつたものとする。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+            </Article>
+            <Article Num="346_2">
+              <ArticleTitle>第三百四十六条の二</ArticleTitle>
+              <Paragraph Num="1">
+                <ParagraphNum/>
+                <ParagraphSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">電磁的記録提供命令（第百二条の二第一項第一号ロに掲げる方法（電磁的記録を記録媒体に移転させるものに限る。）による提供を命ずるものに限る。）により移転させた電磁的記録について、没収の言渡しがないときは、当該電磁的記録の複写を許す言渡しがあつたものとする。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、不正に作られた電磁的記録については、この限りでない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -11578,7 +11828,7 @@
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定は、勾留、保釈、押収又は押収物の還付に関する決定及び鑑定のためにする留置に関する決定については、これを適用しない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定は、勾留、保釈、押収（電磁的記録提供命令（第百二条の二第一項第一号イに掲げる方法による提供を命ずるものに限る。）を含む。）、押収物の還付、電磁的記録提供命令（同号ロに掲げる方法による提供を命ずるものに限る。）又は第百二十三条の二第一項（第五百十三条第十項において読み替えて準用する場合を含む。）の規定による複写に関する決定及び鑑定のためにする留置に関する決定については、これを適用しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -11710,7 +11960,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">勾留、保釈、押収又は押収物の還付に関する裁判</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">勾留、保釈、押収（電磁的記録提供命令（第百二条の二第一項第一号イに掲げる方法による提供を命ずるものに限る。）を含む。）、押収物の還付、電磁的記録提供命令（同号ロに掲げる方法による提供を命ずるものに限る。）又は第百二十三条の二第一項（第五百十三条第十項において読み替えて準用する場合を含む。）の規定による複写に関する裁判</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -11735,7 +11985,7 @@
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第四百二十条第三項の規定は、前項の請求についてこれを準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四百二十条第三項の規定は、前項の請求について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -11768,13 +12018,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官又は検察事務官のした第三十九条第三項の処分又は押収若しくは押収物の還付に関する処分に不服がある者は、その検察官又は検察事務官が所属する検察庁の対応する裁判所にその処分の取消又は変更を請求することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検察官又は検察事務官のした第三十九条第三項の処分又は押収（電磁的記録提供命令（第百二条の二第一項第一号イに掲げる方法による提供を命ずるものに限る。）を含む。）、押収物の還付、電磁的記録提供命令（同号ロに掲げる方法による提供を命ずるものに限る。）、第二百十八条第三項の規定による命令若しくは第二百二十二条第一項若しくは第五百十三条第六項において準用する第百二十三条の二第一項の規定による複写に関する処分に不服がある者は、その検察官又は検察事務官が所属する検察庁の対応する裁判所にその処分の取消し又は変更を請求することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">司法警察職員のした前項の処分に不服がある者は、司法警察職員の職務執行地を管轄する地方裁判所又は簡易裁判所にその処分の取消又は変更を請求することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">司法警察職員のした前項の処分に不服がある者は、司法警察職員の職務執行地を管轄する地方裁判所又は簡易裁判所にその処分の取消し又は変更を請求することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -13963,6 +14213,12 @@
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">不正に作られた電磁的記録については、複写を許してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">不正に作られた電磁的記録に係る記録媒体が公務所に属する場合において、当該電磁的記録に係る記録媒体が押収されていないときは、不正に作られた部分を公務所に通知して相当な処分をさせなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -14000,7 +14256,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前条第一項の規定は第百二十三条第三項の規定による交付又は複写について、前条第二項の規定は第二百二十条第二項及び第二百二十二条第一項において準用する第百二十三条第三項の規定による交付又は複写について、それぞれ準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の規定は第百二十三条第三項の規定による交付又は複写及び第百二十三条の二第一項の規定による複写について、前条第二項の規定は第二百二十条第二項及び第二百二十二条第一項において準用する第百二十三条第三項の規定による交付又は複写並びに第二百二十二条第一項において準用する第百二十三条の二第一項の規定による複写について、それぞれ準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -14169,7 +14425,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官は、裁判の執行に関して必要があると認めるときは、裁判官の発する令状により、差押え、記録命令付差押え、捜索又は検証をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">検察官は、裁判の執行に関して必要があると認めるときは、裁判官の発する令状により、差押え、捜索、電磁的記録提供命令又は検証をすることができる。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、身体の検査は、身体検査令状によらなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -14203,7 +14459,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前条第一項の令状には、裁判の執行を受ける者の氏名、差し押さえるべき物、記録させ若しくは印刷させるべき電磁的記録及びこれを記録させ若しくは印刷させるべき者、捜索すべき場所、身体若しくは物、検証すべき場所若しくは物又は検査すべき身体及び身体の検査に関する条件、有効期間及びその期間経過後は差押え、記録命令付差押え、捜索又は検証に着手することができず令状はこれを返還しなければならない旨並びに発付の年月日その他裁判所の規則で定める事項を記載し、裁判官が、これに記名押印しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の令状には、裁判の執行を受ける者の氏名、差し押さえるべき物、捜索すべき場所、身体若しくは物、提供させるべき電磁的記録、提供させるべき者及び提供の方法、検証すべき場所若しくは物又は検査すべき身体及び身体の検査に関する条件、有効期間及びその期間経過後は差押え、捜索若しくは検証に着手し、又は電磁的記録提供命令をすることができず令状はこれを返還しなければならない旨並びに発付の年月日その他裁判所の規則で定める事項を記載し、裁判官が、これに記名押印しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
@@ -14225,7 +14481,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">裁判所又は裁判官は、裁判の執行に関して必要があると認めるときは、令状を発して、差押え、記録命令付差押え、捜索又は検証をすることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所又は裁判官は、裁判の執行に関して必要があると認めるときは、令状を発して、差押え、捜索又は検証をすることができる。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、身体の検査は、身体検査令状によらなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -14243,6 +14499,21 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="511_2">
+            <ArticleTitle>第五百十一条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所又は裁判官は、裁判の執行に関して必要があると認めるときは、電磁的記録提供命令をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による電磁的記録提供命令は、提供させるべき電磁的記録及び提供の方法を指定してするものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="512">
             <ArticleTitle>第五百十二条</ArticleTitle>
             <Paragraph Num="1">
@@ -14257,14 +14528,14 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第九十九条第一項、第百条、第百二条から第百五条まで、第百十条、第百十条の二前段、第百十一条第一項前段及び第二項、第百十一条の二前段、第百十二条、第百十四条、第百十五条、第百十八条から第百二十条まで、第百二十一条第一項及び第二項、第百二十三条第一項から第三項まで並びに第二百二十二条第六項の規定は、検察官が第五百九条及び前条の規定によつてする押収又は捜索について、第百十条、第百十一条の二前段、第百十二条、第百十四条、第百十八条、第百二十九条、第百三十一条、第百三十七条から第百四十条まで及び第二百二十二条第四項から第七項までの規定は、検察官が第五百九条の規定によつてする検証について、それぞれ準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、第九十九条第一項中「証拠物又は没収すべき物」とあり、及び第百十九条中「証拠物又は没収すべきもの」とあるのは「裁判の執行を受ける者若しくは裁判の執行の対象となるものの所在若しくは状況に関する資料、裁判の執行を受ける者の資産に関する資料、裁判の執行の対象となるもの若しくは裁判の執行を受ける者の財産を管理するために使用されている物又は第四百九十条第二項の規定によりその規定に従うこととされる民事執行法その他強制執行の手続に関する法令の規定により金銭の支払を目的とする債権についての強制執行の目的となる物若しくはそれ以外の物であつて当該強制執行の手続において執行官による取上げの対象となるべきもの」と、第百条第一項、第百二条、第百五条ただし書及び第百三十七条第一項中「被告人」とあり、並びに第二百二十二条第六項中「被疑者」とあるのは「裁判の執行を受ける者」と、第百条第二項並びに第百二十三条第一項及び第三項中「被告事件」とあり、並びに第百条第三項ただし書中「審理」とあるのは「裁判の執行」と、第二百二十二条第七項中「第一項」とあるのは「第五百十三条第一項において読み替えて準用する第百三十七条第一項」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第九十九条第一項、第百条、第百二条、第百三条から第百五条まで、第百十条、第百十条の二前段、第百十一条第一項前段及び第二項、第百十一条の二前段、第百十二条、第百十四条、第百十五条、第百十八条、第百十九条、第百二十条第一項、第百二十一条第一項及び第二項、第百二十三条第一項から第三項まで並びに第二百二十二条第六項の規定は、検察官が第五百九条及び前条の規定によつてする押収又は捜索について、第百十条及び第二百二十二条第八項から第十二項までの規定は、検察官が第五百九条の規定によつてする電磁的記録提供命令（第百二条の二第一項第一号イに掲げる方法による提供を命ずるものに限る。）について、第百十条、第百十一条の二前段、第百十二条、第百十四条、第百十八条、第百二十九条、第百三十一条、第百三十七条から第百四十条まで及び第二百二十二条第四項から第七項までの規定は、検察官が第五百九条の規定によつてする検証について、それぞれ準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第九十九条第一項中「証拠物又は没収すべき物」とあり、及び第百十九条中「証拠物又は没収すべきもの」とあるのは「裁判の執行を受ける者若しくは裁判の執行の対象となるものの所在若しくは状況に関する資料、裁判の執行を受ける者の資産に関する資料、裁判の執行の対象となるもの若しくは裁判の執行を受ける者の財産を管理するために使用されている物又は第四百九十条第二項の規定によりその規定に従うこととされる民事執行法その他強制執行の手続に関する法令の規定により金銭の支払を目的とする債権についての強制執行の目的となる物若しくはそれ以外の物であつて当該強制執行の手続において執行官による取上げの対象となるべきもの」と、第百条第一項、第百二条、第百五条ただし書及び第百三十七条第一項中「被告人」とあり、並びに第二百二十二条第六項中「被疑者」とあるのは「裁判の執行を受ける者」と、第百条第二項並びに第百二十三条第一項及び第三項中「被告事件」とあり、並びに第百条第三項ただし書中「審理」とあるのは「裁判の執行」と、第二百二十二条第七項中「第一項」とあるのは「第五百十三条第一項において読み替えて準用する第百三十七条第一項」と、同条第八項、第十一項及び第十二項中「第一項」とあるのは「第五百十三条第一項」と、同条第九項中「第二百十八条第五項」とあるのは「第五百九条第三項」と、同条第十項及び第十二項中「第二百十八条」とあるのは「第五百九条」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百十六条及び第百十七条の規定は、検察官が第五百九条の規定によつてする差押え、記録命令付差押え又は捜索について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百十六条及び第百十七条の規定は、検察官が第五百九条の規定によつてする差押え又は捜索について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3" OldNum="true" OldStyle="false">
@@ -14289,39 +14560,68 @@
             <Paragraph Num="6" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第九十九条第一項、第百条、第百二条から第百五条まで、第百八条第一項から第三項まで、第百九条、第百十条、第百十条の二前段、第百十一条第一項前段及び第二項、第百十一条の二前段、第百十二条、第百十三条第三項、第百十四条、第百十五条、第百十八条から第百二十一条まで、第百二十三条第一項から第三項まで並びに第百二十五条の規定は、裁判所又は裁判官が前二条の規定によつてする押収又は捜索について、第百八条第一項から第三項まで、第百九条、第百十条、第百十一条の二前段、第百十二条、第百十三条第三項、第百十四条、第百十八条、第百二十五条第一項から第三項まで及び第四項本文、第百二十九条、第百三十一条、第百三十七条から第百四十条まで並びに第二百二十二条第四項及び第五項の規定は、裁判所又は裁判官が第五百十一条の規定によつてする検証について、それぞれ準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、第九十九条第一項中「証拠物又は没収すべき物」とあり、及び第百十九条中「証拠物又は没収すべきもの」とあるのは「裁判の執行を受ける者若しくは裁判の執行の対象となるものの所在若しくは状況に関する資料又は裁判の執行の対象となるものを管理するために使用されている物」と、第百条第一項、第百二条、第百五条ただし書、第百八条第一項ただし書、第百十三条第三項及び第百三十七条第一項中「被告人」とあるのは「裁判の執行を受ける者」と、第百条第二項並びに第百二十三条第一項及び第三項中「被告事件」とあり、並びに第百条第三項ただし書中「審理」とあるのは「裁判の執行」と、第百二十五条第四項ただし書中「裁判所」とあるのは「裁判所又は第五百十三条第六項において準用する第一項の規定による嘱託をした裁判官」と、第二百二十二条第四項中「検察官、検察事務官又は司法警察職員」とあるのは「検証状を執行する者」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百五条の二、第百十条、第百十一条第三項、第百二十条第二項及び第三項、第百二十三条の二第一項並びに第二百二十二条第八項から第十二項までの規定は、検察官が第五百九条の規定によつてする電磁的記録提供命令（第百二条の二第一項第一号ロに掲げる方法による提供を命ずるものに限る。）（当該電磁的記録提供命令により電磁的記録を提供させることを含む。）について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第百五条の二において読み替えて準用する第百五条ただし書中「被告人」とあるのは「裁判の執行を受ける者」と、第百二十三条の二第一項中「被告事件」とあるのは「裁判の執行」と、第二百二十二条第八項、第十一項及び第十二項中「第一項」とあるのは「第五百十三条第六項」と、同条第九項中「第二百十八条第五項」とあるのは「第五百九条第三項」と、同条第十項及び第十二項中「第二百十八条」とあるのは「第五百九条」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第百十六条及び第百十七条の規定は、裁判所又は裁判官が第五百十一条の規定によつてする差押え、記録命令付差押え又は捜索について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第九十九条第一項、第百条、第百二条、第百三条から第百五条まで、第百八条第一項から第三項まで、第百九条、第百十条、第百十条の二前段、第百十一条第一項前段及び第二項、第百十一条の二前段、第百十二条、第百十三条第三項、第百十四条、第百十五条、第百十八条、第百十九条、第百二十条第一項、第百二十一条、第百二十三条第一項から第三項まで並びに第百二十五条の規定は、裁判所又は裁判官が前三条の規定によつてする押収（電磁的記録提供命令（第百二条の二第一項第一号イに掲げる方法による提供を命ずるものに限る。）を含む。）又は捜索について、第百八条第一項から第三項まで、第百九条、第百十条、第百十一条の二前段、第百十二条、第百十三条第三項、第百十四条、第百十八条、第百二十五条第一項から第三項まで及び第四項本文、第百二十九条、第百三十一条、第百三十七条から第百四十条まで並びに第二百二十二条第四項及び第五項の規定は、裁判所又は裁判官が第五百十一条の規定によつてする検証について、それぞれ準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第九十九条第一項中「証拠物又は没収すべき物」とあり、及び第百十九条中「証拠物又は没収すべきもの」とあるのは「裁判の執行を受ける者若しくは裁判の執行の対象となるものの所在若しくは状況に関する資料又は裁判の執行の対象となるものを管理するために使用されている物」と、第百条第一項、第百二条、第百五条ただし書、第百八条第一項ただし書、第百十三条第三項及び第百三十七条第一項中「被告人」とあるのは「裁判の執行を受ける者」と、第百条第二項並びに第百二十三条第一項及び第三項中「被告事件」とあり、並びに第百条第三項ただし書中「審理」とあるのは「裁判の執行」と、第百二十五条第四項ただし書中「裁判所」とあるのは「裁判所又は第五百十三条第七項において準用する第一項の規定による嘱託をした裁判官」と、第二百二十二条第四項中「検察官、検察事務官又は司法警察職員」とあるのは「検証状を執行する者」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第七十一条の規定は、第五百十一条第一項の令状の執行について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百十六条及び第百十七条の規定は、裁判所又は裁判官が第五百十一条の規定によつてする差押え又は捜索について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="9" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第四百九十九条第一項、第三項及び第四項の規定は、第一項及び第六項において読み替えて準用する第百二十三条第一項の規定による押収物の還付について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、第四百九十九条第三項中「前二項」とあるのは、「第五百十三条第九項において準用する第一項」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第七十一条の規定は、第五百十一条第一項の令状の執行について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="10" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第四百九十九条第一項の規定は、第一項及び第六項において読み替えて準用する第百二十三条第三項の規定による交付又は複写について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第百五条の二、第百十一条第三項、第百二十条第二項及び第三項、第百二十三条の二第一項並びに第百二十五条第一項から第三項まで及び第四項本文の規定は、裁判所又は裁判官が第五百十一条の二の規定によつてする電磁的記録提供命令（第百二条の二第一項第一号ロに掲げる方法による提供を命ずるものに限る。）（当該電磁的記録提供命令により電磁的記録を提供させることを含む。）について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第百五条の二において読み替えて準用する第百五条ただし書中「被告人」とあるのは「裁判の執行を受ける者」と、第百二十三条の二第一項中「被告事件」とあるのは「裁判の執行」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="11" OldNum="true" OldStyle="false">
               <ParagraphNum/>
               <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第四百九十九条第一項、第三項及び第四項の規定は、第一項及び第七項において読み替えて準用する第百二十三条第一項の規定による押収物の還付について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第四百九十九条第三項中「前二項」とあるのは、「第五百十三条第十一項において準用する第一項」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="12" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第四百九十九条第一項の規定は、第一項及び第七項において読み替えて準用する第百二十三条第三項の規定による交付又は複写並びに第六項及び第十項において読み替えて準用する第百二十三条の二第一項の規定による複写について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="13" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前項において準用する第四百九十九条第一項の規定による公告をした日から六箇月以内に前項の交付又は複写の請求がないときは、その交付をし、又は複写をさせることを要しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="513_2">
+            <ArticleTitle>第五百十三条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">正当な理由がなく、第五百九条第一項又は第五百十一条の二第一項の規定による電磁的記録提供命令に違反したときは、その違反行為をした者は、一年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2" OldNum="true" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、前項の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても同項の罰金刑を科する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -15883,6 +16183,16 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="124">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="125">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第百二十五条</ArticleTitle>
@@ -16429,14 +16739,30 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-                <Column Num="1">
-              <Sentence Num="1" WritingMode="vertical">第一条の規定（前号に掲げる改正規定を除く。）、第五条中少年法第六条の五及び第十五条の改正規定、第九条中日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う刑事特別法第十三条の改正規定、第十二条中日本国における国際連合の軍隊に対する刑事裁判権の行使に関する議定書の実施に伴う刑事特別法第五条の改正規定、第十四条中日本国における国際連合の軍隊の地位に関する協定の実施に伴う刑事特別法第五条の改正規定、第十八条中国際捜査共助等に関する法律第八条第二項及び第十二条の改正規定、第二十一条の規定、第二十二条中不正競争防止法第二十六条第二項の改正規定（「記載した書面」」を「記載し、又は記録した書面又は電磁的記録」」に、「証拠書類」」を「証拠書類（電磁的記録を含む。）」」に改める部分を除く。）、同法第三十三条の改正規定及び同条の次に一条を加える改正規定、第二十三条中組織的犯罪処罰法第十八条の二の次に二条を加える改正規定、組織的犯罪処罰法第二十条の改正規定、組織的犯罪処罰法第三十条の次に二条を加える改正規定並びに組織的犯罪処罰法第三十一条第一項及び第七十一条第一項第七号の改正規定、第二十六条中国際受刑者移送法第二十一条の改正規定（「第四百八十七条」を「第四百八十七条第一項」に改める部分を除く。）、第二十七条中心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律（次条第一項及び附則第十八条第一項において「医療観察法」という。）第二十四条第三項及び第四項の改正規定、第二十八条中裁判員の参加する刑事裁判に関する法律第六十五条第二項の改正規定並びに第三十四条中性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律目次及び第八条第一項第二号の改正規定、同法第四章第二節に一条を加える改正規定、同法第十二条の改正規定、同条の次に一条を加える改正規定、同法第十三条の改正規定、同法第十七条の見出し並びに同条第一項、第二項及び第五項の改正規定、同法第十八条の見出しを削り、同条の前に見出しを付し、同条の次に一条を加える改正規定、同法第十九条の改正規定、同法第二十条の見出し並びに同条第一項及び第二項の改正規定、同法第四章第四節に二条を加える改正規定並びに同法第二十六条第一項第一号、第四十条第一項第三号及び第四十四条第一号の改正規定並びに次条並びに附則第十五条及び第二十九条の規定、附則第三十五条中刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律（令和四年法律第六十八号）第四百九十一条第七項の改正規定（「及び第九項から第十一項まで並びに第五百十四条」を「、第六項及び第十一項から第十三項まで並びに第五百十三条の二」に改める部分に限る。）、附則第三十八条中財務省設置法（平成十一年法律第九十五号）第二十七条第二項ただし書の改正規定並びに附則第四十条の規定</Sentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定（前号に掲げる改正規定を除く。）、第五条中少年法第六条の五及び第十五条の改正規定、第九条中日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う刑事特別法第十三条の改正規定、第十二条中日本国における国際連合の軍隊に対する刑事裁判権の行使に関する議定書の実施に伴う刑事特別法第五条の改正規定、第十四条中日本国における国際連合の軍隊の地位に関する協定の実施に伴う刑事特別法第五条の改正規定、第十八条中国際捜査共助等に関する法律第八条第二項及び第十二条の改正規定、第二十一条の規定、第二十二条中不正競争防止法第二十六条第二項の改正規定（「記載した書面」」を「記載し、又は記録した書面又は電磁的記録」」に、「証拠書類」」を「証拠書類（電磁的記録を含む。）」」に改める部分を除く。）、同法第三十三条の改正規定及び同条の次に一条を加える改正規定、第二十三条中組織的犯罪処罰法第十八条の二の次に二条を加える改正規定、組織的犯罪処罰法第二十条の改正規定、組織的犯罪処罰法第三十条の次に二条を加える改正規定並びに組織的犯罪処罰法第三十一条第一項及び第七十一条第一項第七号の改正規定、第二十六条中国際受刑者移送法第二十一条の改正規定（「第四百八十七条」を「第四百八十七条第一項」に改める部分を除く。）、第二十七条中心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律（次条第一項及び附則第十八条第一項において「医療観察法」という。）第二十四条第三項及び第四項の改正規定、第二十八条中裁判員の参加する刑事裁判に関する法律第六十五条第二項の改正規定並びに第三十四条中性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律目次及び第八条第一項第二号の改正規定、同法第四章第二節に一条を加える改正規定、同法第十二条の改正規定、同条の次に一条を加える改正規定、同法第十三条の改正規定、同法第十七条の見出し並びに同条第一項、第二項及び第五項の改正規定、同法第十八条の見出しを削り、同条の前に見出しを付し、同条の次に一条を加える改正規定、同法第十九条の改正規定、同法第二十条の見出し並びに同条第一項及び第二項の改正規定、同法第四章第四節に二条を加える改正規定並びに同法第二十六条第一項第一号、第四十条第一項第三号及び第四十四条第一号の改正規定並びに次条並びに附則第十五条及び第二十九条の規定、附則第三十五条中刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律（令和四年法律第六十八号）第四百九十一条第七項の改正規定（「及び第九項から第十一項まで並びに第五百十四条」を「、第六項及び第十一項から第十三項まで並びに第五百十三条の二」に改める部分に限る。）、附則第三十八条中財務省設置法（平成十一年法律第九十五号）第二十七条第二項ただし書の改正規定並びに附則第四十条の規定</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（記録命令付差押えに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第三号に掲げる規定の施行の日（次項及び附則第十五条において「第三号施行日」という。）前に第一条の規定（同号に掲げる改正規定に限る。）による改正前の刑事訴訟法（以下この条において「第三号改正前刑事訴訟法」という。）、第五条の規定（同号に掲げる改正規定に限る。）による改正前の少年法（同項において「第三号改正前少年法」という。）、第十八条の規定（同号に掲げる改正規定に限る。）による改正前の国際捜査共助等に関する法律（同項において「第三号改正前国際捜査共助法」という。）、第二十三条の規定（同号に掲げる改正規定に限る。）による改正前の組織的犯罪処罰法（同項において「第三号改正前組織的犯罪処罰法」という。）又は第二十七条の規定（同号に掲げる改正規定に限る。）による改正前の医療観察法（同項において「第三号改正前医療観察法」という。）の規定により記録命令付差押え（第三号改正前刑事訴訟法第九十九条の二に規定する記録命令付差押えをいう。以下この条において同じ。）に係る命令がされた場合における当該記録命令付差押えについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、第三号施行日前に第三号改正前刑事訴訟法、第三号改正前少年法、第三号改正前国際捜査共助法、第三号改正前組織的犯罪処罰法又は第三号改正前医療観察法の規定により記録命令付差押えに係る令状が発せられた場合における当該記録命令付差押えについては、なお従前の例による。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="3">
@@ -16478,6 +16804,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleCaption>（電磁的記録提供命令等における留意事項）</ArticleCaption>
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">電磁的記録提供命令（第一条の規定による改正後の刑事訴訟法第百二条の二第一項に規定する電磁的記録提供命令をいう。）により電磁的記録を提供させ、又は電磁的記録に係る記録媒体を押収するに当たっては、デジタル社会において個人情報の保護がより重要となっていることに鑑み、できる限り被告事件又は被疑事件と関連性を有しない個人情報を取得することとならないよう、特に留意しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
