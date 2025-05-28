@@ -15,8 +15,12 @@
         <ArticleRange>（第二十六条―第三十九条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="3_2">
-        <ChapterTitle>第三章の二　認定高度保安実施者</ChapterTitle>
-        <ArticleRange>（第三十九条の二―第三十九条の十六）</ArticleRange>
+        <ChapterTitle>第三章の二　完成検査及び保安検査に係る認定</ChapterTitle>
+        <ArticleRange>（第三十九条の二―第三十九条の十二）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3_3">
+        <ChapterTitle>第三章の三　認定高度保安実施者</ChapterTitle>
+        <ArticleRange>（第三十九条の十三―第三十九条の二十七）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="4">
         <ChapterTitle>第四章　容器等</ChapterTitle>
@@ -368,7 +372,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">製造（製造に係る貯蔵及び導管による輸送を含む。以下この条、次条、第十一条、第十四条第一項、第二十条第一項から第三項まで、第二十条の二、第二十条の三、第二十一条第一項、第二十七条の二第四項、第二十七条の三第一項、第二十七条の四第一項、第三十二条第十項、第三十五条第一項、第三十五条の二、第三十六条第一項、第三十八条第一項、第三十九条第一号及び第二号、第三十九条の四第一項第一号及び第二項、第三十九条の九第一項第四号、第三十九条の十一第一項、第六十条第一項、第八十条第二号及び第三号並びに第八十一条第二号において同じ。）のための施設の位置、構造及び設備が経済産業省令で定める技術上の基準に適合するものであること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">製造（製造に係る貯蔵及び導管による輸送を含む。以下この条、次条、第十一条、第十四条第一項、第二十条第一項から第三項まで、第二十条の二、第二十条の三、第二十一条第一項、第二十七条の二第四項、第二十七条の三第一項、第二十七条の四第一項、第三十二条第十項、第三十五条第一項、第三十五条の二、第三十六条第一項、第三十八条第一項、第三十九条第一号及び第二号、第三十九条の六、第三十九条の十一第一項、第三十九条の十二第一項第四号、第三十九条の十五第一項第一号及び第二項、第三十九条の二十第一項第四号、第三十九条の二十二第一項、第六十条第一項、第八十条第二号及び第三号並びに第八十一条第二号において同じ。）のための施設の位置、構造及び設備が経済産業省令で定める技術上の基準に適合するものであること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -642,20 +646,32 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一種製造者からその製造のための施設の全部又は一部の引渡しを受け、第五条第一項の許可を受けた者は、その第一種製造者が当該製造のための施設につき既に完成検査を受け、第八条第一号の技術上の基準に適合していると認められ、又は次項ただし書の規定による検査の記録の届出をした場合にあつては、当該施設を使用することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一種製造者からその製造のための施設の全部又は一部の引渡しを受け、第五条第一項の許可を受けた者は、その第一種製造者が当該製造のための施設につき既に完成検査を受け、第八条第一号の技術上の基準に適合していると認められ、又は次項第二号の規定による検査の記録の届出をした場合にあつては、当該施設を使用することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">第十四条第一項又は前条第一項の許可を受けた者は、高圧ガスの製造のための施設又は第一種貯蔵所の位置、構造若しくは設備の変更の工事（経済産業省令で定めるものを除く。第三十九条の十一第一項において「特定変更工事」という。）を完成したときは、製造のための施設又は第一種貯蔵所につき、都道府県知事が行う完成検査を受け、これらが第八条第一号又は第十六条第二項の技術上の基準に適合していると認められた後でなければ、これを使用してはならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、高圧ガスの製造のための施設又は第一種貯蔵所につき、経済産業省令で定めるところにより協会又は指定完成検査機関が行う完成検査を受け、これらが第八条第一号又は第十六条第二項の技術上の基準に適合していると認められ、その旨を都道府県知事に届け出た場合は、この限りでない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第十四条第一項又は前条第一項の許可を受けた者は、高圧ガスの製造のための施設又は第一種貯蔵所の位置、構造若しくは設備の変更の工事（経済産業省令で定めるものを除く。以下「特定変更工事」という。）を完成したときは、製造のための施設又は第一種貯蔵所につき、都道府県知事が行う完成検査を受け、これらが第八条第一号又は第十六条第二項の技術上の基準に適合していると認められた後でなければ、これを使用してはならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げる場合は、この限りでない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">高圧ガスの製造のための施設又は第一種貯蔵所につき、経済産業省令で定めるところにより協会又は指定完成検査機関が行う完成検査を受け、これらが第八条第一号又は第十六条第二項の技術上の基準に適合していると認められ、その旨を都道府県知事に届け出た場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">自ら特定変更工事に係る完成検査を行うことができる者として経済産業大臣の認定を受けている者（以下「認定完成検査実施者」という。）が、第三十九条の十一第一項の規定により検査の記録を都道府県知事に届け出た場合</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">協会又は指定完成検査機関は、第一項ただし書又は前項ただし書の完成検査を行つたときは、遅滞なく、その結果を都道府県知事に報告しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">協会又は指定完成検査機関は、第一項ただし書又は前項第一号の完成検査を行つたときは、遅滞なく、その結果を都道府県知事に報告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -1412,9 +1428,21 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">第一種製造者は、高圧ガスの爆発その他災害が発生するおそれがある製造のための施設（経済産業省令で定めるものに限る。この項、次項及び第三十九条の十六第一項において「特定施設」という。）について、経済産業省令で定めるところにより、定期に、都道府県知事が行う保安検査を受けなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、特定施設のうち経済産業省令で定めるものについて、経済産業省令で定めるところにより協会又は経済産業大臣の指定する者（以下「指定保安検査機関」という。）が行う保安検査を受け、その旨を都道府県知事に届け出た場合は、この限りでない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一種製造者は、高圧ガスの爆発その他災害が発生するおそれがある製造のための施設（経済産業省令で定めるものに限る。以下「特定施設」という。）について、経済産業省令で定めるところにより、定期に、都道府県知事が行う保安検査を受けなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げる場合は、この限りでない。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定施設のうち経済産業省令で定めるものについて、経済産業省令で定めるところにより協会又は経済産業大臣の指定する者（以下「指定保安検査機関」という。）が行う保安検査を受け、その旨を都道府県知事に届け出た場合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">自ら特定施設に係る保安検査を行うことができる者として経済産業大臣の認定を受けている者（以下「認定保安検査実施者」という。）が、その認定に係る特定施設について、第三十九条の十一第二項の規定により検査の記録を都道府県知事に届け出た場合</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -1425,7 +1453,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">協会又は指定保安検査機関は、第一項ただし書の保安検査を行つたときは、遅滞なく、その結果を都道府県知事に報告しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">協会又は指定保安検査機関は、第一項第一号の保安検査を行つたときは、遅滞なく、その結果を都道府県知事に報告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -1501,7 +1529,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十条第一項若しくは第三項の完成検査を受けず、又は第三十九条の十一第一項の完成検査を行わないで、高圧ガスの製造のための施設又は第一種貯蔵所を使用したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十条第一項若しくは第三項の完成検査を受けず、又は第三十九条の二十二第一項の完成検査を行わないで、高圧ガスの製造のための施設又は第一種貯蔵所を使用したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
@@ -1572,10 +1600,354 @@
         </Article>
       </Chapter>
       <Chapter Num="3_2">
-        <ChapterTitle>第三章の二　認定高度保安実施者</ChapterTitle>
+        <ChapterTitle>第三章の二　完成検査及び保安検査に係る認定</ChapterTitle>
         <Article Num="39_2">
-          <ArticleCaption>（認定）</ArticleCaption>
+          <ArticleCaption>（完成検査に係る認定）</ArticleCaption>
           <ArticleTitle>第三十九条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十条第三項第二号の認定は、経済産業省令で定めるところにより、第五条第一項の事業所又は第一種貯蔵所ごとに、第一種製造者又は第一種貯蔵所の所有者若しくは占有者であつて、特定変更工事（経済産業省令で定めるものに限る。以下この章において同じ。）に係る完成検査を自ら行おうとする者の申請により行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の申請は、自ら完成検査を行う特定変更工事を明らかにして行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_3">
+          <ArticleCaption>（完成検査に係る認定の基準等）</ArticleCaption>
+          <ArticleTitle>第三十九条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前条第一項の申請が次の各号のいずれにも該当すると認めるときでなければ、その認定をしてはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定変更工事に係る完成検査のための組織が経済産業省令で定める基準に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定変更工事に係る完成検査の方法を定める規程（以下「完成検査規程」という。）を作成し、その完成検査の方法が第二十条第五項の経済産業省令で定める方法に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業省令で定める条件に適合する知識経験を有する者が特定変更工事に係る完成検査を実施し、その数が経済産業省令で定める数以上であること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前条第一項の規定により申請した者は、特定変更工事に係る完成検査のための組織及び完成検査の方法について、経済産業大臣が行う検査を受けなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同項の申請に第三十九条の七第二項の書面を添えたときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_4">
+          <ArticleCaption>（保安検査に係る認定）</ArticleCaption>
+          <ArticleTitle>第三十九条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十五条第一項第二号の認定は、経済産業省令で定めるところにより、第五条第一項の事業所ごとに、第一種製造者であつて、特定施設（経済産業省令で定めるものに限る。以下この章において同じ。）に係る保安検査を自ら行おうとする者の申請により行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の申請は、自ら保安検査を行う特定施設を明らかにして行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_5">
+          <ArticleCaption>（保安検査に係る認定の基準等）</ArticleCaption>
+          <ArticleTitle>第三十九条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前条第一項の申請が次の各号のいずれにも該当すると認めるときでなければ、その認定をしてはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定施設に係る保安検査のための組織が経済産業省令で定める基準に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定施設に係る保安検査の方法を定める規程（以下「保安検査規程」という。）を作成し、その保安検査の方法が第三十五条第四項の経済産業省令で定める方法に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業省令で定める条件に適合する知識経験を有する者が特定施設に係る保安検査を実施し、その数が経済産業省令で定める数以上であること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前条第一項の規定により申請した者は、特定施設に係る保安検査のための組織及び保安検査の方法について、経済産業大臣が行う検査を受けなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同項の申請に第三十九条の七第四項の書面を添えたときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_6">
+          <ArticleCaption>（欠格条項）</ArticleCaption>
+          <ArticleTitle>第三十九条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号の一に該当する者は、第二十条第三項第二号及び第三十五条第一項第二号の認定を受けることができない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">高圧ガスの製造を開始した日から二年を経過しない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第一種製造者であつて、当該事業所において高圧ガスによる災害が発生した日から二年を経過しないもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第一種貯蔵所の所有者又は占有者であつて、当該第一種貯蔵所において高圧ガスによる災害が発生した日から二年を経過しないもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律又はこの法律に基づく命令の規定に違反し、罰金以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から二年を経過しない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の十二第一項の規定により第二十条第三項第二号又は第三十五条第一項第二号の認定を取り消され、その取消しの日から二年を経過しない者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">法人であつて、その業務を行う役員のうちに前二号の一に該当する者があるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一種製造者からその製造のための施設の全部又は一部の引渡しを受け、第五条第一項の許可を受けた者については、その第一種製造者が当該施設に係る第二十一条第一項の規定による高圧ガスの製造の開始の届出をした日から二年を経過したときは、前項第一号の規定は適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_7">
+          <ArticleCaption>（協会等による調査）</ArticleCaption>
+          <ArticleTitle>第三十九条の七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一種製造者又は第一種貯蔵所の所有者若しくは占有者は、第二十条第三項第二号の認定の申請に係る第五条第一項の事業所又は第一種貯蔵所における完成検査のための組織及び完成検査の方法について、協会又は経済産業大臣の指定する者の行う調査を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">協会又は前項の指定を受けた者は、同項の調査をした第五条第一項の事業所又は第一種貯蔵所における完成検査のための組織及び完成検査の方法が第三十九条の三第一項第一号の経済産業省令で定める基準及び第二十条第五項の経済産業省令で定める方法に適合すると認めるときは、その旨を示す書面を交付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一種製造者は、第三十五条第一項第二号の認定の申請に係る第五条第一項の事業所における保安検査のための組織及び保安検査の方法について、協会又は経済産業大臣の指定する者の行う調査を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">協会又は前項の指定を受けた者は、同項の調査をした第五条第一項の事業所における保安検査のための組織及び保安検査の方法が第三十九条の五第一項第一号の経済産業省令で定める基準及び第三十五条第四項の経済産業省令で定める方法に適合すると認めるときは、その旨を示す書面を交付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_8">
+          <ArticleCaption>（認定の更新）</ArticleCaption>
+          <ArticleTitle>第三十九条の八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十条第三項第二号及び第三十五条第一項第二号の認定は、五年以上十年以内において政令で定める期間ごとにその更新を受けなければ、その期間の経過によつて、その効力を失う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十九条の二、第三十九条の三並びに前条第一項及び第二項の規定は、第二十条第三項第二号の認定の更新に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十九条の四、第三十九条の五並びに前条第三項及び第四項の規定は、第三十五条第一項第二号の認定の更新に準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_9">
+          <ArticleCaption>（変更の届出）</ArticleCaption>
+          <ArticleTitle>第三十九条の九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定完成検査実施者は、完成検査のための組織又は完成検査の方法に変更があつたときは、遅滞なく、その旨を経済産業大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定保安検査実施者は、保安検査のための組織又は保安検査の方法に変更があつたときは、遅滞なく、その旨を経済産業大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_10">
+          <ArticleCaption>（認定を受けた者の義務）</ArticleCaption>
+          <ArticleTitle>第三十九条の十</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定完成検査実施者は、その認定を受けた特定変更工事に係る完成検査を行うときは、完成検査規程に従い、かつ、第三十九条の三第一項第三号の経済産業省令で定める条件に適合する知識経験を有する者に実施させなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定完成検査実施者は、経済産業省令で定める事項を記載した検査記録を作成し、これを保存し、経済産業大臣からその検査記録の提出を求められたときは、速やかにそれを提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定は、認定保安検査実施者に準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第一項中「特定変更工事に係る完成検査」とあるのは「特定施設に係る保安検査」と、「完成検査規程」とあるのは「保安検査規程」と、「第三十九条の三第一項第三号」とあるのは「第三十九条の五第一項第三号」と読み替えるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_11">
+          <ArticleCaption>（検査の記録の届出）</ArticleCaption>
+          <ArticleTitle>第三十九条の十一</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定完成検査実施者は、第二十条第五項の経済産業省令で定める方法により、認定を受けた特定変更工事に係る完成検査を行い、製造のための施設又は第一種貯蔵所が第八条第一号又は第十六条第二項の技術上の基準に適合していることを確認したときは、都道府県知事に経済産業省令で定める事項を記載した検査の記録を届け出ることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定保安検査実施者は、第三十五条第四項の経済産業省令で定める方法により、認定を受けた特定施設に係る保安検査を行い、製造のための施設が第八条第一号の技術上の基準に適合していることを確認したときは、都道府県知事に経済産業省令で定める事項を記載した検査の記録を届け出ることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_12">
+          <ArticleCaption>（認定の取消し等）</ArticleCaption>
+          <ArticleTitle>第三十九条の十二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、認定完成検査実施者又は認定保安検査実施者が次の各号のいずれかに該当するときは、第二十条第三項第二号又は第三十五条第一項第二号の認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">認定を受けている第五条第一項の事業所又は第一種貯蔵所において高圧ガスによる災害が発生したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">認定を受けている第五条第一項の事業所又は第一種貯蔵所において発火その他高圧ガスによる災害の発生のおそれのある事故が発生したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十六条第一項の経済産業省令で定める災害の発生の防止のための応急の措置を講じず、又は同条第二項の規定による届出を行わなかつたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十八条第一項の規定により都道府県知事による高圧ガスの製造又は貯蔵の停止の命令を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県知事により第三十九条第一号又は第二号の措置をされたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の三第一項各号又は第三十九条の五第一項各号のいずれかに該当していないと認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項又は第二項の規定による届出の際に、虚偽の届出を行つたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣が第三十九条の十第二項（同条第三項において準用する場合を含む。）の規定により検査記録の提出を求めた場合において、その求めに応じなかつたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の六第一項第四号又は第六号に該当するに至つたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正の手段により第二十条第三項第二号若しくは第三十五条第一項第二号の認定又はその更新を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第三十八条第一項の規定により第五条第一項又は第十六条第一項の許可が取り消されたときは、許可を取り消された第五条第一項の事業所又は第一種貯蔵所に係る第二十条第三項第二号及び第三十五条第一項第二号の認定は、その効力を失う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">認定完成検査実施者又は認定保安検査実施者が次条の認定を受けたときは、当該認定完成検査実施者に係る第二十条第三項第二号の認定又は当該認定保安検査実施者に係る第三十五条第一項第二号の認定は、その効力を失う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3_3">
+        <ChapterTitle>第三章の三　認定高度保安実施者</ChapterTitle>
+        <Article Num="39_13">
+          <ArticleCaption>（認定）</ArticleCaption>
+          <ArticleTitle>第三十九条の十三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1583,9 +1955,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_3">
+        <Article Num="39_14">
           <ArticleCaption>（認定の基準等）</ArticleCaption>
-          <ArticleTitle>第三十九条の三</ArticleTitle>
+          <ArticleTitle>第三十九条の十四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1608,13 +1980,13 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Function="main" Num="1" WritingMode="vertical">認定の申請をした者は、保安の確保のための組織及び保安の確保の方法について、経済産業大臣が行う検査を受けなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三十九条の五第一項に規定する協会又は経済産業大臣の指定する者による調査を受けた場合には、当該調査を受けた事項については当該検査を受けることを要しない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三十九条の十六第一項に規定する協会又は経済産業大臣の指定する者による調査を受けた場合には、当該調査を受けた事項については当該検査を受けることを要しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_4">
+        <Article Num="39_15">
           <ArticleCaption>（欠格条項）</ArticleCaption>
-          <ArticleTitle>第三十九条の四</ArticleTitle>
+          <ArticleTitle>第三十九条の十五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1641,7 +2013,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条の九第一項の規定により認定を取り消され、その取消しの日から二年を経過しない者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の二十第一項の規定により認定を取り消され、その取消しの日から二年を経過しない者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -1658,13 +2030,13 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_5">
+        <Article Num="39_16">
           <ArticleCaption>（協会等の調査）</ArticleCaption>
-          <ArticleTitle>第三十九条の五</ArticleTitle>
+          <ArticleTitle>第三十九条の十六</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第三十九条の三第二項の検査を行う場合において、専門技術的事項の確認を行う必要があると認めるときは、その範囲を定めて、協会又は同項ただし書の指定を受けた者に、当該申請が同条第一項各号の経済産業省令で定める基準に適合しているかどうかについて、意見を聴取し、又は調査を依頼することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第三十九条の十四第二項の検査を行う場合において、専門技術的事項の確認を行う必要があると認めるときは、その範囲を定めて、協会又は同項ただし書の指定を受けた者に、当該申請が同条第一項各号の経済産業省令で定める基準に適合しているかどうかについて、意見を聴取し、又は調査を依頼することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1674,9 +2046,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_6">
+        <Article Num="39_17">
           <ArticleCaption>（認定の更新）</ArticleCaption>
-          <ArticleTitle>第三十九条の六</ArticleTitle>
+          <ArticleTitle>第三十九条の十七</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1686,14 +2058,14 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第三十九条の二、第三十九条の三及び前条の規定は、前項の認定の更新に準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、第三十九条の三第二項中「ついて、」とあるのは、「ついて、経済産業大臣から検査が必要である旨の通知を受けたときは、」と読み替えるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三十九条の十三、第三十九条の十四及び前条の規定は、前項の認定の更新に準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第三十九条の十四第二項中「ついて、」とあるのは、「ついて、経済産業大臣から検査が必要である旨の通知を受けたときは、」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_7">
+        <Article Num="39_18">
           <ArticleCaption>（変更の届出）</ArticleCaption>
-          <ArticleTitle>第三十九条の七</ArticleTitle>
+          <ArticleTitle>第三十九条の十八</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1701,9 +2073,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_8">
+        <Article Num="39_19">
           <ArticleCaption>（承継）</ArticleCaption>
-          <ArticleTitle>第三十九条の八</ArticleTitle>
+          <ArticleTitle>第三十九条の十九</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1719,7 +2091,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条の四第一項第三号から第五号までのいずれかに該当するとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の十五第一項第三号から第五号までのいずれかに該当するとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1730,9 +2102,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_9">
+        <Article Num="39_20">
           <ArticleCaption>（認定の取消し等）</ArticleCaption>
-          <ArticleTitle>第三十九条の九</ArticleTitle>
+          <ArticleTitle>第三十九条の二十</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1771,13 +2143,13 @@
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条の三第一項各号のいずれかに該当していないと認められるとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の十四第一項各号のいずれかに該当していないと認められるとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条の四第一項第三号又は第五号に該当するに至つたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の十五第一項第三号又は第五号に該当するに至つたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
@@ -1794,9 +2166,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_10">
+        <Article Num="39_21">
           <ArticleCaption>（製造のための施設等の変更の特例）</ArticleCaption>
-          <ArticleTitle>第三十九条の十</ArticleTitle>
+          <ArticleTitle>第三十九条の二十一</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1818,9 +2190,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_11">
+        <Article Num="39_22">
           <ArticleCaption>（完成検査の特例）</ArticleCaption>
-          <ArticleTitle>第三十九条の十一</ArticleTitle>
+          <ArticleTitle>第三十九条の二十二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1835,9 +2207,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_12">
+        <Article Num="39_23">
           <ArticleCaption>（危害予防規程に係る特例）</ArticleCaption>
-          <ArticleTitle>第三十九条の十二</ArticleTitle>
+          <ArticleTitle>第三十九条の二十三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1846,9 +2218,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_13">
+        <Article Num="39_24">
           <ArticleCaption>（保安統括者、保安技術管理者及び保安係員に係る特例）</ArticleCaption>
-          <ArticleTitle>第三十九条の十三</ArticleTitle>
+          <ArticleTitle>第三十九条の二十四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1863,9 +2235,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_14">
+        <Article Num="39_25">
           <ArticleCaption>（保安主任者及び保安企画推進員に係る特例）</ArticleCaption>
-          <ArticleTitle>第三十九条の十四</ArticleTitle>
+          <ArticleTitle>第三十九条の二十五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1880,9 +2252,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_15">
+        <Article Num="39_26">
           <ArticleCaption>（冷凍保安責任者に係る特例）</ArticleCaption>
-          <ArticleTitle>第三十九条の十五</ArticleTitle>
+          <ArticleTitle>第三十九条の二十六</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1891,9 +2263,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="39_16">
+        <Article Num="39_27">
           <ArticleCaption>（保安検査等の特例）</ArticleCaption>
-          <ArticleTitle>第三十九条の十六</ArticleTitle>
+          <ArticleTitle>第三十九条の二十七</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -4725,14 +5097,14 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十五条第一項ただし書の指定は、経済産業省令で定めるところにより、経済産業省令で定める区分に従い、他人の求めに応じて保安検査を行おうとする者の申請により行う。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十五条第一項第一号の指定は、経済産業省令で定めるところにより、経済産業省令で定める区分に従い、他人の求めに応じて保安検査を行おうとする者の申請により行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第五十八条の十九から第五十八条の二十四まで及び第五十八条の二十七から第五十八条の三十までの規定は、指定保安検査機関に準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、第五十八条の十九、第五十八条の二十、第五十八条の二十の二及び第五十八条の三十中「第二十条第一項ただし書」とあるのは「第三十五条第一項ただし書」と、第五十八条の十九第二号中「第二十六条第二項」とあるのは「第二十六条第四項」と、第五十八条の二十、第五十八条の二十一から第五十八条の二十四まで、第五十八条の二十八及び第五十八条の三十中「完成検査」とあるのは「保安検査」と、同条中「第二十条第四項」とあるのは「第三十五条第三項」と読み替えるものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第五十八条の十九、第五十八条の二十、第五十八条の二十の二及び第五十八条の三十中「第二十条第一項ただし書」とあるのは「第三十五条第一項第一号」と、第五十八条の十九第二号中「第二十六条第二項」とあるのは「第二十六条第四項」と、第五十八条の二十、第五十八条の二十一から第五十八条の二十四まで、第五十八条の二十八及び第五十八条の三十中「完成検査」とあるのは「保安検査」と、同条中「第二十条第四項」とあるのは「第三十五条第三項」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4805,7 +5177,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条の三第二項ただし書、第四十九条の八第一項又は第五十六条の六の五第一項の指定は、経済産業省令で定めるところにより、第三十九条の五第一項、第四十九条の八第一項又は第五十六条の六の五第一項の調査（以下「検査組織等調査」と総称する。）ごとに、それぞれ経済産業省令で定める区分に従い、その調査を行おうとする者の申請により行う。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の七第一項若しくは第三項、第三十九条の十四第二項ただし書、第四十九条の八第一項又は第五十六条の六の五第一項の指定は、経済産業省令で定めるところにより、第三十九条の七第一項若しくは第三項、第三十九条の十六第一項、第四十九条の八第一項又は第五十六条の六の五第一項の調査（以下「検査組織等調査」と総称する。）ごとに、それぞれ経済産業省令で定める区分に従い、その調査を行おうとする者の申請により行う。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4815,7 +5187,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第三十九条の三第二項ただし書、第四十九条の八第一項又は第五十六条の六の五第一項の指定の申請が次の各号のいずれにも適合していると認めるときでなければ、その指定をしてはならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第三十九条の七第一項若しくは第三項、第三十九条の十四第二項ただし書、第四十九条の八第一項又は第五十六条の六の五第一項の指定の申請が次の各号のいずれにも適合していると認めるときでなければ、その指定をしてはならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -4855,8 +5227,8 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十八条の十九、第五十八条の二十の二から第五十八条の二十四まで及び第五十八条の二十七から第五十八条の三十までの規定は、第三十九条の三第二項ただし書、第四十九条の八第一項又は第五十六条の六の五第一項の規定による指定を受けて検査組織等調査を行う者（以下「検査組織等調査機関」という。）に準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、第五十八条の十九、第五十八条の二十の二及び第五十八条の三十中「第二十条第一項ただし書」とあるのは「第三十九条の三第二項ただし書、第四十九条の八第一項又は第五十六条の六の五第一項」と、第五十八条の二十一の見出し、第五十八条の二十三、第五十八条の二十四、第五十八条の二十八及び第五十八条の三十中「完成検査の」とあるのは「検査組織等調査の」と、第五十八条の二十一、第五十八条の二十二及び第五十八条の三十中「完成検査を」とあるのは「検査組織等調査を」と、第五十八条の二十一中「第五十八条の二十第一号に規定する機械器具その他の設備を使用し、かつ、同条第二号」とあるのは「第五十八条の三十五第一号」と、第五十八条の二十七中「第五十八条の二十第二号」とあるのは「第五十八条の三十五第一号」と、第五十八条の二十九中「第五十八条の二十第一号から第五号」とあるのは「第五十八条の三十五第一号から第四号」と、第五十八条の三十中「第二十条第四項」とあるのは「第四十九条の八第二項若しくは第五十六条の六の五第二項」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十八条の十九、第五十八条の二十の二から第五十八条の二十四まで及び第五十八条の二十七から第五十八条の三十までの規定は、第三十九条の七第一項若しくは第三項、第三十九条の十四第二項ただし書、第四十九条の八第一項又は第五十六条の六の五第一項の規定による指定を受けて検査組織等調査を行う者（以下「検査組織等調査機関」という。）に準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第五十八条の十九、第五十八条の二十の二及び第五十八条の三十中「第二十条第一項ただし書」とあるのは「第三十九条の七第一項若しくは第三項、第三十九条の十四第二項ただし書、第四十九条の八第一項又は第五十六条の六の五第一項」と、第五十八条の二十一の見出し、第五十八条の二十三、第五十八条の二十四、第五十八条の二十八及び第五十八条の三十中「完成検査の」とあるのは「検査組織等調査の」と、第五十八条の二十一、第五十八条の二十二及び第五十八条の三十中「完成検査を」とあるのは「検査組織等調査を」と、第五十八条の二十一中「第五十八条の二十第一号に規定する機械器具その他の設備を使用し、かつ、同条第二号」とあるのは「第五十八条の三十五第一号」と、第五十八条の二十七中「第五十八条の二十第二号」とあるのは「第五十八条の三十五第一号」と、第五十八条の二十九中「第五十八条の二十第一号から第五号」とあるのは「第五十八条の三十五第一号から第四号」と、第五十八条の三十中「第二十条第四項」とあるのは「第三十九条の七第二項、同条第四項、第四十九条の八第二項若しくは第五十六条の六の五第二項」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -5040,7 +5412,7 @@
               <Item Num="1_3">
                 <ItemTitle>一の三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第三十五条第一項ただし書の指定保安検査機関</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十五条第一項第一号の指定保安検査機関</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="1_4">
@@ -5447,13 +5819,13 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第二十条第一項ただし書若しくは第三項ただし書の完成検査、第二十二条第一項第一号の輸入検査、第三十五条第一項ただし書の保安検査、第四十四条第一項の容器検査、第四十九条第一項の容器再検査、第四十九条の二第一項の附属品検査、第四十九条の四第一項の附属品再検査、第四十九条の二十三第一項の試験若しくは第五十六条の三第一項から第三項までの特定設備検査又は液化石油ガス法第三十七条の三第一項ただし書（液化石油ガス法第三十七条の四第四項において準用する場合を含む。）の完成検査若しくは液化石油ガス法第三十七条の六第一項ただし書の保安検査（以下「保安検査等」という。）その他高圧ガスの保安に関し必要な検査を行うこと。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十条第一項ただし書若しくは同条第三項第一号の完成検査、第二十二条第一項第一号の輸入検査、第三十五条第一項第一号の保安検査、第四十四条第一項の容器検査、第四十九条第一項の容器再検査、第四十九条の二第一項の附属品検査、第四十九条の四第一項の附属品再検査、第四十九条の二十三第一項の試験若しくは第五十六条の三第一項から第三項までの特定設備検査又は液化石油ガス法第三十七条の三第一項ただし書（液化石油ガス法第三十七条の四第四項において準用する場合を含む。）の完成検査若しくは液化石油ガス法第三十七条の六第一項ただし書の保安検査（以下「保安検査等」という。）その他高圧ガスの保安に関し必要な検査を行うこと。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4_2">
                 <ItemTitle>四の二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第三十九条の五第一項（第三十九条の六第二項において準用する場合を含む。）、第四十九条の八第一項（第四十九条の九第二項及び第四十九条の三十一第二項において準用する場合を含む。）又は第五十六条の六の五第一項（第五十六条の六の六第二項及び第五十六条の六の二十二第二項において準用する場合を含む。）の調査を行うこと。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十九条の七第一項（第三十九条の八第二項において準用する場合を含む。）、第三十九条の七第三項（第三十九条の八第三項において準用する場合を含む。）、第三十九条の十六第一項（第三十九条の十七第二項において準用する場合を含む。）、第四十九条の八第一項（第四十九条の九第二項及び第四十九条の三十一第二項において準用する場合を含む。）又は第五十六条の六の五第一項（第五十六条の六の六第二項及び第五十六条の六の二十二第二項において準用する場合を含む。）の調査を行うこと。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4_2_2">
@@ -5880,113 +6252,125 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">製造保安責任者試験を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十条第三項第二号の認定又はその更新を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">製造保安責任者免状の交付を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">製造保安責任者試験を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">製造保安責任者免状の再交付を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">製造保安責任者免状の交付を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条の二の認定又はその更新を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">製造保安責任者免状の再交付を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">容器検査又は容器再検査を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十五条第一項第二号の認定又はその更新を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第四十九条の五第一項若しくは第四十九条の三十一第一項の登録又はその更新を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の十三の認定又はその更新を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第四十九条の十五（第四十九条の三十一第二項において準用する場合を含む。）の登録証の再交付を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">容器検査又は容器再検査を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">容器等製造業者登録簿、外国容器等製造業者登録簿、特定設備製造業者登録簿又は外国特定設備製造業者登録簿（以下この条において「容器等製造業者登録簿等」という。）の謄本の交付を請求しようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四十九条の五第一項若しくは第四十九条の三十一第一項の登録又はその更新を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">容器等製造業者登録簿等の閲覧を請求しようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四十九条の十五（第四十九条の三十一第二項において準用する場合を含む。）の登録証の再交付を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第四十九条の二十一第一項又は第四十九条の三十三第一項の承認を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">容器等製造業者登録簿、外国容器等製造業者登録簿、特定設備製造業者登録簿又は外国特定設備製造業者登録簿（以下この条において「容器等製造業者登録簿等」という。）の謄本の交付を請求しようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="11">
               <ItemTitle>十一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">容器検査所の登録又はその更新を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">容器等製造業者登録簿等の閲覧を請求しようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="12">
               <ItemTitle>十二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十四条第二項の規定による刻印等を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四十九条の二十一第一項又は第四十九条の三十三第一項の承認を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="13">
               <ItemTitle>十三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">附属品検査又は附属品再検査を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">容器検査所の登録又はその更新を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="14">
               <ItemTitle>十四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">特定設備検査を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十四条第二項の規定による刻印等を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="15">
               <ItemTitle>十五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十六条の六の二第一項若しくは第五十六条の六の二十二第一項の登録又はその更新を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">附属品検査又は附属品再検査を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="16">
               <ItemTitle>十六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十六条の六の十二（第五十六条の六の二十二第二項において準用する場合を含む。）の登録証の再交付を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定設備検査を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="17">
               <ItemTitle>十七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">特定設備基準適合証の交付を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十六条の六の二第一項若しくは第五十六条の六の二十二第一項の登録又はその更新を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="18">
               <ItemTitle>十八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">指定設備の認定を受けようとする者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十六条の六の十二（第五十六条の六の二十二第二項において準用する場合を含む。）の登録証の再交付を受けようとする者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="19">
               <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定設備基準適合証の交付を受けようとする者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="20">
+              <ItemTitle>二十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">指定設備の認定を受けようとする者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="21">
+              <ItemTitle>二十一</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">特定設備検査合格証、特定設備基準適合証又は指定設備認定証の再交付を受けようとする者</Sentence>
               </ItemSentence>
@@ -5995,7 +6379,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の手数料は、第三十九条の二の認定又はその更新を受けようとする者、経済産業大臣又は産業保安監督部長が行う製造保安責任者試験を受けようとする者、経済産業大臣又は産業保安監督部長が行う製造保安責任者免状の交付又は再交付を受けようとする者及び経済産業大臣若しくは産業保安監督部長が行う容器検査、容器再検査、附属品検査、附属品再検査、特定設備検査、指定設備の認定若しくは容器検査所の登録若しくは第四十九条の五第一項、第四十九条の三十一第一項、第五十六条の六の二第一項若しくは第五十六条の六の二十二第一項の登録若しくはそれらの更新を受けようとする者、第四十九条の十五（第四十九条の三十一第二項において準用する場合を含む。）若しくは第五十六条の六の十二（第五十六条の六の二十二第二項において準用する場合を含む。）の登録証の再交付を受けようとする者、経済産業大臣若しくは産業保安監督部長に対し容器等製造業者登録簿等の謄本の交付若しくは容器等製造業者登録簿等の閲覧を請求しようとする者、第四十九条の二十一第一項若しくは第四十九条の三十三第一項の承認を受けようとする者、特定設備検査合格証若しくは指定設備認定証の再交付を受けようとする者又は特定設備基準適合証の交付若しくは再交付を受けようとする者並びに経済産業大臣又は産業保安監督部長が行う第五十四条第二項の規定による刻印等を受けようとする者の納付するものについては国庫の、協会がその試験事務の全部を行う製造保安責任者試験を受けようとする者の納付するものについては協会の、指定試験機関がその試験事務の全部を行う製造保安責任者試験を受けようとする者の納付するものについては当該指定試験機関の収入とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の手数料は、第二十条第三項第二号、第三十五条第一項第二号若しくは第三十九条の十三の認定又はその更新を受けようとする者、経済産業大臣又は産業保安監督部長が行う製造保安責任者試験を受けようとする者、経済産業大臣又は産業保安監督部長が行う製造保安責任者免状の交付又は再交付を受けようとする者及び経済産業大臣若しくは産業保安監督部長が行う容器検査、容器再検査、附属品検査、附属品再検査、特定設備検査、指定設備の認定若しくは容器検査所の登録若しくは第四十九条の五第一項、第四十九条の三十一第一項、第五十六条の六の二第一項若しくは第五十六条の六の二十二第一項の登録若しくはそれらの更新を受けようとする者、第四十九条の十五（第四十九条の三十一第二項において準用する場合を含む。）若しくは第五十六条の六の十二（第五十六条の六の二十二第二項において準用する場合を含む。）の登録証の再交付を受けようとする者、経済産業大臣若しくは産業保安監督部長に対し容器等製造業者登録簿等の謄本の交付若しくは容器等製造業者登録簿等の閲覧を請求しようとする者、第四十九条の二十一第一項若しくは第四十九条の三十三第一項の承認を受けようとする者、特定設備検査合格証若しくは指定設備認定証の再交付を受けようとする者又は特定設備基準適合証の交付若しくは再交付を受けようとする者並びに経済産業大臣又は産業保安監督部長が行う第五十四条第二項の規定による刻印等を受けようとする者の納付するものについては国庫の、協会がその試験事務の全部を行う製造保安責任者試験を受けようとする者の納付するものについては協会の、指定試験機関がその試験事務の全部を行う製造保安責任者試験を受けようとする者の納付するものについては当該指定試験機関の収入とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6047,19 +6431,19 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十条第一項ただし書、第二十二条第一項、第三十一条第三項、第三十一条の二第一項、第三十五条第一項ただし書、第三十九条の三第二項ただし書、第四十四条第一項、第四十九条の八第一項、第五十六条の三第一項、第五十六条の六の五第一項又は第五十六条の七第一項の指定をしたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十条第一項ただし書、第二十二条第一項、第三十一条第三項、第三十一条の二第一項、第三十五条第一項ただし書、第三十九条の七第一項若しくは第三項、第三十九条の十四第二項ただし書、第四十四条第一項、第四十九条の八第一項、第五十六条の三第一項、第五十六条の六の五第一項又は第五十六条の七第一項の指定をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="1_2">
               <ItemTitle>一の二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条の二の認定をしたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十条第三項第二号、第三十五条第一項第二号又は第三十九条の十三の認定をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="1_3">
               <ItemTitle>一の三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条の九第一項の規定により認定を取り消したとき、又は同条第二項の規定により認定が効力を失つたことを確認したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の十二第一項若しくは第三十九条の二十第一項の規定により認定を取り消したとき、又は第三十九条の十二第二項若しくは第三項若しくは第三十九条の二十第二項の規定により認定が効力を失つたことを確認したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -6263,7 +6647,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二章及び第三章（第二十九条第三項、第二十九条の二第一項、第三十条、第三十一条第二項並びに第三十一条の二第一項及び第三項を除く。）並びに第三十九条の十第一項、第三十九条の十二、第四十九条の三十（第四十九条の三十三第二項において準用する場合を含む。）、第四十九条の三十五、第五十六条の四第三項（第五十六条の六の十四第四項及び第五十六条の八第三項において準用する場合を含む。）、第六十一条第一項、第六十二条第一項、第六十三条、第六十四条、第六十五条第一項及び第七十四条の規定により都道府県知事が処理することとされている事務（公共の安全の維持又は災害の発生の防止の観点から都道府県知事が当該都道府県の区域にわたり一体的に処理することが指定都市の長が処理することに比して適当であるものとして政令で定めるものを除く。）は、指定都市においては、指定都市の長が処理するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二章及び第三章（第二十九条第三項、第二十九条の二第一項、第三十条、第三十一条第二項並びに第三十一条の二第一項及び第三項を除く。）並びに第三十九条の十一、第三十九条の二十一第一項、第三十九条の二十三、第四十九条の三十（第四十九条の三十三第二項において準用する場合を含む。）、第四十九条の三十五、第五十六条の四第三項（第五十六条の六の十四第四項及び第五十六条の八第三項において準用する場合を含む。）、第六十一条第一項、第六十二条第一項、第六十三条、第六十四条、第六十五条第一項及び第七十四条の規定により都道府県知事が処理することとされている事務（公共の安全の維持又は災害の発生の防止の観点から都道府県知事が当該都道府県の区域にわたり一体的に処理することが指定都市の長が処理することに比して適当であるものとして政令で定めるものを除く。）は、指定都市においては、指定都市の長が処理するものとする。</Sentence>
               <Sentence Num="2" WritingMode="vertical">この場合においては、この法律中前段に規定する事務に係る都道府県知事に関する規定は、指定都市の長に関する規定として指定都市の長に適用があるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -6494,7 +6878,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十条第二項、第十四条第二項、第十七条第二項、第十九条第二項、第二十条の七、第二十一条、第二十四条の四、第二十六条第一項、第二十七条の二第五項（第二十七条の四第二項、第二十八条第三項及び第三十三条第三項において準用する場合を含む。）、第二十七条の二第六項（第二十七条の三第三項において準用する場合を含む。）、第三十九条の七、第三十九条の八第二項、第三十九条の十第一項、第四十九条の十二、第四十九条の十四、第五十二条第二項、第五十六条の二、第五十六条の六の九、第五十六条の六の十一又は第六十三条第一項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十条第二項、第十四条第二項、第十七条第二項、第十九条第二項、第二十条の七、第二十一条、第二十四条の四、第二十六条第一項、第二十七条の二第五項（第二十七条の四第二項、第二十八条第三項及び第三十三条第三項において準用する場合を含む。）、第二十七条の二第六項（第二十七条の三第三項において準用する場合を含む。）、第三十九条の九第一項若しくは第二項、第三十九条の十八、第三十九条の十九第二項、第三十九条の二十一第一項、第四十九条の十二、第四十九条の十四、第五十二条第二項、第五十六条の二、第五十六条の六の九、第五十六条の六の十一又は第六十三条第一項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -6554,19 +6938,25 @@
             <Item Num="4_2">
               <ItemTitle>四の二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十五条の二、第三十九条の十一第二項又は第三十九条の十六第一項の規定による検査記録を作成せず、虚偽の検査記録を作成し、又は検査記録を保存しなかつたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十五条の二、第三十九条の二十二第二項又は第三十九条の二十七第一項の規定による検査記録を作成せず、虚偽の検査記録を作成し、又は検査記録を保存しなかつたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4_2_2">
               <ItemTitle>四の二の二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条の十第二項若しくは第三項、第三十九条の十三第二項、第三十九条の十四第二項又は第三十九条の十五の規定に違反して記録を作成せず、虚偽の記録を作成し、又は記録を保存しなかつたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の十第二項（同条第三項において準用する場合を含む。）の規定に違反して検査記録を作成せず、虚偽の検査記録を作成し、検査記録を保存せず、又は検査記録の提出を拒んだとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4_2_3">
               <ItemTitle>四の二の三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十九条の十二の規定に違反して危害予防規程を保存せず、又は危害予防規程の提出を拒んだとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の二十一第二項若しくは第三項、第三十九条の二十四第二項、第三十九条の二十五第二項又は第三十九条の二十六の規定に違反して記録を作成せず、虚偽の記録を作成し、又は記録を保存しなかつたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4_2_4">
+              <ItemTitle>四の二の四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の二十三の規定に違反して危害予防規程を保存せず、又は危害予防規程の提出を拒んだとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4_3">
@@ -8555,37 +8945,6 @@
               </Column>
             </ItemSentence>
           </Item>
-        </Paragraph>
-      </Article>
-      <Article Num="2">
-        <ArticleCaption>（高圧ガス保安法の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前条第四号に掲げる規定の施行の日（以下「第四号施行日」という。）前にされた第二条の規定による改正前の高圧ガス保安法（以下「旧高圧ガス保安法」という。）第三十九条の二第一項の認定の申請又は旧高圧ガス保安法第三十九条の八第一項の認定の更新の申請であって、同号に掲げる規定の施行の際、認定又は認定の更新をするかどうかの処分がされていないものについてのこれらの処分については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第四号施行日において現に旧高圧ガス保安法第二十条第三項第二号の認定又は旧高圧ガス保安法第三十九条の八第一項の認定の更新を受けている同号に規定する認定完成検査実施者（第四号施行日以後に前項の規定に基づきなお従前の例によることとされる同号の認定又は同条第一項の認定の更新を受ける者を含む。）に関する認定の有効期間、変更の届出、認定を受けた者の義務、検査の記録の届出、認定の取消し及び認定の失効については、第四号施行日から起算して三年六月を経過する日までの間は、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="3">
-        <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第四号施行日前にされた旧高圧ガス保安法第三十九条の四第一項の認定の申請又は旧高圧ガス保安法第三十九条の八第一項の認定の更新の申請であって、附則第一条第四号に掲げる規定の施行の際、認定又は認定の更新をするかどうかの処分がされていないものについてのこれらの処分については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第四号施行日において現に旧高圧ガス保安法第三十五条第一項第二号の認定又は旧高圧ガス保安法第三十九条の八第一項の認定の更新を受けている同号に規定する認定保安検査実施者（第四号施行日以後に前項の規定に基づきなお従前の例によることとされる同号の認定又は同条第一項の認定の更新を受ける者を含む。）に関する認定の有効期間、変更の届出、認定を受けた者の義務、検査の記録の届出、認定の取消し及び認定の失効については、第四号施行日から起算して三年六月を経過する日までの間は、なお従前の例による。</Sentence>
-          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="6">
