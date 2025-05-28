@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Reiwa" Lang="ja" LawType="Act" Num="053" Year="02" PromulgateMonth="06" PromulgateDay="12"><LawNum>令和二年法律第五十三号</LawNum><LawBody><LawTitle Kana="ちょうかくしょうがいしゃとうによるでんわのりようのえんかつかにかんするほうりつ" Abbrev="" AbbrevKana="">聴覚障害者等による電話の利用の円滑化に関する法律</LawTitle>
+<Law Lang="ja" Era="Reiwa" Year="02" Num="053" PromulgateMonth="06" PromulgateDay="12" LawType="Act"><LawNum>令和二年法律第五十三号</LawNum><LawBody><LawTitle Kana="ちょうかくしょうがいしゃとうによるでんわのりようのえんかつかにかんするほうりつ" Abbrev="" AbbrevKana="">聴覚障害者等による電話の利用の円滑化に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -100,7 +100,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">国は、聴覚障害者等、地方公共団体、電話提供事業者（電話の役務を提供する電気通信事業者（電気通信事業法（昭和五十九年法律第八十六号）第二条第五号に規定する電気通信事業者をいう。）であって、同法第五十条の二第一項又は第五十条の十一の指定を受けた者をいう。第五条及び次章第二節において同じ。）その他の関係者と協力して、第七条第一項に規定する基本方針及びこれに基づく聴覚障害者等による電話の利用の円滑化のための施策の内容について、聴覚障害者等による電話の利用の円滑化の進展の状況等を勘案しつつ、適時に、かつ、適切な方法により検討を加え、その結果に基づいて必要な措置を講ずるよう努めなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">国は、聴覚障害者等、地方公共団体、電話提供事業者（電話の役務を提供する電気通信事業者（電気通信事業法（昭和五十九年法律第八十六号）第二条第五号に規定する電気通信事業者をいう。）であって、同法第五十条の二第一項又は第五十条の十二の指定を受けた者をいう。第五条及び次章第二節において同じ。）その他の関係者と協力して、第七条第一項に規定する基本方針及びこれに基づく聴覚障害者等による電話の利用の円滑化のための施策の内容について、聴覚障害者等による電話の利用の円滑化の進展の状況等を勘案しつつ、適時に、かつ、適切な方法により検討を加え、その結果に基づいて必要な措置を講ずるよう努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -870,6 +870,19 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
