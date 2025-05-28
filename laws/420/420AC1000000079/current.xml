@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="079" Year="20" PromulgateMonth="06" PromulgateDay="18">
-  <LawNum>平成二十年法律第七十九号</LawNum>
-  <LawBody>
-    <LawTitle Kana="せいしょうねんがあんぜんにあんしんしていんたーねっとをりようできるかんきょうのせいびとうにかんするほうりつ" Abbrev="青少年インターネット環境整備法" AbbrevKana="せ">青少年が安全に安心してインターネットを利用できる環境の整備等に関する法律</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="20" Num="079" PromulgateMonth="06" PromulgateDay="18" LawType="Act"><LawNum>平成二十年法律第七十九号</LawNum><LawBody><LawTitle Kana="せいしょうねんがあんぜんにあんしんしていんたーねっとをりようできるかんきょうのせいびとうにかんするほうりつ" Abbrev="青少年インターネット環境整備法" AbbrevKana="せ">青少年が安全に安心してインターネットを利用できる環境の整備等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -113,7 +110,7 @@
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「携帯電話インターネット接続役務」とは、専ら携帯電話端末等（その一端が携帯電話端末又はＰＨＳ端末と接続されるための伝送路設備に接続される移動端末設備（電気通信事業法第十二条の二第四項第二号ロに規定する移動端末設備をいう。）であって、インターネットを利用して公衆の閲覧に供されている情報をその利用者の選択に応じ閲覧することができるものをいう。以下同じ。）からのインターネットへの接続を可能とする電気通信役務であって青少年がこれを利用して青少年有害情報の閲覧をする可能性が高いものとして政令で定めるものをいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「携帯電話インターネット接続役務」とは、専ら携帯電話端末等（その一端が携帯電話端末又はＰＨＳ端末と接続されるための伝送路設備に接続される移動端末設備（電気通信事業法第十二条の二第四項第三号ロに規定する移動端末設備をいう。）であって、インターネットを利用して公衆の閲覧に供されている情報をその利用者の選択に応じ閲覧することができるものをいう。以下同じ。）からのインターネットへの接続を可能とする電気通信役務であって青少年がこれを利用して青少年有害情報の閲覧をする可能性が高いものとして政令で定めるものをいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8">
@@ -920,6 +917,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">次条の規定による改正前の子ども・若者育成支援推進法第二十六条に規定する本部が前条の規定による改正前の青少年が安全に安心してインターネットを利用できる環境の整備等に関する法律第八条第一項の規定により作成した同項の基本計画は、この法律の施行後は、会議が前条の規定による改正後の青少年が安全に安心してインターネットを利用できる環境の整備等に関する法律第八条第一項の規定により作成した同項の基本計画とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
