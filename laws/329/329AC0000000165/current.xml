@@ -1200,7 +1200,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">地方協力本部においては、地方における渉外及び広報、自衛官及び自衛官候補生の募集その他防衛大臣の定める事務を行う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地方協力本部においては、地方における渉外及び広報、自衛官の募集その他防衛大臣の定める事務を行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1521,7 +1521,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">自衛官、自衛官候補生、予備自衛官、即応予備自衛官、予備自衛官補、学生（防衛省設置法第十五条第一項又は第十六条第一項（第三号を除く。）の教育訓練を受けている者をいう。第九十八条第一項及び第九十九条の二第一項を除き、以下同じ。）、生徒その他その勤務の性質上制服を必要とする隊員の服制は、防衛省令で定める。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">自衛官、予備自衛官、即応予備自衛官、予備自衛官補、学生（防衛省設置法第十五条第一項又は第十六条第一項（第三号を除く。）の教育訓練を受けている者をいう。第九十八条第一項及び第九十九条の二第一項を除き、以下同じ。）、生徒その他その勤務の性質上制服を必要とする隊員の服制は、防衛省令で定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1596,43 +1596,25 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">自衛官候補生は、その修了後引き続いて前項の規定に基づき任用される自衛官として必要な知識及び技能を修得させるための教育訓練を受けるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定は、陸士長等、海士長等又は空士長等で、志願に基づき陸曹候補者、海曹候補者又は空曹候補者の指定を受けた者のうち防衛大臣の定めるものについては、適用しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">自衛官候補生の任用期間は、三月を基準として前項に規定する教育訓練に要する期間を勘案して防衛省令で定めるものとし、自衛官候補生から引き続いて第一項の自衛官に任用された者の当該自衛官としての任用期間は、同項の規定にかかわらず、同項に規定する期間からその者の自衛官候補生としての任用期間に相当する期間を減じた期間とする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第一項の任用期間の起算日は、同項の自衛官に任用された日とする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、三等陸曹、三等海曹又は三等空曹以上の階級から降任された場合にあつては降任の日、前項に規定する陸曹候補者、海曹候補者又は空曹候補者の指定を受けた者のうち防衛大臣の定めるものがその指定を取り消された場合にあつては当該指定を取り消された日とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">自衛官候補生の員数は、防衛省の職員の定員外とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="5">
-              <ParagraphNum>５</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前各項の規定は、陸士長等、海士長等又は空士長等で、志願に基づき陸曹候補者、海曹候補者又は空曹候補者の指定を受けた者のうち防衛大臣の定めるものについては、適用しない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="6">
-              <ParagraphNum>６</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">第一項の任用期間の起算日は、同項の自衛官に任用された日とする。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、三等陸曹、三等海曹又は三等空曹以上の階級から降任された場合にあつては降任の日、前項に規定する陸曹候補者、海曹候補者又は空曹候補者の指定を受けた者のうち防衛大臣の定めるものがその指定を取り消された場合にあつては当該指定を取り消された日とする。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="7">
-              <ParagraphNum>７</ParagraphNum>
-              <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">防衛大臣は、陸士長等、海士長等又は空士長等の任用期間が満了した場合において、当該陸士長等、海士長等又は空士長等が志願をしたときは、引き続き二年を任用期間としてこれを任用することができる。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合における任用期間の起算日は、引き続いて任用された日とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
-            <Paragraph Num="8">
-              <ParagraphNum>８</ParagraphNum>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">防衛大臣は、任用期間を定めて任用されている陸士長等、海士長等又は空士長等が任用期間が満了したことにより退職することが自衛隊の任務の遂行に重大な支障を及ぼすと認める場合には、当該陸士長等、海士長等又は空士長等が第七十六条第一項の規定による防衛出動を命ぜられている場合にあつては一年以内、その他の場合にあつては六月以内の期間を限つて、任用期間を延長することができる。</Sentence>
               </ParagraphSentence>
@@ -2602,7 +2584,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">自衛官、自衛官候補生、学生及び生徒は、防衛大臣の定めるところに従い、制服を着用し、服装を常に端正に保たなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">自衛官、学生及び生徒は、防衛大臣の定めるところに従い、制服を着用し、服装を常に端正に保たなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -5202,13 +5184,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県知事及び市町村長は、政令で定めるところにより、自衛官及び自衛官候補生の募集に関する事務の一部を行う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事及び市町村長は、政令で定めるところにより、自衛官の募集に関する事務の一部を行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">防衛大臣は、警察庁及び都道府県警察に対し、自衛官及び自衛官候補生の募集に関する事務の一部について協力を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、警察庁及び都道府県警察に対し、自衛官の募集に関する事務の一部について協力を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -5700,7 +5682,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">自衛隊と海上保安庁、地方航空局、航空交通管制部、気象官署、国土地理院、旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第三項に規定する会社、日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第一条の二第二項に規定する東日本電信電話株式会社及び同条第三項に規定する西日本電信電話株式会社（以下この条において「海上保安庁等」という。）は、相互に常に緊密な連絡を保たなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">自衛隊と海上保安庁、地方航空局、航空交通管制部、気象官署、国土地理院、旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第三項に規定する会社、日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第二条第二項に規定する東日本電信電話株式会社及び同条第三項に規定する西日本電信電話株式会社（以下この条において「海上保安庁等」という。）は、相互に常に緊密な連絡を保たなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -7266,7 +7248,7 @@
       <Paragraph Num="5">
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">第百一条の規定の適用については、当分の間、同条第一項中「旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第三項に規定する会社」とあるのは「旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第三項に規定する会社、旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律の一部を改正する法律（平成十三年法律第六十一号）附則第二条第一項に規定する新会社、旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律の一部を改正する法律（平成二十七年法律第三十六号）附則第二条第一項に規定する新会社」と、「及び同条第三項に規定する西日本電信電話株式会社」とあるのは「、同条第三項に規定する西日本電信電話株式会社及び日本電信電話株式会社法の一部を改正する法律（平成九年法律第九十八号。以下この項において「改正法」という。）による改正前の日本電信電話株式会社法（昭和五十九年法律第八十五号）第一条第二項の規定により日本電信電話株式会社等に関する法律第一条の二第一項に規定する日本電信電話株式会社が営んでいた国内電気通信業務のうち改正法附則第二条第二項の規定により国が引き継がせるものとされた業務を改正法附則第七条の定めるところにより承継して営んでいる法人（当該法人が合併により消滅したときは、当該合併後存続する法人又は当該合併により設立した法人）」とする。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">第百一条の規定の適用については、当分の間、同条第一項中「旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第三項に規定する会社」とあるのは「旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第三項に規定する会社、旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律の一部を改正する法律（平成十三年法律第六十一号）附則第二条第一項に規定する新会社、旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律の一部を改正する法律（平成二十七年法律第三十六号）附則第二条第一項に規定する新会社」と、「及び同条第三項に規定する西日本電信電話株式会社」とあるのは「、同条第三項に規定する西日本電信電話株式会社及び日本電信電話株式会社法の一部を改正する法律（平成九年法律第九十八号。以下この項において「改正法」という。）による改正前の日本電信電話株式会社法（昭和五十九年法律第八十五号）第一条第二項の規定により日本電信電話株式会社等に関する法律第二条第一項に規定する日本電信電話株式会社が営んでいた国内電気通信業務のうち改正法附則第二条第二項の規定により国が引き継がせるものとされた業務を改正法附則第七条の定めるところにより承継して営んでいる法人（当該法人が合併により消滅したときは、当該合併後存続する法人又は当該合併により設立した法人）」とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="6">
@@ -12139,6 +12121,37 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条及び第四条の規定並びに附則第八条第一項及び第七項、第九条第五項、第十六条並びに第十七条の規定、附則第十八条中電話加入権質に関する臨時特例法（昭和三十三年法律第百三十八号）第五条第一項の改正規定並びに附則第二十条及び第二十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>
