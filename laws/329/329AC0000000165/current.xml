@@ -910,7 +910,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第七十六条第一項、第七十八条第一項、第八十一条第二項、第八十一条の二第一項又は第八十一条の三第一項の規定により自衛隊の出動その他の行動を命じた場合には、特別の部隊を編成し、又は所要の部隊をその隷属する指揮官以外の指揮官の一部指揮下に置くことができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第七十六条第一項、第七十八条第一項、第八十一条第二項又は第八十一条の二第一項の規定により自衛隊の出動を命じた場合には、特別の部隊を編成し、又は所要の部隊をその隷属する指揮官以外の指揮官の一部指揮下に置くことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1200,7 +1200,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">地方協力本部においては、地方における渉外及び広報、自衛官の募集その他防衛大臣の定める事務を行う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地方協力本部においては、地方における渉外及び広報、自衛官及び自衛官候補生の募集その他防衛大臣の定める事務を行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1521,7 +1521,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">自衛官、予備自衛官、即応予備自衛官、予備自衛官補、学生（防衛省設置法第十五条第一項又は第十六条第一項（第三号を除く。）の教育訓練を受けている者をいう。第九十八条第一項及び第九十九条の二第一項を除き、以下同じ。）、生徒その他その勤務の性質上制服を必要とする隊員の服制は、防衛省令で定める。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">自衛官、自衛官候補生、予備自衛官、即応予備自衛官、予備自衛官補、学生（防衛省設置法第十五条第一項又は第十六条第一項（第三号を除く。）の教育訓練を受けている者をいう。第九十八条第一項及び第九十九条の二第一項を除き、以下同じ。）、生徒その他その勤務の性質上制服を必要とする隊員の服制は、防衛省令で定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1596,25 +1596,43 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定は、陸士長等、海士長等又は空士長等で、志願に基づき陸曹候補者、海曹候補者又は空曹候補者の指定を受けた者のうち防衛大臣の定めるものについては、適用しない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">自衛官候補生は、その修了後引き続いて前項の規定に基づき任用される自衛官として必要な知識及び技能を修得させるための教育訓練を受けるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">第一項の任用期間の起算日は、同項の自衛官に任用された日とする。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、三等陸曹、三等海曹又は三等空曹以上の階級から降任された場合にあつては降任の日、前項に規定する陸曹候補者、海曹候補者又は空曹候補者の指定を受けた者のうち防衛大臣の定めるものがその指定を取り消された場合にあつては当該指定を取り消された日とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">自衛官候補生の任用期間は、三月を基準として前項に規定する教育訓練に要する期間を勘案して防衛省令で定めるものとし、自衛官候補生から引き続いて第一項の自衛官に任用された者の当該自衛官としての任用期間は、同項の規定にかかわらず、同項に規定する期間からその者の自衛官候補生としての任用期間に相当する期間を減じた期間とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">防衛大臣は、陸士長等、海士長等又は空士長等の任用期間が満了した場合において、当該陸士長等、海士長等又は空士長等が志願をしたときは、引き続き二年を任用期間としてこれを任用することができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合における任用期間の起算日は、引き続いて任用された日とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">自衛官候補生の員数は、防衛省の職員の定員外とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前各項の規定は、陸士長等、海士長等又は空士長等で、志願に基づき陸曹候補者、海曹候補者又は空曹候補者の指定を受けた者のうち防衛大臣の定めるものについては、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第一項の任用期間の起算日は、同項の自衛官に任用された日とする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、三等陸曹、三等海曹又は三等空曹以上の階級から降任された場合にあつては降任の日、前項に規定する陸曹候補者、海曹候補者又は空曹候補者の指定を受けた者のうち防衛大臣の定めるものがその指定を取り消された場合にあつては当該指定を取り消された日とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">防衛大臣は、陸士長等、海士長等又は空士長等の任用期間が満了した場合において、当該陸士長等、海士長等又は空士長等が志願をしたときは、引き続き二年を任用期間としてこれを任用することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合における任用期間の起算日は、引き続いて任用された日とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">防衛大臣は、任用期間を定めて任用されている陸士長等、海士長等又は空士長等が任用期間が満了したことにより退職することが自衛隊の任務の遂行に重大な支障を及ぼすと認める場合には、当該陸士長等、海士長等又は空士長等が第七十六条第一項の規定による防衛出動を命ぜられている場合にあつては一年以内、その他の場合にあつては六月以内の期間を限つて、任用期間を延長することができる。</Sentence>
               </ParagraphSentence>
@@ -2584,7 +2602,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">自衛官、学生及び生徒は、防衛大臣の定めるところに従い、制服を着用し、服装を常に端正に保たなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">自衛官、自衛官候補生、学生及び生徒は、防衛大臣の定めるところに従い、制服を着用し、服装を常に端正に保たなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4095,112 +4113,6 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="81_3">
-          <ArticleCaption>（重要電子計算機に対する通信防護措置）</ArticleCaption>
-          <ArticleTitle>第八十一条の三</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、重要電子計算機に対する特定不正行為（重要電子計算機に対する不正な行為による被害の防止に関する法律（令和七年法律第四十二号）第二条第四項に規定する特定不正行為をいい、電気通信回線を介して行われるものに限る。以下この項及び第四項第一号において同じ。）であつて、本邦外にある者による特に高度に組織的かつ計画的な行為と認められるものが行われた場合において、次の各号のいずれにも該当することにより自衛隊が対処を行う特別の必要があると認めるときは、部隊等に当該特定不正行為（当該特定不正行為を行つた者による同種の特定不正行為を含む。第一号において同じ。）による当該重要電子計算機への被害を防止するために必要な電子計算機の動作に係る措置であつて電気通信回線を介して行うもの（以下この条及び第九十一条の三において「通信防護措置」という。）をとるべき旨を命ずることができる。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">当該特定不正行為により重要電子計算機に特定重大支障（重要電子計算機の機能の停止又は低下であつて、当該機能の停止又は低下が生じた場合に、当該重要電子計算機に係る事務又は事業の安定的な遂行に容易に回復することができない支障が生じ、これによつて国家及び国民の安全を著しく損なう事態が生ずるものをいう。次号において同じ。）が生ずるおそれが大きいと認めること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">特定重大支障の発生を防止するために自衛隊が有する特別の技術又は情報が必要不可欠であること。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">国家公安委員会からの要請又はその同意があること。</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の「重要電子計算機」とは、重要電子計算機に対する不正な行為による被害の防止に関する法律第二条第二項に規定する重要電子計算機（同項第三号に該当するものにあつては、防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律（令和五年法律第五十四号）第二十七条第一項に規定する契約事業者である者が次に掲げる情報を取り扱うために使用するものに限る。）をいう。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">日米相互防衛援助協定等に伴う秘密保護法（昭和二十九年法律第百六十六号）第一条第三項に規定する特別防衛秘密である情報</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">特定秘密の保護に関する法律（平成二十五年法律第百八号）第三条第一項に規定する特定秘密（同法第五条第四項の規定により防衛大臣が保有させ、又は同法第八条第一項の規定により防衛大臣が提供したものに限る。）である情報</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律第二十七条第一項に規定する装備品等秘密である情報</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">重要経済安保情報の保護及び活用に関する法律（令和六年法律第二十七号）第三条第一項に規定する重要経済安保情報（同法第十条第一項の規定により防衛大臣が提供し、又は同条第二項の規定により防衛大臣が保有させたものに限る。）である情報</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の規定により通信防護措置をとるべき旨を命ぜられた部隊等は、警察庁又は都道府県警察（次項第四号において「警察庁等」という。）と共同して当該通信防護措置を実施するものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の規定により部隊等に通信防護措置をとるべき旨を命ずる場合には、あらかじめ、防衛大臣と国家公安委員会との間で協議をさせた上で、次に掲げる事項を指定しなければならない。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">通信防護措置により対処を行う特定不正行為及び防護の対象となる第二項に規定する重要電子計算機</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">通信防護措置として実施すべき措置に関する事項</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">通信防護措置の期間</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">警察庁等と共同して通信防護措置を実施する要領その他の警察庁等との連携に関する事項</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">その他必要な事項</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項第三号の期間内であつても、通信防護措置の必要がなくなつたと認める場合には、速やかに、部隊等に通信防護措置の終了を命じなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
         <Article Num="82">
           <ArticleCaption>（海上における警備行動）</ArticleCaption>
           <ArticleTitle>第八十二条</ArticleTitle>
@@ -4543,7 +4455,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第七十六条第一項、第七十七条の二、第七十七条の四、第七十八条第一項、第八十一条第二項、第八十一条の二第一項、第八十一条の三第一項、第八十二条の三第一項若しくは第三項、第八十三条第二項、第八十三条の二又は第八十三条の三の規定により部隊等が行動する場合には、当該部隊等及び当該部隊等に関係のある都道府県知事、市町村長、警察消防機関その他の国又は地方公共団体の機関は、相互に緊密に連絡し、及び協力するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第七十六条第一項、第七十七条の二、第七十七条の四、第七十八条第一項、第八十一条第二項、第八十一条の二第一項、第八十二条の三第一項若しくは第三項、第八十三条第二項、第八十三条の二又は第八十三条の三の規定により部隊等が行動する場合には、当該部隊等及び当該部隊等に関係のある都道府県知事、市町村長、警察消防機関その他の国又は地方公共団体の機関は、相互に緊密に連絡し、及び協力するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -4582,8 +4494,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">警察官職務執行法（昭和二十三年法律第百三十六号。第六条の二を除く。）の規定は第七十八条第一項又は第八十一条第二項の規定により出動を命ぜられた自衛隊の自衛官の職務の執行について、同法第六条の二第二項から第十一項までの規定は当該自衛官のうちこの項において準用する同条第二項の規定による処置を適正にとるために必要な能力を有する部隊等として防衛大臣が指定する部隊等に属するものの職務の執行について、それぞれ準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同法第四条第二項中「公安委員会」とあるのは「防衛大臣の指定する者」と、同法第六条の二第三項中「処置は、警察庁の警察官であるサイバー危害防止措置執行官に限り、とることができるものとする。この場合において、当該」とあるのは「処置をとる」と、「警察庁長官」とあるのは「防衛大臣」と、同条第四項中「あらかじめ」とあるのは「あらかじめ、防衛大臣を通じて」と、同条第八項中「国家公安委員会規則」とあるのは「防衛省令」と、「その旨を」とあるのは「その旨を部隊等の長を通じて」と、同条第九項中「サイバー通信情報監理委員会に」とあるのは「防衛大臣を通じてサイバー通信情報監理委員会に」と、同条第十項中「当該通知を行つたサイバー危害防止措置執行官が所属する警察庁又は都道府県警察の警察庁長官又は警視総監若しくは道府県警察本部長（次項において「警察庁長官等」という。）」とあり、及び同条第十一項中「警察庁長官等（第三項に規定する場合にあつては、警察庁長官）」とあるのは「防衛大臣」と読み替えるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">警察官職務執行法（昭和二十三年法律第百三十六号）の規定は、第七十八条第一項又は第八十一条第二項の規定により出動を命ぜられた自衛隊の自衛官の職務の執行について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第四条第二項中「公安委員会」とあるのは、「防衛大臣の指定する者」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -4683,17 +4595,6 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="91_3">
-          <ArticleCaption>（重要電子計算機に対する通信防護措置の際の権限）</ArticleCaption>
-          <ArticleTitle>第九十一条の三</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">警察官職務執行法第六条の二第二項から第十一項までの規定は、第八十一条の三第一項の規定により通信防護措置をとるべき旨を命ぜられた部隊等の自衛官の職務の執行について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同法第六条の二第二項中「サイバーセキュリティ（サイバーセキュリティ基本法（平成二十六年法律第百四号）第二条に規定するサイバーセキュリティをいう。）を害することその他情報技術を用いた不正な行為（以下この項において「情報技術利用不正行為」という。）」とあるのは「重要電子計算機（自衛隊法（昭和二十九年法律第百六十五号）第八十一条の三第二項に規定する重要電子計算機をいう。第四項において同じ。）に対する特定不正行為（同条第一項に規定する特定不正行為をいう。以下この項において同じ。）」と、「情報技術利用不正行為に」とあるのは「当該特定不正行為に」と、同条第三項中「処置は、警察庁の警察官であるサイバー危害防止措置執行官に限り、とることができるものとする。この場合において、当該」とあるのは「処置をとる」と、「警察庁長官」とあるのは「防衛大臣」と、同条第四項中「あらかじめ」とあるのは「あらかじめ、防衛大臣を通じて」と、同項ただし書中「重要電子計算機（重要電子計算機に対する不正な行為による被害の防止に関する法律（令和七年法律第四十二号）第二条第二項に規定する重要電子計算機をいう。）」とあるのは「重要電子計算機」と、同条第八項中「国家公安委員会規則」とあるのは「防衛省令」と、「その旨を」とあるのは「その旨を部隊等の長を通じて」と、同条第九項中「サイバー通信情報監理委員会に」とあるのは「防衛大臣を通じてサイバー通信情報監理委員会に」と、同条第十項中「当該通知を行つたサイバー危害防止措置執行官が所属する警察庁又は都道府県警察の警察庁長官又は警視総監若しくは道府県警察本部長（次項において「警察庁長官等」という。）」とあり、及び同条第十一項中「警察庁長官等（第三項に規定する場合にあつては、警察庁長官）」とあるのは「防衛大臣」と読み替えるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
         <Article Num="92">
           <ArticleCaption>（防衛出動時の公共の秩序の維持のための権限）</ArticleCaption>
           <ArticleTitle>第九十二条</ArticleTitle>
@@ -4706,8 +4607,8 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">警察官職務執行法（第六条の二を除く。）及び第九十条第一項の規定は第七十六条第一項の規定により出動を命ぜられた自衛隊の自衛官が前項の規定により公共の秩序の維持のため行う職務の執行について、同法第六条の二第二項から第十一項までの規定は当該自衛官のうちこの項において準用する同条第二項の規定による処置を適正にとるために必要な能力を有する部隊等として防衛大臣が指定する部隊等に属するものが前項の規定により公共の秩序の維持のため行う職務の執行について、海上保安庁法第十六条、第十七条第一項及び第十八条の規定は第七十六条第一項の規定により出動を命ぜられた海上自衛隊の三等海曹以上の自衛官が前項の規定により公共の秩序の維持のため行う職務の執行について、同法第二十条第二項の規定は第七十六条第一項の規定により出動を命ぜられた海上自衛隊の自衛官が前項の規定により公共の秩序の維持のため行う職務の執行について、それぞれ準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、警察官職務執行法第四条第二項中「公安委員会」とあるのは「防衛大臣の指定する者」と、同法第六条の二第三項中「処置は、警察庁の警察官であるサイバー危害防止措置執行官に限り、とることができるものとする。この場合において、当該」とあるのは「処置をとる」と、「警察庁長官」とあるのは「防衛大臣」と、同条第四項中「あらかじめ」とあるのは「あらかじめ、防衛大臣を通じて」と、同条第八項中「国家公安委員会規則」とあるのは「防衛省令」と、「その旨を」とあるのは「その旨を部隊等の長を通じて」と、同条第九項中「サイバー通信情報監理委員会に」とあるのは「防衛大臣を通じてサイバー通信情報監理委員会に」と、同条第十項中「当該通知を行つたサイバー危害防止措置執行官が所属する警察庁又は都道府県警察の警察庁長官又は警視総監若しくは道府県警察本部長（次項において「警察庁長官等」という。）」とあり、及び同条第十一項中「警察庁長官等（第三項に規定する場合にあつては、警察庁長官）」とあるのは「防衛大臣」と、海上保安庁法第二十条第二項中「前項において準用する警察官職務執行法第七条」とあるのは「自衛隊法（昭和二十九年法律第百六十五号）第九十二条第二項において準用する警察官職務執行法第七条及び自衛隊法第九十条第一項」と、「第十七条第一項」とあるのは「同法第九十二条第二項において準用する第十七条第一項」と、「海上保安庁長官」とあるのは「防衛大臣」と読み替えるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">警察官職務執行法及び第九十条第一項の規定は、第七十六条第一項の規定により出動を命ぜられた自衛隊の自衛官が前項の規定により公共の秩序の維持のため行う職務の執行について、海上保安庁法第十六条、第十七条第一項及び第十八条の規定は、第七十六条第一項の規定により出動を命ぜられた海上自衛隊の三等海曹以上の自衛官が前項の規定により公共の秩序の維持のため行う職務の執行について、同法第二十条第二項の規定は、第七十六条第一項の規定により出動を命ぜられた海上自衛隊の自衛官が前項の規定により公共の秩序の維持のため行う職務の執行について準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、警察官職務執行法第四条第二項中「公安委員会」とあるのは「防衛大臣の指定する者」と、海上保安庁法第二十条第二項中「前項において準用する警察官職務執行法第七条」とあるのは「この項において準用する警察官職務執行法第七条及びこの法律第九十条第一項」と、「第十七条第一項」とあるのは「この項において準用する海上保安庁法第十七条第一項」と、「海上保安官又は海上保安官補の職務」とあるのは「第七十六条第一項（第一号に係る部分に限る。）の規定により出動を命ぜられた自衛隊の自衛官が公共の秩序の維持のため行う職務」と、「海上保安庁長官」とあるのは「防衛大臣」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -5097,37 +4998,8 @@
           </Paragraph>
         </Article>
         <Article Num="95_4">
-          <ArticleCaption>（自衛隊等が使用する特定電子計算機の警護のための権限）</ArticleCaption>
-          <ArticleTitle>第九十五条の四</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">警察官職務執行法第六条の二第二項から第十一項までの規定は、次に掲げる特定電子計算機（不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号）第二条第一項に規定する特定電子計算機をいう。）をサイバーセキュリティ（サイバーセキュリティ基本法（平成二十六年法律第百四号）第二条に規定するサイバーセキュリティをいう。）を害することその他情報技術を用いた不正な行為から職務上警護する自衛官の職務の執行について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、警察官職務執行法第六条の二第二項中「、サイバーセキュリティ」とあるのは「、自衛隊法（昭和二十九年法律第百六十五号）第九十五条の四第一項各号に掲げる特定電子計算機（第四項ただし書において「特定電子計算機」という。）に対するサイバーセキュリティ」と、「情報技術利用不正行為に」とあるのは「当該情報技術利用不正行為に」と、同条第三項中「処置は、警察庁の警察官であるサイバー危害防止措置執行官に限り、とることができるものとする。この場合において、当該」とあるのは「処置をとる」と、「警察庁長官」とあるのは「防衛大臣」と、同条第四項中「あらかじめ」とあるのは「あらかじめ、防衛大臣を通じて」と、同項ただし書中「に対し」とあるのは「である特定電子計算機に対し」と、同条第八項中「国家公安委員会規則」とあるのは「防衛省令」と、「その旨を」とあるのは「その旨を部隊等の長を通じて」と、同条第九項中「サイバー通信情報監理委員会に」とあるのは「防衛大臣を通じてサイバー通信情報監理委員会に」と、同条第十項中「当該通知を行つたサイバー危害防止措置執行官が所属する警察庁又は都道府県警察の警察庁長官又は警視総監若しくは道府県警察本部長（次項において「警察庁長官等」という。）」とあり、及び同条第十一項中「警察庁長官等（第三項に規定する場合にあつては、警察庁長官）」とあるのは「防衛大臣」と読み替えるものとする。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">自衛隊が使用する特定電子計算機</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">日本国とアメリカ合衆国との間の相互協力及び安全保障条約に基づき日本国にあるアメリカ合衆国の軍隊が使用する特定電子計算機</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項第二号に掲げる特定電子計算機に対する同項の警護は、アメリカ合衆国の軍隊から要請があつた場合であつて、防衛大臣が必要と認めるときに限り、自衛官が行うものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="95_5">
           <ArticleCaption>（対象施設の安全の確保のための権限）</ArticleCaption>
-          <ArticleTitle>第九十五条の五</ArticleTitle>
+          <ArticleTitle>第九十五条の四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -5184,13 +5056,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県知事及び市町村長は、政令で定めるところにより、自衛官の募集に関する事務の一部を行う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事及び市町村長は、政令で定めるところにより、自衛官及び自衛官候補生の募集に関する事務の一部を行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">防衛大臣は、警察庁及び都道府県警察に対し、自衛官の募集に関する事務の一部について協力を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、警察庁及び都道府県警察に対し、自衛官及び自衛官候補生の募集に関する事務の一部について協力を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -5682,7 +5554,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">自衛隊と海上保安庁、地方航空局、航空交通管制部、気象官署、国土地理院、旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第三項に規定する会社、日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第二条第二項に規定する東日本電信電話株式会社及び同条第三項に規定する西日本電信電話株式会社（以下この条において「海上保安庁等」という。）は、相互に常に緊密な連絡を保たなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">自衛隊と海上保安庁、地方航空局、航空交通管制部、気象官署、国土地理院、旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第三項に規定する会社、日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第一条の二第二項に規定する東日本電信電話株式会社及び同条第三項に規定する西日本電信電話株式会社（以下この条において「海上保安庁等」という。）は、相互に常に緊密な連絡を保たなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -6104,7 +5976,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">航空法第十一条、第二十八条第一項及び第二項、第三十四条第二項、第三十八条第一項、第五十七条から第五十九条まで、第六十五条、第六十六条、第八十六条、第八十九条、第九十条、第百三十一条の二の五第四項及び第六項（これらの規定を同法第五十五条の二第三項及び民間の能力を活用した国管理空港等の運営等に関する法律（平成二十五年法律第六十七号）第七条第二項において準用する場合を含む。）、第百三十二条の二、第百三十二条の五、第百三十二条の八十五、第百三十二条の八十六（第一項を除く。）から第百三十二条の八十九まで並びに第百三十四条第一項及び第二項の規定は、自衛隊の使用する航空機及び装備移転（防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律第二条第四項に規定する装備移転をいう。第百九条第一項において同じ。）の対象となる航空機として製造されるもの（第七項において「装備移転航空機」という。）（以下この条及び附則第七項において「自衛隊の使用する航空機等」と総称する。）並びにこれらに乗り組んで運航に従事する者及び同乗する者並びに自衛隊が設置する飛行場及び航空保安施設については、適用しない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">航空法中第十一条、第二十八条第一項及び第二項、第三十四条第二項、第三十八条第一項、第五十七条から第五十九条まで、第六十五条、第六十六条、第八十六条、第八十九条、第九十条、第百三十一条の二の五第四項及び第六項（これらの規定を同法第五十五条の二第三項及び民間の能力を活用した国管理空港等の運営等に関する法律（平成二十五年法律第六十七号）第七条第二項において準用する場合を含む。）、第百三十二条の二、第百三十二条の五、第百三十二条の八十五、第百三十二条の八十六（第一項を除く。）から第百三十二条の八十九まで並びに第百三十四条第一項及び第二項の規定は、自衛隊の使用する航空機並びにその航空機に乗り組んで運航に従事する者及び同乗する者並びに自衛隊が設置する飛行場及び航空保安施設については、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -6117,7 +5989,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">自衛隊の使用する航空機等及びこれらに乗り組んで運航に従事する者についての航空法第六章及び第十一章（第一項の規定により適用を除外される規定を除く。）の規定の適用については、政令で特例を定めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">自衛隊の使用する航空機及びその航空機に乗り組んで運航に従事する者についての航空法第六章及び第十一章（第一項の規定により適用を除外される規定を除く。）の規定の適用については、政令で特例を定めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -6129,7 +6001,7 @@
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">防衛大臣は、第一項及び前項の規定にかかわらず、自衛隊の使用する航空機等の安全性及び運航に関する基準、これらに乗り組んで運航に従事する者の技能に関する基準並びに自衛隊が設置する飛行場及び航空保安施設の設置及び管理に関する基準を定め、その他航空機による災害を防止し、公共の安全を確保するため必要な措置を講じなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、第一項及び前項の規定にかかわらず、自衛隊が使用する航空機の安全性及び運航に関する基準、その航空機に乗り組んで運航に従事する者の技能に関する基準並びに自衛隊が設置する飛行場及び航空保安施設の設置及び管理に関する基準を定め、その他航空機による災害を防止し、公共の安全を確保するため必要な措置を講じなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
@@ -6141,17 +6013,11 @@
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">装備移転航空機を製造する者は、第五項の規定により防衛大臣が定める基準（装備移転航空機に係るものに限る。）に適合することについて、防衛省令で定めるところにより、防衛大臣の確認を受けなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">運輸安全委員会設置法（昭和四十八年法律第百十三号）第五条の規定は、自衛隊の使用する航空機について発生した同法第二条第二項の航空事故等（自衛隊の使用する航空機と自衛隊以外の者が使用する航空機との間に発生したものを除く。）については、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">運輸安全委員会設置法（昭和四十八年法律第百十三号）第五条の規定は、自衛隊の使用する航空機等について発生した同法第二条第二項の航空事故等（自衛隊の使用する航空機等と自衛隊の使用する航空機等以外の航空機との間に発生したものを除く。）については、適用しない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="9">
-            <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">防衛大臣は、航空事故の防止又は航空事故が発生した場合における被害の軽減のために有益であると認める前項の航空事故等に係る情報を運輸安全委員会に提供するものとする。</Sentence>
             </ParagraphSentence>
@@ -6173,7 +6039,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">船舶法（明治三十二年法律第四十六号）、船舶安全法（昭和八年法律第十一号）、船舶のトン数の測度に関する法律（昭和五十五年法律第四十号）及び小型船舶の登録等に関する法律（平成十三年法律第百二号）の規定は、自衛隊の使用する船舶（水陸両用車両を含む。以下この条から第百十一条までにおいて同じ。）及び装備移転の対象となる船舶として製造されるもの（水陸両用車両を含む。以下この項及び次条から第百十一条の二までにおいて「装備移転船舶」という。）については、適用しない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">船舶法（明治三十二年法律第四十六号）、船舶安全法（昭和八年法律第十一号）、船舶のトン数の測度に関する法律（昭和五十五年法律第四十号）及び小型船舶の登録等に関する法律（平成十三年法律第百二号）の規定は、自衛隊の使用する船舶（水陸両用車両を含む。以下この条から第百十一条までにおいて同じ。）及び装備移転（防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律（令和五年法律第五十四号）第二条第四項に規定する装備移転をいう。）の対象となる船舶として製造されるもの（水陸両用車両を含む。以下この項、第百十一条の二及び第百十一条の三において「装備移転船舶」という。）については、適用しない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、船舶安全法第二十八条の規定中危険及び気象の通報その他船舶航行上の危険防止に関する部分は、自衛隊の使用する船舶のうち政令で定める船舶及び装備移転船舶については、適用があるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -6190,33 +6056,37 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">船舶職員及び小型船舶操縦者法（昭和二十六年法律第百四十九号）の規定は、自衛隊の使用する船舶及び装備移転船舶並びにこれらに乗り組んで船舶職員の業務に従事する者又はこれらに乗船して小型船舶操縦者の業務に従事する者については、適用しない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">船舶職員及び小型船舶操縦者法（昭和二十六年法律第百四十九号）の規定は、自衛隊の使用する船舶及びこれに乗り組んで船舶職員の業務に従事する隊員又はこれに乗船して小型船舶操縦者の業務に従事する隊員については、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="111">
-          <ArticleCaption>（自衛隊の使用する船舶及び装備移転船舶についての技術上の基準等）</ArticleCaption>
+          <ArticleCaption>（自衛隊の使用する船舶についての技術上の基準等）</ArticleCaption>
           <ArticleTitle>第百十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">防衛大臣は、自衛隊の使用する船舶及び装備移転船舶について堪航性及び人命の安全を確保するため必要な技術上の基準及び配員の基準を定めなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、自衛隊の使用する船舶について堪航性及び人命の安全を確保するため必要な技術上の基準及び配員の基準を定めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="111_2">
-          <ArticleCaption>（検査等）</ArticleCaption>
+          <ArticleCaption>（装備移転船舶についての技術上の基準）</ArticleCaption>
           <ArticleTitle>第百十一条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">装備移転船舶は、前条の技術上の基準に適合するかどうかについて防衛省令で定めるところにより防衛大臣の検査を受け、かつ、これに合格したものでなければ、航行の用に供してはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">防衛大臣は、装備移転船舶について堪航性及び人命の安全を確保するため必要な技術上の基準を定めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
+        </Article>
+        <Article Num="111_3">
+          <ArticleCaption>（検査）</ArticleCaption>
+          <ArticleTitle>第百十一条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">装備移転船舶を航行しようとする者は、前条の配員の基準に従つて配員して航行することについて防衛省令で定めるところにより防衛大臣の確認を受けた後でなければ、これを航行してはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">装備移転船舶は、前条の技術上の基準に適合するかどうかについて防衛省令で定めるところにより防衛大臣の検査を受け、かつ、これに合格したものでなければ、航行の用に供してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6392,12 +6262,6 @@
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前項の医療を行うための施設は、医師法（昭和二十三年法律第二百一号）第二十四条第二項、歯科医師法（昭和二十三年法律第二百二号）第二十三条第二項、診療放射線技師法（昭和二十六年法律第二百二十六号）第二十六条第二項、歯科技工士法（昭和三十年法律第百六十八号）第二条第三項ただし書及び第十八条ただし書、安全な血液製剤の安定供給の確保等に関する法律（昭和三十一年法律第百六十号）第十三条第一項ただし書、臨床検査技師等に関する法律（昭和三十三年法律第七十六号）第二十条の三第一項、医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号）第二条第十二項ただし書、薬剤師法（昭和三十五年法律第百四十六号）第二十二条ただし書並びに救急救命士法（平成三年法律第三十六号）第二条第一項及び第四十四条第二項ただし書の規定の適用についてはこれらの規定に規定する病院と、麻薬及び向精神薬取締法第五十条の十六第一項第一号及び第二項の規定の適用については同条に規定する病院等と、医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第三十四条第五項の規定の適用については同項に規定する薬局開設者等と、同法第四十六条第二項及び第四十九条第一項ただし書の規定の適用についてはこれらの規定に規定する薬剤師等とみなす。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項に規定する医療を行うための施設が医療法第二条の二第二項に規定するオンライン診療受診施設に該当する場合については、前項の規定は適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6752,18 +6616,18 @@
           </Paragraph>
         </Article>
         <Article Num="115_25">
-          <ArticleCaption>（海洋再生可能エネルギー発電設備の整備に関する法律の特例）</ArticleCaption>
+          <ArticleCaption>（海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の特例）</ArticleCaption>
           <ArticleTitle>第百十五条の二十五</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第七十六条第一項（第一号に係る部分に限る。）の規定により出動を命ぜられ、又は第七十七条の二の規定による措置を命ぜられた自衛隊の部隊等が海洋再生可能エネルギー発電設備の整備に関する法律（平成三十年法律第八十九号）第十三条第一項の規定により許可を要する行為をしようとする場合における同条第三項の規定の適用については、撤収を命ぜられ、又は第七十七条の二の規定による命令が解除されるまでの間は、同項中「「国土交通大臣の許可を受けなければ」とあるのは「国土交通大臣と協議しなければ」と、前項中「許可をしては」とあるのは「協議に応じては」」とあるのは、「「国土交通省令で定めるところにより、国土交通大臣の許可を受けなければ」とあるのは、「あらかじめ、その旨を国土交通大臣に通知しなければ」」とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第七十六条第一項（第一号に係る部分に限る。）の規定により出動を命ぜられ、又は第七十七条の二の規定による措置を命ぜられた自衛隊の部隊等が海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律（平成三十年法律第八十九号）第十条第一項の規定により許可を要する行為をしようとする場合における同条第三項の規定の適用については、撤収を命ぜられ、又は第七十七条の二の規定による命令が解除されるまでの間は、同項中「「国土交通大臣の許可を受けなければ」とあるのは「国土交通大臣と協議しなければ」と、前項中「許可をしては」とあるのは「協議に応じては」」とあるのは、「「国土交通省令で定めるところにより、国土交通大臣の許可を受けなければ」とあるのは、「あらかじめ、その旨を国土交通大臣に通知しなければ」」とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定により読み替えられた海洋再生可能エネルギー発電設備の整備に関する法律第十三条第三項の規定により読み替えられた同条第一項の規定による通知を受けた国土交通大臣は、同項に規定する促進区域内海域の利用又は保全上必要があると認めるときは、当該通知に係る部隊等の長に対し意見を述べることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により読み替えられた海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律第十条第三項の規定により読み替えられた同条第一項の規定による通知を受けた国土交通大臣は、同項に規定する促進区域内海域の利用又は保全上必要があると認めるときは、当該通知に係る部隊等の長に対し意見を述べることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -7248,7 +7112,7 @@
       <Paragraph Num="5">
         <ParagraphNum>５</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">第百一条の規定の適用については、当分の間、同条第一項中「旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第三項に規定する会社」とあるのは「旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第三項に規定する会社、旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律の一部を改正する法律（平成十三年法律第六十一号）附則第二条第一項に規定する新会社、旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律の一部を改正する法律（平成二十七年法律第三十六号）附則第二条第一項に規定する新会社」と、「及び同条第三項に規定する西日本電信電話株式会社」とあるのは「、同条第三項に規定する西日本電信電話株式会社及び日本電信電話株式会社法の一部を改正する法律（平成九年法律第九十八号。以下この項において「改正法」という。）による改正前の日本電信電話株式会社法（昭和五十九年法律第八十五号）第一条第二項の規定により日本電信電話株式会社等に関する法律第二条第一項に規定する日本電信電話株式会社が営んでいた国内電気通信業務のうち改正法附則第二条第二項の規定により国が引き継がせるものとされた業務を改正法附則第七条の定めるところにより承継して営んでいる法人（当該法人が合併により消滅したときは、当該合併後存続する法人又は当該合併により設立した法人）」とする。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">第百一条の規定の適用については、当分の間、同条第一項中「旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第三項に規定する会社」とあるのは「旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和六十一年法律第八十八号）第一条第三項に規定する会社、旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律の一部を改正する法律（平成十三年法律第六十一号）附則第二条第一項に規定する新会社、旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律の一部を改正する法律（平成二十七年法律第三十六号）附則第二条第一項に規定する新会社」と、「及び同条第三項に規定する西日本電信電話株式会社」とあるのは「、同条第三項に規定する西日本電信電話株式会社及び日本電信電話株式会社法の一部を改正する法律（平成九年法律第九十八号。以下この項において「改正法」という。）による改正前の日本電信電話株式会社法（昭和五十九年法律第八十五号）第一条第二項の規定により日本電信電話株式会社等に関する法律第一条の二第一項に規定する日本電信電話株式会社が営んでいた国内電気通信業務のうち改正法附則第二条第二項の規定により国が引き継がせるものとされた業務を改正法附則第七条の定めるところにより承継して営んでいる法人（当該法人が合併により消滅したときは、当該合併後存続する法人又は当該合併により設立した法人）」とする。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="6">
@@ -7260,7 +7124,7 @@
       <Paragraph Num="7">
         <ParagraphNum>７</ParagraphNum>
         <ParagraphSentence>
-          <Sentence Num="1" WritingMode="vertical">航空法附則第六条及び民間の能力を活用した国管理空港等の運営等に関する法律附則第六条第二項において準用する航空法第百三十一条の二の五第四項及び第六項の規定は、自衛隊の使用する航空機等並びにこれらに乗り組んで運航に従事する者及び同乗する者については、適用しない。</Sentence>
+          <Sentence Num="1" WritingMode="vertical">航空法附則第六条及び民間の能力を活用した国管理空港等の運営等に関する法律附則第六条第二項において準用する航空法第百三十一条の二の五第四項及び第六項の規定は、自衛隊の使用する航空機並びにその航空機に乗り組んで運航に従事する者及び同乗する者については、適用しない。</Sentence>
         </ParagraphSentence>
       </Paragraph>
       <Paragraph Num="8">
@@ -11265,7 +11129,7 @@
         <Paragraph Num="9">
           <ParagraphNum>９</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">防衛省の職員の給与等に関する法律附則第五項から第十一項まで及び第十六項の規定は、第五項又は第六項の規定により勤務している隊員には適用しない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第九条の規定による改正後の防衛省の職員の給与等に関する法律（附則第十二条第五項及び第十三条において「新防衛省職員給与法」という。）附則第五項から第十一項まで及び第十六項の規定は、第五項又は第六項の規定により勤務している隊員には適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="10">
@@ -11479,53 +11343,47 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">育児休業法第二十七条第一項において準用する育児休業法第十二条第一項に規定する育児短時間勤務をしている暫定再任用隊員に対する前項の規定の適用については、同項中「とする」とあるのは、「に、当該暫定再任用隊員の一週間当たりの通常の勤務時間を定年前再任用短時間勤務隊員及び育児休業法第二十七条第一項において準用する育児休業法第十三条第一項に規定する育児短時間勤務職員以外の隊員の一週間当たりの通常の勤務時間として防衛省令で定めるもので除して得た数を乗じて得た額とする」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">附則第十九条の規定による改正後の育児休業法（次項において「新育児休業法」という。）第二十七条第一項において準用する育児休業法第十二条第一項に規定する育児短時間勤務をしている暫定再任用隊員に対する前項の規定の適用については、同項中「とする」とあるのは、「に、当該暫定再任用隊員の一週間当たりの通常の勤務時間を定年前再任用短時間勤務隊員及び附則第十九条の規定による改正後の育児休業法第二十七条第一項において準用する育児休業法第十三条第一項に規定する育児短時間勤務職員以外の隊員の一週間当たりの通常の勤務時間として防衛省令で定めるもので除して得た数を乗じて得た額とする」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">暫定再任用短時間勤務隊員の俸給月額は、当該暫定再任用短時間勤務隊員が定年前再任用短時間勤務隊員であるものとした場合に適用される防衛省の職員の給与等に関する法律第四条第一項に規定する俸給表の定年前再任用短時間勤務職員の欄に掲げる基準俸給月額のうち、同法第四条の二第三項の規定により当該暫定再任用短時間勤務隊員の属する職務の級に応じた額に、当該暫定再任用短時間勤務隊員の一週間当たりの通常の勤務時間を定年前再任用短時間勤務隊員及び育児休業法第二十七条第一項において準用する育児休業法第十三条第一項に規定する育児短時間勤務職員以外の隊員の一週間当たりの通常の勤務時間として防衛省令で定めるもので除して得た数を乗じて得た額とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">暫定再任用短時間勤務隊員の俸給月額は、当該暫定再任用短時間勤務隊員が定年前再任用短時間勤務隊員であるものとした場合に適用される防衛省の職員の給与等に関する法律第四条第一項に規定する俸給表の定年前再任用短時間勤務職員の欄に掲げる基準俸給月額のうち、同法第四条の二第三項の規定により当該暫定再任用短時間勤務隊員の属する職務の級に応じた額に、当該暫定再任用短時間勤務隊員の一週間当たりの通常の勤務時間を定年前再任用短時間勤務隊員及び新育児休業法第二十七条第一項において準用する育児休業法第十三条第一項に規定する育児短時間勤務職員以外の隊員の一週間当たりの通常の勤務時間として防衛省令で定めるもので除して得た数を乗じて得た額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">暫定再任用隊員は、定年前再任用短時間勤務隊員とみなして、防衛省の職員の給与等に関する法律第十四条第二項において準用する一般職の職員の給与に関する法律第十条の五第一項の規定を適用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">暫定再任用短時間勤務隊員は、定年前再任用短時間勤務隊員とみなして、防衛省の職員の給与等に関する法律第十四条第二項において準用する新一般職給与法第十二条第二項及び第十六条第二項の規定を適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">暫定再任用短時間勤務隊員は、定年前再任用短時間勤務隊員とみなして、防衛省の職員の給与等に関する法律第十四条第二項において準用する一般職の職員の給与に関する法律第十二条第二項及び第十六条第二項の規定を適用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">防衛省の職員の給与等に関する法律第五条第二項、第十二条及び第十四条（初任給調整手当に係る部分に限る。）並びに新防衛省職員給与法第五条第一項の規定は、暫定再任用隊員には適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">防衛省の職員の給与等に関する法律第五条第一項及び第二項、第十二条並びに第十四条（第一種初任給調整手当に係る部分に限る。）の規定は、暫定再任用隊員には適用しない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">暫定再任用隊員に対する新退職手当法第二条第一項の規定の適用については、同項中「第四十五条の二第一項」とあるのは、「第四十五条の二第一項又は国家公務員法等の一部を改正する法律（令和三年法律第六十一号）附則第九条第一項若しくは第二項若しくは第十条第一項若しくは第二項」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="7">
           <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">暫定再任用隊員に対する新退職手当法第二条第一項の規定の適用については、同項中「第四十五条の二第一項」とあるのは、「第四十五条の二第一項又は国家公務員法等の一部を改正する法律（令和三年法律第六十一号）附則第九条第一項若しくは第二項若しくは第十条第一項若しくは第二項」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">暫定再任用短時間勤務隊員は、定年前再任用短時間勤務隊員とみなして、自衛隊法第五十四条第二項の規定に基づく防衛省令で定める勤務時間及び休暇の規定を適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="8">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">暫定再任用短時間勤務隊員は、定年前再任用短時間勤務隊員とみなして、自衛隊法第五十四条第二項の規定に基づく防衛省令で定める勤務時間及び休暇の規定を適用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前三条及び前各項に定めるもののほか、暫定再任用隊員の任用その他暫定再任用隊員に関し必要な事項は、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="9">
           <ParagraphNum>９</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前三条及び前各項に定めるもののほか、暫定再任用隊員の任用その他暫定再任用隊員に関し必要な事項は、政令で定める。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="10">
-          <ParagraphNum>１０</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">暫定再任用短時間勤務隊員は、定年前再任用短時間勤務隊員とみなして、国家公務員の寒冷地手当に関する法律第五条において準用する同法第一条の規定を適用する。</Sentence>
           </ParagraphSentence>
@@ -11972,16 +11830,6 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="3">
-        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
-        <ArticleTitle>第三条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">施行日前にした行為及び前条の規定によりなお従前の例によることとされる場合における施行日以後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="4">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第四条</ArticleTitle>
@@ -12120,120 +11968,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1:2">
-            <ItemTitle>一及び二</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">略</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">第二条及び第四条の規定並びに附則第八条第一項及び第七項、第九条第五項、第十六条並びに第十七条の規定、附則第十八条中電話加入権質に関する臨時特例法（昭和三十三年法律第百三十八号）第五条第一項の改正規定並びに附則第二十条及び第二十一条の規定</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年六月一一日法律第五九号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年一二月一二日法律第八七号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和九年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">略</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">第一条の規定（前号、第四号及び第五号に掲げる改正規定を除く。）、第七条中健康保険法第六十五条第四項の改正規定（「第三十条の十一」を「第三十条の十一第一項」に改める部分に限る。）、同法第六十八条の次に一条を加える改正規定、同法第六十九条の改正規定、同法第七十条の次に一条を加える改正規定並びに同法第八十条、第八十一条及び第八十二条第一項の改正規定並びに第十二条中介護保険法第百五条及び第百十四条の八の改正規定並びに次条第一項並びに附則第四条、第七条、第八条、第三十条及び第三十六条の規定</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">令和八年四月一日</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年一二月二四日法律第八九号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日等）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">第二条、第四条及び第六条の規定並びに附則第五条、第七条及び第九条の規定</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">令和八年四月一日</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年一二月二四日法律第九五号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日等）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二条の規定並びに附則第五条、第七条及び第八条の規定は、令和八年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
