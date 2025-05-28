@@ -23,13 +23,13 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律において「東日本電信電話株式会社」とは、次条第三項第一号イに掲げる都道県の同号に規定する区域において地域電気通信事業を経営することを目的とする株式会社であつて、日本電信電話株式会社法の一部を改正する法律（平成九年法律第九十八号。次項において「平成九年改正法」という。）附則第二条第一項の規定により国が引き継がせるものとされた業務を承継したものをいう。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律において「東日本電信電話株式会社」とは、次条第六項第一号に定める区域において地域電気通信事業を経営することを目的とする株式会社であつて、日本電信電話株式会社法の一部を改正する法律（平成九年法律第九十八号。次項において「平成九年改正法」という。）附則第二条第一項の規定により国が引き継がせるものとされた業務を承継したものをいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律において「西日本電信電話株式会社」とは、次条第三項第一号ロに掲げる府県の同号に規定する区域において地域電気通信事業を経営することを目的とする株式会社であつて、平成九年改正法附則第二条第一項の規定により国が引き継がせるものとされた業務を承継したものをいう。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律において「西日本電信電話株式会社」とは、次条第六項第二号に定める区域において地域電気通信事業を経営することを目的とする株式会社であつて、平成九年改正法附則第二条第一項の規定により国が引き継がせるものとされた業務を承継したものをいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -81,25 +81,25 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">それぞれ次に掲げる都道府県の区域（電気通信役務の利用状況を勘案して特に必要があると認められるときは、総務省令で別に定める区域。以下この号及び次項第二号において同じ。）において行う地域電気通信業務（同一の都道府県の区域内における通信を媒介する電気通信役務を提供する電気通信業務をいう。以下この条及び第二十三条第二号において同じ。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地域電気通信業務（その目的業務区域内において、基礎的電気通信役務（電気通信事業法（昭和五十九年法律第八十六号）第七条に規定する基礎的電気通信役務をいう。）及びその他の電気通信役務（通信を媒介するものに限り、次に掲げる電気通信役務を除く。）を提供する電気通信業務をいう。以下この条及び第二十三条第三号において同じ。）</Sentence>
             </ItemSentence>
             <Subitem1 Num="1">
               <Subitem1Title>イ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">東日本電信電話株式会社にあつては、北海道、青森県、岩手県、宮城県、秋田県、山形県、福島県、茨城県、栃木県、群馬県、埼玉県、千葉県、東京都、神奈川県、新潟県、山梨県及び長野県</Sentence>
+                <Sentence Num="1" WritingMode="vertical">その一端が移動端末設備（電気通信事業法第十二条の二第四項第三号ロに規定する移動端末設備をいう。）と接続される伝送路設備であつて総務省令で定めるものを用いる電気通信役務</Sentence>
               </Subitem1Sentence>
             </Subitem1>
             <Subitem1 Num="2">
               <Subitem1Title>ロ</Subitem1Title>
               <Subitem1Sentence>
-                <Sentence Num="1" WritingMode="vertical">西日本電信電話株式会社にあつては、京都府及び大阪府並びにイに掲げる県以外の県</Sentence>
+                <Sentence Num="1" WritingMode="vertical">専らインターネットへの接続を可能とする電気通信役務を提供するために設置される電気通信設備として総務省令で定めるものを用いる電気通信役務</Sentence>
               </Subitem1Sentence>
             </Subitem1>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">前号に掲げる業務に附帯する業務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地域電気通信業務に附帯する業務</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -107,7 +107,7 @@
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">地域会社は、次に掲げる業務を営むことができる。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、地域会社は、総務省令で定めるところにより、あらかじめ、総務省令で定める事項を総務大臣に届け出なければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、地域会社は、当該業務を開始したときは、総務省令で定めるところにより、総務省令で定める事項を総務大臣に届け出なければならない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -118,22 +118,98 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">それぞれ前項第一号の規定により地域電気通信業務を営むものとされた都道府県の区域（次項において「目的業務区域」という。）以外の都道府県の区域において行う地域電気通信業務</Sentence>
+              <Sentence Num="1" WritingMode="vertical">他の地域会社の目的業務区域内における通信を媒介する電気通信役務（前項第一号イ及びロに掲げる電気通信役務を除く。）を提供する電気通信業務</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">地域電気通信業務は、地域会社が自ら設置する電気通信設備を用いて行わなければならない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電話の役務をあまねく目的業務区域において適切、公平かつ安定的に提供することを確保するために必要があると認められる場合であつて、総務省令で定めるところにより、総務大臣の認可を受けたときは、この限りでない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">地域電気通信業務（前項第二号に掲げる業務を含み、目的業務区域内の各都道府県の区域（電気通信役務の利用状況を勘案して特に必要があると認められるときは、総務省令で別に定める区域。以下この項において同じ。）と当該目的業務区域内の他の各都道府県の区域との間の通信を媒介する電気通信役務を提供する電気通信業務を除く。第二十三条第三号において同じ。）は、地域会社が自ら設置する電気通信設備を用いて行わなければならない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電話の役務をあまねく目的業務区域において適切、公平かつ安定的に提供すること又は地域電気通信業務（電話の役務に係るものを除く。）に係る電気通信役務の適切かつ安定的な提供を確保するために必要があると認められる場合であつて、総務省令で定めるところにより、総務大臣の認可を受けたときは、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">地域会社は、第三項及び第四項に規定する業務のほか、第三項に規定する業務の円滑な遂行及び電気通信事業の公正な競争の確保に支障のない範囲内で、同項に規定する業務を営むために保有する設備若しくは技術又はその職員を活用して行う電気通信業務その他の業務を営むことができる。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、地域会社は、総務省令で定めるところにより、あらかじめ、総務省令で定める事項を総務大臣に届け出なければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前三項において「目的業務区域」とは、次の各号に掲げる地域会社の区分に応じ、当該各号に定める区域をいう。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">東日本電信電話株式会社</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">北海道、青森県、岩手県、宮城県、秋田県、山形県、福島県、茨城県、栃木県、群馬県、埼玉県、千葉県、東京都、神奈川県、新潟県、山梨県及び長野県の区域を合わせた区域（電気通信役務の利用状況を勘案して特に必要があると認められるときは、総務省令で定める区域を含み、総務省令で定める区域を除く。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">西日本電信電話株式会社</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">京都府及び大阪府並びに前号に規定する県以外の県の区域を合わせた区域（電気通信役務の利用状況を勘案して特に必要があると認められるときは、総務省令で定める区域を含み、総務省令で定める区域を除く。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地域会社は、第三項及び第四項に規定する業務のほか、第三項に規定する業務を営むために保有する設備若しくは技術又はその職員を活用して行う電気通信業務その他の業務（同項第一号イ及びロに掲げる電気通信役務を提供する電気通信業務その他総務省令で定める業務を除く。以下この条において「活用業務」という。）を営むことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地域会社は、前項の規定により活用業務を営もうとするときは、総務省令で定めるところにより、あらかじめ、活用業務の実施に関する基準（以下この条において「実施基準」という。）を定め、これを総務大臣に届け出るとともに、公表しなければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="9">
+          <ParagraphNum>９</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">実施基準は、地域会社が活用業務を営むに当たつて遵守すべき次に掲げる事項に関し、総務省令で定めるところにより、必要な内容を定めたものでなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">活用業務が第三項に規定する業務の円滑な遂行に支障のない範囲内において営まれることを確保するための措置に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">活用業務が電気通信事業の公正な競争の確保に支障のない範囲内において営まれることを確保するための措置に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="10">
+          <ParagraphNum>１０</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地域会社は、活用業務を営むに当たつては、実施基準に定めるところに従わなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="11">
+          <ParagraphNum>１１</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地域会社は、毎事業年度、総務省令で定めるところにより、活用業務の実施状況その他の総務省令で定める事項を総務大臣に報告するとともに、公表しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="12">
+          <ParagraphNum>１２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">総務大臣は、実施基準が第九項の規定に適合しないと認めるときは、地域会社に対し、これを変更すべきことを命ずることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="13">
+          <ParagraphNum>１３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">総務大臣は、地域会社が実施基準を遵守していないと認めるときは、地域会社に対し、活用業務が第三項に規定する業務の円滑な遂行及び電気通信事業の公正な競争の確保に支障のない範囲内において営まれることを確保するために必要な限度において、実施基準を遵守すべきことを命ずることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -160,7 +236,7 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">会社は、その発行する株式を引き受ける者の募集（以下「新株募集」という。）をしようとするとき又は株式交換若しくは株式交付に際して株式（会社が有する自己の株式（以下「自己株式」という。）を除く。）の交付をしようとするときは、総務大臣の認可を受けなければならない。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">会社法（平成十七年法律第八十六号）第二百三十八条第一項に規定する募集新株予約権（新株予約権付社債に付されたものに限る。次条第二項及び第二十三条第四号において「募集新株予約権」という。）を引き受ける者の募集をしようとするとき又は株式交換若しくは株式交付に際して新株予約権付社債（会社が有する自己の新株予約権付社債（同号において「自己新株予約権付社債」という。）を除く。）の交付をしようとするときも、同様とする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">会社法（平成十七年法律第八十六号）第二百三十八条第一項に規定する募集新株予約権（新株予約権付社債に付されたものに限る。次条第二項及び第二十三条第六号において「募集新株予約権」という。）を引き受ける者の募集をしようとするとき又は株式交換若しくは株式交付に際して新株予約権付社債（会社が有する自己の新株予約権付社債（同号において「自己新株予約権付社債」という。）を除く。）の交付をしようとするときも、同様とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -216,7 +292,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">会社は、社債、株式等の振替に関する法律（平成十三年法律第七十五号）第百五十一条第一項又は第八項の規定による通知に係る株主のうちの前項各号に掲げる者が各自有する株式のすべてについて同法第百五十二条第一項の規定により株主名簿に記載し、又は記録することとした場合に外国人等議決権割合が三分の一以上となるときは、外国人等議決権割合が三分の一以上とならないように当該株式の一部に限つて株主名簿に記載し、又は記録する方法として総務省令で定める方法に従い記載し、又は記録することができる株式以外の株式については、同項の規定にかかわらず、同項の規定による株主名簿の記載又は記録をしてはならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">会社は、社債、株式等の振替に関する法律（平成十三年法律第七十五号）第百五十一条第一項又は第八項の規定による通知に係る株主のうちの前項各号に掲げる者が各自有する株式の全てについて同法第百五十二条第一項の規定により株主名簿に記載し、又は記録することとした場合に外国人等議決権割合が三分の一以上となるときは、外国人等議決権割合が三分の一以上とならないように当該株式の一部に限つて株主名簿に記載し、又は記録する方法として総務省令で定める方法に従い記載し、又は記録することができる株式以外の株式については、同項の規定にかかわらず、同項の規定による株主名簿の記載又は記録をしてはならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
@@ -228,7 +304,19 @@
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">会社は、会社法第百二十四条第一項に規定する基準日から総務省令で定める日数前までに、総務省令で定める方法により、その外国人等議決権割合を公告しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">会社は、会社法第百二十四条第一項に規定する基準日から総務省令で定める日数前までに、総務省令で定めるところにより、その外国人等議決権割合を公告するとともに、総務大臣に報告しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">会社は、外国人等議決権割合に総務省令で定める変更があつたときは、総務省令で定めるところにより、当該変更の内容を総務大臣に報告しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">会社は、第一項から第三項までの規定の遵守を確保するため、関係職員の知識の習得及び向上を図るために必要な研修その他の措置を講ずるとともに、総務省令で定めるところにより、総務省令で定める期間ごとに、その実施状況を総務大臣に報告しなければならない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -321,13 +409,38 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">会社及び地域会社の定款の変更の決議（会社又は地域会社の商号の変更に係る定款の変更についての決議を除く。）並びに合併、分割及び解散の決議は、総務大臣の認可を受けなければ、その効力を生じない。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">会社及び地域会社の定款の変更の決議並びに合併、分割及び解散の決議は、総務大臣の認可を受けなければ、その効力を生じない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次に掲げる事項の決議は、この限りでない。</Sentence>
           </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">会社又は地域会社の商号の変更に係る定款の変更</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">電気通信事業を営まない法人であつて資本の額その他の経営の規模が総務省令で定める基準に達しないものの権利義務の全部を地域会社に承継させる合併</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">地域会社の電気通信事業以外の事業であつてその規模が総務省令で定める基準に達しないものに係る権利義務の全部又は一部を他の法人に承継させる分割</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、第二条第一項又は第三項に規定する業務の円滑な遂行及び電気通信事業の公正な競争の確保に支障のないものとして総務省令で定める合併又は分割</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">地域会社に係る前項に規定する合併の決議又は分割の決議（電気通信事業の全部を承継させる分割についての決議に限る。）についての総務大臣の認可があつたときは、電気通信事業法（昭和五十九年法律第八十六号）第十七条第二項の届出があつたものとみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">地域会社に係る合併の決議又は分割の決議（電気通信事業の全部を承継させる分割についての決議に限る。）についての前項の認可があつたときは、電気通信事業法第十七条第二項の届出があつたものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -343,28 +456,30 @@
         </Paragraph>
       </Article>
       <Article Num="13">
-        <ArticleCaption>（財務諸表）</ArticleCaption>
+        <ArticleCaption>（重要な設備等の譲渡等）</ArticleCaption>
         <ArticleTitle>第十三条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">会社及び地域会社は、毎事業年度終了後三月以内に、その事業年度の貸借対照表、損益計算書及び事業報告書を総務大臣に提出しなければならない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">地域会社は、次に掲げる物について、譲り渡し、担保に供し、その他総務省令で定める処分をしようとするときは、総務大臣の認可を受けなければならない。</Sentence>
           </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">電気通信幹線路及びこれに準ずる重要な電気通信設備</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">電気通信設備の設置に必要な建物その他の工作物及び土地（総務省令で定めるものに限る。）</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Num="14">
-        <ArticleCaption>（重要な設備の譲渡等）</ArticleCaption>
-        <ArticleTitle>第十四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">地域会社は、電気通信幹線路及びこれに準ずる重要な電気通信設備を譲渡し、又は担保に供しようとするときは、総務大臣の認可を受けなければならない。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="15">
         <ArticleCaption>（監査命令等）</ArticleCaption>
-        <ArticleTitle>第十五条</ArticleTitle>
+        <ArticleTitle>第十四条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -378,9 +493,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="16">
+      <Article Num="15">
         <ArticleCaption>（監督）</ArticleCaption>
-        <ArticleTitle>第十六条</ArticleTitle>
+        <ArticleTitle>第十五条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -394,9 +509,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="17">
+      <Article Num="16">
         <ArticleCaption>（報告）</ArticleCaption>
-        <ArticleTitle>第十七条</ArticleTitle>
+        <ArticleTitle>第十六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -404,9 +519,9 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="18">
+      <Article Num="17">
         <ArticleCaption>（財務大臣との協議）</ArticleCaption>
-        <ArticleTitle>第十八条</ArticleTitle>
+        <ArticleTitle>第十七条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -421,18 +536,24 @@
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">地域会社に対し、第十一条第一項（合併、分割及び解散の決議に係るものに限る。）、第十二条又は第十四条の認可をしようとするとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地域会社に対し、第十一条第一項（合併、分割及び解散の決議に係るものに限る。）、第十二条又は第十三条の認可をしようとするとき。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第十一条第一項第二号から第四号までの総務省令を制定し、又は改廃しようとするとき。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="18_2">
+      <Article Num="18">
         <ArticleCaption>（監査等委員会設置会社等である場合の読替え）</ArticleCaption>
-        <ArticleTitle>第十八条の二</ArticleTitle>
+        <ArticleTitle>第十八条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">会社又は地域会社が監査等委員会設置会社である場合における第十条第二項及び第三項並びに第十五条の規定の適用については、これらの規定中「監査役」とあるのは、「監査等委員」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">会社又は地域会社が監査等委員会設置会社である場合における第十条第二項及び第三項並びに第十四条の規定の適用については、これらの規定中「監査役」とあるのは、「監査等委員」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -466,7 +587,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第十五条</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第十四条</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">監査役</Sentence>
@@ -488,7 +609,7 @@
               </TableRow>
               <TableRow>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                  <Sentence Num="1" WritingMode="vertical">第二十五条</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第二十五条及び第二十六条</Sentence>
                 </TableColumn>
                 <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                   <Sentence Num="1" WritingMode="vertical">取締役</Sentence>
@@ -574,61 +695,55 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第二条第二項、第四項若しくは第六項又は第十条第三項（第十八条の二の規定により読み替えて適用する場合を含む。）の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第一項から第四項まで及び第七項に規定する業務以外の業務を行つたとき。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第二条第五項の規定に違反して、地域電気通信業務を行つたとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第二項、第四項若しくは第八項又は第十条第三項（第十八条の規定により読み替えて適用する場合を含む。）の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第二条（第五項を除く。）に規定する業務以外の業務を行つたとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第五項の規定に違反して、地域電気通信業務を行つたとき。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="4">
             <ItemTitle>四</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第四条第二項又は第五条第二項の規定に違反して、新株募集をしたとき若しくは株式交換若しくは株式交付に際して株式（自己株式を除く。）の交付をしたとき又は募集新株予約権を引き受ける者の募集をしたとき若しくは株式交換若しくは株式交付に際して新株予約権付社債（自己新株予約権付社債を除く。）の交付をしたとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第十一項、第六条第四項から第六項まで又は第十六条の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="5">
             <ItemTitle>五</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第五条第一項の規定に違反して、地域会社の株式を処分したとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二条第十二項若しくは第十三項又は第十五条第二項の規定による命令に違反したとき。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="6">
             <ItemTitle>六</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第十二条の規定に違反して、事業年度の開始前までに、又は変更に係る事業計画に基づく業務の実施前までに、認可の申請をしなかつたとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第四条第二項又は第五条第二項の規定に違反して、新株募集をしたとき若しくは株式交換若しくは株式交付に際して株式（自己株式を除く。）の交付をしたとき又は募集新株予約権を引き受ける者の募集をしたとき若しくは株式交換若しくは株式交付に際して新株予約権付社債（自己新株予約権付社債を除く。）の交付をしたとき。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="7">
             <ItemTitle>七</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第十三条の規定に違反して、貸借対照表、損益計算書若しくは事業報告書を提出せず、又は不実の記載又は記録をしたこれらのものを提出したとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第五条第一項の規定に違反して、地域会社の株式を処分したとき。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="8">
             <ItemTitle>八</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第十四条の規定に違反して、設備を譲渡し、又は担保に供したとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条の規定に違反して、事業年度の開始前までに、又は変更に係る事業計画に基づく業務の実施前までに、認可の申請をしなかつたとき。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="9">
             <ItemTitle>九</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第十六条第二項の規定による命令に違反したとき。</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="10">
-            <ItemTitle>十</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">第十七条の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第十三条の認可を受けないで、同条各号に掲げる物について、譲り渡し、担保に供し、その他同条の総務省令で定める処分をしたとき。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -644,6 +759,15 @@
       </Article>
       <Article Num="25">
         <ArticleTitle>第二十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条第八項又は第十一項の規定に違反して、公表することを怠り、又は不実の公表をした地域会社の取締役は、百万円以下の過料に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="26">
+        <ArticleTitle>第二十六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
@@ -2518,6 +2642,26 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="10">
+        <ArticleCaption>（地域会社の業務に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地域会社（第三条の規定による改正前の日本電信電話株式会社等に関する法律第二条第一項第一号に規定する地域会社をいう。以下この条において同じ。）は、この法律の施行の際現に第三条の規定による改正前の日本電信電話株式会社等に関する法律第二条第六項に規定する電気通信業務その他の業務を営んでいるときは、施行日から起算して三月を経過する日（地域会社が同日前に第三条の規定による改正後の日本電信電話株式会社等に関する法律第二条第八項の規定による同項に規定する実施基準の届出及び公表をしたときは、当該届出をした日又は当該公表をした日のいずれか遅い日）までの間は、第三条の規定による改正後の日本電信電話株式会社等に関する法律第二条第八項の規定にかかわらず、当該業務を従前の例により営むことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条第三号に掲げる規定については、当該規定。以下この条において同じ。）の施行前にした行為並びに附則第九条第五項及び前条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="12">
         <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
         <ArticleTitle>第十二条</ArticleTitle>
@@ -2525,6 +2669,22 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後三年を目途として、この法律による改正後の電気通信事業法及び日本電信電話株式会社等に関する法律の施行の状況並びに電気通信技術の進展の状況及びその利用の動向、電気通信事業法第二条第五号に規定する電気通信事業者間の競争の状況その他内外の社会経済情勢の変化を勘案し、引き続き、国民生活に不可欠な電気通信役務（同条第三号に規定する電気通信役務をいう。以下この項において同じ。）のあまねく日本全国における適切、公平かつ安定的な提供の確保、電気通信事業（同条第四号に規定する電気通信事業をいう。以下この項において同じ。）の公正な競争の促進、電気通信事業及びその関連事業の国際競争力の強化、電気通信事業に係る安全保障の確保、災害その他非常の事態における通信を確保する能力の強化並びに生活の利便性の向上、事業活動の効率化及び地域経済の活性化に寄与する電気通信役務の利用の促進等を図る観点から、電気通信事業に係る制度の在り方について検討を加えるとともに、日本電信電話株式会社等に関する法律の改廃を含め、第四条の規定による改正後の日本電信電話株式会社等に関する法律第二条第一項に規定する日本電信電話株式会社、同条第二項に規定する東日本電信電話株式会社及び同条第三項に規定する西日本電信電話株式会社に係る制度の在り方について検討を加え、それらの結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日から第三号施行日の前日までの間における前項の規定の適用については、同項中「第四条」とあるのは「第三条」と、「第二条第一項」とあるのは「第一条の二第一項」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
