@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="064" Year="29" PromulgateMonth="06" PromulgateDay="16"><LawNum>平成二十九年法律第六十四号</LawNum><LawBody><LawTitle Kana="でんしいにんじょうのふきゅうのそくしんにかんするほうりつ" Abbrev="電子委任状法" AbbrevKana="で">電子委任状の普及の促進に関する法律</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="29" Num="064" PromulgateMonth="06" PromulgateDay="16" LawType="Act"><LawNum>平成二十九年法律第六十四号</LawNum><LawBody><LawTitle Kana="でんしいにんじょうのふきゅうのそくしんにかんするほうりつ" Abbrev="電子委任状法" AbbrevKana="で">電子委任状の普及の促進に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -221,7 +221,7 @@
                     <Sentence Num="1" WritingMode="vertical">電気通信事業法（昭和五十九年法律第八十六号）第九条の登録を受けなければならない場合</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">同法第十条第一項第二号から第五号までの事項</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">同法第十条第一項第二号、第三号（イ及びロに係る部分を除く。）、第四号及び第六号に掲げる事項</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -232,7 +232,7 @@
                     <Sentence Num="1" WritingMode="vertical">電気通信事業法第十三条第一項の変更登録を受けなければならない場合</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">同法第十条第一項第三号又は第四号の事項のうち当該申請に係る電子委任状取扱業務を実施するに当たり変更することとなるもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">同法第十条第一項第三号（イ及びロに係る部分を除く。）又は第四号に掲げる事項のうち当該申請に係る電子委任状取扱業務を実施するに当たり変更することとなるもの</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -243,7 +243,7 @@
                     <Sentence Num="1" WritingMode="vertical">電気通信事業法第十三条第五項の届出をしなければならない場合</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">同法第十条第一項第二号から第五号までの事項のうち当該申請に係る電子委任状取扱業務を実施するに当たり変更することとなるもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">同法第十条第一項第二号、第三号（イ及びロに係る部分を除く。）、第四号又は第六号に掲げる事項のうち当該申請に係る電子委任状取扱業務を実施するに当たり変更することとなるもの</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -254,7 +254,7 @@
                     <Sentence Num="1" WritingMode="vertical">電気通信事業法第十六条第一項の届出をしなければならない場合</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">同項第二号から第五号までの事項</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">同項第二号、第三号（イ及びロに係る部分を除く。）、第四号及び第六号に掲げる事項</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -265,7 +265,7 @@
                     <Sentence Num="1" WritingMode="vertical">電気通信事業法第十六条第三項の届出をしなければならない場合</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">同条第一項第二号又は第五号の事項のうち当該申請に係る電子委任状取扱業務を実施するに当たり変更することとなるもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">同条第一項第二号又は第六号に掲げる事項のうち当該申請に係る電子委任状取扱業務を実施するに当たり変更することとなるもの</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -276,7 +276,7 @@
                     <Sentence Num="1" WritingMode="vertical">電気通信事業法第十六条第四項の届出をしなければならない場合</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">同条第一項第三号又は第四号の事項のうち当該申請に係る電子委任状取扱業務を実施するに当たり変更することとなるもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">同条第一項第三号（イ及びロに係る部分を除く。）又は第四号に掲げる事項のうち当該申請に係る電子委任状取扱業務を実施するに当たり変更することとなるもの</Sentence>
                   </Column>
                 </Subitem1Sentence>
               </Subitem1>
@@ -741,6 +741,19 @@
       </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和四年六月一七日法律第七〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>

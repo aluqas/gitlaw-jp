@@ -7,7 +7,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律は、日本電信電話株式会社（日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第一条の二第一項に規定する日本電信電話株式会社をいう。第六条第一項において同じ。）の株式の売払収入による国債整理基金の資金の一部を運用し、社会資本の整備の促進を図るため、国の融資等に関する特別措置を講ずるとともに当該資金の運用等に関し必要な事項を定めるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、日本電信電話株式会社（日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第二条第一項に規定する日本電信電話株式会社をいう。第六条第一項において同じ。）の株式の売払収入による国債整理基金の資金の一部を運用し、社会資本の整備の促進を図るため、国の融資等に関する特別措置を講ずるとともに当該資金の運用等に関し必要な事項を定めるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -670,6 +670,37 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、公布の日の翌日から施行する。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条及び第四条の規定並びに附則第八条第一項及び第七項、第九条第五項、第十六条並びに第十七条の規定、附則第十八条中電話加入権質に関する臨時特例法（昭和三十三年法律第百三十八号）第五条第一項の改正規定並びに附則第二十条及び第二十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>

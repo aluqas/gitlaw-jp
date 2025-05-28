@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="062" Year="25" PromulgateMonth="03" PromulgateDay="31">
-  <LawNum>昭和二十五年法律第六十二号</LawNum>
-  <LawBody>
-    <LawTitle Kana="たいしょくしょくいんにしきゅうするたいしょくてあてしきゅうのざいげんにあてるためのとくべつかいけいとうからするいっぱんかいけいへのくりいれにかんするほうりつ" Abbrev="" AbbrevKana="">退職職員に支給する退職手当支給の財源に充てるための特別会計からする一般会計への繰入れに関する法律</LawTitle>
+<Law Lang="ja" Era="Showa" Year="25" Num="062" PromulgateMonth="03" PromulgateDay="31" LawType="Act"><LawNum>昭和二十五年法律第六十二号</LawNum><LawBody><LawTitle Kana="たいしょくしょくいんにしきゅうするたいしょくてあてしきゅうのざいげんにあてるためのとくべつかいけいとうからするいっぱんかいけいへのくりいれにかんするほうりつ" Abbrev="" AbbrevKana="">退職職員に支給する退職手当支給の財源に充てるための特別会計からする一般会計への繰入れに関する法律</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（各特別会計からの繰入れ）</ArticleCaption>
@@ -565,7 +562,7 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第四条第三項の規定に基づく新法第十条の規定による退職手当の支給に要する費用の財源に充てるために負担すべき金額の政府の一般会計への納付及びこれによる一般会計の受入金の過不足額の調整については、第二十一条の規定による改正前の退職職員に支給する退職手当支給の財源に充てるための特別会計等からする一般会計への繰入及び納付に関する法律第二条及び第三条の規定は、なおその効力を有する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同法第二条中「日本電信電話公社」とあるのは、「日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第一条の二第一項に規定する日本電信電話株式会社」とする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第二条中「日本電信電話公社」とあるのは、「日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第二条第一項に規定する日本電信電話株式会社」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1202,6 +1199,37 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、公布の日の翌日から施行する。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条及び第四条の規定並びに附則第八条第一項及び第七項、第九条第五項、第十六条並びに第十七条の規定、附則第十八条中電話加入権質に関する臨時特例法（昭和三十三年法律第百三十八号）第五条第一項の改正規定並びに附則第二十条及び第二十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="138" Year="33" PromulgateMonth="05" PromulgateDay="06"><LawNum>昭和三十三年法律第百三十八号</LawNum><LawBody><LawTitle Kana="でんわかにゅうけんしつにかんするりんじとくれいほう" Abbrev="電質法" AbbrevKana="で">電話加入権質に関する臨時特例法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="33" Num="138" PromulgateMonth="05" PromulgateDay="06" LawType="Act"><LawNum>昭和三十三年法律第百三十八号</LawNum><LawBody><LawTitle Kana="でんわかにゅうけんしつにかんするりんじとくれいほう" Abbrev="電質法" AbbrevKana="で">電話加入権質に関する臨時特例法</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（質権の設定）</ArticleCaption>
@@ -7,7 +7,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">電話加入権（電気通信事業法（昭和五十九年法律第八十六号。以下「事業法」という。）附則第九条第一項又は第二項に規定する権利をいう。以下同じ。）を有する者は、同条第一項の規定により事業法附則第三条の規定による廃止前の公衆電気通信法第三十八条から第三十八条の三までの規定がなおその効力を有する間は、この法律の定めるところにより、その電話加入権に質権を設定することができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">電話加入権（電気通信事業法（昭和五十九年法律第八十六号。以下「事業法」という。）附則第六条第一項又は第二項に規定する権利をいう。以下同じ。）を有する者は、同条第一項の規定により事業法附則第二条の規定による廃止前の公衆電気通信法第三十八条から第三十八条の三までの規定がなおその効力を有する間は、この法律の定めるところにより、その電話加入権に質権を設定することができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -48,7 +48,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">電話加入権を目的とする質権の設定、変更、移転又は消滅は、電話取扱局（日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第一条の二第二項に規定する東日本電信電話株式会社又は同条第三項に規定する西日本電信電話株式会社（以下「会社」という。）において電話に関する現業事務を取り扱う事業所をいう。以下同じ。）に備える原簿に登録しなければ、会社その他の第三者に対抗することができない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">電話加入権を目的とする質権の設定、変更、移転又は消滅は、電話取扱局（日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第二条第二項に規定する東日本電信電話株式会社又は同条第三項に規定する西日本電信電話株式会社（以下「会社」という。）において電話に関する現業事務を取り扱う事業所をいう。以下同じ。）に備える原簿に登録しなければ、会社その他の第三者に対抗することができない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -69,7 +69,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">質権の登録を請求する書類は、事業法附則第九条の規定により、なおその効力を有することとされ、又はその例によることとされる事業法附則第三条の規定による廃止前の公衆電気通信法（昭和二十八年法律第九十七号。次項において「旧公衆法」という。）第三十八条の三第一項第一号に掲げる書類に該当する書類とみなして同項の規定を適用し、質権の登録は、電話加入権の譲渡の承認に該当するものとみなして同条第二項の規定を適用し、同条第三項の規定は、質権の登録と同条第一項第二号の差押え又は同項第三号の差押え、仮差押え若しくは仮処分との関係について準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">質権の登録を請求する書類は、事業法附則第六条の規定により、なおその効力を有することとされ、又はその例によることとされる事業法附則第二条の規定による廃止前の公衆電気通信法（昭和二十八年法律第九十七号。次項において「旧公衆法」という。）第三十八条の三第一項第一号に掲げる書類に該当する書類とみなして同項の規定を適用し、質権の登録は、電話加入権の譲渡の承認に該当するものとみなして同条第二項の規定を適用し、同条第三項の規定は、質権の登録と同条第一項第二号の差押え又は同項第三号の差押え、仮差押え若しくは仮処分との関係について準用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
@@ -477,6 +477,37 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、公布の日の翌日から施行する。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条及び第四条の規定並びに附則第八条第一項及び第七項、第九条第五項、第十六条並びに第十七条の規定、附則第十八条中電話加入権質に関する臨時特例法（昭和三十三年法律第百三十八号）第五条第一項の改正規定並びに附則第二十条及び第二十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>
