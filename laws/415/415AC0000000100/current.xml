@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="100" Year="15" PromulgateMonth="06" PromulgateDay="20"><LawNum>平成十五年法律第百号</LawNum><LawBody><LawTitle Kana="どくりつぎょうせいほうじんとしさいせいきこうほう" Abbrev="" AbbrevKana="">独立行政法人都市再生機構法</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="15" Num="100" PromulgateMonth="06" PromulgateDay="20" LawType="Act"><LawNum>平成十五年法律第百号</LawNum><LawBody><LawTitle Kana="どくりつぎょうせいほうじんとしさいせいきこうほう" Abbrev="" AbbrevKana="">独立行政法人都市再生機構法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -465,7 +465,7 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">マンションの建替え等の円滑化に関する法律（平成十四年法律第七十八号）第百五条の二に規定する業務</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">マンションの再生等の円滑化に関する法律（平成十四年法律第七十八号）第百六十三条の六十に規定する業務</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
@@ -2994,6 +2994,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月三〇日法律第四七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
