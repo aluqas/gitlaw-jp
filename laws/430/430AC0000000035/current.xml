@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="035" Year="30" PromulgateMonth="06" PromulgateDay="01">
-  <LawNum>平成三十年法律第三十五号</LawNum>
-  <LawBody>
-    <LawTitle Kana="しんりんけいえいかんりほう" Abbrev="" AbbrevKana="">森林経営管理法</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="30" Num="035" PromulgateMonth="06" PromulgateDay="01" LawType="Act"><LawNum>平成三十年法律第三十五号</LawNum><LawBody><LawTitle Kana="しんりんけいえいかんりほう" Abbrev="" AbbrevKana="">森林経営管理法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -40,20 +37,39 @@
         <ArticleRange>（第三十五条―第四十一条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="5">
-        <ChapterTitle>第五章　災害等防止措置命令等</ChapterTitle>
-        <ArticleRange>（第四十二条・第四十三条）</ArticleRange>
+        <ChapterTitle>第五章　経営管理の集約化の推進</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　定義</SectionTitle>
+          <ArticleRange>（第四十二条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　地域経営管理集約化構想の作成等</SectionTitle>
+          <ArticleRange>（第四十三条―第五十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　権利集積配分一括計画の作成等</SectionTitle>
+          <ArticleRange>（第五十一条―第五十六条）</ArticleRange>
+        </TOCSection>
       </TOCChapter>
       <TOCChapter Num="6">
-        <ChapterTitle>第六章　林業経営者に対する支援措置</ChapterTitle>
-        <ArticleRange>（第四十四条―第四十六条）</ArticleRange>
+        <ChapterTitle>第六章　経営管理支援法人</ChapterTitle>
+        <ArticleRange>（第五十七条―第六十一条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="7">
-        <ChapterTitle>第七章　雑則</ChapterTitle>
-        <ArticleRange>（第四十七条―第五十一条）</ArticleRange>
+        <ChapterTitle>第七章　災害等防止措置命令等</ChapterTitle>
+        <ArticleRange>（第六十二条・第六十三条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="8">
-        <ChapterTitle>第八章　罰則</ChapterTitle>
-        <ArticleRange>（第五十二条・第五十三条）</ArticleRange>
+        <ChapterTitle>第八章　林業経営者に対する支援措置</ChapterTitle>
+        <ArticleRange>（第六十四条―第六十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="9">
+        <ChapterTitle>第九章　雑則</ChapterTitle>
+        <ArticleRange>（第六十七条―第七十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="10">
+        <ChapterTitle>第十章　罰則</ChapterTitle>
+        <ArticleRange>（第七十二条・第七十三条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -68,7 +84,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律は、森林法（昭和二十六年法律第二百四十九号）第五条第一項の規定によりたてられた地域森林計画の対象とする森林について、市町村が、経営管理権集積計画を定め、森林所有者から経営管理権を取得した上で、自ら経営管理を行い、又は経営管理実施権を民間事業者に設定する等の措置を講ずることにより、林業経営の効率化及び森林の管理の適正化の一体的な促進を図り、もって林業の持続的発展及び森林の有する多面的機能の発揮に資することを目的とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、森林法（昭和二十六年法律第二百四十九号）第五条第一項の規定によりたてられた地域森林計画の対象とする森林について、市町村が、森林所有者から経営管理権を取得した上で、自ら経営管理を行い、又は経営管理実施権を民間事業者に設定する等の措置を講ずることにより、林業経営の効率化及び森林の管理の適正化の一体的な促進を図り、もって林業の持続的発展及び森林の有する多面的機能の発揮に資することを目的とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -90,7 +106,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「経営管理」とは、森林（森林法第五条第一項の規定によりたてられた地域森林計画の対象とするものに限る。第五章を除き、以下同じ。）について自然的経済的社会的諸条件に応じた適切な経営又は管理を持続的に行うことをいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「経営管理」とは、森林（森林法第五条第一項の規定によりたてられた地域森林計画の対象とするものに限る。第七章を除き、以下同じ。）について自然的経済的社会的諸条件に応じた適切な経営又は管理を持続的に行うことをいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -193,29 +209,31 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項第五号に規定する算定方法を定めるに当たっては、計画的かつ確実に伐採後の造林及び保育が実施されることにより経営管理が行われるよう、伐採後の造林及び保育に要する経費が適切に算定されなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項第五号に規定する算定方法を定めるに当たっては、計画的かつ確実に伐採後の造林及び保育が実施されるよう、伐採後の造林及び保育に要する経費が適切に算定されなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">経営管理権集積計画は、森林法第十条の五第一項の規定によりたてられた市町村森林整備計画、都道府県の治山事業（同法第十条の十五第四項第四号に規定する治山事業をいう。）の実施に関する計画その他地方公共団体の森林の整備及び保全に関する計画との調和が保たれたものでなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">経営管理権集積計画は、森林法第十条の五第一項の規定によりたてられた市町村森林整備計画、都道府県の治山事業（同法第十条の十五第四項第四号に規定する治山事業をいう。第四十三条第五項第一号及び第五十一条第五項第二号において同じ。）の実施に関する計画その他地方公共団体の森林の整備及び保全に関する計画との調和が保たれたものでなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">経営管理権集積計画は、集積計画対象森林ごとに、当該集積計画対象森林について所有権、地上権、質権、使用貸借による権利、賃借権又はその他の使用及び収益を目的とする権利を有する者の全部の同意が得られているものでなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">経営管理権集積計画は、集積計画対象森林ごとに、当該集積計画対象森林について所有権、地上権、質権、使用貸借による権利、賃借権又はその他の使用及び収益を目的とする権利を有する者の全部の同意が得られているものでなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、数人の共有に属する集積計画対象森林について経営管理権（その存続期間が五十年を超えないものであって、当該経営管理権に基づいて行われる経営管理の内容が間伐（これに係る木材の販売を含む。）及び保育のみであるものに限る。第十条及び第五十一条第五項第三号ただし書において「間伐等経営管理権」という。）を設定する場合における当該集積計画対象森林について所有権を有する者の同意については、当該集積計画対象森林の立木竹及び土地のそれぞれについて二分の一を超える共有持分を有する者の同意が得られていれば足りるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Num="5">
-            <ArticleCaption>（経営管理意向調査）</ArticleCaption>
+            <ArticleCaption>（意向調査）</ArticleCaption>
             <ArticleTitle>第五条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">市町村は、経営管理権集積計画を定める場合には、農林水産省令で定めるところにより、集積計画対象森林の森林所有者（次条第一項の規定による申出に係るものを除く。）に対し、当該集積計画対象森林についての経営管理の意向に関する調査（第四十八条第一項第一号において「経営管理意向調査」という。）を行うものとする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">市町村は、経営管理権集積計画を定める場合には、農林水産省令で定めるところにより、集積計画対象森林の森林所有者（次条第一項の規定による申出に係るものを除く。）に対し、当該集積計画対象森林についての経営管理の意向に関する調査を行うものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該集積計画対象森林について、既に第四十五条第二項の規定による調査を行っている場合は、当該調査の実施をもって、この条の規定による調査の実施に代えることができるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -312,7 +330,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">市町村は、経営管理権集積計画（存続期間が五十年を超えない経営管理権の設定を市町村が受けることを内容とするものに限る。以下この款において同じ。）を定める場合において、集積計画対象森林のうちに、数人の共有に属する森林であってその森林所有者の一部を確知することができないもの（以下「共有者不明森林」という。）があり、かつ、当該森林所有者で知れているものの全部が当該経営管理権集積計画に同意しているときは、相当な努力が払われたと認められるものとして政令で定める方法により、当該森林所有者で確知することができないもの（以下「不明森林共有者」という。）の探索を行うものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">市町村は、経営管理権集積計画（存続期間が五十年を超えない経営管理権の設定を市町村が受けることを内容とするものに限る。以下この款において同じ。）を定める場合において、集積計画対象森林のうちに、数人の共有に属する森林であってその森林所有者の一部を確知することができないもの（以下「共有者不明森林」という。）があり、かつ、当該森林所有者で知れているもののうちいずれかの者が当該経営管理権集積計画に同意しているとき（当該共有者不明森林について間伐等経営管理権を設定する場合において、当該共有者不明森林の立木竹及び土地のそれぞれについて二分の一を超える共有持分を有する者が当該経営管理権集積計画に同意しているときを除く。）は、相当な努力が払われたと認められるものとして政令で定める方法により、当該森林所有者で確知することができないもの（以下「不明森林共有者」という。）の探索を行うものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -393,7 +411,7 @@
                 <Item Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">不明森林共有者は、公告の日から起算して六月以内に、農林水産省令で定めるところにより、その権原を証する書面を添えて市町村に申し出て、経営管理権集積計画又は前三号に掲げる事項について異議を述べることができる旨</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">不明森林共有者は、公告の日から起算して二月以内に、農林水産省令で定めるところにより、その権原を証する書面を添えて市町村に申し出て、経営管理権集積計画又は前三号に掲げる事項について異議を述べることができる旨</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="7">
@@ -706,7 +724,7 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">不明森林所有者は、公告の日から起算して六月以内に、農林水産省令で定めるところにより、その権原を証する書面を添えて市町村に申し出るべき旨</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">不明森林所有者は、公告の日から起算して二月以内に、農林水産省令で定めるところにより、その権原を証する書面を添えて市町村に申し出るべき旨</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
@@ -1153,7 +1171,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">市町村は、第九条第二項、第十五条第二項、第二十三条第二項又は第三十二条第二項の規定によりこれらの規定に規定する委託が解除されたものとみなされた場合には、経営管理実施権配分計画のうち当該解除に係る経営管理権に基づいて設定された経営管理実施権に係る森林に係る部分を取り消すものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、第九条第二項又は第十五条第二項、第二十三条第二項若しくは第三十二条第二項（これらの規定を第五十三条において準用する場合を含む。）の規定によりこれらの規定に規定する委託が解除されたものとみなされた場合には、経営管理実施権配分計画のうち当該解除に係る経営管理権に基づいて設定された経営管理実施権に係る森林に係る部分を取り消すものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1217,10 +1235,709 @@
         </Article>
       </Chapter>
       <Chapter Num="5">
-        <ChapterTitle>第五章　災害等防止措置命令等</ChapterTitle>
-        <Article Num="42">
+        <ChapterTitle>第五章　経営管理の集約化の推進</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　定義</SectionTitle>
+          <Article Num="42">
+            <ArticleTitle>第四十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この章において「経営管理の集約化」とは、一体経営管理森林（自然的経済的社会的諸条件、その周辺の地域における土地の利用の動向その他の事情を勘案して、一体として経営管理を行うことが適当と認められる森林をいう。次条第一項及び第二項第一号並びに第四十五条第一項において同じ。）の区域において、必要な作業路網の整備その他の措置を講じつつ、当該区域内の森林ごとに必要な経営管理実施権の設定その他の措置を講ずることにより、一体的かつ効率的な経営管理の実施を実現することをいう。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この章において「適合事業者」とは、第四十四条第二項の規定により、経営管理を効率的かつ安定的に行う能力を有し、かつ、経営管理を確実に行うに足りる経理的な基礎を有すると都道府県が認めて公表している民間事業者をいう。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　地域経営管理集約化構想の作成等</SectionTitle>
+          <Article Num="43">
+            <ArticleCaption>（地域経営管理集約化構想の作成）</ArticleCaption>
+            <ArticleTitle>第四十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村は、単独で又は他の市町村若しくは都道府県（当該市町村又は当該他の市町村の区域をその区域に含む都道府県に限る。第三項において同じ。）と共同して、政令で定めるところにより、第四十五条第一項の協議の結果を踏まえ、一以上の一体経営管理森林が存する地域ごとに、当該地域における経営管理の集約化に関する構想（以下「集約化構想」という。）を定めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">集約化構想においては、次に掲げる事項を定めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">一体経営管理森林の区域</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げる区域における経営管理の方針</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げる方針を踏まえた経営管理の集約化に関する目標</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前号に掲げる目標を達成するために必要な作業路網の整備その他の措置に関する方針</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村（当該市町村が他の市町村又は都道府県と共同して集約化構想を定める場合にあっては、当該市町村及び当該他の市町村又は当該都道府県。以下「市町村等」という。）は、集約化構想において、前項第三号に掲げる目標として次に掲げる事項を定めるとともに、これらの事項を記載した地図を作成するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第一号に掲げる区域において経営管理が円滑に行われるよう経営管理実施権の設定その他の措置を講ずべき森林</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">適合事業者（次条第一項の規定による公募において、集約化構想が定められる場合に前項第一号に掲げる区域を含む同条第一項に規定する公募区域において経営管理を行うことを希望した適合事業者に限る。第七項及び第四十五条第一項において同じ。）の中から選定された前号に掲げる森林において経営管理を行うべき適合事業者</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">集約化構想においては、第二項各号に掲げる事項のほか、同項第一号に掲げる区域における経営管理の集約化に関する次に掲げる事項を定めることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">林道の開設及び改良に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第二号に掲げる適合事業者が同項第一号に掲げる森林の森林所有者等（森林法第十条の七に規定する森林所有者等をいう。第四十九条において同じ。）となった場合における施業実施協定（同法第十条の十一第一項に規定する施業実施協定であって、同項に規定する森林施業の共同化及びそのために必要な施設の整備に関する措置を内容とするものをいう。第四十九条において同じ。）又は施業施設協定（同法第十条の十一の九第一項に規定する施業施設協定をいう。第四十九条において同じ。）の締結に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">集約化構想は、次に掲げる要件に該当するものでなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">集約化構想を定める市町村が森林法第十条の五第一項の規定によりたてた市町村森林整備計画（第四十五条第一項において単に「市町村森林整備計画」という。）、当該市町村の区域をその区域に含む都道府県の治山事業の実施に関する計画その他地方公共団体の森林の整備及び保全に関する計画との調和が保たれたものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">経営管理の集約化を図るため必要なものとして農林水産省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">集約化構想を定めた市町村等は、情勢の推移により必要が生じたときは、当該集約化構想を変更するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">市町村等は、集約化構想を定め、又はこれを変更する場合には、あらかじめ、適合事業者及び第四十五条第一項の地域の関係者の意見を聴くものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、農林水産省令で定める軽微な変更については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村等は、集約化構想を定め、又はこれを変更する場合（前項ただし書の農林水産省令で定める軽微な変更をする場合を除く。）には、農林水産省令で定めるところにより、その旨を公告し、当該集約化構想の案を当該公告の日から二週間公衆の縦覧に供するものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、利害関係人は、当該縦覧期間満了の日までに、当該集約化構想の案について、当該市町村等に意見書を提出することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村等は、集約化構想を定め、又はこれを変更したときは、農林水産省令で定めるところにより、遅滞なく、その旨を公告するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="44">
+            <ArticleCaption>（民間事業者の公募及び公表）</ArticleCaption>
+            <ArticleTitle>第四十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、農林水産省令で定めるところにより、定期的に、都道府県が定める区域（第五十条第一項において「公募区域」という。）ごとに、集約化構想が定められる場合に当該集約化構想において定められる前条第二項第一号に掲げる区域内の森林について経営管理を行うことを希望する民間事業者を公募するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県は、農林水産省令で定めるところにより、前項の規定による公募に応募した民間事業者のうち次に掲げる要件に適合するもの及びその応募の内容に関する情報を整理し、これを公表するものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">経営管理を効率的かつ安定的に行う能力を有すると認められること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">経営管理を確実に行うに足りる経理的な基礎を有すると認められること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="45">
+            <ArticleCaption>（協議の場の設置等）</ArticleCaption>
+            <ArticleTitle>第四十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村等は、集約化構想を定める場合には、市町村森林整備計画を勘案して一以上の一体経営管理森林が存すると見込まれる地域ごとに、農林水産省令で定めるところにより、当該地域における一体経営管理森林の区域及び当該区域における経営管理の方針その他経営管理の集約化を図るために必要な事項について、適合事業者及び当該地域内の森林の森林所有者、木材関連事業者（木材の製造、加工、輸入、輸出又は販売をする事業、木材を使用して建築物その他の工作物の建築又は建設をする事業その他木材を利用する事業を行う者をいう。）その他の当該地域の関係者による協議の場を設け、その協議の結果を取りまとめるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">集約化構想を定める市町村は、前項の協議を行う場合には、農林水産省令で定めるところにより、同項の地域（当該市町村の区域内のものに限る。）内の森林の森林所有者（第六条第一項の規定による申出に係るものを除く。）に対し、当該森林についての経営管理の意向に関する調査を行うものとする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該森林について、既に第五条の規定による調査を行っている場合は、当該調査の実施をもって、この項の規定による調査の実施に代えることができるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村等は、第一項の協議を行う場合には、同項の地域の関係者の理解と協力を得るため、当該地域内の森林に関する地図を活用し、当該森林の森林所有者の当該森林についての経営管理の意向、当該森林に係る森林資源の状況その他の経営管理の集約化に資する情報を提供することその他の必要な措置を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="46">
+            <ArticleCaption>（関係権利者に関する情報の提供）</ArticleCaption>
+            <ArticleTitle>第四十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村等は、集約化構想を定めた場合には、農林水産省令で定めるところにより、構想森林（第四十三条第三項の規定により当該集約化構想において定められた同項第一号に掲げる森林をいう。以下同じ。）ごとに、構想適合事業者（同項の規定により当該集約化構想において定められた同項第二号に掲げる適合事業者をいう。以下同じ。）の求めに応じ、当該集約化構想の実現のために必要な限度において、当該構想適合事業者に対し、当該構想森林について所有権、地上権、質権、使用貸借による権利、賃借権又はその他の使用及び収益を目的とする権利を有する者（以下この条において「関係権利者」という。）の氏名その他の関係権利者に関する情報を提供することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="47">
+            <ArticleCaption>（不動産登記法の特例）</ArticleCaption>
+            <ArticleTitle>第四十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村等は、集約化構想を定めた場合において、一筆の土地（当該集約化構想において定められた第四十三条第二項第一号に掲げる区域内の森林の土地に限る。）及びこれに隣接する他の土地であって、森林法第百九十一条の四第一項に規定する林地台帳に同項第三号に掲げる事項として当該一筆の土地と当該他の土地との境界に関する測量が実施された旨が記載されており、かつ、当該境界が特定されていないものがあるときは、不動産登記法（平成十六年法律第百二十三号）第百三十一条第二項の規定にかかわらず、これらの土地の所有権登記名義人等（同法第百二十三条第五号に規定する所有権登記名義人等をいう。）のうちいずれかの者の同意を得たときは、同法第百二十五条に規定する筆界特定登記官に対し、当該一筆の土地と当該他の土地との筆界（同法第百二十三条第一号に規定する筆界をいい、同法第十四条第一項の地図が作成されていないものに限る。）について、同法第百二十三条第二号に規定する筆界特定の申請をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="48">
+            <ArticleCaption>（林道の開設及び改良に係る地域森林計画の変更等の要請）</ArticleCaption>
+            <ArticleTitle>第四十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村（集約化構想を市町村と共同して定めた都道府県の区域内の市町村を除く。）は、集約化構想において第四十三条第四項第一号に掲げる事項を定めた場合には、当該市町村の区域をその区域に含む都道府県の知事に対し、農林水産省令で定めるところにより、当該集約化構想において定められた当該事項に関連して必要となる森林法第五条第一項の地域森林計画（以下この項及び次項において単に「地域森林計画」という。）をたて、又はこれを変更することの要請をすることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、当該要請に係る地域森林計画の素案を添えなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による要請を受けた都道府県知事は、遅滞なく、当該要請を踏まえた地域森林計画（当該要請に係る地域森林計画の素案の内容の全部又は一部を実現することとなる地域森林計画をいう。次項において同じ。）をたて、又はこれを変更する必要があるかどうかを判断し、その必要があると認めるときは、その案を作成しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による要請を受けた都道府県知事は、当該要請を踏まえた地域森林計画をたて、又はこれを変更する必要がないと判断したときは、遅滞なく、その旨及びその理由を、当該要請をした市町村に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="49">
+            <ArticleCaption>（森林法の特例）</ArticleCaption>
+            <ArticleTitle>第四十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">構想適合事業者が構想森林の森林所有者等となった場合において、集約化構想（第四十三条第四項第二号に掲げる事項が定められているものに限る。）に従って当該構想適合事業者が締結する施業実施協定又は施業施設協定に関する森林法第十条の十一の三第一項（同法第十条の十一の九第三項において読み替えて準用する場合を含む。以下この条において同じ。）の規定の適用については、第四十三条第九項の規定による公告があったことをもって、同法第十条の十一の三第一項の規定による公告及び縦覧があり、かつ、同項の縦覧期間が満了したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="50">
+            <ArticleCaption>（適合事業者による集約化構想の作成の申出）</ArticleCaption>
+            <ArticleTitle>第五十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">適合事業者は、農林水産省令で定めるところにより、第四十四条第一項の規定による公募において集約化構想が定められる場合に経営管理を行うことを希望した公募区域内の森林の区域について、当該森林の所在地の市町村に対し、集約化構想を定めるべきことを申し出ることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による申出を受けた市町村は、当該申出に係る森林の区域について集約化構想を定めないこととしたときは、その旨及びその理由を、当該申出をした適合事業者に通知するよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　権利集積配分一括計画の作成等</SectionTitle>
+          <Article Num="51">
+            <ArticleCaption>（権利集積配分一括計画の作成）</ArticleCaption>
+            <ArticleTitle>第五十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村は、集約化構想を定めた場合において、当該集約化構想の実現のため、当該集約化構想において定められた構想森林の全部又は一部について、当該市町村への当該構想森林の経営管理権の集積及び当該経営管理権に基づく構想適合事業者への経営管理実施権の設定を一括して行うことが必要かつ適当であると認めるときは、権利集積配分一括計画を定めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">権利集積配分一括計画においては、当該権利集積配分一括計画に従って行われる次の各号に掲げる行為の区分に応じ、それぞれ当該各号に定める事項を定めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">市町村への経営管理権の集積</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">市町村が経営管理権の設定を受ける構想森林（以下「一括計画対象森林」という。）の所在、地番、地目及び面積</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一括計画対象森林の森林所有者の氏名又は名称及び住所</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">市町村が設定を受ける経営管理権の始期及び存続期間</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">市町村が設定を受ける経営管理権に基づいて行われる経営管理の内容</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">販売収益から伐採等に要する経費を控除してなお利益がある場合において森林所有者に支払われるべき金銭の額の算定方法並びに当該金銭の支払の時期、相手方及び方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="6">
+                  <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">一括計画対象森林について権利を設定し、又は移転する場合には、あらかじめ、市町村にその旨を通知しなければならない旨の条件</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>ト</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">ハに規定する存続期間の満了時及び第九条第二項又は第五十三条において準用する第十五条第二項、第二十三条第二項若しくは第三十二条第二項の規定によりこれらの規定に規定する委託が解除されたものとみなされた時における清算の方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="8">
+                  <Subitem1Title>チ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その他農林水産省令で定める事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">構想適合事業者への経営管理実施権の設定</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる事項</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">経営管理実施権の設定を受ける構想適合事業者の氏名又は名称及び住所</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">構想適合事業者が経営管理実施権の設定を受ける一括計画対象森林の所在、地番、地目及び面積</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">ロに規定する一括計画対象森林の森林所有者の氏名又は名称及び住所</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">構想適合事業者が設定を受ける経営管理実施権の始期及び存続期間</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">構想適合事業者が設定を受ける経営管理実施権に基づいて行われる経営管理の内容</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="6">
+                  <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">ロに規定する一括計画対象森林に係る前号ホに規定する金銭の額の算定方法並びに当該金銭の支払の時期、相手方及び方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>ト</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">市町村に支払われるべき金銭がある場合（チに規定する清算の場合を除く。）における当該金銭の額の算定方法及び当該金銭の支払の時期</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="8">
+                  <Subitem1Title>チ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">ニに規定する存続期間の満了時及び第四十一条第二項の規定により同項に規定する委託が解除されたものとみなされた時における清算の方法</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="9">
+                  <Subitem1Title>リ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">その他農林水産省令で定める事項</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項第一号ホに規定する算定方法を定めるに当たっては、計画的かつ確実に伐採後の造林及び保育が実施されるよう、伐採後の造林及び保育に要する経費が適切に算定されなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村は、集約化構想を定めた場合において、当該集約化構想の実現のため、第二項各号に定める事項のほか、当該集約化構想において定められた構想森林（一括計画対象森林を除く。以下この項において同じ。）の立木竹及び土地を対象として、構想適合事業者への所有権の移転の促進を行おうとするときは、権利集積配分一括計画に次に掲げる事項を定めることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所有権の移転を受ける構想適合事業者の氏名又は名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">構想適合事業者が所有権の移転を受ける構想森林の立木竹及び土地の所在、地番、地目及び面積</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">構想適合事業者に前号に規定する構想森林の立木竹及び土地について所有権の移転を行う者の氏名又は名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">構想適合事業者が移転を受ける所有権の移転の後における森林の立木竹及び土地の利用目的並びに当該所有権の移転の時期並びに移転の対価及びその支払の方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他農林水産省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">権利集積配分一括計画は、次に掲げる要件に該当するものでなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">権利集積配分一括計画の内容が集約化構想の実現に資するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">森林法第十条の五第一項の規定によりたてられた市町村森林整備計画、都道府県の治山事業の実施に関する計画その他地方公共団体の森林の整備及び保全に関する計画との調和が保たれたものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">第二項第一号に定める事項について、一括計画対象森林ごとに、当該一括計画対象森林について所有権、地上権、質権、使用貸借による権利、賃借権又はその他の使用及び収益を目的とする権利を有する者の全部の同意が得られていること。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、数人の共有に属する一括計画対象森林について間伐等経営管理権を設定する場合における当該一括計画対象森林について所有権を有する者の同意については、当該一括計画対象森林の立木竹及び土地のそれぞれについて二分の一を超える共有持分を有する者の同意が得られていれば足りる。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二項第二号に定める事項について、一括計画対象森林ごとに、同号イに規定する構想適合事業者の同意が得られていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項各号に掲げる事項を定める場合にあっては、次のいずれにも該当すること。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前項第二号に規定する構想森林の立木竹及び土地ごとに、同項第一号に規定する構想適合事業者並びに当該構想森林の立木竹及び土地について所有権、地上権、質権、使用貸借による権利、賃借権又はその他の使用及び収益を目的とする権利を有する者の全部の同意が得られていること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前項第一号に規定する構想適合事業者が、所有権の移転が行われた後において、同項第二号に規定する構想森林の立木竹及び土地を同項第四号に規定する森林の立木竹及び土地の利用目的に即して適正かつ確実に利用することができると認められること。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="52">
+            <ArticleCaption>（権利集積配分一括計画の公告等）</ArticleCaption>
+            <ArticleTitle>第五十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村は、権利集積配分一括計画を定めたときは、農林水産省令で定めるところにより、遅滞なく、その旨を公告するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による公告があったときは、その公告があった権利集積配分一括計画のうち、前条第二項第一号に定める事項に係る部分にあっては前項の市町村が経営管理権集積計画を定めて第七条第一項の規定により公告したものと、前条第二項第二号に定める事項に係る部分にあっては前項の市町村が経営管理実施権配分計画を定めて第三十七条第一項の規定により公告したものとそれぞれみなして、この法律の規定を適用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第三十五条第二項第六号中「第四条第二項第五号」とあるのは「第五十一条第二項第一号ホ」と、第四十条第二項第二号中「第三十六条第二項各号」とあるのは「第四十四条第二項各号」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による公告（前条第四項各号に掲げる事項が定められた権利集積配分一括計画に係るものに限る。第五十四条から第五十六条までにおいて同じ。）があったときは、その公告があった権利集積配分一括計画の定めるところにより所有権が移転する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="53">
+            <ArticleCaption>（権利集積配分一括計画の作成手続の特例）</ArticleCaption>
+            <ArticleTitle>第五十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二章第二節の規定は、権利集積配分一括計画のうち第五十一条第二項第一号に定める事項に係る部分を定める場合において、当該部分に係る一括計画対象森林のうちに、共有者不明森林、確知所有者不同意森林又は所有者不明森林があるときについて準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第二十一条第一項及び第三十条第一項中「第七条第一項」とあるのは、「第五十二条第一項」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="54">
+            <ArticleCaption>（登記の特例）</ArticleCaption>
+            <ArticleTitle>第五十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十二条第一項の規定による公告があった権利集積配分一括計画に係る土地の登記については、政令で、不動産登記法の特例を定めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="55">
+            <ArticleCaption>（森林法の特例）</ArticleCaption>
+            <ArticleTitle>第五十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十二条第一項の規定による公告があったときは、森林法第十条の七の二第一項本文の規定による届出があったものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="56">
+            <ArticleCaption>（勧告）</ArticleCaption>
+            <ArticleTitle>第五十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">市町村の長は、第五十二条第一項の規定による公告があった権利集積配分一括計画の定めるところによる所有権の移転を受けた構想適合事業者が当該権利集積配分一括計画において定められた森林の立木竹及び土地の利用目的に従って森林の立木竹及び土地を利用していないと認めるときは、当該構想適合事業者に対し、相当の期限を定めて、当該利用目的に従って森林の立木竹及び土地を利用すべきことを勧告することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　経営管理支援法人</ChapterTitle>
+        <Article Num="57">
+          <ArticleCaption>（経営管理支援法人の指定）</ArticleCaption>
+          <ArticleTitle>第五十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村の長は、特定非営利活動促進法（平成十年法律第七号）第二条第二項に規定する特定非営利活動法人、一般社団法人若しくは一般財団法人又は経営管理の実施を支援する活動を行う法人であって、次条各号に掲げる業務を適正かつ確実に行うことができると認められるものを、その申請により、経営管理支援法人（以下「支援法人」という。）として指定することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村の長は、前項の規定による指定をしたときは、当該支援法人の名称又は商号、住所及び事務所又は営業所の所在地を公示するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、その名称若しくは商号、住所又は事務所若しくは営業所の所在地を変更するときは、あらかじめ、その旨を市町村の長に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村の長は、前項の規定による届出があったときは、当該届出に係る事項を公示するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="58">
+          <ArticleCaption>（支援法人の業務）</ArticleCaption>
+          <ArticleTitle>第五十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、次に掲げる業務を行うものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">森林所有者、民間事業者その他経営管理を行おうとする者に対し、経営管理の実施に関する情報の提供又は相談その他の経営管理の実施のために必要な支援を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">経営管理の実施に関する調査研究を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">経営管理の実施に関する普及啓発を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">委託に基づき、現に経営管理が行われていない森林の森林所有者（第六十条第二項において単に「森林所有者」という。）の探索を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、経営管理の実施を支援するために必要な事業又は事務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="59">
+          <ArticleCaption>（監督等）</ArticleCaption>
+          <ArticleTitle>第五十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村の長は、前条各号に掲げる業務の適正かつ確実な実施を確保するため必要があると認めるときは、支援法人に対し、その業務に関し報告をさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村の長は、支援法人が前条各号に掲げる業務を適正かつ確実に実施していないと認めるときは、支援法人に対し、その業務の運営の改善に関し必要な措置を講ずべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村の長は、支援法人が前項の規定による命令に違反したときは、第五十七条第一項の規定による指定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村の長は、前項の規定により指定を取り消したときは、その旨を公示するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="60">
+          <ArticleCaption>（情報提供等）</ArticleCaption>
+          <ArticleTitle>第六十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、支援法人に対し、その業務の実施に関し必要な情報の提供又は指導若しくは助言をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村の長は、支援法人から第五十八条第四号に掲げる業務の遂行のため森林所有者を知る必要があるとして、森林所有者に関する情報（以下この項及び次項において「所有者関連情報」という。）の提供の求めがあったときは、当該森林所有者の探索に必要な限度で、当該支援法人に対し、所有者関連情報を提供するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、市町村の長は、支援法人に対し所有者関連情報を提供するときは、あらかじめ、当該所有者関連情報を提供することについて本人（当該所有者関連情報によって識別される特定の個人をいう。）の同意を得なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の同意は、その所在が判明している者に対して求めれば足りる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="61">
+          <ArticleCaption>（支援法人による経営管理権集積計画等の作成の申出）</ArticleCaption>
+          <ArticleTitle>第六十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">支援法人は、農林水産省令で定めるところにより、当該支援法人を指定した市町村に対し、当該市町村の区域内の森林について経営管理権集積計画を定め、又は当該区域内の森林の区域について集約化構想を定めるべきことを申し出ることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　災害等防止措置命令等</ChapterTitle>
+        <Article Num="62">
           <ArticleCaption>（災害等防止措置命令）</ArticleCaption>
-          <ArticleTitle>第四十二条</ArticleTitle>
+          <ArticleTitle>第六十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1259,9 +1976,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="43">
+        <Article Num="63">
           <ArticleCaption>（代執行）</ArticleCaption>
-          <ArticleTitle>第四十三条</ArticleTitle>
+          <ArticleTitle>第六十三条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1299,19 +2016,13 @@
               <Sentence Num="1" WritingMode="vertical">前項の規定による費用の徴収については、行政代執行法（昭和二十三年法律第四十三号）第五条及び第六条の規定を準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の規定により市町村の長が災害等防止措置の全部又は一部を講ずる場合における立木の伐採については、森林法第十条の八第一項本文の規定は、適用しない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
         </Article>
       </Chapter>
-      <Chapter Num="6">
-        <ChapterTitle>第六章　林業経営者に対する支援措置</ChapterTitle>
-        <Article Num="44">
+      <Chapter Num="8">
+        <ChapterTitle>第八章　林業経営者に対する支援措置</ChapterTitle>
+        <Article Num="64">
           <ArticleCaption>（国有林野事業における配慮等）</ArticleCaption>
-          <ArticleTitle>第四十四条</ArticleTitle>
+          <ArticleTitle>第六十四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1325,9 +2036,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="45">
+        <Article Num="65">
           <ArticleCaption>（指導及び助言）</ArticleCaption>
-          <ArticleTitle>第四十五条</ArticleTitle>
+          <ArticleTitle>第六十五条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1335,9 +2046,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="46">
+        <Article Num="66">
           <ArticleCaption>（独立行政法人農林漁業信用基金による支援）</ArticleCaption>
-          <ArticleTitle>第四十六条</ArticleTitle>
+          <ArticleTitle>第六十六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1346,21 +2057,21 @@
           </Paragraph>
         </Article>
       </Chapter>
-      <Chapter Num="7">
-        <ChapterTitle>第七章　雑則</ChapterTitle>
-        <Article Num="47">
+      <Chapter Num="9">
+        <ChapterTitle>第九章　雑則</ChapterTitle>
+        <Article Num="67">
           <ArticleCaption>（情報提供等）</ArticleCaption>
-          <ArticleTitle>第四十七条</ArticleTitle>
+          <ArticleTitle>第六十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、共有者不明森林及び所有者不明森林に関する情報の周知を図るため、地方公共団体その他の関係機関と連携し、第十一条又は第二十五条の規定による公告に係る共有者不明森林又は所有者不明森林に関する情報のインターネットの利用による提供その他の必要な措置を講ずるように努めるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">農林水産大臣は、共有者不明森林及び所有者不明森林に関する情報の周知を図るため、地方公共団体その他の関係機関と連携し、第十一条又は第二十五条（これらの規定を第五十三条において準用する場合を含む。）の規定による公告に係る共有者不明森林又は所有者不明森林に関する情報のインターネットの利用による提供その他の必要な措置を講ずるように努めるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="48">
+        <Article Num="68">
           <ArticleCaption>（都道府県による森林経営管理事務の代替執行）</ArticleCaption>
-          <ArticleTitle>第四十八条</ArticleTitle>
+          <ArticleTitle>第六十八条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1369,7 +2080,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">経営管理意向調査に関する事務</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五条又は第四十五条第二項の規定による調査の実施に関する事務</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -1390,6 +2101,18 @@
                 <Sentence Num="1" WritingMode="vertical">経営管理実施権配分計画の作成に関する事務</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">集約化構想の作成に関する事務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">権利集積配分一括計画の作成に関する事務</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
@@ -1406,9 +2129,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="49">
+        <Article Num="69">
           <ArticleCaption>（市町村に対する援助）</ArticleCaption>
-          <ArticleTitle>第四十九条</ArticleTitle>
+          <ArticleTitle>第六十九条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1416,9 +2139,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="50">
+        <Article Num="70">
           <ArticleCaption>（関係者の連携及び協力）</ArticleCaption>
-          <ArticleTitle>第五十条</ArticleTitle>
+          <ArticleTitle>第七十条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1426,9 +2149,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="51">
+        <Article Num="71">
           <ArticleCaption>（農林水産省令への委任）</ArticleCaption>
-          <ArticleTitle>第五十一条</ArticleTitle>
+          <ArticleTitle>第七十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1437,19 +2160,19 @@
           </Paragraph>
         </Article>
       </Chapter>
-      <Chapter Num="8">
-        <ChapterTitle>第八章　罰則</ChapterTitle>
-        <Article Num="52">
-          <ArticleTitle>第五十二条</ArticleTitle>
+      <Chapter Num="10">
+        <ChapterTitle>第十章　罰則</ChapterTitle>
+        <Article Num="72">
+          <ArticleTitle>第七十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第四十二条第一項の規定による命令に違反した者は、三十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第六十二条第一項の規定による命令に違反した者は、三十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="53">
-          <ArticleTitle>第五十三条</ArticleTitle>
+        <Article Num="73">
+          <ArticleTitle>第七十三条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -1518,6 +2241,39 @@
           <Sentence Num="1" WritingMode="vertical">この法律は、令和三年四月一日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月三〇日法律第四八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（共有者不明森林及び所有者不明森林に係る特例に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定による改正後の森林経営管理法第十一条及び第二十五条の規定は、この法律の施行の日（以下「施行日」という。）以後にされる公告について適用し、施行日前にされた公告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後の森林経営管理法及び森林法の規定の施行の状況等を勘案し、当該規定に基づく規制の在り方について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>
