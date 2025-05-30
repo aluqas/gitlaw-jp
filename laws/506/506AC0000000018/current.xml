@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Lang="ja" Era="Reiwa" Year="06" Num="018" PromulgateMonth="4" PromulgateDay="19" LawType="Act"><LawNum>令和六年法律第十八号</LawNum><LawBody><LawTitle Kana="ちいきにおけるせいぶつのたようせいのぞうしんのためのかつどうのそくしんとうにかんするほうりつ" Abbrev="" AbbrevKana="">地域における生物の多様性の増進のための活動の促進等に関する法律</LawTitle>
+<Law Lang="ja" Era="Reiwa" Year="06" Num="018" PromulgateMonth="04" PromulgateDay="19" LawType="Act"><LawNum>令和六年法律第十八号</LawNum><LawBody><LawTitle Kana="ちいきにおけるせいぶつのたようせいのぞうしんのためのかつどうのそくしんとうにかんするほうりつ" Abbrev="" AbbrevKana="">地域における生物の多様性の増進のための活動の促進等に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -759,7 +759,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">認定増進活動実施者（その市町村の区域における認定増進活動実施計画を作成した市町村及び当該市町村と共同して当該認定増進活動実施計画を作成した者に限る。）又は認定連携市町村等が認定増進活動実施計画又は認定連携増進活動実施計画に従って行う立木の伐採については、森林法第十条の八第一項本文及び第二項の規定は、適用しない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">認定増進活動実施者（その市町村の区域における認定増進活動実施計画を作成した市町村と共同して当該認定増進活動実施計画を作成した者に限る。）又は認定連携活動実施者が認定増進活動実施計画又は認定連携増進活動実施計画に従って行う立木の伐採については、森林法第十条の八第一項本文及び第二項の規定は、適用しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1157,6 +1157,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律の施行の状況を勘案し、必要があると認めるときは、この法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月三〇日法律第四八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
