@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="249" Year="26" PromulgateMonth="06" PromulgateDay="26"><LawNum>昭和二十六年法律第二百四十九号</LawNum><LawBody><LawTitle Kana="しんりんほう" Abbrev="" AbbrevKana="">森林法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="26" Num="249" PromulgateMonth="06" PromulgateDay="26" LawType="Act"><LawNum>昭和二十六年法律第二百四十九号</LawNum><LawBody><LawTitle Kana="しんりんほう" Abbrev="" AbbrevKana="">森林法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -421,7 +421,7 @@
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">次号及び第三号に掲げる事項以外の事項</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次号から第四号までに掲げる事項以外の事項</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">農林水産大臣に協議すること。</Sentence>
@@ -441,6 +441,17 @@
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">前条第二項第七号に掲げる事項のうち森林経営管理法（平成三十年法律第三十五号）第四十八条第一項の規定による同項に規定する市町村からの要請に係る部分</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">農林水産大臣及び当該市町村の長に協議すること。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
                   <Sentence Num="1" WritingMode="vertical">前条第二項第八号に掲げる事項</Sentence>
@@ -583,25 +594,25 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">地域森林計画の対象となつている民有林（第二十五条又は第二十五条の二の規定により指定された保安林並びに第四十一条の規定により指定された保安施設地区の区域内及び海岸法（昭和三十一年法律第百一号）第三条の規定により指定された海岸保全区域内の森林を除く。）において開発行為（土石又は樹根の採掘、開墾その他の土地の形質を変更する行為で、森林の土地の自然的条件、その行為の態様等を勘案して政令で定める規模をこえるものをいう。以下同じ。）をしようとする者は、農林水産省令で定める手続に従い、都道府県知事の許可を受けなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号の一に該当する場合は、この限りでない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">地域森林計画の対象となつている民有林（第二十五条又は第二十五条の二の規定により指定された保安林並びに第四十一条の規定により指定された保安施設地区の区域内及び海岸法（昭和三十一年法律第百一号）第三条の規定により指定された海岸保全区域内の森林を除く。）において開発行為（土石又は樹根の採掘、開墾その他の土地の形質を変更する行為で、森林の土地の自然的条件、その行為の態様等を勘案して政令で定める規模を超えるものをいう。以下同じ。）をしようとする者は、農林水産省令で定める手続に従い、都道府県知事の許可を受けなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号のいずれかに該当する場合は、この限りでない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">国又は地方公共団体が行なう場合</Sentence>
+                <Sentence Num="1" WritingMode="vertical">国又は地方公共団体が行う場合</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">火災、風水害その他の非常災害のために必要な応急措置として行なう場合</Sentence>
+                <Sentence Num="1" WritingMode="vertical">火災、風水害その他の非常災害のために必要な応急措置として行う場合</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">森林の土地の保全に著しい支障を及ぼすおそれが少なく、かつ、公益性が高いと認められる事業で農林水産省令で定めるものの施行として行なう場合</Sentence>
+                <Sentence Num="1" WritingMode="vertical">森林の土地の保全に著しい支障を及ぼすおそれが少なく、かつ、公益性が高いと認められる事業で農林水産省令で定めるものの施行として行う場合</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -625,7 +636,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">当該開発行為をする森林の現に有する水源のかん養の機能からみて、当該開発行為により当該機能に依存する地域における水の確保に著しい支障を及ぼすおそれがあること。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該開発行為をする森林の現に有する水源の涵養の機能からみて、当該開発行為により当該機能に依存する地域における水の確保に著しい支障を及ぼすおそれがあること。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -644,7 +655,7 @@
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の許可には、条件を附することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の許可には、擁壁、排水施設その他の森林の有する公益的機能を維持するために必要な施設を設置し、又は維持管理すべきことその他の条件を付することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -666,7 +677,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県知事は、森林の有する公益的機能を維持するために必要があると認めるときは、前条第一項の規定に違反した者若しくは同項の許可に附した同条第四項の条件に違反して開発行為をした者又は偽りその他の不正な手段により同条第一項の許可を受けて開発行為をした者に対し、その開発行為の中止を命じ、又は期間を定めて復旧に必要な行為をすべき旨を命ずることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、森林の有する公益的機能を維持するために必要があると認めるときは、前条第一項の規定に違反した者若しくは同項の許可に付した同条第四項の条件に違反して開発行為をした者又は偽りその他の不正な手段により同条第一項の許可を受けて開発行為をした者に対し、その開発行為の中止を命じ、又は期間を定めて復旧に必要な行為をすべき旨を命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の規定による命令を受けた者が、正当な理由がなくて当該命令に従わなかつたときは、その旨及び当該命令に係る森林の土地の地番その他必要な事項を公表することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -897,7 +914,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">森林所有者等は、地域森林計画の対象となつている民有林（第二十五条又は第二十五条の二の規定により指定された保安林及び第四十一条の規定により指定された保安施設地区の区域内の森林を除く。）の立木を伐採するには、農林水産省令で定めるところにより、あらかじめ、市町村の長に森林の所在場所、伐採面積、伐採方法、伐採齢、伐採後の造林の方法、期間及び樹種その他農林水産省令で定める事項を記載した伐採及び伐採後の造林の届出書を提出しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">森林所有者等（市町村がその区域内において伐採する場合の当該市町村を除く。以下この条において同じ。）は、地域森林計画の対象となつている民有林（第二十五条又は第二十五条の二の規定により指定された保安林及び第四十一条の規定により指定された保安施設地区の区域内の森林を除く。）の立木を伐採するには、農林水産省令で定めるところにより、あらかじめ、市町村の長に森林の所在場所、伐採面積、伐採方法、伐採齢、伐採後の造林の方法、期間及び樹種その他農林水産省令で定める事項を記載した伐採及び伐採後の造林の届出書を提出しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号のいずれかに該当する場合は、この限りでない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
@@ -1048,7 +1065,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">市町村の区域内に存する一団の民有林で次に掲げる要件に該当するもの（以下この項において「対象森林」という。）の森林所有者等又は当該対象森林の土地の所有者は、当該市町村の長の認可を受けて、森林施業の実施に関する協定（以下「施業実施協定」という。）であつて当該対象森林について行う間伐又は保育その他の森林施業の共同化及びそのために必要な施設の整備に関する措置を内容とするものを締結することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">市町村の区域内に存する一団の民有林で次に掲げる要件に該当するもの（以下この項及び第十条の十一の九第一項において「対象森林」という。）の森林所有者等又は当該対象森林の土地の所有者は、当該市町村の長の認可を受けて、森林施業の実施に関する協定（以下「施業実施協定」という。）であつて当該対象森林について行う間伐又は保育その他の森林施業の共同化及びそのために必要な施設の整備に関する措置を内容とするものを締結することができる。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -1088,13 +1105,13 @@
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">第一項の申請に係る施業実施協定にあつては、森林所有者等が共同して行う森林施業の種類並びにその実施の方法及び時期その他農林水産省令で定める事項</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第一項の認可の申請に係る施業実施協定にあつては、森林所有者等が共同して行う森林施業の種類並びにその実施の方法及び時期その他農林水産省令で定める事項</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
                   <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">前項の申請に係る施業実施協定にあつては、特定非営利活動法人等が行う森林施業の種類並びにその実施の方法及び時期その他農林水産省令で定める事項</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前項の認可の申請に係る施業実施協定にあつては、特定非営利活動法人等が行う森林施業の種類並びにその実施の方法及び時期その他農林水産省令で定める事項</Sentence>
                   </Subitem1Sentence>
                 </Subitem1>
               </Item>
@@ -1168,7 +1185,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">市町村の長は、第十条の十一第一項又は第二項の認可の申請が次の各号の全てに該当するときは、当該施業実施協定を認可しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">市町村の長は、第十条の十一第一項又は第二項の認可の申請が次の各号のいずれにも該当するときは、当該施業実施協定を認可しなければならない。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -1186,6 +1203,12 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">施業実施協定の内容が市町村森林整備計画の達成に資すると認められるものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十条の十一第一項の認可の申請に係る施業実施協定にあつては、森林経営管理法第四十三条第一項に規定する集約化構想が定められている場合において、当該集約化構想において定められた同条第二項第一号に掲げる区域が施業実施協定の対象とする森林の区域の全部又は一部を含むものであるときは、施業実施協定の内容が当該集約化構想の実現に資すると認められるものであること。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1251,6 +1274,53 @@
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">市町村の長は、前項の規定による認可の取消しを行つたときは、その旨を、当該施業実施協定に係る森林所有者等、森林の土地の所有者及び特定非営利活動法人等に通知するとともに、公告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="10_11_9">
+            <ArticleCaption>（施業施設協定）</ArticleCaption>
+            <ArticleTitle>第十条の十一の九</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象森林の森林所有者等及び当該対象森林の施業を実施するために必要な作業路網その他の施設（以下この条において「施業施設」という。）の施設所有者等（当該施業施設の所有者、その敷地である土地の所有者又は当該土地の使用及び収益を目的とする権利（臨時設備その他一時的に使用する施設のため設定されたことが明らかなものを除く。）を有する者をいう。）は、当該市町村の長の認可を受けて、当該対象森林について一定の区域を定め、その区域内の森林の施業を実施するために必要な施業施設の設置又は維持運営に関する協定（以下この条において「施業施設協定」という。）を締結することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">施業施設協定においては、次に掲げる事項を定めるものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">施業施設協定の目的となる前項の森林の区域及びその面積並びに施業施設の位置</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">施業施設の設置又は維持運営に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">施業施設協定の有効期間</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">施業施設協定に違反した場合の措置</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第十条の十一（第四項及び第五項に限る。）から前条までの規定は、施業施設協定並びに当該施業施設協定の対象となる森林及び施業施設について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第十条の十一第四項中「森林の土地の所有者」とあるのは「施業施設協定の対象となる施業施設の施設所有者等（第十条の十一の九第一項に規定する施設所有者等をいう。以下同じ。）」と、第十条の十一の三第一項及び第十条の十一の四第一項中「第十条の十一第一項又は第二項」とあるのは「第十条の十一の九第一項」と、同項第二号中「森林」とあるのは「森林及び施業施設協定の対象とする施業施設」と、同項第四号中「第十条の十一第一項の認可の申請に係る施業実施協定にあつては、森林経営管理法」とあるのは「森林経営管理法」と、同条第二項中「明示し」とあるのは「明示し、かつ、施業施設協定の対象とする施業施設である旨を当該施業施設内の見やすい場所に、又は当該施業施設が存する旨をその敷地である土地の区域内の見やすい場所に明示し」と、第十条の十一の五第一項、第十条の十一の七第一項及び前条第二項中「森林の土地の所有者」とあるのは「施設所有者等」と、第十条の十一の六中「森林の土地の所有者」とあるのは「施業施設協定の対象とする施業施設の施設所有者等」と、第十条の十一の七第一項中「第十条の十一第一項若しくは第二項」とあるのは「第十条の十一の九第一項」と、前条第一項中「第十条の十一第一項若しくは第二項」とあるのは「次条第一項」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1372,7 +1442,7 @@
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">次に掲げる者は、公告の日から起算して六月以内に、農林水産省令で定めるところにより、その権原を証する書面を添えて、市町村の長に申し出るべき旨</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる者は、公告の日から起算して二月以内に、農林水産省令で定めるところにより、その権原を証する書面を添えて、市町村の長に申し出るべき旨</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -4251,17 +4321,23 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十条の三の規定による命令に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十条の二第一項の許可に付した同条第四項の条件（擁壁、排水施設その他の森林の有する公益的機能を維持するために必要な施設を設置し、又は維持管理すべきことを内容とするものに限る。）に違反し、開発行為をした者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十四条第二項（第四十四条において準用する場合を含む。）の規定に違反し、土石又は樹根の採掘、開墾その他の土地の形質を変更する行為をした者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十条の三第一項の規定による命令に違反した者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十四条第二項（第四十四条において準用する場合を含む。）の規定に違反し、土石又は樹根の採掘、開墾その他の土地の形質を変更する行為をした者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">第三十八条第二項の規定による命令（土石又は樹根の採掘、開墾その他の土地の形質を変更する行為の中止又は復旧に必要な行為をすべき旨を命ずる部分に限る。）に違反した者</Sentence>
               </ItemSentence>
@@ -7315,6 +7391,59 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月三〇日法律第四八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（伐採及び伐採後の造林の届出に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条の規定による改正後の森林法（次条及び附則第五条において「新森林法」という。）第十条の八第一項の規定は、施行日以後にされる伐採について適用し、施行日前にされた伐採については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（施業実施協定に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新森林法第十条の十一の四第一項（第四号に係る部分に限る。）及び第十条の十一の八第一項（同号に掲げる要件に係る部分に限る。）の規定は、施行日以後に新森林法第十条の十一第一項の認可の申請のあった同項に規定する施業実施協定について適用し、施行日前に第二条の規定による改正前の森林法第十条の十一第一項の認可の申請のあった同項に規定する施業実施協定については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（共有者不確知森林の共有者による森林の施業の円滑化に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新森林法第十条の十二の三の規定は、施行日以後に森林法第十条の十二の二第一項の規定による公告の申請があった場合における当該申請に係る公告について適用し、施行日前に同項の規定による公告の申請があった場合における当該申請に係る公告については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後の森林経営管理法及び森林法の規定の施行の状況等を勘案し、当該規定に基づく規制の在り方について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
