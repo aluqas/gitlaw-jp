@@ -1,0 +1,1865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="073" Year="53" PromulgateMonth="06" PromulgateDay="15">
+  <LawNum>昭和五十三年法律第七十三号</LawNum>
+  <LawBody>
+    <LawTitle Kana="だいきぼじしんたいさくとくべつそちほう" Abbrev="大震法,地震対策法" AbbrevKana="だ,じ">大規模地震対策特別措置法</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、大規模な地震による災害から国民の生命、身体及び財産を保護するため、地震防災対策強化地域の指定、地震観測体制の整備その他地震防災体制の整備に関する事項及び地震防災応急対策その他地震防災に関する事項について特別の措置を定めることにより、地震防災対策の強化を図り、もつて社会の秩序の維持と公共の福祉の確保に資することを目的とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（定義）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">地震災害</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地震動により直接に生ずる被害及びこれに伴い発生する津波、火事、爆発その他の異常な現象により生ずる被害をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">地震防災</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地震災害の発生の防止又は地震災害が発生した場合における被害の軽減をあらかじめ図ることをいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">地震予知情報</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">気象業務法（昭和二十七年法律第百六十五号）第十一条の二第一項に規定する地震に関する情報及び同条第二項に規定する新たな事情に関する情報をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">地震防災対策強化地域</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">次条第一項の規定により指定された地域をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">指定行政機関</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">災害対策基本法（昭和三十六年法律第二百二十三号）第二条第三号に規定する指定行政機関をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">指定地方行政機関</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">災害対策基本法第二条第四号に規定する指定地方行政機関をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">指定公共機関</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">災害対策基本法第二条第五号に規定する指定公共機関をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">指定地方公共機関</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">災害対策基本法第二条第六号に規定する指定地方公共機関をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">地震防災計画</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">地震防災基本計画、地震防災強化計画及び地震防災応急計画をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">地震防災基本計画</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">中央防災会議が地震防災対策強化地域について地震防災に関し作成する基本的な計画をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">地震防災強化計画</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">災害対策基本法第二条第九号に規定する防災業務計画、同条第十号に規定する地域防災計画又は石油コンビナート等災害防止法（昭和五十年法律第八十四号）第三十一条第一項に規定する石油コンビナート等防災計画のうち、第六条第一項各号に掲げる事項について定めた部分をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">地震防災応急計画</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">第七条第一項又は第二項に規定する者が地震防災応急対策に関し作成する計画をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">警戒宣言</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">第九条第一項の規定により内閣総理大臣が発する地震災害に関する警戒宣言をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="14">
+            <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">地震防災応急対策</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">警戒宣言が発せられた時から当該警戒宣言に係る大規模な地震が発生するまで又は発生するおそれがなくなるまでの間において当該大規模な地震に関し地震防災上実施すべき応急の対策をいう。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（地震防災対策強化地域の指定等）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、大規模な地震が発生するおそれが特に大きいと認められる地殻内において大規模な地震が発生した場合に著しい地震災害が生ずるおそれがあるため、地震防災に関する対策を強化する必要がある地域を地震防災対策強化地域（以下「強化地域」という。）として指定するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による強化地域の指定をしようとするときは、あらかじめ中央防災会議に諮問しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の規定による強化地域の指定をしようとするときは、あらかじめ関係都道府県知事の意見を聴かなければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、関係都道府県知事が意見を述べようとするときは、あらかじめ関係市町村長の意見を聴かなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の規定による強化地域の指定をしたときは、その旨を公示しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前三項の規定は、内閣総理大臣が第一項の規定による強化地域の指定の解除をする場合に準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（強化地域に係る地震に関する観測及び測量の実施の強化）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国は、強化地域に係る大規模な地震の発生を予知し、もつて地震災害の発生を防止し、又は軽減するため、計画的に、地象、水象等の常時観測を実施し、地震に関する土地及び水域の測量（以下この条及び第三十三条において「測量」という。）の密度を高める等観測及び測量の実施の強化を図らなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（地震防災基本計画）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">中央防災会議は、第三条第一項の規定による強化地域の指定があつたときは、当該強化地域に係る地震防災基本計画を作成し、及びその実施を推進しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地震防災基本計画は、警戒宣言が発せられた場合における国の地震防災に関する基本的方針、地震防災強化計画及び地震防災応急計画の基本となるべき事項その他政令で定める事項について定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">災害対策基本法第三十四条第二項の規定は、第一項の地震防災基本計画を作成し、又は修正した場合に準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（地震防災強化計画）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条第一項の規定による強化地域の指定があつたときは、指定行政機関の長（指定行政機関が内閣府設置法（平成十一年法律第八十九号）第四十九条第一項若しくは第二項若しくは国家行政組織法（昭和二十三年法律第百二十号）第三条第二項の委員会若しくは災害対策基本法第二条第三号ロに掲げる機関又は同号ニに掲げる機関のうち合議制のものである場合にあつては第十一条第六項第四号及び第十三条第一項を除き当該指定行政機関をいい、指定行政機関の長から事務の委任があつた場合にあつては当該事務については当該委任を受けた指定地方行政機関の長をいう。以下同じ。）及び指定公共機関（指定公共機関から委任された業務については、当該委任を受けた指定地方公共機関。以下同じ。）は同法第二条第九号に規定する防災業務計画において、次に掲げる事項を定めなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">地震防災応急対策に係る措置に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">避難地、避難路、消防用施設その他当該大規模な地震に関し地震防災上緊急に整備すべき施設等で政令で定めるものの整備に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該大規模な地震に係る防災訓練に関する事項その他当該大規模な地震に係る地震防災上重要な対策に関する事項で政令で定めるもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項に規定する指定があつたときは、災害対策基本法第二十一条に規定する地方防災会議等（市町村防災会議を設置しない市町村にあつては、当該市町村の市町村長）は同法第二条第十号に規定する地域防災計画において、石油コンビナート等災害防止法第二十七条第一項に規定する石油コンビナート等防災本部（第二十八条第二項において「石油コンビナート等防災本部」という。）及び同法第三十条第一項に規定する防災本部の協議会は同法第三十一条第一項に規定する石油コンビナート等防災計画において、前項第一号に掲げる事項を定めるものとするほか、同項第二号及び第三号に掲げる事項を定めるよう努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地震防災強化計画は、地震防災基本計画を基本とするものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（地震防災応急計画）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">強化地域内において次に掲げる施設又は事業で政令で定めるものを管理し、又は運営することとなる者（前条第一項に規定する者を除く。）は、あらかじめ、当該施設又は事業ごとに、地震防災応急計画を作成しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">病院、劇場、百貨店、旅館その他不特定かつ多数の者が出入する施設</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">石油類、火薬類、高圧ガスその他政令で定めるものの製造、貯蔵、処理又は取扱いを行う施設</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">鉄道事業その他一般旅客運送に関する事業</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、地震防災上の措置を講ずる必要があると認められる重要な施設又は事業</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条第一項の規定による強化地域の指定の際、当該強化地域内において前項の政令で定める施設又は事業を現に管理し、又は運営している者（前条第一項に規定する者を除く。）は、当該指定があつた日から六月以内に、地震防災応急計画を作成しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地震防災応急計画を作成した者は、当該施設の拡大、当該事業の内容の変更等により、地震防災応急計画を変更する必要が生じたときは、遅滞なく当該計画を変更しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地震防災応急計画は、当該施設又は事業についての地震防災応急対策に係る措置に関する事項その他政令で定める事項について定めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地震防災応急計画は、地震防災強化計画と矛盾し、又は抵触するものであつてはならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項又は第二項に規定する者は、地震防災応急計画を作成したときは、政令で定めるところにより、遅滞なく当該地震防災応急計画を都道府県知事に届け出るとともに、その写しを市町村長に送付しなければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">これを変更したときも、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項又は第二項に規定する者が前項の届出をしない場合には、都道府県知事は、その者に対し、相当の期間を定めて届出をすべきことを勧告することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県知事は、前項の勧告を受けた者が同項の期間内に届出をしないときは、その旨を公表することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（地震防災応急計画の特例）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第一項又は第二項に規定する者が、次に掲げる計画又は規程において、法令の規定に基づき、同条第一項の政令で定める施設又は事業に関し同条第四項に規定する事項について定めたときは、当該事項について定めた部分（次項において「地震防災規程」という。）は、当該施設又は事業に係る地震防災応急計画とみなしてこの法律を適用する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">消防法（昭和二十三年法律第百八十六号）第八条第一項若しくは第八条の二第一項（これらの規定を同法第三十六条第一項において準用する場合を含む。）に規定する消防計画又は同法第十四条の二第一項に規定する予防規程</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">火薬類取締法（昭和二十五年法律第百四十九号）第二十八条第一項に規定する危害予防規程</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">高圧ガス保安法（昭和二十六年法律第二百四号）第二十六条第一項（脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律（令和六年法律第三十七号）第十六条第一項において準用する場合を含む。）に規定する危害予防規程</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">ガス事業法（昭和二十九年法律第五十一号）第二十四条第一項、第六十四条第一項（同法第八十四条において準用する場合を含む。）及び第九十七条第一項に規定する保安規程</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">電気事業法（昭和三十九年法律第百七十号）第四十二条第一項に規定する保安規程</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">石油パイプライン事業法（昭和四十七年法律第百五号）第二十七条第一項に規定する保安規程</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">石油コンビナート等災害防止法第十八条第一項に規定する防災規程</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前各号に掲げる計画又は規程に準ずるものとして内閣府令で定めるもの</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地震防災規程を作成した者は、前条第六項の規定にかかわらず、政令で定めるところにより、その地震防災規程の写しを市町村長に送付しなければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">地震防災規程を変更したときも、同様とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（警戒宣言等）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、気象庁長官から地震予知情報の報告を受けた場合において、地震防災応急対策を実施する緊急の必要があると認めるときは、閣議にかけて、地震災害に関する警戒宣言を発するとともに、次に掲げる措置を執らなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">強化地域内の居住者、滞在者その他の者及び公私の団体（以下「居住者等」という。）に対して、警戒態勢を執るべき旨を公示すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">強化地域に係る指定公共機関及び都道府県知事に対して、法令又は地震防災強化計画の定めるところにより、地震防災応急対策に係る措置を執るべき旨を通知すること。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、警戒宣言を発したときは、直ちに、当該地震予知情報の内容について国民に対し周知させる措置を執らなければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、内閣総理大臣は、気象庁長官をして当該地震予知情報に係る技術的事項について説明を行わせるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、警戒宣言を発した後気象庁長官から地震予知情報の報告を受けた場合において、当該地震の発生のおそれがなくなつたと認めるときは、閣議にかけて、地震災害に関する警戒解除宣言を発するとともに、第一項第一号に規定する者に対し警戒態勢を解くべき旨を公示し、及び同項第二号に規定する者に対し同号に掲げる措置を中止すべき旨を通知するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（地震災害警戒本部の設置）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、警戒宣言を発したときは、内閣府設置法第四十条第二項の規定にかかわらず、臨時に内閣府に地震災害警戒本部（以下「警戒本部」という。）を設置するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">警戒本部の名称、所管区域並びに設置の場所及び期間は、内閣総理大臣が閣議にかけて決定する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（警戒本部の組織）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">警戒本部の長は、地震災害警戒本部長（以下第十三条までにおいて「本部長」という。）とし、内閣総理大臣（内閣総理大臣に事故があるときは、そのあらかじめ指名する国務大臣）をもつて充てる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本部長は、警戒本部の事務を総括し、所部の職員を指揮監督する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">警戒本部に、地震災害警戒副本部長、地震災害警戒本部員その他の職員を置く。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地震災害警戒副本部長は、国務大臣をもつて充てる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地震災害警戒副本部長は、本部長を助け、本部長に事故があるときは、その職務を代理する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">地震災害警戒副本部長が二人以上置かれている場合にあつては、あらかじめ本部長が定めた順序で、その職務を代理する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地震災害警戒本部員は、次に掲げる者をもつて充てる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">本部長及び地震災害警戒副本部長以外の全ての国務大臣</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣危機管理監</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣府の防災監</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣府副大臣又は国務大臣以外の指定行政機関の長のうちから、内閣総理大臣が任命する者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地震災害警戒副本部長及び地震災害警戒本部員以外の地震災害警戒本部の職員は、内閣官房若しくは指定行政機関の職員又は指定地方行政機関の長若しくはその職員のうちから、内閣総理大臣が任命する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleCaption>（警戒本部の所掌事務）</ArticleCaption>
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">警戒本部は、次に掲げる事務をつかさどる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">所管区域において指定行政機関の長、指定地方行政機関の長、地方公共団体の長その他の執行機関、指定公共機関及び指定地方公共機関が実施する地震防災応急対策又は災害対策基本法第五十条第一項に規定する災害応急対策（以下「地震防災応急対策等」という。）の総合調整に関すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">次条の規定及び第十五条において準用する災害対策基本法第二十八条の六第一項の規定により本部長の権限に属する事務</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、法令の規定によりその権限に属する事務</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（本部長の権限）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本部長は、地震防災応急対策等を的確かつ迅速に実施するため特に必要があると認めるときは、その必要な限度において、関係指定行政機関の長及び関係指定地方行政機関の長（第十五条において準用する災害対策基本法第二十八条の五の規定により権限を委任された当該指定行政機関の職員及び当該指定地方行政機関の職員を含む。）、関係地方公共団体の長その他の執行機関、関係指定公共機関並びに関係指定地方公共機関に対し、必要な指示を行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本部長は、地震防災応急対策を的確かつ迅速に実施するため、自衛隊の支援を求める必要があると認めるときは、防衛大臣に対し、自衛隊法（昭和二十九年法律第百六十五号）第八条に規定する部隊等の派遣を要請することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（警戒本部の廃止）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">警戒本部は、当該地震予知情報に係る地震災害に関し災害対策基本法第二十三条の三第一項に規定する特定災害対策本部、同法第二十四条第一項に規定する非常災害対策本部若しくは同法第二十八条の二第一項に規定する緊急災害対策本部が設置された時又は警戒本部の設置期間が満了した時に、廃止されるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（警戒本部に関する災害対策基本法の準用）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">災害対策基本法第二十三条の三第二項、第二十八条の五及び第二十八条の六第一項の規定は、警戒本部が設置された場合に準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第二十八条の五第一項中「災害応急対策」とあるのは、「災害応急対策又は大規模地震対策特別措置法第二条第十四号の地震防災応急対策」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（都道府県地震災害警戒本部及び市町村地震災害警戒本部の設置）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">警戒宣言が発せられたときは、強化地域に係る都道府県知事又は市町村長は、都道府県地震災害警戒本部（以下「都道府県警戒本部」という。）又は市町村地震災害警戒本部（以下「市町村警戒本部」という。）を設置するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（都道府県警戒本部の組織及び所掌事務等）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県警戒本部の長は、都道府県地震災害警戒本部長とし、都道府県知事をもつて充てる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県警戒本部に、都道府県地震災害警戒副本部長、都道府県地震災害警戒本部員その他の職員を置く。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県地震災害警戒副本部長は、都道府県地震災害警戒本部員のうちから当該都道府県の知事が任命する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県地震災害警戒副本部長は、都道府県地震災害警戒本部長を助け、都道府県地震災害警戒本部長に事故があるときは、その職務を代理する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県地震災害警戒本部員は、次に掲げる者をもつて充てる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該都道府県の区域の全部又は一部を管轄する指定地方行政機関の長又はその指名する職員</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該都道府県を警備区域とする陸上自衛隊の方面総監又はその指名する部隊若しくは機関の長</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該都道府県の教育委員会の教育長</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">警視総監又は当該道府県の道府県警察本部長（第二十三条第五項において「警察本部長」という。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該都道府県の知事がその部内の職員のうちから指名する者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該都道府県の区域内の市町村及び消防機関の職員のうちから当該都道府県の知事が任命する者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該都道府県の地域において業務を行う指定公共機関又は指定地方公共機関の役員又は職員のうちから当該都道府県の知事が任命する者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県地震災害警戒副本部長及び都道府県地震災害警戒本部員以外の都道府県警戒本部の職員は、当該都道府県の職員のうちから、当該都道府県の知事が任命する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県警戒本部は、次に掲げる事務をつかさどる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該都道府県の地域において指定地方行政機関の長、市町村の長その他の執行機関、指定公共機関及び指定地方公共機関が実施する地震防災応急対策等の連絡調整に関すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該都道府県の地域に係る地震防災応急対策等の実施及び実施の推進に関すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">次項の規定により都道府県地震災害警戒本部長の権限に属する事務</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、法律又はこれに基づく政令によりその権限に属する事務</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県地震災害警戒本部長は、当該都道府県警察又は当該都道府県の教育委員会に対し、当該都道府県の地域に係る地震防災応急対策等を実施するため必要な限度において、必要な指示をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="9">
+          <ParagraphNum>９</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前各項に規定するもののほか、都道府県警戒本部に関し必要な事項は、当該都道府県の条例で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="10">
+          <ParagraphNum>１０</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県警戒本部が設置されている場合においては、災害対策基本法第十四条第一項に規定する都道府県防災会議は、同条第二項の規定にかかわらず、同項第一号に掲げる事務で当該地震予知情報に係る地震災害に関するものを行わないものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（市町村警戒本部の組織及び所掌事務等）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">市町村警戒本部の長は、市町村地震災害警戒本部長とし、市町村長をもつて充てる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">市町村警戒本部は、次に掲げる事務をつかさどる。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該市町村の地域に係る地震防災応急対策等の実施及び実施の推進に関すること。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">次項の規定により市町村地震災害警戒本部長の権限に属する事務</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、法律又はこれに基づく政令によりその権限に属する事務</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">市町村地震災害警戒本部長は、当該市町村の教育委員会に対し、当該市町村の地域に係る地震防災応急対策等を実施するため必要な限度において、必要な指示をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前三項に規定するもののほか、市町村警戒本部の組織その他必要な事項は、当該市町村の条例で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleCaption>（都道府県警戒本部又は市町村警戒本部の廃止）</ArticleCaption>
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県警戒本部又は市町村警戒本部は、当該都道府県又は市町村に当該地震予知情報に係る地震災害に関し災害対策基本法第二十三条第一項に規定する都道府県災害対策本部又は同法第二十三条の二第一項に規定する市町村災害対策本部が設置された時に、廃止されるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県警戒本部又は市町村警戒本部は、第九条第三項の警戒解除宣言があつたときは、速やかに廃止するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleCaption>（地震予知情報の伝達等に関する災害対策基本法の準用）</ArticleCaption>
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">災害対策基本法第五十一条第一項の規定は地震予知情報の伝達について、同法第五十二条の規定は警戒宣言が発せられた場合における防災に関する信号について、同法第五十五条から第五十七条までの規定は都道府県知事又は市町村長が警戒宣言が発せられたことを知つた場合について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第五十一条第一項中「、公共的団体並びに防災上重要な施設の管理者（以下「災害応急対策責任者」という。）」とあるのは、「その他大規模地震対策特別措置法第二条第十四号の地震防災応急対策の実施の責任を有する者」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleCaption>（地震防災応急対策及びその実施責任）</ArticleCaption>
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">地震防災応急対策は、次の事項について行うものとする。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">地震予知情報の伝達及び避難の勧告又は指示に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">消防、水防その他の応急措置に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">応急の救護を要すると認められる者の救護その他保護に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">施設及び設備の整備及び点検に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">犯罪の予防、交通の規制その他当該大規模な地震により地震災害を受けるおそれのある地域における社会秩序の維持に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">緊急輸送の確保に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">地震災害が発生した場合における食糧、医薬品その他の物資の確保、清掃、防疫その他の保健衛生に関する措置その他応急措置を実施するため必要な体制の整備に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、地震災害の発生の防止又は軽減を図るための措置に関する事項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">警戒宣言が発せられたときは、指定行政機関の長、指定地方行政機関の長、地方公共団体の長その他の執行機関、指定公共機関、地震防災応急計画を作成した者その他法令の規定により地震防災応急対策の実施の責任を有する者は、法令又は地震防災計画の定めるところにより、地震防災応急対策を実施しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項に規定する者は、地震防災応急対策を的確かつ円滑に実施するため相互に協力しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleCaption>（住民等の責務）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">警戒宣言が発せられたときは、強化地域内の居住者等は、火気の使用、自動車の運行、危険な作業等の自主的制限、消火の準備その他当該地震に係る地震災害の発生の防止又は軽減を図るため必要な措置を執るとともに、市町村長、警察官、海上保安官その他の者が実施する地震防災応急対策に係る措置に協力しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（市町村長の指示等）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">市町村長は、警戒宣言が発せられた場合において、第七条第六項又は第八条第二項の規定による送付をした者（政令で定める者を除く。）が第二十一条第二項の規定による地震防災応急対策の実施をしていないことが明らかであると認めるときは、その者に対し、直ちにその実施をすべきことを指示することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">市町村長は、警戒宣言が発せられた場合において、第七条第一項又は第二項に規定する者で同条第六項又は第八条第二項の規定による送付をしていないもの（政令で定める者を除く。）が管理し、又は運営する施設又は事業に関し、当該地震の発生により危険な事態が生ずるおそれがあると認めるときは、当該危険な事態の発生を防止するため、その者に対し、執るべき措置を明示してこれを直ちに実施すべきことを指示することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">市町村長は、警戒宣言が発せられたときは、当該地震の発生により危険な事態を生ずるおそれがあると認められる物件の占有者、所有者又は管理者（第六条第一項又は第七条第一項若しくは第二項に規定する者を除く。）に対し、地震災害の発生の防止又は軽減を図るため必要な限度において、直ちに当該物件の除去、保安その他必要な措置を執るべきことを指示することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前三項に規定するもののほか、市町村長は、警戒宣言が発せられた場合において、当該地震に係る地震災害の発生の防止又は軽減を図るため必要があると認めるときは、前三項に規定する者に対し、必要な措置を執るべきことを要請し、又は勧告することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県知事、警察本部長又は政令で定める管区海上保安本部の事務所の長は、市町村長から要求があつたときは、前各項に規定する指示、要請又は勧告をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="24">
+        <ArticleCaption>（交通の禁止又は制限）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">強化地域に係る都道府県又はこれに隣接する都道府県の都道府県公安委員会は、警戒宣言が発せられた場合において、当該強化地域内の居住者、滞在者その他の者の避難の円滑な実施を図るため必要があると認めるとき、又は地震防災応急対策に従事する者若しくは地震防災応急対策に必要な物資の緊急輸送その他地震防災応急対策に係る措置を実施するための緊急輸送を確保するため必要があると認めるときは、政令で定めるところにより、必要な限度において、歩行者又は車両の通行を禁止し、又は制限することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="25">
+        <ArticleCaption>（避難の際における警察官の警告、指示等）</ArticleCaption>
+        <ArticleTitle>第二十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">警察官は、警戒宣言が発せられた場合において、避難に伴う混雑等において危険な事態が発生するおそれがあると認めるときは、当該危険な事態の発生を防止するため、危険を生じさせ、又は危害を受けるおそれのある者その他関係者に対し、必要な警告又は指示をすることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、警察官は、特に必要があると認めるときは、危険な場所への立入りを禁止し、若しくはその場所から退去させ、又は当該危険を生ずるおそれのある道路上の車両その他の物件の除去その他必要な措置を執ることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="26">
+        <ArticleCaption>（地震防災応急対策に係る措置に関する災害対策基本法の準用）</ArticleCaption>
+        <ArticleTitle>第二十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">災害対策基本法第五十八条、第六十条、第六十一条、第六十一条の二（同法第六十三条第四項において準用する場合を含む。）、第六十三条第一項及び第二項、第六十七条、第六十八条、第七十四条、第七十四条の四第一項並びに第七十九条の規定は、警戒宣言が発せられた場合について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第五十八条中「災害応急対策責任者」とあるのは「大規模地震対策特別措置法第二条第十四号の地震防災応急対策の実施の責任を有する者」と、同法第六十条第四項中「報告しなければ」とあるのは「報告し、及び管轄警察署長に通知しなければ」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">災害対策基本法第七十二条第一項及び第三項の規定は、警戒宣言が発せられた場合に都道府県知事が市町村長に対して行う指示について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">災害対策基本法第八十六条の規定は、地震防災応急対策に係る措置を実施するため必要な国有財産等の貸付け又は使用について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="27">
+        <ArticleCaption>（応急公用負担の特例）</ArticleCaption>
+        <ArticleTitle>第二十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">市町村長は、地震防災応急対策に係る措置を実施するため緊急の必要があると認めるときは、政令で定めるところにより、当該市町村の区域内の他人の土地、建物その他の工作物を一時使用し、又は土石、竹木その他の物件を使用することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">災害対策基本法第六十三条第二項の規定は、前項の場合に準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県知事は、第二十一条第一項第四号から第八号までに掲げる事項について地震防災応急対策に係る措置を実施するため特に必要があると認めるときは、災害救助法（昭和二十二年法律第百十八号）第八条から第十条までの規定の例により、協力命令若しくは保管命令を発し、土地、家屋若しくは物資を使用し、若しくは物資を収用し、又はその職員に物資の所在する場所若しくは物資を保管させる場所に立入検査をさせ、若しくは物資を保管させた者から必要な報告を徴することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定による都道府県知事の権限に属する事務は、政令で定めるところにより、その一部を市町村長が行うこととすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">指定行政機関の長及び指定地方行政機関の長は、第二十一条第一項第四号から第八号までに掲げる事項について地震防災応急対策に係る措置を実施するため特に必要があると認めるときは、地震防災強化計画の定めるところにより、当該措置の実施に必要な物資の生産、集荷、販売、配給、保管若しくは輸送を業とする者に対し、その取り扱う物資の保管を命じ、又はその職員に物資の所在する場所若しくは物資を保管させる場所に立入検査をさせ、若しくは物資を保管させた者から必要な報告を徴することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国又は地方公共団体は、第一項、第三項又は前項の規定による処分が行われたときは、それぞれ、当該処分により通常生ずべき損失を補償しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三項又は第五項の規定による処分については、都道府県知事若しくは市町村長又は指定行政機関の長若しくは指定地方行政機関の長は、政令で定めるところにより、それぞれ公用令書を交付して行わなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の公用令書には、政令で定めるところにより、次の事項を記載しなければならない。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">公用令書の交付を受ける者の氏名及び住所（法人にあつては、その名称及び主たる事務所の所在地）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">当該処分の根拠となつた法律の規定</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">保管命令にあつては保管すべき物資の種類、数量、保管場所及び期間、土地又は家屋の使用にあつては使用する土地又は家屋の所在する場所及び当該使用に係る期間、物資の使用又は収用にあつては使用又は収用する物資の種類及び数量、物資の所在する場所並びに当該使用又は収用に係る期間又は期日</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="9">
+          <ParagraphNum>９</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">災害対策基本法第八十三条の規定は、第三項の規定により都道府県の職員が立ち入る場合及び第五項の規定により指定行政機関又は指定地方行政機関の職員が立ち入る場合に準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="28">
+        <ArticleCaption>（避難状況等の報告）</ArticleCaption>
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">市町村長は、警戒宣言が発せられたときは、政令で定めるところにより、当該市町村の居住者等の避難の状況等を都道府県警戒本部に報告しなければならない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、都道府県地震災害警戒本部長は、当該報告の概要を警戒本部に通知しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">市町村長は都道府県警戒本部に対し、指定行政機関の長、指定公共機関の代表者、都道府県地震災害警戒本部長又は石油コンビナート等防災本部の本部長は警戒本部に対し、それぞれ、政令で定めるところにより、地震防災応急対策に係る措置の実施状況を報告しなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="29">
+        <ArticleCaption>（補助等）</ArticleCaption>
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国は、地震防災強化計画に基づき緊急に整備すべき施設等の整備に関する事業が円滑に実施されるようにするため、予算の範囲内において、当該事業の実施に要する経費の一部を補助し、その他必要と認める措置を講ずることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（地震防災応急対策に要する費用の負担）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法令に特別の定めがある場合又は予算の範囲内において特別の措置を講じている場合を除くほか、地震防災応急対策に要する費用その他この法律の施行に要する費用は、その実施の責めに任ずる者が負担するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleCaption>（財政措置に関する災害対策基本法の準用）</ArticleCaption>
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">災害対策基本法第九十二条の規定は第二十六条第一項において準用する同法第六十七条第一項、第六十八条、第七十四条第一項又は第七十四条の四第一項の規定による応援に要した費用について、同法第九十三条の規定は第二十六条第二項において準用する同法第七十二条第一項の規定による都道府県知事の指示に基づいて市町村長が実施した地震防災応急対策に係る措置に要した費用及び応援のために要した費用について、同法第九十四条の規定は地震防災応急対策に要する費用について、同法第九十五条の規定は第十三条第一項の規定による地震災害警戒本部長の指示に基づいて地方公共団体の長が実施した地震防災応急対策等に係る措置に要した費用について、それぞれ準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（強化地域に係る地震防災訓練の実施）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三条第一項の規定による強化地域の指定があつたときは、当該地域に係る指定行政機関の長、指定地方行政機関の長、地方公共団体の長その他の執行機関、指定公共機関、地震防災応急計画を作成した者その他法令の規定により地震防災応急対策の実施の責任を有する者は、法令又は地震防災計画の定めるところにより、それぞれ又は共同して地震に係る防災訓練を行わなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県公安委員会は、前項の地震に係る防災訓練の効果的な実施を図るため特に必要があると認めるときは、政令で定めるところにより、当該訓練の実施に必要な限度で、道路の区間を指定して、歩行者又は車両の通行を禁止し、又は制限することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項に規定する者は、同項の防災訓練を行おうとするときは、住民その他関係のある公私の団体に協力を求めることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="33">
+        <ArticleCaption>（科学技術の振興等）</ArticleCaption>
+        <ArticleTitle>第三十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国は、地震の発生を予知するため、地震に関する観測及び測量のための施設及び設備の整備に努めるとともに、地震の発生の予知に資する科学技術の振興を図るため、研究体制の整備、研究の推進及びその成果の普及に努めなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="34">
+        <ArticleCaption>（特別区についてのこの法律の適用）</ArticleCaption>
+        <ArticleTitle>第三十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の適用については、特別区は、市とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="35">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律に特別の定めがあるもののほか、この法律の実施のための手続その他この法律の施行に関し必要な事項は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="36">
+        <ArticleCaption>（罰則）</ArticleCaption>
+        <ArticleTitle>第三十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、六月以下の拘禁刑又は三十万円以下の罰金に処する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十七条第三項の規定による都道府県知事（同条第四項の規定により権限に属する事務の一部を行う市町村長を含む。）の協力命令又は保管命令に従わなかつた者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十七条第五項の規定による指定行政機関の長又は指定地方行政機関の長（第十五条において準用する災害対策基本法第二十八条の五第一項の規定により権限の委任を受けた職員を含む。）の保管命令に従わなかつた者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="37">
+        <ArticleTitle>第三十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二十四条の規定による都道府県公安委員会の禁止又は制限に従わなかつた車両の運転者は、三月以下の拘禁刑又は二十万円以下の罰金に処する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="38">
+        <ArticleTitle>第三十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、二十万円以下の罰金に処する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十七条第三項（同条第四項の規定による権限に属する事務の一部を行う場合を含む。以下この条において同じ。）又は第五項（第十五条において準用する災害対策基本法第二十八条の五第一項の規定による権限に属する事務の一部を行う場合を含む。以下この条において同じ。）の規定による立入検査を拒み、妨げ、又は忌避した者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十七条第三項又は第五項の規定による報告をせず、又は虚偽の報告をした者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="39">
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、十万円以下の罰金又は拘留に処する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十条において準用する災害対策基本法第五十二条第一項の規定に基づく内閣府令によつて定められた防災に関する信号をみだりに使用し、又はこれと類似する信号を使用した者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十六条第一項において準用する災害対策基本法第六十三条第一項の規定による市町村長又は同条第二項の規定による警察官若しくは海上保安官の禁止若しくは制限又は退去命令に従わなかつた者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="40">
+        <ArticleTitle>第四十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、第三十六条又は第三十八条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五八年一二月二日法律第七八号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律（第一条を除く。）は、昭和五十九年七月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律の施行の日の前日において法律の規定により置かれている機関等で、この法律の施行の日以後は国家行政組織法又はこの法律による改正後の関係法律の規定に基づく政令（以下「関係政令」という。）の規定により置かれることとなるものに関し必要となる経過措置その他この法律の施行に伴う関係政令の制定又は改廃に関し必要となる経過措置は、政令で定めることができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和六一年一二月四日法律第九三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、昭和六十二年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="42">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な事項は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成六年六月二四日法律第四二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成七年四月二一日法律第七五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して九月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成七年一二月八日法律第一三二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中災害対策基本法第四十八条、第五十三条、第六十条、第六十三条から第六十五条まで、第七十六条の三、第八十二条及び第八十四条の改正規定、同法第百十三条の改正規定（「五万円」を「三十万円」に改める部分に限る。）、同法第百十四条の改正規定、同法第百十五条の改正規定（「三万円」を「二十万円」に改める部分に限る。）並びに同法第百十六条の改正規定、第二条中大規模地震対策特別措置法第二十六条の改正規定、同法第三十六条の改正規定（「二十万円」を「三十万円」に改める部分に限る。）、同法第三十七条の改正規定、同法第三十八条の改正規定（「十万円」を「二十万円」に改める部分に限る。）及び同法第三十九条の改正規定並びに次条の規定は、公布の日から三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成八年三月三一日法律第一四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成九年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中地方自治法第二百五十条の次に五条、節名並びに二款及び款名を加える改正規定（同法第二百五十条の九第一項に係る部分（両議院の同意を得ることに係る部分に限る。）に限る。）、第四十条中自然公園法附則第九項及び第十項の改正規定（同法附則第十項に係る部分に限る。）、第二百四十四条の規定（農業改良助長法第十四条の三の改正規定に係る部分を除く。）並びに第四百七十二条の規定（市町村の合併の特例に関する法律第六条、第八条及び第十七条の改正規定に係る部分を除く。）並びに附則第七条、第十条、第十二条、第五十九条ただし書、第六十条第四項及び第五項、第七十三条、第七十七条、第百五十七条第四項から第六項まで、第百六十条、第百六十三条、第百六十四条並びに第二百二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="44">
+        <ArticleCaption>（大規模地震対策特別措置法の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に第八十五条の規定による改正前の大規模地震対策特別措置法第二十七条第四項の規定により都道府県知事の権限の一部を委任されて市町村長が行っている事務は、第八十五条の規定による改正後の同法第二十七条第四項の規定により市町村長が行うこととされた事務とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="159">
+        <ArticleCaption>（国等の事務）</ArticleCaption>
+        <ArticleTitle>第百五十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正前のそれぞれの法律に規定するもののほか、この法律の施行前において、地方公共団体の機関が法律又はこれに基づく政令により管理し又は執行する国、他の地方公共団体その他公共団体の事務（附則第百六十一条において「国等の事務」という。）は、この法律の施行後は、地方公共団体が法律又はこれに基づく政令により当該地方公共団体の事務として処理するものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="160">
+        <ArticleCaption>（処分、申請等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定については、当該各規定。以下この条及び附則第百六十三条において同じ。）の施行前に改正前のそれぞれの法律の規定によりされた許可等の処分その他の行為（以下この条において「処分等の行為」という。）又はこの法律の施行の際現に改正前のそれぞれの法律の規定によりされている許可等の申請その他の行為（以下この条において「申請等の行為」という。）で、この法律の施行の日においてこれらの行為に係る行政事務を行うべき者が異なることとなるものは、附則第二条から前条までの規定又は改正後のそれぞれの法律（これに基づく命令を含む。）の経過措置に関する規定に定めるものを除き、この法律の施行の日以後における改正後のそれぞれの法律の適用については、改正後のそれぞれの法律の相当規定によりされた処分等の行為又は申請等の行為とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に改正前のそれぞれの法律の規定により国又は地方公共団体の機関に対し報告、届出、提出その他の手続をしなければならない事項で、この法律の施行の日前にその手続がされていないものについては、この法律及びこれに基づく政令に別段の定めがあるもののほか、これを、改正後のそれぞれの法律の相当規定により国又は地方公共団体の相当の機関に対して報告、届出、提出その他の手続をしなければならない事項についてその手続がされていないものとみなして、この法律による改正後のそれぞれの法律の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="161">
+        <ArticleCaption>（不服申立てに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">施行日前にされた国等の事務に係る処分であって、当該処分をした行政庁（以下この条において「処分庁」という。）に施行日前に行政不服審査法に規定する上級行政庁（以下この条において「上級行政庁」という。）があったものについての同法による不服申立てについては、施行日以後においても、当該処分庁に引き続き上級行政庁があるものとみなして、行政不服審査法の規定を適用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該処分庁の上級行政庁とみなされる行政庁は、施行日前に当該処分庁の上級行政庁であった行政庁とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の場合において、上級行政庁とみなされる行政庁が地方公共団体の機関であるときは、当該機関が行政不服審査法の規定により処理することとされる事務は、新地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="163">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百六十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="164">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百六十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="250">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二百五十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新地方自治法第二条第九項第一号に規定する第一号法定受託事務については、できる限り新たに設けることのないようにするとともに、新地方自治法別表第一に掲げるもの及び新地方自治法に基づく政令に示すものについては、地方分権を推進する観点から検討を加え、適宜、適切な見直しを行うものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="251">
+        <ArticleTitle>第二百五十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、地方公共団体が事務及び事業を自主的かつ自立的に執行できるよう、国と地方公共団体との役割分担に応じた地方税財源の充実確保の方途について、経済情勢の推移等を勘案しつつ検討し、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年七月一六日法律第一〇二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十条第一項及び第五項、第十四条第三項、第二十三条、第二十八条並びに第三十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleCaption>（別に定める経過措置）</ArticleCaption>
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二条から前条までに規定するもののほか、この法律の施行に伴い必要となる経過措置は、別に法律で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一五年六月一八日法律第九二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十七年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定並びに附則第七条、第八条、第九条第五項、第十二条から第十四条まで、第四十四条、第四十七条、第四十九条、第五十条（「第二条第十二項」を「第二条第十三項」に改める部分に限る。）、第五十二条及び第五十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成十六年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年一二月二二日法律第一一八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一九年六月二二日法律第九三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="81">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="82">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年六月二七日法律第四一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二五年六月二一日法律第五四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条（災害対策基本法目次の改正規定（「第三款</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">被災者の運送（第八十六条の十四）」を「／第三款</Sentence>
+              </Column>
+              <Column Num="3">
+                <Sentence Num="1" WritingMode="vertical">被災者の運送（第八十六条の十四）／第四款</Sentence>
+              </Column>
+              <Column Num="4">
+                <Sentence Num="1" WritingMode="vertical">安否情報の提供等（第八十六条の十五）／」に、「第八十六条の十五―第八十六条の十七」を「第八十六条の十六―第八十六条の十八」に改め、「第九十条の二」の下に「―第九十条の四」を加える部分に限る。）、同法第七十一条第一項の改正規定、同法第五章第六節中第八十六条の十七を第八十六条の十八とし、第八十六条の十六を第八十六条の十七とし、第八十六条の十五を第八十六条の十六とする改正規定、同法第五章第五節に一款を加える改正規定及び同法第七章中第九十条の二の次に二条を加える改正規定に限る。）、第三条、第五条及び第六条の規定並びに附則第四条、第六条、第九条、第十条、第十一条（大規模地震対策特別措置法（昭和五十三年法律第七十三号）第二十七条第三項の改正規定に限る。）、第十三条（原子力災害対策特別措置法（平成十一年法律第百五十六号）第二十八条第一項の表第八十六条第一項及び第二項の項の次に次のように加える改正規定、同表第九十条の二第一項及び第二項の項の改正規定、同法第二十八条第二項の表第八十六条の十五第一項及び第二項の項の改正規定、同表第八十六条の十六の項の改正規定及び同表第八十六条の十七第一項及び第二項の項の改正規定に限る。）、第十五条（武力攻撃事態等における国民の保護のための措置に関する法律（平成十六年法律第百十二号）第八十六条の改正規定に限る。）及び第十六条の規定</Sentence>
+              </Column>
+              <Column Num="5">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二七年六月二四日法律第四七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定（第三号に掲げる改正規定を除く。）及び第五条の規定並びに附則第十二条から第十五条まで、第十七条、第二十条、第二十一条、第二十二条（第六項を除く。）、第二十三条から第二十五条まで、第二十七条（附則第二十四条第一項に係る部分に限る。）、第二十八条（第五項を除く。）、第二十九条から第三十一条まで、第三十三条、第三十四条、第三十六条（附則第二十二条第一項及び第二項、第二十三条第一項、第二十四条第一項、第二十五条、第二十八条第一項及び第二項、第二十九条第一項、第三十条第一項及び第三十一条に係る部分に限る。）、第三十七条、第三十八条、第四十一条（第四項を除く。）、第四十二条、第四十三条、第四十五条（第四号から第六号までに係る部分に限る。）、第四十六条（附則第四十三条及び第四十五条（第四号から第六号までに係る部分に限る。）に係る部分に限る。）、第四十七条、第四十八条及び第七十五条の規定、附則第七十七条中地方税法（昭和二十五年法律第二百二十六号）第三百四十九条の三第三項及び第七百一条の三十四第三項第十七号の改正規定、附則第七十八条第一項から第六項まで及び第七十九条から第八十二条までの規定、附則第八十三条中法人税法（昭和四十年法律第三十四号）第四十五条第一項の改正規定（同項第二号に係る部分に限る。）、附則第八十五条中登録免許税法別表第一第百一号の改正規定及び同表第百四号（八）の改正規定、附則第八十七条の規定、附則第八十八条中電源開発促進税法（昭和四十九年法律第七十九号）第二条第三号イの改正規定（「発電量調整供給」を「電力量調整供給」に改める部分に限る。）並びに附則第九十条から第九十四条まで、第九十五条及び第九十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年六月二七日法律第六六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条、第五条（行政手続における特定の個人を識別するための番号の利用等に関する法律別表第二の二十の項及び五十三の項の改正規定を除く。）及び第十三条の規定並びに附則第十一条から第十三条まで、第十六条及び第十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日法律第四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和四年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中電気事業法目次の改正規定（「電気事業者」を「電気事業者等の」に、「供給命令等」を「災害等への対応」に、「第三十三条」を「第三十四条」に、「第三十四条」を「第三十四条の二」に改める部分に限る。）、同法第二十六条の次に二条を加える改正規定、同法第二十七条第一項の改正規定、同法第二十七条の十二の改正規定、同法第二十七条の二十六第一項の改正規定、同法第二十七条の二十九の改正規定、同法第二章第七節第一款の款名の改正規定、同法第二十八条の改正規定、同法第二十八条の四十第五号の改正規定、同節第五款の款名の改正規定、同法第三十一条の前に見出しを付する改正規定、同節第六款中第三十四条を第三十四条の二とする改正規定、同節第五款に一条を加える改正規定、同法第百十九条第九号の改正規定及び同法第百二十条第四号の改正規定、第五条の規定（第三号に掲げる改正規定を除く。）並びに第六条中電気事業法等の一部を改正する法律附則第十六条第四項の改正規定（「第六十六条の十一」を「第六十六条の十」に改める部分に限る。）及び同法附則第二十三条第三項の改正規定並びに附則第六条、第七条、第九条から第十二条まで及び第二十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月一〇日法律第三〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年五月二四日法律第三七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第十四条の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月四日法律第五一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中災害対策基本法第二条第一号の改正規定、同法第二条の二第六号の改正規定、同法第五条の三に一項を加える改正規定、同法第八条第二項の改正規定、同法第四十条の改正規定、同法第四十二条第三項の改正規定、同法第四十三条第三項の改正規定及び同法第四十九条の二に一項を加える改正規定並びに第五条の規定（大規模災害からの復興に関する法律第五条第六項第二号の改正規定を除く。）並びに次条並びに附則第四条及び第六条（原子力災害対策特別措置法（平成十一年法律第百五十六号）第二十八条第一項の表第四十条第二項第二号の項の次に次のように加える改正規定、同表第四十条第三項の項の改正規定、同表第四十二条第三項の項の改正規定、同表第四十九条の二及び第四十九条の三の項の改正規定及び同項の次に次のように加える改正規定に限る。）の規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後適当な時期において、この法律による改正後のそれぞれの法律の規定について、その施行の状況等を勘案して検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
