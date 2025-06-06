@@ -6299,26 +6299,35 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">質権者は、質権の目的である債権を直接に取り立てることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">質権者は、質権の担保する債権について不履行があったときは、その目的である債権を直接に取り立てることができる。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、質権者の受けた利益の価額がその担保する債権の額を超えるときは、その差額に相当する金銭を質権設定者に支払わなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">債権の目的物が金銭であるときは、質権者は、自己の債権額に対応する部分に限り、これを取り立てることができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第三債務者は、質権の設定について第三百六十四条の規定によりその規定に従うこととされる第四百六十七条第一項の規定による通知又は承諾がされた時より後に質権者に対してした弁済その他の債務を消滅させる事由をもって質権設定者その他の第三者に対抗することができる。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、質権者は、自己の債権の弁済期が到来するまでは、質権設定者に対し、その受けた利益の価額に相当する金銭を支払うことを要しない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の債権の弁済期が質権者の債権の弁済期前に到来したときは、質権者は、第三債務者にその弁済をすべき金額を供託させることができる。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合において、質権は、その供託金について存在する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前項前段の場合において、質権者の債権の弁済期が到来したときは、質権者は、質権設定者に対し、その受けた利益の価額から自己の債権の額を控除した残額を支払わなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">債権の目的物が金銭でないときは、質権者は、弁済として受けた物について質権を有する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">債権の目的物が金銭である場合において、その弁済期が質権者の債権についての不履行が生ずる前に到来したときは、質権者は、第三債務者にその弁済をすべき金額を供託させることができる。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、質権は、その供託金について存在する。</Sentence>
+                </ParagraphSentence>
+              </Paragraph>
+              <Paragraph Num="5">
+                <ParagraphNum>５</ParagraphNum>
+                <ParagraphSentence>
+                  <Sentence Num="1" WritingMode="vertical">債権の目的が物の引渡しであるときは、質権者は、弁済として受けた物について質権を有する。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合においては、第一項後段及び第三項の規定は、適用しない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -6370,7 +6379,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">抵当権は、その担保する債権について不履行があったときは、その後に生じた抵当不動産の果実に及ぶ。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">抵当権は、その担保する債権について不履行があったときは、抵当不動産の果実（収取されていないものに限る。）に及ぶ。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
