@@ -1,0 +1,3138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Reiwa" Year="07" Num="067" PromulgateMonth="06" PromulgateDay="13" LawType="Act"><LawNum>令和七年法律第六十七号</LawNum><LawBody><LawTitle Kana="えんかつなじぎょうさいせいをはかるためのじぎょうしゃのきんゆうきかんとうにたいするさいむのちょうせいのてつづきとうにかんするほうりつ" Abbrev="" AbbrevKana="">円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　対象債権者の権利の変更に関する手続</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　指定確認調査機関の確認等</SectionTitle>
+          <ArticleRange>（第三条―第九条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　対象債権者集会及び権利変更決議の認可</SectionTitle>
+          <ArticleRange>（第十条―第二十九条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　雑則</SectionTitle>
+          <ArticleRange>（第三十条―第四十五条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　指定確認調査機関</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <ArticleRange>（第四十六条―第四十八条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　業務</SectionTitle>
+          <ArticleRange>（第四十九条―第五十四条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　監督</SectionTitle>
+          <ArticleRange>（第五十五条―第六十三条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　確認事業者に係る特例</ChapterTitle>
+        <ArticleRange>（第六十四条―第七十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <ArticleRange>（第八十条―第九十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、我が国の経済社会の活力の向上及び持続的発展を図るためには、経済的に窮境に陥るおそれのある事業者について早期での円滑な事業再生を促すことにより、当該事業者がその事業の価値の毀損並びに技術及び人材の散逸の回避を図った上で経営資源を有効に活用してその事業活動を活性化できるようにすることが重要であることに鑑み、当該事業者の事業再生の実施のため、公正かつ中立な第三者が関与して金融機関等であるその債権者の一定の割合以上の多数の同意を得、かつ、裁判所の認可を受けた当該債権者の決議により、当該債権者に対する当該事業者の債務に係る権利関係の調整を行うことができる手続等に関し必要な事項を定め、もって当該事業者の円滑な事業再生の実施を図ることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「金融機関等」とは、次に掲げる者をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">預金保険法（昭和四十六年法律第三十四号）第二条第一項に規定する金融機関</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">銀行法（昭和五十六年法律第五十九号）第四条第一項の免許を受けた同法第十条第二項第八号に規定する外国銀行</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">農水産業協同組合貯金保険法（昭和四十八年法律第五十三号）第二条第一項に規定する農水産業協同組合</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">保険業法（平成七年法律第百五号）第二条第二項に規定する保険会社、同条第七項に規定する外国保険会社等及び同法第二百二十三条第一項に規定する免許特定法人</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">貸金業法（昭和五十八年法律第三十二号）第二条第二項に規定する貸金業者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">政策金融機関、預金保険機構、信用保証協会その他これらに準ずる経済産業省令で定める特殊法人等（法律により直接に設立された法人若しくは特別の法律により特別の設立行為をもって設立された法人のうち総務省設置法（平成十一年法律第九十一号）第四条第一項第八号の規定の適用を受けるもの、特別の法律により設立され、かつ、その設立に関し行政官庁の認可を要する法人又は独立行政法人通則法（平成十一年法律第百三号）第二条第一項に規定する独立行政法人をいう。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる者のほか、金銭の貸付けその他金融に関する業務で信用の供与に係るものを行う事業者として経済産業省令で定める者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">地方公共団体</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">債権管理回収業に関する特別措置法（平成十年法律第百二十六号）第二条第三項に規定する債権回収会社その他債権の譲受けに関する業務を行う事業者として経済産業省令で定める者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「貸付債権等」とは、貸付債権その他信用の供与に基づく債権として経済産業省令で定めるもの（前項第九号に掲げる者が有するものにあっては、同項第一号から第八号までに掲げる者が有していたものを同項第九号に掲げる者が譲り受けた場合のものに限る。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「対象債権」とは、次条第一項の確認を受けた事業者（以下「確認事業者」という。）に対して当該確認の時に金融機関等が有する当該確認前の原因に基づいて生じた貸付債権等及び当該貸付債権等に係る次に掲げる権利をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該確認後の利息の請求権</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該確認後の不履行による損害賠償又は違約金の請求権</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「対象債権者」とは、対象債権を有する者であって、次条第七項（第四条第三項において準用する場合を含む。）の規定による通知を受けた者をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　対象債権者の権利の変更に関する手続</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　指定確認調査機関の確認等</SectionTitle>
+          <Article Num="3">
+            <ArticleCaption>（指定確認調査機関の確認）</ArticleCaption>
+            <ArticleTitle>第三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済的に窮境に陥るおそれのある事業者は、その事業再生を図るため、第十条の対象債権者集会における第十一条に規定する権利変更議案の決議（以下「権利変更決議」という。）により当該事業者に対して貸付債権等を有する金融機関等の権利を変更しようとするときは、経済産業省令で定めるところにより、当該権利の変更について、申請書に当該権利の変更に関する概要を記載した書面（以下この条において「権利変更概要書」という。）及び当該貸付債権等の一覧表（以下この条において「貸付債権等一覧表」という。）を添付して、これらを第四十六条第一項の規定による指定を受けた者（以下「指定確認調査機関」という。）に提出し、その申請が次の各号のいずれにも該当する旨の確認を受けなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該事業者が事業の継続に支障を来すことなく弁済期にある債務を弁済することが困難となるおそれがあること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">貸付債権等一覧表に記載のある債権が当該事業者に対して金融機関等が有する当該確認前の原因に基づいて生じた貸付債権等であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">権利変更概要書において記載された当該権利の変更に関する方針が第十一条に規定する権利変更議案の可決の見込みがないことが明らかでないものとして経済産業省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該権利の変更に関する方針が貸付債権等一覧表に記載のある金融機関等の一般の利益に適合する見込みがあること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該事業者が、破産手続開始の決定、再生手続開始の決定、更生手続開始の決定、特別清算開始の命令又は外国倒産処理手続の承認の決定を受け、及び破産事件、再生事件、更生事件、特別清算事件又は承認援助事件が係属している者でないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">権利変更概要書には、次に掲げる事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該事業者に対して貸付債権等を有する金融機関等の権利の変更に関する方針</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該事業者の収入及び支出の見込み</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該事業者が早期での事業再生を図るため実施しようとする今後の事業活動の方向性</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該事業者が当該確認を受けることについての金融機関等（貸付債権等一覧表に記載のある貸付債権等の総額のうち経済産業省令で定める割合に相当する額以上の貸付債権等を有する者に限る。）の異議の有無</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該事業者が、破産手続開始の決定、再生手続開始の決定、更生手続開始の決定、特別清算開始の命令又は外国倒産処理手続の承認の決定を受け、及び破産事件、再生事件、更生事件、特別清算事件又は承認援助事件が係属している者でないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十条の対象債権者集会の時期の見込み</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他経済産業省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">貸付債権等一覧表には、次に掲げる事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該事業者に対して金融機関等が有する貸付債権等の内容及び原因並びに当該金融機関等の氏名又は名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該貸付債権等が担保権（特別の先取特権、質権、抵当権、商法（明治三十二年法律第四十八号）若しくは会社法（平成十七年法律第八十六号）の規定による留置権、譲渡担保権（譲渡担保契約及び所有権留保契約に関する法律（令和七年法律第五十六号）第二条第三号に規定する譲渡担保権をいう。第八条及び第八条の三第一項において同じ。）若しくは留保所有権（同法第二条第十八号に規定する留保所有権をいう。第八条及び第八条の三第一項において同じ。）、企業担保権又は企業価値担保権をいう。以下同じ。）によって担保されるものであるときは、その旨並びに当該担保権の内容及びその目的である財産</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他経済産業省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の確認の申請には、権利変更概要書及び貸付債権等一覧表（第十二条第一項及び第十四条第一項において「権利変更概要書等」という。）のほか、定款、登記事項証明書、貸借対照表、損益計算書その他の経済産業省令で定める書類を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、定款、貸借対照表又は損益計算書が電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）で作成されているときは、書類に代えて当該電磁的記録を添付することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、確認調査員（第五十二条の規定により選任された確認調査員をいう。第四十六条第一項第五号及び第五十二条を除き、以下同じ。）に第一項の確認の実施に関する事務を実施させなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、第一項の確認をしたときは、経済産業省令で定めるところにより、その旨を対象債権を有する者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="4">
+            <ArticleCaption>（変更の確認等）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">確認事業者は、前条第一項の確認に係る権利の変更についての内容を変更しようとするときは、経済産業省令で定めるところにより、その変更が同項各号（当該変更に係る部分に限る。）のいずれにも該当する旨の指定確認調査機関の確認を受けなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同条第二項第六号及び第七号並びに第三項第三号に掲げる事項の変更、対象債権を有する者の変更その他経済産業省令で定める軽微な変更については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">確認事業者は、前項ただし書の変更をしたときは、遅滞なく、その旨を指定確認調査機関に届け出なければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、経済産業省令で定める特に軽微な変更については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第六項の規定は第一項の規定による変更の確認について、同条第七項の規定は第一項の規定による変更の確認及び前項の規定による対象債権を有する者の変更の届出について、それぞれ準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="5">
+            <ArticleCaption>（確認の取消し）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、次の各号のいずれかに該当する場合には、第三条第一項の確認を取り消さなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三条第一項の確認に係る権利の変更についての内容（前条第一項の規定による変更の確認があったときは、その変更後のもの）が第三条第一項第一号若しくは第三号から第五号までのいずれかに該当しないこととなったとき、又は当該確認若しくは変更の確認を受けた時点において同項各号のいずれかに該当していなかったことが判明したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第十五条第一項の調査の結果、第十一条に規定する権利変更議案、第十四条第一項に規定する早期事業再生計画又は同条第四項の規定による評定の内容が第十五条第一項各号に掲げる要件に該当していなかったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者が前条第一項の規定に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者が対象債権を有する者の変更（前条第二項ただし書の経済産業省令で定める特に軽微な変更に該当するものを除く。）について同項の規定による届出をしなかったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">確認事業者が次条第二項の規定に違反して対象債権に係る債務の弁済をしたことが判明したとき。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、弁済を行うことについてやむを得ない事由があるものとして経済産業省令で定める場合には、この限りでない。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者が第十四条第一項の期間（同条第二項の規定により当該期間が延長された場合にあっては、当該延長後の期間）内に同条第一項の規定による提出をしなかったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者が第十五条第一項の調査に対して正当な理由がなく協力しなかったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者が第十六条第二項の規定に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者が偽りその他不正の手段により第三条第一項の確認、前条第一項の規定による変更の確認又は第十五条第一項の調査を受けたことが判明したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第三条第七項の規定は、前項の規定による取消しについて準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">指定確認調査機関は、第七条第一項、第八条第一項又は第八条の三第一項の申立てがされた後に第一項の規定による取消しをしたときは、当該申立てに係る事件が係属する裁判所に対し、当該取消しをした旨を通知しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該申立てが却下され、若しくは棄却された場合又は当該申立てに係る中止の命令若しくは取消しの命令が取り消された場合には、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="6">
+            <ArticleCaption>（一時停止の要請等）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、第三条第一項の確認後、速やかに、全ての対象債権者に対し、第十一条に規定する権利変更議案につき第二十条第一項に規定する議決権者の全ての同意が得られ、当該権利変更議案が否決され、又は権利変更決議の認可若しくは不認可の決定が確定するまでの間、対象債権の回収その他経済産業省令で定める債権者としての権利の行使（第十三条において「回収等」という。）をしないこと（同条において「一時停止」という。）を要請しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、指定確認調査機関は、経済産業省令で定めるところにより、当該要請をした旨を確認事業者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">確認事業者は、前項の規定による通知があった時から第十一条に規定する権利変更議案につき第二十条第一項に規定する議決権者の全ての同意が得られ、当該権利変更議案が否決され、又は権利変更決議の認可若しくは不認可の決定が確定するまでの間、対象債権に係る債務の弁済をすることができない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、弁済をすることについて全ての対象債権者の同意を得た対象債権その他これを弁済しても他の対象債権者を害するおそれがない対象債権として経済産業省令で定めるものに係る債務の弁済については、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者は、確認事業者又は指定確認調査機関から求めがあった場合には、この章に定める手続（第三十一条第一項に規定する対象債権者集会決議関連事件に関する裁判手続を除く。以下「対象債権者集会手続」という。）の円滑な実施に協力するよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="7">
+            <ArticleCaption>（強制執行等の中止命令等）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">裁判所は、第三条第一項の確認があった場合において、必要があると認めるときは、確認事業者又は対象債権者の申立てにより、相当の期間を定めて、対象債権に基づく強制執行、仮差押え若しくは仮処分又は対象債権を被担保債権とする留置権（商法又は会社法の規定によるものを除く。）による競売の手続で、確認事業者の財産に対して既にされているものの中止を命ずることができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これらの手続の申立人である対象債権者に不当な損害を及ぼすおそれがない場合に限る。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、前項の規定による中止の命令を変更し、又は取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、確認事業者の事業の継続のために特に必要があると認めるときは、確認事業者の申立てにより、担保を立てさせて、又は立てさせないで、第一項の規定により中止した手続の取消しを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による中止の命令、第二項の規定による決定及び前項の規定による取消しの命令に対しては、確認事業者及び対象債権者に限り、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する裁判及び同項の即時抗告についての裁判があった場合には、その電子裁判書（非訟事件手続法（平成二十三年法律第五十一号）第五十七条第一項に規定する電子裁判書であって、同条第三項の規定によりファイルに記録されたものをいう。次条第七項及び第八条の三第六項において同じ。）を当事者に送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">非訟事件手続法第七十二条第二項及び第三項の規定は、第三項の規定により担保を立てる場合における供託及びその担保について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の申立てがあった場合並びに第四項に規定する裁判及び同項の即時抗告についての裁判があった場合には、裁判所は、その旨を指定確認調査機関に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="8">
+            <ArticleCaption>（担保権の実行手続の中止命令）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、第三条第一項の確認があった場合において、対象債権者の一般の利益に適合し、かつ、確認事業者の財産につき存する担保権（対象債権者の対象債権を被担保債権とするものに限る。以下この項において同じ。）を有する者（以下この条において「担保権者」という。）に不当な損害を及ぼすおそれがないものと認めるときは、確認事業者又は対象債権者の申立てにより、相当の期間を定めて、その担保権の実行手続の中止（債権を目的とする質権、譲渡担保権又は留保所有権（対象債権者の対象債権を被担保債権とするものに限る。）の実行の禁止を含む。）を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による中止の命令（企業担保権の実行手続に係るものを除く。）は、担保権者に不当な損害を及ぼさないために必要な条件を付して発することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、第一項の規定による中止の命令（債権を目的とする質権、譲渡担保権又は留保所有権の実行手続の中止（実行の禁止を含む。次項及び次条第一項において同じ。）の命令を除く。）を発する場合には、担保権者の意見を聴かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">裁判所は、第一項の規定による債権を目的とする質権、譲渡担保権又は留保所有権の実行手続の中止の命令を発した場合には、速やかに、質権者、譲渡担保権者（譲渡担保契約及び所有権留保契約に関する法律第二条第四号に規定する譲渡担保権者をいう。以下同じ。）又は留保売主等（同条第十九号に規定する留保売主等をいう。以下この項及び第八条の三において同じ。）の意見を聴かなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、あらかじめ質権者、譲渡担保権者又は留保売主等の意見を聴いたときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、第一項の規定による中止の命令を変更し、又は取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による中止の命令及び前項の規定による変更の決定に対しては、担保権者に限り、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する裁判及び同項の即時抗告についての裁判があった場合には、その電子裁判書を当事者に送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第七項の規定は、第一項の申立て並びに同項の規定による中止の命令、第五項の規定による決定及び第六項の即時抗告についての裁判について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">債権を目的とする質権、譲渡担保権又は留保所有権の実行を禁止する第一項の規定による中止の命令が発せられたときは、当該質権、譲渡担保権又は留保所有権の被担保債権については、当該命令が効力を失った日の翌日から二月を経過する日までの間は、時効は、完成しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="8_2">
+            <ArticleTitle>第八条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">裁判所が前条第一項の規定により債権を目的とする質権又は債権譲渡担保権（譲渡担保契約及び所有権留保契約に関する法律第二条第十三号に規定する債権譲渡担保権をいう。第三項において同じ。）の実行手続の中止を命じた場合には、第三債務者は、この章に定める手続の関係においては、質権者又は債権譲渡担保権者（同条第十四号に規定する債権譲渡担保権者をいう。第三項において同じ。）に対してした弁済その他の債務を消滅させる行為の効力を主張することができない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三債務者が、その行為の当時、その命令があったことを知っていたときに限る。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項本文に規定する場合（債権の目的物が金銭である場合に限る。）には、第三債務者は、債権の全額に相当する金銭を供託して、その債務を免れることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による供託がされたときは、同項の債権を目的とする質権又は債権譲渡担保権を有していた質権者又は債権譲渡担保権者は、供託金につき質権者又は譲渡担保権者と同一の権利を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="8_3">
+            <ArticleCaption>（担保権の実行手続の取消命令）</ArticleCaption>
+            <ArticleTitle>第八条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、第三条第一項の確認があった場合において、対象債権者の一般の利益に適合し、譲渡担保権者又は留保売主等に不当な損害を及ぼすおそれがなく、かつ、確認事業者の事業の継続のために特に必要があると認めるときは、確認事業者の申立てにより、担保を立てさせて、対象債権者の対象債権を被担保債権とする譲渡担保権又は留保所有権について、譲渡担保契約及び所有権留保契約に関する法律第六十六条第一項（同法第百十一条第一項において準用する場合を含む。）の規定による通知、動産特定範囲（同法第四十条（同法第百十一条第一項において準用する場合を含む。）に規定する動産特定範囲をいう。次項において同じ。）に属する動産に係る担保権の実行としての競売の手続又は同法第九十四条本文の規定による通知の取消しを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による取消しの命令は、その発令前にされた譲渡担保契約及び所有権留保契約に関する法律第六十条第一項（同法第九十三条及び第百十一条第一項において準用する場合を含む。）に規定する帰属清算の通知、同法第六十一条第一項（同法第九十三条及び第百十一条第一項において準用する場合を含む。）に規定する処分清算譲渡、同法第九十二条第一項前段の規定による取立て又は集合動産譲渡担保権設定者（同法第四十二条第一項に規定する集合動産譲渡担保権設定者をいう。）若しくは集合動産留保買主等（同法第百十一条第一項において読み替えて準用する同法第四十二条第一項に規定する集合動産留保買主等をいう。）による動産特定範囲に属する動産の処分の効力を妨げない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">裁判所は、第一項の規定による取消しの命令を発した場合には、速やかに、譲渡担保権者又は留保売主等の意見を聴かなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、あらかじめ譲渡担保権者又は留保売主等の意見を聴いたときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、第一項の規定による取消しの命令を変更し、又は取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による取消しの命令及び前項の規定による変更の決定に対しては、譲渡担保権者又は留保売主等に限り、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する裁判及び同項の即時抗告についての裁判があった場合には、その電子裁判書を当事者に送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">非訟事件手続法第七十二条第二項及び第三項の規定は、第一項の規定により担保を立てる場合における供託及びその担保について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第七項の規定は、第一項の申立て並びに同項の規定による取消しの命令、第四項の規定による決定及び第五項の即時抗告についての裁判について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="9">
+            <ArticleCaption>（中止した手続の失効）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">権利変更決議の認可の決定があったときは、第七条第一項の規定により中止した手続は、その効力を失う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　対象債権者集会及び権利変更決議の認可</SectionTitle>
+          <Article Num="10">
+            <ArticleCaption>（対象債権者集会の構成）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者は、対象債権者集会を組織する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="11">
+            <ArticleCaption>（対象債権者集会の権限）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者集会は、対象債権者の権利（対象債権者が担保権の行使によって弁済を受けることができる対象債権の部分に係る権利を除く。以下同じ。）の変更に関する議案（以下「権利変更議案」という。）について決議をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（権利変更議案）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、権利変更議案において、権利変更概要書等（第四条第一項の規定による変更の確認又は同条第二項の規定による変更の届出があったときは、その変更後のもの。第十四条第一項において同じ。）に基づき、対象債権者の権利の全部又は一部を変更する条項を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者の権利の全部又は一部を変更する条項においては、対象債権（担保権の行使によって弁済を受けることができる対象債権の部分を除く。）に係る債務の減免、期限の猶予その他の対象債権者の権利の変更の一般的基準を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">担保権の行使によって弁済を受けることができない対象債権の部分が確定していない対象債権を有する者があるときは、権利変更議案において、その対象債権の部分が確定した場合における対象債権者としての権利の行使に関する適確な措置を定めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（権利変更議案による対象債権者の権利の変更）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">権利変更議案による対象債権者の権利の変更の内容は、対象債権者の間では平等でなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、不利益を受ける対象債権者の同意がある場合又は少額の対象債権若しくは第六条第一項の規定による一時停止の要請に反して回収等をした対象債権者の対象債権について別段の定めをし、その他これらの者の間に差を設けても衡平を害しない場合は、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（早期事業再生計画）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、第三条第一項の確認後六月以内に、権利変更概要書等に基づき、確認事業者の早期での事業再生に関する計画（以下「早期事業再生計画」という。）を作成し、権利変更議案の内容を記載した書面と共に指定確認調査機関に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、前項の期間内に同項の規定による提出をすることができないことについてやむを得ない事由があるものとして経済産業省令で定める場合には、確認事業者の申請により、六月以内を限り、同項の期間を延長することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">早期事業再生計画には、次に掲げる事項を記載しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者が早期での事業再生を図るために権利変更決議を必要とするに至った事情</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者の業務に関する経過及び現状</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者の資産及び負債に関する経過及び現状（対象債権の内容及び原因並びに当該対象債権を有する対象債権者の氏名又は名称を含む。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権が担保権によって担保されるものであるときは、その旨並びに当該担保権の内容及びその目的である財産</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者の資産及び負債並びに収入及び支出の見込み（資金の調達を行う場合には、当該資金の調達に関する事項を含む。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者が早期での事業再生を図るため実施しようとする今後の事業活動に関する事項（当該確認事業者に係る従業員の当該事業活動への協力並びに当該確認事業者に係る技術及び人材の散逸の回避の見込みに関する事項として経済産業省令で定めるものを含む。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他経済産業省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、第一項の規定により早期事業再生計画を提出するときは、前項第三号の確認事業者の資産及び負債に関し、これらの価額（同項第四号の担保権の目的である財産の価額を含む。）を経済産業省令で定める基準に従い評定した結果を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleCaption>（指定確認調査機関の調査）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、前条第一項の規定による提出を受けたときは、権利変更議案、早期事業再生計画及び同条第四項の規定による評定の内容が次に掲げる要件に該当するものであることについて調査を行わなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">権利変更議案の内容が法令の規定に違反しないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">権利変更議案により変更される対象債権者の権利に係る債務が履行される見込みがないことが明らかでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">権利変更議案の内容が対象債権者の一般の利益に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">権利変更議案における対象債権者の権利の全部又は一部を変更する条項が、前条第三項第三号から第五号までに掲げる事項を踏まえて定められていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">早期事業再生計画の内容が経済産業省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第四項の規定による評定の内容が同項の経済産業省令で定める基準に適合するものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、確認調査員に前項の調査の実施に関する事務を実施させなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、第一項の調査に協力しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、第一項の調査の結果を確認事業者に報告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（対象債権者集会の招集等）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者集会は、確認事業者が招集する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、前条第四項の規定による報告を受けたときは、遅滞なく、権利変更議案を決議するために対象債権者集会を招集しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、対象債権者集会を招集する場合には、次に掲げる事項を定めなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会の日時</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会の目的である事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会に出席しない対象債権者が電磁的方法（電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法をいう。以下同じ。）によって議決権を行使することができることとするときは、その旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他経済産業省令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者集会を招集するには、確認事業者は、対象債権者集会の日の経済産業省令で定める日数前までに、対象債権者及び指定確認調査機関に対して、経済産業省令で定めるところにより、書面をもってその通知を発しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、前項の書面による通知の発出に代えて、経済産業省令で定めるところにより、同項の通知を受けるべき者の承諾を得て、電磁的方法により通知を発することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該確認事業者は、同項の書面による通知を発したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の通知には、第三項各号に掲げる事項を記載し、又は記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（対象債権者集会書類及び議決権行使書面の交付等）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、前条第四項の通知（権利変更議案を決議するための対象債権者集会に係るものに限る。）に際しては、経済産業省令で定めるところにより、対象債権者に対し、権利変更議案の内容を記載した書面、早期事業再生計画、第十五条第四項の規定により報告を受けた同条第一項の調査の結果を記載した書面その他議決権の行使について参考となるべき事項を記載した書類（次項において「対象債権者集会書類」という。）及び対象債権者が議決権を行使するための書面（以下「議決権行使書面」という。）を交付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">確認事業者は、前条第五項の承諾をした対象債権者に対し同項の規定により電磁的方法による通知を発するときは、前項の規定による対象債権者集会書類及び議決権行使書面の交付に代えて、これらの書類に記載すべき事項を電磁的方法により提供することができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、対象債権者の請求があったときは、これらの書類を当該対象債権者に交付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、第十六条第三項第三号に掲げる事項を定めた場合には、同条第五項の承諾をした対象債権者に対する電磁的方法による通知に際して、経済産業省令で定めるところにより、対象債権者に対し、議決権行使書面に記載すべき事項を当該電磁的方法により提供しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、第十六条第三項第三号に掲げる事項を定めた場合において、同条第五項の承諾をしていない対象債権者から対象債権者集会の日の経済産業省令で定める日数前までに議決権行使書面に記載すべき事項の電磁的方法による提供の請求があったときは、経済産業省令で定めるところにより、直ちに、当該対象債権者に対し、当該事項を電磁的方法により提供しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（対象債権者の議決権）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者は、次の各号に掲げる対象債権の区分に従い、それぞれ当該各号に定める金額に応じて、対象債権者集会における議決権を有する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">第三条第一項の確認後に期限が到来すべき確定期限付債権で無利息のもの</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該確認の時から期限に至るまでの期間の年数（その期間に一年に満たない端数があるときは、これを切り捨てるものとする。）に応じた債権に対する当該確認の時における法定利率による利息を債権額から控除した額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">金額及び存続期間が確定している定期金債権</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">各定期金につき前号の規定に準じて算定される額の合計額（その額が第三条第一項の確認の時における法定利率によりその定期金に相当する利息を生ずべき元本額を超えるときは、その元本額）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">次に掲げる債権</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">経済産業省令で定める時における評価額</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第三条第一項の確認後に期限が到来すべき不確定期限付債権で無利息のもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">金額又は存続期間が不確定である定期金債権</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">金銭債権で、その額が不確定であるもの又はその額を外国の通貨をもって定めたもの</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">条件付債権</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">確認事業者に対して行うことがある将来の請求権</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">前三号に掲げる債権以外の債権</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">債権額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、対象債権者は、対象債権のうち、第三条第一項の確認後の利息の請求権並びに当該確認後の不履行による損害賠償及び違約金の請求権については、議決権を有しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定にかかわらず、確認事業者の財産につき存する担保権を有する対象債権者は、その担保権の行使によって弁済を受けることができる対象債権の額については、議決権を有しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者は、第三条第一項の確認後に弁済を受けた対象債権の部分については、議決権を行使することができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（対象債権者集会の決議）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">対象債権者集会において権利変更議案を可決するには、議決権者（議決権を行使することができる対象債権者をいう。以下同じ。）の議決権の総額の四分の三以上の議決権を有する者の同意がなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、一の議決権者が議決権者の議決権の総額の四分の三以上の議決権を有する場合において権利変更議案を可決するには、この項本文の同意のほか、出席した議決権者の過半数の同意がなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条第一項の規定によりその有する議決権の一部のみを権利変更議案に同意するものとして行使した議決権者（その余の議決権を行使しなかったものを除く。）があるときの前項ただし書の規定の適用については、当該議決権者一人につき、出席した議決権者の数に一を、同意をした議決権者の数に二分の一を、それぞれ加算するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者集会においてその延期又は続行を可決するには、出席した議決権者の議決権の総額の二分の一を超える議決権を有する者の同意がなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者集会においてその延期又は続行について決議があった場合には、第十六条第三項から第六項までの規定は、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者及び指定確認調査機関（確認調査員を含む。）は、対象債権者に対し、第十七条第一項の規定により交付し、又は同条第二項の規定により提供するもののほか、対象債権者が第一項又は第三項の同意をするか否かの判断をするために必要な情報を提供するよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認調査員は、対象債権者集会に出席し、意見を求められたときは、意見を述べなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、対象債権者集会において、対象債権者に対し、意見を述べる機会を与えなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21">
+            <ArticleCaption>（議決権の代理行使）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者は、代理人によってその議決権を行使することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、当該対象債権者又は代理人は、代理権を証明する書面を確認事業者に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の代理権の授与は、対象債権者集会ごとにしなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の対象債権者又は代理人は、代理権を証明する書面の提出に代えて、経済産業省令で定めるところにより、確認事業者の承諾を得て、当該書面に記載すべき事項を電磁的方法により提供することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該対象債権者又は代理人は、当該書面を提出したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者が第十六条第五項の承諾をした者である場合には、確認事業者は、正当な理由がなければ、前項の承諾をすることを拒んではならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（書面による議決権の行使）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者集会に出席しない対象債権者は、書面によって議決権を行使することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">書面による議決権の行使は、議決権行使書面に必要な事項を記載し、経済産業省令で定める時までに当該記載をした議決権行使書面を確認事業者に提出して行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により書面によって議決権を行使した議決権者は、第二十条第一項ただし書及び第三項の規定の適用については、対象債権者集会に出席したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（電磁的方法による議決権の行使）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電磁的方法による議決権の行使は、経済産業省令で定めるところにより、確認事業者の承諾を得て、経済産業省令で定める時までに議決権行使書面に記載すべき事項を、電磁的方法により当該確認事業者に提供して行う。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者が第十六条第五項の承諾をした者である場合には、確認事業者は、正当な理由がなければ、前項の承諾をすることを拒んではならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定により電磁的方法によって議決権を行使した議決権者は、第二十条第一項ただし書及び第三項の規定の適用については、対象債権者集会に出席したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（議決権の不統一行使）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者は、その有する議決権を統一しないで行使することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、対象債権者集会の日の経済産業省令で定める日数前までに、確認事業者に対してその旨及びその理由を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、前項の対象債権者が他人のために対象債権を有する者でないときは、当該対象債権者が同項の規定によりその有する議決権を統一しないで行使することを拒むことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="25">
+            <ArticleCaption>（議事録）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者集会の議事については、確認事業者は、経済産業省令で定めるところにより、議事録を作成しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者は、対象債権者集会の日から十年間、前項の議事録をその本店又は主たる営業所若しくは事務所に備え置かなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者は、確認事業者の営業時間内は、いつでも、次に掲げる請求をすることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の議事録が書面をもって作成されているときは、当該書面の閲覧又は謄写の請求</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項の議事録が電磁的記録をもって作成されているときは、当該電磁的記録に記録された事項を経済産業省令で定める方法により表示したものの閲覧又は謄写の請求</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleCaption>（権利変更決議の認可の申立て）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">権利変更決議があったとき（権利変更議案につき、議決権者の全ての同意を得たときを除く。）は、確認事業者は、遅滞なく、裁判所に対し、当該権利変更決議の認可の申立てをしなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該確認事業者は、早期事業再生計画及び第十五条第一項の調査の結果を記載した書面を裁判所に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、確認事業者は、同項の規定による書面の提出に代えて、最高裁判所規則で定めるところにより、当該書面に記載すべき事項を最高裁判所規則で定める電子情報処理組織（裁判所の使用に係る電子計算機（入出力装置を含む。以下同じ。）と手続の相手方の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。以下同じ。）を使用して裁判所の使用に係る電子計算機に備えられたファイル（第三十六条第二項及び第三項並びに第三十七条を除き、以下単に「ファイル」という。）に記録し、又は当該書面に記載すべき事項に係る電磁的記録を記録した記録媒体を提出することができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該確認事業者は、前項の書面を提出したものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（権利変更決議の認可又は不認可の決定）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第一項の申立てがあった場合には、裁判所は、次項の場合を除き、権利変更決議の認可の決定をする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、次の各号のいずれかに該当する場合には、権利変更決議の不認可の決定をする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">対象債権者集会手続又は権利変更決議の内容が法令の規定に違反し、かつ、その不備を補正することができないものであるとき。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、対象債権者集会手続が法令の規定に違反する場合において、当該違反の程度が軽微であるときは、この限りでない。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">権利変更決議により変更される対象債権者の権利に係る債務が履行される見込みがないことが明らかであるとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">権利変更決議が不正の方法によって成立するに至ったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">権利変更決議の内容が対象債権者の一般の利益に反するとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者及び対象債権者は、裁判所に対し、前条第一項の申立てについて意見を述べることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">権利変更決議の認可又は不認可の決定があった場合には、裁判所書記官は、最高裁判所規則で定めるところにより、その主文及び理由の要旨を記録した電磁的記録を作成し、これをファイルに記録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項に規定する場合には、確認事業者及び対象債権者に対して、同項の規定によりファイルに記録された電磁的記録を送達しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">権利変更決議の認可又は不認可の決定に対しては、確認事業者及び対象債権者に限り、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第七項の規定は、前条第一項の申立て並びに第一項及び第二項の決定並びに前項の即時抗告についての裁判について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="28">
+            <ArticleCaption>（権利変更決議の効力）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">権利変更決議は、認可の決定の時から、効力を生ずる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">権利変更決議は、確認事業者及び全ての対象債権者に対してその効力を有する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">権利変更決議は、対象債権者が確認事業者の保証人その他確認事業者と共に債務を負担する者に対して有する権利及び確認事業者以外の者が対象債権者のために提供した担保に影響を及ぼさない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">権利変更決議の認可の決定があったときは、対象債権者の権利は、権利変更決議の内容に従い、変更される。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29">
+            <ArticleCaption>（議決権者の全ての同意を得た場合における権利変更決議の効力）</ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">権利変更議案につき、議決権者の全ての同意を得たときは、前条第一項及び第四項の規定にかかわらず、権利変更決議はその効力を生じ、対象債権者の権利は、権利変更決議の内容に従い、変更されるものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合においては、第九条中「権利変更決議の認可の決定があったとき」とあるのは、「権利変更決議があったとき」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　雑則</SectionTitle>
+          <Article Num="30">
+            <ArticleCaption>（対象債権者集会決議関連事件の管轄）</ArticleCaption>
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第七条第一項若しくは第三項、第八条第一項、第八条の三第一項又は第二十六条第一項の申立ては、確認事業者が個人である場合には日本国内に営業所、住所、居所又は財産を有するときに限り、法人その他の団体である場合には日本国内に営業所、事務所又は財産を有するときに限り、することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">民事訴訟法（平成八年法律第百九号）の規定により裁判上の請求をすることができる債権は、日本国内にあるものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="31">
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この章の規定による非訟事件（以下「対象債権者集会決議関連事件」という。）は、確認事業者が、営業者であるときはその主たる営業所の所在地、営業者で外国に主たる営業所を有するものであるときは日本におけるその主たる営業所の所在地、営業者でないとき又は営業者であっても営業所を有しないときはその普通裁判籍の所在地を管轄する地方裁判所が管轄する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による管轄裁判所がないときは、対象債権者集会決議関連事件は、確認事業者の財産の所在地（債権については、裁判上の請求をすることができる地）を管轄する地方裁判所が管轄する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の規定にかかわらず、法人が株式会社の総株主の議決権（株主総会において決議をすることができる事項の全部につき議決権を行使することができない株式についての議決権を除き、会社法第八百七十九条第三項の規定により議決権を有するものとみなされる株式についての議決権を含む。次項において同じ。）の過半数を有する場合には、当該法人（以下この項及び次項において「親法人」という。）について対象債権者集会決議関連事件が係属しているときにおける当該株式会社（以下この項及び次項において「子株式会社」という。）についての対象債権者集会決議関連事件の申立ては、親法人の対象債権者集会決議関連事件が係属している地方裁判所にもすることができ、子株式会社について対象債権者集会決議関連事件が係属しているときにおける親法人についての対象債権者集会決議関連事件の申立ては、子株式会社の対象債権者集会決議関連事件が係属している地方裁判所にもすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">子株式会社又は親法人及び子株式会社が他の株式会社の総株主の議決権の過半数を有する場合には、当該他の株式会社を当該親法人の子株式会社とみなして、前項の規定を適用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項及び第二項の規定にかかわらず、株式会社が最終事業年度について会社法第四百四十四条の規定により当該株式会社及び他の法人に係る連結計算書類（同条第一項に規定する連結計算書類をいう。）を作成し、かつ、当該株式会社の定時株主総会においてその内容が報告された場合には、当該株式会社について対象債権者集会決議関連事件が係属しているときにおける当該他の法人についての対象債権者集会決議関連事件の申立ては、当該株式会社の対象債権者集会決議関連事件が係属している地方裁判所にもすることができ、当該他の法人について対象債権者集会決議関連事件が係属しているときにおける当該株式会社についての対象債権者集会決議関連事件の申立ては、当該他の法人の対象債権者集会決議関連事件が係属している地方裁判所にもすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項及び第二項の規定にかかわらず、対象債権者集会決議関連事件の申立ては、東京地方裁判所又は大阪地方裁判所にもすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="32">
+            <ArticleCaption>（専属管轄）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律に規定する裁判所の管轄は、専属とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="33">
+            <ArticleCaption>（対象債権者集会決議関連事件の移送）</ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、著しい損害又は遅滞を避けるため必要があると認めるときは、職権で、対象債権者集会決議関連事件を次の各号に掲げる裁判所のいずれかに移送することができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者の主たる営業所又は事務所以外の営業所又は事務所の所在地を管轄する地方裁判所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十一条第二項から第六項までに規定する地方裁判所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第三十一条第三項から第六項までの規定によりこれらの規定に規定する地方裁判所に対象債権者集会決議関連事件が係属しているときは、同条第一項又は第二項に規定する地方裁判所</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="34">
+            <ArticleCaption>（理由の付記）</ArticleCaption>
+            <ArticleTitle>第三十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者集会決議関連事件についての裁判には、理由を付さなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="35">
+            <ArticleCaption>（非電磁的事件記録の閲覧等）</ArticleCaption>
+            <ArticleTitle>第三十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者（第五条第一項の規定により第三条第一項の確認を取り消された者を含む。以下この条から第三十七条まで及び第三十九条第一項において同じ。）又は対象債権者は、裁判所書記官に対し、非電磁的事件記録（対象債権者集会決議関連事件の記録中次条第一項に規定する電磁的事件記録を除いた部分をいう。以下この条及び第三十九条第一項において同じ。）の閲覧若しくは謄写又はその正本、謄本若しくは抄本の交付を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定は、非電磁的事件記録中の録音テープ又はビデオテープ（これらに準ずる方法により一定の事項を記録した物を含む。）については、適用しない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、確認事業者又は対象債権者は、裁判所書記官に対し、これらの物の複製を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前二項の規定による非電磁的事件記録の閲覧、謄写及び複製の請求は、当該記録の保存又は裁判所の執務に支障があるときは、することができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">民事訴訟法第九十二条（第九項及び第十項を除く。）の規定は、非電磁的事件記録について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="36">
+            <ArticleCaption>（電磁的事件記録の閲覧等）</ArticleCaption>
+            <ArticleTitle>第三十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者又は対象債権者は、裁判所書記官に対し、最高裁判所規則で定めるところにより、電磁的事件記録（対象債権者集会決議関連事件の記録中この法律その他の法令の規定によりファイルに記録された事項に係る部分をいう。以下この条及び第三十九条第六項において同じ。）の内容を最高裁判所規則で定める方法により表示したものの閲覧を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者又は対象債権者は、裁判所書記官に対し、電磁的事件記録に記録されている事項について、最高裁判所規則で定めるところにより、最高裁判所規則で定める電子情報処理組織を使用してこれらの者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法による複写を請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者又は対象債権者は、裁判所書記官に対し、最高裁判所規則で定めるところにより、電磁的事件記録に記録されている事項の全部若しくは一部を記載した書面であって裁判所書記官が最高裁判所規則で定める方法により当該書面の内容が電磁的事件記録に記録されている事項と同一であることを証明したものを交付し、又は当該事項の全部若しくは一部を記録した電磁的記録であって裁判所書記官が最高裁判所規則で定める方法により当該電磁的記録の内容が電磁的事件記録に記録されている事項と同一であることを証明したものを最高裁判所規則で定める電子情報処理組織を使用してこれらの者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法により提供することを請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第三項の規定は、第一項及び第二項の規定による電磁的事件記録に係る閲覧及び複写の請求について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">民事訴訟法第九十二条の規定は、電磁的事件記録について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="37">
+            <ArticleCaption>（事件に関する事項の証明）</ArticleCaption>
+            <ArticleTitle>第三十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者又は対象債権者は、裁判所書記官に対し、最高裁判所規則で定めるところにより、対象債権者集会決議関連事件に関する事項を記載した書面であって裁判所書記官が最高裁判所規則で定める方法により当該事項を証明したものを交付し、又は当該事項を記録した電磁的記録であって裁判所書記官が最高裁判所規則で定める方法により当該事項を証明したものを最高裁判所規則で定める電子情報処理組織を使用してこれらの者の使用に係る電子計算機に備えられたファイルに記録する方法その他の最高裁判所規則で定める方法により提供することを請求することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="38">
+            <ArticleCaption>（閲覧等の特則）</ArticleCaption>
+            <ArticleTitle>第三十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前三条の規定にかかわらず、対象債権者は、第七条第一項若しくは第八条第一項の規定による中止の命令又は第八条の三第一項の規定による取消しの命令の申立てについての裁判があるまでの間は、当該申立てに係る事件について前三条の規定による請求をすることができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="39">
+            <ArticleCaption>（支障部分の閲覧等の制限）</ArticleCaption>
+            <ArticleTitle>第三十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">非電磁的事件記録について、対象債権者がその閲覧若しくは謄写、その正本、謄本若しくは抄本の交付の受領又はその複製（以下この条において「閲覧等」という。）を行うことにより、確認事業者の事業の維持再生に著しい支障を生ずるおそれ又は確認事業者の財産に著しい損害を与えるおそれがある部分（以下この条において「支障部分」という。）があることにつき疎明があった場合には、裁判所は、確認事業者の申立てにより、支障部分の閲覧等の請求をすることができる者を、当該確認事業者に限ることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の申立てがあったときは、その申立てについての裁判が確定するまで、対象債権者は、支障部分の閲覧等の請求をすることができない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">支障部分の閲覧等の請求をしようとする対象債権者は、裁判所に対し、第一項に規定する要件を欠くこと又はこれを欠くに至ったことを理由として、同項の規定による決定の取消しの申立てをすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の申立てを却下した決定及び前項の申立てについての裁判に対しては、即時抗告をすることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による決定を取り消す決定は、確定しなければその効力を生じない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前各項の規定は、電磁的事件記録について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第一項中「謄写、その正本、謄本若しくは抄本の交付の受領又はその複製」とあるのは、「複写又はその内容の全部若しくは一部を証明した書面の交付若しくはその内容の全部若しくは一部を証明した電磁的記録の提供の受領」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="40">
+            <ArticleCaption>（電子情報処理組織による申立て等）</ArticleCaption>
+            <ArticleTitle>第四十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者集会決議関連事件に関する裁判手続における申立てその他の申述（次項及び次条において「申立て等」という。）については、民事訴訟法第百三十二条の十から第百三十二条の十二までの規定を準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同法第百三十二条の十第五項及び第六項並びに第百三十二条の十二第二項及び第三項中「送達」とあるのは「送達又は送付」と、同法第百三十二条の十一第一項第一号中「もの（第五十四条第一項ただし書の許可を得て訴訟代理人となったものを除く。）」とあるのは「もの」と、同項第二号中「第二条」とあるのは「第九条において準用する同法第二条」と、同法第百三十二条の十二第一項第三号中「第百三十三条の二第二項」とあるのは「円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律第四十一条において読み替えて準用する第百三十三条の二第二項」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者集会決議関連事件に関する裁判手続においてこの法律その他の法令の規定に基づき裁判所に提出された書面等（書面、書類、文書、謄本、抄本、正本、副本、複本その他文字、図形等人の知覚によって認識することができる情報が記載された紙その他の有体物をいう。以下この項において同じ。）（申立て等が書面等により行われたときにおける当該書面等を除く。）又は電磁的記録を記録した記録媒体に記載され、又は記録されている事項のファイルへの記録については、民事訴訟法第百三十二条の十三の規定を準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同条第三号中「第百三十三条の二第二項」とあるのは「円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律第四十一条において読み替えて準用する第百三十三条の二第二項」と、同条第四号中「第百三十三条の三第一項」とあるのは「円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律第四十一条において読み替えて準用する第百三十三条の三第一項」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="41">
+            <ArticleCaption>（当事者に対する住所、氏名等の秘匿）</ArticleCaption>
+            <ArticleTitle>第四十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者集会決議関連事件に関する裁判手続における申立て等については、民事訴訟法第一編第八章の規定を準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる同法の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百三十三条第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">当事者</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">当事者若しくは利害関係参加人（非訟事件手続法（平成二十三年法律第五十一号）第二十一条第五項に規定する利害関係参加人をいう。第百三十三条の四第一項、第二項及び第七項において同じ。）又はこれらの者以外の裁判を受ける者となるべき者（同法第十一条第一項第一号に規定する裁判を受ける者となるべき者をいう。）</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百三十三条第三項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">訴訟記録等（訴訟記録又は第百三十二条の四第一項の処分の申立てに係る事件の記録</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">対象債権者集会決議関連事件（円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律第三十一条第一項に規定する対象債権者集会決議関連事件</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">）中</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">）の記録中</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">訴訟記録等の閲覧等（訴訟記録の閲覧等、非電磁的証拠収集処分記録の閲覧等又は電磁的証拠収集処分記録の閲覧等</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">対象債権者集会決議関連事件の記録の閲覧等（非電磁的事件記録（同法第三十五条第一項に規定する非電磁的事件記録をいう。）の閲覧若しくは謄写、その正本、謄本若しくは抄本の交付若しくはその複製又は電磁的事件記録（同法第三十六条第一項に規定する電磁的事件記録をいう。次条において同じ。）の閲覧若しくは複写若しくはその内容の全部若しくは一部を証明した書面の交付若しくは電磁的記録の提供</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百三十三条の二第一項から第三項まで、第百三十三条の三第一項及び第百三十三条の四第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">訴訟記録等の閲覧等</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">対象債権者集会決議関連事件の記録の閲覧等</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百三十三条の二第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">訴訟記録等中</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">対象債権者集会決議関連事件の記録中</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百三十三条の二第五項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">電磁的訴訟記録等（電磁的訴訟記録又は第百三十二条の四第一項の処分の申立てに係る事件の記録中ファイル記録事項に係る部分をいう。以下この項及び次項において同じ。）</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">電磁的事件記録</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">電磁的訴訟記録等から</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">電磁的事件記録から</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百三十三条の二第六項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">電磁的訴訟記録等</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">電磁的事件記録</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百三十三条の四第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">者は、訴訟記録等</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">当事者又は利害関係参加人は、対象債権者集会決議関連事件の記録</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百三十三条の四第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">当事者</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">当事者又は利害関係参加人</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">訴訟記録等の存する</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">対象債権者集会決議関連事件の記録の存する</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第百三十三条の四第七項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">当事者</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">当事者若しくは利害関係参加人</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+          </Article>
+          <Article Num="42">
+            <ArticleCaption>（対象債権者集会決議関連事件に関する裁判手続における指定確認調査機関による意見の陳述）</ArticleCaption>
+            <ArticleTitle>第四十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">裁判所は、必要があると認めるときは、対象債権者集会決議関連事件に関する裁判手続において、指定確認調査機関に対して、意見の陳述を求めることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="43">
+            <ArticleCaption>（非訟事件手続法の適用関係）</ArticleCaption>
+            <ArticleTitle>第四十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">非訟事件手続法第二十二条第一項ただし書、第三十二条から第三十二条の三まで、第四十条、第四十二条、第四十二条の二及び第五十七条第二項第二号の規定は、対象債権者集会決議関連事件に関する裁判手続には、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">対象債権者集会決議関連事件に関する裁判手続についての非訟事件手続法第三十八条の規定の適用については、同条中「非訟事件手続法第四十二条第一項」とあるのは、「円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律（令和七年法律第六十七号）第四十条第一項」とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="44">
+            <ArticleCaption>（担保仮登記の取扱い）</ArticleCaption>
+            <ArticleTitle>第四十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">仮登記担保契約に関する法律（昭和五十三年法律第七十八号）第四条第一項（同法第二十条において準用する場合を含む。）に規定する担保仮登記（同法第十四条（同法第二十条において準用する場合を含む。次項において同じ。）に規定する担保仮登記を除く。）に係る権利は、この章の規定の適用については、抵当権とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">仮登記担保契約に関する法律第十四条に規定する担保仮登記は、この章に定める手続においては、その効力を有しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="45">
+            <ArticleCaption>（最高裁判所規則及び経済産業省令への委任）</ArticleCaption>
+            <ArticleTitle>第四十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この章に定めるもののほか、対象債権者集会決議関連事件に関する裁判手続に関し必要な事項は最高裁判所規則で、その他この章に定める手続に関し必要な事項は経済産業省令で、それぞれ定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　指定確認調査機関</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <Article Num="46">
+            <ArticleCaption>（対象債権者集会関連業務を行う者の指定等）</ArticleCaption>
+            <ArticleTitle>第四十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、次の各号に掲げる要件のいずれにも該当すると認められる者を、その申請により、対象債権者集会関連業務（第三条第一項の確認及び第十五条第一項の調査その他対象債権者集会手続に係る前章の規定による業務並びに次章の規定による業務並びにこれらに付随する業務をいう。以下同じ。）を行う者として、指定することができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人（法人でない団体で代表者又は管理人の定めのあるものを含む。）であること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第六十条第一項の規定によりこの項の規定による指定（以下「指定」という。）を取り消され、その取消しの日から五年を経過しない者でないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">この法律若しくは弁護士法（昭和二十四年法律第二百五号）又はこれらに相当する外国の法令の規定に違反し、罰金の刑（これに相当する外国の法令による刑を含む。）に処せられ、その刑の執行を終わり、又はその刑の執行を受けることがなくなった日から五年を経過しない者でないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">役員（法人でない団体で代表者又は管理人の定めのあるものの代表者又は管理人を含む。以下同じ。）のうちに、次のいずれかに該当する者がないこと。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">心身の故障のため対象債権者集会関連業務に係る職務を適正に執行することができない者として経済産業省令で定める者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">破産手続開始の決定を受けて復権を得ない者又は外国の法令上これと同様に取り扱われている者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑（これに相当する外国の法令による刑を含む。）に処せられ、その刑の執行を終わり、又はその刑の執行を受けることがなくなった日から五年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第六十条第一項の規定により指定を取り消された場合又はこの法律に相当する外国の法令の規定により当該外国において受けている指定に類する行政処分を取り消された場合において、その取消しの日前三十日以内にその法人の役員（外国の法令上これと同様に取り扱われている者を含む。）であった者でその取消しの日から五年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">この法律若しくは弁護士法又はこれらに相当する外国の法令の規定に違反し、罰金の刑（これに相当する外国の法令による刑を含む。）に処せられ、その刑の執行を終わり、又はその刑の執行を受けることがなくなった日から五年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="6">
+                  <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">暴力団員による不当な行為の防止等に関する法律（平成三年法律第七十七号）第二条第六号に規定する暴力団員又は同号に規定する暴力団員でなくなった日から五年を経過しない者（第五十一条において「暴力団員等」という。）</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会関連業務（第五十二条の規定により確認調査員を選任することを含む。）を適確に実施するに足りる経理的及び技術的な基礎を有すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">役員又は職員の構成が対象債権者集会関連業務の公正な実施に支障を及ぼすおそれがないものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会関連業務の実施に関する規程（以下「業務規程」という。）が法令に適合し、かつ、この法律の定めるところにより対象債権者集会関連業務を公正かつ適確に実施するために十分であると認められること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会関連業務以外の業務を行っている場合には、その業務を行うことによって対象債権者集会関連業務の公正な実施に支障を及ぼすおそれがないものであること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、指定をしようとするときは、前項第五号から第七号までに掲げる要件（対象債権者集会手続に係る前章の規定による業務のうち法律事務に係る部分に限り、同号に掲げる要件にあっては、第五十条第二項各号及び第三項各号に掲げる基準に係るものに限る。）に該当していることについて、あらかじめ、法務大臣に協議しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、指定をしたときは、指定確認調査機関の名称及び主たる営業所又は事務所の所在地並びに当該指定をした日を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="47">
+            <ArticleCaption>（指定の申請）</ArticleCaption>
+            <ArticleTitle>第四十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定を受けようとする者は、次に掲げる事項を記載した指定申請書を経済産業大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">名称</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">主たる営業所又は事務所その他対象債権者集会関連業務を行う営業所又は事務所の名称及び所在地</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">役員の氏名又は名称</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の指定申請書には、次に掲げる書類を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第一項第三号及び第四号に掲げる要件に該当することを誓約する書面</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">定款及び法人の登記事項証明書（これらに準ずるものを含む。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">業務規程</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">組織に関する事項を記載した書類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">財産目録、貸借対照表その他の対象債権者集会関連業務を行うために必要な経理的な基礎を有することを明らかにする書類であって経済産業省令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他経済産業省令で定める書類</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の場合において、定款、財産目録又は貸借対照表が電磁的記録で作成されているときは、書類に代えて当該電磁的記録を添付することができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="48">
+            <ArticleCaption>（秘密保持義務等）</ArticleCaption>
+            <ArticleTitle>第四十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関の確認調査員若しくは役員若しくは職員又はこれらの職にあった者は、対象債権者集会関連業務に関して知り得た秘密を漏らし、又は盗用してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関の確認調査員又は役員若しくは職員で対象債権者集会関連業務に従事する者は、刑法（明治四十年法律第四十五号）その他の罰則の適用については、法令により公務に従事する職員とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　業務</SectionTitle>
+          <Article Num="49">
+            <ArticleCaption>（指定確認調査機関の業務）</ArticleCaption>
+            <ArticleTitle>第四十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、この法律及び業務規程の定めるところにより、対象債権者集会関連業務を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関（確認調査員を含む。）は、対象債権者集会関連業務を行うことに関し、料金その他の報酬を受けることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="50">
+            <ArticleCaption>（業務規程）</ArticleCaption>
+            <ArticleTitle>第五十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、次に掲げる事項に関する業務規程を定めなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会関連業務の実施に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会関連業務の実施に関する料金を徴収する場合にあっては、当該料金に関する事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、対象債権者集会関連業務の実施に必要な事項として経済産業省令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項第一号に掲げる事項に関する業務規程は、次に掲げる基準に適合するものでなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認調査員の選任の方法及び確認調査員が対象債権者集会手続に係る確認事業者又は対象債権者と利害関係を有することその他の対象債権者集会関連業務の公正な実施を妨げるおそれがある事由がある場合において、当該確認調査員を排除するための方法を定めていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">指定確認調査機関の実質的支配者等（指定確認調査機関の株式の所有、指定確認調査機関に対する融資その他の事由を通じて指定確認調査機関の事業を実質的に支配し、又はその事業に重要な影響を与える関係にあるものとして経済産業省令で定める者をいう。）又は指定確認調査機関の子会社等（指定確認調査機関が株式の所有その他の事由を通じてその事業を実質的に支配する関係にあるものとして経済産業省令で定める者をいう。）を確認事業者又は対象債権者とする対象債権者集会関連業務を行うこととしている指定確認調査機関にあっては、当該実質的支配者等若しくは当該子会社等又は指定確認調査機関が確認調査員に対して不当な影響を及ぼすことを排除するための措置が講じられていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認調査員が弁護士でない場合において、対象債権者集会関連業務の実施に当たり法令の解釈適用に関し専門的知識を必要とするときに、弁護士の助言を受けることができるようにするための措置を定めていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会手続において提出された帳簿書類その他の物件の保管、返還その他の取扱いの方法を定めていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会手続において陳述される意見又は提出され、若しくは提示される帳簿書類その他の物件に含まれる確認事業者、対象債権者又は第三者の秘密について、当該秘密の性質に応じてこれを適切に保持するための取扱いの方法を定めていること。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">第五十三条の業務実施記録に記載されているこれらの秘密についても、同様とする。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">指定確認調査機関の確認調査員、役員及び職員について、これらの者が対象債権者集会関連業務に関して知り得た秘密を確実に保持するための措置を定めていること。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項第二号に掲げる事項に関する業務規程は、次に掲げる基準に適合するものでなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第一項第二号の料金の額又は算定方法及び支払方法（次号において「料金の額等」という。）を定めていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">料金の額等が著しく不当なものでないこと。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">業務規程の変更は、経済産業大臣の認可を受けなければ、その効力を生じない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の認可をしようとするときは、当該認可に係る業務規程が第二項各号及び第三項各号に掲げる基準（対象債権者集会手続に係る前章の規定による業務のうち法律事務に係る部分に限る。）に適合していることについて、あらかじめ、法務大臣に協議しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="51">
+            <ArticleCaption>（暴力団員等の使用の禁止）</ArticleCaption>
+            <ArticleTitle>第五十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、暴力団員等を対象債権者集会関連業務に従事させ、又は対象債権者集会関連業務の補助者として使用してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="52">
+            <ArticleCaption>（確認調査員）</ArticleCaption>
+            <ArticleTitle>第五十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、第三条第一項の確認の申請を受けたときは、人格が高潔で識見の高い者であって、事業再生に関する専門的知識及び実務経験を有する者として経済産業省令で定める要件を備える者のうちから、事案ごとに、確認調査員を選任しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="53">
+            <ArticleCaption>（記録の保存）</ArticleCaption>
+            <ArticleTitle>第五十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、経済産業省令で定めるところにより、その実施した対象債権者集会関連業務に関し、次に掲げる事項を記載した業務実施記録を作成し、保存しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">指定確認調査機関が第三条第一項の確認をした年月日</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認事業者及びその代理人並びに対象債権者の氏名又は名称</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">確認調査員の氏名</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会手続の経緯</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会手続の結果</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、対象債権者集会手続の内容を明らかにするために必要な事項であって経済産業省令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次章の規定による業務に関する事項であって経済産業省令で定めるもの</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="54">
+            <ArticleCaption>（名称の使用制限）</ArticleCaption>
+            <ArticleTitle>第五十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関でない者は、その名称又は商号中に、指定確認調査機関と誤認されるおそれのある文字を用いてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　監督</SectionTitle>
+          <Article Num="55">
+            <ArticleCaption>（変更の届出）</ArticleCaption>
+            <ArticleTitle>第五十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、第四十七条第一項各号のいずれかに掲げる事項に変更があったときは、その旨を経済産業大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の規定により指定確認調査機関の名称又は主たる営業所若しくは事務所の所在地の変更の届出があったときは、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="56">
+            <ArticleCaption>（業務に関する報告書の提出）</ArticleCaption>
+            <ArticleTitle>第五十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、事業年度ごとに、当該事業年度に係る対象債権者集会関連業務に関する報告書を作成し、経済産業大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の報告書に関する記載事項、提出期日その他必要な事項は、経済産業省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="57">
+            <ArticleCaption>（報告徴収及び立入検査）</ArticleCaption>
+            <ArticleTitle>第五十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、対象債権者集会関連業務の公正かつ適確な遂行のため必要があると認めるときは、指定確認調査機関に対し、その業務に関し報告若しくは資料の提出を命じ、又は当該職員に、指定確認調査機関の営業所若しくは事務所その他の施設に立ち入らせ、当該指定確認調査機関の業務の状況に関し質問させ、若しくは帳簿書類その他の物件を検査させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="58">
+            <ArticleCaption>（業務改善命令）</ArticleCaption>
+            <ArticleTitle>第五十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、指定確認調査機関の対象債権者集会関連業務の運営に関し、対象債権者集会関連業務の公正かつ適確な遂行を確保するため必要があると認めるときは、その必要の限度において、当該指定確認調査機関に対して、その業務の運営の改善に必要な措置を命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、指定確認調査機関が次の各号のいずれかに該当する場合において、前項の規定による命令をしようとするときは、あらかじめ、法務大臣に協議しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十六条第一項第五号から第七号までに掲げる要件（対象債権者集会手続に係る前章の規定による業務のうち法律事務に係る部分に限り、同号に掲げる要件にあっては、第五十条第二項各号及び第三項各号に掲げる基準に係るものに限る。以下この号において同じ。）に該当しないこととなった場合又は第四十六条第一項第五号から第七号までに掲げる要件に該当しないこととなるおそれがあると認められる場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十九条第一項、第五十一条又は第五十二条の規定に違反した場合（その違反行為が対象債権者集会手続に係る前章の規定による業務のうち法律事務に係るものである場合に限る。）</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="59">
+            <ArticleCaption>（対象債権者集会関連業務の休廃止）</ArticleCaption>
+            <ArticleTitle>第五十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、対象債権者集会関連業務の全部若しくは一部の休止（次項の理由によるものを除く。）をし、又は廃止をしようとするときは、経済産業大臣の認可を受けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関が、天災その他のやむを得ない理由により対象債権者集会関連業務の全部又は一部の休止をした場合には、直ちにその旨を、理由を付して経済産業大臣に届け出なければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">指定確認調査機関が当該休止をした当該対象債権者集会関連業務の全部又は一部を再開するときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定による休止若しくは廃止の認可を受け、又は前項の休止をした指定確認調査機関は、当該休止又は廃止の日から二週間以内に、当該休止又は廃止の日に対象債権者集会手続が実施されていた確認事業者及び対象債権者に当該休止又は廃止をした旨を通知しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">指定確認調査機関が当該休止をした当該対象債権者集会関連業務の全部又は一部を再開するときも、同様とする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="60">
+            <ArticleCaption>（指定の取消し等）</ArticleCaption>
+            <ArticleTitle>第六十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、指定確認調査機関が次の各号のいずれかに該当するときは、指定を取り消し、又は期間を定めて、その業務の全部若しくは一部の停止を命ずることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十六条第一項第三号から第八号までに掲げる要件に該当しないこととなったとき、又は指定を受けた時点において同項各号のいずれかに該当していなかったことが判明したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">不正の手段により指定を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">この法律若しくはこの法律に基づく命令又はこれらに基づく処分に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">指定確認調査機関又はその確認調査員若しくは役員が、対象債権者集会関連業務に関し著しく不適当な行為をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、指定確認調査機関が次の各号のいずれかに該当する場合において、前項の規定による処分又は命令をしようとするときは、あらかじめ、法務大臣に協議しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十六条第一項第五号から第七号までに掲げる要件（対象債権者集会手続に係る前章の規定による業務のうち法律事務に係る部分に限り、同号に掲げる要件にあっては、第五十条第二項各号及び第三項各号に掲げる基準に係るものに限る。以下この号において同じ。）に該当しないこととなった場合又は指定を受けた時点において第四十六条第一項第五号から第七号までに掲げる要件に該当していなかったことが判明した場合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第四十九条第一項、第五十一条又は第五十二条の規定に違反した場合（その違反行為が対象債権者集会手続に係る前章の規定による業務のうち法律事務に係るものである場合に限る。）</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定により指定の取消しの処分を受け、又はその業務の全部若しくは一部の停止の命令を受けた者は、当該処分又は命令の日から二週間以内に、当該処分又は命令の日に対象債権者集会手続が実施されていた確認事業者及び対象債権者に当該処分又は命令を受けた旨を通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、第一項の規定により指定を取り消したときは、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="61">
+            <ArticleCaption>（経済産業大臣による対象債権者集会関連業務の実施）</ArticleCaption>
+            <ArticleTitle>第六十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、次の各号のいずれかに該当する場合その他必要があると認める場合は、対象債権者集会関連業務の全部又は一部を行うものとする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">指定を受ける者がいないとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">指定確認調査機関が第五十九条第一項の規定により対象債権者集会関連業務の全部若しくは一部を休止し、又は廃止したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">指定確認調査機関が第五十九条第二項の規定により対象債権者集会関連業務の全部又は一部を休止したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第一項の規定により指定を取り消し、又は同項の規定により対象債権者集会関連業務の全部若しくは一部の停止を命じたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣は、前項の規定により対象債権者集会関連業務を行うこととし、又は同項の規定により行っている対象債権者集会関連業務を行わないこととするときは、あらかじめ、その旨を公示しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">経済産業大臣が第一項の規定により対象債権者集会関連業務を行うこととした場合における対象債権者集会関連業務の引継ぎその他の必要な事項は、経済産業省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="62">
+            <ArticleCaption>（指定確認調査機関がした処分等に係る審査請求）</ArticleCaption>
+            <ArticleTitle>第六十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">指定確認調査機関が行う対象債権者集会関連業務に係る処分又はその不作為については、経済産業大臣に対して、審査請求をすることができる。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、経済産業大臣は、行政不服審査法（平成二十六年法律第六十八号）第二十五条第二項及び第三項、第四十六条第一項及び第二項、第四十七条並びに第四十九条第三項の規定の適用については、指定確認調査機関の上級行政庁とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63">
+            <ArticleCaption>（経済産業省令への委任）</ArticleCaption>
+            <ArticleTitle>第六十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">この章に定めるもののほか、指定確認調査機関の組織及び運営その他この章の規定の実施に関し必要な事項は、経済産業省令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　確認事業者に係る特例</ChapterTitle>
+        <Article Num="64">
+          <ArticleCaption>（調停機関に関する特例）</ArticleCaption>
+          <ArticleTitle>第六十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">確認事業者が特定債務等の調整（特定債務等の調整の促進のための特定調停に関する法律（平成十一年法律第百五十八号）第二条第二項に規定する特定債務等の調整をいう。）に係る調停の申立てをした場合（当該調停の申立ての際に同法第三条第二項の申述をした場合に限る。）において、当該申立て前に当該申立てに係る事件について対象債権者集会手続が実施されていた場合には、裁判所は、当該対象債権者集会手続が実施されていることを考慮した上で、民事調停法（昭和二十六年法律第二百二十二号）第五条第一項ただし書の規定により裁判官だけで調停を行うことが相当であるかどうかの判断をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="65">
+          <ArticleCaption>（再生手続における監督委員に関する特例）</ArticleCaption>
+          <ArticleTitle>第六十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">再生手続開始の申立てがあった場合において、当該申立て前に当該申立てに係る事業者について対象債権者集会手続が実施されていたときは、裁判所（再生事件を取り扱う一人の裁判官又は裁判官の合議体をいう。第七十条及び第七十三条から第七十五条までにおいて同じ。）は、民事再生法（平成十一年法律第二百二十五号）第五十四条第一項の処分をする場合には、確認調査員が当該対象債権者集会手続に係る対象債権者集会関連業務に従事していたことを考慮した上で、同条第二項の規定による監督委員の選任をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="66">
+          <ArticleCaption>（更生手続における監督委員に関する特例）</ArticleCaption>
+          <ArticleTitle>第六十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">更生手続開始の申立てがあった場合において、当該申立て前に当該申立てに係る事業者について対象債権者集会手続が実施されていたときは、裁判所（更生事件を取り扱う一人の裁判官又は裁判官の合議体をいう。第七十一条及び第七十六条から第七十八条までにおいて同じ。）は、会社更生法（平成十四年法律第百五十四号）第三十五条第一項の処分をする場合には、確認調査員が当該対象債権者集会手続に係る対象債権者集会関連業務に従事していたことを考慮した上で、同条第二項の規定による監督委員の選任をするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67">
+          <ArticleCaption>（償還すべき社債の金額の減額に関する指定確認調査機関の確認）</ArticleCaption>
+          <ArticleTitle>第六十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">確認事業者は、当該確認事業者に関し第三条第一項の確認をした指定確認調査機関に対し、社債権者集会の決議に基づき行う償還すべき社債の金額の減額が、当該確認事業者の事業再生に欠くことができないものとして経済産業省令で定める基準に適合するものであることの確認を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、前項の経済産業省令で定める基準に適合するものであることの確認を行ったときは、直ちに、その旨を、当該確認を求めた確認事業者に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="68">
+          <ArticleCaption>（社債権者集会の決議の認可に関する判断の特例）</ArticleCaption>
+          <ArticleTitle>第六十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、前条第一項の規定により指定確認調査機関が確認を行った償還すべき社債の金額について減額を行う旨の社債権者集会の決議に係る会社法第七百三十二条に規定する認可の申立てが行われた場合には、当該減額が当該確認事業者の事業再生に欠くことができないものであることが確認されていることを考慮した上で、当該社債権者集会の決議が同法第七百三十三条第四号に掲げる場合に該当するかどうかを判断するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、前項に規定する認可の申立てが行われた場合には、指定確認調査機関に対し、意見の陳述を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="69">
+          <ArticleCaption>（資金の借入れに関する指定確認調査機関の確認）</ArticleCaption>
+          <ArticleTitle>第六十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">確認事業者は、当該確認事業者に関し第三条第一項の確認をした指定確認調査機関に対し、当該確認を受けた時から権利変更議案につき議決権者の全ての同意が得られ、権利変更議案が否決され、又は権利変更決議の認可若しくは不認可の決定が確定するまでの間（早期事業再生計画に、第十四条第三項第五号に規定する資金の調達に関する事項が記載されている場合には、当該資金の調達がなされるまでの間）における当該確認事業者の資金の借入れが当該確認事業者の事業の継続に欠くことができないものとして経済産業省令で定める基準に適合するものであることの確認を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、前項の経済産業省令で定める基準に適合するものであることの確認を行ったときは、直ちに、その旨を、当該確認を求めた確認事業者に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="70">
+          <ArticleCaption>（資金の借入れに関する再生手続の特例）</ArticleCaption>
+          <ArticleTitle>第七十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、前条第一項の経済産業省令で定める基準に適合するものであることの確認を受けた資金の借入れをした確認事業者について再生手続開始の決定があった場合において、当該確認を受けた資金の借入れに係る再生債権と他の再生債権との間に権利の変更の内容に差を設ける再生計画案（民事再生法第百六十三条第一項の再生計画案をいう。第七十五条において同じ。）が提出され、又は可決されたときは、当該資金の借入れが当該確認事業者の事業の継続に欠くことができないものであることが確認されていることを考慮した上で、当該再生計画案が同法第百五十五条第一項ただし書に規定する再生債権者の間に差を設けても衡平を害しない場合に該当するかどうかを判断するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="71">
+          <ArticleCaption>（資金の借入れに関する更生手続の特例）</ArticleCaption>
+          <ArticleTitle>第七十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、第六十九条第一項の経済産業省令で定める基準に適合するものであることの確認を受けた資金の借入れをした確認事業者について更生手続開始の決定があった場合において、当該確認を受けた資金の借入れに係る更生債権等（会社更生法第二条第十二項に規定する更生債権等をいう。以下同じ。）とこれと同一の種類の他の更生債権等との間に権利の変更の内容に差を設ける更生計画案が提出され、又は可決されたときは、当該資金の借入れが当該確認事業者の事業の継続に欠くことができないものであることが確認されていることを考慮した上で、当該更生計画案が同法第百六十八条第一項ただし書に規定する同一の種類の権利を有する更生債権者等（同法第二条第十三項に規定する更生債権者等をいう。第七十八条において同じ。）の間に差を設けても衡平を害しない場合に該当するかどうかを判断するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="72">
+          <ArticleCaption>（債権に関する指定確認調査機関の確認）</ArticleCaption>
+          <ArticleTitle>第七十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">確認事業者は、当該確認事業者に関し第三条第一項の確認をした指定確認調査機関に対し、権利変更議案につき議決権者の全ての同意が得られ、権利変更議案が否決され、又は権利変更決議の認可若しくは不認可の決定が確定するまでの間の原因に基づいて生じた債権が次の各号のいずれにも該当することの確認を求めることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該債権が少額であること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該債権を早期に弁済しなければ当該確認事業者の事業の継続に著しい支障を来すこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、前項各号のいずれにも該当することの確認を行ったときは、直ちに、その旨を、当該確認を求めた確認事業者に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="73">
+          <ArticleCaption>（債権の弁済に関する再生手続の特例）</ArticleCaption>
+          <ArticleTitle>第七十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、前条第一項各号のいずれにも該当することの確認を受けた債権（以下「確認債権」という。）に係る債務を負担した確認事業者について再生手続開始の申立てがあった場合において、民事再生法第三十条第一項の規定による保全処分を命ずるときは、当該確認債権が前条第一項各号のいずれにも該当することが確認されていることを考慮した上で、当該確認債権の弁済を当該保全処分で禁止するかどうかを判断するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="74">
+          <ArticleTitle>第七十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、確認債権に係る債務を負担した確認事業者について再生手続開始の決定があった場合において、当該確認債権について、民事再生法第八十五条第五項の規定に基づき、少額の再生債権を早期に弁済しなければ再生債務者（同法第二条第一号に規定する再生債務者をいう。以下この条において同じ。）の事業の継続に著しい支障を来すものとして弁済の許可の申立てがなされたときは、当該確認債権が第七十二条第一項各号のいずれにも該当することが確認されていることを考慮した上で、当該確認債権の弁済が同法第八十五条第五項に規定する少額の再生債権を早期に弁済しなければ再生債務者の事業の継続に著しい支障を来すときに該当するかどうかを判断するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="75">
+          <ArticleTitle>第七十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、確認債権に係る債務を負担した確認事業者について再生手続開始の決定があった場合において、当該確認債権と他の再生債権との間に権利の変更の内容に差を設ける再生計画案が提出され、又は可決されたときは、当該確認債権が第七十二条第一項各号のいずれにも該当することが確認されていることを考慮した上で、当該再生計画案が民事再生法第百五十五条第一項ただし書に規定する少額の再生債権について別段の定めをし、その他再生債権者の間に差を設けても衡平を害しない場合に該当するかどうかを判断するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="76">
+          <ArticleCaption>（債権の弁済に関する更生手続の特例）</ArticleCaption>
+          <ArticleTitle>第七十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、確認債権に係る債務を負担した確認事業者について更生手続開始の申立てがあった場合において、会社更生法第二十八条第一項の規定による保全処分を命ずるときは、当該確認債権が第七十二条第一項各号のいずれにも該当することが確認されていることを考慮した上で、当該確認債権の弁済を当該保全処分で禁止するかどうかを判断するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="77">
+          <ArticleTitle>第七十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、確認債権に係る債務を負担した確認事業者について更生手続開始の決定があった場合において、当該確認債権について、会社更生法第四十七条第五項の規定に基づき、少額の更生債権等を早期に弁済しなければ更生会社（同法第二条第七項に規定する更生会社をいう。以下この条において同じ。）の事業の継続に著しい支障を来すものとして弁済の許可の申立てがなされたときは、当該確認債権が第七十二条第一項各号のいずれにも該当することが確認されていることを考慮した上で、当該確認債権の弁済が同法第四十七条第五項に規定する少額の更生債権等を早期に弁済しなければ更生会社の事業の継続に著しい支障を来すときに該当するかどうかを判断するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="78">
+          <ArticleTitle>第七十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、確認債権に係る債務を負担した確認事業者について更生手続開始の決定があった場合において、当該確認債権とこれと同一の種類の他の更生債権等との間に権利の変更の内容に差を設ける更生計画案が提出され、又は可決されたときは、当該確認債権が第七十二条第一項各号のいずれにも該当することが確認されていることを考慮した上で、当該更生計画案が会社更生法第百六十八条第一項ただし書に規定する少額の更生債権等について別段の定めをしても衡平を害しない場合その他同一の種類の権利を有する更生債権者等の間に差を設けても衡平を害しない場合に該当するかどうかを判断するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="79">
+          <ArticleCaption>（破産手続等に係る指定確認調査機関の意見）</ArticleCaption>
+          <ArticleTitle>第七十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定確認調査機関は、確認事業者についての次の各号に掲げる手続において、それぞれ当該各号に定める裁判に係る事件を取り扱う一人の裁判官又は裁判官の合議体に対し、その求めに応じて、意見を述べることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">破産手続</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">破産法（平成十六年法律第七十五号）第二十五条第一項の規定による禁止の命令、同法第二十八条第一項の規定による保全処分、同法第九十一条第一項の規定による処分又は破産手続開始の申立てについての裁判</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">再生手続</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">民事再生法第二十七条第一項の規定による禁止の命令、同法第三十条第一項の規定による保全処分、同法第五十四条第一項若しくは第七十九条第一項の処分又は再生手続開始の申立てについての裁判</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">更生手続</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">会社更生法第二十五条第一項の規定による禁止の命令、同法第二十八条第一項の規定による保全処分、同法第三十条第一項若しくは第三十五条第一項の処分又は更生手続開始の申立てについての裁判</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">特別清算手続</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">会社法第五百四十条第二項の規定による保全処分又は特別清算開始の申立てについての裁判</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による意見陳述のための手続に関し必要な事項は、最高裁判所規則で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　罰則</ChapterTitle>
+        <Article Num="80">
+          <ArticleTitle>第八十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">権利変更決議の認可の決定の前後を問わず、対象債権者を害する目的で、次の各号のいずれかに該当する行為をした者は、確認事業者について権利変更決議の認可の決定が確定したときは、十年以下の拘禁刑若しくは千万円以下の罰金に処し、又はこれを併科する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">情を知って、第四号に掲げる行為の相手方となった者も、権利変更決議の認可の決定が確定したときは、同様とする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者の財産を隠匿し、又は損壊する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者の財産の譲渡又は債務の負担を仮装する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者の財産の現状を改変して、その価格を減損する行為</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">確認事業者の財産を対象債権者の不利益に処分し、又は対象債権者に不利益な債務を確認事業者が負担する行為</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="81">
+          <ArticleTitle>第八十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">確認事業者が、権利変更決議の認可の決定の前後を問わず、特定の対象債権者に対する債務について、他の対象債権者を害する目的で、担保の供与又は債務の消滅に関する行為であって確認事業者の義務に属せず又はその方法若しくは時期が確認事業者の義務に属しないものをし、権利変更決議の認可の決定が確定したときは、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="82">
+          <ArticleTitle>第八十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">対象債権者又はその代理人、役員若しくは職員が、対象債権者集会における議決権の行使に関し、不正の請託を受けて、賄賂を収受し、又はその要求若しくは約束をしたときは、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、犯人が収受した賄賂は、没収する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">その全部又は一部を没収することができないときは、その価額を追徴する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の賄賂を供与し、又はその申込み若しくは約束をした者は、五年以下の拘禁刑若しくは五百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="83">
+          <ArticleTitle>第八十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">権利変更決議の認可の決定の前後を問わず、対象債権者を害する目的で、確認事業者の業務及び財産の状況に関する帳簿、書類その他の物件を隠滅し、偽造し、又は変造した者は、確認事業者について権利変更決議の認可の決定が確定したときは、三年以下の拘禁刑若しくは三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="84">
+          <ArticleTitle>第八十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第八十条、第八十一条、第八十二条第三項及び前条の罪は、刑法第二条の例に従う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第八十二条第一項の罪は、日本国外において同項の罪を犯した者にも適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="85">
+          <ArticleTitle>第八十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした者は、一年以下の拘禁刑若しくは三百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第四十七条第一項の指定申請書又はこれに添付すべき書類若しくは電磁的記録に虚偽の記載又は記録をしてこれを提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十一条の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十六条第一項の報告書を提出せず、又は虚偽の記載をした報告書を提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十七条第一項の規定による報告若しくは資料の提出をせず、若しくは虚偽の報告若しくは資料の提出をし、又は同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をし、若しくは同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十八条第一項の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="86">
+          <ArticleTitle>第八十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四十八条第一項の規定に違反したときは、その違反行為をした者は、一年以下の拘禁刑若しくは百万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="87">
+          <ArticleTitle>第八十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第五十三条の規定による記録の作成若しくは保存をせず、又は虚偽の記録を作成したときは、その違反行為をした者は、百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="88">
+          <ArticleTitle>第八十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第五十九条第一項の認可を受けないで対象債権者集会関連業務の全部若しくは一部の休止又は廃止をしたときは、その違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="89">
+          <ArticleTitle>第八十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十五条第一項又は第五十九条第二項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十九条第三項又は第六十条第三項の規定に違反して通知をせず、又は虚偽の通知をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="90">
+          <ArticleTitle>第九十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人（法人でない団体で代表者又は管理人の定めのあるものを含む。以下この項及び次項において同じ。）の代表者若しくは管理人又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、次の各号に掲げる規定の違反行為をしたときは、その行為者を罰するほか、その法人に対して当該各号に定める罰金刑を、その人に対して各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第八十条、第八十一条、第八十二条第三項、第八十三条、第八十五条第二号又は第八十六条から前条まで</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">各本条の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第八十五条（第二号を除く。）</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">二億円以下の罰金刑</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により第八十条、第八十一条又は第八十二条第三項の違反行為につき法人又は人に罰金刑を科する場合における時効の期間は、これらの規定の罪についての時効の期間による。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により法人でない団体を処罰する場合には、その代表者又は管理人がその訴訟行為につきその団体を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="91">
+          <ArticleTitle>第九十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、百万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条第一項の議事録を作成せず、議事録に記載し、若しくは記録すべき事項を記載せず、若しくは記録せず、又は議事録に虚偽の記載若しくは記録をした者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条第二項の規定に違反して、議事録を備え置かなかった者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十五条第三項の規定に違反して、正当な理由がないのに、書面又は電磁的記録に記録された事項を同項第二号の経済産業省令で定める方法により表示したものの閲覧又は謄写を拒んだ者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="92">
+          <ArticleTitle>第九十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第五十四条の規定に違反した者は、十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">附則第六条から第九条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律（令和五年法律第五十三号）の施行の日（以下「整備法施行日」という。）</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後適当な時期において、この法律の施行の状況を勘案し、必要があると認めるときは、この法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（調整規定）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日が事業性融資の推進等に関する法律（令和六年法律第五十二号）の施行の日前である場合には、同法の施行の日の前日までの間における第三条第三項の規定の適用については、同項第二号中「、企業担保権又は企業価値担保権」とあるのは、「又は企業担保権」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（対象債権者集会決議関連事件に関する裁判手続の電子化等に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日から整備法施行日の前日までの間は、第二十六条第二項、第二十七条第四項、第三十六条、第三十七条、第三十九条第六項、第四十条、第四十一条及び第四十三条第二項は適用せず、次の表の上欄に掲げる規定の適用については、これらの規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第七条第五項</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">電子裁判書（非訟事件手続法（平成二十三年法律第五十一号）第五十七条第一項に規定する電子裁判書であって、同条第三項の規定によりファイルに記録されたものをいう。次条第七項及び第八条の三第六項において同じ。）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">裁判書</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第七条第六項</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">非訟事件手続法</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">非訟事件手続法（平成二十三年法律第五十一号）</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第八条第七項及び第八条の三第六項</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">電子裁判書</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">裁判書</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第二十七条第五項</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">前項に規定する</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">権利変更決議の認可又は不認可の決定があった</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">同項の規定によりファイルに記録された電磁的記録</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">その主文及び理由の要旨を記載した書面</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第三十五条の見出し、同条第二項から第四項まで及び第三十九条第一項</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">非電磁的事件記録</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会決議関連事件の記録</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第三十五条第一項</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">非電磁的事件記録（対象債権者集会決議関連事件の記録中次条第一項に規定する電磁的事件記録を除いた部分をいう。以下この条及び第三十九条第一項において同じ。）</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">対象債権者集会決議関連事件の記録</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">又はその</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">、その</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical"/>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">交付</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">交付又は対象債権者集会決議関連事件に関する事項の証明書の交付</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第三十八条</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">前三条</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第三十五条</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第四十三条第一項</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第三十二条から第三十二条の三まで、第四十条、第四十二条</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第三十二条、第四十条</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（当事者に対する住所、氏名等の秘匿に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日から整備法施行日の前日までの間の対象債権者集会決議関連事件に関する裁判手続における申立てその他の申述については、民事訴訟法第一編第八章（第百三十三条の二第五項及び第六項並びに第百三十三条の三第二項を除く。）の規定を準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同法第百三十三条第一項中「当事者」とあるのは「当事者若しくは利害関係参加人（非訟事件手続法（平成二十三年法律第五十一号）第二十一条第五項に規定する利害関係参加人をいう。第百三十三条の四第一項、第二項及び第七項において同じ。）又はこれらの者以外の裁判を受ける者となるべき者（同法第十一条第一項第一号に規定する裁判を受ける者となるべき者をいう。）」と、同条第三項中「訴訟記録等（訴訟記録又は第百三十二条の四第一項の処分の申立てに係る事件の記録」とあるのは「対象債権者集会決議関連事件（円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律第三十一条第一項に規定する対象債権者集会決議関連事件」と、「）中」とあるのは「）の記録中」と、「について訴訟記録等の閲覧等（訴訟記録の閲覧等、非電磁的証拠収集処分記録の閲覧等又は電磁的証拠収集処分記録の閲覧等をいう。以下この章において同じ。）」とあるのは「の閲覧若しくは謄写又はその謄本若しくは抄本の交付」と、同法第百三十三条の二第一項中「に係る訴訟記録等の閲覧等」とあるのは「の閲覧若しくは謄写又はその謄本若しくは抄本の交付」と、同条第二項中「訴訟記録等中」とあるのは「対象債権者集会決議関連事件の記録中」と、同項及び同条第三項中「に係る訴訟記録等の閲覧等」とあるのは「の閲覧若しくは謄写、その正本、謄本若しくは抄本の交付又はその複製」と、同法第百三十三条の三第一項中「記載され、又は記録された書面又は電磁的記録」とあるのは「記載された書面」と、「当該書面又は電磁的記録」とあるのは「当該書面」と、「又は電磁的記録その他これに類する書面又は電磁的記録に係る訴訟記録等の閲覧等」とあるのは「その他これに類する書面の閲覧若しくは謄写又はその謄本若しくは抄本の交付」と、同法第百三十三条の四第一項中「者は、訴訟記録等」とあるのは「当事者又は利害関係参加人は、対象債権者集会決議関連事件の記録」と、同条第二項中「当事者」とあるのは「当事者又は利害関係参加人」と、「訴訟記録等の存する」とあるのは「対象債権者集会決議関連事件の記録の存する」と、「訴訟記録等の閲覧等」とあるのは「閲覧若しくは謄写、その正本、謄本若しくは抄本の交付又はその複製」と、同条第七項中「当事者」とあるのは「当事者若しくは利害関係参加人」と読み替えるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第三条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月六日法律第五七号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、譲渡担保契約及び所有権留保契約に関する法律（令和七年法律第五十六号）の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三十三条の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
