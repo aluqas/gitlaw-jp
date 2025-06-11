@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="060" Year="46" PromulgateMonth="05" PromulgateDay="17"><LawNum>昭和四十六年法律第六十号</LawNum><LawBody><LawTitle Kana="かいようすいさんしげんかいはつそくしんほう" Abbrev="" AbbrevKana="">海洋水産資源開発促進法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="46" Num="060" PromulgateMonth="05" PromulgateDay="17" LawType="Act"><LawNum>昭和四十六年法律第六十号</LawNum><LawBody><LawTitle Kana="かいようすいさんしげんかいはつそくしんほう" Abbrev="" AbbrevKana="">海洋水産資源開発促進法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -205,7 +205,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">港湾法（昭和二十五年法律第二百十八号）第二条第三項に規定する港湾区域（同条第二項に規定する地方港湾で農林水産大臣が国土交通大臣と協議して指定するものに係るものを除く。）、同法第五十六条第一項の規定により都道府県知事が公告した水域（農林水産大臣が国土交通大臣と協議して指定するものを除く。）、排他的経済水域及び大陸棚の保全及び利用の促進のための低潮線の保全及び拠点施設の整備等に関する法律（平成二十二年法律第四十一号）第九条第一項の規定により国土交通大臣が公告した水域（農林水産大臣が国土交通大臣と協議して指定するものを除く。）又は海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律（平成三十年法律第八十九号）第二条第五項に規定する海洋再生可能エネルギー発電設備整備促進区域（農林水産大臣が経済産業大臣及び国土交通大臣と協議して指定するものを除く。）については、海洋水産資源の開発の促進上特別の必要がある場合において、港湾管理者、港湾法第五十六条第一項の規定により公告された当該水域を管理する都道府県知事、国土交通大臣又は経済産業大臣及び国土交通大臣と協議が調つたときに限り、前項の規定による開発区域の指定をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">港湾法（昭和二十五年法律第二百十八号）第二条第三項に規定する港湾区域（同条第二項に規定する地方港湾で農林水産大臣が国土交通大臣と協議して指定するものに係るものを除く。）、同法第五十六条第一項の規定により都道府県知事が公告した水域（農林水産大臣が国土交通大臣と協議して指定するものを除く。）、排他的経済水域及び大陸棚の保全及び利用の促進のための低潮線の保全及び拠点施設の整備等に関する法律（平成二十二年法律第四十一号）第九条第一項の規定により国土交通大臣が公告した水域（農林水産大臣が国土交通大臣と協議して指定するものを除く。）又は海洋再生可能エネルギー発電設備の整備に関する法律（平成三十年法律第八十九号）第二条第五項に規定する海洋再生可能エネルギー発電設備整備促進区域（農林水産大臣が経済産業大臣及び国土交通大臣と協議して指定するものを除く。）については、海洋水産資源の開発の促進上特別の必要がある場合において、港湾管理者、港湾法第五十六条第一項の規定により公告された当該水域を管理する都道府県知事、国土交通大臣又は経済産業大臣及び国土交通大臣と協議が調つたときに限り、前項の規定による開発区域の指定をすることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -1128,6 +1128,19 @@
       </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和五年五月二六日法律第三四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一一日法律第五九号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
