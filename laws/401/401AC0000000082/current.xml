@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="082" Year="01" PromulgateMonth="12" PromulgateDay="19"><LawNum>平成元年法律第八十二号</LawNum><LawBody><LawTitle Kana="かもつりよううんそうじぎょうほう" Abbrev="" AbbrevKana="">貨物利用運送事業法</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="01" Num="082" PromulgateMonth="12" PromulgateDay="19" LawType="Act"><LawNum>平成元年法律第八十二号</LawNum><LawBody><LawTitle Kana="かもつりよううんそうじぎょうほう" Abbrev="" AbbrevKana="">貨物利用運送事業法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -833,7 +833,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">貨物の集配を自動車を使用して行っている場合において、貨物自動車運送事業法第三十三条（同法第三十五条第六項及び第三十七条の二第三項において準用する場合を含む。）の規定により当該貨物の集配に係る事業の停止、当該事業に係る許可の取消しその他の処分を受けたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">貨物の集配を自動車を使用して行っている場合において、貨物自動車運送事業法第三十三条（同法第三十五条第八項及び第三十七条の二第三項において準用する場合を含む。）の規定により当該貨物の集配に係る事業の停止、当該事業に係る許可の取消しその他の処分を受けたとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2448,6 +2448,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一一日法律第六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

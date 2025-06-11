@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Heisei" Year="24" Num="084" PromulgateMonth="9" PromulgateDay="5" LawType="Act"><LawNum>平成二十四年法律第八十四号</LawNum><LawBody><LawTitle Kana="としのていたんそかのそくしんにかんするほうりつ" Abbrev="エコまち法" AbbrevKana="エ">都市の低炭素化の促進に関する法律</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="24" Num="084" PromulgateMonth="09" PromulgateDay="05" LawType="Act"><LawNum>平成二十四年法律第八十四号</LawNum><LawBody><LawTitle Kana="としのていたんそかのそくしんにかんするほうりつ" Abbrev="エコまち法" AbbrevKana="エ">都市の低炭素化の促進に関する法律</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1563,7 +1563,7 @@
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">貨物運送共同化実施計画に記載された事業のうち、一般貨物自動車運送事業に該当するものについては、当該事業を実施する者が貨物自動車運送事業法第五条各号のいずれにも該当せず、かつ、その内容が同法第六条第一号から第三号までに掲げる基準に適合するものであること。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">貨物運送共同化実施計画に記載された事業のうち、一般貨物自動車運送事業に該当するものについては、当該事業を実施する者が貨物自動車運送事業法第五条各号のいずれにも該当せず、かつ、その内容が同法第六条第一号から第三号の二までに掲げる基準に適合するものであること。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -2584,6 +2584,19 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一一日法律第六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
     </SupplProvision>
