@@ -567,20 +567,20 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定事業主は、特定事業主行動計画を定め、又は変更しようとするときは、内閣府令で定めるところにより、採用した職員に占める女性職員の割合、男女の継続勤務年数の差異、勤務時間の状況、管理的地位にある職員に占める女性職員の割合その他のその事務及び事業における女性の職業生活における活躍に関する状況を把握し、女性の職業生活における活躍を推進するために改善すべき事情について分析した上で、その結果を勘案して、これを定めなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定事業主は、特定事業主行動計画を定め、又はその変更（内閣府令で定める軽微な変更を除く。）をしようとするときは、内閣府令で定めるところにより、採用した職員に占める女性職員の割合、男女の継続勤務年数の差異、勤務時間の状況、管理的地位にある職員に占める女性職員の割合その他のその事務及び事業における女性の職業生活における活躍に関する状況を把握し、女性の職業生活における活躍を推進するために改善すべき事情について分析した上で、その結果を勘案して、これを定めなければならない。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、前項第二号の目標については、採用する職員に占める女性職員の割合、男女の継続勤務年数の差異の縮小の割合、勤務時間、管理的地位にある職員に占める女性職員の割合その他の数値を用いて定量的に定めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定事業主は、特定事業主行動計画を定め、又は変更したときは、遅滞なく、これを職員に周知させるための措置を講じなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定事業主は、特定事業主行動計画を定め、又はその変更（前項の内閣府令で定める軽微な変更を除く。）をしたときは、遅滞なく、これを職員に周知させるための措置を講じなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定事業主は、特定事業主行動計画を定め、又は変更したときは、遅滞なく、これを公表しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定事業主は、特定事業主行動計画を定め、又はその変更をしたときは、遅滞なく、これを公表しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
@@ -610,11 +610,23 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">その雇用し、又は雇用しようとする女性労働者に対する職業生活に関する機会の提供に関する実績</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その雇用する労働者の男女の賃金の額の差異</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その雇用する管理的地位にある労働者に占める女性労働者の割合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、その雇用し、又は雇用しようとする女性労働者に対する職業生活に関する機会の提供に関する実績</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">その雇用する労働者の職業生活と家庭生活との両立に資する雇用環境の整備に関する実績</Sentence>
                 </ItemSentence>
@@ -623,13 +635,25 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第八条第一項に規定する一般事業主（前項に規定する一般事業主を除く。）は、厚生労働省令で定めるところにより、職業生活を営み、又は営もうとする女性の職業選択に資するよう、その事業における女性の職業生活における活躍に関する前項各号に掲げる情報の少なくともいずれか一方を定期的に公表しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第八条第一項に規定する一般事業主（前項に規定する一般事業主を除く。）は、厚生労働省令で定めるところにより、職業生活を営み、又は営もうとする女性の職業選択に資するよう、その事業における女性の職業生活における活躍に関する次に掲げる情報を定期的に公表しなければならない。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第一号及び第二号に掲げる情報</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前項第三号に掲げる情報又は同項第四号に掲げる情報の少なくともいずれか一方</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第八条第七項に規定する一般事業主は、厚生労働省令で定めるところにより、職業生活を営み、又は営もうとする女性の職業選択に資するよう、その事業における女性の職業生活における活躍に関する第一項各号に掲げる情報の少なくともいずれか一方を定期的に公表するよう努めなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第八条第七項に規定する一般事業主は、厚生労働省令で定めるところにより、職業生活を営み、又は営もうとする女性の職業選択に資するよう、その事業における女性の職業生活における活躍に関する第一項各号に掲げる情報のうち少なくとも一の情報を定期的に公表するよう努めなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -644,11 +668,23 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">その任用し、又は任用しようとする女性に対する職業生活に関する機会の提供に関する実績</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その任用する職員の男女の給与の額の差異</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その任用する管理的地位にある職員に占める女性職員の割合</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、その任用し、又は任用しようとする女性に対する職業生活に関する機会の提供に関する実績</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">その任用する職員の職業生活と家庭生活との両立に資する勤務環境の整備に関する実績</Sentence>
                 </ItemSentence>
@@ -856,7 +892,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第十六条第五項において準用する職業安定法第四十一条第二項の規定による業務の停止の命令に違反して、労働者の募集に従事した者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第十六条第五項において準用する職業安定法第四十一条第二項の規定による業務の停止の命令に違反して、労働者の募集に従事したときは、当該違反行為をした者は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -886,24 +922,24 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、六月以下の拘禁刑又は三十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、六月以下の拘禁刑又は三十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十六条第四項の規定による届出をしないで、労働者の募集に従事した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条第四項の規定による届出をしないで、労働者の募集に従事したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十六条第五項において準用する職業安定法第三十七条第二項の規定による指示に従わなかった者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条第五項において準用する職業安定法第三十七条第二項の規定による指示に従わなかったとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十六条第五項において準用する職業安定法第三十九条又は第四十条の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条第五項において準用する職業安定法第三十九条又は第四十条の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -913,30 +949,30 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、三十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十条第二項（第十四条第二項において準用する場合を含む。）の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十条第二項（第十四条第二項において準用する場合を含む。）の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十六条第五項において準用する職業安定法第五十条第一項の規定による報告をせず、又は虚偽の報告をした者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条第五項において準用する職業安定法第五十条第一項の規定による報告をせず、又は虚偽の報告をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十六条第五項において準用する職業安定法第五十条第二項の規定による立入り若しくは検査を拒み、妨げ、若しくは忌避し、又は質問に対して答弁をせず、若しくは虚偽の陳述をした者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条第五項において準用する職業安定法第五十条第二項の規定による立入り若しくは検査を拒み、妨げ、若しくは忌避し、又は同項の規定による質問に対して答弁をせず、若しくは虚偽の陳述をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十六条第五項において準用する職業安定法第五十一条第一項の規定に違反して秘密を漏らした者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条第五項において準用する職業安定法第五十一条第一項の規定に違反して秘密を漏らしたとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1258,6 +1294,16 @@
               </Column>
             </ItemSentence>
           </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（女性の職業選択に資する情報の公表に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四条の規定（附則第一条第二号に掲げる改正規定に限る。）による改正後の女性の職業生活における活躍の推進に関する法律第二十条第一項及び第二項の規定は、同号に掲げる規定の施行の日以後に終了する事業年度の翌事業年度において行われる同条第一項及び第二項の規定による情報の公表から適用する。</Sentence>
+          </ParagraphSentence>
         </Paragraph>
       </Article>
       <Article Num="7">
