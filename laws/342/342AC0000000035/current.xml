@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Lang="ja" Era="Showa" Year="42" Num="035" PromulgateMonth="06" PromulgateDay="12" LawType="Act"><LawNum>昭和四十二年法律第三十五号</LawNum>
-  
+<Law Era="Showa" Lang="ja" LawType="Act" Num="035" Year="42" PromulgateMonth="06" PromulgateDay="12">
+  <LawNum>昭和四十二年法律第三十五号</LawNum>
   <LawBody>
     <LawTitle Kana="とうろくめんきょぜいほう" Abbrev="" AbbrevKana="">登録免許税法</LawTitle>
     <EnactStatement>登録税法（明治二十九年法律第二十七号）の全部を改正する。</EnactStatement>
@@ -11101,16 +11101,6 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="13">
-        <ArticleCaption>（登録免許税法の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第十三条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">附則第二条第一項又は第三条第一項の規定によりなお従前の例によることとされる認定に係る登録免許税については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="19">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第十九条</ArticleTitle>
@@ -11666,19 +11656,6 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和六年六月二一日法律第六〇号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
     <SupplProvision AmendLawNum="令和七年三月三一日法律第一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -11872,37 +11849,6 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年五月二一日法律第三七号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1:3">
-            <ItemTitle>一から三まで</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">略</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="4">
-            <ItemTitle>四</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">第三条の規定並びに附則第四条、第五条、第十二条第三項、第十八条、第二十一条及び第二十四条の規定</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
     <SupplProvision AmendLawNum="令和七年六月四日法律第五二号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -11981,19 +11927,6 @@
           <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三十三条の規定は、公布の日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年六月一一日法律第六〇号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和七年六月一三日法律第六六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -14336,12 +14269,12 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">九　動産及び債権の譲渡の対抗要件に関する民法の特例等に関する法律（平成十年法律第百四号）の規定による登記</Sentence>
+              <Sentence Num="1" WritingMode="vertical">九　動産の譲渡又は債権の譲渡若しくは質権の設定の登記</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（一）　動産の譲渡又は所有権の留保の登記</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（一）　動産の譲渡の登記</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
@@ -14373,107 +14306,8 @@
             </TableColumn>
           </TableRow>
           <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（四）　転譲渡担保権の設定等（転動産譲渡担保権の設定、転債権譲渡担保権の設定又は留保所有権を目的とする譲渡担保権の設定をいう。（六）において同じ。）の登記</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">一件につき千円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（五）　譲渡担保権の移転による譲渡担保権者の変更、留保所有権の移転による留保所有権を有する者の変更又は質権の移転による質権者の変更の登記</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">イ　相続又は法人の合併による変更の登記</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">一件につき三千円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">ロ　その他の原因による変更の登記</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">一件につき七千五百円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（六）　転譲渡担保権者等（転譲渡担保権の設定等を受けた者をいう。以下（六）及び（十）において同じ。）が取得した権利の移転による転譲渡担保権者等の変更の登記</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">一件につき千円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（七）　根譲渡担保権又は根留保所有権の分割譲渡の登記</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">一件につき七千五百円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（八）　譲渡担保権又は留保所有権と他の譲渡担保権又は留保所有権とが競合する旨の登記</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">一件につき千円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（九）　譲渡担保権又は留保所有権の順位の変更の合意の登記</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">譲渡担保権及び留保所有権の件数</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">一件につき千円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（十）　譲渡担保権者、留保所有権を有する者若しくは質権者又は転譲渡担保権者等に関する事項の変更の登記（（一）から（九）までに掲げるものを除く。）</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">一件につき千円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（十一）　登記の抹消</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（四）　登記の抹消</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">申請件数</Sentence>
@@ -21602,28 +21436,12 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">六十二の二　適合一号特定技能外国人支援計画の実施に係る登録支援機関の登録</Sentence>
+              <Sentence Num="1" WritingMode="vertical">六十三　外国人の技能実習に係る監理団体の許可又は事業の区分の変更の許可</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第十九条の二十三第一項（登録支援機関の登録）の登録支援機関の登録（更新の登録を除く。）</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">六十三　外国人の育成就労に係る監理支援機関の許可</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">外国人の育成就労の適正な実施及び育成就労外国人の保護に関する法律（平成二十八年法律第八十九号）第二十三条第一項（監理支援機関の許可）の監理支援機関の許可（更新の許可を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外国人の技能実習の適正な実施及び技能実習生の保護に関する法律（平成二十八年法律第八十九号）第二十三条第一項（監理団体の許可）の監理団体の許可（更新の許可を除く。）又は同法第三十二条第一項（変更の許可等）の規定による変更の許可（同法第二十三条第一項第一号に掲げる一般監理事業への事業の区分の変更に係るものに限る。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
@@ -22128,7 +21946,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">七十七　医薬品等の製造販売業、製造業若しくは修理業に係る許可若しくは登録又は指定高度管理医療機器等に係る登録認証機関の登録</Sentence>
+              <Sentence Num="1" WritingMode="vertical">七十七　医薬品等の製造販売業、製造業若しくは修理業に係る許可、認定若しくは登録又は指定高度管理医療機器等に係る登録認証機関の登録</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -22166,7 +21984,18 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（四）　医薬品医療機器等法第十三条の三第一項（医薬品等外国製造業者の登録）の医薬品等外国製造業者の登録又は同条第三項において準用する医薬品医療機器等法第十三条第八項の規定による製造所に係る登録の区分の追加の登録（更新の登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（四）　医薬品医療機器等法第十三条の三第一項（医薬品等外国製造業者の認定）の医薬品等外国製造業者の認定又は同条第三項において準用する医薬品医療機器等法第十三条第八項の規定による製造所に係る認定の区分の追加の認定（更新の認定を除く。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">認定件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（五）　医薬品医療機器等法第十三条の三の二第一項（医薬品等外国製造業者の保管のみを行う製造所に係る登録）の医薬品等外国製造業者の保管のみを行う製造所の登録（更新の登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
@@ -22177,7 +22006,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（五）　医薬品医療機器等法第二十三条の二第一項（製造販売業の許可）（医薬品医療機器等法第八十三条第一項の規定により読み替えて適用する場合を含む。）の第一種医療機器製造販売業許可、第二種医療機器製造販売業許可、第三種医療機器製造販売業許可又は体外診断用医薬品製造販売業許可（政令で定めるものに限り、更新の許可を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（六）　医薬品医療機器等法第二十三条の二第一項（製造販売業の許可）（医薬品医療機器等法第八十三条第一項の規定により読み替えて適用する場合を含む。）の第一種医療機器製造販売業許可、第二種医療機器製造販売業許可、第三種医療機器製造販売業許可又は体外診断用医薬品製造販売業許可（政令で定めるものに限り、更新の許可を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
@@ -22188,7 +22017,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（六）　医薬品医療機器等法第二十三条の二の三第一項（製造業の登録）の医療機器又は体外診断用医薬品の製造の事業の登録（政令で定めるものに限り、更新の登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（七）　医薬品医療機器等法第二十三条の二の三第一項（製造業の登録）の医療機器又は体外診断用医薬品の製造の事業の登録（政令で定めるものに限り、更新の登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
@@ -22199,7 +22028,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（七）　医薬品医療機器等法第二十三条の二の四第一項（医療機器等外国製造業者の登録）の医療機器等外国製造業者の登録（更新の登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（八）　医薬品医療機器等法第二十三条の二の四第一項（医療機器等外国製造業者の登録）の医療機器等外国製造業者の登録（更新の登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
@@ -22210,7 +22039,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（八）　医薬品医療機器等法第二十三条の二十第一項（製造販売業の許可）（医薬品医療機器等法第八十三条第一項の規定により読み替えて適用する場合を含む。）の再生医療等製品の製造販売の事業の許可（政令で定めるものに限り、更新の許可を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（九）　医薬品医療機器等法第二十三条の二十第一項（製造販売業の許可）（医薬品医療機器等法第八十三条第一項の規定により読み替えて適用する場合を含む。）の再生医療等製品の製造販売の事業の許可（政令で定めるものに限り、更新の許可を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
@@ -22221,7 +22050,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（九）　医薬品医療機器等法第二十三条の二十二第一項（製造業の許可）の再生医療等製品の製造業の許可又は同条第八項の規定による製造所に係る許可の区分の追加の許可（政令で定めるものに限り、更新の許可を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十）　医薬品医療機器等法第二十三条の二十二第一項（製造業の許可）の再生医療等製品の製造業の許可又は同条第八項の規定による製造所に係る許可の区分の追加の許可（政令で定めるものに限り、更新の許可を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
@@ -22232,10 +22061,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（十）　医薬品医療機器等法第二十三条の二十四第一項（再生医療等製品外国製造業者の登録）の再生医療等製品外国製造業者の登録又は同条第三項において準用する医薬品医療機器等法第二十三条の二十二第八項の規定による製造所に係る登録の区分の追加の登録（更新の登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十一）　医薬品医療機器等法第二十三条の二十四第一項（再生医療等製品外国製造業者の認定）の再生医療等製品外国製造業者の認定又は同条第三項において準用する医薬品医療機器等法第二十三条の二十二第八項の規定による製造所に係る認定の区分の追加の認定（更新の認定を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
+              <Sentence Num="1" WritingMode="vertical">認定件数</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
@@ -22243,7 +22072,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（十一）　医薬品医療機器等法第四十条の二第一項（医療機器の修理業の許可）の医療機器の修理業の許可又は同条第七項の規定による事業所に係る修理区分の追加の許可（政令で定めるものに限り、更新の許可を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十二）　医薬品医療機器等法第四十条の二第一項（医療機器の修理業の許可）の医療機器の修理業の許可又は同条第七項の規定による事業所に係る修理区分の追加の許可（政令で定めるものに限り、更新の許可を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
@@ -22254,10 +22083,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（十二）　医薬品医療機器等法第八十三条第一項の規定により読み替えて適用する医薬品医療機器等法第十三条第一項若しくは第八項（医薬品医療機器等法第十三条の三第三項において準用する場合を含む。）、第十三条の二の二第一項、第十三条の三第一項、第二十三条の二の三第一項、第二十三条の二の四第一項、第二十三条の二十二第一項若しくは第八項（医薬品医療機器等法第二十三条の二十四第三項において準用する場合を含む。）、第二十三条の二十四第一項又は第四十条の二第一項若しくは第七項の規定による許可又は登録（政令で定めるものに限り、更新の許可又は登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十三）　医薬品医療機器等法第八十三条第一項の規定により読み替えて適用する医薬品医療機器等法第十三条第一項若しくは第八項（医薬品医療機器等法第十三条の三第三項において準用する場合を含む。）、第十三条の二の二第一項、第十三条の三第一項、第十三条の三の二第一項、第二十三条の二の三第一項、第二十三条の二の四第一項、第二十三条の二十二第一項若しくは第八項（医薬品医療機器等法第二十三条の二十四第三項において準用する場合を含む。）、第二十三条の二十四第一項又は第四十条の二第一項若しくは第七項の規定による許可、認定又は登録（政令で定めるものに限り、更新の許可、認定又は登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">許可件数又は登録件数</Sentence>
+              <Sentence Num="1" WritingMode="vertical">許可件数、認定件数又は登録件数</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
@@ -22265,7 +22094,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（十三）　医薬品医療機器等法第二十三条の二の二十三第一項（登録認証機関の登録）の登録（更新の登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（十四）　医薬品医療機器等法第二十三条の二の二十三第一項（登録認証機関の登録）の登録（更新の登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
@@ -22531,7 +22360,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（一）　作業環境測定法第三十三条第一項（作業環境測定機関）の作業環境測定機関の登録（同法第二条第六号（定義）に規定する第一種作業環境測定士が受ける登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（一）　作業環境測定法第三十三条第一項（作業環境測定機関）の作業環境測定機関の登録（同法第二条第五号（定義）に規定する第一種作業環境測定士が受ける登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
@@ -23443,12 +23272,12 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" colspan="3">
-              <Sentence Num="1" WritingMode="vertical">百二　高圧ガスの製造等に係る認定高度保安実施者の認定、容器検査所、登録容器等製造業者若しくは外国登録容器等製造業者の登録又は登録特定設備製造業者若しくは外国登録特定設備製造業者の登録</Sentence>
+              <Sentence Num="1" WritingMode="vertical">百二　高圧ガスの製造等に係る認定完成検査実施者、認定保安検査実施者若しくは認定高度保安実施者の認定、容器検査所、登録容器等製造業者若しくは外国登録容器等製造業者の登録又は登録特定設備製造業者若しくは外国登録特定設備製造業者の登録</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">（一）　高圧ガス保安法（昭和二十六年法律第二百四号）第三十九条の二（認定）の認定高度保安実施者の認定（更新の認定を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（一）　高圧ガス保安法（昭和二十六年法律第二百四号）第二十条第三項第二号（完成検査）の認定完成検査実施者の認定（更新の認定を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">認定件数</Sentence>
@@ -23459,7 +23288,29 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（二）　高圧ガス保安法第四十九条第一項（容器再検査）の容器検査所の登録（政令で定めるものに限り、更新の登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（二）　高圧ガス保安法第三十五条第一項第二号（保安検査）の認定保安検査実施者の認定（更新の認定を除く。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">認定件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（三）　高圧ガス保安法第三十九条の十三（認定）の認定高度保安実施者の認定（更新の認定を除く。）</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">認定件数</Sentence>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">一件につき九万円</Sentence>
+            </TableColumn>
+          </TableRow>
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+              <Sentence Num="1" WritingMode="vertical">（四）　高圧ガス保安法第四十九条第一項（容器再検査）の容器検査所の登録（政令で定めるものに限り、更新の登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
@@ -23470,7 +23321,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（三）　高圧ガス保安法第四十九条の五第一項（容器等製造業者の登録）の規定による登録容器等製造業者の登録（更新の登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（五）　高圧ガス保安法第四十九条の五第一項（容器等製造業者の登録）の規定による登録容器等製造業者の登録（更新の登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
@@ -23481,7 +23332,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（四）　高圧ガス保安法第四十九条の三十一第一項（外国容器等製造業者の登録）の規定による外国登録容器等製造業者の登録（更新の登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（六）　高圧ガス保安法第四十九条の三十一第一項（外国容器等製造業者の登録）の規定による外国登録容器等製造業者の登録（更新の登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
@@ -23492,7 +23343,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（五）　高圧ガス保安法第五十六条の六の二第一項（特定設備製造業者の登録）の規定による登録特定設備製造業者の登録（更新の登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（七）　高圧ガス保安法第五十六条の六の二第一項（特定設備製造業者の登録）の規定による登録特定設備製造業者の登録（更新の登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
@@ -23503,7 +23354,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（六）　高圧ガス保安法第五十六条の六の二十二第一項（外国特定設備製造業者の登録）の規定による外国登録特定設備製造業者の登録（更新の登録を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（八）　高圧ガス保安法第五十六条の六の二十二第一項（外国特定設備製造業者の登録）の規定による外国登録特定設備製造業者の登録（更新の登録を除く。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">登録件数</Sentence>
@@ -24411,7 +24262,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（四）　貨物自動車運送事業法第三条（一般貨物自動車運送事業の許可）の一般貨物自動車運送事業の許可（更新の許可を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（四）　貨物自動車運送事業法第三条（一般貨物自動車運送事業の許可）の一般貨物自動車運送事業の許可</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
@@ -24422,7 +24273,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-              <Sentence Num="1" WritingMode="vertical">（五）　貨物自動車運送事業法第三十五条第一項（特定貨物自動車運送事業）の特定貨物自動車運送事業の許可（更新の許可を除く。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">（五）　貨物自動車運送事業法第三十五条第一項（特定貨物自動車運送事業）の特定貨物自動車運送事業の許可</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
               <Sentence Num="1" WritingMode="vertical">許可件数</Sentence>
@@ -26632,27 +26483,13 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一　医療情報基盤・診療報酬審査支払機構</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一　外国人技能実習機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外国人の技能実習の適正な実施及び技能実習生の保護に関する法律</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">事務所用建物（専ら自己の事務所の用に供する建物をいう。以下同じ。）の所有権（賃借権を含む。以下同じ。）の取得登記（権利の保存、設定、転貸又は移転の登記をいう。以下同じ。）又は当該建物の敷地の用に供する土地の権利（土地の所有権及び土地の上に存する権利をいう。以下同じ。）の取得登記</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の二　外国人育成就労機構</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">外国人の育成就労の適正な実施及び育成就労外国人の保護に関する法律</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">事務所用建物の所有権の取得登記又は当該建物の敷地の用に供する土地の権利の取得登記</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">第三欄の登記に該当するものであることを証する財務省令で定める書類の添付があるものに限る。</Sentence>
@@ -26660,7 +26497,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の三　学校法人（私立学校法（昭和二十四年法律第二百七十号）第百五十二条第五項（私立専修学校等）の規定により設立された法人を含む。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の二　学校法人（私立学校法（昭和二十四年法律第二百七十号）第百五十二条第五項（私立専修学校等）の規定により設立された法人を含む。）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">私立学校法</Sentence>
@@ -26677,7 +26514,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の四　株式会社国際協力銀行</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の三　株式会社国際協力銀行</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">会社法及び株式会社国際協力銀行法（平成二十三年法律第三十九号）</Sentence>
@@ -26691,7 +26528,7 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">一の五　株式会社日本政策金融公庫</Sentence>
+              <Sentence Num="1" WritingMode="vertical">一の四　株式会社日本政策金融公庫</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">会社法及び株式会社日本政策金融公庫法（平成十九年法律第五十七号）</Sentence>
@@ -26887,16 +26724,16 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">十一　削除</Sentence>
+              <Sentence Num="1" WritingMode="vertical">十一　社会保険診療報酬支払基金</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
+              <Sentence Num="1" WritingMode="vertical">社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
+              <Sentence Num="1" WritingMode="vertical">事務所用建物の所有権の取得登記又は当該建物の敷地の用に供する土地の権利の取得登記</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
+              <Sentence Num="1" WritingMode="vertical">　</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
