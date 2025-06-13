@@ -90,6 +90,25 @@
           <ArticleRange>（第六十三条の十九の二―第六十三条の二十二）</ArticleRange>
         </TOCSection>
       </TOCChapter>
+      <TOCChapter Num="3_4">
+        <ChapterTitle>第三章の四　電子決済手段・暗号資産サービス仲介業</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <ArticleRange>（第六十三条の二十二の二―第六十三条の二十二の九）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　業務</SectionTitle>
+          <ArticleRange>（第六十三条の二十二の十―第六十三条の二十二の十五）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　監督</SectionTitle>
+          <ArticleRange>（第六十三条の二十二の十六―第六十三条の二十二の二十二）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　雑則</SectionTitle>
+          <ArticleRange>（第六十三条の二十二の二十三―第六十三条の二十二の二十五）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
       <TOCChapter Num="4">
         <ChapterTitle>第四章　為替取引分析</ChapterTitle>
         <TOCSection Num="1">
@@ -240,7 +259,7 @@
           <Paragraph Num="9">
             <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「特定信託受益権」とは、金銭信託の受益権（電子情報処理組織を用いて移転することができる財産的価値（電子機器その他の物に電子的方法により記録されるものに限る。）に表示される場合に限る。）であって、受託者が信託契約により受け入れた金銭の全額を預貯金により管理するものであることその他内閣府令で定める要件を満たすものをいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定信託受益権」とは、金銭信託の受益権（電子情報処理組織を用いて移転することができる財産的価値（電子機器その他の物に電子的方法により記録されるものに限る。）に表示される場合に限る。）であって、受託者が信託契約により受け入れた金銭の総額のうち預貯金により管理する額の当該金銭の総額に占める割合が内閣府令で定める割合以上であること、当該金銭の総額のうち当該預貯金により管理する額以外の額を内閣府令で定める国債証券その他の内閣府令で定める債券（社債、株式等の振替に関する法律（平成十三年法律第七十五号）第二百七十八条第一項に規定する振替債を含む。）の保有により運用するものであることその他内閣府令で定める要件を満たすものをいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="10">
@@ -367,6 +386,36 @@
           <Paragraph Num="18">
             <ParagraphNum>１８</ParagraphNum>
             <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「電子決済手段・暗号資産サービス仲介業」とは、次に掲げる行為のいずれかを業として行うことをいい、「電子決済手段仲介行為」とは、第一号に掲げる行為をいい、「暗号資産仲介行為」とは、第二号に掲げる行為をいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段等取引業者以外の者が、電子決済手段等取引業者の委託を受けて、電子決済手段の売買又は他の電子決済手段との交換の媒介を当該電子決済手段等取引業者のために行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">暗号資産交換業者以外の者が、暗号資産交換業者の委託を受けて、暗号資産の売買又は他の暗号資産との交換の媒介を当該暗号資産交換業者のために行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="19">
+            <ParagraphNum>１９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「電子決済手段・暗号資産サービス仲介業者」とは、第六十三条の二十二の二の登録を受けた者をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="20">
+            <ParagraphNum>２０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「外国電子決済手段・暗号資産サービス仲介業者」とは、この法律に相当する外国の法令の規定により当該外国において第六十三条の二十二の二の登録と同種類の登録（当該登録に類するその他の行政処分を含む。）を受けて電子決済手段・暗号資産サービス仲介業を行う者又は当該外国の法令に準拠して第十八項各号に掲げる行為のいずれかに相当する行為を業として行う者をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="21">
+            <ParagraphNum>２１</ParagraphNum>
+            <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">この法律において「為替取引分析業」とは、複数の金融機関等（銀行等その他の政令で定める者をいう。以下同じ。）の委託を受けて、当該金融機関等の行う為替取引（これに準ずるものとして主務省令で定めるものを含む。以下この項及び第四章において同じ。）に関し、次に掲げる行為のいずれかを業として行うことをいう。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
@@ -388,68 +437,68 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="19">
-            <ParagraphNum>１９</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「為替取引分析業者」とは、第六十三条の二十三の許可を受けた者をいう。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="20">
-            <ParagraphNum>２０</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「資金清算業」とは、為替取引に係る債権債務の清算のため、債務の引受け、更改その他の方法により、銀行等の間で生じた為替取引に基づく債務を負担することを業として行うことをいう。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="21">
-            <ParagraphNum>２１</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「資金清算機関」とは、第六十四条第一項の免許を受けた者をいう。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
           <Paragraph Num="22">
             <ParagraphNum>２２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「認定資金決済事業者協会」とは、第八十七条の規定による認定を受けた一般社団法人をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「為替取引分析業者」とは、第六十三条の二十三の許可を受けた者をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="23">
             <ParagraphNum>２３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「指定紛争解決機関」とは、第九十九条第一項の規定による指定を受けた者をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「資金清算業」とは、為替取引に係る債権債務の清算のため、債務の引受け、更改その他の方法により、銀行等の間で生じた為替取引に基づく債務を負担することを業として行うことをいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="24">
             <ParagraphNum>２４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「紛争解決等業務」とは、苦情処理手続（資金移動業（第三十六条の二第四項に規定する特定資金移動業を除く。以下この項において同じ。）、電子決済手段等取引業又は暗号資産交換業に関する苦情を処理する手続をいう。）及び紛争解決手続（資金移動業、電子決済手段等取引業又は暗号資産交換業に関する紛争で当事者が和解をすることができるものについて訴訟手続によらずに解決を図る手続をいう。第百条第三項を除き、以下同じ。）に係る業務並びにこれに付随する業務をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「資金清算機関」とは、第六十四条第一項の免許を受けた者をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="25">
             <ParagraphNum>２５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「紛争解決等業務の種別」とは、紛争解決等業務に係る資金移動業務（資金移動業者が営む為替取引に係る業務をいう。第五十一条の四第一項第一号において同じ。）、電子決済手段等取引業務（電子決済手段等取引業者が行う第十項各号に掲げる行為に係る業務をいう。第六十二条の十六第一項第一号において同じ。）及び暗号資産交換業務（暗号資産交換業者が行う第十五項各号に掲げる行為に係る業務をいう。第六十三条の十二第一項第一号において同じ。）の種別をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「認定資金決済事業者協会」とは、第八十七条の規定による認定を受けた一般社団法人をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="26">
             <ParagraphNum>２６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「信託会社等」とは、信託業法（平成十六年法律第百五十四号）第二条第二項に規定する信託会社若しくは同条第六項に規定する外国信託会社又は金融機関の信託業務の兼営等に関する法律（昭和十八年法律第四十三号）第一条第一項の認可を受けた金融機関（次項において「信託銀行等」という。）をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「指定紛争解決機関」とは、第九十九条第一項の規定による指定を受けた者をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="27">
             <ParagraphNum>２７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「特定信託会社」とは、特定信託受益権を発行する信託会社等（信託銀行等を除く。）のうち政令で定めるものをいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「紛争解決等業務」とは、苦情処理手続（資金移動業（第三十六条の二第四項に規定する特定資金移動業を除く。以下この項において同じ。）、電子決済手段等取引業、暗号資産交換業又は電子決済手段・暗号資産サービス仲介業に関する苦情を処理する手続をいう。）及び紛争解決手続（資金移動業、電子決済手段等取引業、暗号資産交換業又は電子決済手段・暗号資産サービス仲介業に関する紛争で当事者が和解をすることができるものについて訴訟手続によらずに解決を図る手続をいう。第百条第三項を除き、以下同じ。）に係る業務並びにこれに付随する業務をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="28">
             <ParagraphNum>２８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「特定信託為替取引」とは、特定信託受益権の発行による為替取引をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「紛争解決等業務の種別」とは、紛争解決等業務に係る資金移動業務（資金移動業者が営む為替取引に係る業務をいう。第五十一条の四第一項第一号において同じ。）、電子決済手段等取引業務（電子決済手段等取引業者が行う第十項各号に掲げる行為に係る業務及び電子決済手段・暗号資産サービス仲介業者が行う電子決済手段仲介行為に係る業務をいう。第六十二条の十六第一項第一号において同じ。）及び暗号資産交換業務（暗号資産交換業者が行う第十五項各号に掲げる行為に係る業務及び電子決済手段・暗号資産サービス仲介業者が行う暗号資産仲介行為に係る業務をいう。第六十三条の十二第一項第一号において同じ。）の種別をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="29">
             <ParagraphNum>２９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「信託会社等」とは、信託業法（平成十六年法律第百五十四号）第二条第二項に規定する信託会社若しくは同条第六項に規定する外国信託会社又は金融機関の信託業務の兼営等に関する法律（昭和十八年法律第四十三号）第一条第一項の認可を受けた金融機関（次項において「信託銀行等」という。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="30">
+            <ParagraphNum>３０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定信託会社」とは、特定信託受益権を発行する信託会社等（信託銀行等を除く。）のうち政令で定めるものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="31">
+            <ParagraphNum>３１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定信託為替取引」とは、特定信託受益権の発行による為替取引をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="32">
+            <ParagraphNum>３２</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">この法律において「銀行等」とは、次に掲げる者をいう。</Sentence>
             </ParagraphSentence>
@@ -550,14 +599,14 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="30">
-            <ParagraphNum>３０</ParagraphNum>
+          <Paragraph Num="33">
+            <ParagraphNum>３３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">この法律において「破産手続開始の申立て等」とは、破産手続開始の申立て、再生手続開始の申立て、更生手続開始の申立て、特別清算開始の申立て又は外国倒産処理手続の承認の申立て（外国の法令上これらに相当する申立てを含む。）をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
-          <Paragraph Num="31">
-            <ParagraphNum>３１</ParagraphNum>
+          <Paragraph Num="34">
+            <ParagraphNum>３４</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">この法律において「銀行法等」とは、銀行法、長期信用銀行法、信用金庫法（昭和二十六年法律第二百三十八号）、労働金庫法（昭和二十八年法律第二百二十七号）、中小企業等協同組合法、協同組合による金融事業に関する法律（昭和二十四年法律第百八十三号）、農業協同組合法、水産業協同組合法、農林中央金庫法（平成十三年法律第九十三号）又は株式会社商工組合中央金庫法（平成十九年法律第七十四号）をいう。</Sentence>
             </ParagraphSentence>
@@ -568,8 +617,20 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">金銭債権を有する者（以下この条において「受取人」という。）からの委託、受取人からの金銭債権の譲受けその他これらに類する方法により、当該金銭債権に係る債務者又は当該債務者からの委託（二以上の段階にわたる委託を含む。）その他これに類する方法により支払を行う者から弁済として資金を受け入れ、又は他の者に受け入れさせ、当該受取人に当該資金を移動させる行為（当該資金を当該受取人に交付することにより移動させる行為を除く。）であって、受取人が個人（事業として又は事業のために受取人となる場合におけるものを除く。）であることその他の内閣府令で定める要件を満たすものは、為替取引に該当するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">金銭債権を有する者（以下この条において「受取人」という。）からの委託（国内から国外へ向けて資金を移動させ、又は国外から国内へ向けて資金を移動させる行為に係る場合にあっては、二以上の段階にわたる委託を含む。）、受取人からの金銭債権の譲受けその他これらに類する方法により、当該金銭債権に係る債務者又は当該債務者からの委託（二以上の段階にわたる委託を含む。以下この条において同じ。）その他これに類する方法により支払を行う者（以下この条において「債務者等」という。）から弁済として資金を受け入れ、又は他の者に受け入れさせ、当該受取人又は当該受取人からの委託その他これに類する方法により支払を受ける者（以下この条において「受取人等」という。）に当該資金を引き渡すことによって、債務者等から受取人等に当該資金を移動させる行為（債務者等から現金の交付を受け、当該現金を受取人等に交付することにより当該資金を債務者等から受取人等に移動させる行為を除く。）であって、次の各号のいずれかに該当するものは、為替取引に該当するものとする。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">受取人が個人（事業として又は事業のために受取人となる場合におけるものを除く。）であることその他の内閣府令で定める要件を満たす行為（次号に該当する行為を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国内から国外へ向けて資金を移動させ、又は国外から国内へ向けて資金を移動させる行為（当該行為の態様その他の事情を勘案し、利用者の保護に欠けるおそれが少ないものとして内閣府令で定めるものを除く。）</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
       </Chapter>
@@ -1209,7 +1270,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">発行保証金は、国債証券、地方債証券その他の内閣府令で定める債券（社債、株式等の振替に関する法律（平成十三年法律第七十五号）第二百七十八条第一項に規定する振替債を含む。第十六条第三項において同じ。）をもってこれに充てることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">発行保証金は、国債証券、地方債証券その他の内閣府令で定める債券（社債、株式等の振替に関する法律第二百七十八条第一項に規定する振替債を含む。第十六条第三項において同じ。）をもってこれに充てることができる。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、当該債券の評価額は、内閣府令で定めるところによる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -1874,14 +1935,14 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">特定信託会社が前項の規定により特定資金移動業を営む場合においては、特定資金移動業を資金移動業と、当該特定信託会社を資金移動業者とそれぞれみなして、第二条第二十四項及び第二十五項、第三十九条、第四十条の二、第四十一条（第一項及び第二項を除く。）、第四十二条、第四十九条から第五十一条まで、第五十一条の四から第五十三条（第二項各号及び第三項各号を除く。）まで、第五十四条から第五十六条第一項まで、第五十八条、第六十一条、第六十二条第一項、第六十二条の八、第五章、第六章、第百二条並びに第百三条の規定並びにこれらの規定に係る第八章の規定を適用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">特定信託会社が前項の規定により特定資金移動業を営む場合においては、特定資金移動業を資金移動業と、当該特定信託会社を資金移動業者とそれぞれみなして、第二条第二十七項及び第二十八項、第三十九条、第四十条の二、第四十一条（第一項及び第二項を除く。）、第四十二条、第四十九条から第五十一条まで、第五十一条の四から第五十三条（第二項各号及び第三項各号を除く。）まで、第五十四条から第五十六条第一項まで、第五十八条、第六十一条、第六十二条第一項、第六十二条の八、第五章、第六章、第百二条並びに第百三条の規定並びにこれらの規定に係る第八章の規定を適用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とするほか、必要な技術的読替えは、政令で定める。</Sentence>
               </ParagraphSentence>
               <TableStruct>
                 <Table WritingMode="vertical">
                   <TableRow>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">第二条第二十五項</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">第二条第二十八項</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
                       <Sentence Num="1" WritingMode="vertical">資金移動業務</Sentence>
@@ -2639,7 +2700,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">資金移動業者は、政令で定めるところにより、その営む資金移動業の種別ごとに履行保証金保全契約（政令で定める要件を満たす銀行等その他政令で定める者が資金移動業者のために内閣総理大臣の命令に応じて履行保証金を供託する旨の契約をいう。以下この章において同じ。）を締結し、その旨を内閣総理大臣に届け出たときは、当該履行保証金保全契約の効力の存する間、保全金額（当該履行保証金保全契約において供託されることとなっている金額をいう。以下この章において同じ。）につき、当該種別の資金移動業に係る履行保証金の全部又は一部の供託をしないことができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">資金移動業者は、政令で定めるところにより、その営む資金移動業の種別ごとに履行保証金保全契約（政令で定める要件を満たす銀行等その他政令で定める者（以下この章において「履行保証人適格者」という。）が資金移動業者のために内閣総理大臣の命令に応じて履行保証金を供託する旨の契約をいう。以下この章において同じ。）を締結し、その旨を内閣総理大臣に届け出たときは、当該履行保証金保全契約の効力の存する間、保全金額（当該履行保証金保全契約において供託されることとなっている金額をいう。以下この章において同じ。）につき、当該種別の資金移動業に係る履行保証金の全部又は一部の供託をしないことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2733,14 +2794,116 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">預貯金等管理割合を引き下げる変更は、前項の届出書に記載された当該変更を行う日における第三種資金移動業に係る履行保証金の額、保全金額及び前条第一項に規定する信託財産の額の合計額が、当該日の直前の基準日における第三種資金移動業に係る要供託額（第一項の規定の適用を受けている資金移動業者が当該変更をする場合にその営む第三種資金移動業について第四十三条第一項の規定により供託しなければならないこととなる履行保証金の額をいう。）以上である場合に限り、行うことができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">預貯金等管理割合を引き下げる変更は、前項の届出書に記載された当該変更を行う日における第三種資金移動業に係る履行保証金の額、保全金額、前条第一項に規定する信託財産の額、次条第一項に規定する履行保証人債務引受額、第四十五条の四第一項に規定する履行保証人保証額及び第四十五条の五第一項に規定する履行保証金弁済信託額（当該履行保証金弁済信託額が同項に規定する履行保証金弁済信託契約に基づき信託されている信託財産の額を上回るときは、当該信託財産の額）の合計額が、当該日の直前の基準日における第三種資金移動業に係る要供託額（第一項の規定の適用を受けている資金移動業者が当該変更をする場合にその営む第三種資金移動業について第四十三条第一項の規定により供託しなければならないこととなる履行保証金の額をいう。）以上である場合に限り、行うことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">第一項の規定の適用を受けている資金移動業者は、内閣府令で定めるところにより、同項の規定の適用を受けることをやめる日（以下この項において「預貯金等管理終了日」という。）その他内閣府令で定める事項を記載した届出書を内閣総理大臣に提出して、第一項の規定の適用を受けることをやめることができる。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、預貯金等管理終了日における第三種資金移動業に係る履行保証金の額、保全金額及び前条第一項に規定する信託財産の額の合計額が、当該預貯金等管理終了日の直前の基準日における第三種資金移動業に係る要供託額（当該資金移動業者が第一項の規定の適用を受けることをやめる場合にその営む第三種資金移動業について第四十三条第一項の規定により供託しなければならないこととなる履行保証金の額をいう。）を下回るときは、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、預貯金等管理終了日における第三種資金移動業に係る履行保証金の額、保全金額、前条第一項に規定する信託財産の額、次条第一項に規定する履行保証人債務引受額、第四十五条の四第一項に規定する履行保証人保証額及び第四十五条の五第一項に規定する履行保証金弁済信託額（当該履行保証金弁済信託額が同項に規定する履行保証金弁済信託契約に基づき信託されている信託財産の額を上回るときは、当該信託財産の額）の合計額が、当該預貯金等管理終了日の直前の基準日における第三種資金移動業に係る要供託額（当該資金移動業者が第一項の規定の適用を受けることをやめる場合にその営む第三種資金移動業について第四十三条第一項の規定により供託しなければならないこととなる履行保証金の額をいう。）を下回るときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="45_3">
+            <ArticleCaption>（履行保証人債務引受契約）</ArticleCaption>
+            <ArticleTitle>第四十五条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">資金移動業者は、履行保証人適格者との間で、その営む資金移動業の種別ごとに履行保証人債務引受契約（当該履行保証人適格者が、当該資金移動業者について破産手続開始の申立て等があったときに、当該資金移動業者が当該種別の資金移動業の利用者の全部又は一部に対して負担する当該資金移動業に係る為替取引に関する債務の全部又は一部の額を引き受ける旨の契約をいう。以下この章において同じ。）を締結し、その旨を内閣総理大臣に届け出たときは、当該履行保証人債務引受契約の効力の存する間、当該履行保証人適格者が当該履行保証人債務引受契約に基づき引き受けることとされている債務の額（以下この章において「履行保証人債務引受額」という。）につき、当該種別の資金移動業に係る履行保証金の全部又は一部の供託をしないことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">履行保証人債務引受契約は、次に掲げる事項を内容として含むものでなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">内閣総理大臣の命令があった場合には、履行保証人債務引受契約に基づく資金移動業の利用者に対する債務の引受け又はその引き受けた債務の弁済に代えて、履行保証人適格者が履行保証人債務引受額の全部又は一部を供託すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他内閣府令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="45_4">
+            <ArticleCaption>（履行保証人保証契約）</ArticleCaption>
+            <ArticleTitle>第四十五条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">資金移動業者は、その営む資金移動業の種別ごとに履行保証人適格者に対し、当該資金移動業の利用者との間における履行保証人保証契約（当該履行保証人適格者が、当該資金移動業者について破産手続開始の申立て等があったときに、当該資金移動業者が当該利用者に対して負担する当該種別の資金移動業に係る為替取引に関する債務の全部又は一部を保証する旨の契約をいう。以下この章において同じ。）の締結の委託をし、当該委託に基づき当該履行保証人適格者と当該利用者との間で履行保証人保証契約が締結されたことを内閣総理大臣に届け出たときは、当該履行保証人保証契約の効力の存する間、当該履行保証人適格者が当該履行保証人保証契約に基づき当該利用者に対して負担することとされている保証債務の額（以下この章において「履行保証人保証額」という。）につき、当該種別の資金移動業に係る履行保証金の全部又は一部の供託をしないことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">履行保証人保証契約は、次に掲げる事項を内容として含むものでなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">内閣総理大臣の命令があった場合には、履行保証人保証契約に基づく資金移動業の利用者に対する保証債務の弁済に代えて、履行保証人適格者が履行保証人保証額の全部又は一部を供託すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他内閣府令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="45_5">
+            <ArticleCaption>（履行保証金弁済信託契約）</ArticleCaption>
+            <ArticleTitle>第四十五条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">資金移動業者は、信託会社等との間で、その営む資金移動業の種別ごとに履行保証金弁済信託契約（当該信託会社等が、当該資金移動業者について破産手続開始の申立て等があったときに信託財産を当該資金移動業者が当該種別の資金移動業の利用者の全部又は一部に対して負担する当該資金移動業に係る為替取引に関する債務の全部又は一部の弁済に充てることを信託の目的として、当該信託財産の管理その他の当該目的の達成のために必要な行為をすべき旨の信託契約をいう。以下この章において同じ。）を締結し、その旨を内閣総理大臣に届け出たときは、当該履行保証金弁済信託契約に基づき信託財産が信託されている間、履行保証金弁済信託契約に基づき当該信託財産をもって弁済に充てることとされている債務の額（以下この章において「履行保証金弁済信託額」といい、当該履行保証金弁済信託額が当該信託財産の額を上回るときは、当該信託財産の額）につき、当該種別の資金移動業に係る履行保証金の全部又は一部の供託をしないことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">履行保証金弁済信託契約は、次に掲げる事項をその内容とするものでなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">履行保証金弁済信託契約を締結する資金移動業者が行う為替取引（当該履行保証金弁済信託契約に係る種別の資金移動業に係るものに限る。）の利用者を受益者とすること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">受益者代理人を置いていること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">内閣総理大臣の命令があった場合には、履行保証金弁済信託契約に基づく受益者に対する弁済に代えて、信託会社等が信託財産を換価し、履行保証金弁済信託額（当該履行保証金弁済信託額が履行保証金弁済信託契約に基づき信託されている信託財産を換価した額を上回るときは、当該信託財産を換価した額）の全部又は一部を供託すること。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他内閣府令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">履行保証金弁済信託契約に基づき信託される信託財産については、第四十五条第三項の規定を準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2750,8 +2913,63 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、資金移動業の利用者の利益の保護のために必要があると認めるときは、履行保証金保全契約若しくは履行保証金信託契約を締結した資金移動業者又はこれらの契約の相手方に対し、保全金額又は信託財産を換価した額の全部又は一部を供託すべき旨を命ずることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、資金移動業の利用者の利益の保護のために必要があると認めるときは、次の各号に掲げる者に対し、当該各号に定める額の全部又は一部を供託すべき旨を命ずることができる。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">履行保証金保全契約を締結した資金移動業者又は当該履行保証金保全契約の相手方</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">保全金額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">履行保証金信託契約を締結した資金移動業者又は当該履行保証金信託契約の相手方</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">履行保証金信託契約に基づき信託されている信託財産を換価した額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">履行保証人債務引受契約を締結した資金移動業者又は当該履行保証人債務引受契約の相手方</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">履行保証人債務引受額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">その営む資金移動業に係る為替取引に関する債務について履行保証人保証契約が締結された資金移動業者又は当該履行保証人保証契約を締結した履行保証人適格者</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">履行保証人保証額</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">履行保証金弁済信託契約を締結した資金移動業者又は当該履行保証金弁済信託契約の相手方</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">履行保証金弁済信託額（当該履行保証金弁済信託額が履行保証金弁済信託契約に基づき信託されている信託財産を換価した額を上回るときは、当該信託財産を換価した額）</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
             </Paragraph>
           </Article>
           <Article Num="47">
@@ -2765,7 +2983,7 @@
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">直前の基準日（第一種資金移動業にあっては、各営業日）における要供託額（資金移動業者が第四十三条第一項の規定により供託しなければならない履行保証金の額をいう。）が、当該基準日における履行保証金の額、保全金額及び第四十五条第一項に規定する信託財産の額の合計額を下回るとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">直前の基準日（第一種資金移動業にあっては、各営業日）における要供託額（資金移動業者が第四十三条第一項の規定により供託しなければならない履行保証金の額をいう。）が、当該基準日における履行保証金の額、保全金額、第四十五条第一項に規定する信託財産の額、履行保証人債務引受額、履行保証人保証額及び履行保証金弁済信託額（当該履行保証金弁済信託額が履行保証金弁済信託契約に基づき信託されている信託財産の額を上回るときは、当該信託財産の額）の合計額を下回るとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
@@ -2971,7 +3189,7 @@
                     <Sentence Num="1" WritingMode="vertical">次号に掲げる者以外の資金移動業者</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">未達債務の額及び履行保証金の供託、履行保証金保全契約又は履行保証金信託契約に関する報告書</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">未達債務の額及び履行保証金の供託、履行保証金保全契約、履行保証金信託契約、履行保証人債務引受契約、履行保証人保証契約又は履行保証金弁済信託契約に関する報告書</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -3124,7 +3342,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">二以上の種別の資金移動業を営む資金移動業者であって、その営む資金移動業の種別の全部又は一部について第四十三条第一項の規定による履行保証金の供託に係る当該資金移動業の種別ごとの算定期間、基準日等及び供託期限が同一である者は、内閣府令で定めるところにより、次に掲げる事項を記載した届出書を内閣総理大臣に提出したときは、第一号に掲げる日（次項において「特例適用開始日」という。）以後、第二号に掲げる資金移動業の種別（以下この項及び次項において「特例対象資金移動業」という。）について一括供託をすることができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合における特例対象資金移動業についての同条第一項及び第二項、第四十四条、第四十五条第一項及び第二項第一号、第四十七条並びに次条第一項の規定の適用については、第四十三条第一項中「資金移動業の種別ごとに履行保証金」とあるのは「履行保証金」と、「ならない」とあるのは「ならない。ただし、当該資金移動業者が営む資金移動業に係る要履行保証額の総額が、小規模な資金移動業者がその行う為替取引に関し負担する債務の履行を確保するために必要な額として政令で定める額以下である場合には、当該政令で定める額以上の額に相当する額の履行保証金を、その本店の最寄りの供託所に供託しなければならない」と、同条第二項中「をいう。ただし、当該合計額が小規模な資金移動業者がその行う為替取引に関し負担する債務の履行を確保するために必要な額として政令で定める額以下である場合には、当該政令で定める額とする」とあるのは「をいう」と、第四十四条中「その営む資金移動業の種別ごとに履行保証金保全契約」とあるのは「履行保証金保全契約」と、「当該種別の資金移動業に係る履行保証金」とあるのは「履行保証金」と、第四十五条第一項中「その営む資金移動業の種別ごとに履行保証金信託契約」とあるのは「履行保証金信託契約」と、「当該種別の資金移動業に係る履行保証金」とあるのは「履行保証金」と、同号中「為替取引（当該履行保証金信託契約に係る種別の資金移動業に係るものに限る。）」とあるのは「為替取引」と、第四十七条中「一の種別の資金移動業に係る履行保証金」とあるのは「履行保証金」と、同条第一号中「第四十三条第一項」とあるのは「第四十三条第一項本文」と、次条第一項中「営む一の種別の資金移動業に係る」とあるのは「行う」と、「当該種別の資金移動業に係る履行保証金」とあるのは「履行保証金」とするほか、必要な技術的読替えは、政令で定める。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合における特例対象資金移動業についての同条第一項及び第二項、第四十四条、第四十五条第一項及び第二項第一号、第四十五条の三第一項、第四十五条の四第一項、第四十五条の五第一項及び第二項第一号、第四十七条並びに次条第一項の規定の適用については、第四十三条第一項中「資金移動業の種別ごとに履行保証金」とあるのは「履行保証金」と、「ならない」とあるのは「ならない。ただし、当該資金移動業者が営む資金移動業に係る要履行保証額の総額が、小規模な資金移動業者がその行う為替取引に関し負担する債務の履行を確保するために必要な額として政令で定める額以下である場合には、当該政令で定める額以上の額に相当する額の履行保証金を、その本店の最寄りの供託所に供託しなければならない」と、同条第二項中「をいう。ただし、当該合計額が小規模な資金移動業者がその行う為替取引に関し負担する債務の履行を確保するために必要な額として政令で定める額以下である場合には、当該政令で定める額とする」とあるのは「をいう」と、第四十四条中「その営む資金移動業の種別ごとに履行保証金保全契約」とあるのは「履行保証金保全契約」と、「当該種別の資金移動業に係る履行保証金」とあるのは「履行保証金」と、第四十五条第一項中「その営む資金移動業の種別ごとに履行保証金信託契約」とあるのは「履行保証金信託契約」と、「当該種別の資金移動業に係る履行保証金」とあるのは「履行保証金」と、同条第二項第一号中「為替取引（当該履行保証金信託契約に係る種別の資金移動業に係るものに限る。）」とあるのは「為替取引」と、第四十五条の三第一項中「その営む資金移動業の種別ごとに履行保証人債務引受契約」とあるのは「履行保証人債務引受契約」と、「当該種別の資金移動業の」とあるのは「その営む資金移動業の」と、「当該種別の資金移動業に係る履行保証金」とあるのは「履行保証金」と、第四十五条の四第一項中「その営む資金移動業の種別ごとに履行保証人適格者に対し、当該資金移動業」とあるのは「履行保証人適格者に対し、当該資金移動業者が営む資金移動業」と、「当該種別の資金移動業に係る為替取引」とあるのは「その営む資金移動業に係る為替取引」と、「当該種別の資金移動業に係る履行保証金」とあるのは「履行保証金」と、第四十五条の五第一項中「その営む資金移動業の種別ごとに履行保証金弁済信託契約」とあるのは「履行保証金弁済信託契約」と、「当該種別の資金移動業の」とあるのは「その営む資金移動業の」と、「当該種別の資金移動業に係る履行保証金」とあるのは「履行保証金」と、同条第二項第一号中「為替取引（当該履行保証金弁済信託契約に係る種別の資金移動業に係るものに限る。）」とあるのは「為替取引」と、第四十七条中「一の種別の資金移動業に係る履行保証金」とあるのは「履行保証金」と、同条第一号中「第四十三条第一項」とあるのは「第四十三条第一項本文」と、次条第一項中「営む一の種別の資金移動業に係る」とあるのは「行う」と、「当該種別の資金移動業に係る履行保証金」とあるのは「履行保証金」とするほか、必要な技術的読替えは、政令で定める。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -3220,7 +3438,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">資金移動業者がその営む一の種別の資金移動業に係る為替取引に関し負担する債務に係る債権者は、当該種別の資金移動業に係る履行保証金について、他の債権者に先立ち弁済を受ける権利を有する。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">資金移動業者がその営む一の種別の資金移動業に係る為替取引に関し負担する債務に係る債権者（履行保証人債務引受契約又は履行保証人保証契約に基づく債務の弁済をした履行保証人適格者が、民法（明治二十九年法律第八十九号）第四百九十九条の規定により当該債権者に代位する場合を除く。）は、当該種別の資金移動業に係る履行保証金について、他の債権者に先立ち弁済を受ける権利を有する。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第四十五条の二第一項の規定の適用を受けている資金移動業者がその行う為替取引（第三種資金移動業に係るものに限る。）に関し負担する債務に係る債権者は、当該債務に係る債権については、当該債権の額から当該債権の額に預貯金等管理割合を乗じて得た額を控除した額を限度として、当該権利を有するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -3563,7 +3781,7 @@
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第五十六条第一項若しくは第二項の規定により第三十七条の登録を取り消され、第六十二条の二十二第一項若しくは第二項の規定により第六十二条の三の登録を取り消され、第六十三条の十七第一項若しくは第二項の規定により第六十三条の二の登録を取り消され、第六十三条の三十七第一項若しくは第二項の規定により第六十三条の二十三の許可を取り消され、若しくは第八十二条第一項若しくは第二項の規定により第六十四条第一項の免許を取り消され、又はこの法律若しくは銀行法等に相当する外国の法令の規定により当該外国において受けている同種類の登録、許可若しくは免許（当該登録、許可又は免許に類するその他の行政処分を含む。）を取り消され、その取消しの日から五年を経過しない法人</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第五十六条第一項若しくは第二項の規定により第三十七条の登録を取り消され、第六十二条の二十二第一項若しくは第二項の規定により第六十二条の三の登録を取り消され、第六十三条の十七第一項若しくは第二項の規定により第六十三条の二の登録を取り消され、第六十三条の二十二の二十第一項若しくは第二項の規定により第六十三条の二十二の二の登録を取り消され、第六十三条の三十七第一項若しくは第二項の規定により第六十三条の二十三の許可を取り消され、若しくは第八十二条第一項若しくは第二項の規定により第六十四条第一項の免許を取り消され、又はこの法律若しくは銀行法等に相当する外国の法令の規定により当該外国において受けている同種類の登録、許可若しくは免許（当該登録、許可又は免許に類するその他の行政処分を含む。）を取り消され、その取消しの日から五年を経過しない法人</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="9">
@@ -3659,7 +3877,7 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前二項の規定による届出を受理したときは、届出があった事項を電子決済手段等取引業者登録簿に登録しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前二項の規定による届出を受理したとき（第六十二条の二十五第九項の規定により前項の規定による届出があったものとみなされた場合を含む。）は、届出があった事項を電子決済手段等取引業者登録簿に登録しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3675,7 +3893,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">発行者が前項の規定により電子決済手段等取引業を行う場合においては、当該発行者を電子決済手段等取引業者とみなして、第二条第二十五項、第六十二条の五、前条第三項から第五項まで、次条から第六十二条の十二まで、第六十二条の十四、第六十二条の十六から第六十二条の二十二第一項まで、第六十二条の二十四から第六十二条の二十六第一項まで、第五章、第六章、第百二条及び第百三条の規定並びにこれらの規定に係る第八章の規定を適用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">発行者が前項の規定により電子決済手段等取引業を行う場合においては、当該発行者を電子決済手段等取引業者とみなして、第二条第二十八項、第六十二条の五、前条第三項から第五項まで、次条から第六十二条の十二まで、第六十二条の十四、第六十二条の十六から第六十二条の二十二第一項まで、第六十二条の二十四、第六十二条の二十五第一項から第七項まで、第六十二条の二十六第一項、第五章、第六章、第百二条及び第百三条の規定並びにこれらの規定に係る第八章の規定を適用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とするほか、必要な技術的読替えは、政令で定める。</Sentence>
               </ParagraphSentence>
               <TableStruct>
@@ -3784,10 +4002,10 @@
                       <Sentence Num="1" WritingMode="vertical">前条第五項</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">電子決済手段等取引業者登録簿に登録し</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">（第六十二条の二十五第九項の規定により前項の規定による届出があったものとみなされた場合を含む。）は、届出があった事項を電子決済手段等取引業者登録簿に登録し</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1" WritingMode="vertical">第六十二条の五第一項の名簿に登載し</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">は、届出があった事項を第六十二条の五第一項の名簿に登載し</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -4214,6 +4432,16 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="62_21_2">
+            <ArticleCaption>（資産の国内保有）</ArticleCaption>
+            <ArticleTitle>第六十二条の二十一の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、公益又は利用者の保護のため必要かつ適当であると認める場合には、電子決済手段等取引業者に対し、その資産のうち政令で定める部分を国内において保有することを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="62_22">
             <ArticleCaption>（登録の取消し等）</ArticleCaption>
             <ArticleTitle>第六十二条の二十二</ArticleTitle>
@@ -4260,7 +4488,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前条第一項若しくは第二項の規定により第六十二条の三の登録を取り消したとき、又は第六十二条の二十五第二項の規定により第六十二条の三の登録がその効力を失ったときは、当該登録を抹消しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前条第一項若しくは第二項の規定により第六十二条の三の登録を取り消したとき、又は第六十二条の二十五第二項若しくは第八項の規定により第六十二条の三の登録がその効力を失ったときは、当該登録を抹消しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4335,6 +4563,19 @@
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">会社法第九百四十条第一項（第一号に係る部分に限る。）及び第三項、第九百四十一条、第九百四十六条、第九百四十七条、第九百五十一条第二項、第九百五十三条並びに第九百五十五条の規定は、外国電子決済手段等取引業者である電子決済手段等取引業者が電子公告により第三項の規定による公告をする場合について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、必要な技術的読替えは、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段等取引業者（電子決済手段関連業務のみを行う者に限る。）が第六十三条の二十二の二の登録（第六十三条の二十二の三第一項第五号に掲げる事項に電子決済手段仲介行為に係る業務を含むものに限る。以下この項及び次項において同じ。）又は第六十三条の二十二の六第一項の変更登録（新たに電子決済手段仲介行為に係る業務を行おうとすることによるものに限る。以下この項及び次項において同じ。）を受けたときは、当該電子決済手段等取引業者の第六十二条の三の登録は、その効力を失う。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該電子決済手段等取引業者であった者は、第六十三条の二十二の二の登録又は第六十三条の二十二の六第一項の変更登録を受ける以前に行っていた電子決済手段等取引業に関し負担する債務の履行を完了し、かつ、当該電子決済手段等取引業に関し管理する利用者の財産を返還し、又は利用者に移転する目的の範囲内においては、なお電子決済手段等取引業者とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段等取引業者（電子決済手段関連業務のみを行う者を除く。）が第六十三条の二十二の二の登録又は第六十三条の二十二の六第一項の変更登録を受けたときは、当該電子決済手段等取引業者が電子決済手段関連業務を行わない旨の第六十二条の七第四項の規定による届出があったものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -4551,7 +4792,7 @@
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第六十二条の二十二第一項若しくは第二項の規定により第六十二条の三の登録を取り消され、若しくは第六十三条の十七第一項若しくは第二項の規定により第六十三条の二の登録を取り消され、又はこの法律に相当する外国の法令の規定により当該外国において受けている同種類の登録（当該登録に類するその他の行政処分を含む。）を取り消され、その取消しの日から五年を経過しない法人</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第六十二条の二十二第一項若しくは第二項の規定により第六十二条の三の登録を取り消され、第六十三条の十七第一項若しくは第二項の規定により第六十三条の二の登録を取り消され、若しくは第六十三条の二十二の二十第一項若しくは第二項の規定により第六十三条の二十二の二の登録を取り消され、又はこの法律に相当する外国の法令の規定により当該外国において受けている同種類の登録（当該登録に類するその他の行政処分を含む。）を取り消され、その取消しの日から五年を経過しない法人</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="9">
@@ -4957,6 +5198,16 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="63_16_2">
+            <ArticleCaption>（資産の国内保有）</ArticleCaption>
+            <ArticleTitle>第六十三条の十六の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、公益又は利用者の保護のため必要かつ適当であると認める場合には、暗号資産交換業者に対し、その資産のうち政令で定める部分を国内において保有することを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="63_17">
             <ArticleCaption>（登録の取消し等）</ArticleCaption>
             <ArticleTitle>第六十三条の十七</ArticleTitle>
@@ -5003,7 +5254,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前条第一項若しくは第二項の規定により第六十三条の二の登録を取り消したとき、又は第六十三条の二十第二項の規定により第六十三条の二の登録がその効力を失ったときは、当該登録を抹消しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前条第一項若しくは第二項の規定により第六十三条の二の登録を取り消したとき、又は第六十三条の二十第二項若しくは第八項の規定により第六十三条の二の登録がその効力を失ったときは、当該登録を抹消しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -5032,7 +5283,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">民法（明治二十九年法律第八十九号）第三百三十三条の規定は、前項の権利について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">民法第三百三十三条の規定は、前項の権利について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -5112,6 +5363,13 @@
                 <Sentence Num="2" WritingMode="vertical">この場合において、必要な技術的読替えは、政令で定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="8">
+              <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">暗号資産交換業者が第六十三条の二十二の二の登録（第六十三条の二十二の三第一項第五号に掲げる事項に暗号資産仲介行為に係る業務を含むものに限る。以下この項において同じ。）又は第六十三条の二十二の六第一項の変更登録（新たに暗号資産仲介行為に係る業務を行おうとすることによるものに限る。以下この項において同じ。）を受けたときは、当該暗号資産交換業者の第六十三条の二の登録は、その効力を失う。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該暗号資産交換業者であった者は、第六十三条の二十二の二の登録又は第六十三条の二十二の六第一項の変更登録を受ける以前に行っていた暗号資産の交換等に関し負担する債務の履行を完了し、かつ、これらの登録を受ける以前に行っていた暗号資産交換業に関し管理する利用者の財産を返還し、又は利用者に移転する目的の範囲内においては、なお暗号資産交換業者とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Num="63_21">
             <ArticleCaption>（登録の取消しに伴う債務の履行の完了等）</ArticleCaption>
@@ -5136,6 +5394,1131 @@
           </Article>
         </Section>
       </Chapter>
+      <Chapter Num="3_4">
+        <ChapterTitle>第三章の四　電子決済手段・暗号資産サービス仲介業</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　総則</SectionTitle>
+          <Article Num="63_22_2">
+            <ArticleCaption>（電子決済手段・暗号資産サービス仲介業者の登録）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣の登録を受けた者は、第六十二条の三及び第六十三条の二の規定にかかわらず、電子決済手段・暗号資産サービス仲介業を営むことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_3">
+            <ArticleCaption>（登録の申請）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前条の登録を受けようとする者は、内閣府令で定めるところにより、次に掲げる事項を記載した登録申請書を内閣総理大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">商号、名称又は氏名及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人にあっては、その役員（外国法人にあっては、外国の法令上これと同様に取り扱われている者及び国内における代表者を含む。以下この章において同じ。）の氏名又は名称</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業に係る営業所又は事務所の名称及び所在地</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人にあっては、資本金又は出資の額</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業の業務の種別（第二条第十八項各号に掲げる行為に係る業務の種別をいう。第六十三条の二十二の六第一項、第六十三条の二十二の二十四第二項及び第百七条第十四号において同じ。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイ又はロに掲げる場合の区分に応じ、当該イ又はロに定める事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">電子決済手段仲介行為を行う場合</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">取り扱う電子決済手段の名称並びに当該電子決済手段を発行する者の商号又は名称及び住所</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">暗号資産仲介行為を行う場合</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">取り扱う暗号資産の名称</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のイ又はロに掲げる場合の区分に応じ、当該イ又はロに定める事項</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">電子決済手段仲介行為を行う場合</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">委託を受ける電子決済手段等取引業者（以下この章において「所属電子決済手段等取引業者」という。）の商号</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Column Num="1">
+                      <Sentence Num="1" WritingMode="vertical">暗号資産仲介行為を行う場合</Sentence>
+                    </Column>
+                    <Column Num="2">
+                      <Sentence Num="1" WritingMode="vertical">委託を受ける暗号資産交換業者（以下この章において「所属暗号資産交換業者」という。）の商号</Sentence>
+                    </Column>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業の内容及び方法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業の一部を第三者に委託する場合にあっては、当該委託に係る業務の内容並びにその委託先の氏名又は商号若しくは名称及び住所</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">他に事業を行っているときは、その事業の種類</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="11">
+                <ItemTitle>十一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他内閣府令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の登録申請書には、第六十三条の二十二の五第一項各号に該当しないことを誓約する書面、電子決済手段・暗号資産サービス仲介業を適正かつ確実に遂行する体制の整備に関する事項を記載した書類その他の内閣府令で定める書類を添付しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_4">
+            <ArticleCaption>（電子決済手段・暗号資産サービス仲介業者登録簿）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第六十三条の二十二の二の登録の申請があったときは、次条第一項の規定によりその登録を拒否する場合を除くほか、次に掲げる事項を電子決済手段・暗号資産サービス仲介業者登録簿に登録しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前条第一項各号に掲げる事項</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">登録年月日及び登録番号</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定による登録をしたときは、遅滞なく、その旨を登録申請者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、電子決済手段・暗号資産サービス仲介業者登録簿を公衆の縦覧に供しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_5">
+            <ArticleCaption>（登録の拒否）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、登録申請者が次の各号のいずれかに該当するとき、又は登録申請書若しくはその添付書類のうちに重要な事項について虚偽の記載があり、若しくは重要な事実の記載が欠けているときは、その登録を拒否しなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">次のいずれかに該当する者</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業を適正かつ確実に遂行する体制の整備が行われていない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">この章の規定を遵守するために必要な体制の整備が行われていない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">登録申請者の所属電子決済手段等取引業者又は所属暗号資産交換業者（以下この章及び第八十八条第一号において「所属電子決済手段等取引業者等」という。）が認定資金決済事業者協会に加入していない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">電子決済手段等取引業者、暗号資産交換業者若しくは他の電子決済手段・暗号資産サービス仲介業者が現に用いている商号若しくは名称と同一の商号若しくは名称又はこれらの者と誤認されるおそれのある商号若しくは名称を用いようとする者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="5">
+                  <Subitem1Title>ホ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第六十二条の二十二第一項若しくは第二項の規定により第六十二条の三の登録を取り消され、第六十三条の十七第一項若しくは第二項の規定により第六十三条の二の登録を取り消され、若しくは第六十三条の二十二の二十第一項若しくは第二項の規定により第六十三条の二十二の二の登録を取り消され、又はこの法律若しくは銀行法等に相当する外国の法令の規定により当該外国において受けている同種類の登録、許可若しくは免許（当該登録、許可又は免許に類するその他の行政処分を含む。）を取り消され、その取消しの日から五年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="6">
+                  <Subitem1Title>ヘ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第六十二条の八第二項の規定により読み替えて適用する第六十二条の二十二第一項の規定による電子決済手段等取引業の廃止の命令を受け、又はこの法律若しくは銀行法等に相当する外国の法令の規定による電子決済手段等取引業と同種類の業務の廃止の命令を受け、これらの命令の日から五年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="7">
+                  <Subitem1Title>ト</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">この法律、金融商品取引法、銀行法等、金融機関の信託業務の兼営等に関する法律、出資の受入れ、預り金及び金利等の取締りに関する法律若しくは信託業法又はこれらに相当する外国の法令の規定に違反し、罰金の刑（これに相当する外国の法令による刑を含む。）に処せられ、その刑の執行を終わり、又はその刑の執行を受けることがなくなった日から五年を経過しない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="8">
+                  <Subitem1Title>チ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">他に行う事業が公益に反すると認められる者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">法人である場合にあっては、次のいずれかに該当する者</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">外国法人であって国内における代表者（国内に住所を有するものに限る。）を定めていない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">役員のうちに次のいずれかに該当する者のある者</Sentence>
+                  </Subitem1Sentence>
+                  <Subitem2 Num="1">
+                    <Subitem2Title>（１）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence Num="1" WritingMode="vertical">心身の故障のため電子決済手段・暗号資産サービス仲介業に係る職務を適正に執行することができない者として内閣府令で定める者</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="2">
+                    <Subitem2Title>（２）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence Num="1" WritingMode="vertical">破産手続開始の決定を受けて復権を得ない者又は外国の法令上これに相当する者</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="3">
+                    <Subitem2Title>（３）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence Num="1" WritingMode="vertical">拘禁刑以上の刑（これに相当する外国の法令による刑を含む。）に処せられ、その刑の執行を終わり、又はその刑の執行を受けることがなくなった日から五年を経過しない者</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="4">
+                    <Subitem2Title>（４）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence Num="1" WritingMode="vertical">前号トに該当する者</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                  <Subitem2 Num="5">
+                    <Subitem2Title>（５）</Subitem2Title>
+                    <Subitem2Sentence>
+                      <Sentence Num="1" WritingMode="vertical">法人である電子決済手段・暗号資産サービス仲介業者が第六十三条の二十二の二十第一項若しくは第二項の規定により第六十三条の二十二の二の登録を取り消された場合又は法人がこの法律に相当する外国の法令の規定により当該外国において受けている同種類の登録（当該登録に類するその他の行政処分を含む。）を取り消された場合において、その取消しの日前三十日以内にその法人の役員であった者で、当該取消しの日から五年を経過しない者その他これに準ずるものとして政令で定める者</Sentence>
+                    </Subitem2Sentence>
+                  </Subitem2>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">個人である場合にあっては、次のいずれかに該当する者</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">外国に住所を有する個人であって国内における代理人を定めていない者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">前号ロ（１）から（３）まで又は（５）のいずれかに該当する者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業に関し成年者と同一の行為能力を有しない未成年者でその法定代理人（法定代理人が法人である場合にあっては、その役員を含む。）が前号ロ（１）から（５）までのいずれかに該当する者</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前項の規定により登録を拒否したときは、遅滞なく、その理由を示して、その旨を登録申請者に通知しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_6">
+            <ArticleCaption>（変更登録等）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、第六十三条の二十二の三第一項第五号に掲げる事項の変更（新たな種別の業務を行おうとすることによるものに限る。）をしようとするときは、内閣府令で定めるところにより、内閣総理大臣の変更登録を受けなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前三条の規定は、前項の変更登録について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第六十三条の二十二の三第一項中「次に掲げる」とあるのは「変更に係る」と、同条第二項中「第六十三条の二十二の五第一項各号」とあるのは「第六十三条の二十二の五第一項第一号イからハまで」と、第六十三条の二十二の四第一項中「次に掲げる」とあるのは「前条第一項第五号に掲げる事項の変更に係る」と、前条第一項中「次の各号」とあるのは「第一号イからハまで」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、第六十三条の二十二の三第一項第六号から第八号までに掲げる事項のいずれかを変更しようとするとき（電子決済手段・暗号資産サービス仲介業の利用者の保護に欠け、又は電子決済手段・暗号資産サービス仲介業の適正かつ確実な遂行に支障を及ぼすおそれが少ない場合として内閣府令で定める場合を除く。）は、あらかじめ、その旨を内閣総理大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、第六十三条の二十二の三第一項各号に掲げる事項のいずれかに変更があったとき（第一項の規定による変更登録を受けた場合、前項の規定による届出をした場合、第六十三条の二十二の二十三第一項の規定による届出をした場合、同条第二項各号のいずれかに該当する場合及び同条第三項第二号から第四号までのいずれかに該当する場合を除く。）は、遅滞なく、その旨を内閣総理大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二条第十八項各号に掲げる行為に係る業務のいずれも行う電子決済手段・暗号資産サービス仲介業者が、次の各号に掲げる場合のいずれかに該当することとなったとき（次の各号に掲げる場合のいずれにも該当する場合を除く。）は、当該各号に定める内容の前項の規定による届出があったものとみなす。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">次のいずれかに該当するとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">第六十三条の二十二の三第一項第五号に掲げる事項について電子決済手段仲介行為に係る業務を行わない旨</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第六十二条の三の登録（第六十二条の四第一項第七号に掲げる事項に電子決済手段関連業務を含むものに限る。）又は第六十二条の七第一項の変更登録（新たに電子決済手段関連業務を行おうとすることによるものに限る。）を受けたとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">所属電子決済手段等取引業者がなくなったとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">次のいずれかに該当するとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">第六十三条の二十二の三第一項第五号に掲げる事項について暗号資産仲介行為に係る業務を行わない旨</Sentence>
+                  </Column>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第六十三条の二の登録を受けたとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">所属暗号資産交換業者がなくなったとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第三項又は第四項の規定による届出を受理したとき（前項の規定により第四項の規定による届出があったものとみなされた場合を含む。）は、届出があった事項を電子決済手段・暗号資産サービス仲介業者登録簿に登録しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_7">
+            <ArticleCaption>（名義貸しの禁止）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、自己の名義をもって、他人に電子決済手段・暗号資産サービス仲介業を行わせてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_8">
+            <ArticleCaption>（商号等の明示）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の八</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、第二条第十八項各号に掲げる行為（次条及び第六十三条の二十二の十四において「電子決済手段・暗号資産仲介行為」という。）を行おうとするときは、あらかじめ、利用者に対し次に掲げる事項を明らかにしなければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所属電子決済手段等取引業者等の商号</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">所属電子決済手段等取引業者等の代理権がない旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第六十三条の二十二の十三の規定の趣旨</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">その他内閣府令で定める事項</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_9">
+            <ArticleCaption>（電子決済手段・暗号資産サービス仲介業者に係る制限）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の九</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、その行う電子決済手段・暗号資産サービス仲介業の利用者を相手方とし、所属電子決済手段等取引業者等の委託を受けて行う電子決済手段・暗号資産仲介行為以外の第二条第十項各号及び第十五項各号に掲げる行為（当該電子決済手段・暗号資産サービス仲介業者が電子決済手段等取引業者である場合に行う同条第十項各号に掲げる行為及び当該電子決済手段・暗号資産サービス仲介業者が暗号資産交換業者である場合に行う同条第十五項各号に掲げる行為を除く。）をしてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　業務</SectionTitle>
+          <Article Num="63_22_10">
+            <ArticleCaption>（情報の安全管理）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の十</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、内閣府令で定めるところにより、電子決済手段・暗号資産サービス仲介業に係る情報の漏えい、滅失又は毀損の防止その他の当該情報の安全管理のために必要な措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_11">
+            <ArticleCaption>（委託先に対する指導）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の十一</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、電子決済手段・暗号資産サービス仲介業の一部を第三者に委託（二以上の段階にわたる委託を含む。）をした場合には、内閣府令で定めるところにより、当該委託に係る業務の委託先に対する指導その他の当該業務の適正かつ確実な遂行を確保するために必要な措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_12">
+            <ArticleCaption>（利用者の保護等に関する措置）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の十二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、電子決済手段仲介行為に係る業務を行う場合には、内閣府令で定めるところにより、電子決済手段仲介行為に係る業務と銀行等、資金移動業者又は特定信託会社が行う業務との誤認を防止するための説明、電子決済手段の内容、手数料その他の電子決済手段仲介行為に係る業務に係る契約の内容についての情報の提供その他の電子決済手段仲介行為に係る業務の利用者の保護を図り、及び電子決済手段仲介行為に係る業務の適正かつ確実な遂行を確保するために必要な措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、暗号資産仲介行為に係る業務を行う場合には、内閣府令で定めるところにより、暗号資産の性質に関する説明、手数料その他の暗号資産仲介行為に係る業務に係る契約の内容についての情報の提供その他の暗号資産仲介行為に係る業務の利用者の保護を図り、及び暗号資産仲介行為に係る業務の適正かつ確実な遂行を確保するために必要な措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、暗号資産仲介行為に係る業務の利用者に信用を供与して暗号資産仲介行為を行ってはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_13">
+            <ArticleCaption>（金銭等の預託の禁止）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の十三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、いかなる名目によるかを問わず、その行う電子決済手段・暗号資産サービス仲介業に関して、利用者から金銭その他の財産の預託を受け、又は当該電子決済手段・暗号資産サービス仲介業者と密接な関係を有する者として政令で定める者に利用者の金銭その他の財産を預託させてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_14">
+            <ArticleCaption>（所属電子決済手段等取引業者等の賠償責任）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の十四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">次の各号に掲げる行為の区分に応じ、当該各号に定める者は、その委託を行った電子決済手段・暗号資産サービス仲介業者が当該各号に掲げる行為につき利用者に加えた損害を賠償する責任を負う。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該各号に定める者がその電子決済手段・暗号資産サービス仲介業者への委託につき相当の注意をし、かつ、その者の行う電子決済手段・暗号資産仲介行為につき利用者に加えた損害の発生の防止に努めたときは、この限りでない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">電子決済手段仲介行為</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該電子決済手段仲介行為を委託した所属電子決済手段等取引業者</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">暗号資産仲介行為</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">当該暗号資産仲介行為を委託した所属暗号資産交換業者</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_15">
+            <ArticleCaption>（金融商品取引法等の準用）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の十五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">金融商品取引法第三十七条、第三十七条の三第一項及び第二項、第三十七条の四、第三十七条の六第三項及び第四項本文、第三十八条（第七号及び第八号を除く。）並びに第四十条の規定は、第六十二条の十七第一項に規定する特定電子決済手段等取引契約に係る電子決済手段仲介行為に係る業務を行う電子決済手段・暗号資産サービス仲介業者について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、次の表の上欄に掲げる同法の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句と読み替えるものとするほか、必要な技術的読替えは、政令で定める。</Sentence>
+              </ParagraphSentence>
+              <TableStruct>
+                <Table WritingMode="vertical">
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条第一項第三号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">金融商品取引行為</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">特定電子決済手段等取引契約（資金決済に関する法律第六十二条の十七第一項に規定する特定電子決済手段等取引契約をいう。以下同じ。）の締結</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条の三第一項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">を締結しようとする</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の締結の媒介を行う</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客に</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者に</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条の三第一項第一号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の商号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">及びその所属電子決済手段等取引業者（資金決済に関する法律第六十三条の二十二の三第一項第七号イに規定する所属電子決済手段等取引業者をいう。第三十七条の六第三項において同じ。）の商号</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条の三第一項第四号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条の三第一項第五号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">行う金融商品取引行為</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">締結する特定電子決済手段等取引契約</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">金利、通貨の価格、金融商品市場における相場</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">通貨の価格</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条の三第一項第六号及び第七号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条の三第二項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客に</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者に</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客の</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者の</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客属性」</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者属性」</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条の三第二項ただし書</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客属性</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者属性</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客が</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者が</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条の四</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条の六第三項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第一項の規定による金融商品取引契約の解除があつた場合には</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者からの申出による特定電子決済手段等取引契約の解除に伴い所属電子決済手段等取引業者に損害賠償その他の金銭の支払をした場合において</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">金融商品取引契約の解除までの期間に相当する手数料、報酬その他の当該金融商品取引契約に関して顧客が支払うべき対価（次項において「対価」という。）の額として内閣府令で定める金額を超えて当該金融商品取引契約の解除</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">支払</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">又は違約金の支払を</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">その他の金銭の支払を、解除をした者に対し、</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid" rowspan="2">
+                      <Sentence Num="1" WritingMode="vertical">第三十七条の六第四項</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第一項の規定による</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者からの申出による</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十八条第一号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">又はその勧誘</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">の媒介又は勧誘</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第三十八条第二号から第六号まで</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第四十条第一号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">金融商品取引行為</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">特定電子決済手段等取引契約の締結</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="none">
+                      <Sentence Num="1" WritingMode="vertical"/>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">第四十条第二号</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">顧客</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1" WritingMode="vertical">利用者</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                </Table>
+              </TableStruct>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の九の二及び第六十三条の九の三の規定は、暗号資産仲介行為を行う電子決済手段・暗号資産サービス仲介業者について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、第六十三条の九の二中「暗号資産交換業に」とあるのは「暗号資産仲介行為に係る業務に」と、同条第一号中「商号」とあるのは「商号、名称又は氏名」と、第六十三条の九の三第一号中「暗号資産交換業」とあるのは「暗号資産仲介行為に係る業務」と、「第二条第十五項各号に掲げる行為」とあるのは「所属暗号資産交換業者（第六十三条の二十二の三第一項第七号ロに規定する所属暗号資産交換業者をいう。以下この号において同じ。）との間の当該所属暗号資産交換業者が第二条第十五項各号に掲げる行為」と、「又はその勧誘」とあるのは「の媒介又は勧誘」と、「暗号資産交換契約の締結等」とあるのは「暗号資産交換契約の締結の媒介等」と、同条第二号中「暗号資産交換業」とあるのは「暗号資産仲介行為に係る業務」と、同条第三号中「暗号資産交換契約の締結等」とあるのは「暗号資産交換契約の締結の媒介等」と、「暗号資産交換業」とあるのは「暗号資産仲介行為に係る業務」と、同条第四号中「暗号資産交換業」とあるのは「暗号資産仲介行為に係る業務」と読み替えるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　監督</SectionTitle>
+          <Article Num="63_22_16">
+            <ArticleCaption>（帳簿書類）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の十六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、内閣府令で定めるところにより、その電子決済手段・暗号資産サービス仲介業に関する帳簿書類を作成し、これを保存しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_17">
+            <ArticleCaption>（報告書）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の十七</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、事業年度ごとに、内閣府令で定めるところにより、電子決済手段・暗号資産サービス仲介業に関する報告書を作成し、内閣総理大臣に提出しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_18">
+            <ArticleCaption>（立入検査等）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の十八</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、電子決済手段・暗号資産サービス仲介業の適正かつ確実な遂行のために必要があると認めるときは、電子決済手段・暗号資産サービス仲介業者に対し当該電子決済手段・暗号資産サービス仲介業者の業務若しくは財産に関し参考となるべき報告若しくは資料の提出を命じ、又は当該職員に当該電子決済手段・暗号資産サービス仲介業者の営業所、事務所その他の施設に立ち入らせ、その業務若しくは財産の状況に関して質問させ、若しくは帳簿書類その他の物件を検査させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、電子決済手段・暗号資産サービス仲介業の適正かつ確実な遂行のため特に必要があると認めるときは、その必要の限度において、当該電子決済手段・暗号資産サービス仲介業者から業務の委託を受けた者（その者から委託（二以上の段階にわたる委託を含む。）を受けた者を含む。以下この条において同じ。）に対し当該電子決済手段・暗号資産サービス仲介業者の業務若しくは財産の状況に関し参考となるべき報告若しくは資料の提出を命じ、又は当該職員に当該電子決済手段・暗号資産サービス仲介業者から業務の委託を受けた者の施設に立ち入らせ、当該電子決済手段・暗号資産サービス仲介業者の業務若しくは財産の状況に関して質問させ、若しくは帳簿書類その他の物件を検査させることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の電子決済手段・暗号資産サービス仲介業者から業務の委託を受けた者は、正当な理由があるときは、同項の規定による報告若しくは資料の提出又は質問若しくは検査を拒むことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_19">
+            <ArticleCaption>（業務改善命令）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の十九</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、電子決済手段・暗号資産サービス仲介業の適正かつ確実な遂行のために必要があると認めるときは、その必要の限度において、電子決済手段・暗号資産サービス仲介業者に対し、業務の運営又は財産の状況の改善に必要な措置その他監督上必要な措置をとるべきことを命ずることができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_20">
+            <ArticleCaption>（登録の取消し等）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の二十</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、電子決済手段・暗号資産サービス仲介業者が次の各号のいずれかに該当するときは、第六十三条の二十二の二の登録を取り消し、又は六月以内の期間を定めて電子決済手段・暗号資産サービス仲介業の全部若しくは一部の停止を命ずることができる。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第六十三条の二十二の五第一項各号のいずれかに該当することとなったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">不正の手段により第六十三条の二十二の二の登録又は第六十三条の二十二の六第一項の変更登録を受けたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">この法律若しくはこの法律に基づく命令又はこれらに基づく処分に違反したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、電子決済手段・暗号資産サービス仲介業者の営業所若しくは事務所の所在地を確知できないとき、又は電子決済手段・暗号資産サービス仲介業者の所在（法人である場合にあっては、その法人を代表する役員（外国法人にあっては、国内における代表者）の所在）を確知できないときは、内閣府令で定めるところにより、その事実を公告し、その公告の日から三十日を経過しても当該電子決済手段・暗号資産サービス仲介業者から申出がないときは、当該電子決済手段・暗号資産サービス仲介業者の第六十三条の二十二の二の登録を取り消すことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定による処分については、行政手続法第三章の規定は、適用しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_21">
+            <ArticleCaption>（登録の抹消）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の二十一</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、前条第一項若しくは第二項の規定により第六十三条の二十二の二の登録を取り消したとき、又は第六十三条の二十二の二十三第三項の規定により第六十三条の二十二の二の登録がその効力を失ったときは、当該登録を抹消しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_22">
+            <ArticleCaption>（監督処分の公告）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の二十二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第六十三条の二十二の二十第一項又は第二項の規定による処分をしたときは、内閣府令で定めるところにより、その旨を公告しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　雑則</SectionTitle>
+          <Article Num="63_22_23">
+            <ArticleCaption>（廃止の届出等）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の二十三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者は、電子決済手段・暗号資産サービス仲介業の全部の廃止をし、電子決済手段・暗号資産サービス仲介業の全部の譲渡をし、合併（当該電子決済手段・暗号資産サービス仲介業者が合併により消滅する場合の当該合併に限る。）をし、合併及び破産手続開始の決定以外の理由による解散をし、又は会社分割による電子決済手段・暗号資産サービス仲介業の全部の承継をさせようとするときは、あらかじめ、その旨を内閣総理大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者が次の各号に掲げる場合のいずれかに該当することとなったときは、当該各号に定める者は、遅滞なく、その旨を内閣総理大臣に届け出なければならない。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業の一部の廃止をし、電子決済手段・暗号資産サービス仲介業の一部の譲渡をし、又は会社分割により電子決済手段・暗号資産サービス仲介業の一部の承継をさせたとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その電子決済手段・暗号資産サービス仲介業の廃止をし、譲渡をし、又は承継をさせた個人又は法人</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者である個人が死亡したとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その相続人</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Column Num="1">
+                    <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者である法人について破産手続開始の決定があったとき</Sentence>
+                  </Column>
+                  <Column Num="2">
+                    <Sentence Num="1" WritingMode="vertical">その破産管財人</Sentence>
+                  </Column>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当するときは、当該電子決済手段・暗号資産サービス仲介業者の第六十三条の二十二の二の登録は、その効力を失う。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該電子決済手段・暗号資産サービス仲介業者であった者は、その行う電子決済手段・暗号資産サービス仲介業に関し負担する債務の履行を完了する目的の範囲内においては、なお電子決済手段・暗号資産サービス仲介業者とみなす。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者が第一項の規定による届出をしたとき又は前項第二号若しくは第三号に掲げる場合のいずれかに該当することとなったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">第二条第十八項各号に掲げる行為に係る業務のいずれも行う電子決済手段・暗号資産サービス仲介業者が次のいずれかに該当することとなったとき。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第六十二条の三の登録（第六十二条の四第一項第七号に掲げる事項に電子決済手段関連業務を含むものに限る。ハ及び次号イにおいて同じ。）又は第六十二条の七第一項の変更登録（新たに電子決済手段関連業務を行おうとすることによるものに限る。ハ及び同号イにおいて同じ。）及び第六十三条の二の登録を受けたとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">所属電子決済手段等取引業者及び所属暗号資産交換業者がなくなったとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="3">
+                  <Subitem1Title>ハ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第六十二条の三の登録又は第六十二条の七第一項の変更登録を受け、かつ、所属暗号資産交換業者がなくなったとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="4">
+                  <Subitem1Title>ニ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第六十三条の二の登録を受け、かつ、所属電子決済手段等取引業者がなくなったとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">電子決済手段仲介行為に係る業務を行う電子決済手段・暗号資産サービス仲介業者（暗号資産仲介行為に係る業務を行う者を除く。）が次のいずれかに該当することとなったとき。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第六十二条の三の登録又は第六十二条の七第一項の変更登録を受けたとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">所属電子決済手段等取引業者がなくなったとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">暗号資産仲介行為に係る業務を行う電子決済手段・暗号資産サービス仲介業者（電子決済手段仲介行為に係る業務を行う者を除く。）が次のいずれかに該当することとなったとき。</Sentence>
+                </ItemSentence>
+                <Subitem1 Num="1">
+                  <Subitem1Title>イ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第六十三条の二の登録を受けたとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+                <Subitem1 Num="2">
+                  <Subitem1Title>ロ</Subitem1Title>
+                  <Subitem1Sentence>
+                    <Sentence Num="1" WritingMode="vertical">所属暗号資産交換業者がなくなったとき。</Sentence>
+                  </Subitem1Sentence>
+                </Subitem1>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_24">
+            <ArticleCaption>（登録の取消し等に伴う債務の履行の完了等）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の二十四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">電子決済手段・暗号資産サービス仲介業者について、第六十三条の二十二の二十第一項又は第二項の規定により第六十三条の二十二の二の登録が取り消されたとき（電子決済手段・暗号資産サービス仲介業の利用者の保護に欠け、又は電子決済手段・暗号資産サービス仲介業の適正かつ確実な遂行に支障を及ぼすおそれが少ない場合として内閣府令で定める場合を除く。）は、当該電子決済手段・暗号資産サービス仲介業者であった者は、その行う電子決済手段・暗号資産サービス仲介業に関し負担する債務の履行を速やかに完了しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該電子決済手段・暗号資産サービス仲介業者であった者は、当該債務の履行を完了する目的の範囲内においては、なお電子決済手段・暗号資産サービス仲介業者とみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二条第十八項各号に掲げる行為に係る業務のいずれも行う電子決済手段・暗号資産サービス仲介業者について、第六十三条の二十二の六第五項の規定により第六十三条の二十二の三第一項第五号に掲げる事項について一の種別の業務を行わない旨の届出があったものとみなされたとき（第六十三条の二十二の六第五項第一号ロ又は第二号ロに該当する場合に限る。）は、当該電子決済手段・暗号資産サービス仲介業者は、当該種別の業務に関し負担する債務の履行を速やかに完了しなければならない。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、当該電子決済手段・暗号資産サービス仲介業者は、当該債務の履行を完了する目的の範囲内においては、なお当該種別の業務を行う電子決済手段・暗号資産サービス仲介業者として第六十三条の二十二の二の登録を受けているものとみなす。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="63_22_25">
+            <ArticleCaption>（外国電子決済手段・暗号資産サービス仲介業者の勧誘の禁止）</ArticleCaption>
+            <ArticleTitle>第六十三条の二十二の二十五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の二十二の二の登録を受けていない外国電子決済手段・暗号資産サービス仲介業者は、国内にある者に対して、第二条第十八項各号に掲げる行為又はこれらに相当する行為の勧誘をしてはならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
       <Chapter Num="4">
         <ChapterTitle>第四章　為替取引分析</ChapterTitle>
         <Section Num="1">
@@ -5147,7 +6530,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">為替取引分析業は、主務大臣の許可を受けた者でなければ、行ってはならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その業務の規模及び態様が、当該業務に係る金融機関等（その行う為替取引に関し、為替取引分析業を行う者に第二条第十八項各号に掲げる行為のいずれかに係る業務（以下この章において「為替取引分析業務」という。）を委託する者に限る。）の数その他の事項を勘案して主務省令で定める場合であるときは、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その業務の規模及び態様が、当該業務に係る金融機関等（その行う為替取引に関し、為替取引分析業を行う者に第二条第二十一項各号に掲げる行為のいずれかに係る業務（以下この章において「為替取引分析業務」という。）を委託する者に限る。）の数その他の事項を勘案して主務省令で定める場合であるときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -5192,7 +6575,7 @@
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">為替取引分析業の種別（第二条第十八項各号に掲げる行為に係る業務の種別をいう。第六十三条の三十三第一項及び第二項並びに第百七条第十七号において同じ。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">為替取引分析業の種別（第二条第二十一項各号に掲げる行為に係る業務の種別をいう。第六十三条の三十三第一項及び第二項並びに第百七条第十九号において同じ。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7">
@@ -5618,7 +7001,7 @@
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">第二条第二十九項第五号又は第六号に掲げる者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第二条第三十二項第五号又は第六号に掲げる者</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1" WritingMode="vertical">厚生労働大臣</Sentence>
@@ -5629,7 +7012,7 @@
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">第二条第二十九項第九号から第十五号までに掲げる者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第二条第三十二項第九号から第十五号までに掲げる者</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1" WritingMode="vertical">農林水産大臣</Sentence>
@@ -5640,10 +7023,10 @@
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">第二条第二十九項第十六号に掲げる者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">第二条第三十二項第十六号に掲げる者</Sentence>
                   </Column>
                   <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">財務大臣及び経済産業大臣（当該処分に係る為替取引分析業者が同条第十八項第一号に掲げる行為を業として行う場合には、経済産業大臣）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">財務大臣及び経済産業大臣（当該処分に係る為替取引分析業者が同条第二十一項第一号に掲げる行為を業として行う場合には、経済産業大臣）</Sentence>
                   </Column>
                 </ItemSentence>
               </Item>
@@ -5655,13 +7038,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">厚生労働大臣、農林水産大臣又は経済産業大臣は、為替取引分析業者（第二条第十八項第一号に掲げる行為を業として行う者に限る。）の行う為替取引分析業の適正かつ確実な遂行が確保されていないと疑うに足りる相当な理由があるため、当該為替取引分析業者に対して適当な措置をとることが必要であると認める場合には、内閣総理大臣及び財務大臣に対し、その旨の意見を述べることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣、農林水産大臣又は経済産業大臣は、為替取引分析業者（第二条第二十一項第一号に掲げる行為を業として行う者に限る。）の行う為替取引分析業の適正かつ確実な遂行が確保されていないと疑うに足りる相当な理由があるため、当該為替取引分析業者に対して適当な措置をとることが必要であると認める場合には、内閣総理大臣及び財務大臣に対し、その旨の意見を述べることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">財務大臣、厚生労働大臣、農林水産大臣又は経済産業大臣は、為替取引分析業者（第二条第十八項第一号に掲げる行為を業として行う者を除く。）の行う為替取引分析業の適正かつ確実な遂行が確保されていないと疑うに足りる相当な理由があるため、当該為替取引分析業者に対して適当な措置をとることが必要であると認める場合には、内閣総理大臣に対し、その旨の意見を述べることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">財務大臣、厚生労働大臣、農林水産大臣又は経済産業大臣は、為替取引分析業者（第二条第二十一項第一号に掲げる行為を業として行う者を除く。）の行う為替取引分析業の適正かつ確実な遂行が確保されていないと疑うに足りる相当な理由があるため、当該為替取引分析業者に対して適当な措置をとることが必要であると認める場合には、内閣総理大臣に対し、その旨の意見を述べることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -5677,7 +7060,7 @@
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">為替取引分析業者が第二条第十八項第一号に掲げる行為を業として行う場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">為替取引分析業者が第二条第二十一項第一号に掲げる行為を業として行う場合</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1" WritingMode="vertical">内閣総理大臣及び財務大臣</Sentence>
@@ -5705,7 +7088,7 @@
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
                   <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">為替取引分析業者が第二条第十八項第一号に掲げる行為を業として行う場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">為替取引分析業者が第二条第二十一項第一号に掲げる行為を業として行う場合</Sentence>
                   </Column>
                   <Column Num="2">
                     <Sentence Num="1" WritingMode="vertical">内閣府令・財務省令</Sentence>
@@ -6402,49 +7785,49 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">会員が前払式支払手段の発行の業務、資金移動業、電子決済手段等取引業又は暗号資産交換業を行うに当たり、この法律その他の法令の規定及び第三号の規則を遵守させるための会員に対する指導、勧告その他の業務</Sentence>
+                <Sentence Num="1" WritingMode="vertical">会員が前払式支払手段の発行の業務、資金移動業、電子決済手段等取引業若しくは暗号資産交換業を行うに当たり、又は電子決済手段・暗号資産サービス仲介業者（会員を所属電子決済手段等取引業者等とするものに限る。第九十二条及び第九十七条を除き、以下この章において同じ。）が電子決済手段・暗号資産サービス仲介業を行うに当たり、この法律その他の法令の規定及び第三号の規則を遵守させるための会員及び電子決済手段・暗号資産サービス仲介業者に対する指導、勧告その他の業務</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">会員の行う前払式支払手段の発行の業務、資金移動業、電子決済手段等取引業又は暗号資産交換業に関し、契約の内容の適正化その他前払式支払手段、資金移動業、電子決済手段等取引業又は暗号資産交換業の利用者の利益の保護を図るために必要な指導、勧告その他の業務</Sentence>
+                <Sentence Num="1" WritingMode="vertical">会員の行う前払式支払手段の発行の業務、資金移動業、電子決済手段等取引業若しくは暗号資産交換業又は電子決済手段・暗号資産サービス仲介業者の行う電子決済手段・暗号資産サービス仲介業に関し、契約の内容の適正化その他前払式支払手段、資金移動業、電子決済手段等取引業、暗号資産交換業又は電子決済手段・暗号資産サービス仲介業の利用者の利益の保護を図るために必要な指導、勧告その他の業務</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">会員の行う前払式支払手段の発行の業務、資金移動業、電子決済手段等取引業又は暗号資産交換業の適正化及びその取り扱う情報の適切な管理を図るために必要な規則の制定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">会員の行う前払式支払手段の発行の業務、資金移動業、電子決済手段等取引業若しくは暗号資産交換業又は電子決済手段・暗号資産サービス仲介業者の行う電子決済手段・暗号資産サービス仲介業の適正化及びその取り扱う情報の適切な管理を図るために必要な規則の制定</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">会員のこの法律若しくはこの法律に基づく命令若しくはこれらに基づく処分又は前号の規則の遵守の状況の調査</Sentence>
+                <Sentence Num="1" WritingMode="vertical">会員及び電子決済手段・暗号資産サービス仲介業者のこの法律若しくはこの法律に基づく命令若しくはこれらに基づく処分又は前号の規則の遵守の状況の調査</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前払式支払手段、資金移動業、電子決済手段等取引業又は暗号資産交換業の利用者の利益を保護するために必要な情報の収集、整理及び提供</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前払式支払手段、資金移動業、電子決済手段等取引業、暗号資産交換業又は電子決済手段・暗号資産サービス仲介業の利用者の利益を保護するために必要な情報の収集、整理及び提供</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">会員の行う前払式支払手段の発行の業務、資金移動業、電子決済手段等取引業又は暗号資産交換業に関する利用者からの苦情の処理</Sentence>
+                <Sentence Num="1" WritingMode="vertical">会員の行う前払式支払手段の発行の業務、資金移動業、電子決済手段等取引業若しくは暗号資産交換業又は電子決済手段・暗号資産サービス仲介業者の行う電子決済手段・暗号資産サービス仲介業に関する利用者からの苦情の処理</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前払式支払手段、資金移動業、電子決済手段等取引業又は暗号資産交換業の利用者に対する広報その他認定資金決済事業者協会の目的を達成するために必要な業務</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前払式支払手段、資金移動業、電子決済手段等取引業、暗号資産交換業又は電子決済手段・暗号資産サービス仲介業の利用者に対する広報その他認定資金決済事業者協会の目的を達成するために必要な業務</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、前払式支払手段の発行の業務、資金移動業、電子決済手段等取引業又は暗号資産交換業の健全な発展及びこれらの利用者の保護に資する業務</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、前払式支払手段の発行の業務、資金移動業、電子決済手段等取引業、暗号資産交換業又は電子決済手段・暗号資産サービス仲介業の健全な発展及びこれらの利用者の保護に資する業務</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -6493,25 +7876,25 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">認定資金決済事業者協会は、前払式支払手段、資金移動業、電子決済手段等取引業又は暗号資産交換業の利用者から会員の行う前払式支払手段の発行の業務、資金移動業、電子決済手段等取引業又は暗号資産交換業に関する苦情について解決の申出があったときは、その相談に応じ、申出人に必要な助言をし、その苦情に係る事情を調査するとともに、当該会員に対しその苦情の内容を通知してその迅速な処理を求めなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">認定資金決済事業者協会は、前払式支払手段、資金移動業、電子決済手段等取引業、暗号資産交換業又は電子決済手段・暗号資産サービス仲介業の利用者から会員の行う前払式支払手段の発行の業務、資金移動業、電子決済手段等取引業若しくは暗号資産交換業又は電子決済手段・暗号資産サービス仲介業者の行う電子決済手段・暗号資産サービス仲介業に関する苦情について解決の申出があったときは、その相談に応じ、申出人に必要な助言をし、その苦情に係る事情を調査するとともに、当該会員又は当該電子決済手段・暗号資産サービス仲介業者に対しその苦情の内容を通知してその迅速な処理を求めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">認定資金決済事業者協会は、前項の申出に係る苦情の解決について必要があると認めるときは、当該会員に対し、文書若しくは口頭による説明を求め、又は資料の提出を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">認定資金決済事業者協会は、前項の申出に係る苦情の解決について必要があると認めるときは、当該会員又は当該電子決済手段・暗号資産サービス仲介業者に対し、文書若しくは口頭による説明を求め、又は資料の提出を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">会員は、認定資金決済事業者協会から前項の規定による求めがあったときは、正当な理由がないのに、これを拒んではならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">会員又は電子決済手段・暗号資産サービス仲介業者は、認定資金決済事業者協会から前項の規定による求めがあったときは、正当な理由がないのに、これを拒んではならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">認定資金決済事業者協会は、第一項の申出、苦情に係る事情及びその解決の結果について会員に周知させなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">認定資金決済事業者協会は、第一項の申出、苦情に係る事情及びその解決の結果について会員又は電子決済手段・暗号資産サービス仲介業者に周知させなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
@@ -6527,7 +7910,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">会員は、前払式支払手段発行者、資金移動業者、電子決済手段等取引業者又は暗号資産交換業者が行った利用者の保護に欠ける行為に関する情報その他利用者の利益を保護するために必要な情報として内閣府令で定めるものを取得したときは、これを認定資金決済事業者協会に報告しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">会員は、前払式支払手段発行者、資金移動業者、電子決済手段等取引業者、暗号資産交換業者又は電子決済手段・暗号資産サービス仲介業者が行った利用者の保護に欠ける行為に関する情報その他利用者の利益を保護するために必要な情報として内閣府令で定めるものを取得したときは、これを認定資金決済事業者協会に報告しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -6595,7 +7978,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、認定資金決済事業者協会の求めに応じ、認定資金決済事業者協会が認定業務を適正に行うために必要な限度において、前払式支払手段発行者、資金移動業者、電子決済手段等取引業者又は暗号資産交換業者に関する情報であって認定業務に資するものとして内閣府令で定める情報を提供することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、認定資金決済事業者協会の求めに応じ、認定資金決済事業者協会が認定業務を適正に行うために必要な限度において、前払式支払手段発行者、資金移動業者、電子決済手段等取引業者、暗号資産交換業者又は電子決済手段・暗号資産サービス仲介業者に関する情報であって認定業務に資するものとして内閣府令で定める情報を提供することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6843,7 +8226,7 @@
                     <Sentence Num="1" WritingMode="vertical">銀行業務等に</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">資金移動業（資金決済に関する法律第三十六条の二第一項に規定する資金移動業をいう。次項において同じ。）、電子決済手段等取引業（同法第二条第十項に規定する電子決済手段等取引業をいう。次項において同じ。）又は暗号資産交換業（同条第十五項に規定する暗号資産交換業をいう。次項において同じ。）に</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">資金移動業（資金決済に関する法律第三十六条の二第一項に規定する資金移動業をいう。次項において同じ。）、電子決済手段等取引業（同法第二条第十項に規定する電子決済手段等取引業をいう。次項において同じ。）、暗号資産交換業（同条第十五項に規定する暗号資産交換業をいう。次項において同じ。）又は電子決済手段・暗号資産サービス仲介業（同条第十八項に規定する電子決済手段・暗号資産サービス仲介業をいう。次項において同じ。）に</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -6854,7 +8237,7 @@
                     <Sentence Num="1" WritingMode="vertical">銀行業務等に</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">資金移動業、電子決済手段等取引業又は暗号資産交換業に</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">資金移動業、電子決済手段等取引業、暗号資産交換業又は電子決済手段・暗号資産サービス仲介業に</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -6865,7 +8248,7 @@
                     <Sentence Num="1" WritingMode="vertical">銀行業務及び電子決済等取扱業務</Sentence>
                   </TableColumn>
                   <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                    <Sentence Num="1" WritingMode="vertical">資金移動業務（資金決済に関する法律第二条第二十五項に規定する資金移動業務をいう。第五十二条の七十三第三項第二号において同じ。）、電子決済手段等取引業務（資金決済に関する法律第二条第二十五項に規定する電子決済手段等取引業務をいう。同号において同じ。）及び暗号資産交換業務（同項に規定する暗号資産交換業務をいう。同号において同じ。）</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">資金移動業務（資金決済に関する法律第二条第二十八項に規定する資金移動業務をいう。第五十二条の七十三第三項第二号において同じ。）、電子決済手段等取引業務（資金決済に関する法律第二条第二十八項に規定する電子決済手段等取引業務をいう。同号において同じ。）及び暗号資産交換業務（同項に規定する暗号資産交換業務をいう。同号において同じ。）</Sentence>
                   </TableColumn>
                 </TableRow>
                 <TableRow>
@@ -7013,7 +8396,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二十四条第一項若しくは第二項、第五十四条第一項若しくは第二項、第六十二条の二十第一項若しくは第二項、第六十三条の十五第一項若しくは第二項、第六十三条の三十五第一項若しくは第二項、第八十条第一項若しくは第二項又は第九十五条の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係者の請求があったときは、これを提示しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二十四条第一項若しくは第二項、第五十四条第一項若しくは第二項、第六十二条の二十第一項若しくは第二項、第六十三条の十五第一項若しくは第二項、第六十三条の二十二の十八第一項若しくは第二項、第六十三条の三十五第一項若しくは第二項、第八十条第一項若しくは第二項又は第九十五条の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係者の請求があったときは、これを提示しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -7029,13 +8412,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">財務大臣は、その所掌に係る金融破綻処理制度及び金融危機管理に関し、前払式支払手段発行者、資金移動業者、電子決済手段等取引業者、暗号資産交換業者、為替取引分析業者（第二条第十八項第一号に掲げる行為を業として行う者を除く。次項において同じ。）又は資金清算機関に係る制度の企画又は立案をするために必要があると認めるときは、内閣総理大臣に対し、必要な資料の提出及び説明を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">財務大臣は、その所掌に係る金融破綻処理制度及び金融危機管理に関し、前払式支払手段発行者、資金移動業者、電子決済手段等取引業者、暗号資産交換業者、電子決済手段・暗号資産サービス仲介業者、為替取引分析業者（第二条第二十一項第一号に掲げる行為を業として行う者を除く。次項において同じ。）又は資金清算機関に係る制度の企画又は立案をするために必要があると認めるときは、内閣総理大臣に対し、必要な資料の提出及び説明を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">財務大臣は、その所掌に係る金融破綻処理制度及び金融危機管理に関し、前払式支払手段発行者、資金移動業者、電子決済手段等取引業者、暗号資産交換業者、為替取引分析業者又は資金清算機関に係る制度の企画又は立案をするため特に必要があると認めるときは、その必要の限度において、前払式支払手段発行者、資金移動業者、電子決済手段等取引業者、暗号資産交換業者、為替取引分析業者、資金清算機関又は認定資金決済事業者協会その他の関係者に対し、資料の提出、説明その他の協力を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">財務大臣は、その所掌に係る金融破綻処理制度及び金融危機管理に関し、前払式支払手段発行者、資金移動業者、電子決済手段等取引業者、暗号資産交換業者、電子決済手段・暗号資産サービス仲介業者、為替取引分析業者又は資金清算機関に係る制度の企画又は立案をするため特に必要があると認めるときは、その必要の限度において、前払式支払手段発行者、資金移動業者、電子決済手段等取引業者、暗号資産交換業者、電子決済手段・暗号資産サービス仲介業者、為替取引分析業者、資金清算機関又は認定資金決済事業者協会その他の関係者に対し、資料の提出、説明その他の協力を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -7094,7 +8477,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">不正の手段により第七条、第三十七条、第六十二条の三若しくは第六十三条の二の登録又は第四十一条第一項若しくは第六十二条の七第一項の変更登録を受けたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">不正の手段により第七条、第三十七条、第六十二条の三、第六十三条の二若しくは第六十三条の二十二の二の登録又は第四十一条第一項、第六十二条の七第一項若しくは第六十三条の二十二の六第一項の変更登録を受けたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -7130,7 +8513,7 @@
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十二条の三の規定に違反して、同条の登録を受けないで電子決済手段等取引業を行ったとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十二条の三の登録を受けないで電子決済手段等取引業を行ったとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
@@ -7166,35 +8549,47 @@
             <Item Num="14">
               <ItemTitle>十四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十三条の二十三の規定に違反して、同条の許可を受けないで為替取引分析業を行ったとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の二十二の六第一項の変更登録を受けないで新たな種別の電子決済手段・暗号資産サービス仲介業を行ったとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="15">
               <ItemTitle>十五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">不正の手段により第六十三条の二十三又は第六十三条の三十三第一項の許可を受けたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の二十二の七の規定に違反して、他人に電子決済手段・暗号資産サービス仲介業を行わせたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="16">
               <ItemTitle>十六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十三条の二十六の規定に違反して、他人に為替取引分析業を行わせたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の二十三の許可を受けないで為替取引分析業を行ったとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="17">
               <ItemTitle>十七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十三条の三十三第一項の許可を受けないで新たな種別の為替取引分析業を行ったとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">不正の手段により第六十三条の二十三又は第六十三条の三十三第一項の許可を受けたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="18">
               <ItemTitle>十八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十四条第一項の規定に違反して、同項の免許を受けないで資金清算業を行ったとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の二十六の規定に違反して、他人に為替取引分析業を行わせたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="19">
               <ItemTitle>十九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の三十三第一項の許可を受けないで新たな種別の為替取引分析業を行ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="20">
+              <ItemTitle>二十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十四条第一項の免許を受けないで資金清算業を行ったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="21">
+              <ItemTitle>二十一</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">不正の手段により第六十四条第一項の免許を受けたとき。</Sentence>
               </ItemSentence>
@@ -7253,17 +8648,23 @@
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十三条の三十七第二項の規定による業務の全部又は一部の停止の命令に違反したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の二十二の二十第一項の規定による電子決済手段・暗号資産サービス仲介業の全部又は一部の停止の命令に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第八十二条第二項の規定による業務の全部又は一部の停止の命令に違反したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の三十七第二項の規定による業務の全部又は一部の停止の命令に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第八十二条第二項の規定による業務の全部又は一部の停止の命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="11">
+              <ItemTitle>十一</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">第九十六条第二項の規定による業務の全部又は一部の停止の命令に違反したとき。</Sentence>
               </ItemSentence>
@@ -7304,47 +8705,53 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十二条、第六十二条の十八、第六十三条の十三若しくは第七十八条の規定による帳簿書類の作成若しくは保存をせず、又は虚偽の帳簿書類の作成をしたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十二条、第六十二条の十八、第六十三条の十三、第六十三条の二十二の十六若しくは第七十八条の規定による帳簿書類の作成若しくは保存をせず、又は虚偽の帳簿書類の作成をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
               <ItemTitle>六</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十三条第一項若しくは第二項、第六十二条の十九第一項若しくは第二項、第六十三条の十四第一項若しくは第二項、第六十三条の三十四若しくは第七十九条の規定による報告書若しくは第五十三条第三項、第六十二条の十九第三項若しくは第四項若しくは第六十三条の十四第三項若しくは第四項の規定による添付書類を提出せず、又は虚偽の記載をした報告書若しくは添付書類を提出したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十三条第一項若しくは第二項、第六十二条の十九第一項若しくは第二項、第六十三条の十四第一項若しくは第二項、第六十三条の二十二の十七、第六十三条の三十四若しくは第七十九条の規定による報告書若しくは第五十三条第三項、第六十二条の十九第三項若しくは第四項若しくは第六十三条の十四第三項若しくは第四項の規定による添付書類を提出せず、又は虚偽の記載をした報告書若しくは添付書類を提出したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十四条第一項若しくは第二項、第六十二条の二十第一項若しくは第二項、第六十三条の十五第一項若しくは第二項、第六十三条の三十五第一項若しくは第二項若しくは第八十条第一項若しくは第二項の規定による報告若しくは資料の提出をせず、又は虚偽の報告若しくは資料の提出をしたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十四条第一項若しくは第二項、第六十二条の二十第一項若しくは第二項、第六十三条の十五第一項若しくは第二項、第六十三条の二十二の十八第一項若しくは第二項、第六十三条の三十五第一項若しくは第二項若しくは第八十条第一項若しくは第二項の規定による報告若しくは資料の提出をせず、又は虚偽の報告若しくは資料の提出をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十四条第一項若しくは第二項、第六十二条の二十第一項若しくは第二項、第六十三条の十五第一項若しくは第二項、第六十三条の三十五第一項若しくは第二項若しくは第八十条第一項若しくは第二項の規定による当該職員の質問に対して答弁をせず、若しくは虚偽の答弁をし、又はこれらの規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十四条第一項若しくは第二項、第六十二条の二十第一項若しくは第二項、第六十三条の十五第一項若しくは第二項、第六十三条の二十二の十八第一項若しくは第二項、第六十三条の三十五第一項若しくは第二項若しくは第八十条第一項若しくは第二項の規定による当該職員の質問に対して答弁をせず、若しくは虚偽の答弁をし、又はこれらの規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十二条の十七第一項において準用する金融商品取引法（以下「準用金融商品取引法」という。）第三十八条（第一号に係る部分に限る。）の規定に違反したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十二条の十七第一項又は第六十三条の二十二の十五第一項において準用する金融商品取引法（以下「準用金融商品取引法」という。）第三十八条（第一号に係る部分に限る。）の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十三条の九の三の規定に違反して、同条第一号に掲げる行為をしたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十二条の二十一の二又は第六十三条の十六の二の規定による命令に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="11">
               <ItemTitle>十一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十三条の二十四第一項（第六十三条の三十三第三項において準用する場合を含む。）の規定による許可申請書又は第六十三条の二十四第二項（第六十三条の三十三第三項において準用する場合を含む。）の規定による添付書類に虚偽の記載をして提出したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の九の三（第六十三条の二十二の十五第二項において準用する場合を含む。以下この号において同じ。）の規定に違反して、第六十三条の九の三第一号に掲げる行為をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="12">
               <ItemTitle>十二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の二十四第一項（第六十三条の三十三第三項において準用する場合を含む。）の規定による許可申請書又は第六十三条の二十四第二項（第六十三条の三十三第三項において準用する場合を含む。）の規定による添付書類に虚偽の記載をして提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="13">
+              <ItemTitle>十三</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">第六十五条第一項の規定による免許申請書又は同条第二項の規定による添付書類に虚偽の記載をして提出したとき。</Sentence>
               </ItemSentence>
@@ -7367,7 +8774,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十二条の十三の規定に違反したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十二条の十三又は第六十三条の二十二の十三の規定に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -7397,7 +8804,7 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第八条第一項の規定による登録申請書若しくは同条第二項の規定による添付書類、第三十八条第一項（第四十一条第二項において準用する場合を含む。）の規定による登録申請書若しくは第三十八条第二項（第四十一条第二項において準用する場合を含む。）の規定による添付書類、第六十二条の四第一項（第六十二条の七第二項において準用する場合を含む。）の規定による登録申請書若しくは第六十二条の四第二項（第六十二条の七第二項において準用する場合を含む。）の規定による添付書類又は第六十三条の三第一項の規定による登録申請書若しくは同条第二項の規定による添付書類に虚偽の記載をして提出したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第八条第一項の規定による登録申請書若しくは同条第二項の規定による添付書類、第三十八条第一項（第四十一条第二項において準用する場合を含む。）の規定による登録申請書若しくは第三十八条第二項（第四十一条第二項において準用する場合を含む。）の規定による添付書類、第六十二条の四第一項（第六十二条の七第二項において準用する場合を含む。）の規定による登録申請書若しくは第六十二条の四第二項（第六十二条の七第二項において準用する場合を含む。）の規定による添付書類、第六十三条の三第一項の規定による登録申請書若しくは同条第二項の規定による添付書類又は第六十三条の二十二の三第一項（第六十三条の二十二の六第二項において準用する場合を含む。）の規定による登録申請書若しくは第六十三条の二十二の三第二項（第六十三条の二十二の六第二項において準用する場合を含む。）の規定による添付書類に虚偽の記載をして提出したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
@@ -7463,13 +8870,13 @@
             <Item Num="13">
               <ItemTitle>十三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十三条の九の二に規定する事項を表示しなかったとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の九の二（第六十三条の二十二の十五第二項において準用する場合を含む。）に規定する事項を表示しなかったとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="14">
               <ItemTitle>十四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十三条の九の三の規定に違反して、同条第二号又は第三号に掲げる行為をしたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十三条の九の三（第六十三条の二十二の十五第二項において準用する場合を含む。以下この号において同じ。）の規定に違反して、第六十三条の九の三第二号又は第三号に掲げる行為をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="15">
@@ -7496,7 +8903,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十五条、第六十二条の二十一、第六十三条の十六、第六十三条の三十六、第八十一条又は第九十六条第一項の規定による命令に違反したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十五条、第六十二条の二十一、第六十三条の十六、第六十三条の二十二の十九、第六十三条の三十六、第八十一条又は第九十六条第一項の規定による命令に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -7517,7 +8924,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五条第三項、第十一条第一項、第十一条の二第一項若しくは第二項、第四十条の二第二項、第四十一条第三項若しくは第四項、第六十二条の七第三項若しくは第四項若しくは第六十三条の六第一項若しくは第二項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第三項、第十一条第一項、第十一条の二第一項若しくは第二項、第四十条の二第二項、第四十一条第三項若しくは第四項、第六十二条の七第三項若しくは第四項、第六十三条の六第一項若しくは第二項若しくは第六十三条の二十二の六第三項若しくは第四項の規定による届出をせず、又は虚偽の届出をしたとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -7587,7 +8994,7 @@
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">第百八条（第一号及び第十号を除く。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第百八条（第一号及び第十一号を除く。）</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">三億円以下の罰金刑</Sentence>
@@ -7620,7 +9027,7 @@
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
                 <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">第百七条、第百八条第一号若しくは第十号、第百九条第一号、第百十二条第一号、第二号若しくは第九号から第十六号まで、第百十三条又は前条</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第百七条、第百八条第一号若しくは第十一号、第百九条第一号、第百十二条第一号、第二号若しくは第九号から第十六号まで、第百十三条又は前条</Sentence>
                 </Column>
                 <Column Num="2">
                   <Sentence Num="1" WritingMode="vertical">各本条の罰金刑</Sentence>
@@ -7672,7 +9079,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十三条第一項、第六十一条第一項若しくは第四項、第六十二条の二十五第一項若しくは第四項若しくは第六十三条の二十第一項若しくは第四項の規定による届出をせず、又は虚偽の届出をした者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十三条第一項、第六十一条第一項若しくは第四項、第六十二条の二十五第一項若しくは第四項、第六十三条の二十第一項若しくは第四項若しくは第六十三条の二十二の二十三第一項若しくは第二項の規定による届出をせず、又は虚偽の届出をした者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -8968,6 +10375,33 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="2">
+        <ArticleCaption>（経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現にこの法律による改正後の資金決済に関する法律（次項及び附則第九条において「新資金決済法」という。）第二条の二の規定により為替取引に該当するものとされる行為（この法律による改正前の資金決済に関する法律第二条の二の規定により為替取引に該当するものとされる行為を除く。同項において同じ。）を業として営んでいる者は、この法律の施行の日から起算して六月間（資金決済に関する法律第三十七条の登録の申請をした場合において、当該期間内にその申請について同法第四十条第一項の規定による登録の拒否の処分があったときは、当該処分のあった日までの間）は、銀行法（昭和五十六年法律第五十九号）第四条第一項及び第四十七条第一項並びに資金決済に関する法律第三十七条の規定にかかわらず、当該行為を業として営むことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定により新資金決済法第二条の二の規定により為替取引に該当するものとされる行為を業として営むことができる者がこの法律の施行の日から起算して六月間を経過する日までに資金決済に関する法律第三十七条の登録の申請をした場合において、その申請について登録又は登録の拒否の処分が行われることなく、その期間を経過したときは、その申請についてこれらの処分があるまでの間も、同項と同様とする。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、この法律の施行の日から起算して二年を経過したときは、この限りでない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="8">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第八条</ArticleTitle>
@@ -8975,6 +10409,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第二条及び前条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後三年を目途として、新資金決済法の施行の状況等を勘案し、必要があると認めるときは、新資金決済法第二条の二第二号に該当する行為の範囲その他新資金決済法の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
