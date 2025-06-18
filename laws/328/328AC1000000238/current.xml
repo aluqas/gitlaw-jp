@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Lang="ja" Era="Showa" Year="28" Num="238" PromulgateMonth="8" PromulgateDay="18" LawType="Act"><LawNum>昭和二十八年法律第二百三十八号</LawNum>
-  
-  <LawBody>
-    <LawTitle Kana="こうとうがっこうのていじせいきょういくおよびつうしんきょういくしんこうほう" Abbrev="" AbbrevKana="">高等学校の定時制教育及び通信教育振興法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="28" Num="238" PromulgateMonth="08" PromulgateDay="18" LawType="Act"><LawNum>昭和二十八年法律第二百三十八号</LawNum><LawBody><LawTitle Kana="こうとうがっこうのていじせいきょういくおよびつうしんきょういくしんこうほう" Abbrev="" AbbrevKana="">高等学校の定時制教育及び通信教育振興法</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（この法律の目的）</ArticleCaption>
@@ -86,12 +83,12 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">地方自治法（昭和二十二年法律第六十七号）第二百四条第二項の規定により支給することができる定時制通信教育手当は、公立の高等学校の校長、副校長、教頭、主幹教諭、指導教諭、教員（教諭、養護教諭、助教諭、養護助教諭及び講師（常時勤務の者並びに地方公務員法（昭和二十五年法律第二百六十一号）第二十二条の四第一項に規定する短時間勤務の職を占める者及び同法第二十二条の二第一項第二号に掲げる者に限る。）をいう。以下この条において同じ。）及び実習助手のうち次に掲げる者を対象とするものとし、その内容は、条例で定める。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">地方自治法（昭和二十二年法律第六十七号）第二百四条第二項の規定により支給することができる定時制通信教育手当は、公立の高等学校の校長、副校長、教頭、主幹教諭（栄養の指導及び管理をつかさどるものを除く。以下この条において同じ。）、指導教諭、主務教諭（栄養の指導及び管理をつかさどるものを除く。以下この条において同じ。）、教員（教諭、養護教諭、助教諭、養護助教諭及び講師（常時勤務の者並びに地方公務員法（昭和二十五年法律第二百六十一号）第二十二条の四第一項に規定する短時間勤務の職を占める者及び同法第二十二条の二第一項第二号に掲げる者に限る。）をいう。以下この条において同じ。）及び実習助手のうち次に掲げる者を対象とするものとし、その内容は、条例で定める。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">公立の高等学校で、定時制の課程又は通信制の課程を置くものの校長（本務として当該高等学校の校長（中等教育学校の後期課程にあつては、当該課程の属する中等教育学校の校長とする。）の職にある者に限る。）、副校長（本務として定時制の課程又は通信制の課程に関する校務をつかさどる者に限る。）、教頭（定時制の課程又は通信制の課程に関する校務を整理する者に限る。）、主幹教諭（本務として定時制の課程若しくは通信制の課程に関する校務の一部を整理する者又は本務として定時制教育若しくは通信教育に従事する者に限る。）、指導教諭（本務として定時制教育又は通信教育に従事する者に限る。）及び教員（本務として定時制教育又は通信教育に従事する者に限る。）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">公立の高等学校で、定時制の課程又は通信制の課程を置くものの校長（本務として当該高等学校の校長（中等教育学校の後期課程にあつては、当該課程の属する中等教育学校の校長とする。）の職にある者に限る。）、副校長（本務として定時制の課程又は通信制の課程に関する校務をつかさどる者に限る。）、教頭（定時制の課程又は通信制の課程に関する校務を整理する者に限る。）、主幹教諭（本務として定時制の課程若しくは通信制の課程に関する校務の一部を整理する者又は本務として定時制教育若しくは通信教育に従事する者に限る。）、指導教諭（本務として定時制教育又は通信教育に従事する者に限る。）、主務教諭（本務として定時制教育又は通信教育に従事する者に限る。）及び教員（本務として定時制教育又は通信教育に従事する者に限る。）</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
@@ -432,6 +429,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一八日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
