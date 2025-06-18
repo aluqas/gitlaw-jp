@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="36" Num="188" PromulgateMonth="11" PromulgateDay="6" LawType="Act"><LawNum>昭和三十六年法律第百八十八号</LawNum>
-  
-  <LawBody>
-    <LawTitle Kana="こうりつこうとうがっこうのてきせいはいちおよびきょうしょくいんていすうのひょうじゅんとうにかんするほうりつ" Abbrev="高校標準法,高等学校標準法" AbbrevKana="こ,こ">公立高等学校の適正配置及び教職員定数の標準等に関する法律</LawTitle>
+<Law Lang="ja" Era="Showa" Year="36" Num="188" PromulgateMonth="11" PromulgateDay="06" LawType="Act"><LawNum>昭和三十六年法律第百八十八号</LawNum><LawBody><LawTitle Kana="こうりつこうとうがっこうのてきせいはいちおよびきょうしょくいんていすうのひょうじゅんとうにかんするほうりつ" Abbrev="高校標準法,高等学校標準法" AbbrevKana="こ,こ">公立高等学校の適正配置及び教職員定数の標準等に関する法律</LawTitle>
     <MainProvision>
       <Chapter Num="1">
         <ChapterTitle>第一章　総則</ChapterTitle>
@@ -22,7 +19,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において、「教職員」とは、校長（中等教育学校の校長を除き、特別支援学校の高等部にあつては、当該部のみを置く特別支援学校の校長とする。以下同じ。）、副校長、教頭、主幹教諭、指導教諭、教諭、養護教諭、助教諭、養護助教諭、講師、実習助手、寄宿舎指導員及び事務職員（それぞれ常勤の者に限る。第二十三条を除き、以下同じ。）をいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において、「教職員」とは、校長（中等教育学校の校長を除き、特別支援学校の高等部にあつては、当該部のみを置く特別支援学校の校長とする。以下同じ。）、副校長、教頭、主幹教諭（栄養の指導及び管理をつかさどるものを除く。以下同じ。）、指導教諭、主務教諭（栄養の指導及び管理をつかさどるものを除く。以下同じ。）、教諭、養護教諭、助教諭、養護助教諭、講師、実習助手、寄宿舎指導員及び事務職員（それぞれ常勤の者に限る。第二十三条を除き、以下同じ。）をいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -116,7 +113,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">副校長、教頭、主幹教諭（養護をつかさどる主幹教諭を除く。）、指導教諭、教諭、助教諭及び講師（以下「教諭等」という。）の数は、次に定めるところにより算定した数を合計した数とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">副校長、教頭、主幹教諭（養護をつかさどる主幹教諭を除く。）、指導教諭、主務教諭（養護をつかさどる主務教諭を除く。）、教諭、助教諭及び講師（以下「教諭等」という。）の数は、次に定めるところにより算定した数を合計した数とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -709,7 +706,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">養護をつかさどる主幹教諭、養護教諭及び養護助教諭（以下「養護教諭等」という。）の数は、次に定めるところにより算定した数を合計した数とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">養護をつかさどる主幹教諭及び主務教諭、養護教諭並びに養護助教諭（以下「養護教諭等」という。）の数は、次に定めるところにより算定した数を合計した数とする。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1136,7 +1133,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第八条から第十二条まで又は第十六条から第二十一条までに定めるところにより算定した教職員の数は、政令で定めるところにより、公立の高等学校（中等教育学校の後期課程を含む。）又は特別支援学校の高等部に置く校長、副校長、教頭、主幹教諭、指導教諭、教諭、養護教諭、助教諭、養護助教諭、講師、実習助手、寄宿舎指導員又は事務職員で地方公務員法（昭和二十五年法律第二百六十一号）第二十二条の四第一項に規定する短時間勤務の職を占める者の数に換算することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第八条から第十二条まで又は第十六条から第二十一条までに定めるところにより算定した教職員の数は、政令で定めるところにより、公立の高等学校（中等教育学校の後期課程を含む。）又は特別支援学校の高等部に置く校長、副校長、教頭、主幹教諭、指導教諭、主務教諭、教諭、養護教諭、助教諭、養護助教諭、講師、実習助手、寄宿舎指導員又は事務職員で地方公務員法（昭和二十五年法律第二百六十一号）第二十二条の四第一項に規定する短時間勤務の職を占める者の数に換算することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1694,6 +1691,19 @@
           <ParagraphSentence>
             <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、附則第二項の改正規定並びに次条及び附則第五条から第九条までの規定は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一八日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

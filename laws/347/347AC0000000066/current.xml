@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="066" Year="47" PromulgateMonth="06" PromulgateDay="15"><LawNum>昭和四十七年法律第六十六号</LawNum><LawBody><LawTitle Kana="こうゆうちのかくだいのすいしんにかんするほうりつ" Abbrev="公有地拡大推進法,公拡法" AbbrevKana="こ,こ">公有地の拡大の推進に関する法律</LawTitle>
+<Law Lang="ja" Era="Showa" Year="47" Num="066" PromulgateMonth="06" PromulgateDay="15" LawType="Act"><LawNum>昭和四十七年法律第六十六号</LawNum><LawBody><LawTitle Kana="こうゆうちのかくだいのすいしんにかんするほうりつ" Abbrev="公有地拡大推進法,公拡法" AbbrevKana="こ,こ">公有地の拡大の推進に関する法律</LawTitle>
     <MainProvision>
       <Chapter Num="1">
         <ChapterTitle>第一章　総則</ChapterTitle>
@@ -2231,7 +2231,7 @@
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">第二条（就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律の一部を改正する法律附則第五条の改正規定（同条第一項中「、主幹保育教諭、指導保育教諭」を削る部分を除く。）に限る。）及び第三条（教育職員免許法附則第十八項の改正規定に限る。）の規定並びに次条及び附則第八条の規定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二条（就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律の一部を改正する法律附則第五条の改正規定（同条第一項中「、主幹保育教諭、指導保育教諭、主務保育教諭」を削る部分を除く。）に限る。）及び第三条（教育職員免許法附則第十八項の改正規定に限る。）の規定並びに次条及び附則第八条の規定</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
@@ -2278,6 +2278,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一八日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

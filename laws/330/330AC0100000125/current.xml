@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="125" Year="30" PromulgateMonth="08" PromulgateDay="05">
-  <LawNum>昭和三十年法律第百二十五号</LawNum>
-  <LawBody>
-    <LawTitle Kana="じょしきょうしょくいんのしゅっさんにさいしてのほじょきょうしょくいんのかくほにかんするほうりつ" Abbrev="産休法" AbbrevKana="さ">女子教職員の出産に際しての補助教職員の確保に関する法律</LawTitle>
+<Law Lang="ja" Era="Showa" Year="30" Num="125" PromulgateMonth="08" PromulgateDay="05" LawType="Act"><LawNum>昭和三十年法律第百二十五号</LawNum><LawBody><LawTitle Kana="じょしきょうしょくいんのしゅっさんにさいしてのほじょきょうしょくいんのかくほにかんするほうりつ" Abbrev="産休法" AbbrevKana="さ">女子教職員の出産に際しての補助教職員の確保に関する法律</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（目的）</ArticleCaption>
@@ -26,7 +23,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律において「教職員」とは、校長（園長を含む。以下同じ。）、副校長（副園長を含む。）、教頭、主幹教諭（幼保連携型認定こども園の主幹養護教諭及び主幹栄養教諭を含む。）、指導教諭、教諭、養護教諭、栄養教諭、主幹保育教諭、指導保育教諭、保育教諭、助教諭、養護助教諭、助保育教諭、講師（常時勤務の者及び地方公務員法（昭和二十五年法律第二百六十一号）第二十二条の四第一項に規定する短時間勤務の職を占める者に限る。）、実習助手、寄宿舎指導員、学校栄養職員（学校給食法（昭和二十九年法律第百六十号）第七条に規定する職員のうち栄養の指導及び管理をつかさどる主幹教諭並びに栄養教諭以外の者をいう。以下同じ。）及び事務職員をいう。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律において「教職員」とは、校長（園長を含む。以下同じ。）、副校長（副園長を含む。）、教頭、主幹教諭（幼保連携型認定こども園の主幹養護教諭及び主幹栄養教諭を含む。）、指導教諭、主務教諭（幼保連携型認定こども園の主務養護教諭及び主務栄養教諭を含む。）、教諭、養護教諭、栄養教諭、主幹保育教諭、指導保育教諭、主務保育教諭、保育教諭、助教諭、養護助教諭、助保育教諭、講師（常時勤務の者及び地方公務員法（昭和二十五年法律第二百六十一号）第二十二条の四第一項に規定する短時間勤務の職を占める者に限る。）、実習助手、寄宿舎指導員、学校栄養職員（学校給食法（昭和二十九年法律第百六十号）第七条に規定する職員のうち栄養の指導及び管理をつかさどる主幹教諭及び主務教諭並びに栄養教諭以外の者をいう。以下同じ。）及び事務職員をいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -415,6 +412,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一八日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

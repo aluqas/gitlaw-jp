@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="157" Year="29" PromulgateMonth="06" PromulgateDay="03"><LawNum>昭和二十九年法律第百五十七号</LawNum><LawBody><LawTitle Kana="ぎむきょういくしょがっこうにおけるきょういくのせいじてきちゅうりつのかくほにかんするりんじそちほう" Abbrev="中確法,義務教育中立法" AbbrevKana="ち,ぎ">義務教育諸学校における教育の政治的中立の確保に関する臨時措置法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="29" Num="157" PromulgateMonth="06" PromulgateDay="03" LawType="Act"><LawNum>昭和二十九年法律第百五十七号</LawNum><LawBody><LawTitle Kana="ぎむきょういくしょがっこうにおけるきょういくのせいじてきちゅうりつのかくほにかんするりんじそちほう" Abbrev="中確法,義務教育中立法" AbbrevKana="ち,ぎ">義務教育諸学校における教育の政治的中立の確保に関する臨時措置法</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（この法律の目的）</ArticleCaption>
@@ -23,7 +23,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律において「教育職員」とは、校長、副校長若しくは教頭（中等教育学校の前期課程又は特別支援学校の小学部若しくは中学部にあつては、当該課程の属する中等教育学校又は当該部の属する特別支援学校の校長、副校長又は教頭とする。）又は主幹教諭、指導教諭、教諭、助教諭若しくは講師をいう。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律において「教育職員」とは、校長、副校長若しくは教頭（中等教育学校の前期課程又は特別支援学校の小学部若しくは中学部にあつては、当該課程の属する中等教育学校又は当該部の属する特別支援学校の校長、副校長又は教頭とする。）又は主幹教諭、指導教諭、主務教諭、教諭、助教諭若しくは講師をいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -290,6 +290,19 @@
           </ItemSentence>
         </Item>
       </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一八日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
     </SupplProvision>
   </LawBody>
 </Law>

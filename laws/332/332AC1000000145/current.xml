@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Law Lang="ja" Era="Showa" Year="32" Num="145" PromulgateMonth="5" PromulgateDay="31" LawType="Act"><LawNum>昭和三十二年法律第百四十五号</LawNum>
-  
-  <LawBody>
-    <LawTitle Kana="のうぎょうすいさんこうぎょうまたはしょうせんにかかるさんぎょうきょういくにじゅうじするこうりつのこうとうがっこうのきょういんおよびじっしゅうじょしゅにたいするさんぎょうきょういくてあてのしきゅうにかんするほうりつ" Abbrev="" AbbrevKana="">農業、水産、工業又は商船に係る産業教育に従事する公立の高等学校の教員及び実習助手に対する産業教育手当の支給に関する法律</LawTitle>
+<Law Lang="ja" Era="Showa" Year="32" Num="145" PromulgateMonth="05" PromulgateDay="31" LawType="Act"><LawNum>昭和三十二年法律第百四十五号</LawNum><LawBody><LawTitle Kana="のうぎょうすいさんこうぎょうまたはしょうせんにかかるさんぎょうきょういくにじゅうじするこうりつのこうとうがっこうのきょういんおよびじっしゅうじょしゅにたいするさんぎょうきょういくてあてのしきゅうにかんするほうりつ" Abbrev="" AbbrevKana="">農業、水産、工業又は商船に係る産業教育に従事する公立の高等学校の教員及び実習助手に対する産業教育手当の支給に関する法律</LawTitle>
     <MainProvision>
       <Article Num="1">
         <ArticleCaption>（この法律の趣旨）</ArticleCaption>
@@ -20,7 +17,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律において「教員」とは、副校長、教頭、主幹教諭、指導教諭、教諭、助教諭又は講師（常時勤務の者並びに地方公務員法（昭和二十五年法律第二百六十一号）第二十二条の四第一項に規定する短時間勤務の職を占める者及び同法第二十二条の二第一項第二号に掲げる者に限る。）をいう。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律において「教員」とは、副校長、教頭、主幹教諭、指導教諭、主務教諭、教諭、助教諭又は講師（常時勤務の者並びに地方公務員法（昭和二十五年法律第二百六十一号）第二十二条の四第一項に規定する短時間勤務の職を占める者及び同法第二十二条の二第一項第二号に掲げる者に限る。）をいう。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -35,7 +32,7 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">農業、水産、工業、電波又は商船に関する課程を置く公立の高等学校の教員のうち高等学校の農業若しくは農業実習、水産若しくは水産実習、工業若しくは工業実習又は商船若しくは商船実習の教諭又は助教諭の免許状を有する者（教育職員免許法（昭和二十四年法律第百四十七号）附則第二項の規定により高等学校の農業、農業実習、水産、水産実習、工業、工業実習、商船又は商船実習を担任する主幹教諭、指導教諭又は教諭の職にあることができる者を含む。）であつて、当該農業、水産、工業、電波又は商船に関する課程において実習を伴う農業、水産、工業、電波又は商船に関する科目を主として担任するもの</Sentence>
+              <Sentence Num="1" WritingMode="vertical">農業、水産、工業、電波又は商船に関する課程を置く公立の高等学校の教員のうち高等学校の農業若しくは農業実習、水産若しくは水産実習、工業若しくは工業実習又は商船若しくは商船実習の教諭又は助教諭の免許状を有する者（教育職員免許法（昭和二十四年法律第百四十七号）附則第二項の規定により高等学校の農業、農業実習、水産、水産実習、工業、工業実習、商船又は商船実習を担任する主幹教諭、指導教諭、主務教諭又は教諭の職にあることができる者を含む。）であつて、当該農業、水産、工業、電波又は商船に関する課程において実習を伴う農業、水産、工業、電波又は商船に関する科目を主として担任するもの</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
@@ -270,6 +267,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、令和五年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一八日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
