@@ -9530,7 +9530,7 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">日本国内に住所を有するとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">日本国内に滞在するとき。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
@@ -9542,7 +9542,13 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">最後に国民年金の被保険者の資格を喪失した日（同日において日本国内に住所を有していた者にあつては、同日後初めて、日本国内に住所を有しなくなつた日）から起算して二年を経過しているとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第二十六条第一項の規定による再入国の許可（同法第二十六条の二第一項（日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号）第二十三条第二項において準用する場合を含む。）又は第二十六条の三第一項の規定により当該許可を受けたものとみなされる場合を含む。）を受けているとき。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">最後に国民年金の被保険者の資格を喪失した日（同日において第一号又は前号に該当していた者にあつては、同日後初めて、第一号又は前号のいずれにも該当しなくなつた日）から起算して二年を経過しているとき。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -31916,6 +31922,22 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">平成二十四年機能強化法附則第十六条の規定により厚生年金保険法第十二条（第五号に係る部分に限る。）の規定を適用しないこととされた者であって、附則第一条第一項第九号に掲げる規定の施行の日（以下「第九号施行日」という。）まで引き続き厚生年金保険の被保険者の資格を有するものについては、第三条の規定（同号に掲げる改正規定に限る。）による改正後の厚生年金保険法（附則第二十三条第三項において「第九号改正後厚年法」という。）附則第四条の六の規定は、第九号施行日以後引き続き平成二十四年機能強化法附則第一条第五号に掲げる規定の施行の日（附則第三十八条において「年金機能強化法第五号施行日」という。）において使用されていた事業所又は事務所に使用されている間は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleCaption>（厚生年金保険法による脱退一時金の支給の請求に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第四条の規定（附則第一条第一項第十二号に掲げる改正規定に限る。以下この項において同じ。）による改正後の厚生年金保険法（次項において「第十二号改正後厚年法」という。）附則第二十九条第一項ただし書の規定は、第十二号施行日以後に行われる同項の規定による脱退一時金の支給の請求について適用し、第十二号施行日前に行われた第四条の規定による改正前の厚生年金保険法附則第二十九条第一項の規定による脱退一時金の支給の請求については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">厚生年金保険法附則第二十九条第一項本文に規定する者であって第十二号施行日において六十歳以上であるものが第十二号施行日以後に行う第十二号改正後厚年法附則第二十九条第一項の規定による脱退一時金の支給の請求については、同項ただし書及び前項の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
