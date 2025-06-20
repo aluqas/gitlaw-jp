@@ -582,7 +582,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">事業主は、政令で定めるところにより、給付に充てるべき積立金（以下「積立金」という。）について、次の各号のいずれかに掲げる契約を締結しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">事業主は、政令で定めるところにより、給付に充てるべき積立金（第五十四条の二第一項並びに第六十二条第一項第五号及び第四項第八号を除き、以下「積立金」という。）について、次の各号のいずれかに掲げる契約を締結しなければならない。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
@@ -2012,7 +2012,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">企業型年金の資産管理機関は、政令で定めるところにより、脱退一時金相当額等（確定給付企業年金の脱退一時金相当額（確定給付企業年金法第八十一条の二第一項に規定する脱退一時金相当額をいう。）又は企業年金連合会の規約で定める積立金（確定給付企業年金法第五十九条に規定する積立金をいう。）をいう。以下同じ。）の移換を受けることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">企業型年金の資産管理機関は、政令で定めるところにより、脱退一時金相当額等（確定給付企業年金の脱退一時金相当額（確定給付企業年金法第八十一条の二第一項に規定する脱退一時金相当額をいう。第六十二条第一項第五号及び第四項第八号において同じ。）又は企業年金連合会の規約で定める積立金（同法第五十九条に規定する積立金をいう。第六十二条第一項第五号及び第四項第八号において同じ。）をいう。以下同じ。）の移換を受けることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2365,7 +2365,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">国民年金法第七条第一項第二号に規定する第二号被保険者（企業型年金加入者掛金を拠出する企業型年金加入者その他政令で定める者（第四項第六号において「企業型掛金拠出者等」という。）を除く。）</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国民年金法第七条第一項第二号に規定する第二号被保険者（企業型年金加入者掛金を拠出する企業型年金加入者その他政令で定める者（第五号及び第四項第七号において「企業型掛金拠出者等」という。）を除く。）</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
@@ -2378,6 +2378,12 @@
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
                   <Sentence Num="1" WritingMode="vertical">国民年金法附則第五条第一項の規定による被保険者（同項第一号に掲げる者を除く。）</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">前各号に掲げる者に該当しない六十歳以上七十歳未満の者であって、申出の日の前日において個人型年金加入者であったもの若しくは個人型年金運用指図者であったもの、第八十二条第一項の規定による個人別管理資産の移換の申出をしたもの、確定給付企業年金法第八十二条の三第一項の規定による脱退一時金相当額の移換の申出をしようとするもの、同法第八十二条の四第一項の規定による残余財産（同法第八十九条第六項に規定する残余財産をいう。以下同じ。）の移換の申出をしようとするもの又は同法第九十一条の二十八第一項の規定による積立金の移換の申出をしようとするもの（企業型掛金拠出者等を除く。）</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -2395,7 +2401,7 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">国民年金法又は厚生年金保険法による老齢を支給事由とする年金たる給付その他の老齢又は退職を支給事由とする年金である給付であって政令で定めるものの受給権を有する者</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国民年金法の規定による老齢基礎年金を受ける権利の裁定を受けた者</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -2408,7 +2414,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">個人型年金加入者は、次の各号のいずれかに該当するに至った日（第一号に該当するに至ったときは、その翌日とし、第四号に該当するに至ったときは、当該保険料を納付することを要しないものとされた月の初日とし、第六号（企業型年金加入者掛金を拠出する企業型年金加入者に限る。）に該当するに至ったときは、企業型年金加入者掛金を拠出した月の初日とする。）に、個人型年金加入者の資格を喪失する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">個人型年金加入者は、次の各号のいずれかに該当するに至った日（第一号に該当するに至ったときは、その翌日とし、第五号に該当するに至ったときは、当該保険料を納付することを要しないものとされた月の初日とし、第七号（企業型年金加入者掛金を拠出する企業型年金加入者に限る。）に該当するに至ったときは、企業型年金加入者掛金を拠出した月の初日とし、第八号に該当するに至ったときは、厚生労働省令で定める期間を経過した日とする。）に、個人型年金加入者の資格を喪失する。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
@@ -2419,50 +2425,62 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">国民年金の被保険者の資格を喪失したとき（前号に掲げる場合を除く。）。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">国民年金の被保険者の資格を喪失したとき（当該資格を喪失した日に第五号加入者（個人型年金加入者であって、第一項第五号に掲げるものをいう。以下同じ。）である場合及び前号に掲げる場合を除く。）。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第六十四条第二項の規定により個人型年金運用指図者となったとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第五号加入者が七十歳に達したとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
                 <ItemTitle>四</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">保険料免除者となったとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第六十四条第二項の規定により個人型年金運用指図者となったとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">農業者年金の被保険者となったとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">保険料免除者となったとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="6">
                 <ItemTitle>六</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">企業型掛金拠出者等となったとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">農業者年金の被保険者となったとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="7">
                 <ItemTitle>七</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">個人型年金の老齢給付金の受給権を有する者となったとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">企業型掛金拠出者等となったとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">第二項第二号に掲げる者となったとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第五号加入者（確定給付企業年金法第八十二条の三第一項の規定による脱退一時金相当額の移換の申出をしようとする者、同法第八十二条の四第一項の規定による残余財産の移換の申出をしようとする者又は同法第九十一条の二十八第一項の規定による積立金の移換の申出をしようとする者に限る。）が個人型年金加入者の資格を取得した後、厚生労働省令で定める期間内に、これらの申出をしなかったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="9">
+                <ItemTitle>九</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">個人型年金の老齢給付金の受給権を有する者となったとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="10">
+                <ItemTitle>十</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">国民年金法の規定による老齢基礎年金を受ける権利の裁定を受けたとき。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">個人型年金加入者の資格を取得した月にその資格を喪失した者は、その資格を取得した日に遡って、個人型年金加入者でなかったものとみなす。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">個人型年金加入者の資格を取得した月にその資格を喪失した者及び前項第八号に該当することにより個人型年金加入者の資格を喪失した者は、その資格を取得した日に遡って、個人型年金加入者でなかったものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2488,7 +2506,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十二条第四項各号（第一号及び第三号を除く。）のいずれかに該当するに至ったことにより個人型年金加入者の資格を喪失した者（個人型年金に個人別管理資産がある者に限る。）は、個人型年金運用指図者とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十二条第四項各号（第一号及び第四号を除く。）のいずれかに該当するに至ったことにより個人型年金加入者の資格を喪失した者（個人型年金に個人別管理資産がある者に限る。）は、個人型年金運用指図者とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2530,7 +2548,7 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十二条第五項の規定は個人型年金運用指図者の資格について、前条の規定は個人型年金運用指図者期間を計算する場合について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第六十二条第五項の規定（同条第四項第八号に該当することにより個人型年金加入者の資格を喪失した者に係る部分を除く。）は個人型年金運用指図者の資格について、前条の規定は個人型年金運用指図者期間を計算する場合について準用する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2663,7 +2681,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">一年間の個人型年金加入者掛金の額（中小事業主が中小事業主掛金を拠出する場合にあっては、個人型年金加入者掛金の額と中小事業主掛金の額との合計額。以下この条において同じ。）の総額は、拠出限度額（一年間に拠出することができる個人型年金加入者掛金の額の総額の上限として、個人型年金加入者の種別（第一号加入者（個人型年金加入者であって、第六十二条第一項第一号に掲げるものをいう。）、第二号加入者（個人型年金加入者であって、同項第二号に掲げるものをいう。以下同じ。）、第三号加入者（個人型年金加入者であって、同項第三号に掲げるものをいう。）又は第四号加入者（個人型年金加入者であって、同項第四号に掲げるものをいう。）の区別をいう。）、国民年金基金の掛金の額、企業型年金加入者又は確定給付企業年金の加入者の資格の有無、事業主掛金の額等を勘案して政令で定める額をいう。）を超えてはならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">一年間の個人型年金加入者掛金の額（中小事業主が中小事業主掛金を拠出する場合にあっては、個人型年金加入者掛金の額と中小事業主掛金の額との合計額。以下この条において同じ。）の総額は、拠出限度額（一年間に拠出することができる個人型年金加入者掛金の額の総額の上限として、個人型年金加入者の種別（第一号加入者（個人型年金加入者であって、第六十二条第一項第一号に掲げるものをいう。）、第二号加入者（個人型年金加入者であって、同項第二号に掲げるものをいう。以下同じ。）、第三号加入者（個人型年金加入者であって、同項第三号に掲げるものをいう。）、第四号加入者（個人型年金加入者であって、同項第四号に掲げるものをいう。）又は第五号加入者の区別をいう。）、国民年金基金の掛金の額、企業型年金加入者又は確定給付企業年金の加入者の資格の有無、事業主掛金の額等を勘案して政令で定める額をいう。）を超えてはならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2679,7 +2697,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二号加入者は、厚生労働省令で定めるところにより、前項の納付をその使用される厚生年金適用事業所の事業主を介して行うことができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二号加入者及び第五号加入者のうち厚生年金保険の被保険者は、厚生労働省令で定めるところにより、前項の納付をその使用される厚生年金適用事業所の事業主を介して行うことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -2717,13 +2735,13 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第七十条第二項の規定により個人型年金加入者掛金の納付を行う厚生年金適用事業所の事業主は、第二号加入者に対して通貨をもって給与を支払う場合においては、個人型年金加入者掛金を給与から控除することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第七十条第二項の規定により個人型年金加入者掛金の納付を行う厚生年金適用事業所の事業主は、第二号加入者及び第五号加入者のうち厚生年金保険の被保険者に対して通貨をもって給与を支払う場合においては、個人型年金加入者掛金を給与から控除することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">厚生年金適用事業所の事業主は、前項の規定によって個人型年金加入者掛金を控除したときは、個人型年金加入者掛金の控除に関する計算書を作成し、その控除額を第二号加入者に通知しなければならない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">厚生年金適用事業所の事業主は、前項の規定によって個人型年金加入者掛金を控除したときは、個人型年金加入者掛金の控除に関する計算書を作成し、その控除額を第二号加入者及び第五号加入者のうち厚生年金保険の被保険者に通知しなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2787,7 +2805,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">連合会は、政令で定めるところにより、脱退一時金相当額等又は残余財産（確定給付企業年金法第八十九条第六項に規定する残余財産をいう。以下同じ。）の移換を受けることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">連合会は、政令で定めるところにより、脱退一時金相当額等又は残余財産の移換を受けることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -5637,6 +5655,35 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に第二十九条の規定による改正前の確定拠出年金法（以下この条において「旧確定拠出年金法」という。）第三条第一項の承認を受けている同条第五項に規定する簡易企業型年金については、旧確定拠出年金法第十九条第二項及び第二十三条第一項の規定は、なおその効力を有する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、旧確定拠出年金法第十九条第二項及び第二十三条第一項中「簡易企業型年金」とあるのは「簡易企業型年金（社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律（令和七年法律第七十四号）第二十九条の規定による改正前の確定拠出年金法第三条第五項に規定する簡易企業型年金をいう。）」と、旧確定拠出年金法第十九条第二項中「政令で定める基準に従い」とあるのは「定額であって」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="33">
+        <ArticleCaption>（個人型年金加入者に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第九号施行日から起算して三年を経過する日までの間は、次の各号のいずれかに該当する者であって、申出の時点で日本国内に住所を有する六十歳以上七十歳未満のもの（第二十九条の規定（附則第一条第一項第九号に掲げる改正規定に限る。）による改正後の確定拠出年金法（以下この条において「第九号改正後確定拠出年金法」という。）第六十二条第一項第二号に規定する企業型掛金拠出者等を除く。）は、厚生労働省令で定めるところにより、第九号改正後確定拠出年金法第六十二条第一項の規定にかかわらず、連合会（確定拠出年金法第二条第五項に規定する連合会をいう。）に申し出て、個人型年金加入者（確定拠出年金法第二条第十項に規定する個人型年金加入者をいう。以下この条において同じ。）となることができる。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、当該個人型年金加入者は、第九号改正後確定拠出年金法第六十二条第一項第五号に掲げる者とみなす。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第九号施行日において現に第九号改正後確定拠出年金法第六十二条第一項各号に掲げる者のいずれにも該当せず、かつ、第九号施行日までの間において国民年金の被保険者であった者</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第九号施行日から起算して一年以内に第九号改正後確定拠出年金法第六十二条第一項第一号から第四号までに掲げる者のいずれにも該当しなくなった者</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定により個人型年金加入者となることができる者に係る第九号改正後確定拠出年金法第六十二条第二項から第五項までの規定の適用については、同条第二項中「前項の規定にかかわらず」とあるのは「社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律（令和七年法律第七十四号。次項において「令和七年改正法」という。）附則第三十三条第一項の規定にかかわらず」と、同条第三項中「第一項」とあるのは「令和七年改正法附則第三十三条第一項」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
