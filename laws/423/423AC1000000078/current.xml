@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Lang="ja" Era="Heisei" Year="23" Num="078" PromulgateMonth="06" PromulgateDay="24" LawType="Act"><LawNum>平成二十三年法律第七十八号</LawNum><LawBody><LawTitle Kana="すぽーつきほんほう" Abbrev="" AbbrevKana="">スポーツ基本法</LawTitle>
+    <EnactStatement>スポーツ振興法（昭和三十六年法律第百四十一号）の全部を改正する。</EnactStatement>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCPreambleLabel>前文</TOCPreambleLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　スポーツ基本計画等</ChapterTitle>
+        <ArticleRange>（第九条・第十条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　基本的施策</ChapterTitle>
+        <TOCSection Num="1">
+          <SectionTitle>第一節　スポーツの推進のための基礎的条件の整備等</SectionTitle>
+          <ArticleRange>（第十一条―第二十条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="2">
+          <SectionTitle>第二節　多様なスポーツの機会の確保のための環境の整備</SectionTitle>
+          <ArticleRange>（第二十一条―第二十四条の二）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="3">
+          <SectionTitle>第三節　競技水準の向上等</SectionTitle>
+          <ArticleRange>（第二十五条―第二十八条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Num="4">
+          <SectionTitle>第四節　スポーツの公正及び公平の確保等</SectionTitle>
+          <ArticleRange>（第二十九条―第二十九条の五）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　スポーツの推進に係る体制の整備</ChapterTitle>
+        <ArticleRange>（第三十条―第三十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　国の補助等</ChapterTitle>
+        <ArticleRange>（第三十三条―第三十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <Preamble>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">スポーツは、世界共通の人類の文化である。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">スポーツは、心身の健全な発達、健康及び体力の保持増進、精神的な充足感の獲得、自律心その他の精神の<Ruby>涵<Rt>かん</Rt></Ruby>養等のために個人又は集団で行われる運動競技その他の身体活動であり、今日、国民が生涯にわたり心身ともに健康で文化的な生活を営む上で不可欠のものとなっている。スポーツを通じて幸福で豊かな生活を営むことは、全ての人々の権利であり、全ての国民がその自発性の下に、人種、性別、年齢、障害の有無等にかかわらず、各々の関心、適性等に応じて、安全かつ公正な環境の下で日常的にスポーツに親しみ、スポーツを楽しみ、又はスポーツを支える活動に参画することのできる機会、スポーツに関し集う機会、スポーツを通じてつながる機会等が確保されることにより、多様な国民一人一人が生きがいを持ち幸福を享受できるようにするとともに、豊かさを実感できる社会の実現が図られなければならない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">スポーツは、次代を担う青少年の体力を向上させるとともに、他者を尊重しこれと協同する精神、公正さと規律を尊ぶ態度や克己心を培い、実践的な思考力や判断力を育む等人格の形成に大きな影響を及ぼすものである。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">また、スポーツは、人と人との交流及び地域と地域との交流を促進し、地域の一体感や活力を醸成するものであり、人間関係の希薄化等の問題を抱える地域社会の再生に寄与するものである。さらに、スポーツは、心身の健康の保持増進にも重要な役割を果たすものであり、健康で活力に満ちた長寿社会の実現に不可欠である。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">スポーツ選手の不断の努力は、人間の可能性の極限を追求する有意義な営みであり、こうした努力に基づく国際競技大会における日本人選手の活躍は、国民に誇りと喜び、夢と感動を与え、国民のスポーツへの関心を高めるものである。また、スポーツと文化芸術との連携が、人々に感動と希望をもたらし、人々の創造性を育み、人々が共に生きる<Ruby>絆<Rt>きずな</Rt></Ruby>の形成に広く寄与するなど、スポーツと他の分野との連携は、多様な国民一人一人の幸福の享受及び豊かさを実感できる社会の実現により一層つながるものである。これらを通じて、スポーツは、我が国社会に活力を生み出し、国民経済の発展に広く寄与するものである。さらに、スポーツの国際的な交流や貢献が、国際相互理解を促進し、国際平和に大きく貢献するなど、スポーツは、我が国の国際的地位の向上にも極めて重要な役割を果たすものである。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">そして、地域におけるスポーツを推進する中から優れたスポーツ選手が育まれ、そのスポーツ選手が地域におけるスポーツの推進に寄与することは、スポーツに係る多様な主体の連携と協働による我が国のスポーツの発展を支える好循環をもたらすものである。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="7">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">このような国民生活における多面にわたるスポーツの果たす役割は、多様な国民一人一人が、スポーツに親しみ、スポーツを楽しみ、又はスポーツを支える活動に参画すること、スポーツに関し集うこと、スポーツを通じてつながること等によって果たされるものであり、その重要性に鑑み、スポーツ立国を実現することは、将来における我が国の発展のために不可欠な重要課題である。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="8">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">ここに、スポーツ立国の実現を目指し、国家戦略として、スポーツに関する施策を総合的かつ計画的に推進するため、この法律を制定する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </Preamble>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、スポーツに関し、基本理念を定め、並びに国及び地方公共団体の責務並びにスポーツ団体の努力等を明らかにするとともに、スポーツに関する施策の基本となる事項を定めることにより、スポーツに関する施策を総合的かつ計画的に推進し、もって国民の心身の健全な発達、明るく豊かな国民生活の形成、活力ある社会の実現及び国際社会の調和ある発展に寄与することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（基本理念）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">スポーツは、これを通じて幸福で豊かな生活を営むことが人々の権利であることに鑑み、人種、性別、年齢、障害の有無等にかかわらず、国民が生涯にわたりあらゆる機会とあらゆる場所において、自主的かつ自律的にその適性及び健康状態に応じて行うことができるようにすることにより、多様な国民一人一人が生きがいを持ち幸福を享受できるようにするとともに、豊かさを実感できる社会を実現することを旨として、推進されなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">スポーツは、とりわけ心身の成長の過程にある青少年のスポーツが、体力を向上させ、公正さと規律を尊ぶ態度や克己心を培う等人格の形成に大きな影響を及ぼすものであり、国民の生涯にわたる健全な心と身体を培い、豊かな人間性を育む基礎となるものであるとの認識の下に、学校、スポーツ団体（スポーツの振興のための事業を行うことを主たる目的とする団体をいう。以下同じ。）、家庭及び地域における活動の相互の連携を図りながら推進されなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">スポーツは、人々がその居住する地域において、主体的に協働することにより身近に親しむことができるようにするとともに、これを通じて、当該地域における全ての世代の人々の交流が促進され、かつ、地域間の交流の基盤が形成されるものとなること等により、地域振興に資するよう推進されなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">スポーツは、スポーツを行う者の心身の健康の保持増進及び安全の確保が図られるとともに、これを通じて、健康で活力に満ちた長寿社会の実現に資するよう推進されなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">スポーツは、障害者をはじめとする全ての国民が自主的かつ積極的にスポーツを行うことができるよう、障害の種類及び程度その他の事由に応じ必要な配慮をしつつ、共生社会の実現に資することを旨として、推進されなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">スポーツは、我が国のスポーツ選手が国際競技大会（オリンピック競技大会、パラリンピック競技大会、デフリンピック競技大会、スペシャルオリンピックス世界大会その他の国際的な規模のスポーツの競技会をいう。以下同じ。）又は全国的な規模のスポーツの競技会において優秀な成績を収めることができるよう、スポーツに関する競技水準（以下「競技水準」という。）の向上に資する諸施策相互の有機的な連携を図りつつ、効果的に推進されなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">スポーツは、スポーツに係る国際的な交流及び貢献を推進することにより、国際相互理解の増進及び国際平和に寄与するものとなるよう推進されなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">スポーツは、障害者基本法（昭和四十五年法律第八十四号）、男女共同参画社会基本法（平成十一年法律第七十八号）、性的指向及びジェンダーアイデンティティの多様性に関する国民の理解の増進に関する法律（令和五年法律第六十八号）その他の関係法律の規定を踏まえ、スポーツを行う者に対し、不当に差別的取扱いをせず、また、スポーツに関するあらゆる活動を公正かつ適切に実施することを旨として、スポーツにおけるドーピングの防止に関する国際規約その他関係法律の規定を踏まえ、ドーピングの防止の重要性に対する国民の認識を深めるなど、スポーツに対する国民の幅広い理解及び支援が得られるよう推進されなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（国の責務）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、前条の基本理念（以下「基本理念」という。）にのっとり、スポーツに関する施策を総合的に策定し、及び実施する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（地方公共団体の責務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体は、基本理念にのっとり、スポーツに関する施策に関し、国との連携を図りつつ、自主的かつ主体的に、その地域の特性に応じた施策を策定し、及び実施する責務を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（スポーツ団体の努力）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">スポーツ団体は、スポーツの普及及び競技水準の向上に果たすべき重要な役割に鑑み、基本理念にのっとり、スポーツを行う者の権利利益の保護、心身の健康の保持増進及び安全の確保に配慮しつつ、スポーツの推進に主体的に取り組むよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">スポーツ団体は、自主的かつ自立的にスポーツの振興のための事業を行うことができるよう、その運営基盤を強化し、健全な運営の確保を図るよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（国民の参加及び支援の促進）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国、地方公共団体及びスポーツ団体は、国民が健やかで明るく豊かな生活を享受することができるよう、スポーツに対する国民の関心と理解を深め、スポーツへの国民の参加及び支援を促進するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（関係者相互の連携及び協働）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国、独立行政法人、地方公共団体、学校、スポーツ団体及びスポーツ、文化芸術その他の分野の民間事業者その他の関係者は、基本理念の実現を図るため、相互に連携を図りながら協働するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（法制上の措置等）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、スポーツに関する施策を実施するため必要な法制上、財政上又は税制上の措置その他の措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　スポーツ基本計画等</ChapterTitle>
+        <Article Num="9">
+          <ArticleCaption>（スポーツ基本計画）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">文部科学大臣は、スポーツに関する施策の総合的かつ計画的な推進を図るため、スポーツの推進に関する基本的な計画（以下「スポーツ基本計画」という。）を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">文部科学大臣は、スポーツ基本計画を定め、又はこれを変更しようとするときは、あらかじめ、審議会等（国家行政組織法（昭和二十三年法律第百二十号）第八条に規定する機関をいう。以下同じ。）で政令で定めるものの意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">文部科学大臣は、スポーツ基本計画を定め、又はこれを変更しようとするときは、あらかじめ、関係行政機関の施策に係る事項について、第三十条に規定するスポーツ推進会議において連絡調整を図るものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（地方スポーツ推進計画）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県及び市（特別区を含む。以下同じ。）町村の教育委員会（地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）第二十三条第一項の条例の定めるところによりその長がスポーツに関する事務（学校における体育に関する事務を除く。）を管理し、及び執行することとされた地方公共団体（以下「特定地方公共団体」という。）にあっては、その長）は、単独で又は共同して、スポーツ基本計画を参酌して、その地方の実情に即したスポーツの推進に関する計画（以下「地方スポーツ推進計画」という。）を定めるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方スポーツ推進計画は、スポーツに関連する他の計画と一体のものとして定めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定地方公共団体の長が地方スポーツ推進計画を定め、又はこれを変更しようとするときは、あらかじめ、当該特定地方公共団体の教育委員会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　基本的施策</ChapterTitle>
+        <Section Num="1">
+          <SectionTitle>第一節　スポーツの推進のための基礎的条件の整備等</SectionTitle>
+          <Article Num="11">
+            <ArticleCaption>（指導者等の養成等）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、スポーツの指導者その他スポーツの推進に寄与する人材（以下「指導者等」という。）の養成及び資質の向上並びにその活用のため、系統的な養成システムの開発又は利用への支援、研究集会又は講習会（以下「研究集会等」という。）の開催その他の必要な施策を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="12">
+            <ArticleCaption>（スポーツ施設の整備等）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、国民が身近にスポーツに親しむことができるようにするとともに、競技水準の向上を図ることができるよう、スポーツ施設（スポーツの設備を含む。以下同じ。）の整備、利用者の需要に応じたスポーツ施設の運用の改善、スポーツ施設への指導者等の配置その他の必要な施策を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定によりスポーツ施設を整備するに当たっては、当該スポーツ施設の利用の実態等に応じて、安全の確保を図るとともに、障害者等の利便性の向上を図るよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、スポーツ施設の整備及び活用に当たっては、スポーツ施設、他の施設及び周辺地域の総合的かつ複合的な整備並びにスポーツ産業の事業者その他の関係者との連携により、まちづくりとの一体的な推進を図り、地域経済の活性化及び地域内外の交流の促進等を通じて、活力ある地域社会の形成に資するよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="13">
+            <ArticleCaption>（学校施設の利用）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">学校教育法（昭和二十二年法律第二十六号）第二条第二項に規定する国立学校及び公立学校並びに国（国立大学法人法（平成十五年法律第百十二号）第二条第一項に規定する国立大学法人を含む。）及び地方公共団体（地方独立行政法人法（平成十五年法律第百十八号）第六十八条第一項に規定する公立大学法人を含む。）が設置する幼保連携型認定こども園（就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律（平成十八年法律第七十七号）第二条第七項に規定する幼保連携型認定こども園をいう。）の設置者は、その設置する学校の教育に支障のない限り、当該学校のスポーツ施設を一般のスポーツのための利用に供するよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、前項の利用を容易にさせるため、又はその利用上の利便性の向上を図るため、当該学校のスポーツ施設の改修、照明施設の設置その他の必要な施策を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="14">
+            <ArticleCaption>（スポーツ事故の防止等）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、スポーツ事故その他スポーツによって生じる外傷、障害等の防止及びこれらの軽減に資するため、指導者等の研修、スポーツ施設の整備、スポーツの実施のための環境の整備、スポーツにおける心身の健康の保持増進及び安全の確保に関する知識（スポーツ用具の適切な使用に係る知識を含む。）の普及その他の必要な措置を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、前項の措置を講ずるに当たっては、気候の変動への対応に特に留意しなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="15">
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">削除</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16">
+            <ArticleCaption>（スポーツに関する科学的研究の推進等）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、医学、歯学、薬学、生理学、栄養学、法学、経済学、社会学、心理学、倫理学、教育学等のスポーツに関する諸科学を総合して実際的及び基礎的な研究を推進し、これらの研究の成果を活用してスポーツに関する施策の効果的な推進を図るものとする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、研究体制の整備、国、独立行政法人、大学、スポーツ団体、民間事業者等の間の連携の強化その他の必要な施策を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、我が国のスポーツの推進を図るため、スポーツの実施状況並びに競技水準の向上を図るための調査研究の成果及び取組の状況に関する情報その他のスポーツに関する国の内外の情報の収集、整理及び活用について必要な施策を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16_2">
+            <ArticleCaption>（スポーツの推進に寄与する情報通信技術の活用）</ArticleCaption>
+            <ArticleTitle>第十六条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、スポーツの推進に寄与する情報通信技術の活用のための環境の整備、当該情報通信技術の活用を支援する人材の確保及び当該情報通信技術の活用に関する調査研究の推進に必要な施策を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">地方公共団体は、前項の国の施策を勘案し、その地方公共団体の地域の状況に応じたスポーツの推進に寄与する情報通信技術の活用のための施策の推進を図るよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">スポーツ団体は、スポーツの振興のための事業の状況に応じ、その事業活動に寄与する情報通信技術の活用に努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="16_3">
+            <ArticleCaption>（発達段階に応じて継続的に多様なスポーツに親しむ機会の確保）</ArticleCaption>
+            <ArticleTitle>第十六条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国、地方公共団体及びスポーツ団体は、幼児、児童、生徒、学生等のスポーツを取り巻く環境等を踏まえ、相互に連携を図りながら、これらの者がその発達段階に応じて学校の内外を問わず継続的に多様なスポーツに親しむ機会を確保するために必要な措置を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17">
+            <ArticleCaption>（学校における体育の充実）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、学校における体育が青少年の心身の健全な発達に資するものであり、かつ、スポーツに関する技能及び生涯にわたってスポーツに親しむ態度を養う上で重要な役割を果たすものであることに鑑み、体育に関する指導の充実、体育館、運動場、水泳プール、武道場その他のスポーツ施設の整備、体育に関する教員の資質の向上、地域におけるスポーツの指導者等の活用その他の必要な施策を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17_2">
+            <ArticleCaption>（中学校の生徒が継続的にスポーツに親しむ機会の確保）</ArticleCaption>
+            <ArticleTitle>第十七条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">地方公共団体は、中学校（義務教育学校の後期課程、中等教育学校の前期課程及び特別支援学校の中学部を含む。以下この項において同じ。）の生徒の数の減少及びこれに伴う中学校の部活動の実施に係る状況を踏まえ、中学校の生徒が継続的に多様なスポーツに親しむことができるよう、地域の実情に応じて、学校、住民が主体的に運営するスポーツ団体（第二十一条及び第二十二条第一項において「地域スポーツクラブ」という。）その他の団体との緊密な連携の下に、中学校の生徒が地域においてスポーツに親しむ機会を確保するために必要な施策を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、地方公共団体に対し、前項の施策の円滑な実施のために必要な助言、指導、経費の補助その他の援助を行うよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17_3">
+            <ArticleCaption>（高等学校の生徒のスポーツの推進）</ArticleCaption>
+            <ArticleTitle>第十七条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国、地方公共団体及びスポーツ団体は、高等学校（中等教育学校の後期課程及び特別支援学校の高等部を含む。以下この条において同じ。）の生徒のスポーツが人格の形成及びスポーツの普及のみならず、競技水準の向上の基盤の強化等においても重要な役割を果たすことに鑑み、相互に連携を図りながら、高等学校の生徒のスポーツの推進に必要な措置を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="17_4">
+            <ArticleCaption>（大学におけるスポーツの推進等）</ArticleCaption>
+            <ArticleTitle>第十七条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、大学におけるスポーツがスポーツの普及、競技水準の向上、スポーツへの国民の参加の促進及び地域振興を図る上で重要な役割を果たすものであることに鑑み、大学におけるスポーツの推進及びスポーツに関する教育研究の推進に必要な施策を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="18">
+            <ArticleCaption>（スポーツ産業の事業者との連携等）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、スポーツの普及、競技水準の向上、スポーツへの国民の参加の促進及び地域振興を図る上でスポーツ産業の事業者が果たす役割の重要性に鑑み、スポーツを通じた活力に満ちた国民経済及び地域経済の発展並びにスポーツの更なる振興に資するよう、スポーツ団体とスポーツ産業の事業者との連携及び協力の促進その他の必要な施策を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="19">
+            <ArticleCaption>（スポーツに係る国際的な交流及び貢献の推進）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、スポーツ選手及び指導者等の派遣及び招へい、スポーツに関する国際団体への人材の派遣、国際競技大会及び国際的な規模のスポーツの研究集会等の開催その他のスポーツに係る国際的な交流及び貢献を推進するために必要な施策を講ずることにより、我が国の競技水準の向上を図るよう努めるとともに、環境の保全に留意しつつ、国際相互理解の増進及び国際平和に寄与するよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="20">
+            <ArticleCaption>（顕彰）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、スポーツの競技会において優秀な成績を収めた者及びスポーツの発展に寄与した者の顕彰に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="2">
+          <SectionTitle>第二節　多様なスポーツの機会の確保のための環境の整備</SectionTitle>
+          <Article Num="21">
+            <ArticleCaption>（地域におけるスポーツの振興のための事業への支援等）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、国民がその興味又は関心に応じて身近にスポーツに親しむことができるよう、地域スポーツクラブが行う地域におけるスポーツの振興のための事業への支援、住民が安全かつ効果的にスポーツを行うための指導者等の配置、住民が快適にスポーツを行い相互に交流を深めることができるスポーツ施設の整備その他の必要な施策を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="21_2">
+            <ArticleCaption>（多様な需要に応じたスポーツを楽しむ機会等の確保）</ArticleCaption>
+            <ArticleTitle>第二十一条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、多様な需要に応じてスポーツを楽しむ機会等を確保するとともに、これを通じて、スポーツ産業の事業者その他の事業者の事業機会の増大及び地域経済の活性化を図るため、スポーツを楽しむ機会等に関連する良質かつ付加価値の高いサービスの提供に必要な環境の整備その他の必要な施策を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="22">
+            <ArticleCaption>（スポーツ行事の実施及び奨励）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">地方公共団体は、広く住民が自主的かつ積極的に参加できるような運動会、競技会、体力テスト、スポーツ教室等のスポーツ行事を実施するよう努めるとともに、地域スポーツクラブその他の者がこれらの行事を実施するよう奨励に努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、地方公共団体に対し、前項の行事の実施に関し必要な援助を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="23">
+            <ArticleCaption>（スポーツの日の行事）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、国民の祝日に関する法律（昭和二十三年法律第百七十八号）第二条に規定するスポーツの日において、国民の間に広くスポーツについての関心と理解を深め、かつ、積極的にスポーツを行う意欲を高揚するような行事を実施するよう努めるとともに、広く国民があらゆる地域でそれぞれその生活の実情に即してスポーツを行うことができるような行事が実施されるよう、必要な施策を講じ、及び援助を行うよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24">
+            <ArticleCaption>（野外活動及びスポーツ・レクリエーション活動の普及奨励）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、心身の健全な発達、生きがいのある豊かな生活の実現等のために行われるハイキング、サイクリング、キャンプ活動その他の野外活動及びスポーツとして行われるレクリエーション活動（以下この条において「スポーツ・レクリエーション活動」という。）を普及奨励するため、野外活動又はスポーツ・レクリエーション活動に係るスポーツ施設の整備、住民の交流の場となる行事の実施その他の必要な施策を講ずるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="24_2">
+            <ArticleCaption>（情報通信技術を活用したスポーツの機会の充実）</ArticleCaption>
+            <ArticleTitle>第二十四条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、スポーツ団体と連携して、情報通信技術を活用したスポーツの機会の充実が図られるよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">スポーツ団体は、前項の連携に当たっては、特に、スポーツを行う者の心身の健康の保持増進及び安全の確保に配慮しつつ、スポーツに関するあらゆる活動を公正かつ適切に実施することを旨として、当該連携を行うよう努めなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="3">
+          <SectionTitle>第三節　競技水準の向上等</SectionTitle>
+          <Article Num="25">
+            <ArticleCaption>（優秀なスポーツ選手の育成等）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、優秀なスポーツ選手を確保し、及び育成するため、スポーツ団体が行う合宿、国際競技大会又は全国的な規模のスポーツの競技会へのスポーツ選手及び指導者等の派遣、優れた資質を有する青少年に対する指導その他の活動への支援、スポーツ選手の競技技術の向上及びその効果の十分な発揮を図る上で必要な環境の整備その他の必要な施策を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、優秀なスポーツ選手及び指導者等が、生涯にわたりその有する能力を幅広く社会に生かすことができるよう、社会の各分野で活躍できる知識及び技能の習得に対する支援並びに活躍できる環境の整備の促進その他の必要な施策を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="26">
+            <ArticleCaption>（国民スポーツ大会及び全国障害者スポーツ大会）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国民スポーツ大会は、公益財団法人日本スポーツ協会（昭和二年八月八日に財団法人大日本体育協会という名称で設立された法人をいう。第三項及び第二十九条の五第一項において同じ。）、国及び開催地の都道府県が共同し、各運動競技に係るスポーツ団体と連携して開催するものとし、これらの開催者が定める方法により選出された選手が参加して総合的に運動競技をするものとするとともに、広く国民がスポーツに親しむ機会を提供することにより、地域振興に資するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">全国障害者スポーツ大会は、公益財団法人日本パラスポーツ協会（昭和四十年五月二十四日に財団法人日本身体障害者スポーツ協会という名称で設立された法人をいう。以下同じ。）、国及び開催地の都道府県が共同し、各運動競技に係るスポーツ団体と連携して開催するものとし、これらの開催者が定める方法により選出された選手が参加して総合的に運動競技をするものとするとともに、広く国民がスポーツに親しむ機会を提供することにより、地域振興に資するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、国民スポーツ大会及び全国障害者スポーツ大会の円滑な実施及び運営に資するため、これらの開催者である公益財団法人日本スポーツ協会又は公益財団法人日本パラスポーツ協会及び開催地の都道府県に対し、必要な援助を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="27">
+            <ArticleCaption>（国際競技大会の招致又は開催の支援等）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、国際競技大会の我が国への招致又はその開催が円滑になされるよう、環境の保全に留意しつつ、そのための社会的気運の醸成、当該招致又は開催に必要な資金の確保、国際競技大会に参加する外国人の受入れ等に必要な特別の措置を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、国際競技大会の我が国への招致又はその開催が適正になされるよう、当該国際競技大会の実施及び運営を行うことを目的とする法人の運営の透明性の確保及び当該招致又は開催に係る人材の育成に必要な施策を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、公益財団法人日本オリンピック委員会（平成元年八月七日に財団法人日本オリンピック委員会という名称で設立された法人をいう。第二十九条の五第一項において同じ。）、公益財団法人日本パラスポーツ協会その他のスポーツ団体が行う国際的な規模のスポーツの振興のための事業に関し必要な措置を講ずるに当たっては、当該スポーツ団体との緊密な連絡を図るものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="28">
+            <ArticleCaption>（企業等によるスポーツへの支援）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、スポーツの普及、競技水準の向上、スポーツへの国民の参加の促進及びスポーツを通じた地域振興を図る上で企業等が果たす役割の重要性に鑑み、企業等によるスポーツへの支援に必要な施策を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Num="4">
+          <SectionTitle>第四節　スポーツの公正及び公平の確保等</SectionTitle>
+          <Article Num="29">
+            <ArticleCaption>（暴力等の防止）</ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、スポーツを行う者に対する、暴力、優越的な関係を背景とした言動であって業務上必要かつ相当な範囲を超えたもの、性的な言動（性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律（令和五年法律第六十七号）第二条から第六条までの罪に当たる行為を含む。）、インターネット上の<Ruby>誹謗<Rt>ひぼう</Rt></Ruby>中傷等（次項において「暴力等」という。）によりスポーツを行う者の環境が害されることのないよう、必要な措置を講じなければならない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">スポーツ団体は、その行う事業について、スポーツを行う者に対する暴力等によりスポーツを行う者の環境が害されることのないよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29_2">
+            <ArticleCaption>（スポーツに係る競技の不正な操作等の防止）</ArticleCaption>
+            <ArticleTitle>第二十九条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、スポーツ団体と連携して、スポーツに係る競技の不正な操作その他これに関連する違法行為又は不正行為により、スポーツにおける公正な環境が害されることのないよう、必要な措置を講ずるよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29_3">
+            <ArticleCaption>（ドーピング防止活動の推進）</ArticleCaption>
+            <ArticleTitle>第二十九条の三</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、スポーツにおけるドーピングの防止に関する国際規約に従ってドーピングの防止活動を実施するため、公益財団法人日本アンチ・ドーピング機構（平成十三年九月十六日に財団法人日本アンチ・ドーピング機構という名称で設立された法人をいう。）その他の関係機関と連携を図りつつ、ドーピングの検査、ドーピングの防止に関する教育及び啓発並びに調査及び研究その他のドーピングの防止活動の実施に係る体制の整備、国際的なドーピングの防止に関する機関等への支援その他の必要な施策を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29_4">
+            <ArticleCaption>（スポーツに関する紛争の迅速かつ適正な解決）</ArticleCaption>
+            <ArticleTitle>第二十九条の四</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、スポーツに関する紛争の仲裁又は調停の中立性及び公正性が確保され、スポーツを行う者の権利利益の保護が図られるよう、スポーツに関する紛争の仲裁又は調停を行う機関への支援、仲裁人等の資質の向上、紛争解決手続についてのスポーツ団体の理解の増進その他のスポーツに関する紛争の迅速かつ適正な解決に資するために必要な施策を講ずるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">スポーツ団体は、スポーツに関する紛争について、迅速かつ適正な解決に努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29_5">
+            <ArticleCaption>（スポーツ団体の組織運営の状況についての報告等）</ArticleCaption>
+            <ArticleTitle>第二十九条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">国は、公益財団法人日本スポーツ協会、公益財団法人日本オリンピック委員会及び公益財団法人日本パラスポーツ協会に対し、それぞれに加盟する全国的な規模のスポーツ団体の組織運営に関する指導等の状況について報告を求め、必要に応じ、助言を行うものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">スポーツ団体は、第九条第二項の政令で定める審議会等の意見を聴いてスポーツ庁長官が定めるスポーツ団体の適正な運営に関する指針に基づき、その事業活動に関し、自らが遵守すべき基準を作成し、当該指針に従って講じた措置の状況等を公表すること等により、その運営の公正性及び透明性の確保を図るよう努めるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　スポーツの推進に係る体制の整備</ChapterTitle>
+        <Article Num="30">
+          <ArticleCaption>（スポーツ推進会議）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、スポーツに関する施策の総合的、一体的かつ効果的な推進を図るため、スポーツ推進会議を設け、文部科学省及び厚生労働省、経済産業省、国土交通省その他の関係行政機関相互の連絡調整を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（都道府県及び市町村のスポーツ推進審議会等）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県及び市町村に、地方スポーツ推進計画その他のスポーツの推進に関する重要事項を調査審議させるため、条例で定めるところにより、審議会その他の合議制の機関（以下「スポーツ推進審議会等」という。）を置くことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（スポーツ推進委員）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村の教育委員会（特定地方公共団体にあっては、その長）は、当該市町村におけるスポーツの推進に係る体制の整備を図るため、社会的信望があり、スポーツに関する深い関心と理解を有し、及び次項に規定する職務を行うのに必要な熱意と能力を有する者の中から、スポーツ推進委員を委嘱するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">スポーツ推進委員は、当該市町村におけるスポーツの推進のため、教育委員会規則（特定地方公共団体にあっては、地方公共団体の規則）の定めるところにより、スポーツの推進のための事業の実施に係る連絡調整並びに住民に対するスポーツの実技の指導その他スポーツに関する指導及び助言を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">スポーツ推進委員は、非常勤とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　国の補助等</ChapterTitle>
+        <Article Num="33">
+          <ArticleCaption>（国の補助）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、地方公共団体に対し、予算の範囲内において、政令で定めるところにより、次に掲げる経費について、その一部を補助する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国民スポーツ大会及び全国障害者スポーツ大会の実施及び運営に要する経費であって、これらの開催地の都道府県において要するもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他スポーツの推進のために地方公共団体が行う事業に要する経費であって特に必要と認められるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、学校法人に対し、その設置する学校のスポーツ施設の整備に要する経費について、予算の範囲内において、その一部を補助することができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、私立学校振興助成法（昭和五十年法律第六十一号）第十一条から第十三条までの規定の適用があるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、スポーツ団体であってその行う事業が我が国のスポーツの振興に重要な意義を有すると認められるものに対し、当該事業に関し必要な経費について、予算の範囲内において、その一部を補助することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（地方公共団体の補助）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体は、スポーツ団体に対し、その行うスポーツの振興のための事業に関し必要な経費について、その一部を補助することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（審議会等への諮問等）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国又は地方公共団体が第三十三条第三項又は前条の規定により社会教育関係団体（社会教育法（昭和二十四年法律第二百七号）第十条に規定する社会教育関係団体をいう。）であるスポーツ団体に対し補助金を交付しようとする場合には、あらかじめ、国にあっては文部科学大臣が第九条第二項の政令で定める審議会等の、地方公共団体にあっては教育委員会（特定地方公共団体におけるスポーツに関する事務（学校における体育に関する事務を除く。）に係る補助金の交付については、その長）がスポーツ推進審議会等その他の合議制の機関の意見を聴かなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この意見を聴いた場合においては、同法第十三条の規定による意見を聴くことを要しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（スポーツの振興のために必要な資金等）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、スポーツの振興を通じてこれに関する知識、人材及び資金の好循環を実現するよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、スポーツを支える者の協力の下に、地方公共団体又はスポーツ団体が行うスポーツの振興を目的とする事業に要する資金その他のスポーツの振興のために必要な資金を得るための措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の資金の支給を受ける地方公共団体又はスポーツ団体は、当該資金に係る事業を通じて、社会の発展及び地域振興に貢献するよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（スポーツに関する施策を総合的に推進するための行政組織の在り方の検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、スポーツに関する施策を総合的に推進するため、スポーツ庁及びスポーツに関する審議会等の設置等行政組織の在り方について、政府の行政改革の基本方針との整合性に配慮して検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（スポーツの振興に関する計画に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に改正前のスポーツ振興法第四条の規定により策定されている同条第一項に規定するスポーツの振興に関する基本的計画又は同条第三項に規定するスポーツの振興に関する計画は、それぞれ改正後のスポーツ基本法第九条又は第十条の規定により策定されたスポーツ基本計画又は地方スポーツ推進計画とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（スポーツ推進委員に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に改正前のスポーツ振興法第十九条第一項の規定により委嘱されている体育指導委員は、改正後のスポーツ基本法第三十二条第一項の規定により委嘱されたスポーツ推進委員とみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二四年八月二二日法律第六七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、子ども・子育て支援法の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第二十五条及び第七十三条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月二〇日法律第七六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成二十七年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二八年五月二〇日法律第四七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成二十九年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年六月二〇日法律第五六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成三十五年一月一日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第二十六条第一項の改正規定（「国民体育大会」を「国民スポーツ大会」に改める部分を除く。）、同条第二項の改正規定及び同条第三項の改正規定（「国民体育大会」を「国民スポーツ大会」に改める部分を除く。）並びに第二十七条第二項の改正規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三〇年六月二〇日法律第五七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、平成三十二年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月二〇日法律第七一号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中スポーツ基本法第二十六条の見出しの改正規定、同条第二項の改正規定（「全国障害者スポーツ大会」を「全国パラスポーツ大会」に改める部分に限る。）及び同条第三項の改正規定（「全国障害者スポーツ大会」を「全国パラスポーツ大会」に改める部分に限る。）並びに同法第三十三条第一項第一号の改正規定は、令和十三年一月一日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
