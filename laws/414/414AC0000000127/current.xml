@@ -1844,7 +1844,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">厚生年金保険法（昭和二十九年法律第百十五号）第六条第一項第二号に掲げる事業所又は事務所（常時五人以上の従業員を使用する事務所を除く。）に使用される者に該当する旧農業者年金法による被保険者が当該事業所又は事務所に同項の規定が適用されるに至ったため旧農業者年金法による被保険者でなくなった場合において、その旧農業者年金法による被保険者でなくなった日の属する月からその者をこの法律による被保険者とみなして第十三条（第三号（国民年金法第七条第一項第二号に該当するに至ったときに限る。）を除く。）の規定を適用したとすればその者がこの法律による被保険者の資格を喪失することとなる日又はその者が当該事業所若しくは事務所に使用されなくなった日のいずれか早い日（基金の成立の日以後の日に限る。）の属する月の前月までの期間を基礎として農林水産省令で定めるところにより算定される期間は、その者の申出により、次の表の上欄に掲げる規定の同表の下欄に掲げる期間に算入する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律（令和七年法律第七十四号）第四条の規定による改正前の厚生年金保険法（昭和二十九年法律第百十五号）第六条第一項第二号に掲げる事業所又は事務所（常時五人以上の従業員を使用するものを除く。以下この項において単に「事業所」という。）に使用される者に該当する旧農業者年金法による被保険者が当該事業所に同条第一項の規定が適用されるに至ったため旧農業者年金法による被保険者でなくなった場合において、その旧農業者年金法による被保険者でなくなった日の属する月からその者をこの法律による被保険者とみなして第十三条（第三号（国民年金法第七条第一項第二号に該当するに至ったときに限る。）を除く。次項において同じ。）の規定を適用したとすればその者がこの法律による被保険者の資格を喪失することとなる日又はその者が当該事業所に使用されなくなった日のいずれか早い日（基金の成立の日以後の日に限る。）の属する月の前月までの期間を基礎として農林水産省令で定めるところにより算定される期間は、その者の申出により、次の表の上欄に掲げる規定の同表の下欄に掲げる期間に算入する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、同表の上欄に掲げる規定の適用に関し必要な技術的読替えは、政令で定める。</Sentence>
           </ParagraphSentence>
           <TableStruct>
@@ -1871,7 +1871,34 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の規定により同項の表の下欄に掲げる期間に算入された期間は、農業法人構成員期間及び特定被用者年金期間に該当しないものとみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">厚生年金保険法第六条第一項第一号に掲げる事業所に使用される者に該当する農業者年金の被保険者が当該事業所に同項の規定が適用されるに至ったため農業者年金の被保険者でなくなった場合において、その農業者年金の被保険者でなくなった日の属する月からその者を農業者年金の被保険者とみなして第十三条の規定を適用したとすればその者が農業者年金の被保険者の資格を喪失することとなる日又はその者が当該事業所に使用されなくなった日のいずれか早い日の属する月の前月までの期間を基礎として農林水産省令で定めるところにより算定される期間は、その者の申出により、次の表の上欄に掲げる規定の同表の下欄に掲げる期間に算入する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同表の上欄に掲げる規定の適用に関し必要な技術的読替えは、政令で定める。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第三十一条及び附則第三条第一項第一号</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">保険料納付済期間等</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第四十五条第三項</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる期間を合算した期間</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二項の規定により当該各項の表の下欄に掲げる期間に算入された期間は、農業法人構成員期間及び特定被用者年金期間に該当しないものとみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -3314,6 +3341,23 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">政府は、この法律による改正後のそれぞれの法律の施行の状況、この法律の公布の日以後初めて作成される国民年金法第四条の三第一項に規定する財政の現況及び見通し、厚生年金保険法第二条の四第一項に規定する財政の現況及び見通し等を踏まえ、国民健康保険制度の在り方等に留意しながら、厚生年金保険及び健康保険の適用範囲について引き続き検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="39">
+        <ArticleCaption>（独立行政法人農業者年金基金法の厚生年金保険における従業員の範囲に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第三十五条の規定による改正後の独立行政法人農業者年金基金法（次項において「新農年基金法」という。）附則第九条第一項の規定の適用については、当分の間、同項中「従業員」とあるのは「従業員（厚生年金保険法第十二条第一号から第四号までのいずれかに該当するもの又はその一週間の所定労働時間が同一の事業所又は事務所に使用される同条第五号に規定する通常の労働者（以下この項において単に「通常の労働者」という。）の一週間の所定労働時間の四分の三未満である短時間労働者（一週間の所定労働時間が同一の事業所又は事務所に使用される通常の労働者の一週間の所定労働時間に比し短い者をいう。以下この項において同じ。）若しくはその一月間の所定労働日数が同一の事業所又は事務所に使用される通常の労働者の一月間の所定労働日数の四分の三未満である短時間労働者（公的年金制度の財政基盤及び最低保障機能の強化等のための国民年金法等の一部を改正する法律（平成二十四年法律第六十二号）附則第十六条の規定により厚生年金保険法第十二条（第五号に係る部分に限る。）の規定が適用されない者を除く。）を除く。）」と、「同条第一項」とあるのは「社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律第四条の規定による改正前の厚生年金保険法第六条第一項」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新農年基金法附則第九条第二項の規定は、当分の間、適用しない。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第三項中「前二項」とあるのは「第一項」と、「当該各項」とあるのは「同項」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
