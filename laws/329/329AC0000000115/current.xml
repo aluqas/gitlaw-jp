@@ -574,7 +574,7 @@
               <Item Num="5">
                 <ItemTitle>五</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">事業所に使用される者であつて、その一週間の所定労働時間が同一の事業所に使用される通常の労働者（当該事業所に使用される通常の労働者と同種の業務に従事する当該事業所に使用される者にあつては、厚生労働省令で定める場合を除き、当該者と同種の業務に従事する当該通常の労働者。以下この号において単に「通常の労働者」という。）の一週間の所定労働時間の四分の三未満である短時間労働者（一週間の所定労働時間が同一の事業所に使用される通常の労働者の一週間の所定労働時間に比し短い者をいう。以下この号において同じ。）又はその一月間の所定労働日数が同一の事業所に使用される通常の労働者の一月間の所定労働日数の四分の三未満である短時間労働者に該当し、かつ、イからハまでのいずれかの要件に該当するもの</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">事業所に使用される者であつて、その一週間の所定労働時間が同一の事業所に使用される通常の労働者（当該事業所に使用される通常の労働者と同種の業務に従事する当該事業所に使用される者にあつては、厚生労働省令で定める場合を除き、当該者と同種の業務に従事する当該通常の労働者。以下この号において単に「通常の労働者」という。）の一週間の所定労働時間の四分の三未満である短時間労働者（一週間の所定労働時間が同一の事業所に使用される通常の労働者の一週間の所定労働時間に比し短い者をいう。以下この号において同じ。）又はその一月間の所定労働日数が同一の事業所に使用される通常の労働者の一月間の所定労働日数の四分の三未満である短時間労働者に該当し、かつ、イ又はロのいずれかの要件に該当するもの</Sentence>
                 </ItemSentence>
                 <Subitem1 Num="1">
                   <Subitem1Title>イ</Subitem1Title>
@@ -584,12 +584,6 @@
                 </Subitem1>
                 <Subitem1 Num="2">
                   <Subitem1Title>ロ</Subitem1Title>
-                  <Subitem1Sentence>
-                    <Sentence Num="1" WritingMode="vertical">報酬（最低賃金法（昭和三十四年法律第百三十七号）第四条第三項各号に掲げる賃金に相当するものとして厚生労働省令で定めるものを除く。）について、厚生労働省令で定めるところにより、第二十二条第一項の規定の例により算定した額が、八万八千円未満であること。</Sentence>
-                  </Subitem1Sentence>
-                </Subitem1>
-                <Subitem1 Num="3">
-                  <Subitem1Title>ハ</Subitem1Title>
                   <Subitem1Sentence>
                     <Sentence Num="1" WritingMode="vertical">学校教育法（昭和二十二年法律第二十六号）第五十条に規定する高等学校の生徒、同法第八十三条に規定する大学の学生その他の厚生労働省令で定める者であること。</Sentence>
                   </Subitem1Sentence>
@@ -6388,23 +6382,29 @@
             <Item Num="40">
               <ItemTitle>四十</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">附則第七条の二第一項及び第二項の規定による確認</Sentence>
+                <Sentence Num="1" WritingMode="vertical">附則第四条の六第二項及び第五項の規定による申出の受理</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="41">
               <ItemTitle>四十一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">附則第九条の二第一項の規定による請求の受理</Sentence>
+                <Sentence Num="1" WritingMode="vertical">附則第七条の二第一項及び第二項の規定による確認</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="42">
               <ItemTitle>四十二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">附則第二十九条第一項の規定による請求の受理</Sentence>
+                <Sentence Num="1" WritingMode="vertical">附則第九条の二第一項の規定による請求の受理</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="43">
               <ItemTitle>四十三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">附則第二十九条第一項の規定による請求の受理</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="44">
+              <ItemTitle>四十四</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">前各号に掲げるもののほか、厚生労働省令で定める権限</Sentence>
               </ItemSentence>
@@ -6643,7 +6643,7 @@
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第四十三条第二項及び第三項、第四十四条第三項及び第四項（これらの規定を附則第九条の二第三項、第九条の三第二項及び第四項並びに第九条の四第三項及び第五項において準用する場合を含む。）並びに附則第七条の三第五項、第九条の二第二項及び第四項、第九条の三第三項及び第五項、第九条の四第四項及び第六項、第十三条の四第五項及び第六項並びに第十三条の五第三項、第四項及び第九項の規定による老齢厚生年金の額の改定に係る事務（第百条の四第一項第十四号に掲げる申出及び請求の受理並びに同項第四十一号に掲げる請求の受理並びに当該改定に係る決定を除く。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四十三条第二項及び第三項、第四十四条第三項及び第四項（これらの規定を附則第九条の二第三項、第九条の三第二項及び第四項並びに第九条の四第三項及び第五項において準用する場合を含む。）並びに附則第七条の三第五項、第九条の二第二項及び第四項、第九条の三第三項及び第五項、第九条の四第四項及び第六項、第十三条の四第五項及び第六項並びに第十三条の五第三項、第四項及び第九項の規定による老齢厚生年金の額の改定に係る事務（第百条の四第一項第十四号に掲げる申出及び請求の受理並びに同項第四十二号に掲げる請求の受理並びに当該改定に係る決定を除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="11">
@@ -6829,7 +6829,7 @@
             <Item Num="37">
               <ItemTitle>三十七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">附則第二十九条第二項の規定による脱退一時金の支給に係る事務（第百条の四第一項第四十二号に掲げる請求の受理及び当該脱退一時金の裁定を除く。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">附則第二十九条第二項の規定による脱退一時金の支給に係る事務（第百条の四第一項第四十三号に掲げる請求の受理及び当該脱退一時金の裁定を除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="38">
@@ -7327,6 +7327,94 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前項の規定により被保険者となつたものは、同項において準用する第十四条の規定によるほか、附則第四条の三第一項に規定する政令で定める給付の受給権を取得した日の翌日に、被保険者の資格を喪失する。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4_6">
+        <ArticleCaption>（適用除外の特例）</ArticleCaption>
+        <ArticleTitle>第四条の六</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">当分の間、適用事業所に使用される、七十歳未満の短時間労働者のうち、最低賃金法（昭和三十四年法律第百三十七号）第七条の規定の適用を受ける同条各号に掲げる労働者であつて、その者の報酬（同法第四条第三項各号に掲げる賃金に相当するものとして厚生労働省令で定めるものを除く。）について、厚生労働省令で定めるところにより、第二十二条第一項の規定の例により算定した額が、八万八千円未満であるもの（以下この条において「特定減額特例対象者」という。）については、第九条の規定にかかわらず、被保険者としない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">特定減額特例対象者は、主務省令で定めるところにより実施機関（厚生労働大臣及び日本私立学校振興・共済事業団に限る。第五項において同じ。）に申出をしたときは、その者は、前項の規定にかかわらず、被保険者となることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の申出をした者は、その申出が受理されたときは、その日に、同項の規定による被保険者の資格を取得する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第九条の規定による被保険者が、特定減額特例対象者に該当するに至り、かつ、同一の事業所に引き続き使用される場合には、第一項及び第二項の規定にかかわらず、その該当するに至つた日に、同項の規定による被保険者となつたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の規定による被保険者（前項の規定により当該被保険者とみなされた者を含む。次項において同じ。）は、いつでも、主務省令で定めるところにより実施機関に申出をし、当該被保険者の資格を喪失することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の規定による被保険者は、第十四条各号（第三号を除く。）又は次の各号のいずれかに該当するに至つた日の翌日（その事実があつた日に更に被保険者の資格を取得したとき、又は同条第五号に該当するに至つたときは、その日）に、当該被保険者の資格を喪失する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第八条第一項の認可があつたとき。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の申出が受理されたとき。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">特定減額特例対象者でなくなつたとき。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第二項の申出は、健康保険法附則第八条の三の二第二項の申出をすることができる特定減額特例対象者にあつては同項の申出と、第五項の申出は、同条第五項の申出をすることができる特定減額特例対象者にあつては同項の申出と、それぞれ同時に行わなければならない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>８</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項から第六項までに規定するもののほか、被保険者の資格の取得及び喪失に関し必要な事項は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="9">
+          <ParagraphNum>９</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一項において「短時間労働者」とは、次の各号のいずれかに該当する者であつて、第十二条各号のいずれにも該当しないものをいう。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">一週間の所定労働時間が同一の事業所に使用される通常の労働者（第十二条第五号に規定する通常の労働者をいう。次号において同じ。）の一週間の所定労働時間の四分の三未満である短時間労働者（同条第五号に規定する短時間労働者をいう。次号において同じ。）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">一月間の所定労働日数が同一の事業所に使用される通常の労働者の一月間の所定労働日数の四分の三未満である短時間労働者</Sentence>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
       <Article Num="5">
@@ -23582,7 +23670,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令和十七年九月三十日までの間、特定適用事業所以外の適用事業所（厚生年金保険法第六条の適用事業所をいう。以下この条及び附則第十七条の三において同じ。）（国又は地方公共団体の適用事業所を除く。以下この条において同じ。）に使用される、第一号又は第二号に掲げる者であって同法第十二条各号のいずれにも該当しないもの（前条の規定により同法第十二条（第五号に係る部分に限る。）の規定が適用されない者を除く。以下この条及び附則第十七条の三において「特定四分の三未満短時間労働者」という。）については、同法第九条及び附則第四条の三第一項の規定にかかわらず、厚生年金保険の被保険者としない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">令和十七年九月三十日までの間、特定適用事業所以外の適用事業所（厚生年金保険法第六条の適用事業所をいう。以下この条及び附則第十七条の三において同じ。）（国又は地方公共団体の適用事業所を除く。以下この条において同じ。）に使用される、第一号又は第二号に掲げる者であって同法第十二条各号のいずれにも該当しないもの（前条の規定により同法第十二条（第五号に係る部分に限る。）の規定が適用されない者を除く。以下この条及び附則第十七条の三において「特定四分の三未満短時間労働者」という。）については、同法第九条並びに附則第四条の三第一項並びに第四条の六第二項及び第四項の規定にかかわらず、厚生年金保険の被保険者としない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -23607,7 +23695,7 @@
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">当該事業主の一又は二以上の適用事業所に使用される厚生年金保険の被保険者及び七十歳以上の使用される者（厚生年金保険法第二十七条に規定する七十歳以上の使用される者をいう。第五項第一号において同じ。）（以下「四分の三以上同意対象者」という。）の四分の三以上で組織する労働組合があるとき</Sentence>
+                <Sentence Num="1" WritingMode="vertical">当該事業主の一又は二以上の適用事業所に使用される厚生年金保険の被保険者、厚生年金保険法附則第四条の六第一項に規定する特定減額特例対象者（当該厚生年金保険の被保険者を除く。）及び七十歳以上の使用される者（同法第二十七条に規定する七十歳以上の使用される者をいう。第五項第一号において同じ。）（以下「四分の三以上同意対象者」という。）の四分の三以上で組織する労働組合があるとき</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">当該労働組合の同意</Sentence>
@@ -31848,6 +31936,16 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第八号改正後厚年法第七十八条の二十一の二第三項及び第五項の規定により標準報酬月額及び標準賞与額が改定され、又は決定された者について、国民年金法等の一部を改正する法律（昭和六十年法律第三十四号。附則第二十条及び第二十一条において「昭和六十年国年法等改正法」という。）附則第八条第二項第一号の規定を適用する場合においては、同号中「含む」とあるのは、「含み、厚生年金保険法第七十八条の二十一の二第六項の規定により厚生年金保険の被保険者期間であつたものとみなされた期間を除く」とするほか、厚生年金保険法による保険給付の額の計算及びその支給停止に関する規定その他政令で定める規定の適用に関し必要な読替えは、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（厚生年金保険の短時間労働者への適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">平成二十四年機能強化法附則第十六条の規定により厚生年金保険法第十二条（第五号に係る部分に限る。）の規定を適用しないこととされた者であって、附則第一条第一項第九号に掲げる規定の施行の日（以下「第九号施行日」という。）まで引き続き厚生年金保険の被保険者の資格を有するものについては、第三条の規定（同号に掲げる改正規定に限る。）による改正後の厚生年金保険法（附則第二十三条第三項において「第九号改正後厚年法」という。）附則第四条の六の規定は、第九号施行日以後引き続き平成二十四年機能強化法附則第一条第五号に掲げる規定の施行の日（附則第三十八条において「年金機能強化法第五号施行日」という。）において使用されていた事業所又は事務所に使用されている間は、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
