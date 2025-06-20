@@ -3429,7 +3429,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1">前項の場合において、その申請が病院又は病床を有する診療所に係るものであるときは、当該申請は、医療法第七条第二項に規定する病床の種別（第四項第二号及び次条第一項において単に「病床の種別」という。）ごとにその数を定めて行うものとする。</Sentence>
+                  <Sentence Num="1">前項の場合において、その申請が病院又は病床を有する診療所に係るものであるときは、当該申請は、医療法第七条第二項に規定する病床の種別（第四項及び次条第一項において単に「病床の種別」という。）ごとにその数を定めて行うものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
@@ -3494,11 +3494,29 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1">医療法第七条の三第一項に規定する構想区域における保険医療機関の病床数が、当該申請に係る指定により同法第三十条の四第一項に規定する医療計画において定める将来の病床数の必要量を勘案して厚生労働大臣が定めるところにより算定した数を超えることになると認める場合（その数を既に超えている場合を含む。）であって、当該病院又は診療所の開設者又は管理者が同法第三十条の十一第一項の規定による都道府県知事の勧告を受け、これに従わないとき。</Sentence>
+                    <Sentence Num="1">次のいずれにも該当する場合であって、当該病院又は診療所の開設者又は管理者が医療法第三十条の十一第一項の規定による都道府県知事の勧告を受け、これに従わないとき。</Sentence>
                   </ItemSentence>
+                  <Subitem1 Num="1">
+                    <Subitem1Title>イ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1">当該申請に係る病床の種別に応じ、医療法第七条の二第一項に規定する地域における保険医療機関の病床数が、その指定により同法第三十条の四第一項に規定する医療計画において定める基準病床数を勘案して厚生労働大臣が定めるところにより算定した数に満たないことになると認める場合</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
+                  <Subitem1 Num="2">
+                    <Subitem1Title>ロ</Subitem1Title>
+                    <Subitem1Sentence>
+                      <Sentence Num="1">当該申請に係る病床の種別に応じ、医療法第三十条の三の三第二項第二号に規定する構想区域における保険医療機関の病床数が、その指定により同条第一項に規定する地域医療構想において定める将来の病床数の必要量（同条第二項第四号に規定する将来の病床数の必要量をいう。次号において同じ。）を勘案して厚生労働大臣が定めるところにより算定した数を超えることになると認める場合（その数を既に超えている場合を含む。）</Sentence>
+                    </Subitem1Sentence>
+                  </Subitem1>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
+                  <ItemSentence>
+                    <Sentence Num="1">当該申請に係る病床の種別に応じ、医療法第三十条の三の三第二項第二号に規定する構想区域における保険医療機関の病床数が、その指定により同条第一項に規定する地域医療構想において定める将来の病床数の必要量を勘案して厚生労働大臣が定めるところにより算定した数を超えることになると認める場合（その数を既に超えている場合を含む。）であって、当該病院又は診療所の開設者又は管理者が同法第三十条の十一第一項の規定による都道府県知事の勧告を受け、これに従わないとき。</Sentence>
+                  </ItemSentence>
+                </Item>
+                <Item Num="5">
+                  <ItemTitle>五</ItemTitle>
                   <ItemSentence>
                     <Sentence Num="1">その他適正な医療の効率的な提供を図る観点から、当該病院又は診療所の病床の利用に関し、保険医療機関として著しく不適当なところがあると認められるとき。</Sentence>
                   </ItemSentence>
@@ -3843,7 +3861,7 @@
               <Paragraph Num="5">
                 <ParagraphNum>５</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1">保険者は、前項の規定による審査及び支払に関する事務を社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）による社会保険診療報酬支払基金（以下「基金」という。）又は国民健康保険法第四十五条第五項に規定する国民健康保険団体連合会（以下「国保連合会」という。）に委託することができる。</Sentence>
+                  <Sentence Num="1">保険者は、前項の規定による審査及び支払に関する事務を医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）による医療情報基盤・診療報酬審査支払機構（以下「基盤機構」という。）又は国民健康保険法第四十五条第五項に規定する国民健康保険団体連合会（以下「国保連合会」という。）に委託することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="6">
@@ -4316,7 +4334,7 @@
               <Paragraph Num="11">
                 <ParagraphNum>１１</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1">保険者は、前項の規定による審査及び支払に関する事務を基金又は国保連合会に委託することができる。</Sentence>
+                  <Sentence Num="1">保険者は、前項の規定による審査及び支払に関する事務を基盤機構又は国保連合会に委託することができる。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="12">
@@ -6424,12 +6442,12 @@
           </Paragraph>
         </Article>
         <Article Num="150_9">
-          <ArticleCaption>（基金等への委託）</ArticleCaption>
+          <ArticleCaption>（基盤機構等への委託）</ArticleCaption>
           <ArticleTitle>第百五十条の九</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">厚生労働大臣は、第七十七条第二項に規定する調査及び第百五十条の二第一項の規定による利用又は提供に係る事務の全部又は一部を基金又は国保連合会その他厚生労働省令で定める者（次条において「基金等」という。）に委託することができる。</Sentence>
+              <Sentence Num="1">厚生労働大臣は、第七十七条第二項に規定する調査及び第百五十条の二第一項の規定による利用又は提供に係る事務の全部又は一部を基盤機構又は国保連合会その他厚生労働省令で定める者（次条において「基盤機構等」という。）に委託することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6439,7 +6457,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">匿名診療等関連情報利用者は、実費を勘案して政令で定める額の手数料を国（前条の規定により厚生労働大臣からの委託を受けて、基金等が第百五十条の二第一項の規定による匿名診療等関連情報の提供に係る事務の全部を行う場合にあっては、基金等）に納めなければならない。</Sentence>
+              <Sentence Num="1">匿名診療等関連情報利用者は、実費を勘案して政令で定める額の手数料を国（前条の規定により厚生労働大臣からの委託を受けて、基盤機構等が第百五十条の二第一項の規定による匿名診療等関連情報の提供に係る事務の全部を行う場合にあっては、基盤機構等）に納めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -6451,7 +6469,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1">第一項の規定により基金等に納められた手数料は、基金等の収入とする。</Sentence>
+              <Sentence Num="1">第一項の規定により基盤機構等に納められた手数料は、基盤機構等の収入とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -6489,7 +6507,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">出産育児一時金及び家族出産育児一時金（第百五十二条の四及び第百五十二条の五において「出産育児一時金等」という。）の支給に要する費用（第百一条の政令で定める金額に係る部分に限る。第百五十二条の四において同じ。）の一部については、政令で定めるところにより、高齢者の医療の確保に関する法律第百二十四条の四第一項の規定により基金が保険者に対して交付する出産育児交付金をもって充てる。</Sentence>
+              <Sentence Num="1">出産育児一時金及び家族出産育児一時金（第百五十二条の四及び第百五十二条の五において「出産育児一時金等」という。）の支給に要する費用（第百一条の政令で定める金額に係る部分に限る。第百五十二条の四において同じ。）の一部については、政令で定めるところにより、高齢者の医療の確保に関する法律第百二十四条の四第一項の規定により基盤機構が保険者に対して交付する出産育児交付金をもって充てる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -8342,12 +8360,12 @@
           </Paragraph>
         </Article>
         <Article Num="205_4">
-          <ArticleCaption>（基金等への事務の委託）</ArticleCaption>
+          <ArticleCaption>（基盤機構等への事務の委託）</ArticleCaption>
           <ArticleTitle>第二百五条の四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">保険者は、第七十六条第五項（第八十五条第九項、第八十五条の二第五項、第八十六条第四項、第百十条第七項及び第百四十九条において準用する場合を含む。第一号において同じ。）及び第八十八条第十一項（第百十一条第三項及び第百四十九条において準用する場合を含む。同号において同じ。）に規定する事務のほか、次に掲げる事務を基金又は国保連合会に委託することができる。</Sentence>
+              <Sentence Num="1">保険者は、第七十六条第五項（第八十五条第九項、第八十五条の二第五項、第八十六条第四項、第百十条第七項及び第百四十九条において準用する場合を含む。第一号において同じ。）及び第八十八条第十一項（第百十一条第三項及び第百四十九条において準用する場合を含む。同号において同じ。）に規定する事務のほか、次に掲げる事務を基盤機構又は国保連合会に委託することができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -8371,7 +8389,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1">保険者は、前項の規定により同項第二号又は第三号に掲げる事務を委託する場合は、他の社会保険診療報酬支払基金法第一条に規定する保険者及び法令の規定により医療に関する給付その他の事務を行う者であって厚生労働省令で定めるものと共同して委託するものとする。</Sentence>
+              <Sentence Num="1">保険者は、前項の規定により同項第二号又は第三号に掲げる事務を委託する場合は、他の医療情報基盤・診療報酬審査支払機構法第一条に規定する保険者、法令の規定により医療に関する給付その他の事務を行う者であって厚生労働省令で定めるもの並びに介護保険法第三条の規定により介護保険を行う市町村及び特別区と共同して委託するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -13862,7 +13880,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1">当分の間、特定適用事業所以外の適用事業所（健康保険法第三条第三項に規定する適用事業所をいい、国又は地方公共団体の当該適用事業所を除く。以下この条において同じ。）に使用される第一号又は第二号に掲げる者であって同法第三条第一項各号のいずれにも該当しないもの（前条の規定により同項（第九号に係る部分に限る。）の規定が適用されない者を除く。以下この条において「特定四分の三未満短時間労働者」という。）については、同項の規定にかかわらず、健康保険の被保険者としない。</Sentence>
+            <Sentence Num="1">令和十七年九月三十日までの間、特定適用事業所以外の適用事業所（健康保険法第三条第三項に規定する適用事業所をいい、国又は地方公共団体の当該適用事業所を除く。以下この条において同じ。）に使用される、第一号又は第二号に掲げる者であって同法第三条第一項各号のいずれにも該当しないもの（前条の規定により同項（第九号に係る部分に限る。）の規定が適用されない者を除く。以下この条において「特定四分の三未満短時間労働者」という。）については、同項の規定にかかわらず、健康保険の被保険者としない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -13880,7 +13898,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">特定適用事業所に該当しなくなった適用事業所に使用される特定四分の三未満短時間労働者については、前項の規定は、適用しない。</Sentence>
+            <Sentence Function="main" Num="1">令和十七年九月三十日までの間、特定適用事業所に該当しなくなった適用事業所に使用される特定四分の三未満短時間労働者については、前項の規定は、適用しない。</Sentence>
             <Sentence Function="proviso" Num="2">ただし、当該適用事業所の事業主が、次の各号に掲げる場合に応じ、当該各号に定める同意を得て、保険者等（全国健康保険協会が管掌する健康保険にあっては厚生労働大臣、健康保険組合が管掌する健康保険にあっては当該健康保険組合をいう。以下この条において同じ。）に当該特定四分の三未満短時間労働者について同項の規定の適用を受ける旨の申出をした場合は、この限りでない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
@@ -13933,7 +13951,7 @@
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1">特定適用事業所（第二項本文の規定により第一項の規定が適用されない特定四分の三未満短時間労働者を使用する適用事業所を含む。）以外の適用事業所の事業主は、次の各号に掲げる場合に応じ、当該各号に定める同意を得て、保険者等に当該事業主の一又は二以上の適用事業所に使用される特定四分の三未満短時間労働者について同項の規定の適用を受けない旨の申出をすることができる。</Sentence>
+            <Sentence Num="1">令和十七年九月三十日までの間、特定適用事業所（第二項本文の規定により第一項の規定が適用されない特定四分の三未満短時間労働者を使用する適用事業所を含む。）以外の適用事業所の事業主は、次の各号に掲げる場合に応じ、当該各号に定める同意を得て、保険者等に当該事業主の一又は二以上の適用事業所に使用される特定四分の三未満短時間労働者について同項の規定の適用を受けない旨の申出をすることができる。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
@@ -13986,7 +14004,7 @@
         <Paragraph Num="8">
           <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1">第五項の申出をした事業主は、次の各号に掲げる場合に応じ、当該各号に定める同意を得て、保険者等に当該事業主の一又は二以上の適用事業所に使用される特定四分の三未満短時間労働者について第一項の規定の適用を受ける旨の申出をすることができる。</Sentence>
+            <Sentence Function="main" Num="1">令和十七年九月三十日までの間、第五項の申出をした事業主は、次の各号に掲げる場合に応じ、当該各号に定める同意を得て、保険者等に当該事業主の一又は二以上の適用事業所に使用される特定四分の三未満短時間労働者について第一項の規定の適用を受ける旨の申出をすることができる。</Sentence>
             <Sentence Function="proviso" Num="2">ただし、当該事業主の適用事業所が特定適用事業所に該当する場合は、この限りでない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
@@ -14048,6 +14066,43 @@
           <ParagraphSentence>
             <Sentence Num="1">この条において特定適用事業所とは、事業主が同一である一又は二以上の適用事業所であって、当該一又は二以上の適用事業所に使用される特定労働者の総数が常時五十人を超えるものの各適用事業所をいう。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="46_2">
+        <ArticleTitle>第四十六条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">次の表の上欄に掲げる期間における前条第十二項の規定の適用については、同項中「五十人」とあるのは、同表の上欄の区分に応じてそれぞれ同表の下欄に掲げる字句とする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1">令和九年十月一日から令和十一年九月三十日まで</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1">三十五人</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1">令和十一年十月一日から令和十四年九月三十日まで</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1">二十人</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1">令和十四年十月一日から令和十七年九月三十日まで</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1">十人</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
         </Paragraph>
       </Article>
       <Article Num="47">
@@ -16500,6 +16555,12 @@
             <Sentence Num="1"/>
           </ParagraphSentence>
         </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">前二項に定める事項のほか、政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この項において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
@@ -16532,6 +16593,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1">厚生労働大臣は、第七条の規定による改正後の健康保険法第七十条の二の厚生労働省令を定めようとするときは、附則第一条第二号に掲げる規定の施行の日前においても、第七条の規定による改正後の健康保険法第八十二条第一項の規定の例により、中央社会保険医療協議会に諮問することができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">附則第一条第五号及び第九号に掲げる規定の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
