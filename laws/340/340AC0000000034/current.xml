@@ -32272,6 +32272,19 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和六年六月二一日法律第六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和七年三月三一日法律第一三号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -32781,6 +32794,28 @@
           </Item>
         </Paragraph>
       </Article>
+      <Article Num="54">
+        <ArticleCaption>（地方税法等の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第五十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">旧石炭鉱業年金基金については、附則第四十三条の規定、附則第四十四条の規定（附則第一条第一項第十五号に掲げる改正規定に限る。）及び附則第四十五条から前条までの規定による改正前の次に掲げる法律の規定は、第十五号施行日から当該旧石炭鉱業年金基金の清算結了の登記の時までの間は、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:3">
+            <ItemTitle>一から三まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">法人税法別表第二石炭鉱業年金基金の項</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
       <Article Num="55">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第五十五条</ArticleTitle>
@@ -33070,10 +33105,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">外国人技能実習機構</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外国人育成就労機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">外国人の技能実習の適正な実施及び技能実習生の保護に関する法律（平成二十八年法律第八十九号）</Sentence>
+              <Sentence Num="1" WritingMode="vertical">外国人の育成就労の適正な実施及び育成就労外国人の保護に関する法律（平成二十八年法律第八十九号）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -33491,14 +33526,6 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1" WritingMode="vertical">税理士法（昭和二十六年法律第二百三十七号）</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">石炭鉱業年金基金</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">石炭鉱業年金基金法（昭和四十二年法律第百三十五号）</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
