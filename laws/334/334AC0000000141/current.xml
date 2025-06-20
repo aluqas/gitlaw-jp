@@ -8312,7 +8312,7 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">日本国内に住所を有するとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">日本国内に滞在するとき。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
@@ -8324,7 +8324,13 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">最後に被保険者の資格を喪失した日（同日において日本国内に住所を有していた者にあつては、同日後初めて、日本国内に住所を有しなくなつた日）から起算して二年を経過しているとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第二十六条第一項の規定による再入国の許可（同法第二十六条の二第一項（日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号）第二十三条第二項において準用する場合を含む。）又は第二十六条の三第一項の規定により当該許可を受けたものとみなされる場合を含む。）を受けているとき。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">最後に被保険者の資格を喪失した日（同日において第一号又は前号に該当していた者にあつては、同日後初めて、第一号又は前号のいずれにも該当しなくなつた日）から起算して二年を経過しているとき。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -21714,6 +21720,22 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第八号改正後国年法第五十二条の二並びに第五十二条の三第一項及び第二項の規定は、国民年金法第五十二条の二第一項に規定する死亡した者の死亡日が第八号施行日以後である場合について適用し、第八号施行日前において支給事由の生じた同法による死亡一時金の支給要件並びに遺族の範囲及び順位については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（国民年金法による脱退一時金の支給の請求に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定（附則第一条第一項第十二号に掲げる改正規定に限る。以下この項において同じ。）による改正後の国民年金法（次項において「第十二号改正後国年法」という。）附則第九条の三の二第一項ただし書の規定は、同号に掲げる規定の施行の日（以下この条及び附則第十九条において「第十二号施行日」という。）以後に行われる同項の規定による脱退一時金の支給の請求について適用し、第十二号施行日前に行われた第一条の規定による改正前の国民年金法附則第九条の三の二第一項の規定による脱退一時金の支給の請求については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国民年金法附則第九条の三の二第一項本文に規定する者であって、第十二号施行日において六十歳以上であるものが第十二号施行日以後に行う第十二号改正後国年法附則第九条の三の二第一項の規定による脱退一時金の支給の請求については、同項ただし書及び前項の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
