@@ -18,11 +18,11 @@
         </TOCSection>
         <TOCSection Num="2">
           <SectionTitle>第二節　老齢基礎年金</SectionTitle>
-          <ArticleRange>（第二十六条―第二十九条）</ArticleRange>
+          <ArticleRange>（第二十六条―第二十九条の二）</ArticleRange>
         </TOCSection>
         <TOCSection Num="3">
           <SectionTitle>第三節　障害基礎年金</SectionTitle>
-          <ArticleRange>（第三十条―第三十六条の四）</ArticleRange>
+          <ArticleRange>（第三十条―第三十六条の五）</ArticleRange>
         </TOCSection>
         <TOCSection Num="4">
           <SectionTitle>第四節　遺族基礎年金</SectionTitle>
@@ -1073,7 +1073,7 @@
               <Item Num="8">
                 <ItemTitle>八</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">保険料全額免除期間（第九十条の三第一項の規定により納付することを要しないものとされた保険料に係るものを除く。）の月数（四百八十から保険料納付済期間の月数、保険料四分の一免除期間の月数、保険料半額免除期間の月数及び保険料四分の三免除期間の月数を合算した月数を控除して得た月数を限度とする。）の二分の一に相当する月数</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">保険料全額免除期間（第九十条の三第一項の規定により納付することを要しないものとされた保険料に係るものを除く。第二十七条の六第二項第五号において同じ。）の月数（四百八十から保険料納付済期間の月数、保険料四分の一免除期間の月数、保険料半額免除期間の月数及び保険料四分の三免除期間の月数を合算した月数を控除して得た月数を限度とする。）の二分の一に相当する月数</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
@@ -1294,6 +1294,133 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="27_6">
+            <ArticleCaption>（加算額）</ArticleCaption>
+            <ArticleTitle>第二十七条の六</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">老齢基礎年金の額は、受給権者がその権利を取得した当時その者によつて生計を維持していたその者の子（十八歳に達する日以後の最初の三月三十一日までの間にある子及び二十歳未満であつて第三十条第二項に規定する障害等級（以下この条において単に「障害等級」という。）に該当する障害の状態にある子に限る。）があるときは、第二十七条の規定にかかわらず、同条に定める額にその子一人につきそれぞれ二十六万九千六百円に改定率（第二十七条の三及び前条の規定の適用がないものとして改定した改定率とする。次項において同じ。）を乗じて得た額（その額に五十円未満の端数が生じたときは、これを切り捨て、五十円以上百円未満の端数が生じたときは、これを百円に切り上げるものとする。次項において同じ。）を加算した額とする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該子が次の各号のいずれかに該当するときは、当該各号のいずれかに該当する期間、当該子について加算する額に相当する部分の支給を停止する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">日本国内に住所を有しないとき（外国において留学をする学生その他の日本国内に住所を有しないが渡航目的その他の事情を考慮して日本国内に生活の基礎があると認められる者として厚生労働省令で定める者であるときを除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">厚生年金保険法第四十四条第一項又は第六十二条の二第一項の規定による加算その他政令で定める加算が行われている子であるとき（当該子について加算する額に相当する部分の全額につき支給を停止されているときを除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の規定により加算する額は、次に掲げる月数を合算した月数が三百に満たない者に支給する場合は、同項の規定にかかわらず、二十六万九千六百円に改定率を乗じて得た額に、当該合算した月数を三百で除して得た数を乗じて得た額とする。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">保険料納付済期間の月数</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">保険料四分の一免除期間の月数</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">保険料半額免除期間の月数</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">保険料四分の三免除期間の月数</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">保険料全額免除期間の月数</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="3">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">受給権者がその権利を取得した当時胎児であつた子が生まれたときは、第一項の規定の適用については、その子は、受給権者がその権利を取得した当時その者によつて生計を維持していた子とみなし、その生まれた日の属する月の翌月から、老齢基礎年金の額を改定する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の規定によりその額が加算された老齢基礎年金については、子のうちの一人又は二人以上が次の各号のいずれかに該当するに至つたときは、その該当するに至つた日の属する月の翌月から、その該当するに至つた子の数に応じて、年金額を改定する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">死亡したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">受給権者による生計維持の状態がやんだとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">婚姻（届出をしていないが、事実上婚姻関係と同様の事情にある場合を含む。以下同じ。）をしたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">受給権者の配偶者以外の者の養子（届出をしていないが、事実上養子縁組関係と同様の事情にある者を含む。以下同じ。）となつたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="5">
+                <ItemTitle>五</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">離縁によつて、受給権者の子でなくなつたとき。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="6">
+                <ItemTitle>六</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">十八歳に達した日以後の最初の三月三十一日が終了したとき。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、障害等級に該当する障害の状態にあるときを除く。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="7">
+                <ItemTitle>七</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">障害等級に該当する障害の状態にある子について、その事情がやんだとき。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その子が十八歳に達する日以後の最初の三月三十一日までの間にあるときを除く。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="8">
+                <ItemTitle>八</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">二十歳に達したとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項又は前項第二号の規定の適用上、老齢基礎年金の受給権者によつて生計を維持していたこと又はその者による生計維持の状態がやんだことの認定に関し必要な事項は、政令で定める。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
           <Article Num="28">
             <ArticleCaption>（支給の繰下げ）</ArticleCaption>
             <ArticleTitle>第二十八条</ArticleTitle>
@@ -1301,7 +1428,7 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">老齢基礎年金の受給権を有する者であつて六十六歳に達する前に当該老齢基礎年金を請求していなかつたものは、厚生労働大臣に当該老齢基礎年金の支給繰下げの申出をすることができる。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その者が六十五歳に達したときに、他の年金たる給付（他の年金給付（付加年金を除く。）又は厚生年金保険法による年金たる保険給付（老齢を支給事由とするものを除く。）をいう。以下この条において同じ。）の受給権者であつたとき、又は六十五歳に達した日から六十六歳に達した日までの間において他の年金たる給付の受給権者となつたときは、この限りでない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その者が六十五歳に達したときに、他の年金たる給付（他の年金給付（付加年金を除く。）又は厚生年金保険法による障害厚生年金をいう。以下この条において同じ。）の受給権者であつたとき、又は六十五歳に達した日から六十六歳に達した日までの間において他の年金たる給付の受給権者となつたときは、この限りでない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -1341,7 +1468,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の申出をした者に支給する老齢基礎年金の額は、第二十七条の規定にかかわらず、同条に定める額に政令で定める額を加算した額とする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の申出をした者に支給する老齢基礎年金の額は、第二十七条及び前条の規定にかかわらず、これらの規定に定める額に政令で定める額を加算した額とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -1371,6 +1498,34 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">老齢基礎年金の受給権は、受給権者が死亡したときは、消滅する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Num="29_2">
+            <ArticleCaption>（加算額の支給停止）</ArticleCaption>
+            <ArticleTitle>第二十九条の二</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条の六第一項の規定により子についてその額が加算された老齢基礎年金については、政令で定めるところにより、受給権者の配偶者その他政令で定める者（以下この条において「配偶者等」という。）が次の各号のいずれにも該当するときは、その該当する期間、同項の規定により当該子について加算する額（配偶者等に支給する第一号に規定する加算の額に限る。）に相当する部分の支給を停止する。</Sentence>
+              </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該子について第二十七条の六第一項若しくは第三十三条の二第一項又は厚生年金保険法第四十四条第一項若しくは第五十条の二第一項の規定による加算その他政令で定める加算が行われているとき（当該子について加算する額に相当する部分の全額につき支給を停止されているときを除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">当該子について主として生計を維持しているとき。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Num="2">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項第二号の規定の適用上、配偶者等によつて主として生計を維持していることの認定に関し必要な事項は、政令で定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1528,8 +1683,21 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">障害基礎年金の額は、受給権者によつて生計を維持しているその者の子（十八歳に達する日以後の最初の三月三十一日までの間にある子及び二十歳未満であつて障害等級に該当する障害の状態にある子に限る。）があるときは、前条の規定にかかわらず、同条に定める額にその子一人につきそれぞれ七万四千九百円に改定率（第二十七条の三及び第二十七条の五の規定の適用がないものとして改定した改定率とする。以下この項において同じ。）を乗じて得た額（そのうち二人までについては、それぞれ二十二万四千七百円に改定率を乗じて得た額とし、それらの額に五十円未満の端数が生じたときは、これを切り捨て、五十円以上百円未満の端数が生じたときは、これを百円に切り上げるものとする。）を加算した額とする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">障害基礎年金の額は、受給権者によつて生計を維持しているその者の子（十八歳に達する日以後の最初の三月三十一日までの間にある子及び二十歳未満であつて障害等級に該当する障害の状態にある子に限る。）があるときは、前条の規定にかかわらず、同条に定める額にその子一人につきそれぞれ二十六万九千六百円に改定率（第二十七条の三及び第二十七条の五の規定の適用がないものとして改定した改定率とする。）を乗じて得た額（その額に五十円未満の端数が生じたときは、これを切り捨て、五十円以上百円未満の端数が生じたときは、これを百円に切り上げるものとする。）を加算した額とする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該子が次の各号のいずれかに該当するときは、当該各号のいずれかに該当する期間、当該子について加算する額に相当する部分の支給を停止する。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">日本国内に住所を有しないとき（外国において留学をする学生その他の日本国内に住所を有しないが渡航目的その他の事情を考慮して日本国内に生活の基礎があると認められる者として厚生労働省令で定める者であるときを除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">厚生年金保険法第四十四条第一項、第五十条の二第一項又は第六十二条の二第一項の規定による加算その他政令で定める加算が行われている子であるとき（当該子について加算する額に相当する部分の全額につき支給を停止されているときを除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
@@ -1540,63 +1708,13 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の規定によりその額が加算された障害基礎年金については、子のうちの一人又は二人以上が次の各号のいずれかに該当するに至つたときは、その該当するに至つた日の属する月の翌月から、その該当するに至つた子の数に応じて、年金額を改定する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条の六第四項の規定は、第一項の規定によりその額が加算された障害基礎年金について準用する。</Sentence>
               </ParagraphSentence>
-              <Item Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">死亡したとき。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">受給権者による生計維持の状態がやんだとき。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="3">
-                <ItemTitle>三</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">婚姻をしたとき。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="4">
-                <ItemTitle>四</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">受給権者の配偶者以外の者の養子となつたとき。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="5">
-                <ItemTitle>五</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">離縁によつて、受給権者の子でなくなつたとき。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="6">
-                <ItemTitle>六</ItemTitle>
-                <ItemSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">十八歳に達した日以後の最初の三月三十一日が終了したとき。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、障害等級に該当する障害の状態にあるときを除く。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="7">
-                <ItemTitle>七</ItemTitle>
-                <ItemSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">障害等級に該当する障害の状態にある子について、その事情がやんだとき。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その子が十八歳に達する日以後の最初の三月三十一日までの間にあるときを除く。</Sentence>
-                </ItemSentence>
-              </Item>
-              <Item Num="8">
-                <ItemTitle>八</ItemTitle>
-                <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">二十歳に達したとき。</Sentence>
-                </ItemSentence>
-              </Item>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項又は前項第二号の規定の適用上、障害基礎年金の受給権者によつて生計を維持していること又はその者による生計維持の状態がやんだことの認定に関し必要な事項は、政令で定める。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第一項又は前項において準用する第二十七条の六第四項第二号の規定の適用上、障害基礎年金の受給権者によつて生計を維持していること又はその者による生計維持の状態がやんだことの認定に関し必要な事項は、政令で定める。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1794,6 +1912,15 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
+          <Article Num="36_5">
+            <ArticleTitle>第三十六条の五</ArticleTitle>
+            <Paragraph Num="1">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十九条の二の規定は、第三十三条の二第一項の規定によりその額が加算された障害基礎年金について準用する。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
         </Section>
         <Section Num="4">
           <SectionTitle>第四節　遺族基礎年金</SectionTitle>
@@ -1875,13 +2002,26 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">配偶者に支給する遺族基礎年金の額は、前条の規定にかかわらず、同条に定める額に配偶者が遺族基礎年金の受給権を取得した当時第三十七条の二第一項に規定する要件に該当し、かつ、その者と生計を同じくした子につきそれぞれ七万四千九百円に改定率（第二十七条の三及び第二十七条の五の規定の適用がないものとして改定した改定率とする。以下この項において同じ。）を乗じて得た額（そのうち二人までについては、それぞれ二十二万四千七百円に改定率を乗じて得た額とし、それらの額に五十円未満の端数が生じたときは、これを切り捨て、五十円以上百円未満の端数が生じたときは、これを百円に切り上げるものとする。）を加算した額とする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">配偶者に支給する遺族基礎年金の額は、前条の規定にかかわらず、同条に定める額に配偶者が遺族基礎年金の受給権を取得した当時第三十七条の二第一項に規定する要件に該当し、かつ、その者と生計を同じくしていた子につきそれぞれ二十六万九千六百円に改定率（第二十七条の三及び第二十七条の五の規定の適用がないものとして改定した改定率とする。）を乗じて得た額（その額に五十円未満の端数が生じたときは、これを切り捨て、五十円以上百円未満の端数が生じたときは、これを百円に切り上げるものとする。）を加算した額とする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該子が次の各号のいずれかに該当するときは、当該各号のいずれかに該当する期間、当該子について加算する額に相当する部分の支給を停止する。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">日本国内に住所を有しないとき（外国において留学をする学生その他の日本国内に住所を有しないが渡航目的その他の事情を考慮して日本国内に生活の基礎があると認められる者として厚生労働省令で定める者であるときを除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">厚生年金保険法第六十二条の二第一項の規定による加算その他政令で定める加算が行われている子であるとき（当該子について加算する額に相当する部分の全額につき支給を停止されているときを除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">配偶者が遺族基礎年金の受給権を取得した当時胎児であつた子が生まれたときは、前項の規定の適用については、その子は、配偶者がその権利を取得した当時第三十七条の二第一項に規定する要件に該当し、かつ、その者と生計を同じくした子とみなし、その生まれた日の属する月の翌月から、遺族基礎年金の額を改定する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">配偶者が遺族基礎年金の受給権を取得した当時胎児であつた子が生まれたときは、前項の規定の適用については、その子は、配偶者がその権利を取得した当時第三十七条の二第一項に規定する要件に該当し、かつ、その者と生計を同じくしていた子とみなし、その生まれた日の属する月の翌月から、遺族基礎年金の額を改定する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -1898,13 +2038,13 @@
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">婚姻（届出をしていないが、事実上婚姻関係と同様の事情にある場合を含む。以下同じ。）をしたとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">婚姻をしたとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">配偶者以外の者の養子（届出をしていないが、事実上養子縁組関係と同様の事情にある者を含む。以下同じ。）となつたとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">配偶者以外の者の養子となつたとき。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="4">
@@ -1946,8 +2086,21 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">子に支給する遺族基礎年金の額は、当該被保険者又は被保険者であつた者の死亡について遺族基礎年金の受給権を取得した子が二人以上あるときは、第三十八条の規定にかかわらず、同条に定める額にその子のうち一人を除いた子につきそれぞれ七万四千九百円に改定率（第二十七条の三及び第二十七条の五の規定の適用がないものとして改定した改定率とする。以下この項において同じ。）を乗じて得た額（そのうち一人については、二十二万四千七百円に改定率を乗じて得た額とし、それらの額に五十円未満の端数が生じたときは、これを切り捨て、五十円以上百円未満の端数が生じたときは、これを百円に切り上げるものとする。）を加算した額を、その子の数で除して得た額とする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">子に支給する遺族基礎年金の額は、当該被保険者又は被保険者であつた者の死亡について遺族基礎年金の受給権を取得した子が二人以上あるときは、第三十八条の規定にかかわらず、同条に定める額にその子のうち一人を除いた子につきそれぞれ二十六万九千六百円に改定率（第二十七条の三及び第二十七条の五の規定の適用がないものとして改定した改定率とする。）を乗じて得た額（その額に五十円未満の端数が生じたときは、これを切り捨て、五十円以上百円未満の端数が生じたときは、これを百円に切り上げるものとする。）を加算した額を、その子の数で除して得た額とする。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その子が次の各号のいずれかに該当するときは、当該各号のいずれかに該当する期間、その子について加算する額に相当する部分の支給を停止する。</Sentence>
               </ParagraphSentence>
+              <Item Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">日本国内に住所を有しないとき（外国において留学をする学生その他の日本国内に住所を有しないが渡航目的その他の事情を考慮して日本国内に生活の基礎があると認められる者として厚生労働省令で定める者であるときを除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Num="1" WritingMode="vertical">厚生年金保険法第六十二条の三第一項の規定によりその額が加算された遺族厚生年金その他死亡を支給事由とする年金たる保険給付であつて政令で定めるものを受給しているとき（当該子について加算する額に相当する部分の全額につき支給を停止されているときを除く。）。</Sentence>
+                </ItemSentence>
+              </Item>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
@@ -2034,7 +2187,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">子に対する遺族基礎年金は、配偶者が遺族基礎年金の受給権を有するとき（配偶者に対する遺族基礎年金が第二十条の二第一項若しくは第二項又は次条第一項の規定によりその支給を停止されているときを除く。）、又は生計を同じくするその子の父若しくは母があるときは、その間、その支給を停止する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">子に対する遺族基礎年金は、配偶者が遺族基礎年金の受給権を有するとき（配偶者に対する遺族基礎年金が第二十条の二第一項若しくは第二項又は次条第一項の規定によりその支給を停止されているときを除く。）は、その間、その支給を停止する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2147,7 +2300,7 @@
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
                   <Sentence Num="1" WritingMode="vertical">第二十八条第四項の規定は、前項の規定によつて支給する付加年金の額について準用する。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">この場合において、同条第四項中「第二十七条」とあるのは、「第四十四条」と読み替えるものとする。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">この場合において、同条第四項中「第二十七条及び前条」とあるのは「第四十四条」と、「これらの規定」とあるのは「同条」と読み替えるものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2261,12 +2414,6 @@
                   </ItemSentence>
                 </Item>
               </Paragraph>
-              <Paragraph Num="3">
-                <ParagraphNum>３</ParagraphNum>
-                <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第一項に規定する死亡した者の子がその者の死亡により遺族基礎年金の受給権を取得した場合（その者の死亡によりその者の配偶者が遺族基礎年金の受給権を取得した場合を除く。）であつて、その受給権を取得した当時その子と生計を同じくするその子の父又は母があることにより第四十一条第二項の規定によつて当該遺族基礎年金の支給が停止されるものであるときは、前項の規定は適用しない。</Sentence>
-                </ParagraphSentence>
-              </Paragraph>
             </Article>
             <Article Num="52_3">
               <ArticleCaption>（遺族の範囲及び順位等）</ArticleCaption>
@@ -2274,14 +2421,13 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">死亡一時金を受けることができる遺族は、死亡した者の配偶者、子、父母、孫、祖父母又は兄弟姉妹であつて、その者の死亡の当時その者と生計を同じくしていたものとする。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、前条第三項の規定に該当する場合において支給する死亡一時金を受けることができる遺族は、死亡した者の配偶者であつて、その者の死亡の当時その者と生計を同じくしていたものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">死亡一時金を受けることができる遺族は、死亡した者の配偶者、子、父母、孫、祖父母又は兄弟姉妹であつて、その者の死亡の当時その者と生計を同じくしていたものとする。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">死亡一時金（前項ただし書に規定するものを除く。次項において同じ。）を受けるべき者の順位は、前項に規定する順序による。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">死亡一時金を受けるべき者の順位は、前項に規定する順序による。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
@@ -3758,7 +3904,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">市町村長（地方自治法第二百五十二条の十九第一項の指定都市においては、区長又は総合区長とする。）は、厚生労働大臣又は被保険者、被保険者であつた者若しくは受給権者に対して、当該市町村の条例の定めるところにより、被保険者、被保険者であつた者若しくは受給権者又は遺族基礎年金の支給若しくは障害基礎年金若しくは遺族基礎年金の額の加算の要件に該当する子の戸籍に関し、無料で証明を行うことができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長（地方自治法第二百五十二条の十九第一項の指定都市においては、区長又は総合区長とする。）は、厚生労働大臣又は被保険者、被保険者であつた者若しくは受給権者に対して、当該市町村の条例の定めるところにより、被保険者、被保険者であつた者若しくは受給権者又は遺族基礎年金の支給若しくは老齢基礎年金、障害基礎年金若しくは遺族基礎年金の額の加算の要件に該当する子の戸籍に関し、無料で証明を行うことができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -3826,7 +3972,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、必要があると認めるときは、障害基礎年金の受給権者若しくは障害等級に該当する障害の状態にあることによりその額が加算されている子又は障害等級に該当する障害の状態にあることにより遺族基礎年金の受給権を有し、若しくは遺族基礎年金が支給され、若しくはその額が加算されている子に対して、その指定する医師若しくは歯科医師の診断を受けるべきことを命じ、又は当該職員をしてこれらの者の障害の状態を診断させることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、必要があると認めるときは、障害等級に該当する障害の状態にあることにより老齢基礎年金の額が加算されている子、障害基礎年金の受給権者若しくは障害等級に該当する障害の状態にあることによりその額が加算されている子又は障害等級に該当する障害の状態にあることにより遺族基礎年金の受給権を有し、若しくは遺族基礎年金が支給され、若しくはその額が加算されている子に対して、その指定する医師若しくは歯科医師の診断を受けるべきことを命じ、又は当該職員をしてこれらの者の障害の状態を診断させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -4135,6 +4281,12 @@
                 <Sentence Num="1" WritingMode="vertical">第二十条の二第一項の規定による申出の受理</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="7_2">
+              <ItemTitle>七の二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条の六第五項及び第二十九条の二第二項の規定による認定</Sentence>
+              </ItemSentence>
+            </Item>
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
@@ -4150,7 +4302,7 @@
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十三条の二第四項の規定による認定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十三条の二第四項の規定及び第三十六条の五において準用する第二十九条の二第二項の規定による認定</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="11">
@@ -4587,6 +4739,18 @@
                 <Sentence Num="1" WritingMode="vertical">第二十六条並びに附則第九条の二第三項（附則第九条の三第四項において準用する場合を含む。）、第九条の二の二第三項及び第九条の三第一項の規定による老齢基礎年金又は老齢年金の支給に係る事務（第百九条の四第一項第八号に掲げる申出及び請求の受理並びに当該老齢基礎年金又は老齢年金の裁定を除く。）</Sentence>
               </ItemSentence>
             </Item>
+            <Item Num="8_2">
+              <ItemTitle>八の二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条の六第一項ただし書及び第二十九条の二第一項の規定による子について加算する額に相当する部分の支給の停止に係る事務（当該支給の停止に係る決定を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8_3">
+              <ItemTitle>八の三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条の六第三項及び第四項の規定による老齢基礎年金の額の改定に係る事務（同条第五項の規定による認定及び当該改定に係る決定を除く。）</Sentence>
+              </ItemSentence>
+            </Item>
             <Item Num="9">
               <ItemTitle>九</ItemTitle>
               <ItemSentence>
@@ -4596,13 +4760,13 @@
             <Item Num="10">
               <ItemTitle>十</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十二条第一項、第三十六条第一項及び第二項、第三十六条の二第一項及び第四項、第三十六条の三第一項並びに第三十六条の四第一項及び第二項の規定による障害基礎年金の支給の停止に係る事務（当該支給の停止に係る決定を除く。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十二条第一項、第三十六条第一項及び第二項、第三十六条の二第一項及び第四項、第三十六条の三第一項並びに第三十六条の四第一項及び第二項の規定による障害基礎年金の支給の停止に係る事務（当該支給の停止に係る決定を除く。）並びに第三十三条の二第一項ただし書の規定及び第三十六条の五において準用する第二十九条の二第一項の規定による子について加算する額に相当する部分の支給の停止に係る事務（当該支給の停止に係る決定を除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="11">
               <ItemTitle>十一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十三条の二第二項及び第三項並びに第三十四条第一項の規定による障害基礎年金の額の改定に係る事務（第百九条の四第一項第十号に掲げる認定及び同項第十一号に掲げる請求の受理並びに当該改定に係る決定を除く。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第三十三条の二第二項の規定及び同条第三項において準用する第二十七条の六第四項の規定並びに第三十四条第一項の規定による障害基礎年金の額の改定に係る事務（第百九条の四第一項第十号に掲げる認定及び同項第十一号に掲げる請求の受理並びに当該改定に係る決定を除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="12">
@@ -4620,7 +4784,7 @@
             <Item Num="14">
               <ItemTitle>十四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第四十一条、第四十一条の二並びに第四十二条第一項及び第二項の規定による遺族基礎年金の支給の停止に係る事務（第百九条の四第一項第十三号に掲げる申請の受理及び当該支給の停止に係る決定を除く。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四十一条、第四十一条の二並びに第四十二条第一項及び第二項の規定による遺族基礎年金の支給の停止に係る事務（第百九条の四第一項第十三号に掲げる申請の受理及び当該支給の停止に係る決定を除く。）並びに第三十九条第一項ただし書及び第三十九条の二第一項ただし書の規定による子について加算する額に相当する部分の支給の停止に係る事務（当該支給の停止に係る決定を除く。）</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="15">
@@ -7995,11 +8159,17 @@
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">寡婦年金の受給権は、受給権者が第三項の規定による老齢基礎年金の受給権を取得したときは、消滅する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第三項の規定による老齢基礎年金の額について、第二十七条の六の規定を適用する場合においては、同条第一項中「受給権者がその権利を取得した」とあるのは「附則第九条の二第三項の規定による老齢基礎年金の受給権者が六十五歳に達した」と、「の規定にかかわらず、同条」とあるのは「及び附則第九条の二第四項の規定にかかわらず、これらの規定」と、「加算した額とする」とあるのは「加算するものとし、六十五歳に達した日の属する月の翌月から、年金の額を改定する」と、同条第三項中「受給権者がその権利を取得した」とあるのは「附則第九条の二第三項の規定による老齢基礎年金の受給権者が六十五歳に達した」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="6">
           <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">寡婦年金の受給権は、受給権者が第三項の規定による老齢基礎年金の受給権を取得したときは、消滅する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第四項の規定は、第三項の規定による老齢基礎年金の受給権者が第八十七条の二の規定による保険料に係る保険料納付済期間を有する場合における付加年金の額について準用する。</Sentence>
             <Sentence Num="2" WritingMode="vertical">この場合において、第四項中「第二十七条」とあるのは、「第四十四条」と読み替えるものとする。</Sentence>
@@ -8043,8 +8213,14 @@
         <Paragraph Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前条第五項及び第六項の規定は、第三項の規定による老齢基礎年金について準用する。</Sentence>
-            <Sentence Num="2" WritingMode="vertical">この場合において、同条第六項中「第四項の規定」とあるのは「次条第四項及び第五項の規定」と、「第四項中」とあるのは「次条第四項及び第五項の規定中」と読み替えるものとする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第三項の規定による老齢基礎年金の額について、第二十七条の六の規定を適用する場合においては、同条第一項中「受給権者がその権利を取得した」とあるのは「附則第九条の二の二第三項の規定による老齢基礎年金の受給権者が六十五歳に達した」と、「の規定にかかわらず、同条」とあるのは「並びに附則第九条の二の二第四項及び第五項の規定にかかわらず、これらの規定」と、「加算した額とする」とあるのは「加算するものとし、六十五歳に達した日の属する月の翌月から、年金の額を改定する」と、同条第三項中「受給権者がその権利を取得した」とあるのは「附則第九条の二の二第三項の規定による老齢基礎年金の受給権者が六十五歳に達した」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="7">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条第六項及び第七項の規定は、第三項の規定による老齢基礎年金について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同条第七項中「第四項の規定」とあるのは「次条第四項及び第五項の規定」と、「第四項中」とあるのは「次条第四項及び第五項の規定中」と読み替えるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -8136,7 +8312,7 @@
           <Item Num="1">
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">日本国内に住所を有するとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">日本国内に滞在するとき。</Sentence>
             </ItemSentence>
           </Item>
           <Item Num="2">
@@ -8148,7 +8324,13 @@
           <Item Num="3">
             <ItemTitle>三</ItemTitle>
             <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">最後に被保険者の資格を喪失した日（同日において日本国内に住所を有していた者にあつては、同日後初めて、日本国内に住所を有しなくなつた日）から起算して二年を経過しているとき。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第二十六条第一項の規定による再入国の許可（同法第二十六条の二第一項（日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号）第二十三条第二項において準用する場合を含む。）又は第二十六条の三第一項の規定により当該許可を受けたものとみなされる場合を含む。）を受けているとき。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">最後に被保険者の資格を喪失した日（同日において第一号又は前号に該当していた者にあつては、同日後初めて、第一号又は前号のいずれにも該当しなくなつた日）から起算して二年を経過しているとき。</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -12982,13 +13164,13 @@
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の規定により国民年金の保険料納付済期間とみなされた同項各号に掲げる期間（同項第一号に掲げる被保険者期間の計算について附則第四十七条第二項若しくは第三項又は厚生年金保険法等の一部を改正する法律（平成八年法律第八十二号。以下「平成八年改正法」という。）附則第五条第二項若しくは第三項の規定の適用があつた場合には、その適用がないものとして計算した被保険者期間とし、前項第二号に掲げる組合員期間の計算について国家公務員等共済組合法等の一部を改正する法律（昭和六十年法律第百五号。以下「昭和六十年国家公務員共済改正法」という。）附則第三十二条第一項又は平成二十四年一元化法附則第七条第二項の規定の適用があつた場合には、その適用がないものとして計算した組合員期間とし、前項第三号に掲げる組合員期間の計算について地方公務員等共済組合法等の一部を改正する法律（昭和六十年法律第百八号。以下「昭和六十年地方公務員共済改正法」という。）附則第三十五条第一項又は平成二十四年一元化法附則第七条第二項の規定の適用があつた場合には、その適用がないものとして計算した組合員期間とする。）は、国民年金法第二十七条の規定の適用については、保険料納付済期間に算入する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定により国民年金の保険料納付済期間とみなされた同項各号に掲げる期間（同項第一号に掲げる被保険者期間の計算について附則第四十七条第二項若しくは第三項又は厚生年金保険法等の一部を改正する法律（平成八年法律第八十二号。以下「平成八年改正法」という。）附則第五条第二項若しくは第三項の規定の適用があつた場合には、その適用がないものとして計算した被保険者期間とし、前項第二号に掲げる組合員期間の計算について国家公務員等共済組合法等の一部を改正する法律（昭和六十年法律第百五号。以下「昭和六十年国家公務員共済改正法」という。）附則第三十二条第一項又は平成二十四年一元化法附則第七条第二項の規定の適用があつた場合には、その適用がないものとして計算した組合員期間とし、前項第三号に掲げる組合員期間の計算について地方公務員等共済組合法等の一部を改正する法律（昭和六十年法律第百八号。以下「昭和六十年地方公務員共済改正法」という。）附則第三十五条第一項又は平成二十四年一元化法附則第七条第二項の規定の適用があつた場合には、その適用がないものとして計算した組合員期間とする。）は、国民年金法第二十七条及び第二十七条の六第二項の規定の適用については、保険料納付済期間に算入する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">当分の間、第二号被保険者としての国民年金の被保険者期間に係る保険料納付済期間を有する者の二十歳に達した日の属する月前の期間及び六十歳に達した日の属する月以後の期間に係る当該保険料納付済期間は、国民年金法第二十六条及び第二十七条並びに同法附則第九条第一項、第九条の二第一項及び第九条の二の二第一項の規定の適用については、同法第五条第一項の規定にかかわらず、保険料納付済期間に算入せず、同法附則第九条第一項の規定の適用については、合算対象期間に算入する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">当分の間、第二号被保険者としての国民年金の被保険者期間に係る保険料納付済期間を有する者の二十歳に達した日の属する月前の期間及び六十歳に達した日の属する月以後の期間に係る当該保険料納付済期間は、国民年金法第二十六条、第二十七条及び第二十七条の六第二項並びに同法附則第九条第一項、第九条の二第一項及び第九条の二の二第一項の規定の適用については、同法第五条第一項の規定にかかわらず、保険料納付済期間に算入せず、同法附則第九条第一項の規定の適用については、合算対象期間に算入する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="5">
@@ -13478,7 +13660,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">老齢基礎年金の額は、受給権者（次条第一項若しくは第二項又は附則第十八条第一項に該当する者を除く。）が、大正十五年四月二日から昭和四十一年四月一日までの間に生まれた者であつて、六十五歳に達した日において、次の各号のいずれかに該当するその者の配偶者（婚姻の届出をしていないが事実上婚姻関係と同様の事情にある者を含む。以下この条、次条及び附則第十八条において同じ。）によつて生計を維持していたとき（当該六十五歳に達した日の前日において当該配偶者がその受給権を有する次の各号に掲げる年金たる給付の加給年金額の計算の基礎となつていた場合に限る。）は、附則第十七条並びに国民年金法第二十七条及び第二十八条並びに附則第九条の二、第九条の二の二及び第九条の四の五の規定にかかわらず、これらの規定に定める額に、二十二万四千七百円に同法第二十七条に規定する改定率（以下「改定率」という。）を乗じて得た額（その額に五十円未満の端数が生じたときは、これを切り捨て、五十円以上百円未満の端数が生じたときは、これを百円に切り上げるものとする。）にその者の生年月日に応じて政令で定める率を乗じて得た額を加算した額とする。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">老齢基礎年金の額は、受給権者（次条第一項若しくは第二項又は附則第十八条第一項に該当する者を除く。）が、大正十五年四月二日から昭和四十一年四月一日までの間に生まれた者であつて、六十五歳に達した日において、次の各号のいずれかに該当するその者の配偶者（婚姻の届出をしていないが事実上婚姻関係と同様の事情にある者を含む。以下この条、次条及び附則第十八条において同じ。）によつて生計を維持していたとき（当該六十五歳に達した日の前日において当該配偶者がその受給権を有する次の各号に掲げる年金たる給付の加給年金額の計算の基礎となつていた場合に限る。）は、附則第十七条並びに国民年金法第二十七条、第二十七条の六及び第二十八条並びに附則第九条の二、第九条の二の二及び第九条の四の五の規定にかかわらず、これらの規定に定める額に、二十二万四千七百円に同法第二十七条に規定する改定率（以下「改定率」という。）を乗じて得た額（その額に五十円未満の端数が生じたときは、これを切り捨て、五十円以上百円未満の端数が生じたときは、これを百円に切り上げるものとする。）にその者の生年月日に応じて政令で定める率を乗じて得た額を加算した額とする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その者が老齢厚生年金、退職共済年金その他の老齢又は退職を支給事由とする給付であつて政令で定めるものを受けることができるときは、この限りでない。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
@@ -13497,7 +13679,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">大正十五年四月二日から昭和四十一年四月一日までの間に生まれた者が六十五歳に達した日以後にその者の配偶者が前項各号のいずれかに該当するに至つた場合において、その当時その者がその者の配偶者によつて生計を維持していたときは、その者に対する老齢基礎年金の額は、附則第十七条並びに国民年金法第二十七条及び第二十八条並びに附則第九条の二、第九条の二の二及び第九条の四の五の規定にかかわらず、これらの規定に定める額に同項に規定する加算額を加算した額とする。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">大正十五年四月二日から昭和四十一年四月一日までの間に生まれた者が六十五歳に達した日以後にその者の配偶者が前項各号のいずれかに該当するに至つた場合において、その当時その者がその者の配偶者によつて生計を維持していたときは、その者に対する老齢基礎年金の額は、附則第十七条並びに国民年金法第二十七条、第二十七条の六及び第二十八条並びに附則第九条の二、第九条の二の二及び第九条の四の五の規定にかかわらず、これらの規定に定める額に同項に規定する加算額を加算した額とする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その者が同項ただし書に該当するときは、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -13588,7 +13770,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">附則別表第五の上欄に掲げる者であつて、第一号被保険者としての国民年金の被保険者期間（附則第八条第一項の規定により当該被保険者期間とみなすこととされたもの及び国民年金法附則第五条第一項の規定による被保険者としての国民年金の被保険者期間を含む。以下この条において同じ。）が二十五年未満であり、かつ、第一号被保険者としての国民年金の被保険者期間に係る保険料納付済期間（附則第八条第一項の規定により当該保険料納付済期間とみなすこととされたものを含む。以下この条において同じ。）と保険料免除期間（附則第八条第一項の規定により当該保険料免除期間とみなすこととされたものを含む。以下この条において同じ。）とを合算した期間がそれぞれ同表の中欄に掲げる期間以上であるものに支給する老齢基礎年金の額は、第一号に掲げる額が第二号に掲げる額を超えるときは、同法第二十七条の規定にかかわらず、同条に定める額に第一号に掲げる額から第二号に掲げる額を控除して得た額を加算した額とする。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">附則別表第五の上欄に掲げる者であつて、第一号被保険者としての国民年金の被保険者期間（附則第八条第一項の規定により当該被保険者期間とみなすこととされたもの及び国民年金法附則第五条第一項の規定による被保険者としての国民年金の被保険者期間を含む。以下この条において同じ。）が二十五年未満であり、かつ、第一号被保険者としての国民年金の被保険者期間に係る保険料納付済期間（附則第八条第一項の規定により当該保険料納付済期間とみなすこととされたものを含む。以下この条において同じ。）と保険料免除期間（附則第八条第一項の規定により当該保険料免除期間とみなすこととされたものを含む。以下この条において同じ。）とを合算した期間がそれぞれ同表の中欄に掲げる期間以上であるものに支給する老齢基礎年金の額は、第一号に掲げる額が第二号に掲げる額を超えるときは、同法第二十七条及び第二十七条の六の規定にかかわらず、これらの規定に定める額に第一号に掲げる額から第二号に掲げる額を控除して得た額を加算した額とする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その者が、六十五歳以上七十歳未満であつて同法第三十条第二項に規定する障害等級に該当する程度の障害の状態にあるとき、又は七十歳以上であるときに限る。</Sentence>
           </ParagraphSentence>
           <Item Num="1">
@@ -13619,7 +13801,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の規定によつて老齢基礎年金の額が計算される者については、国民年金法第二十八条第四項中「同条に定める額」とあるのは「国民年金法等の一部を改正する法律（昭和六十年法律第三十四号。以下「昭和六十年改正法」という。）附則第十七条第一項に定める額」と、同法附則第九条の二第四項中「同条に定める額」とあるのは「昭和六十年改正法附則第十七条第一項に定める額」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">前項の規定によつて老齢基礎年金の額が計算される者については、国民年金法第二十八条第四項中「これらの規定に定める額」とあるのは「国民年金法等の一部を改正する法律（昭和六十年法律第三十四号。以下「昭和六十年改正法」という。）附則第十七条第一項に定める額」と、同法附則第九条の二第四項中「同条に定める額」とあるのは「昭和六十年改正法附則第十七条第一項に定める額」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
@@ -13653,14 +13835,14 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定による老齢基礎年金の額は、受給権者が、大正十五年四月二日から昭和四十一年四月一日までの間に生まれた者であつて、その権利を取得した当時附則第十四条第一項各号のいずれかに該当するその者の配偶者によつて生計を維持していたときは、国民年金法第二十七条及び第五項において読み替えられた同法第二十八条の規定にかかわらず、これらの規定に定める額に附則第十四条第一項に規定する加算額を加算した額とする。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定による老齢基礎年金の額は、受給権者が、大正十五年四月二日から昭和四十一年四月一日までの間に生まれた者であつて、その権利を取得した当時附則第十四条第一項各号のいずれかに該当するその者の配偶者によつて生計を維持していたときは、国民年金法第二十七条、第五項において読み替えられた同法第二十七条の六及び第六項において読み替えられた同法第二十八条の規定にかかわらず、これらの規定に定める額に附則第十四条第一項に規定する加算額を加算した額とする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その者が同項ただし書に該当するときは、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
           <ParagraphNum>３</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">第一項の規定による老齢基礎年金の額は、受給権者が、大正十五年四月二日から昭和四十一年四月一日までの間に生まれた者であつて、その権利を取得した日後にその者の配偶者が附則第十四条第一項各号のいずれかに該当するに至り、かつ、その当時その者がその者の配偶者によつて生計を維持していたときは、国民年金法第二十七条及び第五項において読み替えられた同法第二十八条の規定にかかわらず、これらの規定に定める額に附則第十四条第一項に規定する加算額を加算した額とする。</Sentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">第一項の規定による老齢基礎年金の額は、受給権者が、大正十五年四月二日から昭和四十一年四月一日までの間に生まれた者であつて、その権利を取得した日後にその者の配偶者が附則第十四条第一項各号のいずれかに該当するに至り、かつ、その当時その者がその者の配偶者によつて生計を維持していたときは、国民年金法第二十七条、第五項において読み替えられた同法第二十七条の六及び第六項において読み替えられた同法第二十八条の規定にかかわらず、これらの規定に定める額に附則第十四条第一項に規定する加算額を加算した額とする。</Sentence>
             <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同項ただし書に該当するときは、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
@@ -13673,17 +13855,23 @@
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第一項の規定による老齢基礎年金の受給権者に対する国民年金法第二十八条の規定の適用については、同条第一項中「六十六歳に達する」とあるのは「その受給権を取得した日から起算して一年を経過した日（以下この条において「一年を経過した日」という。）」と、「六十五歳に達した」とあるのは「当該老齢基礎年金の受給権を取得した」と、「六十六歳に達した」とあるのは「一年を経過した」と、同条第二項中「六十六歳に達した」とあるのは「一年を経過した」と、「七十五歳に達する日」とあるのは「老齢基礎年金の受給権を取得した日から起算して十年を経過した日（次号において「十年を経過した日」という。）」と、「七十五歳に達した日」とあるのは「十年を経過した日」と、同条第五項中「七十歳に達した日」とあるのは「その受給権を取得した日から起算して五年を経過した日」と、「八十歳に達した日」とあるのは「当該老齢基礎年金の受給権を取得した日から起算して十五年を経過した日」と、「六十五歳に達した日」とあるのは「当該老齢基礎年金の受給権を取得した日」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一項の規定による老齢基礎年金の受給権者に対する国民年金法第二十七条の六の規定の適用については、同条第一項中「その権利を取得した」とあるのは「六十五歳に達した日以後に被保険者期間を有するに至つたことにより国民年金法等の一部を改正する法律（昭和六十年法律第三十四号。第三項において「昭和六十年改正法」という。）附則第十八条第一項各号のいずれかに該当することとなつた」と、同条第三項中「その権利を取得した」とあるのは「六十五歳に達した日以後に被保険者期間を有するに至つたことにより昭和六十年改正法附則第十八条第一項各号のいずれかに該当することとなつた」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="6">
           <ParagraphNum>６</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">国民年金法附則第九条第二項の規定は、第一項第一号に規定する合算対象期間の計算について準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一項の規定による老齢基礎年金の受給権者に対する国民年金法第二十八条の規定の適用については、同条第一項中「六十六歳に達する」とあるのは「その受給権を取得した日から起算して一年を経過した日（以下この条において「一年を経過した日」という。）」と、「六十五歳に達した」とあるのは「当該老齢基礎年金の受給権を取得した」と、「六十六歳に達した」とあるのは「一年を経過した」と、同条第二項中「六十六歳に達した」とあるのは「一年を経過した」と、「七十五歳に達する日」とあるのは「老齢基礎年金の受給権を取得した日から起算して十年を経過した日（次号において「十年を経過した日」という。）」と、「七十五歳に達した日」とあるのは「十年を経過した日」と、同条第五項中「七十歳に達した日」とあるのは「その受給権を取得した日から起算して五年を経過した日」と、「八十歳に達した日」とあるのは「当該老齢基礎年金の受給権を取得した日から起算して十五年を経過した日」と、「六十五歳に達した日」とあるのは「当該老齢基礎年金の受給権を取得した日」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="7">
           <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国民年金法附則第九条第二項の規定は、第一項第一号に規定する合算対象期間の計算について準用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="8">
+          <ParagraphNum>８</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">新国民年金法附則第九条の三第一項の規定による老齢年金の受給権は、受給権者が第一項の規定による老齢基礎年金の受給権を取得したときは、消滅する。</Sentence>
           </ParagraphSentence>
@@ -14113,7 +14301,8 @@
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">国民年金法第三十三条及び第三十三条の二の規定は、第一項に規定する年金たる給付のうち障害年金について準用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国民年金法第二十九条の二、第三十三条及び第三十三条の二の規定は、第一項に規定する年金たる給付のうち障害年金について準用する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、必要な技術的読替えは、政令で定める。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="6">
@@ -14138,7 +14327,7 @@
         <Paragraph Num="9">
           <ParagraphNum>９</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">国民年金法附則第九条の二第五項（同法附則第九条の二の二第六項において準用する場合を含む。）の規定は、旧国民年金法による寡婦年金については、適用しない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">国民年金法附則第九条の二第六項（同法附則第九条の二の二第七項において準用する場合を含む。）の規定は、旧国民年金法による寡婦年金については、適用しない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="10">
@@ -20809,7 +20998,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">附則第四十二条の規定による改正後の昭和六十年国民年金等改正法附則第十八条第五項の規定は、施行日の前日において、老齢基礎年金の受給権を取得した日から起算して五年を経過していない者について適用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">昭和六十年国民年金等改正法附則第十八条第六項の規定は、施行日の前日において、老齢基礎年金の受給権を取得した日から起算して五年を経過していない者について適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -20819,7 +21008,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">附則第四十三条の規定による改正後の昭和六十年国民年金等改正法附則第十八条第五項の規定は、第九号施行日の前日において、老齢基礎年金の受給権を取得した日から起算して六年を経過していない者について適用する。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">昭和六十年国民年金等改正法附則第十八条第六項の規定は、第九号施行日の前日において、老齢基礎年金の受給権を取得した日から起算して六年を経過していない者について適用する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -21438,13 +21627,65 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
+      <Article Num="4">
+        <ArticleCaption>（国民年金法における加算に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定（附則第一条第一項第八号に掲げる改正規定に限る。次項において同じ。）による改正後の国民年金法（以下「第八号改正後国年法」という。）第二十七条の六第一項の規定は、同号に掲げる規定の施行の日（以下「第八号施行日」という。）前において老齢基礎年金の受給権を有する者については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第八号改正後国年法第三十六条の五において準用する第八号改正後国年法第二十九条の二第一項の規定は、附則第一条第一項第八号に掲げる規定の施行の際現に第一条の規定による改正前の国民年金法（以下「第八号改正前国年法」という。）第三十三条の二第一項（第七条の規定による改正前の国民年金法等の一部を改正する法律（附則第十二条第四項及び第二十条第一項において「第七条改正前昭和六十年改正法」という。）附則第三十二条第五項において準用する場合を含む。第四項及び附則第十二条第七項において同じ。）の規定によりその額が加算されている障害基礎年金の受給権を有する者（政令で定める者を除く。）については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第八号改正後国年法第三十三条の二第一項（第七条の規定による改正後の国民年金法等の一部を改正する法律（以下「第七条改正後昭和六十年改正法」という。）附則第三十二条第五項において準用する場合を含む。次項及び第五項において同じ。）、第三十九条第一項及び第三十九条の二第一項の規定は、令和十年四月以後の月分のこれらの規定により子について加算する額について適用し、同年三月以前の月分の子について加算する額については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">第八号改正後国年法第三十三条の二第一項ただし書（第一号に係る部分に限る。）、第三十九条第一項ただし書（第一号に係る部分に限る。）及び第三十九条の二第一項ただし書（第一号に係る部分に限る。）の規定は、第八号改正前国年法第三十三条の二第一項の規定により子（附則第一条第一項第八号に掲げる規定の施行の際現に日本国内に住所を有しないものに限る。以下この項において同じ。）について同号に掲げる規定の施行の際現にその額が加算されている障害基礎年金又は第八号改正前国年法第三十九条第一項若しくは第三十九条の二第一項の規定により子について同号に掲げる規定の施行の際現にその額が加算されている遺族基礎年金の受給権を有する者については、適用しない。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これらの子が第八号施行日以後に日本国内に住所を有するに至った日以後、初めて日本国内に住所を有しなくなった日（外国において留学をする学生その他の日本国内に住所を有しないが渡航目的その他の事情を考慮して日本国内に生活の基礎があると認められる者として厚生労働省令で定める者（附則第十二条第二項ただし書において「留学をする学生等」という。）に該当するに至った場合を除く。）の属する月の翌月からこれらの子が日本国内に住所を有するに至った日の属する月までの間、これらの子について加算する額に相当する部分の支給を停止する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="5">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第八号改正後国年法第三十三条の二第一項ただし書（第二号に係る部分に限る。）、第三十九条第一項ただし書（第二号に係る部分に限る。）及び第三十九条の二第一項ただし書（第二号に係る部分に限る。）の規定は、令和十年四月以後の月分のこれらの規定に規定する子について加算する額に相当する部分の支給停止について適用し、同年三月以前の月分の当該子について加算する額に相当する部分の支給停止については、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="6">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">厚生労働大臣の第四項ただし書の規定による子について加算する額に相当する部分の支給の停止に係る事務（当該支給の停止に係る決定を除く。）は、日本年金機構に行わせるものとする。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、日本年金機構法（平成十九年法律第百九号）第二十三条第三項中「国民年金法」とあるのは「国民年金法若しくは社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律（令和七年法律第七十四号）」と、同法第二十六条第二項中「国民年金法」とあるのは「国民年金法若しくは社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律」と、同法第二十七条第一項第二号中「規定する事務、同法」とあるのは「規定する事務、社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律附則第四条第六項に規定する事務、国民年金法」と、同法第四十八条第一項中「国民年金法」とあるのは「国民年金法若しくは社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（老齢基礎年金の支給の繰下げに関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第八号改正後国年法第二十八条第一項の規定は、第八号施行日の前日において、遺族厚生年金の受給権を有しない者（令和二年改正法附則第六条に規定する者に限る。）及び遺族厚生年金の受給権を有する者（同日において六十五歳に達していない者に限る。）について適用し、同日において、遺族厚生年金の受給権を有しない者（令和二年改正法附則第六条に規定する者を除く。）及び遺族厚生年金の受給権を有する者（同日において六十五歳に達している者に限る。）については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
       <Article Num="6">
         <ArticleCaption>（遺族基礎年金の支給停止等に関する経過措置）</ArticleCaption>
         <ArticleTitle>第六条</ArticleTitle>
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical"/>
+            <Sentence Num="1" WritingMode="vertical">第八号改正後国年法第四十一条第二項の規定は、令和十年四月以後の月分の遺族基礎年金の支給停止について適用し、同年三月以前の月分の遺族基礎年金の支給停止については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
@@ -21469,6 +21710,32 @@
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">第八号施行日に遺族年金生活者支援給付金の支給要件に該当している者（遺族基礎年金が第八号施行日の前日において第八号改正前国年法第四十一条第二項の規定によりその全額につき支給が停止されていた者に限る。）が、第八号施行日から起算して三月を経過する日までの間に年金生活者支援給付金の支給に関する法律第二十二条第一項の規定による認定の請求をしたときは、その者に対する当該遺族年金生活者支援給付金の支給は、同法第二十四条において準用する同法第六条第一項の規定にかかわらず、第八号施行日の属する月から始める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleCaption>（国民年金法による死亡一時金の支給要件並びに遺族の範囲及び順位に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第八号改正後国年法第五十二条の二並びに第五十二条の三第一項及び第二項の規定は、国民年金法第五十二条の二第一項に規定する死亡した者の死亡日が第八号施行日以後である場合について適用し、第八号施行日前において支給事由の生じた同法による死亡一時金の支給要件並びに遺族の範囲及び順位については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleCaption>（国民年金法による脱退一時金の支給の請求に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定（附則第一条第一項第十二号に掲げる改正規定に限る。以下この項において同じ。）による改正後の国民年金法（次項において「第十二号改正後国年法」という。）附則第九条の三の二第一項ただし書の規定は、同号に掲げる規定の施行の日（以下この条及び附則第十九条において「第十二号施行日」という。）以後に行われる同項の規定による脱退一時金の支給の請求について適用し、第十二号施行日前に行われた第一条の規定による改正前の国民年金法附則第九条の三の二第一項の規定による脱退一時金の支給の請求については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">国民年金法附則第九条の三の二第一項本文に規定する者であって、第十二号施行日において六十歳以上であるものが第十二号施行日以後に行う第十二号改正後国年法附則第九条の三の二第一項の規定による脱退一時金の支給の請求については、同項ただし書及び前項の規定にかかわらず、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
