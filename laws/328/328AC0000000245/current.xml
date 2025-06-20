@@ -946,7 +946,18 @@
                       <Sentence Num="1">七一〇、〇〇〇円</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1">六九五、〇〇〇円以上</Sentence>
+                      <Sentence Num="1">六九五、〇〇〇円以上七三〇、〇〇〇円未満</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1">第三十五級</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1">七五〇、〇〇〇円</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1">七三〇、〇〇〇円以上</Sentence>
                     </TableColumn>
                   </TableRow>
                 </Table>
@@ -955,7 +966,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1">短期給付等事務（短期給付（第二十条第一項及び第三項に規定する短期給付をいう。以下同じ。）の額の算定並びに短期給付、高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）の規定による前期高齢者納付金等、後期高齢者支援金等及び出産育児関係事務費拠出金、介護保険法（平成九年法律第百二十三号）の規定による納付金（以下「介護納付金」という。）、感染症の予防及び感染症の患者に対する医療に関する法律（平成十年法律第百十四号）の規定による流行初期医療確保拠出金等、子ども・子育て支援法（平成二十四年法律第六十五号）の規定による子ども・子育て支援納付金並びに福祉事業に係る掛金の徴収をいう。次項及び次条第二項において同じ。）に関する前項の規定の適用については、同項の表は、次のとおりとする。</Sentence>
+                <Sentence Num="1">短期給付等事務（短期給付（第二十条第一項及び第三項に規定する短期給付をいう。以下同じ。）の額の算定並びに短期給付、高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）の規定による前期高齢者納付金等、後期高齢者支援金等及び出産育児関係事務費拠出金、地域における医療及び介護の総合的な確保の促進に関する法律（平成元年法律第六十四号）の規定による医師手当拠出金等、介護保険法（平成九年法律第百二十三号）の規定による納付金（以下「介護納付金」という。）、感染症の予防及び感染症の患者に対する医療に関する法律（平成十年法律第百十四号）の規定による流行初期医療確保拠出金等、子ども・子育て支援法（平成二十四年法律第六十五号）の規定による子ども・子育て支援納付金並びに福祉事業に係る掛金の徴収をいう。次項及び次条第二項において同じ。）に関する前項の規定の適用については、同項の表は、次のとおりとする。</Sentence>
               </ParagraphSentence>
               <TableStruct>
                 <Table>
@@ -2440,7 +2451,7 @@
                       <Sentence Num="1">及び国の負担金（</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1">（前期高齢者納付金等及び後期高齢者支援金等並びに第三条第四項に規定する流行初期医療確保拠出金等に係る掛金を含み、</Sentence>
+                      <Sentence Num="1">（前期高齢者納付金等及び後期高齢者支援金等並びに第三条第四項に規定する医師手当拠出金等及び流行初期医療確保拠出金等に係る掛金を含み、</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -2745,7 +2756,7 @@
                       <Sentence Num="1">及び国の負担金（</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1">（前期高齢者納付金等及び後期高齢者支援金等並びに第三条第四項に規定する流行初期医療確保拠出金等に係る掛金を含み、</Sentence>
+                      <Sentence Num="1">（前期高齢者納付金等及び後期高齢者支援金等並びに第三条第四項に規定する医師手当拠出金等及び流行初期医療確保拠出金等に係る掛金を含み、</Sentence>
                     </TableColumn>
                   </TableRow>
                   <TableRow>
@@ -10896,6 +10907,12 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1">第十号施行日前に加入者の資格を取得して、第十号施行日まで引き続きその資格を有する者（任意継続加入者を除く。）のうち、第十号施行日において現に第二十六条の規定による改正前の私立学校教職員共済法第二十二条第一項の規定により定められている標準報酬月額が六十八万円である者（当該標準報酬月額の基礎となった報酬月額が六十九万五千円未満である者を除く。）の標準報酬月額については、当該基礎となった報酬月額を第二十六条の規定による改正後の同項に規定する標準報酬月額の基礎となる報酬月額とみなして、第十号施行日において改定するものとし、当該改定した標準報酬月額は、令和十年九月から令和十一年八月までの各月の標準報酬月額とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1">第十三号施行日前に加入者の資格を取得して、第十三号施行日まで引き続きその資格を有する者（任意継続加入者を除く。）のうち、第十三号施行日において現に第二十七条の規定による改正前の私立学校教職員共済法第二十二条第一項の規定により定められている標準報酬月額が七十一万円である者（当該標準報酬月額の基礎となった報酬月額が七十三万円未満である者を除く。）の標準報酬月額については、当該基礎となった報酬月額を第二十七条の規定による改正後の同項に規定する標準報酬月額の基礎となる報酬月額とみなして、第十三号施行日において改定するものとし、当該改定した標準報酬月額は、令和十一年九月から令和十二年八月までの各月の標準報酬月額とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
