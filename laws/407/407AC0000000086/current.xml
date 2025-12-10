@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="086" Year="07" PromulgateMonth="05" PromulgateDay="08"><LawNum>平成七年法律第八十六号</LawNum><LawBody><LawTitle Kana="こうせいほごじぎょうほう" Abbrev="" AbbrevKana="">更生保護事業法</LawTitle>
+<Law Lang="ja" Era="Heisei" Year="07" Num="086" PromulgateMonth="05" PromulgateDay="08" LawType="Act"><LawNum>平成七年法律第八十六号</LawNum><LawBody><LawTitle Kana="こうせいほごじぎょうほう" Abbrev="" AbbrevKana="">更生保護事業法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -82,7 +82,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">保護観察に付されている者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">保護観察に付されている者又は保護観察に付されていた者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -94,7 +94,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">拘禁刑につき刑の全部の執行猶予の言渡しを受け、刑事上の手続による身体の拘束を解かれた者（第一号に該当する者を除く。次号及び第五号において同じ。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">拘禁刑につき刑の全部の執行猶予の言渡しを受け、刑事上の手続による身体の拘束を解かれた者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
@@ -124,7 +124,7 @@
             <Item Num="8">
               <ItemTitle>八</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">少年院から退院し、又は仮退院を許された者（第一号に該当する者を除く。）</Sentence>
+                <Sentence Num="1" WritingMode="vertical">少年院から退院した者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="9">
@@ -195,13 +195,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">国は、更生保護事業が保護観察、更生緊急保護その他の国の責任において行う改善更生の措置を円滑かつ効果的に実施する上で重要な機能を果たすものであることにかんがみ、更生保護事業の適正な運営を確保し、及びその健全な育成発達を図るための措置を講ずるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">国は、更生保護事業が保護観察、更生緊急保護その他の国の責任において行う改善更生の措置を円滑かつ効果的に実施する上で重要な機能を果たすものであることに鑑み、更生保護事業の適正な運営を確保し、及びその健全な育成発達を図るための措置を講ずるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">地方公共団体は、更生保護事業が犯罪をした者及び非行のある少年の改善更生を助け、これにより犯罪を防止し、地域社会の安全及び住民福祉の向上に寄与するものであることにかんがみ、その地域において行われる更生保護事業に対して必要な協力をすることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">地方公共団体は、更生保護事業が犯罪をした者及び非行のある少年の改善更生を助け、これにより犯罪を防止し、地域社会の安全及び住民福祉の向上に寄与するものであることに鑑み、その地方公共団体の地域の状況に応じ、その地域において行われる更生保護事業に対して必要な協力をするよう努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -1897,6 +1897,16 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="61_3">
+          <ArticleCaption>（安全の確保）</ArticleCaption>
+          <ArticleTitle>第六十一条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法務大臣は、認可事業者及び届出事業者の従業者が安全にその職務を行うことができるよう、これら事業者がその従業者の安全を確保することができるようにするために必要な施策の推進に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="62">
           <ArticleCaption>（地方更生保護委員会への委任）</ArticleCaption>
           <ArticleTitle>第六十二条</ArticleTitle>
@@ -2554,6 +2564,16 @@
         <ParagraphNum>２</ParagraphNum>
         <ParagraphSentence>
           <Sentence Num="1" WritingMode="vertical">この法律の施行に伴い必要な経過措置その他の事項は、別に法律で定めるところによる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一二月一〇日法律第八二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
         </ParagraphSentence>
       </Paragraph>
     </SupplProvision>
