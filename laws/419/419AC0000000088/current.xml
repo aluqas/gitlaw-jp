@@ -1000,13 +1000,20 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">地方委員会は、前項の決定をしたときは、速やかに、その対象とされた者が収容されている刑事施設の長又は少年院の長に対し、その旨を書面で通知するとともに、当該決定を受けた者に対し、当該決定をした旨の証明書を交付しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">地方委員会は、前項の決定をしたときは、速やかに、その対象とされた者が収容されている刑事施設の長又は少年院の長に対し、その旨を書面又は電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）により通知するとともに、当該決定を受けた者に対し、当該決定をした旨の証明書（電磁的記録をもって作成するものを含む。）を提供しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電磁的記録をもって作成する証明書の提供は、これを受ける者に異議があるときは、することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">第一項の決定の対象とされた者の刑期は、前項の通知が刑事施設又は少年院に到達した日に終了するものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第二項の規定によりされた電磁的記録による通知（電気通信回線を通じてされたものに限る。）は、刑事施設又は少年院の使用に係る電子計算機（入出力装置を含む。）に備えられたファイルに記録された時に当該刑事施設又は少年院に到達したものとみなす。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1035,7 +1042,8 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">地方委員会は、前項の決定をしたときは、当該決定を受けた者に対し、当該決定をした旨の証明書を交付しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">地方委員会は、前項の決定をしたときは、当該決定を受けた者に対し、当該決定をした旨の証明書（電磁的記録をもって作成するものを含む。）を提供しなければならない。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、電磁的記録をもって作成する証明書の提供は、これを受ける者に異議があるときは、することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1667,8 +1675,8 @@
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">刑事訴訟法（昭和二十三年法律第百三十一号）第六十四条、第七十三条第一項前段及び第三項、第七十四条並びに第七十六条第一項本文及び第三項の規定（勾引に関する部分に限る。）は、第二項又は第三項の引致状及びこれらの規定による保護観察対象者の引致について準用する。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、同法第六十四条第一項中「罪名、公訴事実の要旨」とあり、同法第七十三条第三項中「公訴事実の要旨」とあり、及び同法第七十六条第一項本文中「公訴事実の要旨及び弁護人を選任することができる旨並びに貧困その他の事由により自ら弁護人を選任することができないときは弁護人の選任を請求することができる旨」とあるのは「引致の理由」と、同法第六十四条第一項中「裁判長又は受命裁判官」とあるのは「裁判官」と、同法第七十四条中「刑事施設」とあるのは「刑事施設又は少年鑑別所」と、同法第七十六条第三項中「告知及び前項の教示」とあるのは「告知」と、「合議体の構成員又は裁判所書記官」とあるのは「地方更生保護委員会が引致した場合においては委員又は保護観察官、保護観察所の長が引致した場合においては保護観察官」と読み替えるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">刑事訴訟法（昭和二十三年法律第百三十一号）第六十二条第二項、第六十四条、第七十三条第一項前段及び第三項、第七十四条並びに第七十六条第一項本文及び第三項の規定（勾引に関する部分に限る。）は、第二項又は第三項の引致状及びこれらの規定による保護観察対象者の引致について準用する。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">この場合において、同法第六十四条第一項中「罪名、公訴事実の要旨」とあり、同法第七十三条第三項中「公訴事実の要旨」とあり、及び同法第七十六条第一項本文中「公訴事実の要旨及び弁護人を選任することができる旨並びに貧困その他の事由により自ら弁護人を選任することができないときは弁護人の選任を請求することができる旨」とあるのは「引致の理由」と、同法第六十四条第一項第二号中「検察官及び検察事務官又は司法警察職員（第七十条第二項の規定により刑事施設職員が執行する場合にあつては、検察官及び刑事施設職員）」とあるのは「保護観察官（更生保護法第六十三条第六項ただし書の規定により警察官が執行を嘱託された場合にあつては、保護観察官及び警察官）」と、同号、同条第二項及び同法第七十三条第一項第二号中「裁判長又は受命裁判官」とあるのは「裁判官」と、同法第七十四条中「刑事施設」とあるのは「刑事施設又は少年鑑別所」と、同法第七十六条第三項中「告知及び前項の教示」とあるのは「告知」と、「合議体の構成員又は裁判所書記官」とあるのは「地方更生保護委員会が引致した場合においては委員又は保護観察官、保護観察所の長が引致した場合においては保護観察官」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8">
@@ -2371,7 +2379,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">保護観察所の長は、保護観察付執行猶予者について、刑法第二十六条の二第二号又は第二十七条の五第二号の規定により刑の執行猶予の言渡しを取り消すべきものと認めるときは、刑事訴訟法第三百四十九条第一項に規定する地方裁判所、家庭裁判所又は簡易裁判所に対応する検察庁の検察官に対し、書面で、同条第二項に規定する申出をしなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">保護観察所の長は、保護観察付執行猶予者について、刑法第二十六条の二第二号又は第二十七条の五第二号の規定により刑の執行猶予の言渡しを取り消すべきものと認めるときは、刑事訴訟法第三百四十九条第一項に規定する地方裁判所、家庭裁判所又は簡易裁判所に対応する検察庁の検察官に対し、書面又は電磁的記録により、同条第二項に規定する申出をしなければならない。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2529,28 +2537,40 @@
       <Chapter Num="4">
         <ChapterTitle>第四章　生活環境の調整</ChapterTitle>
         <Article Num="82">
-          <ArticleCaption>（収容中の者に対する生活環境の調整）</ArticleCaption>
+          <ArticleCaption>（収容中の者等に対する生活環境の調整）</ArticleCaption>
           <ArticleTitle>第八十二条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">保護観察所の長は、刑の執行のため刑事施設に収容されている者又は刑若しくは保護処分の執行のため少年院に収容されている者（以下「収容中の者」と総称する。）について、その社会復帰を円滑にするため必要があると認めるときは、その者の家族その他の関係人を訪問して協力を求めることその他の方法により、釈放後の住居、就業先その他の生活環境の調整を行うものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">保護観察所の長は、刑の執行のため刑事施設に収容され、若しくは労役場に留置されている者又は刑若しくは保護処分の執行のため少年院に収容されている者（以下「収容中の者等」と総称する。）について、その社会復帰を円滑にするため必要があると認めるときは、その者との面接を行うこと、その者の家族その他の関係人を訪問して協力を求めることその他の方法により、釈放後の住居、就業先その他の生活環境の調整を行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">地方委員会は、前項の規定による調整が有効かつ適切に行われるよう、保護観察所の長に対し、調整を行うべき住居、就業先その他の生活環境に関する事項について必要な指導及び助言を行うほか、同項の規定による調整が複数の保護観察所において行われる場合における当該保護観察所相互間の連絡調整を行うものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">保護観察所の長は、前項の規定による調整を行うに当たっては、収容中の者等が収容されている刑事施設（労役場に留置されている場合には、当該労役場が附置された刑事施設）又は少年院の職員から参考となる事項について聴取し、及びこれらの者に面接への立会いその他の協力を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">地方委員会は、前項の措置をとるに当たって必要があると認めるときは、収容中の者との面接、関係人に対する質問その他の方法により、調査を行うことができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による聴取は、保護観察官又は保護司をして行わせるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方委員会は、第一項の規定による調整が有効かつ適切に行われるよう、保護観察所の長に対し、調整を行うべき住居、就業先その他の生活環境に関する事項について必要な指導及び助言を行うほか、同項の規定による調整が複数の保護観察所において行われる場合における当該保護観察所相互間の連絡調整を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">地方委員会は、前項の措置をとるに当たって必要があると認めるときは、収容中の者等との面接、関係人に対する質問その他の方法により、調査を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第二十五条第二項及び第三十六条第二項の規定は、前項の調査について準用する。</Sentence>
             </ParagraphSentence>
@@ -2705,14 +2725,14 @@
               <ParagraphNum/>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">更生緊急保護は、前条第一項各号に掲げる者の申出があった場合において、保護観察所の長がその必要があると認めたときに限り、行うものとする。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">収容中の者から申出があり、その者が同項第一号、第二号、第五号又は第九号に掲げる者（第八十八条の二において「刑執行終了者等」という。）に該当することとなった場合において、保護観察所の長が必要があると認めたときも、同様とする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">収容中の者等から申出があり、その者が同項第一号、第二号、第五号、第八号又は第九号に掲げる者（第八十八条の二において「刑執行終了者等」という。）に該当することとなった場合において、保護観察所の長が必要があると認めたときも、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">検察官、刑事施設の長又は少年院の長は、前条第一項各号に掲げる者について、刑事上の手続又は保護処分による身体の拘束を解く場合において、必要があると認めるときは、その者に対し、この節に定める更生緊急保護の制度及び申出の手続について教示しなければならない。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">収容中の者について、必要があると認めるときも、同様とする。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">収容中の者等について、必要があると認めるときも、同様とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
