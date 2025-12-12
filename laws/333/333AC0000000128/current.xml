@@ -1735,7 +1735,29 @@
                       <Sentence Num="1">六二〇、〇〇〇円</Sentence>
                     </TableColumn>
                     <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-                      <Sentence Num="1">六〇五、〇〇〇円以上</Sentence>
+                      <Sentence Num="1">六〇五、〇〇〇円以上六三五、〇〇〇円未満</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1">第三二級</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1">六五〇、〇〇〇円</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1">六三五、〇〇〇円以上六六五、〇〇〇円未満</Sentence>
+                    </TableColumn>
+                  </TableRow>
+                  <TableRow>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1">第三三級</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1">六八〇、〇〇〇円</Sentence>
+                    </TableColumn>
+                    <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                      <Sentence Num="1">六六五、〇〇〇円以上</Sentence>
                     </TableColumn>
                   </TableRow>
                 </Table>
@@ -6316,7 +6338,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1">組合は、前項の規定により同項第二号又は第三号に掲げる事務を委託する場合は、他の医療情報基盤・診療報酬審査支払機構法第一条に規定する保険者及び法令の規定により医療に関する給付その他の事務を行う者であつて財務省令で定めるものと共同して委託するものとする。</Sentence>
+              <Sentence Num="1">組合は、前項の規定により同項第二号又は第三号に掲げる事務を委託する場合は、他の医療情報基盤・診療報酬審査支払機構法第一条に規定する保険者、法令の規定により医療に関する給付に係る事務を行う者であつて財務省令で定めるもの並びに介護保険法第三条の規定により介護保険を行う市町村及び特別区その他財務省令で定める者と共同して委託するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -15552,7 +15574,7 @@
             <ItemTitle>二</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence Num="1">日本電信電話株式会社（日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第一条の二第一項に規定する日本電信電話株式会社をいう。附則第五十四条第一項第一号において同じ。）</Sentence>
+                <Sentence Num="1">日本電信電話株式会社（日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第二条第一項に規定する日本電信電話株式会社をいう。附則第五十四条第一項第一号において同じ。）</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence Num="1">総務大臣</Sentence>
@@ -26059,6 +26081,37 @@
         </Paragraph>
       </Article>
     </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1">第二条及び第四条の規定並びに附則第八条第一項及び第七項、第九条第五項、第十六条並びに第十七条の規定、附則第十八条中電話加入権質に関する臨時特例法（昭和三十三年法律第百三十八号）第五条第一項の改正規定並びに附則第二十条及び第二十一条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
     <SupplProvision AmendLawNum="令和七年六月二〇日法律第七四号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -26175,6 +26228,16 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1">政府は、この法律による改正後のそれぞれの法律の施行の状況、この法律の公布の日以後初めて作成される国民年金法第四条の三第一項に規定する財政の現況及び見通し、厚生年金保険法第二条の四第一項に規定する財政の現況及び見通し等を踏まえ、国民健康保険制度の在り方等に留意しながら、厚生年金保険及び健康保険の適用範囲について引き続き検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="29">
+        <ArticleCaption>（国家公務員共済組合法における標準報酬に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">第六号施行日前に国家公務員共済組合の組合員の資格を取得して、第六号施行日まで引き続きその資格を有する者（国家公務員共済組合法第百二十六条の五第二項に規定する任意継続組合員を除く。）のうち、令和九年九月の標準報酬の月額が六十五万円である者（当該標準報酬の月額の基礎となった報酬月額が六十六万五千円未満である者を除く。）の標準報酬については、当該基礎となった報酬月額を第十九条の規定（附則第一条第一項第六号に掲げる改正規定に限る。）による改正後の国家公務員共済組合法第四十条第一項に規定する標準報酬の基礎となる報酬月額とみなして、第六号施行日において改定するものとし、当該改定した標準報酬は、同月から令和十年八月までの各月の標準報酬とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
