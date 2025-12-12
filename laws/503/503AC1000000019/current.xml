@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Reiwa" Lang="ja" LawType="Act" Num="019" Year="03" PromulgateMonth="03" PromulgateDay="31"><LawNum>令和三年法律第十九号</LawNum><LawBody><LawTitle Kana="かそちいきのじぞくてきはってんのしえんにかんするとくべつそちほう" Abbrev="" AbbrevKana="">過疎地域の持続的発展の支援に関する特別措置法</LawTitle>
+<Law Lang="ja" Era="Reiwa" Year="03" Num="019" PromulgateMonth="03" PromulgateDay="31" LawType="Act"><LawNum>令和三年法律第十九号</LawNum><LawBody><LawTitle Kana="かそちいきのじぞくてきはってんのしえんにかんするとくべつそちほう" Abbrev="" AbbrevKana="">過疎地域の持続的発展の支援に関する特別措置法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCPreambleLabel>前文</TOCPreambleLabel>
@@ -1119,7 +1119,7 @@
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県は、医療法（昭和二十三年法律第二百五号）第三十条の四第一項に規定する医療計画を作成するに当たっては、過疎地域における医療の特殊事情に鑑み、過疎地域において医師等の確保、病床の確保等により必要な医療が確保されるよう適切な配慮をするものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、医療法（昭和二十三年法律第二百五号）第三十条の三の三第一項に規定する地域医療構想及び同法第三十条の四第一項に規定する医療計画を作成するに当たっては、過疎地域における医療の特殊事情に鑑み、過疎地域において医師等の確保、病床の確保等により必要な医療が確保されるよう適切な配慮をするものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8">
@@ -2396,7 +2396,20 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <AppdxTable Num="1">
+    <SupplProvision AmendLawNum="令和七年一二月一二日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和九年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <AppdxTable>
       <AppdxTableTitle WritingMode="vertical">別表</AppdxTableTitle>
       <RelatedArticleNum>（第十二条関係）</RelatedArticleNum>
       <TableStruct>

@@ -845,7 +845,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">厚生労働大臣は、国民保健の向上に資するため、匿名予防接種等関連情報（予防接種等関連情報（前条第二項及び第三項の規定により提供された情報並びに第十二条第一項の規定による報告に係る情報をいう。以下この項及び次条において同じ。）に係る特定の定期の予防接種等の対象者その他の厚生労働省令で定める者（次条において「本人」という。）を識別すること及びその作成に用いる予防接種等関連情報を復元することができないようにするために厚生労働省令で定める基準に従い加工した予防接種等関連情報をいう。以下同じ。）を利用し、又は厚生労働省令で定めるところにより、次の各号に掲げる者であって、匿名予防接種等関連情報の提供を受けて行うことについて相当の公益性を有すると認められる業務としてそれぞれ当該各号に定めるものを行うものに提供することができる。</Sentence>
+              <Sentence Num="1">厚生労働大臣は、国民保健の向上に資するため、匿名予防接種等関連情報（予防接種等関連情報（前条第二項及び第三項の規定により提供された情報並びに第十二条第一項の規定による報告に係る情報をいう。以下同じ。）に係る特定の定期の予防接種等の対象者その他の厚生労働省令で定める者（次条及び第二十八条の二第一項において「本人」という。）を識別すること及びその作成に用いる予防接種等関連情報を復元することができないようにするために厚生労働省令で定める基準に従い加工した予防接種等関連情報をいう。以下同じ。）を利用し、又は厚生労働省令で定めるところにより、次の各号に掲げる者であって、匿名予防接種等関連情報の提供を受けて行うことについて相当の公益性を有すると認められる業務としてそれぞれ当該各号に定めるものを行うものに提供することができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -928,13 +928,94 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
+        <Article Num="28_2">
+          <ArticleCaption>（国民保健の向上のための仮名予防接種等関連情報の利用又は提供）</ArticleCaption>
+          <ArticleTitle>第二十八条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">厚生労働大臣は、国民保健の向上に資するため、仮名予防接種等関連情報（予防接種等関連情報に係る本人を他の情報と照合しない限り識別することができないようにするために厚生労働省令で定める基準に従い加工した予防接種等関連情報をいう。以下同じ。）を利用することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">厚生労働大臣は、国民保健の向上に資するため、次の各号に掲げる者であって仮名予防接種等関連情報の提供を受けて行うことについて相当の公益性を有すると認められる業務として当該各号に定めるものを行うものが当該業務を行うために仮名予防接種等関連情報を利用する必要があると認めるときは、厚生労働省令で定めるところにより、当該者に当該仮名予防接種等関連情報を提供することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1">国の他の行政機関及び地方公共団体</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1">適正な保健医療サービスの提供に資する施策の企画及び立案に関する調査</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1">大学その他の研究機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1">疾病の原因並びに疾病の予防、診断及び治療の方法に関する研究その他の公衆衛生の向上及び増進に関する研究</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1">民間事業者その他の厚生労働省令で定める者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1">医療分野の研究開発に資する分析その他の厚生労働省令で定める業務（特定の商品又は役務の広告又は宣伝に利用するために行うものを除く。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">厚生労働大臣は、前二項の規定による仮名予防接種等関連情報の利用又は提供を行う場合には、当該仮名予防接種等関連情報を高齢者の医療の確保に関する法律第十六条の七第一項に規定する仮名医療保険等関連情報、感染症法第五十六条の四十六第一項に規定する仮名感染症関連情報その他の厚生労働省令で定めるものと連結して利用し、又は連結して利用することができる状態で提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_3">
+          <ArticleCaption>（仮名予防接種等関連情報の提供を受ける者に対する利用目的等の制限の要求等）</ArticleCaption>
+          <ArticleTitle>第二十八条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">厚生労働大臣は、前条第二項の規定に基づき、仮名予防接種等関連情報を提供する場合において、必要があると認めるときは、同項の規定により仮名予防接種等関連情報の提供を受け、これを利用する者（以下「仮名予防接種等関連情報利用者」という。）に対し、提供に係る仮名予防接種等関連情報について、その利用の目的又は方法の制限その他必要な制限を付すものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">個人情報の保護に関する法律（平成十五年法律第五十七号）第六十八条及び第七十六条から第百七条までの規定は、厚生労働大臣が前条第一項又は第二項の規定により仮名予防接種等関連情報を利用し、又は提供する場合については、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_4">
+          <ArticleCaption>（準用）</ArticleCaption>
+          <ArticleTitle>第二十八条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">第二十五条から第二十八条までの規定は、仮名予防接種等関連情報利用者による仮名予防接種等関連情報の取扱いについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="29">
           <ArticleCaption>（立入検査等）</ArticleCaption>
           <ArticleTitle>第二十九条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">厚生労働大臣は、この章（第二十三条を除く。）の規定の施行に必要な限度において、匿名予防接種等関連情報利用者（国の他の行政機関を除く。以下この項及び次条において同じ。）に対し報告若しくは帳簿書類の提出若しくは提示を命じ、又は当該職員に関係者に対して質問させ、若しくは匿名予防接種等関連情報利用者の事務所その他の事業所に立ち入り、匿名予防接種等関連情報利用者の帳簿書類その他の物件を検査させることができる。</Sentence>
+              <Sentence Num="1">厚生労働大臣は、この章（第二十三条を除く。）の規定の施行に必要な限度において、匿名予防接種等関連情報利用者及び仮名予防接種等関連情報利用者（国の他の行政機関を除く。以下この項及び次条において「匿名・仮名予防接種等関連情報利用者」という。）に対し報告若しくは帳簿書類の提出若しくは提示を命じ、又は当該職員に関係者に対して質問させ、若しくは匿名・仮名予防接種等関連情報利用者の事務所その他の事業所に立ち入り、匿名・仮名予防接種等関連情報利用者の帳簿書類その他の物件を検査させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -956,7 +1037,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">厚生労働大臣は、匿名予防接種等関連情報利用者が第二十五条から第二十八条までの規定に違反していると認めるときは、その者に対し、当該違反を是正するため必要な措置をとるべきことを命ずることができる。</Sentence>
+              <Sentence Num="1">厚生労働大臣は、匿名・仮名予防接種等関連情報利用者が第二十五条から第二十八条までの規定（これらの規定を第二十八条の四において準用する場合を含む。）又は第二十八条の三第一項の規定（次条第二項において準用する場合を含む。）により付した制限に違反していると認めるときは、その者に対し、当該違反を是正するため必要な措置をとるべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -966,7 +1047,19 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">厚生労働大臣は、第二十三条第一項の規定による調査及び研究並びに第二十四条第一項の規定による匿名予防接種等関連情報の利用又は提供に係る事務の全部又は一部を医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）による医療情報基盤・診療報酬審査支払機構（以下「基盤機構」という。）、国民健康保険法（昭和三十三年法律第百九十二号）第四十五条第五項に規定する国民健康保険団体連合会（以下「連合会」という。）その他厚生労働省令で定める者（次条及び第五十七条第一項において「基盤機構等」という。）に委託することができる。</Sentence>
+              <Sentence Num="1">厚生労働大臣は、第二十三条第一項の規定による調査及び研究並びに第二十四条第一項の規定による匿名予防接種等関連情報の利用及び提供並びに第二十八条の二第一項及び第二項の規定による仮名予防接種等関連情報の利用及び提供に係る事務の全部又は一部を医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）による医療情報基盤・診療報酬審査支払機構（以下「基盤機構」という。）、国民健康保険法（昭和三十三年法律第百九十二号）第四十五条第五項に規定する国民健康保険団体連合会（以下「連合会」という。）その他厚生労働省令で定める者（次条及び第五十七条第一項において「基盤機構等」という。）に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">第二十八条の三第一項の規定は、前項の規定による委託を受けた者が当該委託に基づいて仮名予防接種等関連情報の提供を行う場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">個人情報の保護に関する法律第六十八条及び第七十六条から第百七条までの規定は、第一項の規定による委託を受けた者が当該委託に基づいて仮名予防接種等関連情報を利用し、又は提供する場合については、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -976,7 +1069,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">匿名予防接種等関連情報利用者は、実費を勘案して政令で定める額の手数料を国（前条の規定により厚生労働大臣からの委託を受けて、基盤機構等が第二十四条第一項の規定による匿名予防接種等関連情報の提供に係る事務の全部を行う場合にあっては、基盤機構等）に納めなければならない。</Sentence>
+              <Sentence Num="1">匿名予防接種等関連情報利用者は、実費を勘案して政令で定める額の手数料を国（前条第一項の規定により厚生労働大臣からの委託を受けて、基盤機構等が第二十四条第一項の規定による匿名予防接種等関連情報の提供に係る事務の全部を行う場合にあっては、基盤機構等）に納めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -989,6 +1082,12 @@
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1">第一項の規定により基盤機構等に納められた手数料は、基盤機構等の収入とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">前三項の規定は、仮名予防接種等関連情報利用者が第二十八条の二第二項の規定による仮名予防接種等関連情報の提供を受ける場合の手数料について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1006,7 +1105,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1">第三十一条の規定により厚生労働大臣から委託を受けて行う第二十三条第一項の規定による調査及び研究並びに第二十四条第一項の規定による匿名予防接種等関連情報の利用又は提供に係る事務に関する業務</Sentence>
+                <Sentence Num="1">第三十一条第一項の規定により厚生労働大臣から委託を受けて行う第二十三条第一項の規定による調査及び研究並びに第二十四条第一項の規定による匿名予防接種等関連情報の利用及び提供並びに第二十八条の二第一項及び第二項の規定による仮名予防接種等関連情報の利用及び提供に係る事務に関する業務</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -1184,7 +1283,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1">第三十一条の規定により厚生労働大臣から委託を受けて行う第二十三条第一項の規定による調査及び研究並びに第二十四条第一項の規定による匿名予防接種等関連情報の利用又は提供に係る事務に関する業務</Sentence>
+                <Sentence Num="1">第三十一条第一項の規定により厚生労働大臣から委託を受けて行う第二十三条第一項の規定による調査及び研究並びに第二十四条第一項の規定による匿名予防接種等関連情報の利用及び提供並びに第二十八条の二第一項及び第二項の規定による仮名予防接種等関連情報の利用及び提供に係る事務に関する業務</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -1323,6 +1422,12 @@
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1">第二十四条第一項の規定により匿名予防接種等関連情報を提供しようとするとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">第二十八条の二第二項の規定により仮名予防接種等関連情報を提供しようとするとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -1599,6 +1704,12 @@
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">第二十八条の四において準用する第二十八条の規定に違反して、仮名予防接種等関連情報の利用に関して知り得た仮名予防接種等関連情報の内容をみだりに他人に知らせ、又は不当な目的に利用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1">第三十条の規定による命令に違反したとき。</Sentence>
               </ItemSentence>

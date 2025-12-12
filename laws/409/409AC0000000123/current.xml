@@ -12304,7 +12304,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">厚生労働大臣は、国民の保健医療の向上及び福祉の増進に資するため、匿名介護保険等関連情報（介護保険等関連情報に係る特定の被保険者その他の厚生労働省令で定める者（次条において「本人」という。）を識別すること及びその作成に用いる介護保険等関連情報を復元することができないようにするために厚生労働省令で定める基準に従い加工した介護保険等関連情報をいう。以下同じ。）を利用し、又は厚生労働省令で定めるところにより、次の各号に掲げる者であって、匿名介護保険等関連情報の提供を受けて行うことについて相当の公益性を有すると認められる業務としてそれぞれ当該各号に定めるものを行うものに提供することができる。</Sentence>
+              <Sentence Num="1">厚生労働大臣は、国民の保健医療の向上及び福祉の増進に資するため、匿名介護保険等関連情報（介護保険等関連情報に係る特定の被保険者その他の厚生労働省令で定める者（次条及び第百十八条の八第一項において「本人」という。）を識別すること及びその作成に用いる介護保険等関連情報を復元することができないようにするために厚生労働省令で定める基準に従い加工した介護保険等関連情報をいう。以下同じ。）を利用し、又は厚生労働省令で定めるところにより、次の各号に掲げる者であって、匿名介護保険等関連情報の提供を受けて行うことについて相当の公益性を有すると認められる業務としてそれぞれ当該各号に定めるものを行うものに提供することができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -12394,12 +12394,99 @@
           </Paragraph>
         </Article>
         <Article Num="118_8">
-          <ArticleCaption>（立入検査等）</ArticleCaption>
+          <ArticleCaption>（国民の保健医療の向上及び福祉の増進のための仮名介護保険等関連情報の利用又は提供）</ArticleCaption>
           <ArticleTitle>第百十八条の八</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">厚生労働大臣は、この章の規定の施行に必要な限度において、匿名介護保険等関連情報利用者（国の他の行政機関を除く。以下この項及び次条において同じ。）に対し報告若しくは帳簿書類の提出若しくは提示を命じ、又は当該職員に匿名介護保険等関連情報利用者に対して質問させ、若しくは匿名介護保険等関連情報利用者の事務所その他匿名介護保険等関連情報の利用に関係のある場所に立ち入り、その帳簿書類その他の物件を検査させることができる。</Sentence>
+              <Sentence Num="1">厚生労働大臣は、国民の保健医療の向上及び福祉の増進に資するため、仮名介護保険等関連情報（介護保険等関連情報に係る本人を他の情報と照合しない限り識別することができないようにするために厚生労働省令で定める基準に従い加工した介護保険等関連情報をいう。以下同じ。）を利用することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">厚生労働大臣は、国民の保健医療の向上及び福祉の増進に資するため、次の各号に掲げる者であって仮名介護保険等関連情報の提供を受けて行うことについて相当の公益性を有すると認められる業務として当該各号に定めるものを行うものが当該業務を行うために仮名介護保険等関連情報を利用する必要があると認めるときは、厚生労働省令で定めるところにより、当該者に当該仮名介護保険等関連情報を提供することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1">国の他の行政機関及び地方公共団体</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1">保険給付に係る保健医療サービス及び福祉サービスに関する施策、要介護状態等となることの予防又は要介護状態等の軽減若しくは悪化の防止のための施策並びに地域における自立した日常生活の支援のための施策の企画及び立案に関する調査</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1">大学その他の研究機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1">国民の健康の保持増進及びその有する能力の維持向上並びに介護保険事業に関する研究</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1">民間事業者その他の厚生労働省令で定める者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1">介護分野の調査研究に関する分析その他の厚生労働省令で定める業務（特定の商品又は役務の広告又は宣伝に利用するために行うものを除く。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">厚生労働大臣は、前二項の規定による利用又は提供を行う場合には、当該仮名介護保険等関連情報を健康保険法第百五十条の七第一項に規定する仮名診療等関連情報及び高齢者の医療の確保に関する法律第十六条の七第一項に規定する仮名医療保険等関連情報その他の厚生労働省令で定めるものと連結して利用し、又は連結して利用することができる状態で提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">厚生労働大臣は、第二項の規定により仮名介護保険等関連情報を提供しようとする場合には、あらかじめ、社会保障審議会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="118_9">
+          <ArticleCaption>（仮名介護保険等関連情報の提供を受ける者に対する利用目的等の制限の要求等）</ArticleCaption>
+          <ArticleTitle>第百十八条の九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">厚生労働大臣は、前条第二項の規定に基づき、仮名介護保険等関連情報を提供する場合において、必要があると認めるときは、同項の規定により仮名介護保険等関連情報の提供を受け、これを利用する者（以下「仮名介護保険等関連情報利用者」という。）に対し、提供に係る仮名介護保険等関連情報について、その利用の目的又は方法の制限その他必要な制限を付すものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">個人情報の保護に関する法律（平成十五年法律第五十七号）第六十八条及び第七十六条から第百七条までの規定は、厚生労働大臣が前条第一項又は第二項の規定により仮名介護保険等関連情報を利用し、又は提供する場合については、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="118_10">
+          <ArticleCaption>（準用）</ArticleCaption>
+          <ArticleTitle>第百十八条の十</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">第百十八条の四から第百十八条の七までの規定は、仮名介護保険等関連情報利用者による仮名介護保険等関連情報の取扱いについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="118_11">
+          <ArticleCaption>（立入検査等）</ArticleCaption>
+          <ArticleTitle>第百十八条の十一</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">厚生労働大臣は、この章の規定の施行に必要な限度において、匿名介護保険等関連情報利用者及び仮名介護保険等関連情報利用者（国の他の行政機関を除く。以下この項及び次条において「匿名・仮名介護保険等関連情報利用者」という。）に対し報告若しくは帳簿書類の提出若しくは提示を命じ、又は当該職員に関係者に対して質問させ、若しくは匿名・仮名介護保険等関連情報利用者の事務所その他匿名介護保険等関連情報又は仮名介護保険等関連情報の利用に関係のある場所に立ち入り、その帳簿書類その他の物件を検査させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -12409,33 +12496,45 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="118_9">
+        <Article Num="118_12">
           <ArticleCaption>（是正命令）</ArticleCaption>
-          <ArticleTitle>第百十八条の九</ArticleTitle>
+          <ArticleTitle>第百十八条の十二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">厚生労働大臣は、匿名介護保険等関連情報利用者が第百十八条の四から第百十八条の七までの規定に違反していると認めるときは、その者に対し、当該違反を是正するため必要な措置をとるべきことを命ずることができる。</Sentence>
+              <Sentence Num="1">厚生労働大臣は、匿名・仮名介護保険等関連情報利用者が第百十八条の四から第百十八条の七までの規定（これらの規定を第百十八条の十において準用する場合を含む。）又は第百十八条の九第一項の規定（次条第二項において準用する場合を含む。）により付した制限に違反していると認めるときは、その者に対し、当該違反を是正するため必要な措置をとるべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="118_10">
+        <Article Num="118_13">
           <ArticleCaption>（機構等への委託）</ArticleCaption>
-          <ArticleTitle>第百十八条の十</ArticleTitle>
+          <ArticleTitle>第百十八条の十三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">厚生労働大臣は、第百十八条の二第一項に規定する調査及び分析並びに第百十八条の三第一項の規定による利用又は提供に係る事務の全部又は一部を機構等に委託することができる。</Sentence>
+              <Sentence Num="1">厚生労働大臣は、第百十八条の二第一項に規定する調査及び分析並びに第百十八条の三第一項並びに第百十八条の八第一項及び第二項の規定による利用及び提供に係る事務の全部又は一部を機構等に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">第百十八条の九第一項の規定は、前項の規定による委託を受けた者が当該委託に基づいて仮名介護保険等関連情報の提供を行う場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">個人情報の保護に関する法律第六十八条及び第七十六条から第百七条までの規定は、第一項の規定による委託を受けた者が当該委託に基づいて仮名介護保険等関連情報を利用し、又は提供する場合については、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="118_11">
+        <Article Num="118_14">
           <ArticleCaption>（手数料）</ArticleCaption>
-          <ArticleTitle>第百十八条の十一</ArticleTitle>
+          <ArticleTitle>第百十八条の十四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1">匿名介護保険等関連情報利用者は、実費を勘案して政令で定める額の手数料を国（前条の規定により厚生労働大臣からの委託を受けて、機構等が第百十八条の三第一項の規定による匿名介護保険等関連情報の提供に係る事務の全部を行う場合にあっては、機構等）に納めなければならない。</Sentence>
+              <Sentence Num="1">匿名介護保険等関連情報利用者は、実費を勘案して政令で定める額の手数料を国（前条第一項の規定により厚生労働大臣からの委託を受けて、機構等が第百十八条の三第一項の規定による匿名介護保険等関連情報の提供に係る事務の全部を行う場合にあっては、機構等）に納めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -12448,6 +12547,12 @@
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1">第一項の規定により機構等に納められた手数料は、機構等の収入とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">前三項の規定は、仮名介護保険等関連情報利用者が第百十八条の八第二項の規定による仮名介護保険等関連情報の提供を受ける場合の手数料について準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -14940,7 +15045,13 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1">第百十八条の九の規定による命令に違反したとき。</Sentence>
+                <Sentence Num="1">第百十八条の十において準用する第百十八条の七の規定に違反して、仮名介護保険等関連情報の利用に関して知り得た仮名介護保険等関連情報の内容をみだりに他人に知らせ、又は不当な目的に利用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1">第百十八条の十二の規定による命令に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -15015,7 +15126,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1">第百十八条の八第一項の規定による報告若しくは帳簿書類の提出若しくは提示をせず、若しくは虚偽の報告若しくは虚偽の帳簿書類の提出若しくは提示をし、又は同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をし、若しくは同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+                <Sentence Num="1">第百十八条の十一第一項の規定による報告若しくは帳簿書類の提出若しくは提示をせず、若しくは虚偽の報告若しくは虚偽の帳簿書類の提出若しくは提示をし、又は同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をし、若しくは同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>

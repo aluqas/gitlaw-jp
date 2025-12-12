@@ -1,0 +1,3534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Heisei" Year="01" Num="064" PromulgateMonth="06" PromulgateDay="30" LawType="Act"><LawNum>平成元年法律第六十四号</LawNum><LawBody><LawTitle Kana="ちいきにおけるいりょうおよびかいごのそうごうてきなかくほのそくしんにかんするほうりつ" Abbrev="医療介護総合確保法" AbbrevKana="い">地域における医療及び介護の総合的な確保の促進に関する法律</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条・第二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　地域における医療及び介護の総合的な確保</ChapterTitle>
+        <ArticleRange>（第三条―第十一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　国民の保健医療の向上及び福祉の増進に資する情報の分析等の推進</ChapterTitle>
+        <ArticleRange>（第十一条の二―第十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3_2">
+        <ChapterTitle>第三章の二　電磁的方法による処方箋の提供等の推進</ChapterTitle>
+        <ArticleRange>（第十二条の二）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3_3">
+        <ChapterTitle>第三章の三　電子診療録等情報の利用等の推進</ChapterTitle>
+        <ArticleRange>（第十二条の三―第十二条の十七）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3_4">
+        <ChapterTitle>第三章の四　再編計画の認定</ChapterTitle>
+        <ArticleRange>（第十三条―第十三条の九）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　特定民間施設の整備</ChapterTitle>
+        <ArticleRange>（第十三条の十―第二十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　医療情報基盤・診療報酬審査支払機構の業務</ChapterTitle>
+        <ArticleRange>（第二十四条―第三十四条の六）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　国民健康保険団体連合会の業務</ChapterTitle>
+        <ArticleRange>（第三十五条―第三十七条の二）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　雑則</ChapterTitle>
+        <ArticleRange>（第三十八条―第三十九条の三）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="8">
+        <ChapterTitle>第八章　罰則</ChapterTitle>
+        <ArticleRange>（第四十条―第四十三条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、国民の健康の保持及び福祉の増進に係る多様なサービスへの需要が増大していることに鑑み、地域における創意工夫を生かしつつ、地域において効率的かつ質の高い医療提供体制を構築するとともに地域包括ケアシステムを構築することを通じ、地域における医療及び介護の総合的な確保を促進する措置を講じ、もって高齢者をはじめとする国民の健康の保持及び福祉の増進を図り、あわせて国民が生きがいを持ち健康で安らかな生活を営むことができる地域社会の形成に資することを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「地域包括ケアシステム」とは、地域の実情に応じて、高齢者が、可能な限り、住み慣れた地域でその有する能力に応じ自立した日常生活を営むことができるよう、医療、介護、介護予防（要介護状態若しくは要支援状態となることの予防又は要介護状態若しくは要支援状態の軽減若しくは悪化の防止をいう。）、住まい及び自立した日常生活の支援が包括的に確保される体制をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「介護給付等対象サービス等」とは、介護保険法（平成九年法律第百二十三号）第二十四条第二項に規定する介護給付等対象サービス及び老人福祉法（昭和三十八年法律第百三十三号）に基づく福祉サービスをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「公的介護施設等」とは、地域において介護給付等対象サービス等を提供する施設その他これに類する施設又は設備のうち厚生労働省令で定めるもの（次項に規定する特定民間施設を除く。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「特定民間施設」とは、介護給付等対象サービス等との連携の下に地域において保健サービス及び福祉サービスを総合的に提供する一群の施設であって、民間事業者が整備する次に掲げる施設から構成されるものをいう。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">住民の老後における疾病予防のため有酸素運動（継続的に酸素を摂取して全身持久力に関する生理機能の維持又は回復のために行う身体の運動をいう。）を行わせるとともに、老人に対して機能訓練を行う施設であって、診療所が附置されていることその他の政令で定める要件に適合するもの</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">老人に対して、各種の相談に応ずるとともに、教養の向上及びレクリエーションのための便宜を総合的に供与する施設（老人福祉法第二十条の七に規定する老人福祉センターを除く。）</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">イに掲げる施設であってロに掲げる施設が併せて設置されるもの</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">身体上若しくは精神上の障害があって日常生活を営むのに支障がある老人又はその者を現に養護する者を通わせ、入浴若しくは給食又は介護方法の指導の実施その他の厚生労働省令で定める便宜を供与する施設</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">身体上又は精神上の障害があって日常生活を営むのに支障がある老人につきその者の居宅において入浴、排せつ、食事等の介護を行う事業その他のその者が居宅において日常生活を営むのに必要な便宜を供与する事業であって政令で定めるもののために必要な施設</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">老人福祉法第二十九条第一項に規定する有料老人ホーム</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　地域における医療及び介護の総合的な確保</ChapterTitle>
+        <Article Num="3">
+          <ArticleCaption>（総合確保方針）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、地域において効率的かつ質の高い医療提供体制を構築するとともに地域包括ケアシステムを構築することを通じ、地域における医療及び介護を総合的に確保するための基本的な方針（以下「総合確保方針」という。）を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">総合確保方針においては、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">地域における医療及び介護の総合的な確保の意義及び基本的な方向に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">地域における医療及び介護の総合的な確保に関し、医療法（昭和二十三年法律第二百五号）第三十条の三第一項に規定する基本方針及び介護保険法第百十六条第一項に規定する基本指針の基本となるべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">次条第一項に規定する都道府県計画及び第五条第一項に規定する市町村計画の作成並びにこれらの整合性の確保に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十条の二に規定する事業に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二号及び第三号に掲げるもののほか、地域における医療及び介護の総合的な確保に関し、次条第一項に規定する都道府県計画、医療法第三十条の三の三第一項に規定する地域医療構想（以下「地域医療構想」という。）及び同法第三十条の四第一項に規定する医療計画（以下「医療計画」という。）並びに介護保険法第百十八条第一項に規定する都道府県介護保険事業支援計画（以下「都道府県介護保険事業支援計画」という。）の整合性の確保に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公正性及び透明性の確保その他第六条の基金を充てて実施する同条に規定する都道府県事業に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他地域における医療及び介護の総合的な確保に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、総合確保方針の案を作成し、又はこれを変更しようとするときは、あらかじめ、医療又は介護を受ける立場にある者、都道府県知事、市町村長（特別区の区長を含む。次条第四項及び第十条において同じ。）、介護保険法第七条第七項に規定する医療保険者（以下「医療保険者」という。）、医療機関、同法第百十五条の三十二第一項に規定する介護サービス事業者（次条第四項及び第五条第四項において「介護サービス事業者」という。）、診療又は調剤に関する学識経験者の団体その他の関係団体、学識経験を有する者その他の関係者の意見を反映させるために必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、総合確保方針を定め、又はこれを変更したときは、遅滞なく、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（都道府県計画）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、総合確保方針に即して、かつ、地域の実情に応じて、当該都道府県の地域における医療及び介護の総合的な確保のための事業の実施に関する計画（以下「都道府県計画」という。）を作成することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県計画においては、おおむね次に掲げる事項について定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療介護総合確保区域（地理的条件、人口、交通事情その他の社会的条件、医療機関の施設及び設備並びに公的介護施設等及び特定民間施設の整備の状況その他の条件からみて医療及び介護の総合的な確保の促進を図るべき区域をいう。以下同じ。）ごとの当該区域における医療及び介護の総合的な確保に関する目標及び計画期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号の目標を達成するために必要な次に掲げる事業に関する事項</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地域医療構想の達成に向けた医療機関の施設又は設備の整備に関する事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地域医療構想の達成に向けた医療機関（地域における病床の機能（医療法第三十条の三第二項第七号に規定する病床の機能をいう。以下同じ。）の分化及び連携を推進するために当該地域における病床数の変更を伴う取組を行うものに限る。）の運営の支援に関する事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地域における医療及び介護の総合的な確保のための医療介護総合確保区域における居宅等（居宅その他厚生労働省令で定める場所をいう。次条第二項第二号イにおいて同じ。）における医療の提供に関する事業（同条第五項の規定により提出された市町村計画に掲載された同号イに掲げる事業を含む。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">公的介護施設等の整備に関する事業（次条第五項の規定により提出された市町村計画に掲載された同条第二項第二号ロ及びハに掲げる事業を含む。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="5">
+                <Subitem1Title>ホ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">医療従事者の確保に関する事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="6">
+                <Subitem1Title>ヘ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">介護従事者の確保に関する事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="7">
+                <Subitem1Title>ト</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その他地域における医療及び介護の総合的な確保のために実施する必要があるものとして厚生労働省令で定める事業（次条第五項の規定により提出された市町村計画に掲載された同条第二項第二号ニに掲げる事業を含む。）</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他地域における医療及び介護の総合的な確保のために必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、都道府県計画を作成するに当たっては、地域医療構想及び医療計画並びに都道府県介護保険事業支援計画との整合性の確保を図らなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、都道府県計画を作成し、又はこれを変更しようとするときは、あらかじめ、市町村長、医療又は介護を受ける立場にある者、医療保険者、医療機関、介護サービス事業者、診療又は調剤に関する学識経験者の団体その他の関係団体、学識経験を有する者その他の関係者の意見を反映させるために必要な措置を講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、都道府県計画を作成し、又はこれを変更したときは、遅滞なく、これを厚生労働大臣に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleCaption>（市町村計画）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村（特別区を含む。以下同じ。）は、総合確保方針に即して、かつ、地域の実情に応じて、当該市町村の地域における医療及び介護の総合的な確保のための事業の実施に関する計画（以下「市町村計画」という。）を作成することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村計画においては、おおむね次に掲げる事項について定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療介護総合確保区域ごとの当該区域又は当該市町村の区域における医療及び介護の総合的な確保に関する目標及び計画期間</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号の目標を達成するために必要な次に掲げる事業に関する事項</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地域における医療及び介護の総合的な確保のための医療介護総合確保区域又は当該市町村の区域における居宅等における医療の提供に関する事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">老人福祉法第五条の二第一項に規定する老人居宅生活支援事業が実施される施設であって医療介護総合確保区域又は当該市町村の区域において整備する必要があるものとして厚生労働省令で定めるものを整備する事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">次に掲げる老人福祉法第五条の三に規定する老人福祉施設であって医療介護総合確保区域又は当該市町村の区域において整備する必要があるものとして厚生労働省令で定めるものを整備する事業</Sentence>
+                </Subitem1Sentence>
+                <Subitem2 Num="1">
+                  <Subitem2Title>（１）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">老人福祉法第二十条の五に規定する特別養護老人ホーム</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+                <Subitem2 Num="2">
+                  <Subitem2Title>（２）</Subitem2Title>
+                  <Subitem2Sentence>
+                    <Sentence Num="1" WritingMode="vertical">老人福祉法第二十条の六に規定する軽費老人ホーム（以下「軽費老人ホーム」という。）</Sentence>
+                  </Subitem2Sentence>
+                </Subitem2>
+              </Subitem1>
+              <Subitem1 Num="4">
+                <Subitem1Title>ニ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">その他地域における医療及び介護の総合的な確保のために実施する必要があるものとして厚生労働省令で定める事業</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他地域における医療及び介護の総合的な確保のために必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、市町村計画を作成するに当たっては、介護保険法第百十七条第一項に規定する市町村介護保険事業計画との整合性の確保を図るとともに、医療法第三十条の十八の五第一項の規定による協議の結果（同項第四号に掲げる事項に係るものに限る。）を考慮するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、市町村計画を作成し、又はこれを変更しようとするときは、あらかじめ、都道府県知事、医療又は介護を受ける立場にある者、医療保険者、医療機関、介護サービス事業者、診療又は調剤に関する学識経験者の団体その他の関係団体、学識経験を有する者その他の関係者の意見を反映させるために必要な措置を講ずるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、市町村計画を作成し、又はこれを変更したときは、遅滞なく、これを当該市町村の属する都道府県に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（基金）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県が、都道府県計画に掲載された第四条第二項第二号に掲げる事業（第九条において「都道府県事業」という。）に要する経費の全部又は一部を支弁するため、地方自治法（昭和二十二年法律第六十七号）第二百四十一条の基金を設ける場合には、国は、政令で定めるところにより、その財源に充てるために必要な資金の三分の二（第四条第二項第二号ロに掲げる事業に要する経費に係るものについては、その全額）を負担するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleCaption>（財源の確保）</ArticleCaption>
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の基金の財源に充てるために、同条の規定により国が負担する費用については、社会保障の安定財源の確保等を図る税制の抜本的な改革を行うための消費税法の一部を改正する等の法律（平成二十四年法律第六十八号）の施行により増加する消費税の収入をもって充てるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleCaption>（老人福祉法等の特例）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第六条の基金を充てて実施する医療計画に基づく事業に要する費用又は老人福祉法に定める老人の福祉のための事業に要する費用については、医療法第三十条の九又は老人福祉法第二十六条第二項の規定に基づく国の補助は、これらの規定にかかわらず、行わないものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県事業により整備される施設（以下この条及び次条において「都道府県整備施設」という。）に係る施設を設置する者が、当該都道府県整備施設につき老人福祉法第十四条若しくは第十五条第二項若しくは第三項又は社会福祉法（昭和二十六年法律第四十五号）第六十二条第一項の規定により届出を行わなければならない場合には、それぞれ当該規定にかかわらず、事業の開始の日又は施設の設置の日から一月以内に、その旨を当該都道府県整備施設の所在地を管轄する都道府県知事に届け出ることをもって足りる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県整備施設（市町村計画に掲載された事業に係る施設に限る。）に係る施設を設置する者（以下この条において「施設設置者」という。）は、前条の規定による届出をする場合には、当該届出を、当該施設設置者に係る都道府県整備施設の所在地を管轄する市町村長を経由してすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10_2">
+          <ArticleCaption>（医師手当事業）</ArticleCaption>
+          <ArticleTitle>第十条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、医療法第三十条の四第二項第九号イ（２）に掲げる区域において、当該区域に所在する病院又は診療所に勤務する医師の手当の支給に関する事業（以下「医師手当事業」という。）を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10_3">
+          <ArticleCaption>（特定医師手当）</ArticleCaption>
+          <ArticleTitle>第十条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医師手当事業が行われる場合において、都道府県又は市町村は、条例で定めるところにより、医療法第三十条の四第二項第九号イ（２）に掲げる区域に所在する病院又は診療所に勤務する医師（地方公務員法（昭和二十五年法律第二百六十一号）第四条第一項に規定する職員に限る。）に対して、特定医師手当を支給することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定医師手当の月額は、厚生労働省令で定める基準を参酌して条例で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10_4">
+          <ArticleCaption>（費用）</ArticleCaption>
+          <ArticleTitle>第十条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医師手当事業に要する費用は、医療情報基盤・診療報酬審査支払機構（以下「機構」という。）が都道府県に対して交付する医師手当交付金をもって充てるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医師手当交付金は、次条第一項の規定により機構が徴収する医師手当拠出金をもって充てるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10_5">
+          <ArticleCaption>（医師手当拠出金等の徴収及び納付義務）</ArticleCaption>
+          <ArticleTitle>第十条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第二十四条各号に掲げる業務に要する費用に充てるため、年度ごとに、医療保険者（国民健康保険法（昭和三十三年法律第百九十二号）の定めるところにより都道府県が当該都道府県内の市町村とともに行う国民健康保険にあっては、都道府県。第十条の八及び第十条の十四第二項において同じ。）及び後期高齢者医療広域連合（高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）第四十八条に規定する後期高齢者医療広域連合をいう。第十条の十四第一項及び第三十五条第二項において同じ。）（以下「医療保険者等」という。）から医師手当拠出金を徴収する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第二十四条各号に掲げる業務に関する事務の処理に要する費用に充てるため、年度ごとに、医療保険者等から医師手当関係事務費拠出金を徴収する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医療保険者等は、医師手当拠出金及び医師手当関係事務費拠出金（以下「医師手当拠出金等」という。）を納付する義務を負う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10_6">
+          <ArticleCaption>（医師手当拠出金の額）</ArticleCaption>
+          <ArticleTitle>第十条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定により医療保険者等から徴収する医師手当拠出金の額は、医療法第三十条の四第二項第九号ロに規定する指標を踏まえ同号イ（２）に掲げる区域において医師を確保するために必要な手当の額として政令で定めるところにより算定した額を基礎として、厚生労働省令で定めるところにより算定した医療保険者等に係る当該年度の前々年度の診療報酬の支払額の割合に応じ、厚生労働省令で定めるところにより算定した額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10_7">
+          <ArticleCaption>（医師手当関係事務費拠出金の額）</ArticleCaption>
+          <ArticleTitle>第十条の七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十条の五第二項の規定により医療保険者等から徴収する医師手当関係事務費拠出金の額は、当該年度における第二十四条各号に掲げる業務に関する事務の処理に要する費用の見込額を基礎として、厚生労働省令で定めるところにより算定した当該年度における医療保険者等に係る高齢者の医療の確保に関する法律第七条第四項に規定する加入者及び同法第五十条に規定する後期高齢者医療の被保険者の見込数に応じ、厚生労働省令で定めるところにより算定した額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10_8">
+          <ArticleCaption>（医療保険者の合併等の場合における医師手当拠出金等の額の特例）</ArticleCaption>
+          <ArticleTitle>第十条の八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">合併又は分割により成立した医療保険者、合併又は分割後存続する医療保険者及び解散をした医療保険者の権利義務を承継した医療保険者に係る医師手当拠出金等の額の算定の特例については、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10_9">
+          <ArticleCaption>（医師手当拠出金等の決定、通知等）</ArticleCaption>
+          <ArticleTitle>第十条の九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、年度ごとに、医療保険者等が納付すべき医師手当拠出金等の額を決定し、当該医療保険者等に対し、当該医療保険者等が納付すべき医師手当拠出金等の額、納付の方法及び納付すべき期限その他必要な事項を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により医師手当拠出金等の額が定められた後、医師手当拠出金等の額を変更する必要が生じたときは、機構は、当該医療保険者等が納付すべき医師手当拠出金等の額を変更し、当該医療保険者等に対し、変更後の医師手当拠出金等の額を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医療保険者等が納付した医師手当拠出金等の額（以下この項において「納付した額」という。）が前項の規定による変更後の医師手当拠出金等の額（以下この項において「変更後の額」という。）に満たない場合には、その不足する額について、前項の規定による通知とともに納付の方法及び納付すべき期限その他必要な事項を通知し、納付した額が変更後の額を超える場合には、その超える額について、未納の医師手当拠出金等があるときはこれに充当し、なお残余があれば還付し、未納の医師手当拠出金等がないときはこれを還付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10_10">
+          <ArticleCaption>（督促及び滞納処分）</ArticleCaption>
+          <ArticleTitle>第十条の十</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医療保険者等が、納付すべき期限までに医師手当拠出金等を納付しないときは、期限を指定してこれを督促しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、前項の規定により督促をするときは、当該医療保険者等に対し、督促状を発する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、督促状により指定すべき期限は、督促状を発する日から起算して十日以上経過した日でなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第一項の規定による督促を受けた医療保険者等がその指定期限までにその督促に係る医師手当拠出金等及び次条の規定による延滞金を完納しないときは、政令で定めるところにより、その徴収を、厚生労働大臣又は都道府県知事に請求するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による徴収の請求を受けたときは、厚生労働大臣又は都道府県知事は、国税滞納処分の例により処分することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10_11">
+          <ArticleCaption>（延滞金）</ArticleCaption>
+          <ArticleTitle>第十条の十一</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">前条第一項の規定により医師手当拠出金等の納付を督促したときは、機構は、その督促に係る医師手当拠出金等の額につき年十四・五パーセントの割合で、納付期日の翌日からその完納又は財産差押えの日の前日までの日数により計算した延滞金を徴収する。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その督促に係る医師手当拠出金等の額が千円未満であるときは、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、医師手当拠出金等の額の一部につき納付があったときは、その納付の日以降の期間に係る延滞金の額の計算の基礎となる医師手当拠出金等の額は、その納付のあった医師手当拠出金等の額を控除した額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">延滞金の計算において、前二項の医師手当拠出金等の額に千円未満の端数があるときは、その端数は、切り捨てる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項の規定によって計算した延滞金の額に百円未満の端数があるときは、その端数は、切り捨てる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">延滞金は、次の各号のいずれかに該当する場合には、徴収しない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三号の場合には、その執行を停止し、又は猶予した期間に対応する部分の金額に限る。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">督促状に指定した期限までに医師手当拠出金等を完納したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">延滞金の額が百円未満であるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医師手当拠出金等について滞納処分の執行を停止し、又は猶予したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医師手当拠出金等を納付しないことについてやむを得ない理由があると認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="10_12">
+          <ArticleCaption>（納付の猶予）</ArticleCaption>
+          <ArticleTitle>第十条の十二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、やむを得ない事情により、医療保険者等が医師手当拠出金等を納付することが著しく困難であると認められるときは、厚生労働省令で定めるところにより、当該医療保険者等の申請に基づき、厚生労働大臣の承認を受けて、その納付すべき期限から一年以内の期間を限り、その一部の納付を猶予することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、前項の規定による猶予をしたときは、その旨、その猶予に係る医師手当拠出金等の額、猶予期間その他必要な事項を医療保険者等に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第一項の規定による猶予をしたときは、その猶予期間内は、その猶予に係る医師手当拠出金等につき新たに第十条の十第一項の規定による督促及び同条第三項の規定による徴収の請求をすることができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10_13">
+          <ArticleCaption>（報告の徴収等）</ArticleCaption>
+          <ArticleTitle>第十条の十三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事は、医療保険者等について、医師手当拠出金等の額の算定に関し必要があると認めるときは、その業務に関する報告をさせ、又は当該職員に実地にその状況を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による検査を行う場合においては、当該職員は、その身分を示す証明書を携帯し、かつ、関係者の請求があるときは、これを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10_14">
+          <ArticleCaption>（相殺）</ArticleCaption>
+          <ArticleTitle>第十条の十四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十条の五第一項及び第二項の規定により機構が各後期高齢者医療広域連合から徴収する医師手当拠出金等と高齢者の医療の確保に関する法律第百条第一項の規定により機構が各後期高齢者医療広域連合に対して交付する後期高齢者交付金は、相殺するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十条の五第一項及び第二項の規定により機構が各医療保険者から徴収する医師手当拠出金等と高齢者の医療の確保に関する法律第百二十四条の四第一項の規定により機構が各医療保険者に対して交付する出産育児交付金は、相殺するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（大都市等の特例）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律中都道府県が処理することとされている事務で政令で定めるものは、地方自治法第二百五十二条の十九第一項の指定都市（以下「指定都市」という。）及び同法第二百五十二条の二十二第一項の中核市（以下「中核市」という。）においては、政令で定めるところにより、指定都市又は中核市（以下「指定都市等」という。）が処理するものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、この法律中都道府県に関する規定は、指定都市等に関する規定として、指定都市等に適用があるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　国民の保健医療の向上及び福祉の増進に資する情報の分析等の推進</ChapterTitle>
+        <Article Num="11_2">
+          <ArticleCaption>（医療情報化推進方針）</ArticleCaption>
+          <ArticleTitle>第十一条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、三年以上六年以内の期間において、地域における効率的かつ質の高い医療提供体制の構築その他の国民の保健医療の向上及び福祉の増進に資する情報の活用の推進並びにその基盤の整備及び運営（次項において「医療情報化推進」という。）に関する方針（以下この条において「医療情報化推進方針」という。）を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医療情報化推進方針においては、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療情報化推進の意義及び基本的な方向に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療情報化推進に関し、国並びに機構及び国民健康保険法第四十五条第五項に規定する国民健康保険団体連合会（以下「連合会」という。）その他関係者が取り組むべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療情報化推進に関し、医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）第二十九条第一項に規定する中期計画の基本となるべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療情報化推進に関し、医療法第三十条の三第一項に規定する基本方針及び介護保険法第百十六条第一項に規定する基本指針との整合性の確保に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他医療情報化推進に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、医療情報化推進方針の案を作成し、又はこれを変更しようとするときは、あらかじめ、関係行政機関の長に協議するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、医療情報化推進方針を定め、又はこれを変更したときは、遅滞なく、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11_3">
+          <ArticleCaption>（電子資格確認の事務等に係る利用者証明用電子証明書の利用等）</ArticleCaption>
+          <ArticleTitle>第十一条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構又は連合会は、健康保険法（大正十一年法律第七十号）第二百五条の四第一項（第二号又は第三号に係る部分に限る。次条第二項において同じ。）の規定により委託を受けて行う電子資格確認（同法第三条第十三項に規定する電子資格確認をいう。次条第二項において同じ。）の事務その他の厚生労働省令で定める事務に必要な限度で、その保有する利用者証明用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第二十二条第一項に規定する利用者証明用電子証明書をいう。）を、その保有に当たって特定された利用の目的以外の目的のために内部で利用し、又は相互に提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（保健医療等情報を正確に連結するために必要な情報の提供）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律第十七条第一項の規定により厚生労働大臣から委託を受けて同法第十六条第一項に規定する医療保険等関連情報（以下この項において「医療保険等関連情報」という。）を収集する者、介護保険法第百十八条の十三第一項の規定により厚生労働大臣から委託を受けて同法第百十八条の二第一項に規定する介護保険等関連情報（以下この項において「介護保険等関連情報」という。）を収集する者その他の保健医療等情報（法律の規定に基づき調査若しくは分析又は利用若しくは提供が行われる医療保険等関連情報、介護保険等関連情報その他の情報であってその調査若しくは分析又は利用若しくは提供が国民の保健医療の向上及び福祉の増進に資するものとして厚生労働省令で定める情報をいう。以下この項において同じ。）を収集する者として厚生労働省令で定める者（以下この条において「連結情報照会者」という。）は、保健医療等情報を正確に連結するため、機構又は連合会に対し、当該保健医療等情報に係る医療保険被保険者番号等（健康保険法第百九十四条の二第一項に規定する被保険者等記号・番号等その他の厚生労働省令で定める番号、記号その他の符号をいう。次項において同じ。）を提供した上で、保健医療等情報を正確に連結するために必要な情報として厚生労働省令で定めるものの提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構又は連合会は、前項の規定による求めがあったときは、連結情報照会者に対し、健康保険法第二百五条の四第一項の規定により委託を受けて行う電子資格確認の事務その他の厚生労働省令で定める事務に係る医療保険被保険者番号等を利用し、前項の厚生労働省令で定める情報を提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により情報の提供を受ける連結情報照会者は、実費を勘案して政令で定める額の手数料を機構又は連合会に納めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3_2">
+        <ChapterTitle>第三章の二　電磁的方法による処方箋の提供等の推進</ChapterTitle>
+        <Article Num="12_2">
+          <ArticleTitle>第十二条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医師又は歯科医師は、患者又は現にその看護に当たっている者の求めに応じて、医師法（昭和二十三年法律第二百一号）第二十二条第一項又は歯科医師法（昭和二十三年法律第二百二号）第二十一条第一項の規定によるこれらの者に対する処方箋（書面に代えて当該処方箋に係る電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。次条第四項及び第十二条の七において同じ。）を作成した場合における当該電磁的記録を含む。以下同じ。）の交付に代えて、機構又は連合会に対し、厚生労働省令で定めるところにより、当該処方箋を電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法（以下「電磁的方法」という。）により提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により処方箋の提供を受けた機構又は連合会は、厚生労働省令で定めるところにより、当該患者が電磁的方法により当該処方箋に記録された情報を閲覧することができるようにするとともに、当該患者又は現にその看護に当たっている者の求めに応じて、調剤を実施する薬局に対し当該処方箋を電磁的方法により提供しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">薬剤師は、前項の規定により提供された処方箋により調剤したときその他厚生労働省令で定めるときは、機構又は連合会に対し、薬剤師法（昭和三十五年法律第百四十六号）第二十六条に規定する事項その他厚生労働省令で定める事項を含む情報を、厚生労働省令で定めるところにより、電磁的方法により提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により情報の提供を受けた機構又は連合会は、第一項の規定により当該情報に係る処方箋の提供を行った医師又は歯科医師その他の厚生労働省令で定める者の求めに応じて、これらの者に対し、厚生労働省令で定めるところにより、当該情報を電磁的方法により提供しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医師又は歯科医師は、医師法第二十二条第一項又は歯科医師法第二十一条第一項の規定により処方箋を交付した場合には、厚生労働省令で定めるところにより、機構又は連合会に対し、当該処方箋に記載し、又は記録した情報を電磁的方法により提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医師又は歯科医師は、医師法第二十二条第一項若しくは歯科医師法第二十一条第一項の規定による処方箋の交付又は第一項の規定による電磁的方法による処方箋の提供を行うに当たり、厚生労働省令で定めるところにより、機構又は連合会に対し、患者の生命又は身体の保護のために必要な情報として厚生労働省令で定める情報の提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">薬剤師は、調剤を行うに当たり、厚生労働省令で定めるところにより、機構又は連合会に対し、患者の生命又は身体の保護のために必要な情報として厚生労働省令で定める情報の提供を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定により情報の提供の求めを受けた機構又は連合会は、当該求めに応じて、厚生労働省令で定めるところにより、当該医師若しくは歯科医師又は薬剤師に対し当該情報を電磁的方法により提供しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3_3">
+        <ChapterTitle>第三章の三　電子診療録等情報の利用等の推進</ChapterTitle>
+        <Article Num="12_3">
+          <ArticleTitle>第十二条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医療機関その他の厚生労働省令で定める施設の開設者又は管理者は、国民に対し良質かつ適切な医療を効率的に提供する体制を確保するため、機構又は連合会に対し、厚生労働省令で定めるところにより、診療録その他の心身の状況に関する記録に係る情報であって厚生労働省令で定めるもの（以下「電子診療録等情報」という。）を電磁的方法により提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により電子診療録等情報の提供を受けた機構又は連合会は、厚生労働省令で定めるところにより、国民が電磁的方法により自らの電子診療録等情報を閲覧することができるようにするとともに、電子診療録等情報の利用に関する患者の同意が得られた場合その他厚生労働省令で定める場合において、当該患者に医療を提供する医師その他厚生労働省令で定める者（以下この項及び第三十五条第三項第一号において「医師等」という。）の求めに応じて、医師等に対し電子診療録等情報を用いて必要な情報を電磁的方法により提供し、又は閲覧することができるようにしなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、医療情報の共有を通じた効率的な医療提供体制の構築を促進するため、電子診療録等情報の電磁的方法による提供を実現しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、令和十二年十二月三十一日までに、電子カルテの普及率（電子診療録等情報その他の心身の状況に関する記録に係る情報に係る電磁的記録を利用する体制を整備している医療機関の全ての医療機関に対する割合をいう。）が約百パーセントとなることを達成するよう、クラウド・コンピューティング・サービス関連技術（官民データ活用推進基本法（平成二十八年法律第百三号）第二条第四項に規定するクラウド・コンピューティング・サービス関連技術をいう。）その他の先端的な技術の活用を含め、医療機関の業務における情報の電子化を実現しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_4">
+          <ArticleTitle>第十二条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構及び医療情報基盤・診療報酬審査支払機構法第二十八条第一項の規定による委託を受けた者並びに連合会及び第三十七条第二項に規定する連合会業務受託者は、同法第十八条第一項第四号に規定する業務又は電子診療録等情報管理業務（第三十六条に規定する電子診療録等情報管理業務をいう。）の遂行のため必要がある場合その他厚生労働省令で定める場合を除き、前条第一項の規定により提供を受けた電子診療録等情報を利用し、又は提供してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_5">
+          <ArticleCaption>（地域における効率的かつ質の高い医療提供体制の構築のための調査及び分析）</ArticleCaption>
+          <ArticleTitle>第十二条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、地域における効率的かつ質の高い医療提供体制の構築に資するため、電子診療録等情報について調査及び分析を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構及び連合会は、厚生労働大臣に対し、電子診療録等情報を、厚生労働省令で定める方法により提供しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_6">
+          <ArticleCaption>（国民保健の向上のための匿名電子診療録等情報の利用又は提供）</ArticleCaption>
+          <ArticleTitle>第十二条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、国民保健の向上に資するため、匿名電子診療録等情報（電子診療録等情報に係る患者その他の厚生労働省令で定める者（次条及び第十二条の十一第一項において「本人」という。）を識別すること及びその作成に用いる電子診療録等情報を復元することができないようにするために厚生労働省令で定める基準に従い加工した電子診療録等情報をいう。以下同じ。）を利用し、又は厚生労働省令で定めるところにより、次の各号に掲げる者であって、匿名電子診療録等情報の提供を受けて行うことについて相当の公益性を有すると認められる業務としてそれぞれ当該各号に定めるものを行うものに提供することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国の他の行政機関及び地方公共団体</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">適正な保健医療サービスの提供に資する施策の企画及び立案に関する調査</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">大学その他の研究機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">疾病の原因並びに疾病の予防、診断及び治療の方法に関する研究その他の公衆衛生の向上及び増進に関する研究</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">民間事業者その他の厚生労働省令で定める者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">医療分野の研究開発に資する分析その他の厚生労働省令で定める業務（特定の商品又は役務の広告又は宣伝に利用するために行うものを除く。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の規定による利用又は提供を行う場合には、当該匿名電子診療録等情報を高齢者の医療の確保に関する法律第十六条の二第一項に規定する匿名医療保険等関連情報、介護保険法第百十八条の三第一項に規定する匿名介護保険等関連情報その他の厚生労働省令で定めるものと連結して利用し、又は連結して利用することができる状態で提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第一項の規定により匿名電子診療録等情報を提供しようとする場合には、あらかじめ、社会保障審議会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_7">
+          <ArticleCaption>（照合等の禁止）</ArticleCaption>
+          <ArticleTitle>第十二条の七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定により匿名電子診療録等情報の提供を受け、これを利用する者（以下「匿名電子診療録等情報利用者」という。）は、匿名電子診療録等情報を取り扱うに当たっては、当該匿名電子診療録等情報の作成に用いられた電子診療録等情報に係る本人を識別するために、当該電子診療録等情報から削除された記述等（文書、図画若しくは電磁的記録に記載され、若しくは記録され、又は音声、動作その他の方法を用いて表された一切の事項をいう。）若しくは匿名電子診療録等情報の作成に用いられた加工の方法に関する情報を取得し、又は当該匿名電子診療録等情報を他の情報と照合してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_8">
+          <ArticleCaption>（消去）</ArticleCaption>
+          <ArticleTitle>第十二条の八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">匿名電子診療録等情報利用者は、提供を受けた匿名電子診療録等情報を利用する必要がなくなったときは、遅滞なく、当該匿名電子診療録等情報を消去しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_9">
+          <ArticleCaption>（安全管理措置）</ArticleCaption>
+          <ArticleTitle>第十二条の九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">匿名電子診療録等情報利用者は、匿名電子診療録等情報の漏えい、滅失又は毀損の防止その他の当該匿名電子診療録等情報の安全管理のために必要かつ適切なものとして厚生労働省令で定める措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_10">
+          <ArticleCaption>（利用者の義務）</ArticleCaption>
+          <ArticleTitle>第十二条の十</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">匿名電子診療録等情報利用者又は匿名電子診療録等情報利用者であった者は、匿名電子診療録等情報の利用に関して知り得た匿名電子診療録等情報の内容をみだりに他人に知らせ、又は不当な目的に利用してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_11">
+          <ArticleCaption>（国民保健の向上のための仮名電子診療録等情報の利用又は提供）</ArticleCaption>
+          <ArticleTitle>第十二条の十一</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、国民保健の向上に資するため、仮名電子診療録等情報（電子診療録等情報に係る本人を他の情報と照合しない限り識別することができないようにするために厚生労働省令で定める基準に従い加工した電子診療録等情報をいう。以下同じ。）を利用することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、国民保健の向上に資するため、次の各号に掲げる者であって仮名電子診療録等情報の提供を受けて行うことについて相当の公益性を有すると認められる業務として当該各号に定めるものを行うものが当該業務を行うために仮名電子診療録等情報を利用する必要があると認めるときは、厚生労働省令で定めるところにより、当該者に当該仮名電子診療録等情報を提供することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国の他の行政機関及び地方公共団体</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">適正な保健医療サービスの提供に資する施策の企画及び立案に関する調査</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">大学その他の研究機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">疾病の原因並びに疾病の予防、診断及び治療の方法に関する研究その他の公衆衛生の向上及び増進に関する研究</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">民間事業者その他の厚生労働省令で定める者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">医療分野の研究開発に資する分析その他の厚生労働省令で定める業務（特定の商品又は役務の広告又は宣伝に利用するために行うものを除く。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前二項の規定による利用又は提供を行う場合には、当該仮名電子診療録等情報を高齢者の医療の確保に関する法律第十六条の七第一項に規定する仮名医療保険等関連情報、介護保険法第百十八条の八第一項に規定する仮名介護保険等関連情報その他の厚生労働省令で定めるものと連結して利用し、又は連結して利用することができる状態で提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第二項の規定により仮名電子診療録等情報を提供しようとする場合には、あらかじめ、社会保障審議会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_12">
+          <ArticleCaption>（仮名電子診療録等情報の提供を受ける者に対する利用目的等の制限の要求等）</ArticleCaption>
+          <ArticleTitle>第十二条の十二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前条第二項の規定に基づき、仮名電子診療録等情報を提供する場合において、必要があると認めるときは、同項の規定により仮名電子診療録等情報の提供を受け、これを利用する者（以下「仮名電子診療録等情報利用者」という。）に対し、提供に係る仮名電子診療録等情報について、その利用の目的又は方法の制限その他必要な制限を付すものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">個人情報の保護に関する法律（平成十五年法律第五十七号）第六十八条及び第七十六条から第百七条までの規定は、厚生労働大臣が前条第一項又は第二項の規定により仮名電子診療録等情報を利用し、又は提供する場合については、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_13">
+          <ArticleCaption>（準用）</ArticleCaption>
+          <ArticleTitle>第十二条の十三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条の七から第十二条の十までの規定は、仮名電子診療録等情報利用者による仮名電子診療録等情報の取扱いについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_14">
+          <ArticleCaption>（立入検査等）</ArticleCaption>
+          <ArticleTitle>第十二条の十四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、この章の規定の施行に必要な限度において、匿名電子診療録等情報利用者及び仮名電子診療録等情報利用者（国の他の行政機関を除く。以下この項及び次条において「匿名・仮名電子診療録等情報利用者」という。）に対し報告若しくは帳簿書類の提出若しくは提示を命じ、又は当該職員に関係者に対して質問させ、若しくは匿名・仮名電子診療録等情報利用者の事務所その他の事業所に立ち入り、匿名・仮名電子診療録等情報利用者の帳簿書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十条の十三第二項の規定は前項の規定による質問又は検査について、同条第三項の規定は前項の規定による権限について、それぞれ準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_15">
+          <ArticleCaption>（是正命令）</ArticleCaption>
+          <ArticleTitle>第十二条の十五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、匿名・仮名電子診療録等情報利用者が第十二条の七から第十二条の十までの規定（これらの規定を第十二条の十三において準用する場合を含む。）又は第十二条の十二第一項の規定（次条第二項において準用する場合を含む。）により付した制限に違反していると認めるときは、その者に対し、当該違反を是正するため必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_16">
+          <ArticleCaption>（機構等への委託）</ArticleCaption>
+          <ArticleTitle>第十二条の十六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第十二条の五第一項に規定する調査及び分析並びに第十二条の六第一項並びに第十二条の十一第一項及び第二項の規定による利用及び提供に係る事務の全部又は一部を機構又は連合会その他厚生労働省令で定める者（次条において「機構等」という。）に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条の十二第一項の規定は、前項の規定による委託を受けた者が当該委託に基づいて仮名電子診療録等情報の提供を行う場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">個人情報の保護に関する法律第六十八条及び第七十六条から第百七条までの規定は、第一項の規定による委託を受けた者が当該委託に基づいて仮名電子診療録等情報を利用し、又は提供する場合については、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12_17">
+          <ArticleCaption>（手数料）</ArticleCaption>
+          <ArticleTitle>第十二条の十七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">匿名電子診療録等情報利用者は、実費を勘案して政令で定める額の手数料を国（前条第一項の規定により厚生労働大臣からの委託を受けて、機構等が第十二条の六第一項の規定による匿名電子診療録等情報の提供に係る事務の全部を行う場合にあっては、機構等）に納めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の手数料を納めようとする者が都道府県その他の国民保健の向上のために特に重要な役割を果たす者として政令で定める者であるときは、政令で定めるところにより、当該手数料を減額し、又は免除することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により機構等に納められた手数料は、機構等の収入とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項の規定は、仮名電子診療録等情報利用者が第十二条の十一第二項の規定による仮名電子診療録等情報の提供を受ける場合の手数料について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3_4">
+        <ChapterTitle>第三章の四　再編計画の認定</ChapterTitle>
+        <Article Num="13">
+          <ArticleCaption>（再編計画の認定等）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医療機関の開設者は、単独で又は共同して、地域医療構想の達成に向けた病床の機能の分化及び連携を推進するための二以上の医療機関の再編の事業（以下「医療機関の再編の事業」という。）に関する計画（以下「再編計画」という。）を作成し、厚生労働省令で定めるところにより、これを厚生労働大臣に提出して、当該再編計画が適当である旨の認定を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">再編計画においては、次に掲げる事項を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療機関の再編の事業の対象とする医療機関に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療機関の再編の事業の内容</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療機関の再編の事業の実施時期</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他厚生労働省令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の認定（以下「再編計画の認定」という。）の申請は、その計画に係る医療機関の所在地を管轄する都道府県知事を経由してするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13_2">
+          <ArticleCaption>（認定の基準）</ArticleCaption>
+          <ArticleTitle>第十三条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、再編計画の認定の申請があった場合において、当該申請に係る再編計画が次の各号に適合すると認めるときは、再編計画の認定をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">地域医療構想の達成に向けた病床の機能の分化及び連携を推進するために適切なものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第二項各号に掲げる事項が、医療法第三十条の十四第一項に規定する協議の場における協議に基づくものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、地域医療構想の達成の推進のために必要なものとして厚生労働省令で定める基準に適合するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="13_3">
+          <ArticleCaption>（関係都道府県の意見の聴取）</ArticleCaption>
+          <ArticleTitle>第十三条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、再編計画の認定をしようとするときは、あらかじめ、関係都道府県の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13_4">
+          <ArticleCaption>（認定の通知）</ArticleCaption>
+          <ArticleTitle>第十三条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、再編計画の認定をしたときは、速やかに、その旨を関係都道府県に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13_5">
+          <ArticleCaption>（再編計画の変更）</ArticleCaption>
+          <ArticleTitle>第十三条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">再編計画の認定を受けた医療機関の開設者は、当該再編計画の認定を受けた再編計画の変更をしようとするときは、厚生労働大臣の認定を受けなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、厚生労働省令で定める軽微な変更については、この限りでない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">再編計画の認定を受けた医療機関の開設者は、前項ただし書の厚生労働省令で定める軽微な変更をしたときは、遅滞なく、その旨を当該再編計画に係る医療機関の所在地を管轄する都道府県知事を経由して厚生労働大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十三条第三項及び前三条の規定は、第一項の変更の認定について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13_6">
+          <ArticleCaption>（報告の徴収）</ArticleCaption>
+          <ArticleTitle>第十三条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、再編計画の認定を受けた再編計画（前条第一項の変更の認定又は同条第二項の変更の届出があったときは、その変更後のもの。以下「認定再編計画」という。）に係る医療機関の再編の事業を行う医療機関の開設者（以下「認定医療機関開設者」という。）に対し、当該認定再編計画に係る医療機関の再編の事業の実施状況に関し報告をさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13_7">
+          <ArticleCaption>（認定の取消し）</ArticleCaption>
+          <ArticleTitle>第十三条の七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、認定再編計画が第十三条の二各号のいずれかに適合しなくなったと認めるとき、又は認定医療機関開設者が認定再編計画に従って医療機関の再編の事業を実施しないときは、再編計画の認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十三条の三及び第十三条の四の規定は、前項の規定による取消しについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13_8">
+          <ArticleCaption>（指導及び助言）</ArticleCaption>
+          <ArticleTitle>第十三条の八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び都道府県は、認定医療機関開設者に対し、認定再編計画に従って行われる医療機関の再編の事業の実施に関し必要な指導及び助言を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13_9">
+          <ArticleCaption>（資金の確保）</ArticleCaption>
+          <ArticleTitle>第十三条の九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国は、認定医療機関開設者が認定再編計画に従って医療機関の再編の事業を行うために必要な資金の確保に努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　特定民間施設の整備</ChapterTitle>
+        <Article Num="13_10">
+          <ArticleCaption>（基本方針）</ArticleCaption>
+          <ArticleTitle>第十三条の十</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、特定民間施設の整備に関する基本方針（以下「基本方針」という。）を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">基本方針においては、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定民間施設の整備に関する基本的な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定民間施設の立地並びに規模及び配置に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定民間施設の整備の事業を行う者に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定民間施設の施設及び設備に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定民間施設の運営に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">他の医療施設又は社会福祉施設との連携に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">介護給付等対象サービス等との連携に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他特定民間施設の整備に際し配慮すべき重要事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、基本方針を定め、又はこれを変更しようとするときは、総務大臣その他関係行政機関の長に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、基本方針を定め、又はこれを変更したときは、遅滞なく、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（整備計画の認定等）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定民間施設の整備の事業を行おうとする者（当該事業を行う法人を設立しようとする者を含む。）は、当該特定民間施設の整備の事業に関する計画（以下「整備計画」という。）を作成し、これを厚生労働大臣に提出して、当該整備計画が適当である旨の認定を受けることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">整備計画においては、次に掲げる事項を記載しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定民間施設の位置</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定民間施設の概要、規模及び配置</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定民間施設が立地する市町村又はその周辺の市町村に含まれる地域であって、その住民が当該特定民間施設を利用することが想定されるもの（以下「対象地域」という。）の区域</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定民間施設の整備の事業を行う者に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定民間施設の運営に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">他の医療施設又は社会福祉施設との連携に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">介護給付等対象サービス等との連携に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定民間施設の整備の事業の実施時期</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定民間施設の整備の事業を行うのに必要な資金の額及びその調達方法</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他厚生労働省令で定める事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の認定（以下「計画の認定」という。）の申請は、その計画に係る特定民間施設の所在地を管轄する都道府県知事を経由してするものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（認定の基準）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、計画の認定の申請があった場合において、当該申請に係る整備計画が次の各号に適合すると認めるときは、計画の認定をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第二項第一号から第七号まで及び第十号に掲げる事項が基本方針に照らし当該特定民間施設の整備の目的を達成し、当該特定民間施設の機能を発揮させるため適切なものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前条第二項第四号、第八号及び第九号に掲げる事項が当該特定民間施設の整備の事業を確実に遂行するため適切なものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（関係都道府県等の意見の聴取）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、計画の認定をしようとするときは、あらかじめ、関係都道府県（対象地域の全部又は一部が指定都市の区域内である場合には、当該指定都市を含む。以下同じ。）の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の場合において、都道府県が意見を述べようとするときは、あらかじめ、関係市町村（指定都市を除く。以下同じ。）の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleCaption>（認定の通知）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、計画の認定をしたときは、速やかに、その旨を関係都道府県に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の通知を受けた都道府県は、速やかに、当該通知に係る事項を関係市町村に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（整備計画の変更）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">計画の認定を受けた者（その者の設立に係る第十四条第一項の法人を含む。）は、当該計画の認定を受けた整備計画の変更をしようとするときは、厚生労働大臣の認定を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十四条第三項及び前三条の規定は、前項の変更の認定の申請があった場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（報告の徴収）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、計画の認定を受けた整備計画（前条第一項の変更の認定があったときは、その変更後のもの。以下「認定計画」という。）に係る特定民間施設の整備の事業を行う者（以下「認定事業者」という。）に対し、当該認定計画に係る特定民間施設の整備の事業の実施状況に関し報告をさせることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（改善命令）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、認定事業者による特定民間施設の整備の事業の実施が認定計画に適合しないおそれがあると認めるときは、当該認定事業者に対し、その改善に必要な措置を採るべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（認定の取消し）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、認定事業者が認定計画に従って特定民間施設の整備の事業を実施しないとき、又は前条の規定による厚生労働大臣の処分に違反したときは、計画の認定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十七条の規定は、前項の規定による取消しについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（指導及び助言）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び地方公共団体は、認定事業者に対し、認定計画に従って行われる特定民間施設の整備の事業の実施に関し必要な指導及び助言を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleCaption>（認定事業者に係る軽費老人ホームの設置についての特例）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">軽費老人ホームを設置しようとする認定事業者（公益社団法人又は公益財団法人に限る。）は、あらかじめ厚生労働省令で定める事項をその設置し、経営しようとする地を管轄する都道府県知事に届け出たときは、老人福祉法第十五条第五項及び社会福祉法第六十二条第二項の規定にかかわらず、同項の許可を受けないで、当該軽費老人ホームを設置し、経営することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による届出に係る軽費老人ホームを設置し、経営する者に関しては、同項の規定による届出を社会福祉法第六十二条第一項の規定による届出とみなして、同法第六十三条第一項、第六十四条、第七十一条並びに第七十二条第一項及び第二項の規定を適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　医療情報基盤・診療報酬審査支払機構の業務</ChapterTitle>
+        <Article Num="24">
+          <ArticleCaption>（機構の業務）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医療情報基盤・診療報酬審査支払機構法第十八条に規定する業務のほか、第一条に規定する目的を達成するため、次に掲げる業務（以下「医師手当事業関係業務」という。）を行う。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療保険者等から医師手当拠出金等を徴収する業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">都道府県に対し、医師手当交付金を交付する業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げる業務に附帯する業務</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（業務方法書）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医師手当事業関係業務に関し、当該業務の開始前に、業務方法書を作成し、厚生労働大臣の認可を受けなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">これを変更するときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の業務方法書に記載すべき事項は、厚生労働省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（報告等）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医療保険者等に対し、毎年度、加入者数その他の厚生労働省令で定める事項に関する報告を求めるほか、第二十四条第一号に掲げる業務に関し必要があると認めるときは、文書その他の物件の提出を求めることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（区分経理）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医師手当事業関係業務に係る経理については、その他の業務に係る経理と区分して、特別の会計を設けて行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（予算等の認可）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医師手当事業関係業務に関し、毎事業年度、予算、事業計画及び資金計画を作成し、当該事業年度の開始前に、厚生労働大臣の認可を受けなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">これを変更するときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（財務諸表等）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医師手当事業関係業務に関し、毎事業年度、財産目録、貸借対照表及び損益計算書（以下この条において「財務諸表」という。）を作成し、当該事業年度の終了後三月以内に厚生労働大臣に提出し、その承認を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、前項の規定により財務諸表を厚生労働大臣に提出するときは、厚生労働省令で定めるところにより、これに当該事業年度の事業報告書及び予算の区分に従い作成した決算報告書並びに財務諸表及び決算報告書に関する監事の意見書を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第一項の規定による厚生労働大臣の承認を受けたときは、遅滞なく、財務諸表又はその要旨を官報に公告し、かつ、財務諸表及び附属明細書並びに前項の事業報告書、決算報告書及び監事の意見書を、主たる事務所に備えて置き、厚生労働省令で定める期間、一般の閲覧に供しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleCaption>（利益及び損失の処理）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医師手当事業関係業務に関し、毎事業年度、損益計算において利益を生じたときは、前事業年度から繰り越した損失を埋め、なお残余があるときは、その残余の額は、積立金として整理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医師手当事業関係業務に関し、毎事業年度、損益計算において損失を生じたときは、前項の規定による積立金を減額して整理し、なお不足があるときは、その不足額は繰越欠損金として整理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、予算をもって定める金額に限り、第一項の規定による積立金を第二十四条第二号に掲げる業務に要する費用に充てることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（借入金及び債券）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医師手当事業関係業務に関し、厚生労働大臣の認可を受けて、長期借入金若しくは短期借入金をし、又は債券を発行することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による長期借入金及び債券は、二年以内に償還しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">第一項の規定による短期借入金は、当該事業年度内に償還しなければならない。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、資金の不足のため償還することができないときは、その償還することができない金額に限り、厚生労働大臣の認可を受けて、これを借り換えることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項ただし書の規定により借り換えた短期借入金は、一年以内に償還しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第一項の規定による債券を発行する場合においては、割引の方法によることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による債券の債権者は、機構の財産について他の債権者に先立って自己の債権の弁済を受ける権利を有する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の先取特権の順位は、民法（明治二十九年法律第八十九号）の規定による一般の先取特権に次ぐものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、厚生労働大臣の認可を受けて、第一項の規定による債券の発行に関する事務の全部又は一部を銀行又は信託会社に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">会社法（平成十七年法律第八十六号）第七百五条第一項及び第二項並びに第七百九条の規定は、前項の規定により委託を受けた銀行又は信託会社について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項、第二項及び第五項から前項までに定めるもののほか、第一項の債券に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第一項、第三項ただし書又は第八項の認可をしようとするときは、あらかじめ、財務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（政府保証）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、法人に対する政府の財政援助の制限に関する法律（昭和二十一年法律第二十四号）第三条の規定にかかわらず、国会の議決を経た金額の範囲内で、機構による医師手当交付金の円滑な交付のために必要があると認めるときは、前条（第十一項を除く。）の規定による機構の長期借入金、短期借入金又は債券に係る債務について、必要と認められる期間の範囲において、保証することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（余裕金の運用）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、次の方法によるほか、医師手当事業関係業務に係る業務上の余裕金を運用してはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国債その他厚生労働大臣が指定する有価証券の保有</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">銀行その他厚生労働大臣が指定する金融機関への預金</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">信託業務を営む金融機関（金融機関の信託業務の兼営等に関する法律（昭和十八年法律第四十三号）第一条第一項の認可を受けた金融機関をいう。第三十九条の三第三項第三号において同じ。）への金銭信託</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項第一号又は第二号の指定をしようとするときは、あらかじめ、財務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（厚生労働省令への委任）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この章に定めるもののほか、医師手当事業関係業務に係る機構の財務及び会計に関し必要な事項は、厚生労働省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34_2">
+          <ArticleCaption>（報告の徴収等）</ArticleCaption>
+          <ArticleTitle>第三十四条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事は、機構又は次条の規定による委託を受けた者（以下この項において「機構業務受託者」という。）について、医師手当事業関係業務に関し必要があると認めるときは、その業務又は財産の状況に関する報告をさせ、又は当該職員に実地にその状況を検査させることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、機構業務受託者に対しては、当該受託業務の範囲内に限る。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十条の十三第二項の規定は前項の規定による検査について、同条第三項の規定は前項の規定による権限について、それぞれ準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、機構につき医師手当事業関係業務に関し医療情報基盤・診療報酬審査支払機構法第三十九条の規定による処分が行われる必要があると認めるとき、又は機構の役員につき医師手当事業関係業務に関し同法第十四条第三項若しくは第四項の規定による処分が行われる必要があると認めるときは、理由を付して、その旨を厚生労働大臣に通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34_3">
+          <ArticleCaption>（業務の委託）</ArticleCaption>
+          <ArticleTitle>第三十四条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、厚生労働大臣の認可を受けて、医師手当事業関係業務の一部を連合会その他厚生労働省令で定める者に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34_4">
+          <ArticleCaption>（医療情報基盤・診療報酬審査支払機構法の適用の特例）</ArticleCaption>
+          <ArticleTitle>第三十四条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医師手当事業関係業務は、医療情報基盤・診療報酬審査支払機構法第四十三条第二項の規定の適用については、同法第十八条に規定する業務とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34_5">
+          <ArticleCaption>（審査請求）</ArticleCaption>
+          <ArticleTitle>第三十四条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に基づく機構の処分又はその不作為に不服のある者は、厚生労働大臣に対し、審査請求をすることができる。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、厚生労働大臣は、行政不服審査法（平成二十六年法律第六十八号）第二十五条第二項及び第三項、第四十六条第一項及び第二項、第四十七条並びに第四十九条第三項の規定の適用については、機構の上級行政庁とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34_6">
+          <ArticleCaption>（厚生労働省令への委任）</ArticleCaption>
+          <ArticleTitle>第三十四条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二章及びこの章に定めるもののほか、医師手当事業に関し必要な事項は、厚生労働省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　国民健康保険団体連合会の業務</ChapterTitle>
+        <Article Num="35">
+          <ArticleCaption>（連合会の業務）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、国民健康保険法第八十五条の三に規定する業務のほか、第一条に規定する目的を達成するため、第十二条第二項の規定に基づき情報を提供する業務及びこれに附帯する業務を行う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、国民健康保険法第八十五条の三に規定する業務及び前項に規定する業務のほか、第一条に規定する目的を達成するとともに、医療保険者が行う高齢者の医療の確保に関する法律第七条第一項に規定する医療保険各法の規定による保健事業若しくは福祉事業、後期高齢者医療広域連合が行う同法第百二十五条第一項に規定する高齢者保健事業又は法令の規定により医療に関する給付その他の事務を行う者であって厚生労働省令で定めるものが行う健康の保持及び増進を図るための厚生労働省令で定める事業（次項において「保健事業等」と総称する。）に資するため、次に掲げる業務を行う。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の二第一項の規定により処方箋の提供を受け、同条第二項の規定に基づき当該処方箋に記録された情報を閲覧することができるようにするとともに、同項の規定により、患者又は現にその看護に当たっている者の求めに応じて、調剤を実施する薬局に対し当該処方箋を提供し、同条第三項及び第五項の規定により情報の提供を受ける業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の二第一項の規定により提供を受けた処方箋に記録された情報並びに同条第三項及び第五項の規定により提供を受けた情報を記録し、管理し、及び活用するとともに、処方され、又は調剤された薬剤に関する情報を医療機関及び薬局が相互に共有することに資する業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の二第四項の規定により、同項の厚生労働省令で定める者の求めに応じて、当該者に対し同条第三項の規定により提供を受けた情報を提供する業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の二第八項の規定により、医師若しくは歯科医師又は薬剤師の求めに応じて、同条第六項又は第七項に規定する情報を提供する業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">薬局の開設者からの委託を受けて、当該薬局で調剤済みとなった処方箋（第十二条の二第二項の規定により提供されたものに限る。）を保管する業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる業務に附帯する業務</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、国民健康保険法第八十五条の三に規定する業務及び前二項に規定する業務のほか、第一条に規定する目的を達成するとともに、保健事業等に資するため、次に掲げる業務を行う。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の三第一項の規定により電子診療録等情報の提供を受け、同条第二項の規定に基づき国民が自らの電子診療録等情報を閲覧することができるようにするとともに、同項の規定により、医師等の求めに応じて、医師等に対し電子診療録等情報を用いて必要な情報を提供し、又は閲覧することができるようにする業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の三第一項の規定により提供を受けた電子診療録等情報を記録し、管理し、及び活用する業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げる業務に附帯する業務</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（区分経理）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、前条の規定により行う、第十二条第二項の規定に基づき情報を提供する業務及びこれに附帯する業務（次条第一項及び第四十条において「連結情報提供業務」という。）、前条第二項各号に掲げる業務（以下「電子処方箋管理業務」という。）並びに同条第三項各号に掲げる業務（以下「電子診療録等情報管理業務」という。）に係る経理については、その他の経理と区分して整理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleCaption>（報告の徴収等）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、連合会について、連結情報提供業務に関し必要があると認めるときは、その業務又は財産の状況に関する報告をさせ、又は当該職員に実地にその状況を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">厚生労働大臣は、連合会又は次条の規定による委託を受けた者（以下この項及び第四十条において「連合会業務受託者」という。）について、電子処方箋管理業務及び電子診療録等情報管理業務に関し必要があると認めるときは、これらの業務又は財産の状況に関する報告をさせ、又は当該職員に実地にその状況を検査させることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、連合会業務受託者に対しては、当該受託業務の範囲内に限る。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十条の十三第二項の規定は前二項の規定による検査について、同条第三項の規定は前二項の規定による権限について、それぞれ準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37_2">
+          <ArticleCaption>（業務の委託）</ArticleCaption>
+          <ArticleTitle>第三十七条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、電子処方箋管理業務及び電子診療録等情報管理業務の全部又は一部を機構その他厚生労働省令で定める者に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　雑則</ChapterTitle>
+        <Article Num="38">
+          <ArticleCaption>（関係者の連携及び協力）</ArticleCaption>
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医療機関及び薬局その他の関係者は、地域において効率的かつ質の高い医療提供体制を構築するため、医療情報基盤・診療報酬審査支払機構法第十八条第一項第三号に規定する業務及びこれに附帯する業務並びに電子処方箋管理業務が円滑に実施されるよう、電磁的方法による処方箋の提供及び電磁的方法により提供された処方箋により調剤を実施する体制の整備に努めるとともに、相互に連携を図りながら協力するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医療法第四条第一項に規定する地域医療支援病院その他の厚生労働省令で定める病院の管理者は、地域において効率的かつ質の高い医療提供体制を構築するため、医療情報基盤・診療報酬審査支払機構法第十八条第一項第四号に規定する業務及びこれに附帯する業務並びに電子診療録等情報管理業務が円滑に実施されるよう、第十二条の三第一項の規定による電子診療録等情報の提供及び電子診療録等情報を利用する体制の整備に努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38_2">
+          <ArticleCaption>（権限の委任）</ArticleCaption>
+          <ArticleTitle>第三十八条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律に規定する厚生労働大臣の権限は、厚生労働省令で定めるところにより、地方厚生局長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により地方厚生局長に委任された権限は、厚生労働省令で定めるところにより、地方厚生支局長に委任することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38_3">
+          <ArticleCaption>（事務の区分）</ArticleCaption>
+          <ArticleTitle>第三十八条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十条の十第四項、第十条の十三及び第三十四条の二の規定により都道府県が処理することとされている事務は、地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38_4">
+          <ArticleCaption>（先取特権の順位）</ArticleCaption>
+          <ArticleTitle>第三十八条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医師手当拠出金等及び第十条の十一第一項に規定する延滞金の先取特権の順位は、国税及び地方税に次ぐものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38_5">
+          <ArticleCaption>（時効）</ArticleCaption>
+          <ArticleTitle>第三十八条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医師手当拠出金等を徴収し、又はその還付を受ける権利、第十条の十一第一項に規定する延滞金を徴収する権利及び医師手当事業に要する費用を受ける権利は、これらを行使することができる時から二年を経過したときは、時効によって消滅する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医師手当拠出金等及び第十条の十一第一項に規定する延滞金の徴収の告知又は督促は、時効の更新の効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38_6">
+          <ArticleCaption>（期間の計算）</ArticleCaption>
+          <ArticleTitle>第三十八条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律又はこの法律に基づく命令に規定する期間の計算については、民法の期間に関する規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39">
+          <ArticleCaption>（政府の補助）</ArticleCaption>
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、予算の範囲内において、機構又は連合会に対し、第十二条第二項の規定による情報の提供に要する費用の一部を補助することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_2">
+          <ArticleCaption>（費用）</ArticleCaption>
+          <ArticleTitle>第三十九条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医療情報基盤・診療報酬審査支払機構法第十八条第一項第三号及び第四号に規定する業務並びにこれらに附帯する業務、電子処方箋管理業務並びに電子診療録等情報管理業務に要する費用は、政令で定めるところにより、医療保険者等その他法令の規定により医療に関する給付に係る事務を行う者その他の厚生労働省令で定める者が負担する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構又は連合会は、医療情報基盤・診療報酬審査支払機構法第十八条第一項第三号の規定により機構が行う同号ホに掲げる業務又は第三十五条第二項の規定により連合会が行う同項第五号に掲げる業務を行う場合は、前項の規定にかかわらず、当該業務を機構又は連合会に委託する薬局の開設者から、実費を勘案して政令で定める額の手数料を徴収することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_3">
+          <ArticleCaption>（医療情報化支援基金）</ArticleCaption>
+          <ArticleTitle>第三十九条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医療情報基盤・診療報酬審査支払機構法第十八条第一項第五号に掲げる業務及びこれに附帯する業務に要する費用に充てるために医療情報化支援基金を設け、第五項の規定により交付を受けた補助金をもってこれに充てるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医療情報化支援基金の運用によって生じた利子その他の収入金は、医療情報化支援基金に充てるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、次の方法によるほか、医療情報化支援基金に係る余裕金を運用してはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国債その他厚生労働大臣が指定する有価証券の保有</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">銀行その他厚生労働大臣が指定する金融機関への預金</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">信託業務を営む金融機関への金銭信託で元本補塡の契約があるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項第一号又は第二号の指定をしようとするときは、あらかじめ、財務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、予算の範囲内において、機構に対し、医療情報化支援基金に充てる資金を補助することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により政府が交付する補助金の財源については、社会保障の安定財源の確保等を図る税制の抜本的な改革を行うための消費税法の一部を改正する等の法律の施行により増加する消費税の収入をもって充てるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="8">
+        <ChapterTitle>第八章　罰則</ChapterTitle>
+        <Article Num="40">
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会の役員若しくは職員若しくはこれらの職にあった者又は連合会業務受託者の役員若しくは職員その他の当該受託業務に従事する者若しくはこれらの者であった者が、正当な理由がないのに、連結情報提供業務、電子処方箋管理業務又は電子診療録等情報管理業務に関して知り得た秘密を漏らしたときは、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="40_2">
+          <ArticleTitle>第四十条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処し、又はこれを併科する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の十の規定に違反して、匿名電子診療録等情報の利用に関して知り得た匿名電子診療録等情報の内容をみだりに他人に知らせ、又は不当な目的に利用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の十三において準用する第十二条の十の規定に違反して、仮名電子診療録等情報の利用に関して知り得た仮名電子診療録等情報の内容をみだりに他人に知らせ、又は不当な目的に利用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条の十五の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="40_3">
+          <ArticleTitle>第四十条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条の十四第一項の規定による報告若しくは帳簿書類の提出若しくは提示をせず、若しくは虚偽の報告若しくは虚偽の帳簿書類の提出若しくは提示をし、又は同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をし、若しくは同項の規定による立入検査を拒み、妨げ、若しくは忌避したときは、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十条の十三第一項、第三十四条の二第一項又は第三十七条第一項若しくは第二項の規定により報告を求められて、報告せず、若しくは虚偽の報告をし、又はこれらの規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十六条の規定による報告若しくは文書その他の物件の提出をせず、又は虚偽の報告をし、若しくは虚偽の物件を提出したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十三条の六又は第十九条の規定による報告をせず、又は虚偽の報告をした場合には、当該違反行為をした者は、十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="42_2">
+          <ArticleTitle>第四十二条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第四十条の二の罪は、日本国外において同条の罪を犯した者にも適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="42_3">
+          <ArticleTitle>第四十二条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人（法人でない社団又は財団で代表者又は管理人の定めがあるもの（以下この条において「人格のない社団等」という。）を含む。以下この項において同じ。）の代表者（人格のない社団等の管理人を含む。）又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して、第四十条の二、第四十条の三又は第四十二条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">人格のない社団等について前項の規定の適用がある場合には、その代表者又は管理人がその訴訟行為につき当該人格のない社団等を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="43">
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした機構の役員は、二十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十条の十二第一項又は第五章の規定により厚生労働大臣の認可又は承認を受けなければならない場合において、その認可又は承認を受けなかったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十三条第一項の規定に違反して医師手当事業関係業務に係る業務上の余裕金を運用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第三十九条の三第三項の規定に違反して医療情報化支援基金に係る余裕金を運用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="1_2">
+        <ArticleCaption>（都道府県計画作成における留意事項）</ArticleCaption>
+        <ArticleTitle>第一条の二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県は、当分の間、労働が長時間にわたる医師の労働時間を短縮し、及びその健康を確保することにより、医師が良質かつ適切な医療を行うことができるよう、都道府県計画に第四条第二項第二号に掲げる事項を定めるに当たっては、医療法第百五条の厚生労働大臣が定める指針を勘案して定めるよう努めるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="1_3">
+        <ArticleCaption>（延滞金の割合の特例）</ArticleCaption>
+        <ArticleTitle>第一条の三</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第十条の十一第一項に規定する延滞金の年十四・五パーセントの割合は、当分の間、同項の規定にかかわらず、各年の延滞税特例基準割合（租税特別措置法（昭和三十二年法律第二十六号）第九十四条第一項に規定する延滞税特例基準割合をいう。）が年七・二パーセントの割合に満たない場合には、その年中においては、当該延滞税特例基準割合に年七・三パーセントの割合を加算した割合とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二年六月二九日法律第五八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成三年一月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成九年一二月一七日法律第一二四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、介護保険法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一一年一二月二二日法律第一六〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一二年六月七日法律第一一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年四月一日法律第二五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成十七年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（児童福祉法等の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の規定（第一条を除く。）による改正後の規定は、平成十七年度以降の年度の予算に係る国又は都道府県の負担（平成十六年度以前の年度における事務又は事業の実施により平成十七年度以降の年度に支出される国又は都道府県の負担を除く。）について適用し、平成十六年度以前の年度における事務又は事業の実施により平成十七年度以降の年度に支出される国又は都道府県の負担については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一七年六月二九日法律第七七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十八年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条、第五条、第八条、第十一条、第十三条及び第十五条並びに附則第四条、第十五条、第二十二条、第二十三条第二項、第三十二条、第三十九条及び第五十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="55">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及び附則第九条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="56">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第五十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第三条から第二十七条まで、第三十六条及び第三十七条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年三月三一日法律第二〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、平成十八年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（児童手当法等の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律による改正後の規定は、平成十八年度以降の年度の予算に係る国、都道府県若しくは市町村（特別区を含む。以下同じ。）の負担（平成十七年度以前の年度における事務又は事業の実施により平成十八年度以降の年度に支出される国、都道府県又は市町村の負担を除く。）又は交付金の交付について適用し、平成十七年度以前の年度における事務又は事業の実施により平成十八年度以降の年度に支出される国、都道府県又は市町村の負担については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（地域における公的介護施設等の計画的な整備等の促進に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に作成された第七条の規定による改正前の地域における公的介護施設等の計画的な整備等の促進に関する法律（以下「旧介護施設整備法」という。）第六条第一項に規定する施設生活環境改善計画に掲載された同条第二項第二号に掲げる施設に係る施設を設置する者又は施設において地域における公的介護施設等の計画的な整備等の促進に関する法律第二条第一項に規定する介護給付等対象サービス等を提供している者については、旧介護施設整備法第九条第二項の規定は、この法律の施行後も、なおその効力を有する。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">この場合において、同項中「施設生活環境改善計画」とあるのは「国の補助金等の整理及び合理化等に伴う児童手当法等の一部を改正する法律（平成十八年法律第二十号）第七条の規定による改正前の地域における公的介護施設等の計画的な整備等の促進に関する法律第六条第一項に規定する施設生活環境改善計画」と、「第六条第二項第二号」とあるのは「同条第二項第二号」とする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年六月二日法律第五〇号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、一般社団・財団法人法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成一八年六月二一日法律第八三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成十八年十月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第十条並びに附則第四条、第三十三条から第三十六条まで、第五十二条第一項及び第二項、第百五条、第百二十四条並びに第百三十一条から第百三十三条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2:3">
+            <ItemTitle>二及び三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条、第七条、第十三条、第十六条、第十九条及び第二十四条並びに附則第二条第二項、第三十七条から第三十九条まで、第四十一条、第四十二条、第四十四条、第五十七条、第六十六条、第七十五条、第七十六条、第七十八条、第七十九条、第八十一条、第八十四条、第八十五条、第八十七条、第八十九条、第九十三条から第九十五条まで、第九十七条から第百条まで、第百三条、第百九条、第百十四条、第百十七条、第百二十条、第百二十三条、第百二十六条、第百二十八条及び第百三十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="131">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定については、当該各規定。以下同じ。）の施行前にした行為、この附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為並びにこの法律の施行後前条第一項の規定によりなおその効力を有するものとされる同項に規定する法律の規定の失効前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="132">
+        <ArticleCaption>（処分、手続等に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に改正前のそれぞれの法律（これに基づく命令を含む。以下この条において同じ。）の規定によってした処分、手続その他の行為であって、改正後のそれぞれの法律の規定に相当の規定があるものは、この附則に別段の定めがあるものを除き、改正後のそれぞれの法律の相当の規定によってしたものとみなす。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に改正前のそれぞれの法律の規定により届出その他の手続をしなければならない事項で、この法律の施行の日前にその手続がされていないものについては、この法律及びこれに基づく命令に別段の定めがあるものを除き、これを、改正後のそれぞれの法律中の相当の規定により手続がされていないものとみなして、改正後のそれぞれの法律の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="133">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百三十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第三条から前条までに規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月二二日法律第七二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十四年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条（老人福祉法目次の改正規定、同法第四章の二を削る改正規定、同法第四章の三を第四章の二とする改正規定及び同法第四十条第一号の改正規定（「第二十八条の十二第一項若しくは」を削る部分に限る。）に限る。）、第四条、第六条及び第七条の規定並びに附則第九条、第十一条、第十五条、第二十二条、第四十一条、第四十七条（東日本大震災に対処するための特別の財政援助及び助成に関する法律（平成二十三年法律第四十号）附則第一条ただし書の改正規定及び同条各号を削る改正規定並びに同法附則第十四条の改正規定に限る。）及び第五十条から第五十二条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律の規定による改正後の規定の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="51">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第五十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条第一号に掲げる規定にあっては、当該規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="52">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第五十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年六月二四日法律第七四号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して二十日を経過した日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年八月三〇日法律第一〇五号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="81">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第八十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="82">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第八十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月二五日法律第八三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日又は平成二十六年四月一日のいずれか遅い日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第十二条中診療放射線技師法第二十六条第二項の改正規定及び第二十四条の規定並びに次条並びに附則第七条、第十三条ただし書、第十八条、第二十条第一項ただし書、第二十二条、第二十五条、第二十九条、第三十一条、第六十一条、第六十二条、第六十四条、第六十七条、第七十一条及び第七十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定、第四条の規定（第五号に掲げる改正規定を除く。）、第五条のうち、介護保険法の目次の改正規定、同法第七条第五項、第八条、第八条の二、第十三条、第二十四条の二第五項、第三十二条第四項、第四十二条の二、第四十二条の三第二項、第五十三条、第五十四条第三項、第五十四条の二、第五十四条の三第二項、第五十八条第一項、第六十八条第五項、第六十九条の三十四、第六十九条の三十八第二項、第六十九条の三十九第二項、第七十八条の二、第七十八条の十四第一項、第百十五条の十二、第百十五条の二十二第一項及び第百十五条の四十五の改正規定、同法第百十五条の四十五の次に十条を加える改正規定、同法第百十五条の四十六及び第百十五条の四十七の改正規定、同法第六章中同法第百十五条の四十八を同法第百十五条の四十九とし、同法第百十五条の四十七の次に一条を加える改正規定、同法第百十七条、第百十八条、第百二十二条の二、第百二十三条第三項及び第百二十四条第三項の改正規定、同法第百二十四条の次に二条を加える改正規定、同法第百二十六条第一項、第百二十七条、第百二十八条、第百四十一条の見出し及び同条第一項、第百四十八条第二項、第百五十二条及び第百五十三条並びに第百七十六条の改正規定、同法第十一章の章名の改正規定、同法第百七十九条から第百八十二条までの改正規定、同法第二百条の次に一条を加える改正規定、同法第二百二条第一項、第二百三条及び第二百五条並びに附則第九条第一項ただし書の改正規定並びに同法附則に一条を加える改正規定、第七条の規定（次号に掲げる改正規定を除く。）、第九条及び第十条の規定、第十二条の規定（第一号に掲げる改正規定を除く。）、第十三条及び第十四条の規定、第十五条の規定（第六号に掲げる改正規定を除く。）、第十六条の規定（第六号に掲げる改正規定を除く。）、第十七条の規定、第十八条の規定（第六号に掲げる改正規定を除く。）、第十九条の規定並びに第二十一条中看護師等の人材確保の促進に関する法律第二条第二項の改正規定並びに附則第五条、第八条第二項及び第四項、第九条から第十二条まで、第十三条（ただし書を除く。）、第十四条から第十七条まで、第二十八条、第三十条、第三十二条第一項、第三十三条から第三十九条まで、第四十四条、第四十六条並びに第四十八条の規定、附則第五十条の規定（第六号に掲げる改正規定を除く。）、附則第五十一条の規定、附則第五十二条の規定（第六号に掲げる改正規定を除く。）、附則第五十四条、第五十七条及び第五十八条の規定、附則第五十九条中高齢者虐待の防止、高齢者の養護者に対する支援等に関する法律（平成十七年法律第百二十四号）第二条第五項第二号の改正規定（「同条第十四項」を「同条第十二項」に、「同条第十八項」を「同条第十六項」に改める部分に限る。）並びに附則第六十五条、第六十六条及び第七十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十七年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の公布後必要に応じ、地域における病床の機能の分化及び連携の推進の状況等を勘案し、更なる病床の機能の分化及び連携の推進の方策について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、我が国における急速な高齢化の進展等に伴い、介護関係業務に係る労働力への需要が増大していることに鑑み、この法律の公布後一年を目途として、介護関係業務に係る労働力の確保のための方策について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、前三項に定める事項のほか、この法律の公布後五年を目途として、この法律による改正後のそれぞれの法律（以下この項において「改正後の各法律」という。）の施行の状況等を勘案し、改正後の各法律の規定について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（地域における公的介護施設等の計画的な整備等の促進に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日前に第一条の規定による改正前の地域における公的介護施設等の計画的な整備等の促進に関する法律（以下この条において「旧整備法」という。）第五条第一項の規定により提出された旧整備法第四条第一項に規定する市町村整備計画に基づく事業等については、旧整備法第五条及び第六条の規定は、同日以後においても、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行の日前に旧整備法第四条第一項に規定する市町村整備計画に掲載された同条第二項第二号に掲げる事業により整備される施設については、旧整備法第七条及び第八条の規定は、同日以後においても、なおその効力を有する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">医療機関の施設及び設備の整備に関する事業で、第四条の規定（附則第一条第三号に掲げる改正規定に限る。）による改正後の医療法（以下「第三号新医療法」という。）第三十条の四第二項第七号に規定する地域医療構想が同条第一項の規定により定められ、又は第三号新医療法第三十条の六の規定により変更された医療計画において定められるまでの間に、第一条の規定による改正後の地域における医療及び介護の総合的な確保の促進に関する法律（以下この条において「新医療介護総合確保法」という。）第三条第一項に規定する総合確保方針に基づき、都道府県が地域における医療の確保のために必要があると認めて、新医療介護総合確保法第四条第一項に規定する都道府県計画において定めるものについては、当該事業を新医療介護総合確保法第六条に規定する都道府県事業とみなして、新医療介護総合確保法の規定を適用する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="71">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為及びこの附則の規定によりなお効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="72">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第三条から第四十一条まで及び前条に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和元年五月二二日法律第九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条中高齢者の医療の確保に関する法律第百六十条の二の改正規定及び同条に一項を加える改正規定、第六条中社会保険診療報酬支払基金法の題名の次に目次を付する改正規定及び同法第十六条第二項の改正規定並びに第八条中国民健康保険法第八十八条第一項及び第二項並びに第百十条の二の改正規定、同条に一項を加える改正規定並びに同法第百十三条の二第一項の改正規定並びに附則第三条、第六条及び第十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成三十一年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条の規定（第六号に掲げる改正規定を除く。）、第五条の規定（次号及び第六号に掲げる改正規定を除く。）、第九条の規定（前号に掲げる改正規定を除く。）、第十一条の規定及び第十四条の規定（船員保険法第二条第九項の改正規定及び前号に掲げる改正規定を除く。）並びに附則第七条の規定（私立学校教職員共済法第二十五条の改正規定及び前号に掲げる改正規定を除く。）、附則第八条の規定（国家公務員共済組合法第二条第一項第二号及び第四十条第三項の改正規定並びに前号に掲げる改正規定を除く。）及び附則第九条の規定（地方公務員等共済組合法第二条第一項第二号及び第四十三条第三項の改正規定並びに前号に掲げる改正規定を除く。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第五条中高齢者の医療の確保に関する法律第百四十五条第三項の改正規定、第七条の規定及び第十二条中介護保険法第百六十六条第三項の改正規定並びに附則第四条、第五条、第十二条及び第十五条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和三年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後三年を目途として、この法律（前条各号に掲げる規定にあっては、当該各規定。附則第十五条及び第十六条において同じ。）による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況、医療の質の向上に資するための情報の活用の状況、個人番号カード（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードをいう。）の普及の状況その他社会経済の情報化の進展状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleCaption>（罰則の適用に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前にした行為及び附則第四条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月一二日法律第五二号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和三年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条中介護保険法附則第十三条（見出しを含む。）及び第十四条（見出しを含む。）の改正規定、第四条中健康保険法等の一部を改正する法律附則第百三十条の二第一項の規定によりなおその効力を有するものとされた同法第二十六条の規定による改正前の介護保険法附則第十一条（見出しを含む。）及び第十二条（見出しを含む。）の改正規定、第六条及び第八条の規定並びに附則第六条の規定、附則第七条の規定（介護サービスの基盤強化のための介護保険法等の一部を改正する法律（平成二十三年法律第七十二号）附則第十条第三項及び第四項の改正規定を除く。）並びに附則第八条及び第九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条及び第七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律の規定について、その施行の状況等を勘案しつつ検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年五月二八日法律第四九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中医療法第百四条の改正規定及び第十四条の規定並びに次条並びに附則第三条、第十三条第二項、第十四条第二項、第十五条第二項及び第十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第十三条の規定（第四号に掲げる改正規定を除く。）及び附則第二十五条（同号に掲げる改正規定を除く。）の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和三年四月一日又はこの法律の公布の日のいずれか遅い日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第九条から第十二条までの規定並びに附則第十三条第一項及び第三項、第十四条第一項及び第三項、第十五条第一項及び第三項、第十六条、第十七条、第二十二条並びに第二十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和三年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定（第一号に掲げる改正規定を除く。）並びに第十三条中地域における医療及び介護の総合的な確保の促進に関する法律附則第一条の二第二項の改正規定及び同条を同法附則第一条の三とし、同法附則第一条の次に一条を加える改正規定並びに附則第四条及び第九条の規定、附則第二十五条中地域共生社会の実現のための社会福祉法等の一部を改正する法律（令和二年法律第五十二号）第七条のうち地域における医療及び介護の総合的な確保の促進に関する法律附則第一条の二第一項及び第二項の改正規定の改正規定並びに附則第二十六条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和四年三月三十一日までの間において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定については、当該各規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に定めるもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="26">
+        <ArticleCaption>（調整規定）</ArticleCaption>
+        <ArticleTitle>第二十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第四号に掲げる規定の施行の日が地域共生社会の実現のための社会福祉法等の一部を改正する法律附則第一条第二号に掲げる規定の施行の日以後である場合には、第十三条のうち地域における医療及び介護の総合的な確保の促進に関する法律附則第一条の二第二項の改正規定中「附則第一条の二第一項各号」とあるのは「附則第一条の二第一項」と、「附則第一条の三第一項各号」とあるのは「附則第一条の三第一項」とし、前条の規定（地域共生社会の実現のための社会福祉法等の一部を改正する法律第七条のうち地域における医療及び介護の総合的な確保の促進に関する法律附則第一条の二第一項及び第二項の改正規定の改正規定に限る。）は、適用しない。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年六月一一日法律第六六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和四年一月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第六条中国民健康保険法附則第二十五条の改正規定並びに第八条中生活保護法第五十五条の八、第八十五条の二及び別表第一の三の項第三号の改正規定並びに次条第一項、附則第八条及び第十条の規定、附則第十五条中地方公務員等共済組合法（昭和三十七年法律第百五十二号）第百四十六条の改正規定、附則第二十一条中住民基本台帳法（昭和四十二年法律第八十一号）別表第一の十九の項及び別表第二から別表第五までの改正規定、附則第二十三条中租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（昭和四十四年法律第四十六号）第三条の二の三第一項の改正規定（「第七百三条の四第十一項第一号」を「第七百三条の四第十項第一号」に改める部分に限る。）並びに附則第二十九条、第三十一条及び第三十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2:5">
+            <ItemTitle>二から五まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中健康保険法第二百五条の四第二項及び第二百五条の五の改正規定、第二条中船員保険法第百五十三条の十第二項及び第百五十三条の十一の改正規定、第五条中高齢者の医療の確保に関する法律第百六十五条の二第二項及び第百六十五条の三の改正規定、第六条中国民健康保険法第百十三条の三第二項及び第百十三条の四の改正規定、第八条の規定（第一号に掲げる改正規定を除く。）並びに第九条及び第十条の規定並びに附則第十一条中私立学校教職員共済法第四十七条の三第二項及び第四十七条の四の改正規定、附則第十三条中国家公務員共済組合法第百十四条の二第二項及び第百十四条の三の改正規定、附則第十五条中地方公務員等共済組合法第百四十四条の三十三第二項及び第百四十四条の三十四の改正規定並びに附則第二十二条、第二十四条及び第三十条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の公布後速やかに、全世代対応型の持続可能な社会保障制度を構築する観点から、社会保障制度の改革及び少子化に対処するための施策について、その実施状況の検証を行うとともに、総合的な検討に着手し、その検討の結果に基づいて速やかに法制の整備その他の必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この項において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第三条から第十条まで、第十二条、第十四条及び第十六条に規定するもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年五月二〇日法律第四七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第一条中医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第一条の五第二項の改正規定及び第二条から第四条までの規定並びに附則第四条から第六条までの規定は、令和五年二月一日までの間において政令で定める日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この条において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年一二月九日法律第九六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条の規定（次号に掲げる改正規定を除く。）、第四条中地域保健法第六条の改正規定、第五条の規定、第八条中医療法第六条の五、第七条、第七条の二、第二十七条の二及び第三十条の四第十項の改正規定、第九条及び第十二条の規定並びに第十七条中高齢者の医療の確保に関する法律第百二十一条第一項第一号イの改正規定並びに次条第一項から第三項まで、附則第三条、第四条、第八条から第十二条まで、第十四条及び第十六条から第十八条までの規定、附則第十九条の規定（次号に掲げる改正規定を除く。）、附則第二十四条の規定、附則第三十一条中住民基本台帳法（昭和四十二年法律第八十一号）別表第二の四の項、別表第三の五の五の項、別表第四の三の項及び別表第五第六号の三の改正規定並びに附則第三十六条から第三十八条まで及び第四十二条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2:3">
+            <ItemTitle>二及び三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第六条及び第七条の規定並びに第十三条中新型インフルエンザ等対策特別措置法第二十八条第五項から第七項までの改正規定並びに附則第十五条の規定、附則第二十一条中地方自治法別表第一予防接種法（昭和二十三年法律第六十八号）の項の改正規定並びに附則第三十二条及び第三十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、新型コロナウイルス感染症（病原体がベータコロナウイルス属のコロナウイルス（令和二年一月に、中華人民共和国から世界保健機関に対して、人に伝染する能力を有することが新たに報告されたものに限る。）であるものに限る。以下同じ。）の<Ruby>罹<Rt>り</Rt></Ruby>患後症状に係る医療の在り方について、科学的知見に基づく適切な医療の確保を図る観点から速やかに検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、新型コロナウイルス感染症に関する状況の変化を勘案し、当該感染症の新型インフルエンザ等感染症（感染症法第六条第七項に規定する新型インフルエンザ等感染症をいう。附則第六条において同じ。）への位置付けの在り方について、感染症法第六条に規定する他の感染症の類型との比較等の観点から速やかに検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、予防接種の有効性及び安全性に関する情報（副反応に関する情報を含む。）の公表の在り方について検討を加え、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この項において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="42">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第四十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年五月一九日法律第三一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和六年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第三条中国民健康保険法第七十二条第三項、第八十二条の二第三項第一号及び第四項、第八十五条の二、第八十五条の三第三項並びに第百十三条の二第一項の改正規定、第六条中高齢者の医療の確保に関する法律第四条に一項を加える改正規定、同法第六条、第七条第二項及び第八条第四項の改正規定、同条第五項の改正規定（第四号に掲げる改正規定を除く。）、同法第九条第二項及び第三項の改正規定、同条第四項の改正規定（第四号に掲げる改正規定を除く。）、同条第五項、第七項及び第十項並びに同法第十一条、第十二条第一項、第十三条第一項、第十四条第一項、第十五条、第十六条第三項、第百三十八条第一項及び第百五十七条の二の改正規定、第七条の規定並びに第十二条の規定並びに次条第一項並びに附則第四条、第七条、第八条、第十二条、第十五条、第十七条及び第十八条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2:3">
+            <ItemTitle>二及び三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条中国民健康保険法第六十四条及び第八十五条の三第二項第二号の改正規定、第六条中高齢者の医療の確保に関する法律第八条第五項の改正規定（「推進」の下に「、医療法第六条の三第一項に規定するかかりつけ医機能（次条第四項において「かかりつけ医機能」という。）の確保」を加える部分に限る。）及び同法第九条第四項の改正規定（「推進」の下に「、かかりつけ医機能の確保」を加える部分に限る。）、第八条中医療法の目次の改正規定（第二号に掲げる改正規定を除く。）、同法第五条第一項及び第六条の三第一項の改正規定、同法第二章第一節中第六条の四の三を第六条の四の四とし、第六条の四の二を第六条の四の三とし、第六条の四の次に一条を加える改正規定、同法第十六条の二第一項第三号、第二十九条第三項第三号及び第四項第三号並びに第三十条の三第二項の改正規定、同法第三十条の三の二に一項を加える改正規定、同法第三十条の四第二項第十号の次に一号を加える改正規定、同法第三十条の五、第三十条の六第一項、第三十条の十四第一項及び第三十条の十八の四の改正規定、同法第五章第四節中第三十条の十八の四を第三十条の十八の五とし、第三十条の十八の三の次に一条を加える改正規定並びに同法第七十条第一項第二号、第九十二条及び第百六条の改正規定、第十条の規定並びに第十三条中介護保険法第百十七条第五項の改正規定並びに附則第十四条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和七年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の公布後、全世代対応型の持続可能な社会保障制度を構築するため、経済社会情勢の変化と社会の要請に対応し、受益と負担の均衡がとれた社会保障制度の確立を図るための更なる改革について速やかに検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この項において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第三条から前条までに規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一二月一二日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和九年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中医療法第三十条の八に一項を加える改正規定及び同法第三十条の十五第一項の改正規定（「及び次条」を削る部分に限る。）、第四条中地域における医療及び介護の総合的な確保の促進に関する法律第七条の次に二条を加える改正規定並びに第十三条の規定並びに次条第二項及び第四項並びに附則第五条、第六条、第九条、第十条、第十二条から第十四条まで、第十六条、第十八条、第二十条及び第二十四条の規定、附則第四十一条中住民基本台帳法（昭和四十二年法律第八十一号）別表第一の五十七の三十一の項の改正規定及び同法別表第二から別表第五までの改正規定並びに附則第五十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第四条の規定（第一号に掲げる改正規定を除く。）、第十条中地方税法附則第十一条第十六項の改正規定（「第十二条の七」を「第十三条の六」に、「第十二条の二の二第一項」を「第十三条第一項」に改める部分に限る。）及び第十八条の規定並びに附則第三十七条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中医療法第三十条の三第一項及び第三十八条の七第二項の改正規定、第五条の規定、第七条中健康保険法第七十六条第五項及び第八十八条第十一項の改正規定、同法第百五十条の十第一項及び第三項の改正規定（「基金等」を「基盤機構等」に改める部分に限る。）、同法第百五十条の九（見出しを含む。）の改正規定（「を基金」を「を基盤機構」に、「基金等」を「基盤機構等」に改める部分に限る。）、同法第百五十二条の二の改正規定並びに同法第二百五条の四（見出しを含む。）の改正規定（次号に掲げる改正規定を除く。）、第八条（同号及び第九号に掲げる改正規定を除く。）及び第九条（次号及び第九号に掲げる改正規定を除く。）の規定、第十一条中高齢者の医療の確保に関する法律の目次の改正規定、同法第十七条（見出しを含む。）及び第十七条の二第一項の改正規定（同号に掲げる改正規定を除く。）、同条第三項並びに同法第三十二条、第三十六条第一項、第四十条、第四十二条、第四十三条、第四十四条第一項から第三項まで、第四十五条第一項、第四十六条、第七十条第四項及び第九十三条第三項の改正規定、同法第百条第一項の改正規定（「支払基金」を「機構」に改める部分に限る。）、同条第三項並びに同法第百一条第一項、第百十八条第一項、第百二十二条、第百二十三条第一項、第百二十四条の二第一項、第百二十四条の四第一項及び第二項、第百二十四条の五第一項、第百二十四条の六、第百二十四条の七並びに第百二十四条の九の改正規定、同法第五章の章名の改正規定並びに同法第百三十九条の見出し、同条第一項及び第二項、同法第百四十条、第百四十一条第一項、第百四十二条から第百四十六条まで、第百四十七条第一項、第五項、第六項及び第八項、第百四十八条、第百四十九条、第百五十一条、第百五十二条第一項及び第三項、第百五十三条（見出しを含む。）、第百五十四条並びに第百六十五条の二の見出し、同条第一項並びに同法第百六十八条第二項及び第百七十条第一項の改正規定並びに同法附則第三条第三項、第六条、第七条第一項、第九条、第九条の二（見出しを含む。）及び第十一条（見出しを含む。）の改正規定、第十二条中介護保険法の目次の改正規定、同法第百十五条の四十七第十項の改正規定（第九号に掲げる改正規定を除く。）、同条第十一項の改正規定（次号に掲げる改正規定を除く。）、同法第百十六条第一項の改正規定、同法第百十八条の十一第一項の改正規定（「支払基金等」を「機構等」に改める部分に限る。）、同条第三項の改正規定、同法第百十八条の十（見出しを含む。）の改正規定（「支払基金等」を「機構等」に改める部分に限る。）、同法第百二十五条第一項及び第四項、第百二十六条、第百四十八条第二項、第百五十条第一項、第百五十五条、第百五十六条第一項から第三項まで、第百五十七条第一項、第百五十八条並びに第百五十九条第一項の改正規定、同法第九章の章名の改正規定並びに同法第百六十条の見出し、同条第一項及び第二項並びに同法第百六十一条、第百六十二条第一項、第百六十三条から第百六十七条まで、第百六十八条第一項、第五項、第六項及び第八項、第百六十九条、第百七十条、第百七十一条、第百七十二条第一項及び第三項、第百七十三条（見出しを含む。）、第百七十四条、第二百七条第二項並びに第二百十二条の改正規定、第十四条中児童福祉法第十九条の二十第三項及び第四項の改正規定、第十五条の規定（同号及び第九号に掲げる改正規定を除く。）、第十七条中原子爆弾被爆者に対する援護に関する法律第十五条第三項及び第四項並びに第二十条の改正規定、第十九条中感染症の予防及び感染症の患者に対する医療に関する法律第三十六条の九第二項、第三十六条の十三、第三十六条の十四第一項及び第二項、第三十六条の十八、第三十六条の十九第一項から第三項まで、第三十六条の二十第一項、第三十六条の二十一、第三十六条の二十三第三項、第三十六条の二十五（見出しを含む。）、第三十六条の二十六第一項、第三十六条の二十七から第三十六条の三十一まで、第三十六条の三十二第一項、第五項、第六項及び第八項、第三十六条の三十三、第三十六条の三十四、第三十六条の三十六、第三十六条の三十七第一項及び第三項、第三十六条の三十八（見出しを含む。）、第三十六条の三十九、第四十条第五項及び第六項、第五十六条の四十八（見出しを含む。）、第五十六条の四十九第一項及び第三項、第五十六条の五十第二項、第七十七条第二項並びに第八十二条の改正規定、第二十二条中障害者の日常生活及び社会生活を総合的に支援するための法律第七十三条第三項及び第四項の改正規定、第二十三条中石綿による健康被害の救済に関する法律第十四条第一項及び第二項の改正規定、第二十五条の規定（次号に掲げる改正規定を除く。）、第二十七条中難病の患者に対する医療等に関する法律第二十五条第三項の改正規定及び同条第四項の改正規定（「社会保険診療報酬支払基金」を「医療情報基盤・診療報酬審査支払機構」に改める部分に限る。）、第二十八条中医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律第三十一条第四項の改正規定（「この条」の下に「及び第三十六条の二」を加える部分を除く。）及び同条第五項から第七項までの改正規定並びに第二十九条の規定並びに附則第十九条、第二十一条から第二十三条まで、第二十五条及び第三十一条の規定、附則第三十二条（同号に掲げる改正規定を除く。）及び第三十三条（同号に掲げる改正規定を除く。）の規定、附則第三十五条中私立学校教職員共済法（昭和二十八年法律第二百四十五号）第三十四条の二第一項の改正規定及び同法第四十七条の三（見出しを含む。）の改正規定（次号に掲げる改正規定を除く。）、附則第三十八条中国家公務員共済組合法（昭和三十三年法律第百二十八号）第九十九条の二第一項の改正規定及び同法第百十四条の二（見出しを含む。）の改正規定（次号に掲げる改正規定を除く。）、附則第三十九条中地方公務員等共済組合法（昭和三十七年法律第百五十二号）第百十三条の二第一項の改正規定及び同法第百四十四条の三十三（見出しを含む。）の改正規定（次号に掲げる改正規定を除く。）、附則第四十条の規定、附則第四十一条中住民基本台帳法別表第一の改正規定（第一号に掲げる改正規定を除く。）並びに附則第四十五条第一項及び第二項、第四十八条、第五十条、第五十一条、第五十四条並びに第五十六条から第五十八条までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して一年六月を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="6:8">
+            <ItemTitle>六から八まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第六条の規定（同条中地域における医療及び介護の総合的な確保の促進に関する法律第三条第二項第四号の改正規定（「医療法」を「医療法第三十条の三の三第一項に規定する地域医療構想（以下「地域医療構想」という。）及び同法」に、「）及び」を「）並びに」に改める部分に限る。）、同法第四条第二項第二号及び第三項の改正規定並びに同法第七条の二及び第七条の三を削る改正規定を除く。）、第七条中健康保険法の目次の改正規定、同法第七条の二第三項、第七十七条第三項及び第百五十条の二第一項の改正規定、同法第百五十条の十の改正規定（第五号に掲げる改正規定を除く。）、第六章中同条を第百五十条の十三とする改正規定、同法第百五十条の九の改正規定（同号に掲げる改正規定を除く。）、同条を同法第百五十条の十二とする改正規定、同法第百五十条の八の改正規定、同条を同法第百五十条の十一とする改正規定、同法第百五十条の七第一項の改正規定、同条を同法第百五十条の十とする改正規定、同法第百五十条の六の次に三条を加える改正規定並びに同法第百五十一条、第百五十三条、第百五十四条第一項、第百五十五条第一項、第百六十条第三項及び第十四項、第百七十三条第一項、第百七十六条、第二百七条の三並びに第二百十三条の二の改正規定並びに同法附則第二条第一項及び第四条の二の改正規定、第八条中船員保険法第百十二条第二項、第百十四条第一項及び第百二十一条第二項の改正規定並びに同法附則第七条の改正規定、第九条中国民健康保険法第六十九条、第七十条第一項、第七十三条第一項及び第二項、第七十五条、第七十五条の七第一項、第七十六条第一項及び第二項並びに第八十一条の二第十項の改正規定、第十条の規定（第三号に掲げる改正規定を除く。）、第十一条中高齢者の医療の確保に関する法律第十六条の二第一項及び第十六条の八の改正規定、同条を同法第十六条の十一とする改正規定、同法第十六条の七第一項の改正規定、同条を同法第十六条の十とする改正規定、同法第十六条の六の次に三条を加える改正規定、同法第十七条の改正規定（「の規定による利用又は」を「並びに第十六条の七第一項及び第二項の規定による利用及び」に改める部分に限る。）、同条に二項を加える改正規定、同法第十七条の二第一項の改正規定（「前条」を「前条第一項」に改める部分に限る。）、同条に一項を加える改正規定、同法第三十四条第一項、第三項、第四項及び第六項、第三十五条第一項、第三項、第四項及び第六項、第三十八条第一項及び第二項、第三十九条第一項及び第二項、第六十一条第三項、第七十二条第二項、第八十一条第二項並びに第九十三条第一項及び第二項の改正規定、同法第百条第一項の改正規定（第五号に掲げる改正規定を除く。）、同条第二項並びに同法第百四条第一項及び第三項、第百十六条第二項、第百二十条第一項、第百三十四条第三項、第百三十七条第三項、第百五十二条第二項並びに第百六十一条の三第二項の改正規定並びに同法第百六十七条の二及び第百六十八条第三項の改正規定、第十二条中介護保険法第百十五条の四十七第十項の改正規定（「第百十八条の十及び第百十八条の十一」を「第百十八条の十三及び第百十八条の十四」に改める部分に限る。）、同法第百十八条の三第一項の改正規定、同法第百十八条の十一の改正規定（同号に掲げる改正規定を除く。）、同条を同法第百十八条の十四とする改正規定、同法第百十八条の十の改正規定（同号に掲げる改正規定を除く。）、同条を同法第百十八条の十三とする改正規定、同法第百十八条の九の改正規定、同条を同法第百十八条の十二とする改正規定、同法第百十八条の八第一項の改正規定、同条を同法第百十八条の十一とする改正規定、同法第百十八条の七の次に三条を加える改正規定並びに同法第二百五条の三及び第二百六条の二の改正規定、第十四条の規定（同号及び第六号に掲げる改正規定を除く。）、第十五条中予防接種法第二十四条第一項の改正規定、同法第二十八条の次に三条を加える改正規定、同法第二十九条第一項及び第三十条の改正規定、同法第三十一条の改正規定（「又は提供」を「及び提供並びに第二十八条の二第一項及び第二項の規定による仮名予防接種等関連情報の利用及び提供」に改める部分に限る。）、同条に二項を加える改正規定、同法第三十二条第一項の改正規定（「前条」を「前条第一項」に改める部分に限る。）、同条に一項を加える改正規定、同法第三十三条第一号及び第四十三条第一号の改正規定並びに同法第四十八条及び第五十九条の改正規定、第二十条の規定、第二十二条中障害者の日常生活及び社会生活を総合的に支援するための法律第八十九条の二の三第一項及び第八十九条の二の十一の改正規定、同条を同法第八十九条の二の十四とする改正規定、同法第八十九条の二の十の改正規定、同条を同法第八十九条の二の十三とする改正規定、同法第八十九条の二の九の改正規定、同条を同法第八十九条の二の十二とする改正規定、同法第八十九条の二の八第一項の改正規定、同条を同法第八十九条の二の十一とする改正規定、同法第八十九条の二の七の次に三条を加える改正規定並びに同法第百九条の二及び第百九条の三の改正規定、第二十六条の規定、第二十七条の規定（第五号及び第六号に掲げる改正規定を除く。）並びに第二十八条の規定（第五号に掲げる改正規定を除く。）並びに附則第十一条、第十五条、第十七条、第二十七条及び第二十九条の規定、附則第三十五条（同号及び第六号に掲げる改正規定を除く。）、第三十八条（第五号及び第六号に掲げる改正規定を除く。）及び第三十九条（第五号及び第六号に掲げる改正規定を除く。）の規定、附則第四十三条、第四十六条、第四十七条及び第五十二条の規定並びに附則第五十九条の規定（次号に掲げる改正規定を除く。）</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して三年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、都道府県が医師手当事業（第六条の規定による改正後の地域における医療及び介護の総合的な確保の促進に関する法律第十条の二の医師手当事業をいう。）を行うに当たり、保険者協議会（高齢者の医療の確保に関する法律第百五十七条の二第一項の保険者協議会をいう。）その他の医療保険者等（第六条の規定による改正後の地域における医療及び介護の総合的な確保の促進に関する法律第十条の五第一項の医療保険者等をいう。）が意見を述べることができる仕組みの構築について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二項に定める事項のほか、政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この項において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の公布後速やかに、介護又は障害福祉に関するサービスに従事する者（以下この項において「介護・障害福祉従事者」という。）の賃金が他の業種に属する事業に従事する者と比較して低い水準にあること、介護・障害福祉従事者が従事する業務が身体的及び精神的な負担の大きいものであること、介護又は障害福祉に関するサービスを担う優れた人材の確保が要介護者等（介護保険法第七条第五項の要介護者等をいう。）並びに障害者及び障害児に対するサービスの水準の向上に資すること等に鑑み、現役世代の保険料負担を含む国民負担の軽減を図りつつ介護・障害福祉従事者の人材の確保を図るため、介護・障害福祉従事者の適切な処遇の確保について、その処遇の状況等を踏まえて検討を加え、その結果に基づいて所要の措置を機動的に講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（地域における医療及び介護の総合的な確保の促進に関する法律の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">都道府県又は市町村（特別区を含む。附則第十条において同じ。）は、第六条の規定（附則第一条第九号に掲げる改正規定に限る。）による改正後の地域における医療及び介護の総合的な確保の促進に関する法律（これに基づく命令を含む。）の施行のために必要な条例の制定又は改正その他の行為については、同号に掲げる規定の施行の日（以下「第九号施行日」という。）前においても行うことができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">社会保険診療報酬支払基金（以下「支払基金」という。）（附則第一条第五号に掲げる規定の施行の日（以下「第五号施行日」という。）以後にあっては、医療情報基盤・診療報酬審査支払機構。附則第十三条及び第十四条において同じ。）は、第九号施行日前においても、第六条の規定（附則第一条第九号に掲げる改正規定に限る。）による改正後の地域における医療及び介護の総合的な確保の促進に関する法律第二十四条各号に掲げる業務の実施に必要な準備行為をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第五号及び第九号に掲げる規定の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="24">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第三条から前条までに規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

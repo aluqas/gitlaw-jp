@@ -262,7 +262,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">精神保健審判員は、次項に規定する名簿に記載され、又は記録された者のうち、最高裁判所規則で定めるところにより地方裁判所が毎年あらかじめ選任したものの中から、処遇事件ごとに地方裁判所が任命する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">精神保健審判員は、次項に規定する名簿に記載された者のうち、最高裁判所規則で定めるところにより地方裁判所が毎年あらかじめ選任したものの中から、処遇事件ごとに地方裁判所が任命する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -433,7 +433,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">精神保健参与員は、次項に規定する名簿に記載され、又は記録された者のうち、地方裁判所が毎年あらかじめ選任したものの中から、処遇事件ごとに裁判所が指定する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">精神保健参与員は、次項に規定する名簿に記載された者のうち、地方裁判所が毎年あらかじめ選任したものの中から、処遇事件ごとに裁判所が指定する。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -607,7 +607,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">保護観察所の長は、第十九条各号に掲げる事務を行うため必要があると認めるときは、その必要な限度において、裁判所に対し、当該対象者の身上に関する事項を記載し、又は記録した書面又は電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）、第三十七条第一項に規定する鑑定の経過及び結果を記載し、又は記録した書面又は電磁的記録その他の必要な資料の提供を求めることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">保護観察所の長は、第十九条各号に掲げる事務を行うため必要があると認めるときは、その必要な限度において、裁判所に対し、当該対象者の身上に関する事項を記載した書面、第三十七条第一項に規定する鑑定の経過及び結果を記載した書面その他の必要な資料の提供を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -737,39 +737,6 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="24_2">
-            <ArticleCaption>（電子情報処理組織による申立て等）</ArticleCaption>
-            <ArticleTitle>第二十四条の二</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">検察官及び付添人は、申立て、請求その他の裁判所に対してする申述であってこの章に規定するもの（以下この条及び次条において「申立て等」という。）については、口頭でする場合を除き、最高裁判所規則の定めるところにより、最高裁判所規則で定める電子情報処理組織（裁判所の使用に係る電子計算機（入出力装置を含む。以下同じ。）と申立て等をする者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。）を使用して当該申立て等に係る事項を裁判所の使用に係る電子計算機に備えられたファイル（次項及び次条において単に「ファイル」という。）に記録する方法又は当該事項を記録した記録媒体を裁判所に提出する方法によりしなければならない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の電子情報処理組織を使用してファイルに記録する方法によりされた申立て等は、当該申立て等に係る事項がファイルに記録された時に裁判所に到達したものとみなす。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の規定は、検察官又は付添人が、同項の電子情報処理組織に係る電子計算機の故障その他のその責めに帰することができない事由により、同項の方法により申立て等をすることができない場合には、適用しない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
-          <Article Num="24_3">
-            <ArticleCaption>（裁判所書記官によるファイルへの記録）</ArticleCaption>
-            <ArticleTitle>第二十四条の三</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">申立て等が、書面によりされたとき（前条第一項の規定に違反してされたときを除く。）、又は最高裁判所規則の定めるところにより当該申立て等に係る事項を記録した記録媒体を提出する方法によりされたときは、裁判所書記官は、当該書面に記載され、又は当該記録媒体に記録されている事項をファイルに記録しなければならない。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該事項をファイルに記録することにつき困難な事情があるときは、この限りでない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
           <Article Num="25">
             <ArticleCaption>（意見の陳述及び資料の提出）</ArticleCaption>
             <ArticleTitle>第二十五条</ArticleTitle>
@@ -805,12 +772,6 @@
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">裁判所は、対象者が正当な理由がなく第一項の呼出しに応じないおそれがあるとき、定まった住居を有しないとき、又は医療のため緊急を要する状態にあって必要があると認めるときは、前項の規定にかかわらず、当該対象者に対し、同行状を発することができる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第一項の呼出状及び前二項の同行状は、書面によるほか、最高裁判所規則の定めるところにより、電磁的記録によることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -850,37 +811,15 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">同行状を執行するには、対象者に対し、次の各号に掲げる場合の区分に応じ、当該各号に定める措置をとった上、できる限り速やかにかつ直接、指定された裁判所その他の場所にこれを引致しなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">同行状を執行するには、これを当該対象者に示した上、できる限り速やかにかつ直接、指定された裁判所その他の場所に引致しなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、やむを得ない事由があるときは、病院、救護施設、警察署その他の精神障害者を保護するのに適当な場所に、保護することができる。</Sentence>
               </ParagraphSentence>
-              <Item Num="1">
-                <ItemTitle>一</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">同行状が書面である場合</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">同行状を示すこと。</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
-              <Item Num="2">
-                <ItemTitle>二</ItemTitle>
-                <ItemSentence>
-                  <Column Num="1">
-                    <Sentence Num="1" WritingMode="vertical">同行状が電磁的記録である場合</Sentence>
-                  </Column>
-                  <Column Num="2">
-                    <Sentence Num="1" WritingMode="vertical">最高裁判所規則の定めるところにより、同行状に記録された事項を電子計算機の映像面、書面その他のものに表示して示すこと。</Sentence>
-                  </Column>
-                </ItemSentence>
-              </Item>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">同行状について前項各号に定める措置をとることができない場合において、急速を要するときは、同項の規定にかかわらず、当該対象者に対し同行状が発せられている旨を告げて、その執行をすることができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合においては、できる限り速やかに、同項各号に定める措置をとらなければならない。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">同行状を所持しないためこれを示すことができない場合において、急速を要するときは、前項の規定にかかわらず、当該対象者に対し同行状が発せられている旨を告げて、その執行をすることができる。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、同行状はできる限り速やかに示さなければならない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
@@ -1011,43 +950,19 @@
               </ParagraphSentence>
             </Paragraph>
           </Article>
-          <Article Num="31_2">
-            <ArticleCaption>（映像等の送受信による通話の方法による審判期日における審判）</ArticleCaption>
-            <ArticleTitle>第三十一条の二</ArticleTitle>
-            <Paragraph Num="1">
-              <ParagraphNum/>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">裁判所は、審判期日における審判を行う場合において、対象者の精神障害の状態、審判の状況その他の事情を考慮し、相当と認めるときは、対象者又はその保護者若しくは付添人の意見を聴き、対象者が入院している医療機関その他の同一構内（裁判官及び精神保健審判員が審判期日における審判を行うために在席する場所と同一の構内をいう。）以外にある場所であって、適当と認めるものに対象者を在席させ、映像と音声の送受信により相手の状態を相互に認識しながら通話をすることができる方法によって、審判を行うことができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、その場所に在席した対象者は、その審判期日に出席したものとみなす。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="2">
-              <ParagraphNum>２</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">保護者又は付添人は、裁判所が前項の規定により審判期日における審判を行うときは、対象者が在席する場所に在席することができる。</Sentence>
-                <Sentence Num="2" WritingMode="vertical">この場合において、その場所に在席した付添人は、その審判期日に出席したものとみなす。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-          </Article>
           <Article Num="32">
             <ArticleCaption>（記録等の閲覧又は謄写）</ArticleCaption>
             <ArticleTitle>第三十二条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">処遇事件の記録又は証拠物（電磁的記録であるものを含む。以下この条において同じ。）は、裁判所の許可を受けた場合を除き、閲覧又は謄写をすることができない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">処遇事件の記録又は証拠物は、裁判所の許可を受けた場合を除き、閲覧又は謄写をすることができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">前項の規定にかかわらず、検察官、指定入院医療機関の管理者若しくはその指定する医師、保護観察所の長若しくはその指定する社会復帰調整官又は付添人は、次条第一項、第四十九条第一項若しくは第二項、第五十条、第五十四条第一項若しくは第二項、第五十五条又は第五十九条第一項若しくは第二項の規定による申立てがあった後当該申立てに対する決定が確定するまでの間、処遇事件の記録又は証拠物を閲覧することができる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="3">
-              <ParagraphNum>３</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">処遇事件の記録又は証拠物を、第一項の許可を受けて閲覧し若しくは謄写する場合又は前項の規定により閲覧する場合において、当該記録又は証拠物の全部又は一部が電磁的記録であるときは、当該電磁的記録の閲覧は、その内容を表示したものを閲覧し、又はその内容を再生したものを視聴する方法によるものとし、当該電磁的記録の謄写は、これを複写し、若しくは印刷し、又はその内容を表示し若しくは再生したものを記載し若しくは記録する方法によるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1210,12 +1125,6 @@
               <ParagraphSentence>
                 <Sentence Function="main" Num="1" WritingMode="vertical">裁判所は、審判期日において、対象者に対し、供述を強いられることはないことを説明した上、当該対象者が第二条第二項に該当するとされる理由の要旨及び第三十三条第一項の申立てがあったことを告げ、当該対象者及び付添人から、意見を聴かなければならない。</Sentence>
                 <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三十一条第八項ただし書に規定する場合における対象者については、この限りでない。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="4">
-              <ParagraphNum>４</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">この節に規定する審判についての第三十一条の二第一項の規定の適用については、同項中「対象者又はその保護者若しくは」とあるのは、「検察官及び」とする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -1433,13 +1342,7 @@
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第三項の呼出状及び前二項の同行状は、書面によるほか、最高裁判所規則の定めるところにより、電磁的記録によることができる。</Sentence>
-              </ParagraphSentence>
-            </Paragraph>
-            <Paragraph Num="7">
-              <ParagraphNum>７</ParagraphNum>
-              <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十八条の規定は、第四項及び第五項の同行状の執行について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十八条の規定は、前二項の同行状の執行について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、同条第一項中「検察官にその執行を嘱託し、又は保護観察所の職員にこれを執行させることができる」とあるのは、「検察官にその執行を嘱託することができる」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -2319,7 +2222,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前条第一項の規定による審査のため必要があるときは、指定医療機関の管理者に対して必要な報告を求め、又は当該職員に、指定医療機関についてその管理者の同意を得て、実地に診療録その他の帳簿書類（その作成又は保存に代えて電磁的記録の作成又は保存がされている場合における当該電磁的記録を含む。第九十六条第四項及び第九十七条第一項において同じ。）を検査させることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前条第一項の規定による審査のため必要があるときは、指定医療機関の管理者に対して必要な報告を求め、又は当該職員に、指定医療機関についてその管理者の同意を得て、実地に診療録その他の帳簿書類（その作成又は保存に代えて電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。）の作成又は保存がされている場合における当該電磁的記録を含む。）を検査させることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2393,7 +2296,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">指定医療機関の管理者は、適切な医療を行うため必要があると認めるときは、その必要な限度において、裁判所に対し、第三十七条第一項に規定する鑑定の経過及び結果を記載し、又は記録した書面又は電磁的記録その他の必要な資料の提供を求めることができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">指定医療機関の管理者は、適切な医療を行うため必要があると認めるときは、その必要な限度において、裁判所に対し、第三十七条第一項に規定する鑑定の経過及び結果を記載した書面その他の必要な資料の提供を求めることができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2559,7 +2462,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第四十二条第一項第一号又は第六十一条第一項第一号の決定により指定入院医療機関に入院している者が無断で退去した場合（次条第一項又は第二項の規定により外出又は外泊している者が同条第一項に規定する医学的管理の下から無断で離れた場合を含む。）には、当該指定入院医療機関の職員は、これを連れ戻すことができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四十二条第一項第一号又は第六十一条第一項第一号の決定により指定入院医療機関に入院している者が無断で退去した場合（第百条第一項又は第二項の規定により外出又は外泊している者が同条第一項に規定する医学的管理の下から無断で離れた場合を含む。）には、当該指定入院医療機関の職員は、これを連れ戻すことができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -2626,7 +2529,7 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">指定入院医療機関の職員は、第一項に規定する者が無断で退去した時（次条第一項又は第二項の規定により外出又は外泊している者が同条第一項に規定する医学的管理の下から無断で離れた場合においては、当該無断で離れた時）から四十八時間を経過した後は、裁判官のあらかじめ発する連戻状によらなければ、第一項に規定する連戻しに着手することができない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">指定入院医療機関の職員は、第一項に規定する者が無断で退去した時（第百条第一項又は第二項の規定により外出又は外泊している者が同条第一項に規定する医学的管理の下から無断で離れた場合においては、当該無断で離れた時）から四十八時間を経過した後は、裁判官のあらかじめ発する連戻状によらなければ、第一項に規定する連戻しに着手することができない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
@@ -2638,7 +2541,7 @@
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十六条第四項、第二十八条第四項から第六項まで及び第三十四条第六項の規定は、第五項の連戻状について準用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十八条第四項から第六項まで及び第三十四条第六項の規定は、第五項の連戻状について準用する。</Sentence>
                 <Sentence Num="2" WritingMode="vertical">この場合において、第二十八条第四項中「指定された裁判所その他の場所」とあるのは、「指定入院医療機関」と読み替えるものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
@@ -2771,7 +2674,7 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の実施計画には、政令で定めるところにより、指定通院医療機関の管理者による医療、社会復帰調整官が実施する精神保健観察並びに指定通院医療機関の管理者による第九十一条の規定に基づく援助、都道府県及び市町村による精神保健及び精神障害者福祉に関する法律第四十七条又は第四十九条、障害者の日常生活及び社会生活を総合的に支援するための法律第二十九条その他の精神障害者の保健又は福祉に関する法令の規定に基づく援助その他当該決定を受けた者に対してなされる援助について、その内容及び方法を記載し、又は記録するものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前項の実施計画には、政令で定めるところにより、指定通院医療機関の管理者による医療、社会復帰調整官が実施する精神保健観察並びに指定通院医療機関の管理者による第九十一条の規定に基づく援助、都道府県及び市町村による精神保健及び精神障害者福祉に関する法律第四十七条又は第四十九条、障害者の日常生活及び社会生活を総合的に支援するための法律第二十九条その他の精神障害者の保健又は福祉に関する法令の規定に基づく援助その他当該決定を受けた者に対してなされる援助について、その内容及び方法を記載するものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
@@ -3725,24 +3628,13 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">医療観察法第三条第一項に規定する処遇事件（以下この条において単に「処遇事件」という。）であって施行日前に同項に規定する申立てがあったもの（以下この項及び次条において「施行前処遇事件」という。）又は最高裁判所の定める処遇事件であって特定日前に医療観察法第三条第一項に規定する申立てがあったもの（以下この項及び次条において「特定日前処遇事件」という。）に係る申立て等については、第二十七条の規定（附則第一条第三号に掲げる改正規定を除く。）による改正後の医療観察法第二十四条の二及び第二十四条の三の規定は、適用しない。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、施行前処遇事件又は特定日前処遇事件とこれらの事件以外の処遇事件の審判を併せて行う場合における施行日以後（施行日後に併せて行うこととなった場合にあっては、それ以後）の申立て等については、この限りでない。</Sentence>
+            <Sentence Num="1" WritingMode="vertical"/>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">最高裁判所は、前項の規定に基づき処遇事件を定めるに当たっては、処遇事件に関する手続における情報通信技術の活用の段階的かつ円滑な推進に資するため、その範囲が逓減するよう適切に定めるものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="19">
-        <ArticleTitle>第十九条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">施行前処遇事件又は特定日前処遇事件に係る証人尋問等の記録については、なお従前の例による。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、施行前処遇事件又は特定日前処遇事件とこれらの事件以外の処遇事件の審判を併せて行う場合における証人尋問等の記録については、この限りでない。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>

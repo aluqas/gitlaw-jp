@@ -115,7 +115,7 @@
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号カード」とは、次に掲げる事項のうち第五号に掲げるもの以外のもの（外国人住民（住民基本台帳法第三十条の四十五に規定する外国人住民をいう。次項において同じ。）にあっては、次に掲げる事項のうち第二号及び第五号に掲げるもの以外のもの。以下この項において「カード記載事項」という。）が記載され、第十六条の二第一項の申請の日において本人の年齢が主務省令で定める年齢に満たない場合を除き本人の写真が表示され、かつ、カード記載事項及び同号に掲げる事項並びに本人の写真（当該場合にあっては、カード記載事項及び同号に掲げる事項）その他主務省令で定める事項（以下「カード記録事項」という。）が電磁的方法（電子的方法、磁気的方法その他人の知覚によって認識することができない方法をいう。以下同じ。）により記録されたカードであって、この法律又はこの法律に基づく命令で定めるところによりカード記録事項を閲覧し、又は改変する権限を有する者以外の者による閲覧又は改変を防止するために必要なものとして主務省令で定める措置が講じられたものをいう。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「個人番号カード」とは、次に掲げる事項（外国人住民（住民基本台帳法第三十条の四十五に規定する外国人住民をいう。次項において同じ。）にあっては、第二号に掲げる事項を除く。）が記載され、第十六条の二第一項の申請の日において本人の年齢が主務省令で定める年齢に満たない場合を除き本人の写真が表示され、かつ、これらの事項その他主務省令で定める事項（以下「カード記録事項」という。）が電磁的方法（電子的方法、磁気的方法その他人の知覚によって認識することができない方法をいう。第十八条及び第十八条の五第二項において同じ。）により記録されたカードであって、この法律又はこの法律に基づく命令で定めるところによりカード記録事項を閲覧し、又は改変する権限を有する者以外の者による閲覧又は改変を防止するために必要なものとして主務省令で定める措置が講じられたものをいう。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -505,8 +505,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">個人番号利用事務等実施者は、第十四条第一項の規定により本人から個人番号の提供を受けるときは、次の各号のいずれかに掲げる措置をとらなければならない。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該個人番号利用事務等において性別に係る情報を利用している個人番号利用事務等として主務省令で定めるものの処理に関し個人番号の提供を受ける場合において、第一号の措置をとるときは、併せて、個人番号カードに記録された性別に係る情報を電磁的方法により確認する措置をとらなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">個人番号利用事務等実施者は、第十四条第一項の規定により本人から個人番号の提供を受けるときは、次の各号のいずれかに掲げる措置をとらなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -5984,16 +5983,6 @@
           </Item>
         </Paragraph>
       </Article>
-      <Article Num="2">
-        <ArticleCaption>（行政手続における特定の個人を識別するための番号の利用等に関する法律の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前条第三号に掲げる規定の施行の際現に発行されている個人番号カードの記載事項及び個人番号利用事務等実施者（行政手続における特定の個人を識別するための番号の利用等に関する法律第十二条に規定する個人番号利用事務等実施者をいう。）が当該個人番号カードの提示を受けた場合における本人確認の措置については、なお従前の例による。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="7">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第七条</ArticleTitle>
@@ -6403,28 +6392,6 @@
               <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">公布の日から起算して五年を超えない範囲内において政令で定める日</Sentence>
               </Column>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-      <Article Num="54">
-        <ArticleCaption>（地方税法等の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第五十四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">旧石炭鉱業年金基金については、附則第四十三条の規定、附則第四十四条の規定（附則第一条第一項第十五号に掲げる改正規定に限る。）及び附則第四十五条から前条までの規定による改正前の次に掲げる法律の規定は、第十五号施行日から当該旧石炭鉱業年金基金の清算結了の登記の時までの間は、なおその効力を有する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1:9">
-            <ItemTitle>一から九まで</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">略</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="10">
-            <ItemTitle>十</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">行政手続における特定の個人を識別するための番号の利用等に関する法律別表七十六の項</Sentence>
             </ItemSentence>
           </Item>
         </Paragraph>
@@ -7521,10 +7488,10 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical">七十六　削除</Sentence>
+              <Sentence Num="1" WritingMode="vertical">七十六　石炭鉱業年金基金</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1" WritingMode="vertical"/>
+              <Sentence Num="1" WritingMode="vertical">石炭鉱業年金基金法（昭和四十二年法律第百三十五号）による年金である給付又は一時金の支給に関する事務であって主務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
