@@ -4,7 +4,7 @@
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
         <ChapterTitle>第一章　総則</ChapterTitle>
-        <ArticleRange>（第一条―第八条の三）</ArticleRange>
+        <ArticleRange>（第一条―第八条の四）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="2">
         <ChapterTitle>第二章　母子保健の向上に関する措置</ChapterTitle>
@@ -15,8 +15,20 @@
         <ArticleRange>（第二十二条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="4">
-        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ChapterTitle>第四章　医療情報基盤・診療報酬審査支払機構の業務</ChapterTitle>
+        <ArticleRange>（第二十二条の二―第二十二条の十三）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　国民健康保険団体連合会の業務</ChapterTitle>
+        <ArticleRange>（第二十二条の十四―第二十二条の十九）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
         <ArticleRange>（第二十三条―第二十八条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　罰則</ChapterTitle>
+        <ArticleRange>（第二十九条―第三十一条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -158,8 +170,64 @@
           </Paragraph>
         </Article>
         <Article Num="8_3">
-          <ArticleCaption>（連携及び調和の確保）</ArticleCaption>
+          <ArticleCaption>（機構又は連合会への事務の委託）</ArticleCaption>
           <ArticleTitle>第八条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、次に掲げる者に係る情報の収集若しくは整理又は利用若しくは提供に関する事務の全部又は一部を医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）による医療情報基盤・診療報酬審査支払機構（以下「機構」という。）又は国民健康保険法（昭和三十三年法律第百九十二号）第四十五条第五項に規定する国民健康保険団体連合会（以下「連合会」という。）に委託することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十二条第一項若しくは第十三条第一項の健康診査（次項において「健康診査」という。）又は第十七条の二第一項に規定する産後ケア事業（次項において「産後ケア事業」という。）の対象者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十条第一項に規定する養育医療の給付の対象者又は対象者であつた者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、健康診査又は産後ケア事業の実施に関する事務を委託した者に対する当該事務の処理に要する費用の支払に関する事務の全部又は一部を連合会に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、第一項の規定により次の各号に掲げる事務を委託する場合は、当該各号に定める者と共同して委託するものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第一項第一号に掲げる者に係る事務</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">同項の規定により当該事務を委託する他の市町村</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">第一項第二号に掲げる者に係る事務</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">同項の規定により当該事務を委託する他の市町村、医療情報基盤・診療報酬審査支払機構法第一条に規定する保険者、当該事務以外の法令の規定による医療に関する給付に係る事務を行う者であつて内閣府令で定めるもの並びに介護保険法（平成九年法律第百二十三号）第三条の規定により介護保険を行う市町村及び特別区その他内閣府令で定める者</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="8_4">
+          <ArticleCaption>（連携及び調和の確保）</ArticleCaption>
+          <ArticleTitle>第八条の四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -425,11 +493,23 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定による費用の支給は、養育医療の給付が困難であると認められる場合に限り、行なうことができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により養育医療の給付又は養育医療に要する費用の支給を受けようとする者は、内閣府令で定めるところにより、市町村長に申請しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村長は、前項の規定による申請に係る未熟児が養育のため病院又は診療所に入院することを必要とすると認めるときは、内閣府令で定めるところにより、養育医療の給付又は養育医療に要する費用の支給をする旨を決定するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による費用の支給は、養育医療の給付が困難であると認められる場合に限り、行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">養育医療の給付の範囲は、次のとおりとする。</Sentence>
             </ParagraphSentence>
@@ -464,35 +544,57 @@
               </ItemSentence>
             </Item>
           </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">養育医療の給付は、都道府県知事が次項の規定により指定する病院若しくは診療所又は薬局（以下「指定養育医療機関」という。）に委託して行うものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県知事は、病院若しくは診療所又は薬局の開設者の同意を得て、第一項の規定による養育医療を担当させる機関を指定する。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第一項の規定により支給する費用の額は、次項の規定により準用する児童福祉法第十九条の十二の規定により指定養育医療機関が請求することができる診療報酬の例により算定した額のうち、本人及びその扶養義務者（民法（明治二十九年法律第八十九号）に定める扶養義務者をいう。第二十一条の四第一項において同じ。）が負担することができないと認められる額とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">養育医療の給付は、都道府県知事が次項の規定により指定する病院若しくは診療所又は薬局（以下「指定養育医療機関」という。）に委託して行うものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県知事は、病院若しくは診療所又は薬局の開設者の同意を得て、第一項の規定による養育医療を担当させる機関を指定する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">保護者が未熟児に養育医療の給付を受けさせるときは、内閣府令で定めるところにより、電子資格確認その他内閣府令で定める方法により、当該養育医療の給付を受ける者が第三項の規定による決定（次項において「給付決定」という。）に係る未熟児であることについて、指定養育医療機関の確認を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="9">
+            <ParagraphNum>９</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の「電子資格確認」とは、給付決定に係る未熟児が、市町村に対し、個人番号カード（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードをいう。）に記録された利用者証明用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第二十二条第一項に規定する利用者証明用電子証明書をいう。）を送信する方法その他の内閣府令で定める方法により、未熟児に係る給付決定の情報の照会を行い、電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法により、市町村から回答を受けて当該情報を養育医療の給付を受ける指定養育医療機関に提供し、当該指定養育医療機関から給付決定に係る未熟児であることの確認を受けることをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="10">
+            <ParagraphNum>１０</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により支給する費用の額は、次項の規定により準用する児童福祉法第十九条の十二の規定により指定養育医療機関が請求することができる診療報酬の例により算定した額のうち、本人及びその扶養義務者（民法（明治二十九年法律第八十九号）に定める扶養義務者をいう。第二十一条の四第一項において同じ。）が負担することができないと認められる額とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="11">
+            <ParagraphNum>１１</ParagraphNum>
+            <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">児童福祉法第十九条の十二、第十九条の二十及び第二十一条の三の規定は養育医療の給付について、同法第二十条第七項及び第八項並びに第二十一条の規定は指定養育医療機関について、それぞれ準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同法第十九条の十二中「診療方針」とあるのは「診療方針及び診療報酬」と、同条第二項中「厚生労働大臣」とあるのは「内閣総理大臣」と、同法第十九条の二十（第二項を除く。）中「小児慢性特定疾病医療費の」とあるのは「診療報酬の」と、同条第一項中「第十九条の三第十項」とあるのは「母子保健法第二十条第七項において読み替えて準用する第十九条の十二」と、同条第四項中「都道府県」とあるのは「市町村」と、「厚生労働省令」とあるのは「内閣府令」と、同法第二十一条の三第二項中「都道府県の」とあるのは「市町村の」と読み替えるものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第十九条の十二中「診療方針」とあるのは「診療方針及び診療報酬」と、同条第二項中「厚生労働大臣」とあるのは「内閣総理大臣」と、同法第十九条の二十（第二項を除く。）中「小児慢性特定疾病医療費の」とあるのは「診療報酬の」と、同条第一項中「第十九条の三第十一項」とあるのは「母子保健法第二十条第十一項において読み替えて準用する第十九条の十二」と、同条第四項中「都道府県」とあるのは「市町村」と、「厚生労働省令」とあるのは「内閣府令」と、同法第二十一条の三第二項中「都道府県の」とあるのは「市町村の」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="20_2">
-          <ArticleCaption>（医療施設の整備）</ArticleCaption>
+          <ArticleCaption>（関係者の連携及び協力）</ArticleCaption>
           <ArticleTitle>第二十条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び市町村並びに指定養育医療機関その他の関係者は、前条第九項に規定する電子資格確認の仕組みの導入その他の医療に関する給付に係る手続における情報通信の技術の利用を推進し、もつて高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）第七条第一項に規定する医療保険各法、高齢者の医療の確保に関する法律その他医療に関する給付を定める法令の規定により行われる事務の円滑な実施に資するよう、相互に連携を図りながら協力するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20_3">
+          <ArticleCaption>（医療施設の整備）</ArticleCaption>
+          <ArticleTitle>第二十条の三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -500,9 +602,9 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="20_3">
+        <Article Num="20_4">
           <ArticleCaption>（調査研究の推進）</ArticleCaption>
-          <ArticleTitle>第二十条の三</ArticleTitle>
+          <ArticleTitle>第二十条の四</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -613,7 +715,327 @@
         </Article>
       </Chapter>
       <Chapter Num="4">
-        <ChapterTitle>第四章　雑則</ChapterTitle>
+        <ChapterTitle>第四章　医療情報基盤・診療報酬審査支払機構の業務</ChapterTitle>
+        <Article Num="22_2">
+          <ArticleCaption>（機構の業務）</ArticleCaption>
+          <ArticleTitle>第二十二条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医療情報基盤・診療報酬審査支払機構法第十八条に規定する業務のほか、第一条に規定する目的を達成するため、次に掲げる業務（以下「機構受託業務」という。）を行うことができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第八条の三第一項（第一号に係る部分に限る。以下この号において同じ。）の規定による委託を受けて行う同項に規定する事務（以下この章において「情報収集等事務」という。）に関する業務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号に掲げる業務に附帯する業務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="22_3">
+          <ArticleCaption>（業務の委託）</ArticleCaption>
+          <ArticleTitle>第二十二条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、内閣総理大臣の認可を受けて、前条の規定により行う機構受託業務の全部又は一部を連合会その他内閣府令で定める者に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_4">
+          <ArticleCaption>（業務方法書）</ArticleCaption>
+          <ArticleTitle>第二十二条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第八条の三第一項の規定による委託を受けて情報収集等事務を行う場合には、機構受託業務に関し、当該機構受託業務の開始前に、業務方法書を作成し、内閣総理大臣の認可を受けなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の業務方法書に記載すべき事項は、内閣府令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_5">
+          <ArticleCaption>（区分経理）</ArticleCaption>
+          <ArticleTitle>第二十二条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、機構受託業務に係る経理については、その他の業務に係る経理と区分して、特別の会計を設けて行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_6">
+          <ArticleCaption>（予算等の認可）</ArticleCaption>
+          <ArticleTitle>第二十二条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第八条の三第一項の規定による委託を受けて情報収集等事務を行う場合には、機構受託業務に関し、毎事業年度、予算、事業計画及び資金計画を作成し、当該事業年度の開始前に、内閣総理大臣の認可を受けなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_7">
+          <ArticleCaption>（財務諸表等）</ArticleCaption>
+          <ArticleTitle>第二十二条の七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第八条の三第一項の規定による委託を受けて情報収集等事務を行う場合には、機構受託業務に関し、毎事業年度、財産目録、貸借対照表及び損益計算書（以下この条において「財務諸表」という。）を作成し、当該事業年度の終了後三月以内に内閣総理大臣に提出し、その承認を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、前項の規定により財務諸表を内閣総理大臣に提出するときは、内閣府令で定めるところにより、これに当該事業年度の事業報告書及び予算の区分に従い作成した決算報告書並びに財務諸表及び決算報告書に関する監事の意見書を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第一項の承認を受けたときは、遅滞なく、財務諸表又はその要旨を官報に公告し、かつ、財務諸表及び附属明細書並びに前項の事業報告書、決算報告書及び監事の意見書を、主たる事務所に備えて置き、内閣府令で定める期間、一般の閲覧に供しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_8">
+          <ArticleCaption>（余裕金の運用）</ArticleCaption>
+          <ArticleTitle>第二十二条の八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、次に掲げる方法によるほか、機構受託業務に係る業務上の余裕金を運用してはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国債その他内閣総理大臣が指定する有価証券の保有</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">銀行その他内閣総理大臣が指定する金融機関への預金</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">信託業務を営む金融機関（金融機関の信託業務の兼営等に関する法律（昭和十八年法律第四十三号）第一条第一項の認可を受けた金融機関をいう。）への金銭信託</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="22_9">
+          <ArticleCaption>（報告の徴収及び立入検査）</ArticleCaption>
+          <ArticleTitle>第二十二条の九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、機構又は第二十二条の三の規定による委託を受けた者（以下この項、第二十九条及び第三十条において「機構業務受託者」という。）に対し、機構受託業務（機構業務受託者にあつては、当該委託を受けた機構受託業務に限る。以下この項、第二十九条及び第三十条において同じ。）の適正かつ確実な実施を確保するために必要な限度において、機構受託業務に関し必要な報告若しくは資料の提出を求め、又はその職員に、機構若しくは機構業務受託者の事務所その他必要な場所に立ち入り、機構受託業務に関し質問させ、若しくは帳簿、書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係人の請求があつたときは、これを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の規定により、報告若しくは資料の提出を求め、又はその職員に質問若しくは検査をさせたときは、厚生労働大臣に、速やかにその結果を通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、機構の役員につき機構受託業務に関し医療情報基盤・診療報酬審査支払機構法第十四条第三項又は第四項の規定による処分が行われる必要があると認めるときは、理由を付して、その旨を厚生労働大臣に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_10">
+          <ArticleCaption>（監督）</ArticleCaption>
+          <ArticleTitle>第二十二条の十</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、機構受託業務の適正かつ確実な実施を確保するため、機構に対し、機構受託業務に関し監督上必要な命令をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、機構に対し前項の命令をしたときは、速やかにその旨を厚生労働大臣に通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_11">
+          <ArticleCaption>（医療情報基盤・診療報酬審査支払機構法の適用の特例）</ArticleCaption>
+          <ArticleTitle>第二十二条の十一</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構受託業務に関する医療情報基盤・診療報酬審査支払機構法第十二条第四項の規定の適用については、同項中「厚生労働大臣」とあるのは、「内閣総理大臣」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構受託業務は、医療情報基盤・診療報酬審査支払機構法第四十三条第二項の規定の適用については、同法第十八条に規定する業務とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_12">
+          <ArticleCaption>（協議）</ArticleCaption>
+          <ArticleTitle>第二十二条の十二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、次に掲げる場合には、厚生労働大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十二条の三、第二十二条の四第一項及び第二十二条の六の認可をしようとするとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十二条の三、第二十二条の四第二項、第二十二条の七第二項及び第三項並びに次条の内閣府令を定めようとするとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十二条の七第一項の承認をしようとするとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第二十二条の八第一号又は第二号の規定による指定をしようとするときは、財務大臣及び厚生労働大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_13">
+          <ArticleCaption>（内閣府令への委任）</ArticleCaption>
+          <ArticleTitle>第二十二条の十三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この章に定めるもののほか、機構受託業務に関し必要な事項は、内閣府令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　国民健康保険団体連合会の業務</ChapterTitle>
+        <Article Num="22_14">
+          <ArticleCaption>（連合会の業務）</ArticleCaption>
+          <ArticleTitle>第二十二条の十四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、国民健康保険法第八十五条の三に規定する業務のほか、第一条に規定する目的を達成するため、次に掲げる業務（以下「連合会受託業務」という。）を行うことができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第八条の三第一項（第一号に係る部分に限る。）及び第二項の規定による委託を受けて行うこれらの規定に規定する事務に関する業務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前号に掲げる業務に附帯する業務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="22_15">
+          <ArticleCaption>（業務の委託）</ArticleCaption>
+          <ArticleTitle>第二十二条の十五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、前条の規定により行う連合会受託業務の全部又は一部を機構その他内閣府令で定める者に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_16">
+          <ArticleCaption>（区分経理）</ArticleCaption>
+          <ArticleTitle>第二十二条の十六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、連合会受託業務に係る経理については、その他の経理と区分して整理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_17">
+          <ArticleCaption>（報告の徴収及び立入検査）</ArticleCaption>
+          <ArticleTitle>第二十二条の十七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、連合会又は第二十二条の十五の規定による委託を受けた者（以下この項、第二十九条及び第三十条において「連合会業務受託者」という。）に対し、連合会受託業務（連合会業務受託者にあつては、当該委託を受けた連合会受託業務に限る。以下この項、第二十九条及び第三十条において同じ。）の適正かつ確実な実施を確保するために必要な限度において、連合会受託業務に関し必要な報告若しくは資料の提出を求め、又はその職員に、連合会若しくは連合会業務受託者の事務所その他必要な場所に立ち入り、連合会受託業務に関し質問させ、若しくは帳簿、書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十二条の九第二項及び第三項の規定は、前項の規定による立入検査について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第一項の規定により、報告若しくは資料の提出を求め、又はその職員に質問若しくは検査をさせたときは、厚生労働大臣に、速やかにその結果を通知するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_18">
+          <ArticleCaption>（協議）</ArticleCaption>
+          <ArticleTitle>第二十二条の十八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">内閣総理大臣は、第二十二条の十五及び次条の内閣府令を定めようとするときは、厚生労働大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_19">
+          <ArticleCaption>（内閣府令への委任）</ArticleCaption>
+          <ArticleTitle>第二十二条の十九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この章に定めるもののほか、連合会受託業務に関し必要な事項は、内閣府令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
         <Article Num="23">
           <ArticleCaption>（非課税）</ArticleCaption>
           <ArticleTitle>第二十三条</ArticleTitle>
@@ -660,8 +1082,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第二十条第七項において準用する児童福祉法第二十一条の三第一項の規定により都道府県知事の権限に属するものとされている事務は、未熟児の利益を保護する緊急の必要があると内閣総理大臣が認める場合にあつては、内閣総理大臣又は都道府県知事が行うものとする。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合においては、第二十条第七項において準用する同法の規定中都道府県知事に関する規定（当該事務に係るものに限る。）は、内閣総理大臣に関する規定として内閣総理大臣に適用があるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二十条第十一項において準用する児童福祉法第二十一条の三第一項の規定により都道府県知事の権限に属するものとされている事務は、未熟児の利益を保護する緊急の必要があると内閣総理大臣が認める場合にあつては、内閣総理大臣又は都道府県知事が行うものとする。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合においては、第二十条第十一項において準用する同法の規定中都道府県知事に関する規定（当該事務に係るものに限る。）は、内閣総理大臣に関する規定として内閣総理大臣に適用があるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -685,6 +1107,48 @@
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">こども家庭庁長官は、政令で定めるところにより、前項の規定により委任された権限の一部を地方厚生局長又は地方厚生支局長に委任することができる。</Sentence>
             </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　罰則</ChapterTitle>
+        <Article Num="29">
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構若しくは連合会の役員若しくは職員若しくはこれらの職にあつた者又は機構業務受託者若しくは連合会業務受託者（これらの者が法人である場合にあつては、その役員。次条において同じ。）若しくはこれらの職員その他の機構受託業務若しくは連合会受託業務に従事する者若しくはこれらの者であつた者が、正当な理由がないのに、機構受託業務又は連合会受託業務に関して知り得た秘密を漏らしたときは、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十二条の九第一項又は第二十二条の十七第一項の規定による報告若しくは資料の提出をせず、若しくは虚偽の報告をし、若しくは虚偽の資料を提出し、又はこれらの規定による質問に対して答弁をせず、若しくは虚偽の答弁をし、若しくはこれらの規定による検査を拒み、妨げ、若しくは忌避したときは、当該違反行為をした機構若しくは連合会の役員若しくは職員又は機構業務受託者若しくは連合会業務受託者若しくはこれらの職員その他の機構受託業務若しくは連合会受託業務に従事する者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした機構の役員は、二十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律の規定により内閣総理大臣の認可又は承認を受けなければならない場合において、その認可又は承認を受けなかつたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十二条の八の規定に違反して機構受託業務に係る業務上の余裕金を運用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
       </Chapter>
@@ -713,7 +1177,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律の施行前に附則第五条の規定による改正前の児童福祉法第二十一条の五第一項の規定により指定された指定養育医療機関は、第二十条第五項の規定により指定された指定養育医療機関とみなす。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">この法律の施行前に附則第五条の規定による改正前の児童福祉法第二十一条の五第一項の規定により指定された指定養育医療機関は、第二十条第七項の規定により指定された指定養育医療機関とみなす。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1941,6 +2405,103 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第三条から前条までに規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="26">
+        <ArticleCaption>（母子保健法の一部改正に伴う調整規定）</ArticleCaption>
+        <ArticleTitle>第二十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第六号施行日が地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律（令和六年法律第五十三号）附則第一条第四号に掲げる規定の施行の日前である場合には、第十六条のうち、次の表の上欄に掲げる母子保健法の改正規定中同表の中欄に掲げる字句はそれぞれ同表の下欄に掲げる字句とし、同法第八条の三第三項の改正規定、第二十二条の二第一号の改正規定及び第二十二条の十四第一号の改正規定は、適用しない。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第八条の三の見出し及び同条第一項の改正規定</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第八条の三の見出し中「及び」を「又は」に改め、同条第一項中「第十二条第一項若しくは第十三条第一項の健康診査（次項において「健康診査」という。）又は第十七条の二第一項に規定する産後ケア事業（次項において「産後ケア事業」という。）の対象者」を「次に掲げる者」に、「及び」を「又は」に改め、同項に次の各号を加える。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">一　第十二条第一項若しくは第十三条第一項の健康診査（次項において「健康診査」という。）又は第十七条の二第一項に規定する産後ケア事業（次項において「産後ケア事業」という。）の対象者</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">二　第二十条第一項に規定する養育医療の給付の対象者又は対象者であつた者</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">目次中「第八条の三」を「第八条の四」に改める。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">第一章中第八条の三を第八条の四とし、第八条の二の次に次の一条を加える。</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">（機構又は連合会への事務の委託）</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">第八条の三　市町村は、第二十条第一項に規定する養育医療の給付の対象者又は対象者であつた者に係る情報の収集若しくは整理又は利用若しくは提供に関する事務の全部又は一部を医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）による医療情報基盤・診療報酬審査支払機構又は国民健康保険法（昭和三十三年法律第百九十二号）第四十五条第五項に規定する国民健康保険団体連合会に委託することができる。</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">２　市町村は、前項の規定により事務を委託する場合は、同項の規定により当該事務を委託する他の市町村、医療情報基盤・診療報酬審査支払機構法第一条に規定する保険者、当該事務以外の法令の規定による医療に関する給付に係る事務を行う者であつて内閣府令で定めるもの並びに介護保険法（平成九年法律第百二十三号）第三条の規定により介護保険を行う市町村及び特別区その他内閣府令で定める者と共同して委託するものとする。</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前項の場合において、附則第五十八条の規定による改正後の地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律第一条のうち、次の表の上欄に掲げる母子保健法の改正規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">目次の改正規定</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">目次中「第八条の三」を「第八条の四」に、</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">目次中</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第一章中第八条の三を第八条の四とし、第八条の二の次に一条を加える改正規定</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第一章中第八条の三を第八条の四とし、第八条の二の次に次の一条を加える。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">（機構及び連合会への事務の委託）</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">第八条の三　市町村は、第十二条第一項若しくは第十三条第一項の健康診査（次項において「健康診査」という。）又は第十七条の二第一項に規定する産後ケア事業（次項において「産後ケア事業」という。）の対象者に係る情報の収集若しくは整理又は利用若しくは提供に関する事務の全部又は一部を医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）による医療情報基盤・診療報酬審査支払機構（以下「機構」という。）及び国民健康保険法（昭和三十三年法律第百九十二号）第四十五条第五項に規定する国民健康保険団体連合会（以下「連合会」という。）に委託することができる。</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">２　市町村は、健康診査又は産後ケア事業の実施に関する事務を委託した者に対する当該事務の処理に要する費用の支払に関する事務の全部又は一部を連合会に委託することができる。</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">３　市町村は、第一項の規定により事務を委託する場合は、他の市町村と共同して委託するものとする。</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第八条の三第一項中「第二十条第一項に規定する養育医療の給付の対象者又は対象者であつた者」を「次に掲げる者」に改め、「による医療情報基盤・診療報酬審査支払機構」の下に「（以下「機構」という。）」を、「国民健康保険団体連合会」の下に「（以下「連合会」という。）」を加え、同項に次の各号を加える。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">一　第十二条第一項若しくは第十三条第一項の健康診査（次項において「健康診査」という。）又は第十七条の二第一項に規定する産後ケア事業（次項において「産後ケア事業」という。）の対象者</Sentence>
+                  <Sentence Num="3" WritingMode="vertical">二　第二十条第一項に規定する養育医療の給付の対象者又は対象者であつた者</Sentence>
+                  <Sentence Num="4" WritingMode="vertical">同条第二項を次のように改める。</Sentence>
+                  <Sentence Num="5" WritingMode="vertical">２　市町村は、健康診査又は産後ケア事業の実施に関する事務を委託した者に対する当該事務の処理に要する費用の支払に関する事務の全部又は一部を連合会に委託することができる。</Sentence>
+                  <Sentence Num="6" WritingMode="vertical">同条に次の一項を加える。</Sentence>
+                  <Sentence Num="7" WritingMode="vertical">３　市町村は、第一項の規定により次の各号に掲げる事務を委託する場合は、当該各号に定める者と共同して委託するものとする。</Sentence>
+                  <Sentence Num="8" WritingMode="vertical">一　第一項第一号に掲げる者に係る事務　同項の規定により当該事務を委託する他の市町村</Sentence>
+                  <Sentence Num="9" WritingMode="vertical">二　第一項第二号に掲げる者に係る事務　同項の規定により当該事務を委託する他の市町村、医療情報基盤・診療報酬審査支払機構法第一条に規定する保険者、当該事務以外の法令の規定による医療に関する給付に係る事務を行う者であつて内閣府令で定めるもの並びに介護保険法（平成九年法律第百二十三号）第三条の規定により介護保険を行う市町村及び特別区その他内閣府令で定める者</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第四章を第六章とし、第三章の次に二章を加える改正規定中第二十二条の二第一号に係る部分</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">の規定</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">（第一号に係る部分に限る。以下この号において同じ。）の規定</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">第四章を第六章とし、第三章の次に二章を加える改正規定中第二十二条の十四第一号に係る部分</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">及び</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
+                  <Sentence Num="1" WritingMode="vertical">（第一号に係る部分に限る。）及び</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
         </Paragraph>
       </Article>
     </SupplProvision>
