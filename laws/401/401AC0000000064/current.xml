@@ -164,7 +164,7 @@
             <Item Num="4">
               <ItemTitle>四</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、地域における医療及び介護の総合的な確保に関し、次条第一項に規定する都道府県計画、医療法第三十条の四第一項に規定する医療計画（以下「医療計画」という。）及び介護保険法第百十八条第一項に規定する都道府県介護保険事業支援計画（以下「都道府県介護保険事業支援計画」という。）の整合性の確保に関する事項</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げるもののほか、地域における医療及び介護の総合的な確保に関し、次条第一項に規定する都道府県計画、医療法第三十条の三の三第一項に規定する地域医療構想（以下「地域医療構想」という。）及び同法第三十条の四第一項に規定する医療計画（以下「医療計画」という。）並びに介護保険法第百十八条第一項に規定する都道府県介護保険事業支援計画（以下「都道府県介護保険事業支援計画」という。）の整合性の確保に関する事項</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="5">
@@ -221,13 +221,13 @@
               <Subitem1 Num="1">
                 <Subitem1Title>イ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">医療法第三十条の四第二項第七号に規定する地域医療構想（以下単に「地域医療構想」という。）の達成に向けた医療機関の施設又は設備の整備に関する事業</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地域医療構想の達成に向けた医療機関の施設又は設備の整備に関する事業</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="2">
                 <Subitem1Title>ロ</Subitem1Title>
                 <Subitem1Sentence>
-                  <Sentence Num="1" WritingMode="vertical">地域医療構想の達成に向けた医療機関（地域における病床の機能（医療法第三十条の三第二項第六号に規定する病床の機能をいう。以下同じ。）の分化及び連携を推進するために当該地域における病床数の変更を伴う取組を行うものに限る。）の運営の支援に関する事業</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">地域医療構想の達成に向けた医療機関（地域における病床の機能（医療法第三十条の三第二項第七号に規定する病床の機能をいう。以下同じ。）の分化及び連携を推進するために当該地域における病床数の変更を伴う取組を行うものに限る。）の運営の支援に関する事業</Sentence>
                 </Subitem1Sentence>
               </Subitem1>
               <Subitem1 Num="3">
@@ -271,7 +271,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県は、都道府県計画を作成するに当たっては、医療計画及び都道府県介護保険事業支援計画との整合性の確保を図らなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、都道府県計画を作成するに当たっては、地域医療構想及び医療計画並びに都道府県介護保険事業支援計画との整合性の確保を図らなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
@@ -392,32 +392,6 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前条の基金の財源に充てるために、同条の規定により国が負担する費用については、社会保障の安定財源の確保等を図る税制の抜本的な改革を行うための消費税法の一部を改正する等の法律（平成二十四年法律第六十八号）の施行により増加する消費税の収入をもって充てるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="7_2">
-          <ArticleCaption>（病床数の削減を支援する事業等）</ArticleCaption>
-          <ArticleTitle>第七条の二</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県は、その地域の実情を踏まえ、医療機関がその経営の安定を図るために緊急に病床数を削減することを支援する事業を行うことができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県は、医療機関が前項に規定する事業に基づき病床数を削減したときは、厚生労働省令で定める場合を除き、医療計画において定める医療法第三十条の四第二項第十七号に規定する基準病床数を削減するものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="7_3">
-          <ArticleCaption>（病床数の削減を支援する事業に要する費用に係る国の負担）</ArticleCaption>
-          <ArticleTitle>第七条の三</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">国は、医療保険の保険料に係る国民の負担の抑制を図りつつ持続可能な医療保険制度を構築するため、予算の範囲内において、前条第一項に規定する事業に要する費用を負担するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2521,6 +2495,12 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">政府は、都道府県が医師手当事業（第六条の規定による改正後の地域における医療及び介護の総合的な確保の促進に関する法律第十条の二の医師手当事業をいう。）を行うに当たり、保険者協議会（高齢者の医療の確保に関する法律第百五十七条の二第一項の保険者協議会をいう。）その他の医療保険者等（第六条の規定による改正後の地域における医療及び介護の総合的な確保の促進に関する法律第十条の五第一項の医療保険者等をいう。）が意見を述べることができる仕組みの構築について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二項に定める事項のほか、政府は、この法律の施行後五年を目途として、この法律による改正後のそれぞれの法律（以下この項において「改正後の各法律」という。）の施行の状況等を勘案し、必要があると認めるときは、改正後の各法律の規定について検討を加え、その結果に基づいて所要の措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="4">
