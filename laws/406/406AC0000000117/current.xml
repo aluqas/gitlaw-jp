@@ -47,7 +47,7 @@
       </TOCChapter>
       <TOCChapter Num="7">
         <ChapterTitle>第七章　雑則</ChapterTitle>
-        <ArticleRange>（第四十四条―第五十四条）</ArticleRange>
+        <ArticleRange>（第四十三条の二―第五十四条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -259,6 +259,18 @@
                 <Sentence Num="1" WritingMode="vertical">第一項に規定する医療の給付は、厚生労働大臣が第十二条第一項の規定により指定する医療機関（以下「指定医療機関」という。）に委託して行うものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
+            <Paragraph Num="4">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項に規定する医療の給付を受けようとする者は、厚生労働省令で定めるところにより、指定医療機関から、電子資格確認その他厚生労働省令で定める方法により、次条第一項の認定を受けた被爆者であることの確認を受けるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="5">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の「電子資格確認」とは、第一項に規定する医療の給付を受けようとする者が、都道府県知事及び厚生労働大臣に対し、個人番号カード（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードをいう。第十八条第七項において同じ。）に記録された利用者証明用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第二十二条第一項に規定する利用者証明用電子証明書をいう。第十八条第七項において同じ。）を送信する方法その他の厚生労働省令で定める方法により、被爆者健康手帳の交付及び次条第一項の認定の情報（第一項に規定する医療の給付に係る費用の請求に必要な情報を含む。）の照会を行い、電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法により、都道府県知事及び厚生労働大臣から回答を受けて当該情報を第一項に規定する医療の給付を受ける指定医療機関に提供し、当該指定医療機関から次条第一項の認定を受けた被爆者であることの確認を受けることをいう。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
           </Article>
           <Article Num="11">
             <ArticleCaption>（認定）</ArticleCaption>
@@ -437,6 +449,18 @@
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1" WritingMode="vertical">社会保険各法若しくは高齢者の医療の確保に関する法律の規定による被保険者又は組合員である被爆者が、第一項に規定する負傷又は疾病について被爆者一般疾病医療機関から医療を受ける場合には、当該社会保険各法又は高齢者の医療の確保に関する法律の規定により当該医療機関に支払うべき一部負担金は、当該社会保険各法又は高齢者の医療の確保に関する法律の規定にかかわらず、当該医療に関し厚生労働大臣が第三項の規定による支払をしない旨の決定をするまでは、支払うことを要しない。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="6">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">被爆者は、第一項に規定する負傷又は疾病について被爆者一般疾病医療機関から医療を受けようとするときは、厚生労働省令で定めるところにより、被爆者一般疾病医療機関から、電子資格確認その他厚生労働省令で定める方法により、被爆者であることの確認を受けるものとする。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="7">
+              <ParagraphNum>７</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">前項の「電子資格確認」とは、被爆者が、都道府県知事に対し、個人番号カードに記録された利用者証明用電子証明書を送信する方法その他の厚生労働省令で定める方法により、被爆者健康手帳の交付の情報（一般疾病医療費の請求に必要な情報を含む。）の照会を行い、電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法により、都道府県知事から回答を受けて当該情報を医療を受ける被爆者一般疾病医療機関に提供し、当該被爆者一般疾病医療機関から被爆者であることの確認を受けることをいう。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -982,6 +1006,32 @@
       </Chapter>
       <Chapter Num="7">
         <ChapterTitle>第七章　雑則</ChapterTitle>
+        <Article Num="43_2">
+          <ArticleCaption>（医療情報基盤・診療報酬審査支払機構等への事務の委託）</ArticleCaption>
+          <ArticleTitle>第四十三条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第十五条第四項に規定する事務のほか、第十条第一項に規定する医療の給付及び一般疾病医療費の支給に係る被爆者に係る情報の収集若しくは整理又は利用若しくは提供に関する事務を、医療情報基盤・診療報酬審査支払機構又は国民健康保険団体連合会に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の規定により事務を委託する場合は、医療情報基盤・診療報酬審査支払機構法第一条に規定する保険者、法令の規定により医療に関する給付に係る事務を行う者であって厚生労働省令で定めるもの並びに介護保険法第三条の規定により介護保険を行う市町村及び特別区その他厚生労働省令で定める者と共同して委託するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="43_3">
+          <ArticleCaption>（関係者の連携及び協力）</ArticleCaption>
+          <ArticleTitle>第四十三条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国及び都道府県並びに指定医療機関、被爆者一般疾病医療機関その他の関係者は、第十条第五項及び第十八条第七項に規定する電子資格確認の仕組みの導入その他手続における情報通信の技術の利用を推進し、もって高齢者の医療の確保に関する法律第七条第一項に規定する医療保険各法、高齢者の医療の確保に関する法律その他医療に関する給付を定める法令の規定により行われる事務の円滑な実施に資するよう、相互に連携を図りながら協力するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="44">
           <ArticleCaption>（譲渡又は担保の禁止）</ArticleCaption>
           <ArticleTitle>第四十四条</ArticleTitle>
