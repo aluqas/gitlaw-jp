@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Lang="ja" Era="Heisei" Year="21" Num="081" PromulgateMonth="07" PromulgateDay="15" LawType="Act"><LawNum>平成二十一年法律第八十一号</LawNum><LawBody><LawTitle Kana="みなまたびょうひがいしゃのきゅうさいおよびみなまたびょうもんだいのかいけつにかんするとくべつそちほう" Abbrev="水俣病特措法,水俣病救済法,水俣病被害者救済法,水俣病被害者救済特別措置法" AbbrevKana="み,み,み,み">水俣病被害者の救済及び水俣病問題の解決に関する特別措置法</LawTitle>
+    <TOC>
+      <TOCLabel>目次</TOCLabel>
+      <TOCPreambleLabel>前文</TOCPreambleLabel>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <ArticleRange>（第一条―第四条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　救済措置の方針等</ChapterTitle>
+        <ArticleRange>（第五条・第六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　水俣病問題の解決に向けた取組</ChapterTitle>
+        <ArticleRange>（第七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　公的支援を受けている関係事業者の経営形態の見直し</ChapterTitle>
+        <ArticleRange>（第八条―第十六条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　指定支給法人</ChapterTitle>
+        <ArticleRange>（第十七条―第二十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
+        <ArticleRange>（第三十条―第三十七条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="7">
+        <ChapterTitle>第七章　罰則</ChapterTitle>
+        <ArticleRange>（第三十八条―第四十二条）</ArticleRange>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附則</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <Preamble>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">水俣湾及び水俣川並びに阿賀野川に排出されたメチル水銀により発生した水俣病は、八代海の沿岸地域及び阿賀野川の下流地域において、甚大な健康被害と環境汚染をもたらすとともに、長年にわたり地域社会に深刻な影響を及ぼし続けた。水俣病が、今日においても未<Ruby>曾<Rt>ぞ</Rt></Ruby>有の公害とされ、我が国における公害問題の原点とされるゆえんである。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">水俣病の被害に関しては、公害健康被害の補償等に関する法律の認定を受けた方々に対し補償が行われてきたが、水俣病の被害者が多大な苦痛を強いられるとともに、水俣病の被害についての無理解が生まれ、平穏な地域社会に不幸な<Ruby>亀<Rt>き</Rt></Ruby>裂がもたらされた。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">平成十六年のいわゆる関西訴訟最高裁判所判決において、国及び熊本県が長期間にわたって適切な対応をなすことができず、水俣病の被害の拡大を防止できなかったことについて責任を認められたところであり、政府としてその責任を認め、おわびをしなければならない。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">これまで水俣病問題については、平成七年の政治解決等により紛争の解決が図られてきたところであるが、平成十六年のいわゆる関西訴訟最高裁判所判決を機に、新たに水俣病問題をめぐって多くの方々が救済を求めており、その解決には、長期間を要することが見込まれている。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">こうした事態をこのまま看過することはできず、公害健康被害の補償等に関する法律に基づく判断条件を満たさないものの救済を必要とする方々を水俣病被害者として受け止め、その救済を図ることとする。これにより、地域における紛争を終結させ、水俣病問題の最終解決を図り、環境を守り、安心して暮らしていける社会を実現すべく、この法律を制定する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </Preamble>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　総則</ChapterTitle>
+        <Article Num="1">
+          <ArticleCaption>（目的）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律は、水俣病被害者を救済し、及び水俣病問題の最終解決をすることとし、救済措置の方針及び水俣病問題の解決に向けて行うべき取組を明らかにするとともに、これらに必要な補償の確保等のための事業者の経営形態の見直しに係る措置等を定めることを目的とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleCaption>（定義）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「関係事業者」とは、水俣病が生ずる原因となったメチル水銀を排出した事業者をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「関係県」とは、公害健康被害の補償等に関する法律（昭和四十八年法律第百十一号。以下「補償法」という。）第二条第二項の規定により定められた第二種地域のうち水俣病に係る地域（当該地域に係る第二種地域の指定が解除された場合を含む。以下「指定地域」という。）の属する県をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「継続補償受給者」とは、旧公害に係る健康被害の救済に関する特別措置法（昭和四十四年法律第九十号）第三条第一項の認定を受けた者、補償法第四条第二項の認定を受けた者その他の関係事業者が排出したメチル水銀により健康被害を生じていると認められた者であって関係事業者との間で当該健康被害に係る継続的な補償のための給付（以下「補償給付」という。）を受けることをその内容に含む協定その他の契約を締結しているものをいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「個別補償協定」とは、関係事業者が継続補償受給者との間で締結している協定その他の契約（当該継続補償受給者及びその親族に対する補償給付に関する条項に限る。）をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律において「公的支援」とは、関係事業者に対し、水俣病に係る健康被害を受けた者に対する補償金及び公害防止事業費事業者負担法（昭和四十五年法律第百三十三号）に基づく負担金の原資等として、地方公共団体又は環境省令で定める団体が行う融資をいう。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleCaption>（救済及び解決の原則）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この法律による救済及び水俣病問題の解決は、継続補償受給者等に対する補償が確実に行われること、救済を受けるべき人々があたう限りすべて救済されること及び関係事業者が救済に係る費用の負担について責任を果たすとともに地域経済に貢献することを確保することを旨として行われなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleCaption>（国等の責務）</ArticleCaption>
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">国、関係地方公共団体、関係事業者及び地域住民は、前条の趣旨にのっとり、それぞれの立場で、救済を受けるべき人々があたう限りすべて救済され、水俣病問題の解決が図られるように努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　救済措置の方針等</ChapterTitle>
+        <Article Num="5">
+          <ArticleCaption>（救済措置の方針）</ArticleCaption>
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、関係県の意見を聴いて、過去に通常起こり得る程度を超えるメチル水銀のばく露を受けた可能性があり、かつ、四肢末<Ruby>梢<Rt>しよう</Rt></Ruby>優位の感覚障害を有する者及び全身性の感覚障害を有する者その他の四肢末梢優位の感覚障害を有する者に準ずる者を早期に救済するため、一時金、療養費及び療養手当の支給（以下「救済措置」という。）に関する方針を定め、公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の方針には、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">既に水俣病に係る補償又は救済を受けた者及び補償法第四条第二項の認定の申請、訴訟の提起その他の救済措置以外の手段により水俣病に係る損害のてん補等を受けることを希望している者を救済措置の対象としない旨</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">四肢末梢優位の感覚障害を有する者に準ずる者かどうかについて、口の周囲の触覚若しくは痛覚の感覚障害、舌の二点識別覚の障害又は求心性視野狭<Ruby>窄<Rt>さく</Rt></Ruby>の所見を考慮するための取扱いに関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">費用の負担その他の必要な措置に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の方針のうち一時金の支給に関する部分については、関係事業者の同意を得るものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、関係事業者に対し、第一項の方針に基づき一時金を支給することを要請するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">関係事業者は、前項の要請があった場合には、一時金を支給するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">関係事業者は、前項の支給に関する事務を第十七条第二項の指定支給法人に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">関係県は、第一項の方針に基づき療養費及び療養手当を支給するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、関係県が前項の支給を行うときは、予算の範囲内で、当該関係県に対し必要な支援を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleCaption>（水俣病被害者手帳）</ArticleCaption>
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、前条第一項の方針において、同項及び同条第二項に定めるもののほか、関係県が水俣病にも見られる神経症状に係る医療を確保するためこの法律の施行の際に現にその医療に係る措置を要するとされている者に対して交付する水俣病被害者手帳に関する事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">関係県は、前条第一項の方針に基づき水俣病被害者手帳の交付をした者に対して、療養費を支給するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、関係県が前項の支給を行うときは、予算の範囲内で、当該関係県に対し必要な支援を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　水俣病問題の解決に向けた取組</ChapterTitle>
+        <Article Num="7">
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府、関係県（補償法第四条第三項の政令で定める市を含む。第三項において同じ。）及び関係事業者は、相互に連携を図りながら、水俣病問題の解決に向けて次に掲げる事項に早期に取り組まなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">救済措置を実施すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">水俣病に係る補償法第四条第二項の認定等の申請に対する処分を促進すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">水俣病に係る紛争を解決すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">補償法に基づく水俣病に係る新規認定等を終了すること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府、関係県及び関係事業者は、早期にあたう限りの救済を果たす見地から、相互に連携して、救済措置の開始後三年以内を目途に救済措置の対象者を確定し、速やかに支給を行うよう努めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府及び関係県は、救済措置及び水俣病問題の解決に向けた取組の周知に努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　公的支援を受けている関係事業者の経営形態の見直し</ChapterTitle>
+        <Article Num="8">
+          <ArticleCaption>（指定）</ArticleCaption>
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、関係事業者から申請があった場合において、次の各号のいずれにも該当すると認めるときは、当該関係事業者を、この章の規定等の適用を受ける者として指定することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該関係事業者が公的支援を受けていること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該関係事業者がその財産をもって債務を完済することができないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">当該関係事業者が第五条第五項の一時金の確実な支給を行うために必要があると認められること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">水俣病に係る補償を将来にわたり確保するために必要があると認められること。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleCaption>（事業再編計画）</ArticleCaption>
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定による指定を受けた者（以下「特定事業者」という。）は、次に掲げる事項を記載した事業の再編に関する計画（以下「事業再編計画」という。）を作成し、環境大臣の認可を申請しなければならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">株式会社を設立すること及び当該株式会社が設立に際して発行する株式の総数を特定事業者が引き受けること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定事業者が、個別補償協定に係る債務、水俣病に係る損害賠償債務及び公的支援に係る借入金債務その他環境大臣が指定する債務に係るものを除き、その事業を前号の株式会社（以下「事業会社」という。）に譲渡すること（以下「事業譲渡」という。）。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定事業者が、事業譲渡の対価として事業会社が新たに発行する株式を引き受けること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">事業再編計画の実施及び事業譲渡の時期に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前各号に掲げる事項以外の事項であって、特定事業者の事業の再編に必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">事業会社の事業計画</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">事業譲渡の時における特定事業者が総数を保有する事業会社の株式の評価額</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二号に規定する個別補償協定に係る債務、水俣病に係る損害賠償債務及び公的支援に係る借入金債務その他環境大臣が指定する債務の支払に関する特定事業者の資金計画</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、前項の認可の申請があった場合において、当該申請に係る特定事業者が第五条第一項の方針に基づく一時金の支給に同意しており、かつ、当該申請に係る事業再編計画が次の各号のいずれにも適合するものであると認めるときは、前項の認可をするものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">個別補償協定の将来にわたる履行及び公的支援に係る借入金債務の返済に、救済措置の開始の時点及び救済措置の対象者の確定の時点において支障が生じないと認められること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">事業会社の事業計画が特定事業者の事業所が所在する地域における事業の継続等により当該地域の経済の振興及び雇用の確保に資するものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">特定事業者が事業再編計画に基づいて行う事業会社の設立及び事業会社への事業譲渡その他の行為によって特定事業者の債権者に対する債務の履行に要する原資が減少しないものであること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その内容が債権者の一般の利益に反するものではないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、第一項の認可をしたときは、遅滞なく、その旨を官報に公告するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleCaption>（事業譲渡等に関する特例）</ArticleCaption>
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">株式会社である特定事業者（以下「特定会社」という。）がその財産をもって債務を完済することができないときは、当該特定会社は、会社法（平成十七年法律第八十六号）第四百四十七条第一項並びに第四百六十七条第一項第一号及び第二号の規定にかかわらず、裁判所の許可を得て、次に掲げる事項であって、前条第一項の認可を受けた事業再編計画（以下「認可事業再編計画」という。）に記載されたものを行うことができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">事業譲渡</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">資本金の額の減少</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の許可（以下「代替許可」という。）があったときは、当該代替許可に係る事項について株主総会の決議があったものとみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">代替許可に係る事件は、当該特定会社の本店の所在地を管轄する地方裁判所が管轄する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">裁判所は、代替許可の決定をしたときは、その決定書を特定会社に送達するとともに、その決定の要旨を公告しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定によってする公告は、官報に掲載してする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">代替許可の決定は、第四項の規定による特定会社に対する送達がされた時から、効力を生ずる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="7">
+            <ParagraphNum>７</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">代替許可の決定に対しては、株主は第四項の公告のあった日から二週間の不変期間内に、即時抗告をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="8">
+            <ParagraphNum>８</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">非訟事件手続法（平成二十三年法律第五十一号）第五条、第六条、第七条第二項、第四十条、第四十一条、第五十六条第二項並びに第六十六条第一項及び第二項の規定は、代替許可に係る事件については、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleCaption>（代替許可に係る登記の特例）</ArticleCaption>
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項第二号に掲げる事項に係る代替許可があった場合においては、当該事項に係る登記の申請書には、当該代替許可の決定書の謄本又は抄本を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleCaption>（事業会社の株式の譲渡）</ArticleCaption>
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定事業者は、事業会社の株式の全部又は一部を譲渡しようとするときは、あらかじめ、環境大臣の承認を得なければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、特定会社については、会社法第四百六十七条第一項第二号の二の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、前項の承認をしようとするときは、あらかじめ、総務大臣及び財務大臣に協議するとともに、第十七条第二項の指定支給法人にその旨を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、第十九条第一項の補償賦課金の確保及び公的支援に係る借入金債務の返済の確保その他債権者の保護に関する政府の方針に従って、次の各号のいずれにも適合するものであると認めるときは、第一項の株式の譲渡に係る承認をすることができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条第一項の補償賦課金を株式の譲渡により確保できること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">公的支援に係る借入金債務の返済に支障が生じないと見込まれること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第一項の株式の譲渡の後に債権者の一般の利益が害されることがないこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、第一項の承認をしたときは、遅滞なく、その旨を官報に公告するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleCaption>（事業会社の株式の譲渡の暫時凍結）</ArticleCaption>
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業会社の株式の譲渡は、救済の終了及び市況の好転まで、暫時凍結する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleCaption>（詐害行為取消権及び否認権の適用除外）</ArticleCaption>
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定事業者が認可事業再編計画に基づいて行う事業会社の設立及び事業会社への事業譲渡その他の行為については、民法（明治二十九年法律第八十九号）第三編第一章第二節第三款第一目、破産法（平成十六年法律第七十五号）第百六十条及び第百六十一条、民事再生法（平成十一年法律第二百二十五号）第百二十七条及び第百二十七条の二並びに会社更生法（平成十四年法律第百五十四号）第八十六条及び第八十六条の二の規定は適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleCaption>（報告及び検査）</ArticleCaption>
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、この法律を施行するために必要な限度において、特定事業者に対し、その業務若しくは財産の状況に関し必要な報告を求め、又はその職員に、特定事業者の事務所その他その業務を行う場所に立ち入り、業務若しくは財産の状況若しくは帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleCaption>（特定事業者に係る命令）</ArticleCaption>
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、特定事業者の業務又は財産の状況に関し改善が必要であると認めるときは、特定事業者に対し、その改善に必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、特定事業者の役員（業務を執行する社員、取締役、執行役、代表者又はこれらに準ずる者をいう。以下この項において同じ。）がこの法律又はこの法律に基づく環境大臣の処分に違反したときは、当該特定事業者に対し、当該役員の解任を命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　指定支給法人</ChapterTitle>
+        <Article Num="17">
+          <ArticleCaption>（指定）</ArticleCaption>
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、一般財団法人であって、次条第一項に規定する業務（以下「支給業務」という。）を適正かつ確実に行うことができると認められるものを、その申請により、支給業務を行う者として指定することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、前項の規定による指定をしたときは、当該指定を受けた者（以下「指定支給法人」という。）の名称及び住所並びに事務所の所在地を官報で公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人は、その名称及び住所並びに事務所の所在地を変更しようとするときは、あらかじめ、その旨を環境大臣に届け出なければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、前項の規定による届出があったときは、当該届出に係る事項を官報で公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleCaption>（業務）</ArticleCaption>
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人は、次に掲げる業務を行うものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五条第六項の規定により関係事業者から委託を受け、同条第五項の一時金を支給すること。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">継続補償受給者（第十二条第一項の株式の譲渡の開始の時までに継続補償受給者となった者（その親族を含む。）に限る。以下同じ。）に対し個別補償協定に定められた補償給付の支給に相当する支給を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げる業務に附帯する業務を行うこと。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人は、次条第四項の規定により特定事業者から補償賦課金の納付があった時から、前項第二号に掲げる業務（以下「個別補償支給業務」という。）を開始するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleCaption>（個別補償支給業務に要する経費の確保）</ArticleCaption>
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十二条第一項の規定により特定事業者が事業会社の株式を譲渡した場合には、指定支給法人は、将来にわたる個別補償支給業務の実施に必要な経費に充てるため、特定事業者から補償賦課金を遅滞なく徴収しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人は、第十二条第二項の通知を受けた場合には、前項の補償賦課金の額及び徴収方法について、環境大臣の認可を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人は、前項の認可を受けたときは、特定事業者に対し、その認可を受けた事項を記載した書面を添付して、補償賦課金の額、納付期限及び納付方法を通知しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定事業者は、第十二条第一項の事業会社の株式の譲渡によって得られた収入（以下「事業会社株式に係る譲渡収入」という。）から、前項の通知に従い、指定支給法人に対し、遅滞なく補償賦課金を納付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人が継続補償受給者に前条第一項第二号の支給を行った場合には、特定事業者は、その価額の限度で、当該継続補償受給者に対し、補償給付を支給する義務を免れる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人は、第四項の規定により特定事業者から納付された補償賦課金を個別補償支給業務に充てるため、次条の補償基金に積み立てなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleCaption>（補償基金）</ArticleCaption>
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人は、個別補償支給業務に関する基金（以下「補償基金」という。）を設け、前条第四項の規定により特定事業者が補償賦課金として納付した金額をもってこれに充てるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleCaption>（事業計画等）</ArticleCaption>
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人は、毎事業年度、環境省令で定めるところにより、支給業務に関し事業計画書及び収支予算書を作成し、環境大臣の認可を受けなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">これを変更しようとするときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人は、環境省令で定めるところにより、毎事業年度終了後、支給業務に関し事業報告書及び収支決算書を作成し、環境大臣に提出しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleCaption>（区分経理）</ArticleCaption>
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人は、補償基金に係る経理については、その他の経理と区分し、特別の勘定を設けて整理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleCaption>（秘密保持義務）</ArticleCaption>
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人の役員若しくは職員又はこれらの職にあった者は、支給業務に関して知り得た秘密を漏らしてはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleCaption>（帳簿）</ArticleCaption>
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人は、環境省令で定めるところにより、帳簿を備え、支給業務に関し環境省令で定める事項を記載し、これを保存しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleCaption>（解任命令）</ArticleCaption>
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、指定支給法人の役員が、この法律若しくはこの法律に基づく命令若しくは処分に違反したとき、又は支給業務に関し著しく不適当な行為をしたときは、指定支給法人に対して、その役員を解任すべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleCaption>（監督命令）</ArticleCaption>
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、この法律を施行するために必要な限度において、指定支給法人に対し、支給業務に関し監督上必要な命令をすることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleCaption>（報告及び検査）</ArticleCaption>
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、この法律を施行するために必要な限度において、指定支給法人に対し、支給業務若しくは財産の状況に関し必要な報告を求め、又はその職員に、指定支給法人の事務所に立ち入り、支給業務若しくは財産の状況若しくは帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により立入検査をする職員は、その身分を示す証明書を携帯し、関係者に提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleCaption>（業務の休廃止）</ArticleCaption>
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">指定支給法人は、環境大臣の許可を受けなければ、支給業務の全部又は一部を休止し、又は廃止してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣が前項の規定により支給業務の全部の廃止を許可したときは、当該指定支給法人に係る指定は、その効力を失う。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、第一項の許可をしたときは、その旨を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleCaption>（指定の取消し等）</ArticleCaption>
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、指定支給法人が次の各号のいずれかに該当するときは、第十七条第一項の指定を取り消すことができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">支給業務を適正かつ確実に実施することができないと認められるとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">この法律又はこの法律に基づく命令若しくは処分に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">不正の手段により第十七条第一項の指定を受けたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、前項の規定により指定を取り消したときは、その旨を公示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により指定を取り消した場合において、環境大臣がその取消し後に新たに指定支給法人を指定したときは、取消しに係る指定支給法人の支給業務に係る財産は、新たに指定を受けた指定支給法人に帰属する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項に定めるもののほか、第一項の規定により指定を取り消した場合における支給業務に係る財産の管理その他所要の経過措置（罰則に関する経過措置を含む。）は、合理的に必要と判断される範囲内において、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　雑則</ChapterTitle>
+        <Article Num="30">
+          <ArticleCaption>（法人税に係る課税の特例）</ArticleCaption>
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定事業者が認可事業再編計画に基づいて事業会社への事業譲渡を行ったときは、当該事業譲渡の日の属する事業年度又は連結事業年度前の各事業年度において生じた欠損金額及び各連結事業年度において生じた個別欠損金額（当該連結事業年度に連結欠損金額が生じた場合には、当該連結欠損金額のうち当該特定事業者に帰せられる金額を加算した金額）で政令で定める金額のうち、当該事業譲渡の時における当該事業会社の株式の価額として政令で定める金額から当該事業譲渡に係る純資産価額（当該事業譲渡に係る資産の帳簿価額から当該事業譲渡に係る負債の帳簿価額を控除した金額をいう。）を控除した金額に達するまでの金額は、当該事業譲渡の日の属する事業年度又は連結事業年度の所得の金額又は連結所得の金額の計算上、損金の額に算入する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、法人税法（昭和四十年法律第三十四号）第六十一条の十三の規定は、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">事業年度</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第十三条及び第十四条に規定する事業年度をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">連結事業年度</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第十五条の二に規定する連結事業年度をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">欠損金額</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第十九号に規定する欠損金額をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">連結欠損金額</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第十九号の二に規定する連結欠損金額をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">個別欠損金額</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第八十一条の十八第一項に規定する個別欠損金額をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">連結所得</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">法人税法第二条第十八号の四に規定する連結所得をいう。</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定事業者が第十九条第四項の規定により指定支給法人に補償賦課金を納付した場合における当該補償賦課金に係る租税特別措置法（昭和三十二年法律第二十六号）第六十六条の十一の規定の適用については、同条第一項中「長期間にわたつて使用され、又は運用される基金又は信託財産に係る負担金又は掛金で次に掲げるもの」とあるのは、「水俣病被害者の救済及び水俣病問題の解決に関する特別措置法（平成二十一年法律第八十一号）第二十条に規定する補償基金に係る同法第十九条第四項の補償賦課金」とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二項に定めるもののほか、第一項の規定の適用がある場合における法人税法その他法人税に関する法令の規定に関する技術的読替えその他同項又は前項の規定の適用に関し必要な事項は、政令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleCaption>（登録免許税に係る課税の特例）</ArticleCaption>
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定事業者が、認可事業再編計画に基づき事業会社を設立する場合には、当該事業会社の設立の登記に係る登録免許税の税率は、財務省令・環境省令で定めるところにより登記を受けるものに限り、登録免許税法（昭和四十二年法律第三十五号）第九条の規定にかかわらず、千分の一とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の事業会社が、認可事業再編計画に基づき事業譲渡の対価として新たに株式を発行する場合には、当該株式の発行による当該事業会社の資本金の額の増加の登記に係る登録免許税の税率は、財務省令・環境省令で定めるところにより登記を受けるものに限り、登録免許税法第九条の規定にかかわらず、千分の一とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の事業会社が、認可事業再編計画に基づいて行われる事業譲渡により特定事業者から不動産の所有権を取得した場合には、当該不動産の所有権の移転の登記に係る登録免許税の税率は、財務省令・環境省令で定めるところにより当該取得後一年以内に登記を受けるものに限り、登録免許税法第九条の規定にかかわらず、千分の一・五とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleCaption>（不動産取得税に係る課税の特例）</ArticleCaption>
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">事業会社が認可事業再編計画に基づいて行われる事業譲渡により特定事業者から不動産を取得した場合における当該不動産の取得に対しては、不動産取得税を課することができない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleCaption>（救済措置の実施等に必要な支援）</ArticleCaption>
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定事業者が第五条第五項の一時金の支給を円滑に行うことができるよう、政府及び関係県は、予算の範囲内において、特定事業者に対する支援について、所要の措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">環境大臣は、関係金融機関等に対して、特定事業者に対する支援の継続を要請するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleCaption>（公的支援に係る借入金債務の返済等の方針）</ArticleCaption>
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">特定事業者は、事業会社株式に係る譲渡収入から第十九条第四項の規定により指定支給法人に納付した金額を控除した残額（当該残額の運用によって得られた収益を含む。）については、まず水俣病に係る損害賠償債務及び公的支援に係る借入金債務に充当し、次に環境大臣が指定する債務及び認可事業再編計画の遂行に必要な費用に充当することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleCaption>（地域の振興等）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府及び関係地方公共団体は、必要に応じ、特定事業者の事業所が所在する地域において事業会社が事業を継続すること等により地域の振興及び雇用の確保が図られるよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleCaption>（健康増進事業の実施等）</ArticleCaption>
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府及び関係者は、指定地域及びその周辺の地域において、地域住民の健康の増進及び健康上の不安の解消を図るための事業、地域社会の<Ruby>絆<Rt>きずな</Rt></Ruby>の修復を図るための事業等に取り組むよう努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府及び関係者は、関係事業者が排出したメチル水銀による環境汚染を将来にわたって防止するため、水質の汚濁の状況の監視の実施その他必要な措置を講ずるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleCaption>（調査研究）</ArticleCaption>
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、指定地域及びその周辺の地域に居住していた者（水俣病が多発していた時期に胎児であった者を含む。以下「指定地域等居住者」という。）の健康に係る調査研究その他メチル水銀が人の健康に与える影響及びこれによる症状の高度な治療に関する調査研究を積極的かつ速やかに行い、その結果を公表するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の公表に当たっては、指定地域等居住者又はその家族の秘密又は私生活若しくは業務の平穏が害されることがないよう適切な配慮がされなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、第一項の調査研究の実施のため、メチル水銀が人の健康に与える影響を把握するための調査、効果的な疫学調査、水俣病問題に関する社会学的調査等の手法の開発を図るものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">関係地方公共団体は、第一項の調査研究に協力するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　罰則</ChapterTitle>
+        <Article Num="38">
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十五条第一項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をした者は、一年以下の拘禁刑又は三百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39">
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第二十三条の規定に違反した者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="40">
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条の規定に違反して、帳簿を備えず、帳簿に記載せず、若しくは虚偽の記載をし、又は帳簿を保存しなかった者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十七条第一項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をした者</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十八条第一項の規定による許可を受けないで支給業務の全部を廃止した者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、第三十八条又は前条の違反行為をしたときは、その行為者を罰するほか、その法人又は人に対して各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十六条第一項の規定による命令に違反した者は、百万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二二年三月三一日法律第六号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、平成二十二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:2">
+            <ItemTitle>一及び二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">平成二十二年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>ロ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二条の規定（法人税法の目次の改正規定（「第百六十四条」を「第百六十三条」に改める部分に限る。）、同法第二条第十二号の七の五を同条第十二号の七の七とし、同条第十二号の七の四の次に二号を加える改正規定、同条第十二号の八の改正規定（「発行済株式又は出資（自己が有する自己の株式又は出資を除く。以下この条において「発行済株式等」という。）」を「発行済株式等」に改める部分に限る。）、同法第四条の三第一項の改正規定（「六月」を「三月」に改める部分に限る。）、同条第六項の改正規定、同条第八項の改正規定、同法第二十三条の改正規定（同条第一項中「金額（」の下に「第一号に掲げる金額にあつては、」を加え、「第一号に掲げるもの」を「もの及び適格現物分配に係るもの」に改める部分、同条第三項中「前二項」を「前項」に改め、同項を同条第二項とし、同項の次に一項を加える部分及び同条第八項中「適格事後設立」を「適格現物分配」に、「第一項から第三項まで」を「第一項及び第二項」に改める部分を除く。）、同法第三十五条の改正規定、同法第六十一条の四第一項の改正規定（「規定する有価証券の空売り」の下に「（次項において「有価証券の空売り」という。）」を、「次項」の下に「及び第三項」を加える部分及び「除く」の下に「。次項において同じ」を、「相当する金額」の下に「（次項において「みなし決済損益額」という。）」を加える部分を除く。）、同法第六十六条の改正規定、同法第六十七条第一項の改正規定、同条第三項の改正規定（同項第一号に係る部分、同項第五号を同項第六号とする部分及び同項第四号を同項第五号とし、同項第三号の次に一号を加える部分を除く。）、同法第八十一条の四第一項の改正規定（「第三項」を「第四項」に改める部分を除く。）、同条第五項の改正規定（「連結法人株式等」を「完全子法人株式等」に改める部分に限る。）、同条第四項の改正規定（同項を同条第五項とする部分を除く。）、同条第三項の改正規定（同項を同条第四項とする部分を除く。）、同法第八十一条の九第一項ただし書の改正規定、同条第二項各号の改正規定、同条第三項の改正規定、同条第六項の改正規定（同項を同条第七項とする部分を除く。）、同条第五項の改正規定（同項を同条第六項とする部分を除く。）、同法第八十一条の九の二第一項の改正規定、同条第二項の改正規定（「である連結親法人が」を「である連結親法人又は連結子法人と他の法人との間で」に改める部分及び同項第一号に係る部分に限る。）、同条第五項を同条第六項とし、同条第四項を削る改正規定、同条第三項の改正規定、同項を同条第四項とし、同項の次に一項を加える改正規定、同条第二項の次に一項を加える改正規定、同法第八十一条の十二の改正規定、同法第八十一条の十三第二項第四号の改正規定、同法第百三十八条第九号の改正規定、同法第百四十三条の改正規定、同法第百五十九条第一項の改正規定（「第百六十四条第一項」を「第百六十三条第一項」に、「五年」を「十年」に、「五百万円」を「千万円」に改める部分に限る。）、同条第二項の改正規定、同法第百六十条の改正規定（「二十万円」を「五十万円」に改める部分に限る。）、同法第百六十一条の改正規定、同法第百六十二条の改正規定（「二十万円」を「五十万円」に改める部分に限る。）、同法第百六十三条を削る改正規定、同法第百六十四条第一項の改正規定及び同条を同法第百六十三条とする改正規定（附則第十条及び第十二条において「組織再編成等以外の改正規定」という。）を除く。）並びに附則第十条第二項、第十三条から第十六条まで、第十八条から第二十三条まで、第二十四条第二項、第二十五条、第二十六条第十項及び第十三項、第二十七条、第百三十三条、第百三十四条、第百四十二条（銀行等の株式等の保有の制限等に関する法律（平成十三年法律第百三十一号）第五十八条第一項の改正規定に限る。）並びに第百四十五条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="146">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百四十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="147">
+        <ArticleCaption>（その他の経過措置の政令への委任）</ArticleCaption>
+        <ArticleTitle>第百四十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二三年五月二五日法律第五三号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、新非訟事件手続法の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二六年六月二七日法律第九一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">この法律は、会社法の一部を改正する法律の施行の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二九年六月二日法律第四五号">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、民法改正法の施行の日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第百三条の二、第百三条の三、第二百六十七条の二、第二百六十七条の三及び第三百六十二条の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年三月三一日法律第八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和二年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1:4">
+            <ItemTitle>一から四まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">次に掲げる規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和四年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+            <Subitem1 Num="1">
+              <Subitem1Title>イからチまで</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">略</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+            <Subitem1 Num="2">
+              <Subitem1Title>リ</Subitem1Title>
+              <Subitem1Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十六条の規定並びに附則第百十二条から第百三十条まで、第百四十一条、第百四十七条、第百四十八条の二（所得税法等の一部を改正する法律（令和三年法律第十一号）附則第九十五条第一項の改正規定及び同法附則第百二条の改正規定を除く。）、第百五十条（地方自治法第二百六十条の二第十六項の改正規定を除く。）、第百五十八条及び第百六十六条の規定</Sentence>
+              </Subitem1Sentence>
+            </Subitem1>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="171">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第百七十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律（附則第一条各号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="172">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第百七十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和三年三月三一日法律第一一号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和三年四月一日から施行する。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月一七日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、刑法等一部改正法施行日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百九条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月一四日法律第五三号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して五年を超えない範囲内において政令で定める日から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第三十二章の規定及び第三百八十八条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+        <Item Num="2">
+          <ItemTitle>二</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第一条中民事執行法第二十二条第五号の改正規定、同法第二十五条の改正規定、同法第二十六条の改正規定、同法第二十九条の改正規定（「の謄本」の下に「又は電磁的記録に記録されている事項の全部を記録した電磁的記録」を加える部分を除く。）、同法第九十一条第一項第三号の改正規定、同法第百四十一条第一項第三号の改正規定、同法第百八十一条第一項の改正規定、同条第四項の改正規定、同法第百八十三条の改正規定、同法第百八十九条の改正規定及び同法第百九十三条第一項の改正規定、第十二条、第三十三条、第三十四条、第三十六条及び第三十七条の規定、第四十二条中組織的な犯罪の処罰及び犯罪収益の規制等に関する法律第三十九条第二項の改正規定、第四十五条の規定（民法第九十八条第二項及び第百五十一条第四項の改正規定を除く。）、第四十七条中鉄道抵当法第四十一条の改正規定及び同法第四十三条第三項の改正規定、第四十八条及び第四章の規定、第八十八条中民事訴訟費用等に関する法律第二条の改正規定、第九十一条の規定、第百八十五条中配偶者からの暴力の防止及び被害者の保護等に関する法律第十二条第三項の改正規定、第百九十八条の規定並びに第三百八十七条の規定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年六月を超えない範囲内において政令で定める日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一二月一二日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、令和九年四月一日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中医療法第三十条の八に一項を加える改正規定及び同法第三十条の十五第一項の改正規定（「及び次条」を削る部分に限る。）、第四条中地域における医療及び介護の総合的な確保の促進に関する法律第七条の次に二条を加える改正規定並びに第十三条の規定並びに次条第二項及び第四項並びに附則第五条、第六条、第九条、第十条、第十二条から第十四条まで、第十六条、第十八条、第二十条及び第二十四条の規定、附則第四十一条中住民基本台帳法（昭和四十二年法律第八十一号）別表第一の五十七の三十一の項の改正規定及び同法別表第二から別表第五までの改正規定並びに附則第五十三条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2:5">
+            <ItemTitle>二から五まで</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条中医療法第六条の十二の次に一条を加える改正規定並びに同法第七条第一項、第十七条、第十八条及び第二十九条第一項第三号の改正規定、第七条中健康保険法第二百五条の四第二項の改正規定（「その他の」を「に係る」に、「と共同して」を「その他厚生労働省令で定める者と共同して」に改める部分に限る。）、第八条中船員保険法第百五十三条の十第二項の改正規定（「その他の」を「に係る」に、「と共同して」を「その他厚生労働省令で定める者と共同して」に改める部分に限る。）、第九条中国民健康保険法第百十三条の三第二項の改正規定（「その他の」を「に係る」に、「と共同して」を「その他厚生労働省令で定める者と共同して」に改める部分に限る。）、第十一条中高齢者の医療の確保に関する法律第百六十五条の二第二項の改正規定、第十二条中介護保険法第百十五条の四十七第十一項の改正規定（「その他の」を「に係る」に改め、「定めるもの」の下に「その他厚生労働省令で定める者」を加える部分に限る。）、第十四条中児童福祉法第十九条の三第九項及び第十項の改正規定、同条第九項の次に一項を加える改正規定、同法第十九条の二十第一項の改正規定、同条の次に一条を加える改正規定、同法第二十一条の五の十七第一項、第二十一条の五の二十九第一項、第二十一条の五の三十、第二十四条の二十第一項及び第二十四条の二十一の改正規定並びに同法第五十六条の六の次に一条を加える改正規定、第十五条中予防接種法第五十七条第二項の改正規定（「その他の」を「に係る」に、「と共同して」を「その他厚生労働省令で定める者と共同して」に改める部分に限る。）、第十六条の規定、第十七条の規定（前号に掲げる改正規定を除く。）、第十九条中感染症の予防及び感染症の患者に対する医療に関する法律第三十七条の二の次に一条を加える改正規定、同法第三十八条第三項、第九項及び第十一項、第四十四条の三の二第二項並びに第五十条の三第二項の改正規定、同法第六十三条の四の次に二条を加える改正規定並びに同法第六十四条の二の改正規定、第二十二条中障害者の日常生活及び社会生活を総合的に支援するための法律第五十八条第二項の改正規定、同条中第六項を第七項とし、第三項から第五項までを一項ずつ繰り下げる改正規定、同条第二項の次に一項を加える改正規定、同法第七十条第一項及び第二項の改正規定、同項を同条第四項とする改正規定、同条第一項の次に二項を加える改正規定、同法第七十一条第二項及び第七十三条第一項の改正規定並びに同法第百五条の二の次に二条を加える改正規定、第二十三条の規定（同号に掲げる改正規定を除く。）、第二十四条の規定、第二十五条中特定Ｂ型肝炎ウイルス感染者給付金等の支給に関する特別措置法第十六条第二項及び第四項の改正規定（「支払基金」を「機構」に改める部分を除く。）、同項を同条第五項とする改正規定、同条第三項の改正規定、同項を同条第四項とする改正規定、同条第二項の次に一項を加える改正規定、同法第十七条に一項を加える改正規定、同条の次に一条を加える改正規定並びに同法第二十六条に一項を加える改正規定、第二十七条中難病の患者に対する医療等に関する法律の目次の改正規定（「第三十二条」を「第三十一条の二」に改める部分に限る。）、同法第七条第六項の改正規定、同条中第八項を第九項とする改正規定、同条第七項の改正規定、同項を同条第八項とする改正規定、同条第六項の次に一項を加える改正規定、同法第二十五条第一項の改正規定、同条第四項の改正規定（同号に掲げる改正規定を除く。）及び同法第七章中第三十二条の前に二条を加える改正規定並びに第三十条の規定並びに附則第二十六条の規定、附則第三十二条中生活保護法（昭和二十五年法律第百四十四号）第八十条の四第二項の改正規定（「社会保険診療報酬支払基金法」を「医療情報基盤・診療報酬審査支払機構法」に改める部分を除く。）、附則第三十三条中防衛省の職員の給与等に関する法律（昭和二十七年法律第二百六十六号）第二十二条第四項の改正規定（「社会保険診療報酬支払基金法」を「医療情報基盤・診療報酬審査支払機構法」に改める部分を除く。）、附則第三十五条中私立学校教職員共済法第四十七条の三第二項の改正規定（「社会保険診療報酬支払基金法」を「医療情報基盤・診療報酬審査支払機構法」に改める部分を除く。）、附則第三十八条中国家公務員共済組合法第百十四条の二第二項の改正規定（「社会保険診療報酬支払基金法」を「医療情報基盤・診療報酬審査支払機構法」に改める部分を除く。）、附則第三十九条中地方公務員等共済組合法第百四十四条の三十三第二項の改正規定（「社会保険診療報酬支払基金法」を「医療情報基盤・診療報酬審査支払機構法」に改める部分を除く。）並びに附則第四十二条及び第四十五条第三項から第六項までの規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（検討）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical"/>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">政府は、この法律の公布後速やかに、介護又は障害福祉に関するサービスに従事する者（以下この項において「介護・障害福祉従事者」という。）の賃金が他の業種に属する事業に従事する者と比較して低い水準にあること、介護・障害福祉従事者が従事する業務が身体的及び精神的な負担の大きいものであること、介護又は障害福祉に関するサービスを担う優れた人材の確保が要介護者等（介護保険法第七条第五項の要介護者等をいう。）並びに障害者及び障害児に対するサービスの水準の向上に資すること等に鑑み、現役世代の保険料負担を含む国民負担の軽減を図りつつ介護・障害福祉従事者の人材の確保を図るため、介護・障害福祉従事者の適切な処遇の確保について、その処遇の状況等を踏まえて検討を加え、その結果に基づいて所要の措置を機動的に講ずるものとする。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleCaption>（児童福祉法等の一部改正に伴う経過措置）</ArticleCaption>
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">支払基金及び国民健康保険法第四十五条第五項に規定する国民健康保険団体連合会（次条において「連合会」という。）は、附則第一条第六号に掲げる規定の施行の日（以下「第六号施行日」という。）前においても、第十四条の規定（同号に掲げる改正規定に限る。）による改正後の児童福祉法（以下この条において「第六号改正後児童福祉法」という。）第十九条の二十の二第一項（第六号改正後児童福祉法第二十一条の五の三十及び第二十四条の二十一において準用する場合を含む。）に規定する情報の収集若しくは整理又は利用若しくは提供に関する事務、第十六条の規定による改正後の母子保健法第八条の三第一項（第二号に係る部分に限る。）に規定する情報の収集若しくは整理又は利用若しくは提供に関する事務、第十七条の規定（附則第一条第六号に掲げる改正規定に限る。）による改正後の原子爆弾被爆者に対する援護に関する法律第四十三条の二第一項に規定する情報の収集若しくは整理又は利用若しくは提供に関する事務、第十九条の規定（附則第一条第六号に掲げる改正規定に限る。）による改正後の感染症の予防及び感染症の患者に対する医療に関する法律第六十三条の五第一項各号に掲げる情報の収集若しくは整理又は利用若しくは提供に関する事務、第二十二条の規定（附則第一条第六号に掲げる改正規定に限る。）による改正後の障害者の日常生活及び社会生活を総合的に支援するための法律第百五条の三第一項に規定する情報の収集若しくは整理又は利用若しくは提供に関する事務、第二十三条の規定（附則第一条第六号に掲げる改正規定に限る。）による改正後の石綿による健康被害の救済に関する法律第十四条第三項に規定する情報の収集若しくは整理又は利用若しくは提供に関する事務、第二十四条の規定による改正後の水俣病被害者の救済及び水俣病問題の解決に関する特別措置法第六条の二第一項に規定する情報の収集若しくは整理又は利用若しくは提供に関する事務、第二十五条の規定（附則第一条第六号に掲げる改正規定に限る。）による改正後の特定Ｂ型肝炎ウイルス感染者給付金等の支給に関する特別措置法第十七条第三項及び第二十六条第三項に規定する情報の収集若しくは整理又は利用若しくは提供に関する事務並びに第二十七条の規定（附則第一条第六号に掲げる改正規定に限る。）による改正後の難病の患者に対する医療等に関する法律第三十一条の二第一項に規定する情報の収集若しくは整理又は利用若しくは提供に関する事務の実施に必要な準備行為をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="24">
+        <ArticleCaption>（政令への委任）</ArticleCaption>
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第三条から前条までに規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
