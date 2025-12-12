@@ -410,7 +410,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁は、予想される現象が特に異常であるため重大な災害の起こるおそれが著しく大きい場合として降雨量その他に関し気象庁が定める基準に該当する場合には、政令の定めるところにより、その旨を示して、気象、地象、津波、高潮、波浪及び洪水についての一般の利用に適合する警報をしなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">気象庁は、予想される現象が特に異常であるため重大な災害の起こるおそれが著しく大きい場合として降雨量その他に関し気象庁が定める基準に該当する場合には、政令の定めるところにより、その旨を示して、気象、地象、津波、高潮及び波浪についての一般の利用に適合する警報をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -434,52 +434,6 @@
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁は、水防法（昭和二十四年法律第百九十三号）第十一条の三第一項の規定により指定された海岸について第一項の規定により高潮の警報をする場合において、水位の変動の状況、堤防、水門等の損壊の状況その他の当該海岸の状況に関する情報を必要とするときは、水防に関する事務を行う国土交通大臣又は関係都道府県知事に対し、当該情報の提供を求めることができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>６</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁は、次の各号に掲げる河川について第一項の規定により洪水の警報をする場合において、水位又は流量の変動の状況、堤防、水門等の損壊の状況その他の当該河川の状況に関する情報を必要とするときは、当該各号に定める者に対し、当該情報の提供を求めることができる。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">水防法第十条第二項の規定により指定された河川</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">水防に関する事務を行う国土交通大臣</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Column Num="1">
-                  <Sentence Num="1" WritingMode="vertical">水防法第十一条第一項の規定により指定された河川</Sentence>
-                </Column>
-                <Column Num="2">
-                  <Sentence Num="1" WritingMode="vertical">関係都道府県知事</Sentence>
-                </Column>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="7">
-            <ParagraphNum>７</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二項の規定により情報の提供の求めを受けた国土交通大臣又は都道府県知事は、当該求めに応じて、当該情報を提供しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="8">
-            <ParagraphNum>８</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁は、前項の規定により提供を受けた情報を活用するに当たつて、特に専門的な知識を必要とする場合には、当該情報を提供した国土交通大臣又は都道府県知事の技術的助言を求めなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="9">
-            <ParagraphNum>９</ParagraphNum>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">前条第三項の規定は、第一項の警報（第十五条の二第一項において「特別警報」という。）をする場合に準用する。</Sentence>
             </ParagraphSentence>
@@ -517,33 +471,33 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁は、水防法第十一条の三第一項の規定により指定された海岸について、水防に関する事務を行う国土交通大臣及び都道府県知事と共同して、水位を示して高潮についての水防活動の利用に適合する予報及び警報をしなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">気象庁は、水防法（昭和二十四年法律第百九十三号）第十条第二項の規定により指定された河川について、水防に関する事務を行う国土交通大臣と共同して、当該河川の水位又は流量（氾濫した後においては、水位若しくは流量又は氾濫により浸水する区域及びその水深）を示して洪水についての水防活動の利用に適合する予報及び警報をしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁は、水防法第十条第二項の規定により指定された河川について、水防に関する事務を行う国土交通大臣と共同して、当該河川の水位又は流量（氾濫した後においては、水位若しくは流量又は氾濫により浸水する区域及びその水深）を示して洪水についての水防活動の利用に適合する予報及び警報をしなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">気象庁は、水防法第十一条第一項の規定により指定された河川について、都道府県知事と共同して、水位又は流量を示して洪水についての水防活動の利用に適合する予報及び警報をしなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同法第十一条の二第二項の規定による情報の提供を受けたときは、これを踏まえるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁は、水防法第十一条第一項の規定により指定された河川について、都道府県知事と共同して、水位又は流量を示して洪水についての水防活動の利用に適合する予報及び警報をしなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同法第十一条の二第二項の規定による情報の提供を受けたときは、これを踏まえるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">気象庁は、水防法第十一条の二第二項の規定により提供を受けた情報を活用するに当たつて、特に専門的な知識を必要とする場合には、水防に関する事務を行う国土交通大臣の技術的助言を求めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁は、水防法第十一条の二第二項の規定により提供を受けた情報を活用するに当たつて、特に専門的な知識を必要とする場合には、水防に関する事務を行う国土交通大臣の技術的助言を求めなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第十三条第三項の規定は、第一項から第三項までの予報及び警報をする場合に準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、同条第三項中「前二項の予報及び警報をする場合は、」とあるのは、「第十四条の二第一項から第三項までの予報及び警報をする場合は、それぞれ、単独で、水防に関する事務を行う国土交通大臣と共同して又は都道府県知事と共同して、」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第十三条第三項の規定は、第一項から第四項までの予報及び警報をする場合に準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、同条第三項中「前二項の予報及び警報をする場合は、」とあるのは、「第十四条の二第一項から第四項までの予報及び警報をする場合は、同条第一項の場合にあつては単独で、同条第二項の場合にあつては水防に関する事務を行う国土交通大臣及び都道府県知事と共同して、同条第三項の場合にあつては水防に関する事務を行う国土交通大臣と共同して、同条第四項の場合にあつては都道府県知事と共同して、」と読み替えるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第二項又は第三項の規定により予報及び警報をする国土交通大臣又は都道府県知事については、第十七条及び第二十三条の規定は、適用しない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -552,7 +506,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁は、第十三条第一項、第十四条第一項又は前条第一項から第四項までの規定により、気象、地象、津波、高潮、波浪及び洪水の警報をしたときは、政令の定めるところにより、直ちにその警報事項を警察庁、消防庁、国土交通省、海上保安庁、都道府県、東日本電信電話株式会社（日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第二条第二項に規定する東日本電信電話株式会社をいう。以下同じ。）、西日本電信電話株式会社（同法第二条第三項に規定する西日本電信電話株式会社をいう。以下同じ。）又は日本放送協会の機関に通知しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">気象庁は、第十三条第一項、第十四条第一項又は前条第一項から第三項までの規定により、気象、地象、津波、高潮、波浪及び洪水の警報をしたときは、政令の定めるところにより、直ちにその警報事項を警察庁、消防庁、国土交通省、海上保安庁、都道府県、東日本電信電話株式会社（日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第一条の二第二項に規定する東日本電信電話株式会社をいう。以下同じ。）、西日本電信電話株式会社（同法第一条の二第三項に規定する西日本電信電話株式会社をいう。以下同じ。）又は日本放送協会の機関に通知しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">地震動の警報以外の警報をした場合において、警戒の必要がなくなつたときも同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -592,7 +546,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁は、第十三条の二第一項の規定により、気象、地象、津波、高潮、波浪及び洪水の特別警報をしたときは、政令の定めるところにより、直ちにその特別警報に係る警報事項を警察庁、消防庁、海上保安庁、都道府県、東日本電信電話株式会社、西日本電信電話株式会社又は日本放送協会の機関に通知しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">気象庁は、第十三条の二第一項の規定により、気象、地象、津波、高潮及び波浪の特別警報をしたときは、政令の定めるところにより、直ちにその特別警報に係る警報事項を警察庁、消防庁、海上保安庁、都道府県、東日本電信電話株式会社、西日本電信電話株式会社又は日本放送協会の機関に通知しなければならない。</Sentence>
               <Sentence Num="2" WritingMode="vertical">地震動の特別警報以外の特別警報をした場合において、当該特別警報の必要がなくなつたときも同様とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
@@ -643,53 +597,13 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の許可は、予報業務の目的及び範囲（土砂崩れ（崖崩れ、土石流及び地滑りをいう。以下同じ。）、高潮、波浪又は洪水の予報の業務（以下「気象関連現象予報業務」という。）をその範囲に含む予報業務に係る同項の許可にあつては、当該気象関連現象予報業務のための気象の予想を行うか否かの別を含む。次条第一項第三号において同じ。）を定めて行う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の許可（以下この章において「許可」という。）は、予報業務の目的及び範囲（土砂崩れ（崖崩れ、土石流及び地滑りをいう。以下同じ。）、高潮、波浪又は洪水の予報の業務（以下「気象関連現象予報業務」という。）をその範囲に含む予報業務の許可にあつては、当該気象関連現象予報業務のための気象の予想を行うか否かの別を含む。第十九条第一項及び第四十六条第三号において同じ。）を定めて行う。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">噴火、火山ガスの放出、土砂崩れ、津波、高潮又は洪水の予報の業務（以下「特定予報業務」という。）をその範囲に含む予報業務に係る第一項の許可については、当該特定予報業務に係る予報業務の目的は、第十九条の三の規定による説明を受けた者にのみ利用させるものに限られるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="17_2">
-          <ArticleCaption>（予報業務の許可の申請）</ArticleCaption>
-          <ArticleTitle>第十七条の二</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前条第一項の許可を受けようとする者は、国土交通省令で定めるところにより、次に掲げる事項を記載した申請書を気象庁長官に提出しなければならない。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">氏名又は名称及び住所並びに法人にあつては、その代表者の氏名</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">外国法人等（外国の法人及び団体並びに外国に住所を有する個人をいう。次条第二項第四号及び第二十一条第二項において同じ。）にあつては、国内における代表者（同号及び同項において「国内代表者」という。）又は国内における代理人（以下「国内代理人」という。）の氏名又は名称及び国内の住所並びに法人である国内代理人にあつてはその代表者の氏名</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">予報業務の目的及び範囲</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">その他国土交通省令で定める事項</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の申請書には、次条第二項第一号から第三号までに該当しないことを誓約する書面その他国土交通省令で定める書類を添付しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">噴火、火山ガスの放出、土砂崩れ、津波、高潮又は洪水の予報の業務（以下「特定予報業務」という。）をその範囲に含む予報業務の許可については、当該特定予報業務に係る予報業務の目的は、第十九条の三の規定による説明を受けた者にのみ利用させるものに限られるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -699,7 +613,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁長官は、前条第一項の申請書を受理したときは、次の基準によつて審査しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">気象庁長官は、許可の申請書を受理したときは、次の基準によつて審査しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -763,72 +677,47 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁長官は、前項の規定により審査した結果、その申請が同項の基準に適合していると認めるときは、次に掲げる場合を除いて許可しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">気象庁長官は、前項の規定により審査した結果、その申請が同項の基準に適合していると認めるときは、次の場合を除いて許可しなければならない。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十七条第一項の許可を受けようとする者が、この法律又はこれに相当する外国の法令の規定により罰金以上の刑（これに相当する外国の法令による刑を含む。）に処せられ、その執行を終わり、又はその執行を受けることがなくなつた日から二年を経過しない者であるとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">許可を受けようとする者が、この法律の規定により罰金以上の刑に処せられ、その執行を終わり、又はその執行を受けることがなくなつた日から二年を経過しない者であるとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十七条第一項の許可を受けようとする者が、第二十一条第一項若しくは第二項の規定により当該許可の取消しを受け、又はこの法律に相当する外国の法令の規定により当該外国において受けている当該許可に相当する行政処分の取消しを受け、当該取消しの日から二年を経過しない者であるとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">許可を受けようとする者が、第二十一条の規定により許可の取消しを受け、その取消しの日から二年を経過しない者であるとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十七条第一項の許可を受けようとする者が、法人である場合において、その法人の役員が前二号のいずれかに該当する者であるとき。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十七条第一項の許可を受けようとする者が、外国法人等である場合において、国内代表者又は国内代理人を定めていない者であるとき。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="5">
-              <ItemTitle>五</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前条第一項の申請書又はその添付書類のうちに重要な事項について虚偽の記載があり、又は重要な事実の記載が欠けているとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">許可を受けようとする者が、法人である場合において、その法人の役員が第一号又は前号に該当する者であるとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁長官は、土砂崩れ又は高潮若しくは洪水の予報の業務をその範囲に含む予報業務に係る第十七条第一項の許可をしようとするときは、当該予報業務のうち土砂崩れ又は高潮若しくは洪水の予想の方法が第一項第六号イの技術上の基準に適合するものであることについて、砂防又は水防に関する事務を行う国土交通大臣に協議しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">気象庁長官は、土砂崩れ又は洪水の予報の業務をその範囲に含む予報業務の許可をしようとするときは、当該予報業務のうち土砂崩れ又は洪水の予想の方法が第一項第六号イの技術上の基準に適合するものであることについて、砂防又は水防に関する事務を行う国土交通大臣に協議しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="19">
-          <ArticleCaption>（変更認可等）</ArticleCaption>
+          <ArticleCaption>（変更認可）</ArticleCaption>
           <ArticleTitle>第十九条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第十七条第一項の許可を受けた者が第十七条の二第一項第三号に掲げる事項を変更しようとするときは、気象庁長官の認可を受けなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">許可を受けた者が第十七条第二項の予報業務の目的又は範囲を変更しようとするときは、気象庁長官の認可を受けなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の認可を受けようとする者は、国土交通省令で定めるところにより、変更に係る事項を記載した申請書を気象庁長官に提出しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第十七条の二第二項及び前条（第二項第一号から第四号までを除く。）の規定は、第一項の認可について準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、第十七条の二第二項中「前項」とあるのは「第十九条第二項」と、「次条第二項第一号から第三号までに該当しないことを誓約する書面その他国土交通省令で定める書類」とあるのは「国土交通省令で定める書類」と、前条第一項及び第二項第五号中「前条第一項」とあるのは「次条第二項」と読み替えるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第十七条第一項の許可を受けた者は、第十七条の二第一項各号（第三号を除く。）に掲げる事項に変更があつたときは、遅滞なく、その旨を気象庁長官に届け出なければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前条の規定は、前項の場合に準用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -844,13 +733,13 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">気象又は地象の予報の業務をその範囲に含む予報業務に係る第十七条第一項の許可を受けた者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">気象又は地象の予報の業務をその範囲に含む予報業務の許可を受けた者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">気象関連現象予報業務をその範囲に含む予報業務に係る第十七条第一項の許可を受けた者（前号に掲げる者を除く。）であつて、当該気象関連現象予報業務のための気象の予想を行うもの</Sentence>
+                <Sentence Num="1" WritingMode="vertical">気象関連現象予報業務をその範囲に含む予報業務の許可を受けた者（前号に掲げる者を除く。）であつて、当該気象関連現象予報業務のための気象の予想を行うもの</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -861,7 +750,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">特定予報業務をその範囲に含む予報業務に係る第十七条第一項の許可を受けた者は、国土交通省令で定めるところにより、当該特定予報業務を利用しようとする者に対し、その利用に当たつて留意すべき事項その他の国土交通省令で定める事項を説明しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">特定予報業務をその範囲に含む予報業務の許可を受けた者は、国土交通省令で定めるところにより、当該特定予報業務を利用しようとする者に対し、その利用に当たつて留意すべき事項その他の国土交通省令で定める事項を説明しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -871,7 +760,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第十七条第一項の許可を受けた者は、当該予報業務の目的及び範囲に係る気象庁の警報事項を当該予報業務の利用者に迅速に伝達するように努めなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">許可を受けた者は、当該予報業務の目的及び範囲に係る気象庁の警報事項を当該予報業務の利用者に迅速に伝達するように努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -881,7 +770,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁長官は、第十七条第一項の許可を受けた者が第十八条第一項各号のいずれかに該当しないこととなつた場合その他当該許可を受けた者の予報業務の適正な運営を確保するため必要があると認めるときは、当該許可を受けた者に対し、その施設及び要員又はその現象の予想の方法について同項各号に適合するための措置その他当該予報業務の運営を改善するために必要な措置をとるべきことを命ずることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">気象庁長官は、許可を受けた者が第十八条第一項各号のいずれかに該当しないこととなつた場合その他許可を受けた者の予報業務の適正な運営を確保するため必要があると認めるときは、当該許可を受けた者に対し、その施設及び要員又はその現象の予想の方法について同項各号に適合するための措置その他当該予報業務の運営を改善するために必要な措置をとるべきことを命ずることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -891,7 +780,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁長官は、第十七条第一項の許可を受けた者が次の各号のいずれかに該当するときは、期間を定めて業務の停止を命じ、又はその許可を取り消すことができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">気象庁長官は、許可を受けた者が次の各号のいずれかに該当するときは、期間を定めて業務の停止を命じ、又は許可を取り消すことができる。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -902,21 +791,9 @@
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十八条第二項第一号から第四号まで（第二号にあつては、この法律に相当する外国の法令の規定に係る部分に限る。）のいずれかに該当することとなつたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十八条第二項第一号又は第三号に該当することとなつたとき。</Sentence>
               </ItemSentence>
             </Item>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁長官は、第十七条第一項の許可を受けた者の所在（法人（外国の法人を除く。）にあつてはその代表者の所在、外国法人等にあつては国内代表者又は国内代理人（法人である国内代理人にあつては、その代表者）の所在）を確知できないときは、国土交通省令で定めるところにより、その事実を公告し、その公告の日から三十日を経過しても当該者から申出がないときは、その許可を取り消すことができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定による処分については、行政手続法（平成五年法律第八十八号）第三章の規定は、適用しない。</Sentence>
-            </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="22">
@@ -925,7 +802,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第十七条第一項の許可を受けた者が予報業務の全部又は一部を休止し、又は廃止したときは、その日から三十日以内に、その旨を気象庁長官に届け出なければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">許可を受けた者が予報業務の全部又は一部を休止し、又は廃止したときは、その日から三十日以内に、その旨を気象庁長官に届け出なければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1629,15 +1506,15 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">気象庁以外の者で、その行つた国内の気象の観測の成果を国内若しくは国外の気象業務を行う機関、船舶又は航空機において受信されることを目的とする無線通信により発表する業務を行おうとするものは、気象庁長官の許可を受けなければならない。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">気象庁以外の者で、その行つた気象の観測の成果を国内若しくは国外の気象業務を行う機関、船舶又は航空機において受信されることを目的とする無線通信により発表する業務を行おうとするものは、気象庁長官の許可を受けなければならない。</Sentence>
               <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、船舶又は航空機が当該業務を行う場合は、この限りでない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第十七条の二並びに第十八条第一項（第一号に係る部分に限る。）及び第二項の規定は前項の許可について、第十九条第四項及び第二十条の二から第二十二条までの規定は当該許可を受けた者について、それぞれ準用する。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">この場合において、第十七条の二第一項第三号中「予報業務の目的及び範囲」とあるのは「国内の気象の観測の成果を発表する業務の目的」と、第十八条第一項第一号、第二十条の二及び第二十二条（見出しを含む。）中「予報業務」とあるのは「国内の気象の観測の成果を発表する業務」と、同号中「観測その他の予報資料の収集及び予報資料の解析」とあるのは「観測及びその成果の収集」と、第二十条の二中「第十八条第一項各号のいずれか」とあるのは「第二十六条第二項において準用する第十八条第一項第一号」と、「その施設及び要員又はその現象の予想の方法」とあるのは「その施設及び要員」と、「同項各号」とあるのは「同号」と読み替えるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第十八条第一項（第一号に係る部分に限る。）及び第二項並びに第二十条の二から第二十二条までの規定は、前項の場合に準用する。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">この場合において、第二十条の二中「第十八条第一項各号のいずれか」とあり、及び「同項各号」とあるのは、「第十八条第一項第一号」と読み替えるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2292,7 +2169,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第十七条第一項若しくは第二十六条第一項の許可又は第十九条第一項の認可には、条件を付し、及びこれを変更することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">許可又は認可には、条件を付し、及びこれを変更することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -2355,16 +2232,6 @@
             <ParagraphNum/>
             <ParagraphSentence>
               <Sentence Num="1" WritingMode="vertical">第三十八条、第三十九条又は前条第四項から第六項までの規定により当該業務に従事する職員は、その身分を示す証票を携帯し、関係人の請求があつたときは、これを提示しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="42_2">
-          <ArticleCaption>（法令等違反行為を行つた者の氏名等の公表）</ArticleCaption>
-          <ArticleTitle>第四十二条の二</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">気象庁長官は、気象業務の健全な発達を図り、公共の利益を確保するため必要があると認めるときは、国土交通省令で定めるところにより、この法律又はこの法律に基づく命令若しくは処分に違反する行為（以下この条において「法令等違反行為」という。）を行つた者の氏名又は名称その他法令等違反行為による被害の発生及び拡大を防止するために必要な事項を公表することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2503,7 +2370,7 @@
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十九条第一項の規定に違反して認可を受けないで第十七条の二第一項第三号に掲げる事項を変更したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の規定に違反して認可を受けないで予報業務の目的又は範囲を変更したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="4">
@@ -2515,7 +2382,7 @@
             <Item Num="5">
               <ItemTitle>五</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十一条第一項（第二十六条第二項において準用する場合を含む。）の規定による業務の停止の命令に違反したとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十一条（第二十六条第二項において準用する場合を含む。）の規定による業務の停止の命令に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="6">
@@ -2527,7 +2394,7 @@
             <Item Num="7">
               <ItemTitle>七</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十六条第一項の規定に違反して許可を受けないで国内の気象の観測の成果を発表する業務を行つたとき。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十六条第一項の規定に違反して許可を受けないで気象の観測の成果を発表する業務を行つたとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
@@ -2623,7 +2490,7 @@
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十九条第四項又は第二十二条（これらの規定を第二十六条第二項において準用する場合を含む。）の規定による届出をせず、又は虚偽の届出をした者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十二条（第二十六条第二項において準用する場合を含む。）の規定による届出をせず、又は虚偽の届出をした者</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
@@ -3710,38 +3577,7 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年五月二八日法律第四六号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1:2">
-            <ItemTitle>一及び二</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">略</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="3">
-            <ItemTitle>三</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">第二条及び第四条の規定並びに附則第八条第一項及び第七項、第九条第五項、第十六条並びに第十七条の規定、附則第十八条中電話加入権質に関する臨時特例法（昭和三十三年法律第百三十八号）第五条第一項の改正規定並びに附則第二十条及び第二十一条の規定</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1" WritingMode="vertical">公布の日から起算して二年を超えない範囲内において政令で定める日</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年一二月一二日法律第八六号">
+    <SupplProvision AmendLawNum="令和七年一二月一二日法律第八六号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
         <ArticleCaption>（施行期日）</ArticleCaption>
@@ -3754,16 +3590,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-      <Article Num="2">
-        <ArticleCaption>（気象業務法の一部改正に伴う経過措置）</ArticleCaption>
-        <ArticleTitle>第二条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">この法律の施行の際現に改正前の気象業務法第十七条第一項又は第二十六条第一項の許可を受けている者であって、外国法人等（この法律による改正後の気象業務法（以下「新気象業務法」という。）第十七条の二第一項第二号に規定する外国法人等をいう。）であるものについては、この法律の施行の日において同号（新気象業務法第二十六条第二項において準用する場合を含む。）に掲げる事項について変更があったものとみなして、新気象業務法第十九条第四項（新気象業務法第二十六条第二項において準用する場合を含む。）の規定（当該規定に係る罰則を含む。）を適用する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
       <Article Num="3">
         <ArticleCaption>（政令への委任）</ArticleCaption>
         <ArticleTitle>第三条</ArticleTitle>
@@ -3771,16 +3597,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前条に定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="4">
-        <ArticleCaption>（検討）</ArticleCaption>
-        <ArticleTitle>第四条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">政府は、この法律の施行後五年を経過した場合において、新気象業務法の規定について、その施行の状況等を勘案しつつ検討を加え、必要があると認めるときは、その結果に基づいて必要な措置を講ずるものとする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
