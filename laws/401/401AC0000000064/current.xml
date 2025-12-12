@@ -12,7 +12,7 @@
       </TOCChapter>
       <TOCChapter Num="3">
         <ChapterTitle>第三章　国民の保健医療の向上及び福祉の増進に資する情報の分析等の推進</ChapterTitle>
-        <ArticleRange>（第十一条の二・第十二条）</ArticleRange>
+        <ArticleRange>（第十一条の二―第十二条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="3_2">
         <ChapterTitle>第三章の二　電磁的方法による処方箋の提供等の推進</ChapterTitle>
@@ -31,8 +31,7 @@
         <ArticleRange>（第十三条の十―第二十三条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="5">
-        <ChapterTitle>第五章　社会保険診療報酬支払基金の業務</ChapterTitle>
-        <ArticleRange>（第二十四条―第三十四条）</ArticleRange>
+        <ChapterTitle>第五章　削除</ChapterTitle>
       </TOCChapter>
       <TOCChapter Num="6">
         <ChapterTitle>第六章　国民健康保険団体連合会の業務</ChapterTitle>
@@ -40,7 +39,7 @@
       </TOCChapter>
       <TOCChapter Num="7">
         <ChapterTitle>第七章　雑則</ChapterTitle>
-        <ArticleRange>（第三十八条―第三十九条の二）</ArticleRange>
+        <ArticleRange>（第三十八条―第三十九条の三）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="8">
         <ChapterTitle>第八章　罰則</ChapterTitle>
@@ -465,12 +464,70 @@
       <Chapter Num="3">
         <ChapterTitle>第三章　国民の保健医療の向上及び福祉の増進に資する情報の分析等の推進</ChapterTitle>
         <Article Num="11_2">
-          <ArticleCaption>（電子資格確認の事務等に係る利用者証明用電子証明書の利用等）</ArticleCaption>
+          <ArticleCaption>（医療情報化推進方針）</ArticleCaption>
           <ArticleTitle>第十一条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">社会保険診療報酬支払基金（以下「支払基金」という。）又は国民健康保険法（昭和三十三年法律第百九十二号）第四十五条第五項に規定する国民健康保険団体連合会（以下「連合会」という。）は、健康保険法（大正十一年法律第七十号）第二百五条の四第一項（第二号又は第三号に係る部分に限る。次条第二項において同じ。）の規定により委託を受けて行う電子資格確認（同法第三条第十三項に規定する電子資格確認をいう。次条第二項及び第二十四条第一項第一号において同じ。）の事務その他の厚生労働省令で定める事務に必要な限度で、その保有する利用者証明用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第二十二条第一項に規定する利用者証明用電子証明書をいう。）を、その保有に当たって特定された利用の目的以外の目的のために内部で利用し、又は相互に提供することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、三年以上六年以内の期間において、地域における効率的かつ質の高い医療提供体制の構築その他の国民の保健医療の向上及び福祉の増進に資する情報の活用の推進並びにその基盤の整備及び運営（次項において「医療情報化推進」という。）に関する方針（以下この条において「医療情報化推進方針」という。）を定めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医療情報化推進方針においては、次に掲げる事項を定めるものとする。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療情報化推進の意義及び基本的な方向に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療情報化推進に関し、国並びに医療情報基盤・診療報酬審査支払機構（以下「機構」という。）及び国民健康保険法（昭和三十三年法律第百九十二号）第四十五条第五項に規定する国民健康保険団体連合会（以下「連合会」という。）その他関係者が取り組むべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療情報化推進に関し、医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）第二十九条第一項に規定する中期計画の基本となるべき事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">医療情報化推進に関し、医療法第三十条の三第一項に規定する基本方針及び介護保険法第百十六条第一項に規定する基本指針との整合性の確保に関する事項</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">その他医療情報化推進に関し必要な事項</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、医療情報化推進方針の案を作成し、又はこれを変更しようとするときは、あらかじめ、関係行政機関の長に協議するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、医療情報化推進方針を定め、又はこれを変更したときは、遅滞なく、これを公表しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11_3">
+          <ArticleCaption>（電子資格確認の事務等に係る利用者証明用電子証明書の利用等）</ArticleCaption>
+          <ArticleTitle>第十一条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構又は連合会は、健康保険法（大正十一年法律第七十号）第二百五条の四第一項（第二号又は第三号に係る部分に限る。次条第二項において同じ。）の規定により委託を受けて行う電子資格確認（同法第三条第十三項に規定する電子資格確認をいう。次条第二項において同じ。）の事務その他の厚生労働省令で定める事務に必要な限度で、その保有する利用者証明用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第二十二条第一項に規定する利用者証明用電子証明書をいう。）を、その保有に当たって特定された利用の目的以外の目的のために内部で利用し、又は相互に提供することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -480,19 +537,19 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）第十七条の規定により厚生労働大臣から委託を受けて同法第十六条第一項に規定する医療保険等関連情報（以下この項において「医療保険等関連情報」という。）を収集する者、介護保険法第百十八条の十の規定により厚生労働大臣から委託を受けて同法第百十八条の二第一項に規定する介護保険等関連情報（以下この項において「介護保険等関連情報」という。）を収集する者その他の保健医療等情報（法律の規定に基づき調査若しくは分析又は利用若しくは提供が行われる医療保険等関連情報、介護保険等関連情報その他の情報であってその調査若しくは分析又は利用若しくは提供が国民の保健医療の向上及び福祉の増進に資するものとして厚生労働省令で定める情報をいう。以下この項において同じ。）を収集する者として厚生労働省令で定める者（以下この条において「連結情報照会者」という。）は、保健医療等情報を正確に連結するため、支払基金又は連合会に対し、当該保健医療等情報に係る医療保険被保険者番号等（健康保険法第百九十四条の二第一項に規定する被保険者等記号・番号等その他の厚生労働省令で定める番号、記号その他の符号をいう。次項において同じ。）を提供した上で、保健医療等情報を正確に連結するために必要な情報として厚生労働省令で定めるものの提供を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）第十七条の規定により厚生労働大臣から委託を受けて同法第十六条第一項に規定する医療保険等関連情報（以下この項において「医療保険等関連情報」という。）を収集する者、介護保険法第百十八条の十の規定により厚生労働大臣から委託を受けて同法第百十八条の二第一項に規定する介護保険等関連情報（以下この項において「介護保険等関連情報」という。）を収集する者その他の保健医療等情報（法律の規定に基づき調査若しくは分析又は利用若しくは提供が行われる医療保険等関連情報、介護保険等関連情報その他の情報であってその調査若しくは分析又は利用若しくは提供が国民の保健医療の向上及び福祉の増進に資するものとして厚生労働省令で定める情報をいう。以下この項において同じ。）を収集する者として厚生労働省令で定める者（以下この条において「連結情報照会者」という。）は、保健医療等情報を正確に連結するため、機構又は連合会に対し、当該保健医療等情報に係る医療保険被保険者番号等（健康保険法第百九十四条の二第一項に規定する被保険者等記号・番号等その他の厚生労働省令で定める番号、記号その他の符号をいう。次項において同じ。）を提供した上で、保健医療等情報を正確に連結するために必要な情報として厚生労働省令で定めるものの提供を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金又は連合会は、前項の規定による求めがあったときは、連結情報照会者に対し、健康保険法第二百五条の四第一項の規定により委託を受けて行う電子資格確認の事務その他の厚生労働省令で定める事務に係る医療保険被保険者番号等を利用し、前項の厚生労働省令で定める情報を提供することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">機構又は連合会は、前項の規定による求めがあったときは、連結情報照会者に対し、健康保険法第二百五条の四第一項の規定により委託を受けて行う電子資格確認の事務その他の厚生労働省令で定める事務に係る医療保険被保険者番号等を利用し、前項の厚生労働省令で定める情報を提供することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定により情報の提供を受ける連結情報照会者は、実費を勘案して政令で定める額の手数料を支払基金又は連合会に納めなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により情報の提供を受ける連結情報照会者は、実費を勘案して政令で定める額の手数料を機構又は連合会に納めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -504,49 +561,49 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">医師又は歯科医師は、患者又は現にその看護に当たっている者の求めに応じて、医師法（昭和二十三年法律第二百一号）第二十二条第一項又は歯科医師法（昭和二十三年法律第二百二号）第二十一条第一項の規定によるこれらの者に対する処方箋（書面に代えて当該処方箋に係る電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。次条第四項において同じ。）を作成した場合における当該電磁的記録を含む。以下同じ。）の交付に代えて、支払基金又は連合会に対し、厚生労働省令で定めるところにより、当該処方箋を電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法（以下「電磁的方法」という。）により提供することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医師又は歯科医師は、患者又は現にその看護に当たっている者の求めに応じて、医師法（昭和二十三年法律第二百一号）第二十二条第一項又は歯科医師法（昭和二十三年法律第二百二号）第二十一条第一項の規定によるこれらの者に対する処方箋（書面に代えて当該処方箋に係る電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。次条第四項において同じ。）を作成した場合における当該電磁的記録を含む。以下同じ。）の交付に代えて、機構又は連合会に対し、厚生労働省令で定めるところにより、当該処方箋を電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法（以下「電磁的方法」という。）により提供することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定により処方箋の提供を受けた支払基金又は連合会は、厚生労働省令で定めるところにより、当該患者が電磁的方法により当該処方箋に記録された情報を閲覧することができるようにするとともに、当該患者又は現にその看護に当たっている者の求めに応じて、調剤を実施する薬局に対し当該処方箋を電磁的方法により提供しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により処方箋の提供を受けた機構又は連合会は、厚生労働省令で定めるところにより、当該患者が電磁的方法により当該処方箋に記録された情報を閲覧することができるようにするとともに、当該患者又は現にその看護に当たっている者の求めに応じて、調剤を実施する薬局に対し当該処方箋を電磁的方法により提供しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">薬剤師は、前項の規定により提供された処方箋により調剤したときその他厚生労働省令で定めるときは、支払基金又は連合会に対し、薬剤師法（昭和三十五年法律第百四十六号）第二十六条に規定する事項その他厚生労働省令で定める事項を含む情報を、厚生労働省令で定めるところにより、電磁的方法により提供することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">薬剤師は、前項の規定により提供された処方箋により調剤したときその他厚生労働省令で定めるときは、機構又は連合会に対し、薬剤師法（昭和三十五年法律第百四十六号）第二十六条に規定する事項その他厚生労働省令で定める事項を含む情報を、厚生労働省令で定めるところにより、電磁的方法により提供することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="4">
             <ParagraphNum>４</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定により情報の提供を受けた支払基金又は連合会は、第一項の規定により当該情報に係る処方箋の提供を行った医師又は歯科医師その他の厚生労働省令で定める者の求めに応じて、これらの者に対し、厚生労働省令で定めるところにより、当該情報を電磁的方法により提供しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により情報の提供を受けた機構又は連合会は、第一項の規定により当該情報に係る処方箋の提供を行った医師又は歯科医師その他の厚生労働省令で定める者の求めに応じて、これらの者に対し、厚生労働省令で定めるところにより、当該情報を電磁的方法により提供しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="5">
             <ParagraphNum>５</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">医師又は歯科医師は、医師法第二十二条第一項又は歯科医師法第二十一条第一項の規定により処方箋を交付した場合には、厚生労働省令で定めるところにより、支払基金又は連合会に対し、当該処方箋に記載し、又は記録した情報を電磁的方法により提供することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医師又は歯科医師は、医師法第二十二条第一項又は歯科医師法第二十一条第一項の規定により処方箋を交付した場合には、厚生労働省令で定めるところにより、機構又は連合会に対し、当該処方箋に記載し、又は記録した情報を電磁的方法により提供することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">医師又は歯科医師は、医師法第二十二条第一項若しくは歯科医師法第二十一条第一項の規定による処方箋の交付又は第一項の規定による電磁的方法による処方箋の提供を行うに当たり、厚生労働省令で定めるところにより、支払基金又は連合会に対し、患者の生命又は身体の保護のために必要な情報として厚生労働省令で定める情報の提供を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医師又は歯科医師は、医師法第二十二条第一項若しくは歯科医師法第二十一条第一項の規定による処方箋の交付又は第一項の規定による電磁的方法による処方箋の提供を行うに当たり、厚生労働省令で定めるところにより、機構又は連合会に対し、患者の生命又は身体の保護のために必要な情報として厚生労働省令で定める情報の提供を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">薬剤師は、調剤を行うに当たり、厚生労働省令で定めるところにより、支払基金又は連合会に対し、患者の生命又は身体の保護のために必要な情報として厚生労働省令で定める情報の提供を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">薬剤師は、調剤を行うに当たり、厚生労働省令で定めるところにより、機構又は連合会に対し、患者の生命又は身体の保護のために必要な情報として厚生労働省令で定める情報の提供を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前二項の規定により情報の提供の求めを受けた支払基金又は連合会は、当該求めに応じて、厚生労働省令で定めるところにより、当該医師若しくは歯科医師又は薬剤師に対し当該情報を電磁的方法により提供しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前二項の規定により情報の提供の求めを受けた機構又は連合会は、当該求めに応じて、厚生労働省令で定めるところにより、当該医師若しくは歯科医師又は薬剤師に対し当該情報を電磁的方法により提供しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -558,13 +615,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">医療機関その他の厚生労働省令で定める施設の開設者又は管理者は、国民に対し良質かつ適切な医療を効率的に提供する体制を確保するため、支払基金又は連合会に対し、厚生労働省令で定めるところにより、診療録その他の心身の状況に関する記録に係る情報であって厚生労働省令で定めるもの（以下「電子診療録等情報」という。）を電磁的方法により提供することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医療機関その他の厚生労働省令で定める施設の開設者又は管理者は、国民に対し良質かつ適切な医療を効率的に提供する体制を確保するため、機構又は連合会に対し、厚生労働省令で定めるところにより、診療録その他の心身の状況に関する記録に係る情報であって厚生労働省令で定めるもの（以下「電子診療録等情報」という。）を電磁的方法により提供することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定により電子診療録等情報の提供を受けた支払基金又は連合会は、厚生労働省令で定めるところにより、国民が電磁的方法により自らの電子診療録等情報を閲覧することができるようにするとともに、電子診療録等情報の利用に関する患者の同意が得られた場合その他厚生労働省令で定める場合において、当該患者に医療を提供する医師その他厚生労働省令で定める者（以下この項及び第二十四条第三項第一号において「医師等」という。）の求めに応じて、医師等に対し電子診療録等情報を用いて必要な情報を電磁的方法により提供し、又は閲覧することができるようにしなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により電子診療録等情報の提供を受けた機構又は連合会は、厚生労働省令で定めるところにより、国民が電磁的方法により自らの電子診療録等情報を閲覧することができるようにするとともに、電子診療録等情報の利用に関する患者の同意が得られた場合その他厚生労働省令で定める場合において、当該患者に医療を提供する医師その他厚生労働省令で定める者（以下この項及び第三十五条第三項第一号において「医師等」という。）の求めに応じて、医師等に対し電子診療録等情報を用いて必要な情報を電磁的方法により提供し、又は閲覧することができるようにしなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -585,7 +642,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金及び第三十一条第一項に規定する支払基金業務受託者並びに連合会及び第三十七条第二項に規定する連合会業務受託者は、支払基金電子診療録等情報管理業務（第二十五条第一項に規定する支払基金電子診療録等情報管理業務をいう。）又は連合会電子診療録等情報管理業務（第三十六条に規定する連合会電子診療録等情報管理業務をいう。）の遂行のため必要がある場合その他厚生労働省令で定める場合を除き、前条第一項の規定により提供を受けた電子診療録等情報を利用し、又は提供してはならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">機構及び医療情報基盤・診療報酬審査支払機構法第二十八条第一項の規定による委託を受けた者並びに連合会及び第三十七条第二項に規定する連合会業務受託者は、同法第十八条第一項第四号に規定する業務又は電子診療録等情報管理業務（第三十六条に規定する電子診療録等情報管理業務をいう。）の遂行のため必要がある場合その他厚生労働省令で定める場合を除き、前条第一項の規定により提供を受けた電子診療録等情報を利用し、又は提供してはならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1050,38 +1107,32 @@
         </Article>
       </Chapter>
       <Chapter Num="5">
-        <ChapterTitle>第五章　社会保険診療報酬支払基金の業務</ChapterTitle>
-        <Article Num="24">
-          <ArticleCaption>（支払基金の業務）</ArticleCaption>
-          <ArticleTitle>第二十四条</ArticleTitle>
+        <ChapterTitle>第五章　削除</ChapterTitle>
+        <Article Num="24:34">
+          <ArticleTitle>第二十四条から第三十四条まで</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、社会保険診療報酬支払基金法（昭和二十三年法律第百二十九号）第十五条に規定する業務のほか、第一条に規定する目的を達成するため、次に掲げる業務を行う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">削除</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">健康保険法第六十三条第三項各号に掲げる病院若しくは診療所若しくは薬局又は同法第八十八条第一項に規定する指定訪問看護事業者（以下「医療機関等」という。）が行う電子資格確認の実施に必要な費用その他地域において効率的かつ質の高い医療提供体制を構築するための医療機関等の提供する医療に係る情報化の促進に要する費用を補助する業務</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第十二条第二項の規定に基づき情報を提供する業務</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">前二号に掲げる業務に附帯する業務</Sentence>
-              </ItemSentence>
-            </Item>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　国民健康保険団体連合会の業務</ChapterTitle>
+        <Article Num="35">
+          <ArticleCaption>（連合会の業務）</ArticleCaption>
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、国民健康保険法第八十五条の三に規定する業務のほか、第一条に規定する目的を達成するため、第十二条第二項の規定に基づき情報を提供する業務及びこれに附帯する業務を行う。</Sentence>
+            </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、社会保険診療報酬支払基金法第十五条に規定する業務及び前項各号に掲げる業務のほか、第一条に規定する目的を達成するとともに、医療保険者が行う高齢者の医療の確保に関する法律第七条第一項に規定する医療保険各法の規定による保健事業若しくは福祉事業、後期高齢者医療広域連合（同法第四十八条に規定する後期高齢者医療広域連合をいう。第三十九条の二第一項において同じ。）が行う同法第百二十五条第一項に規定する高齢者保健事業又は法令の規定により医療に関する給付その他の事務を行う者であって厚生労働省令で定めるものが行う健康の保持及び増進を図るための厚生労働省令で定める事業（次項並びに第三十五条第二項及び第三項において「保健事業等」と総称する。）に資するため、次に掲げる業務を行う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、国民健康保険法第八十五条の三に規定する業務及び前項に規定する業務のほか、第一条に規定する目的を達成するとともに、医療保険者が行う高齢者の医療の確保に関する法律第七条第一項に規定する医療保険各法の規定による保健事業若しくは福祉事業、後期高齢者医療広域連合（同法第四十八条に規定する後期高齢者医療広域連合をいう。第三十九条の二第一項において同じ。）が行う同法第百二十五条第一項に規定する高齢者保健事業又は法令の規定により医療に関する給付その他の事務を行う者であって厚生労働省令で定めるものが行う健康の保持及び増進を図るための厚生労働省令で定める事業（次項において「保健事業等」と総称する。）に資するため、次に掲げる業務を行う。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1123,7 +1174,7 @@
           <Paragraph Num="3">
             <ParagraphNum>３</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、社会保険診療報酬支払基金法第十五条に規定する業務並びに第一項各号及び前項各号に掲げる業務のほか、第一条に規定する目的を達成するとともに、保健事業等に資するため、次に掲げる業務を行う。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、国民健康保険法第八十五条の三に規定する業務及び前二項に規定する業務のほか、第一条に規定する目的を達成するとともに、保健事業等に資するため、次に掲げる業務を行う。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
@@ -1145,124 +1196,30 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="25">
-          <ArticleCaption>（業務方法書）</ArticleCaption>
-          <ArticleTitle>第二十五条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、前条の規定により行う同条第一項第一号に掲げる業務及びこれに附帯する業務（以下「医療機関等情報化補助業務」という。）、同項第二号に掲げる業務及びこれに附帯する業務（以下「支払基金連結情報提供業務」という。）、同条第二項各号に掲げる業務（以下「支払基金電子処方箋管理業務」という。）並びに同条第三項各号に掲げる業務（以下「支払基金電子診療録等情報管理業務」という。）に関し、当該業務の開始前に、業務方法書を作成し、厚生労働大臣の認可を受けなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">これを変更するときも、同様とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の業務方法書に記載すべき事項は、厚生労働省令で定める。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="26">
+        <Article Num="36">
           <ArticleCaption>（区分経理）</ArticleCaption>
-          <ArticleTitle>第二十六条</ArticleTitle>
+          <ArticleTitle>第三十六条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、医療機関等情報化補助業務、支払基金連結情報提供業務、支払基金電子処方箋管理業務及び支払基金電子診療録等情報管理業務に係る経理については、その他の業務に係る経理と区分して、特別の会計を設けて行わなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、前条の規定により行う、第十二条第二項の規定に基づき情報を提供する業務及びこれに附帯する業務（次条第一項及び第四十条において「連結情報提供業務」という。）、前条第二項各号に掲げる業務（以下「電子処方箋管理業務」という。）並びに同条第三項各号に掲げる業務（以下「電子診療録等情報管理業務」という。）に係る経理については、その他の経理と区分して整理しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="27">
-          <ArticleCaption>（予算等の認可）</ArticleCaption>
-          <ArticleTitle>第二十七条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、医療機関等情報化補助業務、支払基金連結情報提供業務、支払基金電子処方箋管理業務及び支払基金電子診療録等情報管理業務に関し、毎事業年度、予算、事業計画及び資金計画を作成し、当該事業年度の開始前に、厚生労働大臣の認可を受けなければならない。</Sentence>
-              <Sentence Num="2" WritingMode="vertical">これを変更するときも、同様とする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="28">
-          <ArticleCaption>（財務諸表等）</ArticleCaption>
-          <ArticleTitle>第二十八条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、医療機関等情報化補助業務、支払基金連結情報提供業務、支払基金電子処方箋管理業務及び支払基金電子診療録等情報管理業務に関し、毎事業年度、財産目録、貸借対照表及び損益計算書（以下この条において「財務諸表」という。）を作成し、当該事業年度の終了後三月以内に厚生労働大臣に提出し、その承認を受けなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、前項の規定により財務諸表を厚生労働大臣に提出するときは、厚生労働省令で定めるところにより、これに当該事業年度の事業報告書及び予算の区分に従い作成した決算報告書並びに財務諸表及び決算報告書に関する監事の意見書を添付しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、第一項の規定による厚生労働大臣の承認を受けたときは、遅滞なく、財務諸表又はその要旨を官報に公告し、かつ、財務諸表及び附属明細書並びに前項の事業報告書、決算報告書及び監事の意見書を、主たる事務所に備えて置き、厚生労働省令で定める期間、一般の閲覧に供しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="29">
-          <ArticleCaption>（業務の委託）</ArticleCaption>
-          <ArticleTitle>第二十九条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、厚生労働大臣の認可を受けて、医療機関等情報化補助業務、支払基金電子処方箋管理業務及び支払基金電子診療録等情報管理業務の一部を連合会その他厚生労働省令で定める者に委託することができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="30">
-          <ArticleCaption>（余裕金の運用）</ArticleCaption>
-          <ArticleTitle>第三十条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、次の方法によるほか、支払基金連結情報提供業務、支払基金電子処方箋管理業務及び支払基金電子診療録等情報管理業務に係る業務上の余裕金を運用してはならない。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">国債その他厚生労働大臣が指定する有価証券の保有</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">銀行その他厚生労働大臣が指定する金融機関への預金</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">信託業務を営む金融機関（金融機関の信託業務の兼営等に関する法律（昭和十八年法律第四十三号）第一条第一項の認可を受けた金融機関をいう。第三十三条第三項第三号において同じ。）への金銭信託で元本補塡の契約があるもの</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項第一号又は第二号の指定をしようとするときは、あらかじめ、財務大臣に協議しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="31">
+        <Article Num="37">
           <ArticleCaption>（報告の徴収等）</ArticleCaption>
-          <ArticleTitle>第三十一条</ArticleTitle>
+          <ArticleTitle>第三十七条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">厚生労働大臣は、支払基金又は第二十九条の規定による委託を受けた者（以下「支払基金業務受託者」という。）について、医療機関等情報化補助業務、支払基金電子処方箋管理業務及び支払基金電子診療録等情報管理業務に関し必要があると認めるときは、これらの業務又は財産の状況に関する報告をさせ、又は当該職員に実地にその状況を検査させることができる。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、支払基金業務受託者に対しては、当該受託業務の範囲内に限る。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、連合会について、連結情報提供業務に関し必要があると認めるときは、その業務又は財産の状況に関する報告をさせ、又は当該職員に実地にその状況を検査させることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、支払基金について、支払基金連結情報提供業務に関し必要があると認めるときは、その業務又は財産の状況に関する報告をさせ、又は当該職員に実地にその状況を検査させることができる。</Sentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">厚生労働大臣は、連合会又は次条の規定による委託を受けた者（以下この項及び第四十条において「連合会業務受託者」という。）について、電子処方箋管理業務及び電子診療録等情報管理業務に関し必要があると認めるときは、これらの業務又は財産の状況に関する報告をさせ、又は当該職員に実地にその状況を検査させることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、連合会業務受託者に対しては、当該受託業務の範囲内に限る。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -1278,149 +1235,13 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="32">
-          <ArticleCaption>（社会保険診療報酬支払基金法の適用の特例）</ArticleCaption>
-          <ArticleTitle>第三十二条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">医療機関等情報化補助業務、支払基金連結情報提供業務、支払基金電子処方箋管理業務及び支払基金電子診療録等情報管理業務は、社会保険診療報酬支払基金法第三十二条第二項の規定の適用については、同法第十五条に規定する業務とみなす。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="33">
-          <ArticleCaption>（医療情報化支援基金）</ArticleCaption>
-          <ArticleTitle>第三十三条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、医療機関等情報化補助業務に要する費用に充てるために医療情報化支援基金を設け、第五項の規定により交付を受けた補助金をもってこれに充てるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">医療情報化支援基金の運用によって生じた利子その他の収入金は、医療情報化支援基金に充てるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金は、次の方法によるほか、医療情報化支援基金に係る余裕金を運用してはならない。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">国債その他厚生労働大臣が指定する有価証券の保有</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">銀行その他厚生労働大臣が指定する金融機関への預金</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">信託業務を営む金融機関への金銭信託で元本補塡の契約があるもの</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-          <Paragraph Num="4">
-            <ParagraphNum>４</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項第一号又は第二号の指定をしようとするときは、あらかじめ、財務大臣に協議しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="5">
-            <ParagraphNum>５</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">政府は、予算の範囲内において、支払基金に対し、医療情報化支援基金に充てる資金を補助することができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="6">
-            <ParagraphNum>６</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の規定により政府が交付する補助金の財源については、社会保障の安定財源の確保等を図る税制の抜本的な改革を行うための消費税法の一部を改正する等の法律の施行により増加する消費税の収入をもって充てるものとする。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="34">
-          <ArticleCaption>（厚生労働省令への委任）</ArticleCaption>
-          <ArticleTitle>第三十四条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">この法律に定めるもののほか、医療機関等情報化補助業務、支払基金連結情報提供業務、支払基金電子処方箋管理業務及び支払基金電子診療録等情報管理業務に係る支払基金の財務及び会計に関し必要な事項は、厚生労働省令で定める。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-      </Chapter>
-      <Chapter Num="6">
-        <ChapterTitle>第六章　国民健康保険団体連合会の業務</ChapterTitle>
-        <Article Num="35">
-          <ArticleCaption>（連合会の業務）</ArticleCaption>
-          <ArticleTitle>第三十五条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">連合会は、国民健康保険法第八十五条の三に規定する業務のほか、第一条に規定する目的を達成するため、第十二条第二項の規定に基づき情報を提供する業務及びこれに附帯する業務を行う。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">連合会は、国民健康保険法第八十五条の三に規定する業務及び前項に規定する業務のほか、第一条に規定する目的を達成するとともに、保健事業等に資するため、第二十四条第二項各号に掲げる業務を行う。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">連合会は、国民健康保険法第八十五条の三に規定する業務及び前二項に規定する業務のほか、第一条に規定する目的を達成するとともに、保健事業等に資するため、第二十四条第三項各号に掲げる業務を行う。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="36">
-          <ArticleCaption>（区分経理）</ArticleCaption>
-          <ArticleTitle>第三十六条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">連合会は、前条の規定により行う、第十二条第二項の規定に基づき情報を提供する業務及びこれに附帯する業務（次条第一項及び第四十条において「連合会連結情報提供業務」という。）、前条第二項に規定する業務（以下「連合会電子処方箋管理業務」という。）並びに同条第三項に規定する業務（以下「連合会電子診療録等情報管理業務」という。）に係る経理については、その他の経理と区分して整理しなければならない。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
-        <Article Num="37">
-          <ArticleCaption>（報告の徴収等）</ArticleCaption>
-          <ArticleTitle>第三十七条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、連合会について、連合会連結情報提供業務に関し必要があると認めるときは、その業務又は財産の状況に関する報告をさせ、又は当該職員に実地にその状況を検査させることができる。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="2">
-            <ParagraphNum>２</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Function="main" Num="1" WritingMode="vertical">厚生労働大臣は、連合会又は次条の規定による委託を受けた者（以下「連合会業務受託者」という。）について、連合会電子処方箋管理業務及び連合会電子診療録等情報管理業務に関し必要があると認めるときは、これらの業務又は財産の状況に関する報告をさせ、又は当該職員に実地にその状況を検査させることができる。</Sentence>
-              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、連合会業務受託者に対しては、当該受託業務の範囲内に限る。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-          <Paragraph Num="3">
-            <ParagraphNum>３</ParagraphNum>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第三十一条第三項の規定は前二項の規定による検査について、同条第四項の規定は前二項の規定による権限について、それぞれ準用する。</Sentence>
-            </ParagraphSentence>
-          </Paragraph>
-        </Article>
         <Article Num="37_2">
           <ArticleCaption>（業務の委託）</ArticleCaption>
           <ArticleTitle>第三十七条の二</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">連合会は、連合会電子処方箋管理業務及び連合会電子診療録等情報管理業務の全部又は一部を支払基金その他厚生労働省令で定める者に委託することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、電子処方箋管理業務及び電子診療録等情報管理業務の全部又は一部を機構その他厚生労働省令で定める者に委託することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1433,13 +1254,13 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">医療機関及び薬局その他の関係者は、地域において効率的かつ質の高い医療提供体制を構築するため、支払基金電子処方箋管理業務及び連合会電子処方箋管理業務が円滑に実施されるよう、電磁的方法による処方箋の提供及び電磁的方法により提供された処方箋により調剤を実施する体制の整備に努めるとともに、相互に連携を図りながら協力するものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医療機関及び薬局その他の関係者は、地域において効率的かつ質の高い医療提供体制を構築するため、医療情報基盤・診療報酬審査支払機構法第十八条第一項第三号に規定する業務及びこれに附帯する業務並びに電子処方箋管理業務が円滑に実施されるよう、電磁的方法による処方箋の提供及び電磁的方法により提供された処方箋により調剤を実施する体制の整備に努めるとともに、相互に連携を図りながら協力するものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">医療法第四条第一項に規定する地域医療支援病院その他の厚生労働省令で定める病院の管理者は、地域において効率的かつ質の高い医療提供体制を構築するため、支払基金電子診療録等情報管理業務及び連合会電子診療録等情報管理業務が円滑に実施されるよう、第十二条の三第一項の規定による電子診療録等情報の提供及び電子診療録等情報を利用する体制の整備に努めなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医療法第四条第一項に規定する地域医療支援病院その他の厚生労働省令で定める病院の管理者は、地域において効率的かつ質の高い医療提供体制を構築するため、医療情報基盤・診療報酬審査支払機構法第十八条第一項第四号に規定する業務及びこれに附帯する業務並びに電子診療録等情報管理業務が円滑に実施されるよう、第十二条の三第一項の規定による電子診療録等情報の提供及び電子診療録等情報を利用する体制の整備に努めなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1465,7 +1286,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">政府は、予算の範囲内において、支払基金又は連合会に対し、第十二条第二項の規定による情報の提供に要する費用の一部を補助することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、予算の範囲内において、機構又は連合会に対し、第十二条第二項の規定による情報の提供に要する費用の一部を補助することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1475,13 +1296,71 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金電子処方箋管理業務及び支払基金電子診療録等情報管理業務並びに連合会電子処方箋管理業務及び連合会電子診療録等情報管理業務に要する費用は、政令で定めるところにより、医療保険者、後期高齢者医療広域連合その他法令の規定により医療に関する給付に係る事務を行う者その他の厚生労働省令で定める者が負担する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">医療情報基盤・診療報酬審査支払機構法第十八条第一項第三号及び第四号に規定する業務並びにこれらに附帯する業務、電子処方箋管理業務並びに電子診療録等情報管理業務に要する費用は、政令で定めるところにより、医療保険者、後期高齢者医療広域連合その他法令の規定により医療に関する給付に係る事務を行う者その他の厚生労働省令で定める者が負担する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金又は連合会は、第二十四条第二項の規定により支払基金が行う同項第五号に掲げる業務又は第三十五条第二項の規定により連合会が行う同号に掲げる業務を行う場合は、前項の規定にかかわらず、当該業務を支払基金又は連合会に委託する薬局の開設者から、実費を勘案して政令で定める額の手数料を徴収することができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">機構又は連合会は、医療情報基盤・診療報酬審査支払機構法第十八条第一項第三号の規定により機構が行う同号ホに掲げる業務又は第三十五条第二項の規定により連合会が行う同項第五号に掲げる業務を行う場合は、前項の規定にかかわらず、当該業務を機構又は連合会に委託する薬局の開設者から、実費を勘案して政令で定める額の手数料を徴収することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39_3">
+          <ArticleCaption>（医療情報化支援基金）</ArticleCaption>
+          <ArticleTitle>第三十九条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医療情報基盤・診療報酬審査支払機構法第十八条第一項第五号に掲げる業務及びこれに附帯する業務に要する費用に充てるために医療情報化支援基金を設け、第五項の規定により交付を受けた補助金をもってこれに充てるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">医療情報化支援基金の運用によって生じた利子その他の収入金は、医療情報化支援基金に充てるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、次の方法によるほか、医療情報化支援基金に係る余裕金を運用してはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国債その他厚生労働大臣が指定する有価証券の保有</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">銀行その他厚生労働大臣が指定する金融機関への預金</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">信託業務を営む金融機関（金融機関の信託業務の兼営等に関する法律（昭和十八年法律第四十三号）第一条第一項の認可を受けた金融機関をいう。）への金銭信託で元本補塡の契約があるもの</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項第一号又は第二号の指定をしようとするときは、あらかじめ、財務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">政府は、予算の範囲内において、機構に対し、医療情報化支援基金に充てる資金を補助することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6">
+            <ParagraphNum>６</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定により政府が交付する補助金の財源については、社会保障の安定財源の確保等を図る税制の抜本的な改革を行うための消費税法の一部を改正する等の法律の施行により増加する消費税の収入をもって充てるものとする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1493,7 +1372,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金若しくは連合会の役員若しくは職員若しくはこれらの職にあった者又は支払基金業務受託者若しくは連合会業務受託者の役員若しくはこれらの職員その他の当該受託業務に従事する者若しくはこれらの者であった者が、正当な理由がないのに、支払基金連結情報提供業務、支払基金電子処方箋管理業務若しくは支払基金電子診療録等情報管理業務又は連合会連結情報提供業務、連合会電子処方箋管理業務若しくは連合会電子診療録等情報管理業務に関して知り得た秘密を漏らしたときは、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">連合会の役員若しくは職員若しくはこれらの職にあった者又は連合会業務受託者の役員若しくは職員その他の当該受託業務に従事する者若しくはこれらの者であった者が、正当な理由がないのに、連結情報提供業務、電子処方箋管理業務又は電子診療録等情報管理業務に関して知り得た秘密を漏らしたときは、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1502,32 +1381,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三十七条第一項又は第二項の規定により報告を求められて、報告せず、若しくは虚偽の報告をし、又はこれらの規定による検査を拒み、妨げ、若しくは忌避したときは、当該違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">支払基金又は支払基金業務受託者の役員又は職員が、第三十一条第一項の規定により報告を求められて、これに従わず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">支払基金の役員又は職員が、第三十一条第二項の規定により報告を求められて、これに従わず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="3">
-              <ItemTitle>三</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">連合会の役員又は職員が、第三十七条第一項の規定により報告を求められて、これに従わず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="4">
-              <ItemTitle>四</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">連合会又は連合会業務受託者の役員又は職員が、第三十七条第二項の規定により報告を求められて、これに従わず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
         </Article>
         <Article Num="42">
@@ -1550,20 +1405,8 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">支払基金の役員が次の各号のいずれかに該当するときは、二十万円以下の過料に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第三十九条の三第三項の規定に違反して医療情報化支援基金に係る余裕金を運用したときは、当該違反行為をした機構の役員は、二十万円以下の過料に処する。</Sentence>
             </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五章の規定により厚生労働大臣の認可又は承認を受けなければならない場合において、その認可又は承認を受けなかったとき。</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第三十条第一項の規定に違反して支払基金連結情報提供業務、支払基金電子処方箋管理業務若しくは支払基金電子診療録等情報管理業務に係る業務上の余裕金を運用したとき、又は第三十三条第三項の規定に違反して医療情報化支援基金に係る余裕金を運用したとき。</Sentence>
-              </ItemSentence>
-            </Item>
           </Paragraph>
         </Article>
       </Chapter>
@@ -1587,34 +1430,6 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">都道府県は、当分の間、労働が長時間にわたる医師の労働時間を短縮し、及びその健康を確保することにより、医師が良質かつ適切な医療を行うことができるよう、都道府県計画に第四条第二項第二号に掲げる事項を定めるに当たっては、医療法第百五条の厚生労働大臣が定める指針を勘案して定めるよう努めるものとする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-      <Article Num="1_3">
-        <ArticleCaption>（支払基金の業務の特例）</ArticleCaption>
-        <ArticleTitle>第一条の三</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">支払基金は、社会保険診療報酬支払基金法第十五条に規定する業務及び第二十四条に規定する業務のほか、第一条に規定する目的を達成するため、当分の間、次に掲げる業務を行う。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1">
-            <ItemTitle>一</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">医療機関等が行う電子資格確認の実施に必要な物品その他地域において効率的かつ質の高い医療提供体制を構築するための医療機関等の提供する医療に係る情報化の促進に要する物品を調達し、及び提供する業務（医療機関等の申出に応じて当該物品を調達し、及び提供する業務を含む。）</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="2">
-            <ItemTitle>二</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1" WritingMode="vertical">前号に掲げる業務に附帯する業務</Sentence>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-        <Paragraph Num="2">
-          <ParagraphNum>２</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">前項の規定により支払基金が同項の業務を行う場合には、第二十五条第一項中「（以下「医療機関等情報化補助業務」という。）、同項第二号」とあるのは「並びに附則第一条の三第一項の規定により行う同項各号に掲げる業務（以下「医療機関等情報化補助業務」という。）、前条の規定により行う同条第一項第二号」と、「同条第二項各号」とあるのは「同条の規定により行う同条第二項各号」と、「同条第三項各号」とあるのは「同条の規定により行う同条第三項各号」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -2731,6 +2546,16 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">社会保険診療報酬支払基金（以下「支払基金」という。）（附則第一条第五号に掲げる規定の施行の日（以下「第五号施行日」という。）以後にあっては、医療情報基盤・診療報酬審査支払機構。附則第十三条及び第十四条において同じ。）は、第九号施行日前においても、第六条の規定（附則第一条第九号に掲げる改正規定に限る。）による改正後の地域における医療及び介護の総合的な確保の促進に関する法律第二十四条各号に掲げる業務の実施に必要な準備行為をすることができる。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleCaption>（罰則に関する経過措置）</ArticleCaption>
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">附則第一条第五号及び第九号に掲げる規定の施行前にした行為に対する罰則の適用については、なお従前の例による。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
