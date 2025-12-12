@@ -1778,7 +1778,7 @@
             <ItemTitle>一</ItemTitle>
             <ItemSentence>
               <Column Num="1">
-                <Sentence Num="1" WritingMode="vertical">第二条（就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律の一部を改正する法律附則第五条の改正規定（同条第一項中「、主幹保育教諭、指導保育教諭」を削る部分を除く。）に限る。）及び第三条（教育職員免許法附則第十八項の改正規定に限る。）の規定並びに次条及び附則第八条の規定</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二条（就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律の一部を改正する法律附則第五条の改正規定（同条第一項中「、主幹保育教諭、指導保育教諭、主務保育教諭」を削る部分を除く。）に限る。）及び第三条（教育職員免許法附則第十八項の改正規定に限る。）の規定並びに次条及び附則第八条の規定</Sentence>
               </Column>
               <Column Num="2">
                 <Sentence Num="1" WritingMode="vertical">公布の日</Sentence>
@@ -1821,7 +1821,7 @@
         <Paragraph Num="1">
           <ParagraphNum/>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">第一条の規定（前条第二号に掲げる改正規定を除く。）による改正後の母子保健法（以下この条において「新母子保健法」という。）第八条の三第一項に規定する社会保険診療報酬支払基金及び国民健康保険団体連合会は、前条第四号に掲げる規定の施行の日前においても、新母子保健法第二十二条の二及び第二十二条の十四に規定する業務の実施に必要な準備行為をすることができる。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">第一条の規定（前条第二号に掲げる改正規定を除く。）による改正後の母子保健法（以下この条において「新母子保健法」という。）第八条の三第一項に規定する医療情報基盤・診療報酬審査支払機構及び国民健康保険団体連合会は、前条第四号に掲げる規定の施行の日前においても、新母子保健法第二十二条の二及び第二十二条の十四に規定する業務の実施に必要な準備行為をすることができる。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -1832,6 +1832,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">附則第二条から前条までに規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年六月一八日法律第六八号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和八年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
