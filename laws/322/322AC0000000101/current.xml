@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="101" Year="22" PromulgateMonth="09" PromulgateDay="05"><LawNum>昭和二十二年法律第百一号</LawNum><LawBody><LawTitle Kana="ちいきほけんほう" Abbrev="" AbbrevKana="">地域保健法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="22" Num="101" PromulgateMonth="09" PromulgateDay="05" LawType="Act"><LawNum>昭和二十二年法律第百一号</LawNum><LawBody><LawTitle Kana="ちいきほけんほう" Abbrev="" AbbrevKana="">地域保健法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -156,7 +156,7 @@
           <Paragraph Num="2" OldNum="true" OldStyle="false">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県は、前項の規定により保健所を設置する場合においては、保健医療に係る施策と社会福祉に係る施策との有機的な連携を図るため、医療法（昭和二十三年法律第二百五号）第三十条の四第二項第十四号に規定する区域及び介護保険法（平成九年法律第百二十三号）第百十八条第二項第一号に規定する区域を参酌して、保健所の所管区域を設定しなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、前項の規定により保健所を設置する場合においては、保健医療に係る施策と社会福祉に係る施策との有機的な連携を図るため、医療法（昭和二十三年法律第二百五号）第三十条の四第二項第十二号に規定する区域及び介護保険法（平成九年法律第百二十三号）第百十八条第二項第一号に規定する区域を参酌して、保健所の所管区域を設定しなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1142,6 +1142,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前三条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一二月一二日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和九年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
