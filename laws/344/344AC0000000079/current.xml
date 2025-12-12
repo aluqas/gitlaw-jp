@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="079" Year="44" PromulgateMonth="12" PromulgateDay="08"><LawNum>昭和四十四年法律第七十九号</LawNum><LawBody><LawTitle Kana="おがさわらしょとうしんこうかいはつとくべつそちほう" Abbrev="小笠原法" AbbrevKana="お">小笠原諸島振興開発特別措置法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="44" Num="079" PromulgateMonth="12" PromulgateDay="08" LawType="Act"><LawNum>昭和四十四年法律第七十九号</LawNum><LawBody><LawTitle Kana="おがさわらしょとうしんこうかいはつとくべつそちほう" Abbrev="小笠原法" AbbrevKana="お">小笠原諸島振興開発特別措置法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1003,7 +1003,7 @@
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">東京都は、医療法（昭和二十三年法律第二百五号）第三十条の四第一項に規定する医療計画を作成するに当たつては、小笠原諸島における医療の特殊事情に鑑み、小笠原諸島において必要な医療が確保されるよう適切な配慮をするものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">東京都は、医療法（昭和二十三年法律第二百五号）第三十条の三の三第一項に規定する地域医療構想及び同法第三十条の四第一項に規定する医療計画を作成するに当たつては、小笠原諸島における医療の特殊事情に鑑み、小笠原諸島において必要な医療が確保されるよう適切な配慮をするものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -2807,6 +2807,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前二条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一二月一二日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和九年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
