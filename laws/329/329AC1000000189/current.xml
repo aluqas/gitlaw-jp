@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Showa" Lang="ja" LawType="Act" Num="189" Year="29" PromulgateMonth="06" PromulgateDay="21"><LawNum>昭和二十九年法律第百八十九号</LawNum><LawBody><LawTitle Kana="あまみぐんとうしんこうかいはつとくべつそちほう" Abbrev="奄美法,奄振法" AbbrevKana="あ,あ">奄美群島振興開発特別措置法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="29" Num="189" PromulgateMonth="06" PromulgateDay="21" LawType="Act"><LawNum>昭和二十九年法律第百八十九号</LawNum><LawBody><LawTitle Kana="あまみぐんとうしんこうかいはつとくべつそちほう" Abbrev="奄美法,奄振法" AbbrevKana="あ,あ">奄美群島振興開発特別措置法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -1099,7 +1099,7 @@
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">鹿児島県は、医療法（昭和二十三年法律第二百五号）第三十条の四第一項に規定する医療計画を作成するに当たつては、奄美群島における医療の特殊事情に鑑み、奄美群島において必要な医療が確保されるよう適切な配慮をするものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">鹿児島県は、医療法（昭和二十三年法律第二百五号）第三十条の三の三第一項に規定する地域医療構想及び同法第三十条の四第一項に規定する医療計画を作成するに当たつては、奄美群島における医療の特殊事情に鑑み、奄美群島において必要な医療が確保されるよう適切な配慮をするものとする。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="9">
@@ -4039,6 +4039,19 @@
           <ParagraphNum/>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">前二条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一二月一二日法律第八七号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">この法律は、令和九年四月一日から施行する。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
