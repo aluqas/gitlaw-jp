@@ -35,7 +35,7 @@
       </TOCChapter>
       <TOCChapter Num="7">
         <ChapterTitle>第七章　雑則</ChapterTitle>
-        <ArticleRange>（第三十二条―第四十二条）</ArticleRange>
+        <ArticleRange>（第三十一条の二―第四十二条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="8">
         <ChapterTitle>第八章　罰則</ChapterTitle>
@@ -311,18 +311,24 @@
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1">指定特定医療を受けようとする支給認定患者等は、厚生労働省令で定めるところにより、第三項の規定により定められた指定医療機関に医療受給者証を提示して指定特定医療を受けるものとする。</Sentence>
-                <Sentence Function="proviso" Num="2">ただし、緊急の場合その他やむを得ない事由のある場合については、医療受給者証を提示することを要しない。</Sentence>
+                <Sentence Function="main" Num="1">支給認定を受けた指定難病の患者の保護者が当該患者に指定特定医療を受けさせるとき、又は支給認定を受けた指定難病の患者が指定特定医療を受けるときは、厚生労働省令で定めるところにより、医療受給者証の提示、電子資格確認その他厚生労働省令で定める方法により、当該指定特定医療を受ける者が支給認定を受けた指定難病の患者であることについて、第三項の規定により定められた指定医療機関の確認を受けるものとする。</Sentence>
+                <Sentence Function="proviso" Num="2">ただし、緊急の場合その他やむを得ない事由のある場合については、当該確認を受けることを要しない。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="7">
               <ParagraphNum>７</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1">支給認定を受けた指定難病の患者が第三項の規定により定められた指定医療機関から指定特定医療を受けたとき（当該支給認定患者等が当該指定医療機関に医療受給者証を提示したときに限る。）は、都道府県は、当該支給認定患者等が当該指定医療機関に支払うべき当該指定特定医療に要した費用について、特定医療費として当該支給認定患者等に支給すべき額の限度において、当該支給認定患者等に代わり、当該指定医療機関に支払うことができる。</Sentence>
+                <Sentence Num="1">前項の「電子資格確認」とは、支給認定を受けた指定難病の患者が、都道府県に対し、個人番号カード（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードをいう。）に記録された利用者証明用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第二十二条第一項に規定する利用者証明用電子証明書をいう。）を送信する方法その他の厚生労働省令で定める方法により、指定難病の患者に係る支給認定の情報（特定医療費の請求に必要な情報を含む。）の照会を行い、電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法により、都道府県から回答を受けて当該情報を指定特定医療を受ける指定医療機関に提供し、当該指定医療機関から支給認定を受けた指定難病の患者であることの確認を受けることをいう。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="8">
               <ParagraphNum>８</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1">支給認定を受けた指定難病の患者が第三項の規定により定められた指定医療機関から指定特定医療を受けたとき（当該支給認定患者等が当該指定医療機関による第六項の規定による確認を受けたときに限る。）は、都道府県は、当該支給認定患者等が当該指定医療機関に支払うべき当該指定特定医療に要した費用について、特定医療費として当該支給認定患者等に支給すべき額の限度において、当該支給認定患者等に代わり、当該指定医療機関に支払うことができる。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Num="9">
+              <ParagraphNum>９</ParagraphNum>
               <ParagraphSentence>
                 <Sentence Num="1">前項の規定による支払があったときは、当該支給認定患者等に対し、特定医療費の支給があったものとみなす。</Sentence>
               </ParagraphSentence>
@@ -798,7 +804,7 @@
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1">都道府県知事は、指定医療機関の診療内容及び特定医療費の請求を随時審査し、かつ、指定医療機関が第七条第七項の規定によって請求することができる特定医療費の額を決定することができる。</Sentence>
+                <Sentence Num="1">都道府県知事は、指定医療機関の診療内容及び特定医療費の請求を随時審査し、かつ、指定医療機関が第七条第八項の規定によって請求することができる特定医療費の額を決定することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
@@ -816,7 +822,7 @@
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1">都道府県は、指定医療機関に対する特定医療費の支払に関する事務を医療情報基盤・診療報酬審査支払機構、国民健康保険法第四十五条第五項に規定する国民健康保険団体連合会その他厚生労働省令で定める者に委託することができる。</Sentence>
+                <Sentence Num="1">都道府県は、指定医療機関に対する特定医療費の支払に関する事務を医療情報基盤・診療報酬審査支払機構、国民健康保険法第四十五条第五項に規定する国民健康保険団体連合会（第三十一条の二第一項において単に「国民健康保険団体連合会」という。）その他厚生労働省令で定める者に委託することができる。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
@@ -1154,6 +1160,32 @@
       </Chapter>
       <Chapter Num="7">
         <ChapterTitle>第七章　雑則</ChapterTitle>
+        <Article Num="31_2">
+          <ArticleCaption>（医療情報基盤・診療報酬審査支払機構等への事務の委託）</ArticleCaption>
+          <ArticleTitle>第三十一条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">都道府県は、第二十五条第四項に規定する事務のほか、特定医療費の支給に係る支給認定を受けた指定難病の患者又は支給認定を受けた指定難病の患者であった者に係る情報の収集若しくは整理又は利用若しくは提供に関する事務を、医療情報基盤・診療報酬審査支払機構又は国民健康保険団体連合会に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1">都道府県は、前項の規定により事務を委託する場合は、同項の規定により事務を委託する他の都道府県、医療情報基盤・診療報酬審査支払機構法第一条に規定する保険者、当該事務以外の法令の規定による医療に関する給付に係る事務を行う者であって厚生労働省令で定めるもの並びに介護保険法（平成九年法律第百二十三号）第三条の規定により介護保険を行う市町村及び特別区その他厚生労働省令で定める者と共同して委託するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31_3">
+          <ArticleCaption>（関係者の連携及び協力）</ArticleCaption>
+          <ArticleTitle>第三十一条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">国及び都道府県並びに指定医療機関その他の関係者は、第七条第七項に規定する電子資格確認の仕組みの導入その他手続における情報通信の技術の利用を推進し、もって高齢者の医療の確保に関する法律第七条第一項に規定する医療保険各法、高齢者の医療の確保に関する法律その他医療に関する給付を定める法令の規定により行われる事務の円滑な実施に資するよう、相互に連携を図りながら協力するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
         <Article Num="32">
           <ArticleCaption>（難病対策地域協議会）</ArticleCaption>
           <ArticleTitle>第三十二条</ArticleTitle>
