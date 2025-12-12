@@ -16,7 +16,7 @@
       </TOCChapter>
       <TOCChapter Num="4">
         <ChapterTitle>第四章　保健指導等</ChapterTitle>
-        <ArticleRange>（第十七条―第十九条の五）</ArticleRange>
+        <ArticleRange>（第十七条―第十九条の十九）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="5">
         <ChapterTitle>第五章　特定給食施設</ChapterTitle>
@@ -38,12 +38,20 @@
         <ArticleRange>（第四十三条―第六十七条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="8">
-        <ChapterTitle>第八章　雑則</ChapterTitle>
-        <ArticleRange>（第六十八条・第六十九条）</ArticleRange>
+        <ChapterTitle>第八章　医療情報基盤・診療報酬審査支払機構の業務</ChapterTitle>
+        <ArticleRange>（第六十七条の二―第六十七条の十一）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="9">
-        <ChapterTitle>第九章　罰則</ChapterTitle>
-        <ArticleRange>（第七十条―第七十八条）</ArticleRange>
+        <ChapterTitle>第九章　国民健康保険団体連合会の業務</ChapterTitle>
+        <ArticleRange>（第六十七条の十二―第六十七条の十六）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="10">
+        <ChapterTitle>第十章　雑則</ChapterTitle>
+        <ArticleRange>（第六十八条・第六十九条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Num="11">
+        <ChapterTitle>第十一章　罰則</ChapterTitle>
+        <ArticleRange>（第七十条―第八十二条）</ArticleRange>
       </TOCChapter>
       <TOCSupplProvision>
         <SupplProvisionLabel>附則</SupplProvisionLabel>
@@ -519,23 +527,337 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">市町村は、第十七条第一項に規定する業務に係る事業以外の健康増進事業であって厚生労働省令で定めるものの実施に努めるものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、第十七条第一項に規定する業務に係る事業以外の健康増進事業であって厚生労働省令で定める検診（以下「市町村検診」という。）その他厚生労働省令で定めるものの実施に努めるものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、市町村検診又は市町村検診以外の市町村が実施する健康増進事業（厚生労働省令で定めるものに限る。）（以下この条及び次条において「市町村検診等」という。）を行うに当たっては、電子対象者確認の方法により、当該市町村検診等を受けようとする者が当該市町村検診等の対象者であることの確認を行うことができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の「電子対象者確認」とは、市町村が、市町村検診等を受けようとする者の個人番号カード（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第七項に規定する個人番号カードをいう。）に記録された利用者証明用電子証明書（電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第二十二条第一項に規定する利用者証明用電子証明書をいう。）の提供を受ける方法その他の厚生労働省令で定める方法により、当該者が当該市町村検診等の対象者であることを確認することをいう。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="19_3">
-          <ArticleCaption>（都道府県による健康増進事業に対する技術的援助等の実施）</ArticleCaption>
+          <ArticleCaption>（機構等への事務の委託）</ArticleCaption>
           <ArticleTitle>第十九条の三</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">都道府県は、前条の規定により市町村が行う事業の実施に関し、市町村相互間の連絡調整を行い、及び市町村の求めに応じ、その設置する保健所による技術的事項についての協力その他当該市町村に対する必要な援助を行うものとする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、市町村検診等の対象者に係る情報の収集若しくは整理又は利用若しくは提供に関する事務の全部又は一部を医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号）による医療情報基盤・診療報酬審査支払機構（以下「機構」という。）又は国民健康保険法第四十五条第五項に規定する国民健康保険団体連合会（以下「連合会」という。）に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、前項の規定により事務を委託する場合は、同項の規定により事務を委託する他の市町村、医療情報基盤・診療報酬審査支払機構法第一条に規定する保険者、法令の規定により医療に関する給付に係る事務を行う者であって厚生労働省令で定めるもの及び介護保険法第三条の規定により介護保険を行う市町村その他厚生労働省令で定める者と共同して委託するものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村は、市町村検診等の実施に関する事務を委託した者に対する当該事務の処理に要する費用の支払に関する事務の全部又は一部を連合会に委託することができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
         <Article Num="19_4">
-          <ArticleCaption>（健康増進事業の実施に関する情報の提供の求め）</ArticleCaption>
+          <ArticleCaption>（都道府県による健康増進事業に対する技術的援助等の実施）</ArticleCaption>
           <ArticleTitle>第十九条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">都道府県は、第十九条の二第一項の規定により市町村が行う事業の実施に関し、市町村相互間の連絡調整を行い、及び市町村の求めに応じ、その設置する保健所による技術的事項についての協力その他当該市町村に対する必要な援助を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_5">
+          <ArticleCaption>（厚生労働大臣の調査等）</ArticleCaption>
+          <ArticleTitle>第十九条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、市町村検診による疾病の早期発見の状況に関する調査その他の国民の健康の増進を図るために必要な調査及び研究を行うものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">市町村検診を実施する市町村の長は、厚生労働省令で定めるところにより、厚生労働大臣に対し、市町村検診の実施状況に関する情報その他の前項の規定による調査及び研究の実施に必要な情報として厚生労働省令で定めるものを提供しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_6">
+          <ArticleCaption>（国民保健の向上のための匿名市町村検診等関連情報の利用又は提供）</ArticleCaption>
+          <ArticleTitle>第十九条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、国民保健の向上に資するため、匿名市町村検診等関連情報（市町村検診等関連情報（前条第二項の規定により提供された情報をいう。以下同じ。）に係る特定の市町村検診の対象者その他の厚生労働省令で定める者（次条及び第十九条の十一第一項において「本人」という。）を識別すること及びその作成に用いる市町村検診等関連情報を復元することができないようにするために厚生労働省令で定める基準に従い加工した市町村検診等関連情報をいう。以下同じ。）を利用し、又は厚生労働省令で定めるところにより、次の各号に掲げる者であって、匿名市町村検診等関連情報の提供を受けて行うことについて相当の公益性を有すると認められる業務としてそれぞれ当該各号に定めるものを行うものに提供することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国の他の行政機関及び地方公共団体</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国民の健康の増進及び健康増進事業に関する施策の企画及び立案に関する調査</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">大学その他の研究機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国民の健康の増進及び健康増進事業に関する研究</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">民間事業者その他の厚生労働省令で定める者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">保健分野の調査研究に関する分析その他の厚生労働省令で定める業務（特定の商品又は役務の広告又は宣伝に利用するために行うものを除く。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の規定による利用又は提供を行う場合には、当該匿名市町村検診等関連情報を地域における医療及び介護の総合的な確保の促進に関する法律（平成元年法律第六十四号）第十二条の六第一項に規定する匿名電子診療録等情報、高齢者の医療の確保に関する法律第十六条の二第一項に規定する匿名医療保険等関連情報その他の厚生労働省令で定めるものと連結して利用し、又は連結して利用することができる状態で提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第一項の規定により匿名市町村検診等関連情報を提供しようとする場合には、あらかじめ、厚生科学審議会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_7">
+          <ArticleCaption>（照合等の禁止）</ArticleCaption>
+          <ArticleTitle>第十九条の七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前条第一項の規定により匿名市町村検診等関連情報の提供を受け、これを利用する者（以下「匿名市町村検診等関連情報利用者」という。）は、匿名市町村検診等関連情報を取り扱うに当たっては、当該匿名市町村検診等関連情報の作成に用いられた市町村検診等関連情報に係る本人を識別するために、当該市町村検診等関連情報から削除された記述等（文書、図画若しくは電磁的記録（電磁的方式（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式をいう。）で作られる記録をいう。）に記載され、若しくは記録され、又は音声、動作その他の方法を用いて表された一切の事項をいう。）若しくは匿名市町村検診等関連情報の作成に用いられた加工の方法に関する情報を取得し、又は当該匿名市町村検診等関連情報を他の情報と照合してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_8">
+          <ArticleCaption>（消去）</ArticleCaption>
+          <ArticleTitle>第十九条の八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">匿名市町村検診等関連情報利用者は、提供を受けた匿名市町村検診等関連情報を利用する必要がなくなったときは、遅滞なく、当該匿名市町村検診等関連情報を消去しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_9">
+          <ArticleCaption>（安全管理措置）</ArticleCaption>
+          <ArticleTitle>第十九条の九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">匿名市町村検診等関連情報利用者は、匿名市町村検診等関連情報の漏えい、滅失又は毀損の防止その他の当該匿名市町村検診等関連情報の安全管理のために必要かつ適切なものとして厚生労働省令で定める措置を講じなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_10">
+          <ArticleCaption>（利用者の義務）</ArticleCaption>
+          <ArticleTitle>第十九条の十</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">匿名市町村検診等関連情報利用者又は匿名市町村検診等関連情報利用者であった者は、匿名市町村検診等関連情報の利用に関して知り得た匿名市町村検診等関連情報の内容をみだりに他人に知らせ、又は不当な目的に利用してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_11">
+          <ArticleCaption>（国民保健の向上のための仮名市町村検診等関連情報の利用又は提供）</ArticleCaption>
+          <ArticleTitle>第十九条の十一</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、国民保健の向上に資するため、仮名市町村検診等関連情報（市町村検診等関連情報に係る本人を他の情報と照合しない限り識別することができないようにするために厚生労働省令で定める基準に従い加工した市町村検診等関連情報をいう。以下同じ。）を利用することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、国民保健の向上に資するため、次の各号に掲げる者であって仮名市町村検診等関連情報の提供を受けて行うことについて相当の公益性を有すると認められる業務として当該各号に定めるものを行うものが当該業務を行うために仮名市町村検診等関連情報を利用する必要があると認めるときは、厚生労働省令で定めるところにより、当該者に当該仮名市町村検診等関連情報を提供することができる。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">国の他の行政機関及び地方公共団体</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国民の健康の増進及び健康増進事業に関する施策の企画及び立案に関する調査</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">大学その他の研究機関</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">国民の健康の増進及び健康増進事業に関する研究</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Column Num="1">
+                  <Sentence Num="1" WritingMode="vertical">民間事業者その他の厚生労働省令で定める者</Sentence>
+                </Column>
+                <Column Num="2">
+                  <Sentence Num="1" WritingMode="vertical">保健分野の調査研究に関する分析その他の厚生労働省令で定める業務（特定の商品又は役務の広告又は宣伝に利用するために行うものを除く。）</Sentence>
+                </Column>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前二項の規定による利用又は提供を行う場合には、当該仮名市町村検診等関連情報を地域における医療及び介護の総合的な確保の促進に関する法律第十二条の十一第一項に規定する仮名電子診療録等情報、高齢者の医療の確保に関する法律第十六条の七第一項に規定する仮名医療保険等関連情報その他の厚生労働省令で定めるものと連結して利用し、又は連結して利用することができる状態で提供することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第二項の規定により仮名市町村検診等関連情報を提供しようとする場合には、あらかじめ、厚生科学審議会の意見を聴かなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_12">
+          <ArticleCaption>（仮名市町村検診等関連情報の提供を受ける者に対する利用目的等の制限の要求等）</ArticleCaption>
+          <ArticleTitle>第十九条の十二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前条第二項の規定に基づき、仮名市町村検診等関連情報を提供する場合において、必要があると認めるときは、同項の規定により仮名市町村検診等関連情報の提供を受け、これを利用する者（以下「仮名市町村検診等関連情報利用者」という。）に対し、提供に係る仮名市町村検診等関連情報について、その利用の目的又は方法の制限その他必要な制限を付すものとする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">個人情報の保護に関する法律（平成十五年法律第五十七号）第六十八条及び第七十六条から第百七条までの規定は、厚生労働大臣が前条第一項又は第二項の規定により仮名市町村検診等関連情報を利用し、又は提供する場合については、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_13">
+          <ArticleCaption>（準用）</ArticleCaption>
+          <ArticleTitle>第十九条の十三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十九条の七から第十九条の十までの規定は、仮名市町村検診等関連情報利用者による仮名市町村検診等関連情報の取扱いについて準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_14">
+          <ArticleCaption>（立入検査等）</ArticleCaption>
+          <ArticleTitle>第十九条の十四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、この章の規定の施行に必要な限度において、匿名市町村検診等関連情報利用者及び仮名市町村検診等関連情報利用者（国の他の行政機関を除く。以下この項及び次条において「匿名・仮名市町村検診等関連情報利用者」という。）に対し報告若しくは帳簿書類の提出若しくは提示を命じ、又は当該職員に関係者に対して質問させ、若しくは匿名・仮名市町村検診等関連情報利用者の事務所その他の事業所に立ち入り、匿名・仮名市町村検診等関連情報利用者の帳簿書類その他の物件を検査させることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の規定による質問又は立入検査を行う場合においては、当該職員は、その身分を示す証明書を携帯し、かつ、関係人の請求があるときは、これを提示しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定による権限は、犯罪捜査のために認められたものと解釈してはならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_15">
+          <ArticleCaption>（是正命令）</ArticleCaption>
+          <ArticleTitle>第十九条の十五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、匿名・仮名市町村検診等関連情報利用者が第十九条の七から第十九条の十までの規定（これらの規定を第十九条の十三において準用する場合を含む。）又は第十九条の十二第一項の規定（次条第二項において準用する場合を含む。）により付した制限に違反していると認めるときは、その者に対し、当該違反を是正するため必要な措置をとるべきことを命ずることができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_16">
+          <ArticleCaption>（機構等への委託）</ArticleCaption>
+          <ArticleTitle>第十九条の十六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、第十九条の五第一項の規定による調査及び研究並びに第十九条の六第一項の規定による匿名市町村検診等関連情報の利用及び提供並びに第十九条の十一第一項及び第二項の規定による仮名市町村検診等関連情報の利用及び提供に係る事務の全部又は一部を機構又は連合会その他厚生労働省令で定める者（次条において「機構等」という。）に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十九条の十二第一項の規定は、前項の規定による委託を受けた者が当該委託に基づいて仮名市町村検診等関連情報の提供を行う場合について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">個人情報の保護に関する法律第六十八条及び第七十六条から第百七条までの規定は、第一項の規定による委託を受けた者が当該委託に基づいて仮名市町村検診等関連情報を利用し、又は提供する場合については、適用しない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_17">
+          <ArticleCaption>（手数料）</ArticleCaption>
+          <ArticleTitle>第十九条の十七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">匿名市町村検診等関連情報利用者は、実費を勘案して政令で定める額の手数料を国（前条第一項の規定により厚生労働大臣からの委託を受けて、機構等が第十九条の六第一項の規定による匿名市町村検診等関連情報の提供に係る事務の全部を行う場合にあっては、機構等）に納めなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項の手数料を納めようとする者が都道府県その他の国民保健の向上のために特に重要な役割を果たす者として政令で定める者であるときは、政令で定めるところにより、当該手数料を減額し、又は免除することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第一項の規定により機構等に納められた手数料は、機構等の収入とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4">
+            <ParagraphNum>４</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前三項の規定は、仮名市町村検診等関連情報利用者が第十九条の十一第二項の規定による仮名市町村検診等関連情報の提供を受ける場合の手数料について準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19_18">
+          <ArticleCaption>（健康増進事業の実施に関する情報の提供の求め）</ArticleCaption>
+          <ArticleTitle>第十九条の十八</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -549,13 +871,13 @@
             </ParagraphSentence>
           </Paragraph>
         </Article>
-        <Article Num="19_5">
+        <Article Num="19_19">
           <ArticleCaption>（報告の徴収）</ArticleCaption>
-          <ArticleTitle>第十九条の五</ArticleTitle>
+          <ArticleTitle>第十九条の十九</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事は、市町村に対し、必要があると認めるときは、第十七条第一項に規定する業務及び第十九条の二に規定する事業の実施の状況に関する報告を求めることができる。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣又は都道府県知事は、市町村に対し、必要があると認めるときは、第十七条第一項に規定する業務及び第十九条の二第一項に規定する事業の実施の状況に関する報告を求めることができる。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -1654,7 +1976,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">登録試験機関は、毎事業年度経過後三月以内に、その事業年度の財産目録、貸借対照表及び損益計算書又は収支計算書並びに事業報告書（その作成に代えて電磁的記録（電子的方式、磁気的方式その他の人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下この条において同じ。）の作成がされている場合における当該電磁的記録を含む。次項及び第七十八条第三号において「財務諸表等」という。）を作成し、五年間事業所に備えて置かなければならない。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">登録試験機関は、毎事業年度経過後三月以内に、その事業年度の財産目録、貸借対照表及び損益計算書又は収支計算書並びに事業報告書（その作成に代えて電磁的記録（電子的方式、磁気的方式その他の人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下この条において同じ。）の作成がされている場合における当該電磁的記録を含む。次項及び第八十一条第三号において「財務諸表等」という。）を作成し、五年間事業所に備えて置かなければならない。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="2">
@@ -1944,7 +2266,7 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">本邦において販売に供する食品であって、第四十三条第一項の規定による許可又は前条第一項の規定による承認を受けずに特別用途表示がされたものを輸入しようとする者については、その者を第四十三条第一項に規定する特別用途表示をしようとする者とみなして、同条及び第七十二条第二号の規定を適用する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">本邦において販売に供する食品であって、第四十三条第一項の規定による許可又は前条第一項の規定による承認を受けずに特別用途表示がされたものを輸入しようとする者については、その者を第四十三条第一項に規定する特別用途表示をしようとする者とみなして、同条及び第七十三条第三号の規定を適用する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
         </Article>
@@ -2010,7 +2332,293 @@
         </Article>
       </Chapter>
       <Chapter Num="8">
-        <ChapterTitle>第八章　雑則</ChapterTitle>
+        <ChapterTitle>第八章　医療情報基盤・診療報酬審査支払機構の業務</ChapterTitle>
+        <Article Num="67_2">
+          <ArticleCaption>（機構の業務）</ArticleCaption>
+          <ArticleTitle>第六十七条の二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、医療情報基盤・診療報酬審査支払機構法第十八条に規定する業務のほか、第一条に規定する目的を達成するため、次に掲げる業務を行う。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の三第一項の規定により市町村から委託を受けて行う同項に規定する事務に関する業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の十六第一項の規定により厚生労働大臣から委託を受けて行う次に掲げる業務</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第十九条の五第一項の規定による調査及び研究に係る事務に関する業務</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第十九条の六第一項の規定による匿名市町村検診等関連情報の利用及び提供に係る事務に関する業務</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第十九条の十一第一項及び第二項の規定による仮名市町村検診等関連情報の利用及び提供に係る事務に関する業務</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げる業務に附帯する業務</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="67_3">
+          <ArticleCaption>（業務の委託）</ArticleCaption>
+          <ArticleTitle>第六十七条の三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、厚生労働大臣の認可を受けて、前条の規定により行う同条第一号に掲げる業務及びこれに附帯する業務（以下「機構市町村検診等対象者情報収集等業務」という。）並びに同条の規定により行う同条第二号に掲げる業務及びこれに附帯する業務（以下「機構市町村検診等調査等業務」という。）の全部又は一部を連合会その他厚生労働省令で定める者に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67_4">
+          <ArticleCaption>（業務方法書）</ArticleCaption>
+          <ArticleTitle>第六十七条の四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、機構市町村検診等対象者情報収集等業務及び機構市町村検診等調査等業務に関し、これらの業務の開始前に、業務方法書を作成し、厚生労働大臣の認可を受けなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">これを変更するときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">前項の業務方法書に記載すべき事項は、厚生労働省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67_5">
+          <ArticleCaption>（区分経理）</ArticleCaption>
+          <ArticleTitle>第六十七条の五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、機構市町村検診等対象者情報収集等業務及び機構市町村検診等調査等業務に係る経理については、その他の業務に係る経理と区分して、特別の会計を設けて行わなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67_6">
+          <ArticleCaption>（予算等の認可）</ArticleCaption>
+          <ArticleTitle>第六十七条の六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、機構市町村検診等対象者情報収集等業務及び機構市町村検診等調査等業務に関し、毎事業年度、予算、事業計画及び資金計画を作成し、当該事業年度の開始前に、厚生労働大臣の認可を受けなければならない。</Sentence>
+              <Sentence Num="2" WritingMode="vertical">これを変更するときも、同様とする。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67_7">
+          <ArticleCaption>（財務諸表等）</ArticleCaption>
+          <ArticleTitle>第六十七条の七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、機構市町村検診等対象者情報収集等業務及び機構市町村検診等調査等業務に関し、毎事業年度、財産目録、貸借対照表及び損益計算書（以下この条において「財務諸表」という。）を作成し、当該事業年度の終了後三月以内に厚生労働大臣に提出し、その承認を受けなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、前項の規定により財務諸表を厚生労働大臣に提出するときは、厚生労働省令で定めるところにより、これに当該事業年度の事業報告書及び予算の区分に従い作成した決算報告書並びに財務諸表及び決算報告書に関する監事の意見書を添付しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3">
+            <ParagraphNum>３</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、第一項の規定による厚生労働大臣の承認を受けたときは、遅滞なく、財務諸表又はその要旨を官報に公告し、かつ、財務諸表及び附属明細書並びに前項の事業報告書、決算報告書及び監事の意見書を、主たる事務所に備えて置き、厚生労働省令で定める期間、一般の閲覧に供しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67_8">
+          <ArticleCaption>（余裕金の運用）</ArticleCaption>
+          <ArticleTitle>第六十七条の八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構は、次の方法によるほか、機構市町村検診等対象者情報収集等業務及び機構市町村検診等調査等業務に係る業務上の余裕金を運用してはならない。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">国債その他厚生労働大臣が指定する有価証券の保有</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">銀行その他厚生労働大臣が指定する金融機関への預金</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">信託業務を営む金融機関（金融機関の信託業務の兼営等に関する法律（昭和十八年法律第四十三号）第一条第一項の認可を受けた金融機関をいう。）への金銭信託</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">厚生労働大臣は、前項第一号又は第二号の規定による指定をしようとするときは、あらかじめ、財務大臣に協議しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67_9">
+          <ArticleCaption>（報告の徴収等）</ArticleCaption>
+          <ArticleTitle>第六十七条の九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">厚生労働大臣は、機構又は第六十七条の三の規定による委託を受けた者（以下「機構業務受託者」という。）について、機構市町村検診等対象者情報収集等業務及び機構市町村検診等調査等業務に関し必要があると認めるときは、その業務又は財産の状況に関する報告をさせ、又は当該職員に実地にその状況を検査させることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、機構業務受託者に対しては、当該受託業務の範囲内に限る。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十九条の十四第二項の規定は前項の規定による検査について、同条第三項の規定は前項の規定による権限について、それぞれ準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67_10">
+          <ArticleCaption>（医療情報基盤・診療報酬審査支払機構法の適用の特例）</ArticleCaption>
+          <ArticleTitle>第六十七条の十</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構市町村検診等対象者情報収集等業務及び機構市町村検診等調査等業務は、医療情報基盤・診療報酬審査支払機構法第四十三条第二項の規定の適用については、同法第十八条に規定する業務とみなす。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67_11">
+          <ArticleCaption>（厚生労働省令への委任）</ArticleCaption>
+          <ArticleTitle>第六十七条の十一</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この章に規定するもののほか、機構市町村検診等対象者情報収集等業務及び機構市町村検診等調査等業務に関し必要な事項は、厚生労働省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="9">
+        <ChapterTitle>第九章　国民健康保険団体連合会の業務</ChapterTitle>
+        <Article Num="67_12">
+          <ArticleCaption>（連合会の業務）</ArticleCaption>
+          <ArticleTitle>第六十七条の十二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、国民健康保険法第八十五条の三に規定する業務のほか、第一条に規定する目的を達成するため、次に掲げる業務を行う。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の三第一項及び第三項の規定により市町村から委託を受けて行うこれらの規定に規定する事務に関する業務</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の十六第一項の規定により厚生労働大臣から委託を受けて行う次に掲げる業務</Sentence>
+              </ItemSentence>
+              <Subitem1 Num="1">
+                <Subitem1Title>イ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第十九条の五第一項の規定による調査及び研究に係る事務に関する業務</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="2">
+                <Subitem1Title>ロ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第十九条の六第一項の規定による匿名市町村検診等関連情報の利用及び提供に係る事務に関する業務</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+              <Subitem1 Num="3">
+                <Subitem1Title>ハ</Subitem1Title>
+                <Subitem1Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第十九条の十一第一項及び第二項の規定による仮名市町村検診等関連情報の利用及び提供に係る事務に関する業務</Sentence>
+                </Subitem1Sentence>
+              </Subitem1>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">前二号に掲げる業務に附帯する業務</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="67_13">
+          <ArticleCaption>（業務の委託）</ArticleCaption>
+          <ArticleTitle>第六十七条の十三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、前条の規定により行う同条第一号に掲げる業務及びこれに附帯する業務（以下「連合会市町村検診等対象者情報収集等業務」という。）並びに同条の規定により行う同条第二号に掲げる業務及びこれに附帯する業務（以下「連合会市町村検診等調査等業務」という。）の全部又は一部を機構その他厚生労働省令で定める者に委託することができる。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67_14">
+          <ArticleCaption>（区分経理）</ArticleCaption>
+          <ArticleTitle>第六十七条の十四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">連合会は、連合会市町村検診等対象者情報収集等業務及び連合会市町村検診等調査等業務に係る経理については、その他の経理と区分して整理しなければならない。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67_15">
+          <ArticleCaption>（報告の徴収等）</ArticleCaption>
+          <ArticleTitle>第六十七条の十五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">厚生労働大臣は、連合会又は第六十七条の十三の規定による委託を受けた者（以下「連合会業務受託者」という。）について、連合会市町村検診等対象者情報収集等業務及び連合会市町村検診等調査等業務に関し必要があると認めるときは、その業務又は財産の状況に関する報告をさせ、又は当該職員に実地にその状況を検査させることができる。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、連合会業務受託者に対しては、当該受託業務の範囲内に限る。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第十九条の十四第二項の規定は前項の規定による検査について、同条第三項の規定は前項の規定による権限について、それぞれ準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67_16">
+          <ArticleCaption>（厚生労働省令への委任）</ArticleCaption>
+          <ArticleTitle>第六十七条の十六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">この章に規定するもののほか、連合会市町村検診等対象者情報収集等業務及び連合会市町村検診等調査等業務に関し必要な事項は、厚生労働省令で定める。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="10">
+        <ChapterTitle>第十章　雑則</ChapterTitle>
         <Article Num="68">
           <ArticleCaption>（事務の区分）</ArticleCaption>
           <ArticleTitle>第六十八条</ArticleTitle>
@@ -2056,8 +2664,8 @@
           </Paragraph>
         </Article>
       </Chapter>
-      <Chapter Num="9">
-        <ChapterTitle>第九章　罰則</ChapterTitle>
+      <Chapter Num="11">
+        <ChapterTitle>第十一章　罰則</ChapterTitle>
         <Article Num="70">
           <ArticleTitle>第七十条</ArticleTitle>
           <Paragraph Num="1">
@@ -2084,14 +2692,38 @@
               <Sentence Num="1" WritingMode="vertical">第五十五条の規定による業務の停止の命令に違反したときは、その違反行為をした登録試験機関の役員又は職員は、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
           </Paragraph>
+          <Paragraph Num="5">
+            <ParagraphNum>５</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">機構若しくは連合会の役員若しくは職員若しくはこれらの職にあった者又は機構業務受託者若しくは連合会業務受託者（これらの者が法人である場合にあっては、その役員。第七十五条において同じ。）若しくはこれらの職員その他の当該受託業務に従事する者若しくはこれらの者であった者が、正当な理由がないのに、機構市町村検診等対象者情報収集等業務若しくは機構市町村検診等調査等業務又は連合会市町村検診等対象者情報収集等業務若しくは連合会市町村検診等調査等業務に関して知り得た秘密を漏らしたときは、一年以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
         </Article>
         <Article Num="71">
           <ArticleTitle>第七十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">第六十六条第二項の規定に基づく命令に違反した者は、六月以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした者は、一年以下の拘禁刑若しくは五十万円以下の罰金に処し、又はこれを併科する。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の十の規定に違反して、匿名市町村検診等関連情報の利用に関して知り得た匿名市町村検診等関連情報の内容をみだりに他人に知らせ、又は不当な目的に利用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の十三において準用する第十九条の十の規定に違反して、仮名市町村検診等関連情報の利用に関して知り得た仮名市町村検診等関連情報の内容をみだりに他人に知らせ、又は不当な目的に利用したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の十五の規定による命令に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="72">
@@ -2099,30 +2731,45 @@
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、五十万円以下の罰金に処する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">第六十六条第二項の規定に基づく命令に違反した者は、六月以下の拘禁刑又は百万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="73">
+          <ArticleTitle>第七十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした者は、五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
             <Item Num="1">
               <ItemTitle>一</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十三条第二項の規定に基づく命令に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第十九条の十四第一項の規定による報告若しくは帳簿書類の提出若しくは提示をせず、若しくは虚偽の報告若しくは虚偽の帳簿書類の提出若しくは提示をし、又は同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をし、若しくは同項の規定による立入検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="2">
               <ItemTitle>二</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第四十三条第一項の規定に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第二十三条第二項の規定に基づく命令に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
             <Item Num="3">
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十七条第二項の規定による命令に違反した者</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第四十三条第一項の規定に違反したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第五十七条第二項の規定による命令に違反したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="73">
-          <ArticleTitle>第七十三条</ArticleTitle>
+        <Article Num="74">
+          <ArticleTitle>第七十四条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2154,38 +2801,74 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="74">
-          <ArticleTitle>第七十四条</ArticleTitle>
-          <Paragraph Num="1">
-            <ParagraphNum/>
-            <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する者は、三十万円以下の罰金に処する。</Sentence>
-            </ParagraphSentence>
-            <Item Num="1">
-              <ItemTitle>一</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第二十四条第一項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をした者</Sentence>
-              </ItemSentence>
-            </Item>
-            <Item Num="2">
-              <ItemTitle>二</ItemTitle>
-              <ItemSentence>
-                <Sentence Num="1" WritingMode="vertical">第六十一条第一項（第六十三条第二項において準用する場合を含む。）の規定による検査又は収去を拒み、妨げ、又は忌避した者</Sentence>
-              </ItemSentence>
-            </Item>
-          </Paragraph>
-        </Article>
         <Article Num="75">
           <ArticleTitle>第七十五条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、第七十二条又は前条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して各本条の刑を科する。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした機構若しくは連合会の役員若しくは職員又は機構業務受託者若しくは連合会業務受託者若しくはこれらの職員その他の当該受託業務に従事する者は、五十万円以下の罰金に処する。</Sentence>
             </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十七条の九第一項の規定により報告を求められて、これに従わず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十七条の十五第一項の規定により報告を求められて、これに従わず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
           </Paragraph>
         </Article>
         <Article Num="76">
           <ArticleTitle>第七十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした者は、三十万円以下の罰金に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第二十四条第一項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対して答弁をせず、若しくは虚偽の答弁をしたとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十一条第一項（第六十三条第二項において準用する場合を含む。）の規定による検査又は収去を拒み、妨げ、又は忌避したとき。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="77">
+          <ArticleTitle>第七十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">第七十一条の罪は、日本国外において同条の罪を犯した者にも適用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="78">
+          <ArticleTitle>第七十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">法人（法人でない社団又は財団で代表者又は管理人の定めがあるもの（以下この条において「人格のない社団等」という。）を含む。以下この項において同じ。）の代表者（人格のない社団等の管理人を含む。）又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、第七十一条、第七十三条又は第七十六条の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して各本条の罰金刑を科する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2">
+            <ParagraphNum>２</ParagraphNum>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">人格のない社団等について前項の規定の適用がある場合には、その代表者又は管理人がその訴訟行為につき当該人格のない社団等を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="79">
+          <ArticleTitle>第七十九条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2205,8 +2888,8 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="77">
-          <ArticleTitle>第七十七条</ArticleTitle>
+        <Article Num="80">
+          <ArticleTitle>第八十条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2226,8 +2909,8 @@
             </Item>
           </Paragraph>
         </Article>
-        <Article Num="78">
-          <ArticleTitle>第七十八条</ArticleTitle>
+        <Article Num="81">
+          <ArticleTitle>第八十一条</ArticleTitle>
           <Paragraph Num="1">
             <ParagraphNum/>
             <ParagraphSentence>
@@ -2249,6 +2932,27 @@
               <ItemTitle>三</ItemTitle>
               <ItemSentence>
                 <Sentence Num="1" WritingMode="vertical">第五十二条第一項の規定に違反して財務諸表等を備えて置かず、財務諸表等に記載すべき事項を記載せず、若しくは虚偽の記載をし、又は正当な理由がないのに同条第二項各号の規定による請求を拒んだ者</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="82">
+          <ArticleTitle>第八十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" WritingMode="vertical">次の各号のいずれかに該当する場合には、その違反行為をした機構の役員は、二十万円以下の過料に処する。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第八章の規定により厚生労働大臣の認可又は承認を受けなければならない場合において、その認可又は承認を受けなかったとき。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" WritingMode="vertical">第六十七条の八第一項の規定に違反して機構市町村検診等対象者情報収集等業務又は機構市町村検診等調査等業務に係る業務上の余裕金を運用したとき。</Sentence>
               </ItemSentence>
             </Item>
           </Paragraph>
