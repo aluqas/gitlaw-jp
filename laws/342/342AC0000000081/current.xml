@@ -10586,37 +10586,6 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和五年五月一九日法律第三一号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Function="main" Num="1">この法律は、令和六年四月一日から施行する。</Sentence>
-            <Sentence Function="proviso" Num="2">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
-          </ParagraphSentence>
-          <Item Num="1:5">
-            <ItemTitle>一から五まで</ItemTitle>
-            <ItemSentence>
-              <Sentence Num="1">略</Sentence>
-            </ItemSentence>
-          </Item>
-          <Item Num="6">
-            <ItemTitle>六</ItemTitle>
-            <ItemSentence>
-              <Column Num="1">
-                <Sentence Num="1">第一条中健康保険法第二百五条の四第二項の改正規定、第二条中船員保険法第百五十三条の十第二項の改正規定、第四条中国民健康保険法第百十三条の三第二項の改正規定、第六条中高齢者の医療の確保に関する法律第百六十五条の二第二項の改正規定及び第十四条の規定並びに附則第十九条中私立学校教職員共済法（昭和二十八年法律第二百四十五号）第四十七条の三第二項の改正規定、附則第二十条中国家公務員共済組合法（昭和三十三年法律第百二十八号）第百十四条の二第二項の改正規定、附則第二十一条中地方公務員等共済組合法（昭和三十七年法律第百五十二号）第百四十四条の三十三第二項の改正規定、附則第二十四条（第二号に係る部分に限る。）の規定、附則第二十六条中生活保護法（昭和二十五年法律第百四十四号）第八十条の四第二項の改正規定及び附則第二十九条の規定</Sentence>
-              </Column>
-              <Column Num="2">
-                <Sentence Num="1">公布の日から起算して四年を超えない範囲内において政令で定める日</Sentence>
-              </Column>
-            </ItemSentence>
-          </Item>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
     <SupplProvision AmendLawNum="令和五年六月九日法律第四八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -11221,19 +11190,6 @@
         </Paragraph>
       </Article>
     </SupplProvision>
-    <SupplProvision AmendLawNum="令和六年六月二一日法律第六〇号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Article Num="1">
-        <ArticleCaption>（施行期日）</ArticleCaption>
-        <ArticleTitle>第一条</ArticleTitle>
-        <Paragraph Num="1">
-          <ParagraphNum/>
-          <ParagraphSentence>
-            <Sentence Num="1">この法律は、公布の日から起算して三年を超えない範囲内において政令で定める日から施行する。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-      </Article>
-    </SupplProvision>
     <SupplProvision AmendLawNum="令和七年三月三一日法律第一八号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
       <Article Num="1">
@@ -11543,17 +11499,6 @@
           </ParagraphSentence>
         </Paragraph>
       </Article>
-    </SupplProvision>
-    <SupplProvision AmendLawNum="令和七年一二月一〇日法律第八二号" Extract="true">
-      <SupplProvisionLabel>附　則</SupplProvisionLabel>
-      <Paragraph Num="1">
-        <ParagraphCaption>（施行期日）</ParagraphCaption>
-        <ParagraphNum>１</ParagraphNum>
-        <ParagraphSentence>
-          <Sentence Function="main" Num="1">この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。</Sentence>
-          <Sentence Function="proviso" Num="2">ただし、第三条中更生保護法第八十二条並びに第八十六条第一項及び第二項の改正規定並びに附則第三項の規定は、公布の日から起算して一年六月を超えない範囲内において政令で定める日から施行する。</Sentence>
-        </ParagraphSentence>
-      </Paragraph>
     </SupplProvision>
     <SupplProvision AmendLawNum="令和七年一二月一二日法律第八七号" Extract="true">
       <SupplProvisionLabel>附　則</SupplProvisionLabel>
@@ -12070,7 +12015,7 @@
               <Sentence Num="1">三十の三　法務省</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1">更生保護法（平成十九年法律第八十八号）による同法第二十五条第一項若しくは第三十六条第一項（同法第三十九条第五項、第四十二条及び第四十七条の三において準用する場合を含む。）の調査、同法第三十八条第一項の申出、同法第三章の保護観察の実施、同法第八十二条第一項の生活環境の調整の実施、同条第五項の調査、同法第八十三条若しくは第八十三条の二第一項の生活環境の調整の実施、同法第八十五条の更生緊急保護の実施、同法第八十八条の措置又は同法第八十八条の二若しくは第八十八条の三の援助に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1">更生保護法（平成十九年法律第八十八号）による同法第二十五条第一項若しくは第三十六条第一項（同法第三十九条第五項、第四十二条及び第四十七条の三において準用する場合を含む。）の調査、同法第三十八条第一項の申出、同法第三章の保護観察の実施、同法第八十二条第一項の生活環境の調整の実施、同条第三項の調査、同法第八十三条若しくは第八十三条の二第一項の生活環境の調整の実施、同法第八十五条の更生緊急保護の実施、同法第八十八条の措置又は同法第八十八条の二若しくは第八十八条の三の援助に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -12219,18 +12164,18 @@
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1">四十の四　出入国在留管理庁、厚生労働省又は外国人育成就労機構</Sentence>
+              <Sentence Num="1">四十の四　出入国在留管理庁、厚生労働省又は外国人技能実習機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1">外国人の育成就労の適正な実施及び育成就労外国人の保護に関する法律（平成二十八年法律第八十九号）による同法第十一条第一項に規定する育成就労認定又は同法第三十二条第一項の届出に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1">外国人の技能実習の適正な実施及び技能実習生の保護に関する法律（平成二十八年法律第八十九号）による同法第八条第一項若しくは第十一条第一項の技能実習計画の認定又は同法第三十二条第三項の届出に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1">四十の五　法務省、厚生労働省又は外国人育成就労機構</Sentence>
+              <Sentence Num="1">四十の五　法務省、厚生労働省又は外国人技能実習機構</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1">外国人の育成就労の適正な実施及び育成就労外国人の保護に関する法律による同法第二十三条第一項の許可又は同法第三十一条第二項の更新に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1">外国人の技能実習の適正な実施及び技能実習生の保護に関する法律による同法第二十三条第一項若しくは第三十二条第一項の許可又は同法第三十一条第二項の更新に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -13151,14 +13096,6 @@
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
               <Sentence Num="1">介護保険法による同法第六十九条の二第一項又は第六十九条の八第二項の研修の実施に関する事務であつて総務省令で定めるもの</Sentence>
-            </TableColumn>
-          </TableRow>
-          <TableRow>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1">七十一の二十　医療情報基盤・診療報酬審査支払機構又は国民健康保険団体連合会</Sentence>
-            </TableColumn>
-            <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1">介護保険法による同法第百十五条の四十五第二項第七号の事業の実施に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -14497,7 +14434,7 @@
               <Sentence Num="1">五の二十六　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1">介護保険法による同法第十八条の保険給付の支給、同法第百十五条の四十五第一項の地域支援事業の実施、同条第二項第七号の事業の実施又は同法第百二十九条第一項の保険料の徴収に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1">介護保険法による同法第十八条の保険給付の支給、同法第百十五条の四十五第一項の地域支援事業の実施又は同法第百二十九条第一項の保険料の徴収に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
@@ -16037,7 +15974,7 @@
               <Sentence Num="1">四の二十六　市町村長</Sentence>
             </TableColumn>
             <TableColumn BorderBottom="solid" BorderLeft="solid" BorderRight="solid" BorderTop="solid">
-              <Sentence Num="1">介護保険法による同法第十八条の保険給付の支給、同法第百十五条の四十五第一項の地域支援事業の実施、同条第二項第七号の事業の実施又は同法第百二十九条第一項の保険料の徴収に関する事務であつて総務省令で定めるもの</Sentence>
+              <Sentence Num="1">介護保険法による同法第十八条の保険給付の支給、同法第百十五条の四十五第一項の地域支援事業の実施又は同法第百二十九条第一項の保険料の徴収に関する事務であつて総務省令で定めるもの</Sentence>
             </TableColumn>
           </TableRow>
           <TableRow>
