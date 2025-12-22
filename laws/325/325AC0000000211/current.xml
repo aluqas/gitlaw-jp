@@ -374,7 +374,9 @@
           </ParagraphSentence>
           <List>
             <ListSentence>
-              <Sentence Num="1" WritingMode="vertical"><ArithFormula>当該地方団体の財源不足額－当該地方団体の基準財政需要額×（（財源不足額の合算額－普通交付税の総額）／基準財政需要額が基準財政収入額をこえる地方団体の基準財政需要額の合算額）</ArithFormula></Sentence>
+              <Sentence Num="1" WritingMode="vertical">
+                <ArithFormula>当該地方団体の財源不足額－当該地方団体の基準財政需要額×（（財源不足額の合算額－普通交付税の総額）／基準財政需要額が基準財政収入額をこえる地方団体の基準財政需要額の合算額）</ArithFormula>
+              </Sentence>
             </ListSentence>
           </List>
         </Paragraph>
@@ -6890,40 +6892,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">昭和五十年度に限り、前条の規定による改正後の地方交付税法第十四条第三項の表市町村の項中「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">十　事業所税</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">前年度における事業所税の課税標準額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」とあるのは、「<QuoteStruct>
-                <TableStruct>
-                  <Table WritingMode="vertical">
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">十　事業所税</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">当該年度における事業所税の課税標準となるべき事業所床面積及び従業者給与総額並びに新増設事業所床面積</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">昭和五十年度に限り、前条の規定による改正後の地方交付税法第十四条第三項の表市町村の項中「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">十　事業所税</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">前年度における事業所税の課税標準額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」とあるのは、「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">十　事業所税</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">当該年度における事業所税の課税標準となるべき事業所床面積及び従業者給与総額並びに新増設事業所床面積</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -7575,78 +7544,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">昭和六十三年度分の地方交付税に係る基準財政収入額の算定に限り、前条の規定による改正後の地方交付税法第十四条第三項の表道府県の項中「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">４　利子割</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">前年度の利子割の課税標準等の額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」とあるのは「<QuoteStruct>
-                <TableStruct>
-                  <Table WritingMode="vertical">
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">４　利子割</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">当該年度の利子割の課税標準等の額として自治大臣が定める額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」と、同表市町村の項中「<QuoteStruct>
-                <TableStruct>
-                  <Table WritingMode="vertical">
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">十一　利子割交付金</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">前年度の利子割交付金の交付額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」とあるのは「<QuoteStruct>
-                <TableStruct>
-                  <Table WritingMode="vertical">
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">十一　利子割交付金</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">当該年度の利子割交付金の交付見込額として自治大臣が定める額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">昭和六十三年度分の地方交付税に係る基準財政収入額の算定に限り、前条の規定による改正後の地方交付税法第十四条第三項の表道府県の項中「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">４　利子割</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">前年度の利子割の課税標準等の額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」とあるのは「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">４　利子割</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">当該年度の利子割の課税標準等の額として自治大臣が定める額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」と、同表市町村の項中「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">十一　利子割交付金</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">前年度の利子割交付金の交付額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」とあるのは「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">十一　利子割交付金</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">当該年度の利子割交付金の交付見込額として自治大臣が定める額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -8926,106 +8824,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">平成九年度分の地方交付税に係る基準財政収入額の算定に限り、前条の規定による改正後の地方交付税法第十四条第三項の表道府県の項中「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">１　譲渡割</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">前年度の譲渡割の課税標準等の額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">２　貨物割</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">前年度の貨物割の課税標準等の額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」とあるのは「<QuoteStruct>
-                <TableStruct>
-                  <Table WritingMode="vertical">
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">１　譲渡割</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">当該年度の譲渡割の課税標準等の額として自治大臣が定める額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">２　貨物割</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">当該年度の貨物割の課税標準等の額として自治大臣が定める額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」と、同表市町村の項中「<QuoteStruct>
-                <TableStruct>
-                  <Table WritingMode="vertical">
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">九　地方消費税交付金</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">前年度の地方消費税交付金の交付額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」とあるのは「<QuoteStruct>
-                <TableStruct>
-                  <Table WritingMode="vertical">
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">九　地方消費税交付金</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">当該年度の地方消費税交付金の交付見込額として自治大臣が定める額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">平成九年度分の地方交付税に係る基準財政収入額の算定に限り、前条の規定による改正後の地方交付税法第十四条第三項の表道府県の項中「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">１　譲渡割</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">前年度の譲渡割の課税標準等の額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">２　貨物割</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">前年度の貨物割の課税標準等の額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」とあるのは「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">１　譲渡割</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">当該年度の譲渡割の課税標準等の額として自治大臣が定める額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">２　貨物割</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">当該年度の貨物割の課税標準等の額として自治大臣が定める額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」と、同表市町村の項中「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">九　地方消費税交付金</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">前年度の地方消費税交付金の交付額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」とあるのは「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">九　地方消費税交付金</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">当該年度の地方消費税交付金の交付見込額として自治大臣が定める額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
@@ -10667,7 +10466,9 @@
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">平成十五年度分の地方交付税に限り、都及び特別区に係る普通交付税の額の算定に用いる基準財政収入額を算定する場合における地方特例交付金等の地方財政の特別措置に関する法律第十四条第二項の規定により読み替えられた地方交付税法第十四条第一項の規定の適用については、同項中「たばこ税調整額」という。）の百分の七十五に相当する額」とあるのは「たばこ税調整額」という。）の百分の七十五に相当する額及び都に係る地方交付税法等の一部を改正する法律（平成十五年法律第十号。以下この項において「平成十五年地方交付税法等改正法」という。）附則第五条第一項第一号ホに掲げる額に同項に規定する総務省令で定める率（以下この項において「平成十五年度減税都区調整率」という。）を乗じて得た額（以下この項において「平成十五年度減税たばこ税調整額」という。）の百分の七十五に相当する額の合算額」と、「自動車取得税交付金」という。）の交付見込額の百分の七十五に相当する額」とあるのは「自動車取得税交付金」という。）の交付見込額の百分の七十五に相当する額及び都に係る平成十五年地方交付税法等改正法附則第五条第一項第一号ヘに掲げる額に平成十五年度減税都区調整率を乗じて得た額（以下この項において「平成十五年度減税自動車取得税調整額」という。）の百分の七十五に相当する額の合算額」と、「たばこ税調整額の百分の七十五の額」とあるのは「たばこ税調整額の百分の七十五の額及び平成十五年度減税たばこ税調整額の百分の七十五の額の合算額」と、「当該市町村の自動車取得税交付金の収入見込額の百分の七十五の額」とあるのは「当該市町村の自動車取得税交付金の収入見込額の百分の七十五の額に平成十五年度減税自動車取得税調整額の百分の七十五の額を加算した額」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">平成十五年度分の地方交付税に限り、都及び特別区に係る普通交付税の額の算定に用いる基準財政収入額を算定する場合における地方特例交付金等の地方財政の特別措置に関する法律第十四条第二項の規定により読み替えられた地方交付税法第十四条第一項の規定の適用については、同項中「たばこ税調整額」という。）の百分の七十五に相当する額」とあるのは「たばこ税調整額」という。</Sentence>
+            <Sentence Num="3" WritingMode="vertical">）の百分の七十五に相当する額及び都に係る地方交付税法等の一部を改正する法律（平成十五年法律第十号。以下この項において「平成十五年地方交付税法等改正法」という。）附則第五条第一項第一号ホに掲げる額に同項に規定する総務省令で定める率（以下この項において「平成十五年度減税都区調整率」という。）を乗じて得た額（以下この項において「平成十五年度減税たばこ税調整額」という。）の百分の七十五に相当する額の合算額」と、「自動車取得税交付金」という。）の交付見込額の百分の七十五に相当する額」とあるのは「自動車取得税交付金」という。</Sentence>
+            <Sentence Num="5" WritingMode="vertical">）の交付見込額の百分の七十五に相当する額及び都に係る平成十五年地方交付税法等改正法附則第五条第一項第一号ヘに掲げる額に平成十五年度減税都区調整率を乗じて得た額（以下この項において「平成十五年度減税自動車取得税調整額」という。）の百分の七十五に相当する額の合算額」と、「たばこ税調整額の百分の七十五の額」とあるのは「たばこ税調整額の百分の七十五の額及び平成十五年度減税たばこ税調整額の百分の七十五の額の合算額」と、「当該市町村の自動車取得税交付金の収入見込額の百分の七十五の額」とあるのは「当該市町村の自動車取得税交付金の収入見込額の百分の七十五の額に平成十五年度減税自動車取得税調整額の百分の七十五の額を加算した額」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="6">
@@ -11034,7 +10835,10 @@
         <Paragraph Num="4">
           <ParagraphNum>４</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">平成十六年度分の地方交付税に限り、都及び特別区に係る普通交付税の額の算定に用いる基準財政収入額を算定する場合における地方特例交付金等の地方財政の特別措置に関する法律第十四条第二項の規定により読み替えられた地方交付税法第十四条第一項の規定の適用については、同項中「地方消費税交付金」という。）の交付見込額の百分の七十五に相当する額」とあるのは「地方消費税交付金」という。）の交付見込額の百分の七十五に相当する額及び都に係る地方交付税法等の一部を改正する法律（平成十六年法律第十八号。以下この項において「平成十六年地方交付税法等改正法」という。）附則第五条第一項第一号ヘに掲げる額に同項に規定する総務省令で定める率（以下この項において「平成十六年度減税都区調整率」という。）を乗じて得た額（以下この項において「平成十六年度減税地方消費税調整額」という。）の百分の七十五に相当する額の合算額」と、「たばこ税調整額」という。）の百分の七十五に相当する額」とあるのは「たばこ税調整額」という。）の百分の七十五に相当する額及び都に係る平成十六年地方交付税法等改正法附則第五条第一項第一号トに掲げる額に平成十六年度減税都区調整率を乗じて得た額（以下この項において「平成十六年度減税たばこ税調整額」という。）の百分の七十五に相当する額の合算額」と、「自動車取得税交付金」という。）の交付見込額の百分の七十五に相当する額」とあるのは「自動車取得税交付金」という。）の交付見込額の百分の七十五に相当する額及び都に係る同号チに掲げる額に平成十六年度減税都区調整率を乗じて得た額（以下この項において「平成十六年度減税自動車取得税調整額」という。）の百分の七十五に相当する額の合算額」と、「たばこ税調整額の百分の七十五の額」とあるのは「たばこ税調整額の百分の七十五の額及び平成十六年度減税たばこ税調整額の百分の七十五の額の合算額」と、「当該市町村の地方消費税交付金の収入見込額の百分の七十五の額」とあるのは「当該市町村の地方消費税交付金の収入見込額の百分の七十五の額に平成十六年度減税地方消費税調整額の百分の七十五の額を加算した額」と、「当該市町村の自動車取得税交付金の収入見込額の百分の七十五の額」とあるのは「当該市町村の自動車取得税交付金の収入見込額の百分の七十五の額に平成十六年度減税自動車取得税調整額の百分の七十五の額を加算した額」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">平成十六年度分の地方交付税に限り、都及び特別区に係る普通交付税の額の算定に用いる基準財政収入額を算定する場合における地方特例交付金等の地方財政の特別措置に関する法律第十四条第二項の規定により読み替えられた地方交付税法第十四条第一項の規定の適用については、同項中「地方消費税交付金」という。）の交付見込額の百分の七十五に相当する額」とあるのは「地方消費税交付金」という。</Sentence>
+            <Sentence Num="3" WritingMode="vertical">）の交付見込額の百分の七十五に相当する額及び都に係る地方交付税法等の一部を改正する法律（平成十六年法律第十八号。以下この項において「平成十六年地方交付税法等改正法」という。）附則第五条第一項第一号ヘに掲げる額に同項に規定する総務省令で定める率（以下この項において「平成十六年度減税都区調整率」という。）を乗じて得た額（以下この項において「平成十六年度減税地方消費税調整額」という。）の百分の七十五に相当する額の合算額」と、「たばこ税調整額」という。）の百分の七十五に相当する額」とあるのは「たばこ税調整額」という。</Sentence>
+            <Sentence Num="5" WritingMode="vertical">）の百分の七十五に相当する額及び都に係る平成十六年地方交付税法等改正法附則第五条第一項第一号トに掲げる額に平成十六年度減税都区調整率を乗じて得た額（以下この項において「平成十六年度減税たばこ税調整額」という。）の百分の七十五に相当する額の合算額」と、「自動車取得税交付金」という。）の交付見込額の百分の七十五に相当する額」とあるのは「自動車取得税交付金」という。</Sentence>
+            <Sentence Num="7" WritingMode="vertical">）の交付見込額の百分の七十五に相当する額及び都に係る同号チに掲げる額に平成十六年度減税都区調整率を乗じて得た額（以下この項において「平成十六年度減税自動車取得税調整額」という。）の百分の七十五に相当する額の合算額」と、「たばこ税調整額の百分の七十五の額」とあるのは「たばこ税調整額の百分の七十五の額及び平成十六年度減税たばこ税調整額の百分の七十五の額の合算額」と、「当該市町村の地方消費税交付金の収入見込額の百分の七十五の額」とあるのは「当該市町村の地方消費税交付金の収入見込額の百分の七十五の額に平成十六年度減税地方消費税調整額の百分の七十五の額を加算した額」と、「当該市町村の自動車取得税交付金の収入見込額の百分の七十五の額」とあるのは「当該市町村の自動車取得税交付金の収入見込額の百分の七十五の額に平成十六年度減税自動車取得税調整額の百分の七十五の額を加算した額」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="5">
@@ -11397,7 +11201,9 @@
         <Paragraph Num="5">
           <ParagraphNum>５</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">平成十七年度分の地方交付税における都及び特別区に係る普通交付税の額の算定に用いる基準財政収入額を算定する場合における地方特例交付金等の地方財政の特別措置に関する法律第十四条第二項の規定により読み替えられた地方交付税法第十四条第一項の規定の適用については、同項中「軽油引取税の収入見込額（」とあるのは「軽油引取税の収入見込額（都の所得割の収入見込額については基準税率をもつて算定した都の所得割の収入見込額から都に係る地方交付税法等の一部を改正する法律（平成十七年法律第十二号。以下この項において「平成十七年地方交付税法等改正法」という。）附則第五条第一項第一号ホに掲げる額に同項に規定する総務省令で定める率（以下この項において「平成十七年度減税都区調整率」という。）を乗じて得た額（以下この項において「平成十七年度減税所得割調整額」という。）の百分の七十五に相当する額を控除した額とし、」と、「地方消費税交付金」という。）の交付見込額の百分の七十五に相当する額」とあるのは「地方消費税交付金」という。）の交付見込額の百分の七十五に相当する額及び都に係る平成十七年地方交付税法等改正法附則第五条第一項第一号ヘに掲げる額に平成十七年度減税都区調整率を乗じて得た額（以下この項において「平成十七年度減税地方消費税調整額」という。）の百分の七十五に相当する額の合算額」と、「たばこ税調整額」という。）の百分の七十五に相当する額」とあるのは「たばこ税調整額」という。）の百分の七十五に相当する額及び都に係る平成十七年地方交付税法等改正法附則第五条第一項第一号トに掲げる額に平成十七年度減税都区調整率を乗じて得た額（以下この項において「平成十七年度減税たばこ税調整額」という。）の百分の七十五に相当する額の合算額」と、「自動車取得税交付金」という。）の交付見込額の百分の七十五に相当する額」とあるのは「自動車取得税交付金」という。）の交付見込額の百分の七十五に相当する額及び都に係る同号チに掲げる額に平成十七年度減税都区調整率を乗じて得た額（以下この項において「平成十七年度減税自動車取得税調整額」という。）の百分の七十五に相当する額の合算額」と、「事業所税の収入見込額（」とあるのは「事業所税の収入見込額（特別区の所得割の収入見込額については基準税率をもつて算定した特別区の所得割の収入見込額に平成十七年度減税所得割調整額の百分の七十五の額を加算した額とし、」と、「たばこ税調整額の百分の七十五の額」とあるのは「たばこ税調整額の百分の七十五の額及び平成十七年度減税たばこ税調整額の百分の七十五の額の合算額」と、「当該市町村の地方消費税交付金の収入見込額の百分の七十五の額」とあるのは「当該市町村の地方消費税交付金の収入見込額の百分の七十五の額に平成十七年度減税地方消費税調整額の百分の七十五の額を加算した額」と、「当該市町村の自動車取得税交付金の収入見込額の百分の七十五の額」とあるのは「当該市町村の自動車取得税交付金の収入見込額の百分の七十五の額に平成十七年度減税自動車取得税調整額の百分の七十五の額を加算した額」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">平成十七年度分の地方交付税における都及び特別区に係る普通交付税の額の算定に用いる基準財政収入額を算定する場合における地方特例交付金等の地方財政の特別措置に関する法律第十四条第二項の規定により読み替えられた地方交付税法第十四条第一項の規定の適用については、同項中「軽油引取税の収入見込額（」とあるのは「軽油引取税の収入見込額（都の所得割の収入見込額については基準税率をもつて算定した都の所得割の収入見込額から都に係る地方交付税法等の一部を改正する法律（平成十七年法律第十二号。以下この項において「平成十七年地方交付税法等改正法」という。）附則第五条第一項第一号ホに掲げる額に同項に規定する総務省令で定める率（以下この項において「平成十七年度減税都区調整率」という。）を乗じて得た額（以下この項において「平成十七年度減税所得割調整額」という。）の百分の七十五に相当する額を控除した額とし、」と、「地方消費税交付金」という。）の交付見込額の百分の七十五に相当する額」とあるのは「地方消費税交付金」という。）の交付見込額の百分の七十五に相当する額及び都に係る平成十七年地方交付税法等改正法附則第五条第一項第一号ヘに掲げる額に平成十七年度減税都区調整率を乗じて得た額（以下この項において「平成十七年度減税地方消費税調整額」という。）の百分の七十五に相当する額の合算額」と、「たばこ税調整額」という。）の百分の七十五に相当する額」とあるのは「たばこ税調整額」という。</Sentence>
+            <Sentence Num="3" WritingMode="vertical">）の百分の七十五に相当する額及び都に係る平成十七年地方交付税法等改正法附則第五条第一項第一号トに掲げる額に平成十七年度減税都区調整率を乗じて得た額（以下この項において「平成十七年度減税たばこ税調整額」という。）の百分の七十五に相当する額の合算額」と、「自動車取得税交付金」という。）の交付見込額の百分の七十五に相当する額」とあるのは「自動車取得税交付金」という。</Sentence>
+            <Sentence Num="5" WritingMode="vertical">）の交付見込額の百分の七十五に相当する額及び都に係る同号チに掲げる額に平成十七年度減税都区調整率を乗じて得た額（以下この項において「平成十七年度減税自動車取得税調整額」という。）の百分の七十五に相当する額の合算額」と、「事業所税の収入見込額（」とあるのは「事業所税の収入見込額（特別区の所得割の収入見込額については基準税率をもつて算定した特別区の所得割の収入見込額に平成十七年度減税所得割調整額の百分の七十五の額を加算した額とし、」と、「たばこ税調整額の百分の七十五の額」とあるのは「たばこ税調整額の百分の七十五の額及び平成十七年度減税たばこ税調整額の百分の七十五の額の合算額」と、「当該市町村の地方消費税交付金の収入見込額の百分の七十五の額」とあるのは「当該市町村の地方消費税交付金の収入見込額の百分の七十五の額に平成十七年度減税地方消費税調整額の百分の七十五の額を加算した額」と、「当該市町村の自動車取得税交付金の収入見込額の百分の七十五の額」とあるのは「当該市町村の自動車取得税交付金の収入見込額の百分の七十五の額に平成十七年度減税自動車取得税調整額の百分の七十五の額を加算した額」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="6">
@@ -11817,106 +11623,7 @@
         <Paragraph Num="2">
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">平成二十一年度分の地方交付税に限り、附則第三十三条の規定による改正後の地方法人特別税等に関する暫定措置法（平成二十年法律第二十五号）第三十九条の規定により読み替えられた新地方交付税法第十四条の規定の適用については、同条第一項中「当該道府県の普通税（法定外普通税を除く。）」とあるのは「当該道府県の普通税（法定外普通税を除き、自動車取得税及び軽油引取税にあつては、それぞれ地方税法等の一部を改正する法律（平成二十一年法律第九号）第一条の規定による改正前の地方税法（以下この項において「旧法」という。）の規定による自動車取得税及び軽油引取税を含むものとする。）」と、「（以下「自動車取得税交付金」という。）」とあるのは「（旧法第六百九十九条の三十二の規定により市町村に交付するものとされる自動車取得税に係る交付金を含む。以下「自動車取得税交付金」という。）」と、「（以下「軽油引取税交付金」という。）」とあるのは「（旧法第七百条の四十九第一項の規定により指定市に対し交付するものとされる軽油引取税に係る交付金を含む。以下「軽油引取税交付金」という。）」と、「航空機燃料譲与税」とあるのは「航空機燃料譲与税並びに地方道路譲与税」と、同条第三項の表道府県の項中「前年度の地方揮発油譲与税の譲与額」とあるのは「平成二十一年度分の地方揮発油譲与税の見込額として総務省令で定めるところにより算定した額」と、「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">十五　航空機燃料譲与税</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">前年度の航空機燃料譲与税の譲与額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」とあるのは「<QuoteStruct>
-                <TableStruct>
-                  <Table WritingMode="vertical">
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">十五　航空機燃料譲与税</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">前年度の航空機燃料譲与税の譲与額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">十五の二　地方道路譲与税</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">平成二十一年度分の地方道路譲与税の見込額として総務省令で定めるところにより算定した額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」と、同表市町村の項中「前年度の地方揮発油譲与税の譲与額」とあるのは「平成二十一年度分の地方揮発油譲与税の見込額として総務省令で定めるところにより算定した額」と、「<QuoteStruct>
-                <TableStruct>
-                  <Table WritingMode="vertical">
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">十九　航空機燃料譲与税</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">前年度の航空機燃料譲与税の譲与額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」とあるのは「<QuoteStruct>
-                <TableStruct>
-                  <Table WritingMode="vertical">
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">十九　航空機燃料譲与税</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">前年度の航空機燃料譲与税の譲与額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                    <TableRow>
-                      <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">十九の二　地方道路譲与税</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">平成二十一年度分の地方道路譲与税の見込額として総務省令で定めるところにより算定した額</Sentence>
-                      </TableColumn>
-                      <TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none">
-                        <Sentence Num="1" WritingMode="vertical">　</Sentence>
-                      </TableColumn>
-                    </TableRow>
-                  </Table>
-                </TableStruct>
-              </QuoteStruct>」とする。</Sentence>
+            <Sentence Num="1" WritingMode="vertical">平成二十一年度分の地方交付税に限り、附則第三十三条の規定による改正後の地方法人特別税等に関する暫定措置法（平成二十年法律第二十五号）第三十九条の規定により読み替えられた新地方交付税法第十四条の規定の適用については、同条第一項中「当該道府県の普通税（法定外普通税を除く。）」とあるのは「当該道府県の普通税（法定外普通税を除き、自動車取得税及び軽油引取税にあつては、それぞれ地方税法等の一部を改正する法律（平成二十一年法律第九号）第一条の規定による改正前の地方税法（以下この項において「旧法」という。）の規定による自動車取得税及び軽油引取税を含むものとする。）」と、「（以下「自動車取得税交付金」という。）」とあるのは「（旧法第六百九十九条の三十二の規定により市町村に交付するものとされる自動車取得税に係る交付金を含む。以下「自動車取得税交付金」という。）」と、「（以下「軽油引取税交付金」という。）」とあるのは「（旧法第七百条の四十九第一項の規定により指定市に対し交付するものとされる軽油引取税に係る交付金を含む。以下「軽油引取税交付金」という。）」と、「航空機燃料譲与税」とあるのは「航空機燃料譲与税並びに地方道路譲与税」と、同条第三項の表道府県の項中「前年度の地方揮発油譲与税の譲与額」とあるのは「平成二十一年度分の地方揮発油譲与税の見込額として総務省令で定めるところにより算定した額」と、「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">十五　航空機燃料譲与税</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">前年度の航空機燃料譲与税の譲与額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」とあるのは「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">十五　航空機燃料譲与税</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">前年度の航空機燃料譲与税の譲与額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">十五の二　地方道路譲与税</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">平成二十一年度分の地方道路譲与税の見込額として総務省令で定めるところにより算定した額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」と、同表市町村の項中「前年度の地方揮発油譲与税の譲与額」とあるのは「平成二十一年度分の地方揮発油譲与税の見込額として総務省令で定めるところにより算定した額」と、「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">十九　航空機燃料譲与税</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">前年度の航空機燃料譲与税の譲与額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」とあるのは「<QuoteStruct><TableStruct><Table WritingMode="vertical"><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">十九　航空機燃料譲与税</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">前年度の航空機燃料譲与税の譲与額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow><TableRow><TableColumn BorderBottom="none" BorderLeft="none" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">十九の二　地方道路譲与税</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="solid" BorderTop="none"><Sentence Num="1" WritingMode="vertical">平成二十一年度分の地方道路譲与税の見込額として総務省令で定めるところにより算定した額</Sentence></TableColumn><TableColumn BorderBottom="none" BorderLeft="solid" BorderRight="none" BorderTop="none"><Sentence Num="1" WritingMode="vertical">　</Sentence></TableColumn></TableRow></Table></TableStruct></QuoteStruct>」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
         <Paragraph Num="3">
@@ -13571,12 +13278,6 @@
           <ParagraphNum>２</ParagraphNum>
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">令和元年度分の地方交付税に係る新地方交付税法第十四条の規定による基準財政収入額の算定に係る同条第三項の規定の適用については、同項の表道府県の項第十五号中「前年度の自動車重量譲与税の譲与額」とあるのは、「当該年度の自動車重量譲与税の譲与見込額として総務大臣が定める額」とする。</Sentence>
-          </ParagraphSentence>
-        </Paragraph>
-        <Paragraph Num="3">
-          <ParagraphNum>３</ParagraphNum>
-          <ParagraphSentence>
-            <Sentence Num="1" WritingMode="vertical">令和十六年度分の地方交付税に係る新地方交付税法第十四条の規定による基準財政収入額の算定に係る同条第三項の規定の適用については、同項の表道府県の項第十三号中「前年度の地方揮発油譲与税の譲与額」とあるのは、「当該年度の地方揮発油譲与税の譲与見込額として総務大臣が定める額」とする。</Sentence>
           </ParagraphSentence>
         </Paragraph>
       </Article>
