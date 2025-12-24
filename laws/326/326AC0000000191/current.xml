@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Lang="ja" Era="Showa" Year="26" Num="191" PromulgateMonth="6" PromulgateDay="2" LawType="Act"><LawNum>昭和二十六年法律第百九十一号</LawNum><LawBody><LawTitle Kana="こっかこうむいんさいがいほしょうほう" Abbrev="" AbbrevKana="">国家公務員災害補償法</LawTitle>
+<Law Lang="ja" Era="Showa" Year="26" Num="191" PromulgateMonth="06" PromulgateDay="02" LawType="Act"><LawNum>昭和二十六年法律第百九十一号</LawNum><LawBody><LawTitle Kana="こっかこうむいんさいがいほしょうほう" Abbrev="" AbbrevKana="">国家公務員災害補償法</LawTitle>
     <TOC>
       <TOCLabel>目次</TOCLabel>
       <TOCChapter Num="1">
@@ -187,7 +187,7 @@
           <Paragraph Num="2">
             <ParagraphNum>２</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">前項の給与は、一般職の職員の給与に関する法律（昭和二十五年法律第九十五号）の適用を受ける職員（同法第二十二条第一項及び第二項の職員を除く。）にあつては、俸給、俸給の特別調整額、本府省業務調整手当、初任給調整手当、専門スタッフ職調整手当、扶養手当、地域手当、広域異動手当、研究員調整手当、住居手当、通勤手当、単身赴任手当、在宅勤務等手当、特殊勤務手当（人事院規則で定めるものを除く。）、特地勤務手当（同法第十四条の規定による手当を含む。）、超過勤務手当、休日給、夜勤手当、宿日直手当及び管理職員特別勤務手当とし（ただし、人事院規則で定めるところにより、寒冷地手当及び国際平和協力手当を加えることができる。）、その他の職員にあつては、人事院規則で定める給与とする。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">前項の給与は、一般職の職員の給与に関する法律（昭和二十五年法律第九十五号）の適用を受ける職員（同法第二十二条第一項及び第二項の職員を除く。）にあつては、俸給、俸給の特別調整額、本府省業務調整手当、初任給調整手当（第一種初任給調整手当及び第二種初任給調整手当をいう。）、専門スタッフ職調整手当、扶養手当、地域手当、広域異動手当、研究員調整手当、住居手当、通勤手当、単身赴任手当、在宅勤務等手当、特殊勤務手当（人事院規則で定めるものを除く。）、特地勤務手当（同法第十四条の規定による手当を含む。）、超過勤務手当、休日給、夜勤手当、宿日直手当及び管理職員特別勤務手当とし（ただし、人事院規則で定めるところにより、寒冷地手当及び国際平和協力手当を加えることができる。）、その他の職員にあつては、人事院規則で定める給与とする。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="3">
@@ -4322,6 +4322,31 @@
           <ParagraphSentence>
             <Sentence Num="1" WritingMode="vertical">この法律は、公布の日から起算して一年三月を超えない範囲内において政令で定める日から施行する。</Sentence>
           </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和七年一二月二四日法律第八九号" Extract="true">
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日等）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">この法律は、公布の日から施行する。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第二条、第四条及び第六条の規定並びに附則第五条、第七条及び第九条の規定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">令和八年四月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
         </Paragraph>
       </Article>
     </SupplProvision>
