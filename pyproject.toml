@@ -1,0 +1,10 @@
+[project]
+name = "gitlaw-ja"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pygit2>=1.19.2",
+    "xsdata>=26.2",
+]
