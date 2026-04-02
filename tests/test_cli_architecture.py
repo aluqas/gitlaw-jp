@@ -34,7 +34,7 @@ class CliArchitectureTests(unittest.TestCase):
             patch("src.cli.run_full") as run_full,
             patch(
                 "sys.argv",
-                ["gitlaw-ja", "full", "--input-zip", "payload.zip"],
+                ["gitlaw-jp", "full", "--input-zip", "payload.zip"],
             ),
         ):
             run_full.return_value = PipelineResult(
@@ -54,7 +54,7 @@ class CliArchitectureTests(unittest.TestCase):
             patch(
                 "sys.argv",
                 [
-                    "gitlaw-ja",
+                    "gitlaw-jp",
                     "full",
                     "--input-zip",
                     "payload.zip",
@@ -83,7 +83,7 @@ class CliArchitectureTests(unittest.TestCase):
             patch(
                 "sys.argv",
                 [
-                    "gitlaw-ja",
+                    "gitlaw-jp",
                     "full",
                     "--input-zip",
                     "payload.zip",
@@ -117,7 +117,7 @@ class CliArchitectureTests(unittest.TestCase):
             patch("src.cli.run_apply") as run_apply,
             patch(
                 "sys.argv",
-                ["gitlaw-ja", "apply", "--run-manifest", "runs/x/manifest.json"],
+                ["gitlaw-jp", "apply", "--run-manifest", "runs/x/manifest.json"],
             ),
         ):
             run_apply.return_value = ApplyResult(

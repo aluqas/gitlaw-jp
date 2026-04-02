@@ -2,10 +2,10 @@
 
 from __future__ import annotations
 
-import logging
 import hashlib
-from time import perf_counter
+import logging
 from pathlib import Path
+from time import perf_counter
 from zipfile import ZipFile
 
 import pygit2
@@ -17,8 +17,8 @@ from .strategies import DefaultDateResolutionStrategy
 logger = logging.getLogger(__name__)
 
 _JST_OFFSET_MINUTES = 9 * 60
-_AUTHOR_NAME = "gitlaw-ja"
-_AUTHOR_EMAIL = "gitlaw-ja@example.local"
+_AUTHOR_NAME = "gitlaw-jp"
+_AUTHOR_EMAIL = "gitlaw-jp@example.local"
 _FALLBACK_UNIX_TS = 0
 _DEFAULT_BASE_REF = "refs/heads/dev"
 _PROGRESS_INTERVAL = 500

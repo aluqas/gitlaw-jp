@@ -37,7 +37,7 @@ class CommitGraphSinkTests(unittest.TestCase):
 
     def _seed_dev_branch(self, repo: pygit2.Repository) -> pygit2.Commit:
         author = pygit2.Signature("tester", "tester@example.local", 0, 9 * 60)
-        readme_oid = repo.create_blob("# Gitlaw-Ja\n")
+        readme_oid = repo.create_blob("# Gitlaw-Jp\n")
         tree = repo.TreeBuilder()
         tree.insert("README.md", readme_oid, pygit2.GIT_FILEMODE_BLOB)
         commit_oid = repo.create_commit(
@@ -111,19 +111,19 @@ class CommitGraphSinkTests(unittest.TestCase):
             self.assertEqual(result.promulgation_commit_count, 7)
             self.assertEqual(result.enforcement_commit_count, 4)
             self.assertIn(
-                f"refs/heads/runs/{plan.metadata['run_id']}/promulgations",
+                f"refs/heads/{plan.metadata['run_id']}/promulgations",
                 result.updated_refs,
             )
             self.assertIn(
-                f"refs/heads/runs/{plan.metadata['run_id']}/enforcements",
+                f"refs/heads/{plan.metadata['run_id']}/enforcements",
                 result.updated_refs,
             )
             self.assertNotIn("refs/heads/main", result.updated_refs)
             prom_ref = repo.lookup_reference(
-                f"refs/heads/runs/{plan.metadata['run_id']}/promulgations"
+                f"refs/heads/{plan.metadata['run_id']}/promulgations"
             )
             enf_ref = repo.lookup_reference(
-                f"refs/heads/runs/{plan.metadata['run_id']}/enforcements"
+                f"refs/heads/{plan.metadata['run_id']}/enforcements"
             )
             self.assertTrue(repo.descendant_of(prom_ref.target, dev_tip.id))
             self.assertTrue(repo.descendant_of(enf_ref.target, dev_tip.id))
@@ -152,7 +152,7 @@ class CommitGraphSinkTests(unittest.TestCase):
 
             repo = pygit2.Repository(str(repo_path))
             prom_ref = repo.lookup_reference(
-                f"refs/heads/runs/{plan.metadata['run_id']}/promulgations"
+                f"refs/heads/{plan.metadata['run_id']}/promulgations"
             )
             prom_tip = repo[prom_ref.target]
 

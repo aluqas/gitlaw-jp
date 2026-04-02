@@ -1,4 +1,4 @@
-"""Logging utility for Gitlaw-Ja pipeline."""
+"""Logging utility for Gitlaw-Jp pipeline."""
 
 import logging
 import os
@@ -7,7 +7,7 @@ import sys
 
 def configure_logging(level_env: str = "LOG_LEVEL") -> None:
     """
-    Configure logging for the Gitlaw-Ja pipeline.
+    Configure logging for the Gitlaw-Jp pipeline.
 
     Reads the log level from the specified environment variable.
     Defaults to INFO if the variable is not set.

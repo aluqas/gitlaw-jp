@@ -9,14 +9,13 @@ from pathlib import Path
 from .config import RunConfig, serialize_path
 from .contracts import ApplyResult, GraphPlanManifest, PipelineResult
 from .core.git_sink import execute_commit_graph_plan
+from .core.models import CommitGraphPlan, PlannedCommit, PlannedFile, RefUpdate
 from .core.planner import (
     build_commit_graph_plan,
     timelines_from_jsonl,
     write_graph_plan,
 )
-from .core.models import CommitGraphPlan, PlannedCommit, PlannedFile, RefUpdate
-from .core.strategies import AmendmentLawNumGroupingStrategy
-from .core.strategies import build_metadata_strategy
+from .core.strategies import AmendmentLawNumGroupingStrategy, build_metadata_strategy
 from .stages.ingest import ingest_zip, write_ingest_manifest
 from .stages.normalize_versions import create_normalized_versions
 from .stages.timelines import create_timelines
@@ -135,7 +134,7 @@ def run_plan(config: RunConfig) -> PipelineResult:
     effective_as_of = conf.as_of
 
     logger.info("=" * 70)
-    logger.info("Starting Gitlaw-Ja plan pipeline")
+    logger.info("Starting Gitlaw-Jp plan pipeline")
     logger.info("Input ZIP: %s", conf.input_zip)
     logger.info("Branch model: %s", conf.branch_model)
     logger.info("=" * 70)

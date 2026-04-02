@@ -114,7 +114,7 @@ def _add_common_apply_args(parser: argparse.ArgumentParser) -> None:
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        prog="gitlaw-ja",
+        prog="gitlaw-jp",
         description="Deterministic pipeline runner for e-Gov bulk law zip",
     )
     subparsers = parser.add_subparsers(dest="command", required=True)
@@ -181,7 +181,7 @@ def main() -> int:
     try:
         if args.command == "plan":
             config = _build_run_config(args, include_git=False)
-            logger.info("Starting Gitlaw-Ja plan")
+            logger.info("Starting Gitlaw-Jp plan")
             result = run_plan(config)
             logger.info("Plan completed: run_id=%s", result.run_id)
             logger.info("Manifest saved to: %s", result.manifest_path)
@@ -193,7 +193,7 @@ def main() -> int:
                 git_target_dir=args.git_target_dir,
                 force_refs=args.force_refs,
             )
-            logger.info("Applying Gitlaw-Ja run")
+            logger.info("Applying Gitlaw-Jp run")
             result = run_apply(config, run_manifest_path=args.run_manifest)
             logger.info("Apply completed: run_id=%s", result.run_id)
             logger.info("Manifest updated at: %s", result.manifest_path)
@@ -201,7 +201,7 @@ def main() -> int:
 
         if args.command == "full":
             config = _build_run_config(args, include_git=True)
-            logger.info("Starting Gitlaw-Ja full run")
+            logger.info("Starting Gitlaw-Jp full run")
             result = run_full(config)
             logger.info("Full run completed: run_id=%s", result.run_id)
             logger.info("Manifest saved to: %s", result.manifest_path)
@@ -209,5 +209,5 @@ def main() -> int:
 
         raise ValueError(f"unsupported command: {args.command}")
     except Exception:
-        logger.exception("Gitlaw-Ja command failed")
+        logger.exception("Gitlaw-Jp command failed")
         raise
