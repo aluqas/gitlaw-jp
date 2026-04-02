@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import logging
+import shutil
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -15,6 +16,7 @@ from .core.planner import (
 )
 from .core.models import CommitGraphPlan, PlannedCommit, PlannedFile, RefUpdate
 from .core.strategies import AmendmentLawNumGroupingStrategy
+from .core.strategies import build_metadata_strategy
 from .stages.ingest import ingest_zip, write_ingest_manifest
 from .stages.normalize_versions import create_normalized_versions
 from .stages.timelines import create_timelines
@@ -35,6 +37,7 @@ def _write_json_manifest(path: Path, payload: dict[str, object]) -> Path:
 def _write_run_manifest_v3(
     *,
     config: RunConfig,
+    dataset_id: str,
     run_id: str,
     effective_as_of: str | None,
     ingest_manifest_path: Path,
@@ -58,6 +61,7 @@ def _write_run_manifest_v3(
         stages["06_git_sink"] = serialize_path(git_sink_manifest_path)
 
     payload: dict[str, object] = {
+        "dataset_id": dataset_id,
         "run_id": run_id,
         "schema_version": 3,
         "branch_model": config.branch_model,
@@ -67,6 +71,8 @@ def _write_run_manifest_v3(
             "promulgation": config.promulgation_branch_prefix,
             "enforcement": config.enforcement_branch_prefix,
         },
+        "message_template": config.message_template,
+        "law_types": list(config.law_types),
         "stages": stages,
     }
     return _write_json_manifest(run_root / "manifest.json", payload)
@@ -137,7 +143,9 @@ def run_plan(config: RunConfig) -> PipelineResult:
     ingest_manifest = ingest_zip(conf)
     run_root = conf.output_root / ingest_manifest.run_id
     if run_root.exists():
-        raise FileExistsError(f"run already exists: {serialize_path(run_root)}")
+        if not conf.force:
+            raise FileExistsError(f"run already exists: {serialize_path(run_root)}")
+        shutil.rmtree(run_root)
     ingest_manifest_path = write_ingest_manifest(conf, ingest_manifest)
 
     validation_manifest = validate_input(conf, ingest_manifest)
@@ -155,6 +163,7 @@ def run_plan(config: RunConfig) -> PipelineResult:
     versions_jsonl = Path(normalize_manifest.output_jsonl)
     timeline_manifest = create_timelines(
         conf,
+        dataset_id=ingest_manifest.dataset_id,
         run_id=ingest_manifest.run_id,
         versions_jsonl=versions_jsonl,
     )
@@ -175,6 +184,7 @@ def run_plan(config: RunConfig) -> PipelineResult:
         promulgation_branch_prefix=conf.promulgation_branch_prefix,
         enforcement_branch_prefix=conf.enforcement_branch_prefix,
         grouping=grouping,
+        metadata=build_metadata_strategy(conf.message_template),
         as_of=effective_as_of,
         max_commits=conf.git_max_commits,
     )
@@ -185,6 +195,7 @@ def run_plan(config: RunConfig) -> PipelineResult:
     graph_plan_path = graph_plan_dir / "graph_plan.json"
     write_graph_plan(graph_plan, graph_plan_path)
     graph_plan_manifest = GraphPlanManifest(
+        dataset_id=ingest_manifest.dataset_id,
         run_id=ingest_manifest.run_id,
         source_timelines_jsonl=serialize_path(timelines_jsonl),
         planned_commit_count=len(graph_plan.planned_commits),
@@ -198,6 +209,7 @@ def run_plan(config: RunConfig) -> PipelineResult:
 
     run_manifest_path = _write_run_manifest_v3(
         config=conf,
+        dataset_id=ingest_manifest.dataset_id,
         run_id=ingest_manifest.run_id,
         effective_as_of=effective_as_of,
         ingest_manifest_path=ingest_manifest_path,
@@ -250,6 +262,7 @@ def run_apply(config: RunConfig, *, run_manifest_path: Path) -> ApplyResult:
     git_sink_manifest_path = _write_json_manifest(
         git_sink_dir / "manifest.json",
         {
+            "dataset_id": run_manifest.get("dataset_id", ""),
             "run_id": run_id,
             **sink_result.to_dict(),
         },
@@ -283,7 +296,11 @@ def run_full(config: RunConfig) -> PipelineResult:
             branch_model=conf.branch_model,
             promulgation_branch_prefix=conf.promulgation_branch_prefix,
             enforcement_branch_prefix=conf.enforcement_branch_prefix,
+            message_template=conf.message_template,
+            law_types=conf.law_types,
             law_ids=conf.law_ids,
+            force=conf.force,
+            force_refs=conf.force_refs,
         )
 
     plan_result = run_plan(conf)

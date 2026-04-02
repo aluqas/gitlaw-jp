@@ -72,6 +72,7 @@ class SnapshotTests(unittest.TestCase):
                 snapshot_parse_xml=True,
             )
             manifest = IngestManifest(
+                dataset_id="dataset-xml",
                 run_id="run-xml",
                 input_zip=str(input_zip),
                 input_sha256="dummy",

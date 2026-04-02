@@ -7,6 +7,7 @@ from typing import Protocol
 
 @dataclass(frozen=True)
 class IngestManifest:
+    dataset_id: str
     run_id: str
     input_zip: str
     input_sha256: str
@@ -20,6 +21,7 @@ class IngestManifest:
 
 @dataclass(frozen=True)
 class ValidationManifest:
+    dataset_id: str
     run_id: str
     xsd_path: str
     xsd_exists: bool
@@ -35,6 +37,7 @@ class ValidationManifest:
 
 @dataclass(frozen=True)
 class SnapshotManifest:
+    dataset_id: str
     run_id: str
     source_csv_entry: str
     record_count: int
@@ -48,6 +51,7 @@ class SnapshotManifest:
 
 @dataclass(frozen=True)
 class TimelineManifest:
+    dataset_id: str
     run_id: str
     source_versions_jsonl: str
     timeline_count: int
@@ -59,6 +63,7 @@ class TimelineManifest:
 
 @dataclass(frozen=True)
 class GraphPlanManifest:
+    dataset_id: str
     run_id: str
     source_timelines_jsonl: str
     planned_commit_count: int
@@ -71,6 +76,7 @@ class GraphPlanManifest:
 
 @dataclass(frozen=True)
 class DiffManifest:
+    dataset_id: str
     run_id: str
     source_snapshot_jsonl: str
     diff_record_count: int

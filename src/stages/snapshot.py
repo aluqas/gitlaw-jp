@@ -229,6 +229,7 @@ def create_snapshot_records(
             f.write("\n")
 
     manifest = SnapshotManifest(
+        dataset_id=ingest_manifest.dataset_id,
         run_id=ingest_manifest.run_id,
         source_csv_entry=ingest_manifest.csv_entry,
         record_count=len(records),

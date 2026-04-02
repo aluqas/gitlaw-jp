@@ -92,6 +92,7 @@ def create_diff_records(
             f.write("\n")
 
     manifest = DiffManifest(
+        dataset_id="",
         run_id=run_id,
         source_snapshot_jsonl=str(snapshot_jsonl),
         diff_record_count=len(diffs),

@@ -28,7 +28,11 @@ class RunConfig:
     branch_model: str = "dual"
     promulgation_branch_prefix: str = "promulgations"
     enforcement_branch_prefix: str = "enforcements"
+    message_template: str = "default"
+    law_types: tuple[str, ...] = ("法律",)
     law_ids: tuple[str, ...] = ()
+    force: bool = False
+    force_refs: bool = False
 
     def normalized(self) -> RunConfig:
         git_repo_root = (
@@ -47,5 +51,9 @@ class RunConfig:
             branch_model=self.branch_model,
             promulgation_branch_prefix=self.promulgation_branch_prefix,
             enforcement_branch_prefix=self.enforcement_branch_prefix,
+            message_template=self.message_template,
+            law_types=tuple(self.law_types),
             law_ids=tuple(self.law_ids),
+            force=self.force,
+            force_refs=self.force_refs,
         )

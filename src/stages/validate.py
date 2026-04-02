@@ -68,6 +68,7 @@ def validate_input(
         f"Validation complete: CSV columns={len(header)}, contract_ok={contract_ok}"
     )
     return ValidationManifest(
+        dataset_id=ingest_manifest.dataset_id,
         run_id=ingest_manifest.run_id,
         xsd_path=serialize_path(config.xsd_path),
         xsd_exists=xsd_exists,

@@ -67,6 +67,29 @@ def _add_common_plan_args(parser: argparse.ArgumentParser) -> None:
         default=[],
         help="Limit the run to one or more specific law IDs",
     )
+    parser.add_argument(
+        "--law-type",
+        dest="law_types",
+        action="append",
+        default=[],
+        help="Limit the run to one or more law categories (default: 法律)",
+    )
+    parser.add_argument(
+        "--all-law-types",
+        action="store_true",
+        help="Disable the default law type filter and include every law category",
+    )
+    parser.add_argument(
+        "--message-template",
+        default="default",
+        choices=("default", "compact"),
+        help="Commit message template strategy",
+    )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Overwrite an existing run directory when planning",
+    )
 
 
 def _add_common_apply_args(parser: argparse.ArgumentParser) -> None:
@@ -81,6 +104,11 @@ def _add_common_apply_args(parser: argparse.ArgumentParser) -> None:
         default=Path("laws"),
         type=Path,
         help="Directory within the git repo where law state files are written",
+    )
+    parser.add_argument(
+        "--force-refs",
+        action="store_true",
+        help="Force-update existing generated refs",
     )
 
 
@@ -115,6 +143,13 @@ def build_parser() -> argparse.ArgumentParser:
 
 
 def _build_run_config(args: argparse.Namespace, *, include_git: bool) -> RunConfig:
+    law_types = (
+        tuple()
+        if getattr(args, "all_law_types", False)
+        else tuple(args.law_types)
+        if args.law_types
+        else ("法律",)
+    )
     return RunConfig(
         input_zip=args.input_zip,
         output_root=args.output_root,
@@ -127,7 +162,13 @@ def _build_run_config(args: argparse.Namespace, *, include_git: bool) -> RunConf
         branch_model=args.branch_model,
         promulgation_branch_prefix=args.promulgation_branch_prefix,
         enforcement_branch_prefix=args.enforcement_branch_prefix,
+        message_template=args.message_template,
+        law_types=law_types,
         law_ids=tuple(args.law_ids),
+        force=args.force,
+        force_refs=(args.force or getattr(args, "force_refs", False))
+        if include_git
+        else False,
     )
 
 
@@ -150,6 +191,7 @@ def main() -> int:
             config = RunConfig(
                 git_repo_root=args.git_repo_root,
                 git_target_dir=args.git_target_dir,
+                force_refs=args.force_refs,
             )
             logger.info("Applying Gitlaw-Ja run")
             result = run_apply(config, run_manifest_path=args.run_manifest)

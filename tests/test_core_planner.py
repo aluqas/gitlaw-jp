@@ -61,11 +61,11 @@ class PlannerV3Tests(unittest.TestCase):
         )
         self.assertIsNone(revision_to_effective_date_hint("invalid"))
         self.assertEqual(
-            branch_name("promulgation", "20260331"), "promulgations/20260331"
+            branch_name("promulgation", "20260331"), "20260331/promulgations"
         )
         self.assertEqual(
             branch_ref_name("enforcement", "20260331"),
-            "refs/heads/enforcements/20260331",
+            "refs/heads/20260331/enforcements",
         )
 
     def test_default_date_resolution_strategy(self) -> None:

@@ -26,6 +26,7 @@ class CliArchitectureTests(unittest.TestCase):
         self.assertEqual(args.branch_model, "dual")
         self.assertEqual(args.promulgation_branch_prefix, "pub")
         self.assertEqual(args.enforcement_branch_prefix, "enf")
+        self.assertEqual(args.law_types, [])
 
     def test_main_dispatches_pipeline_runner(self) -> None:
         with (
@@ -74,6 +75,41 @@ class CliArchitectureTests(unittest.TestCase):
             called_conf = run_full.call_args.args[0]
             self.assertEqual(called_conf.promulgation_branch_prefix, "promulgations")
             self.assertEqual(called_conf.enforcement_branch_prefix, "enforcements")
+
+    def test_main_passes_law_types_and_force_flags_to_config(self) -> None:
+        with (
+            patch("src.cli.configure_logging"),
+            patch("src.cli.run_full") as run_full,
+            patch(
+                "sys.argv",
+                [
+                    "gitlaw-ja",
+                    "full",
+                    "--input-zip",
+                    "payload.zip",
+                    "--law-type",
+                    "政令",
+                    "--law-type",
+                    "省令",
+                    "--message-template",
+                    "compact",
+                    "--force",
+                    "--force-refs",
+                ],
+            ),
+        ):
+            run_full.return_value = PipelineResult(
+                run_id="run-v2",
+                manifest_path=Path("runs/run-v2/manifest.json"),
+            )
+
+            main()
+
+            called_conf = run_full.call_args.args[0]
+            self.assertEqual(called_conf.law_types, ("政令", "省令"))
+            self.assertEqual(called_conf.message_template, "compact")
+            self.assertTrue(called_conf.force)
+            self.assertTrue(called_conf.force_refs)
 
     def test_main_dispatches_apply(self) -> None:
         with (

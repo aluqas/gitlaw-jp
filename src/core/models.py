@@ -21,8 +21,8 @@ def revision_to_effective_date_hint(revision_id: str) -> str | None:
 
 def branch_name(layer: CommitLayer, timing_id: str) -> str:
     if layer == "promulgation":
-        return f"{PROMULGATION_BRANCH_PREFIX}/{timing_id}"
-    return f"{ENFORCEMENT_BRANCH_PREFIX}/{timing_id}"
+        return f"{timing_id}/{PROMULGATION_BRANCH_PREFIX}"
+    return f"{timing_id}/{ENFORCEMENT_BRANCH_PREFIX}"
 
 
 def branch_ref_name(layer: CommitLayer, timing_id: str) -> str:

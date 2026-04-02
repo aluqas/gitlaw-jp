@@ -10,7 +10,7 @@
 
 ## ブランチについて
 
-1. 公布`promulgrations/<run_id>`と施行`endorcement/<run_id>`はブランチを分ける
+1. 公布`runs/<run_id>/promulgations`と施行`runs/<run_id>/enforcements`はブランチを分ける
 2. 公布ブランチでは改正法＝commitの単位としたい。
     - 改正法は複数の法律の条文を一気に変える場合がある。
      ![](https://laws.e-gov.go.jp/docs/_next/static/media/210-amendment-of-multiple-laws.a7d76cae.svg)
@@ -28,11 +28,14 @@
 - python: uvを利用することが一番簡単です
 - e-gov 法令APIから`all_xml.zip`と`XMLSchemaForJapanaeseLaw_v3.xsd`をダウンロードし、`payload/`ディレクトリに配置してください
   - `--input-zip`と`--xsd-path`で変更が可能です。
+- デフォルトでは`法律`のみを対象にします。`--law-type 政令`のように追加でき、`--all-law-types`で全種別を対象にできます。
 - main.pyがエントリーポイントになっています。
   - `plan`: runs配下にapplyで適用されるcommit/branchに関する情報を構築し、jsonファイルを含むディレクトリとして`runs/<run_id>`配下に出力します。
     - 詳細はパイプラインを確認してください。
-    - `run_id`はzipのhash値に基づきます。衝突した場合は実行できませんので、再生成する場合は手動で削除してください。
+    - `dataset_id`はzipのhash値に基づきます。`run_id`は`日時_dataset_id`です。
+    - 既存runを明示的に上書きする場合は`--force`を利用します。
   - `apply`: planで生成された`runs/<run_id>/manifest.json`を--run-manifestで渡し、実際にcommit/branchを生成します。
+    - 既存refを明示的に更新する場合は`--force-refs`を利用します。
   - `full`: plan/applyの両方をまとめて行います。この場合--run-manifestは必要ありません。
   - 詳しくは`-h`または`--help`
 

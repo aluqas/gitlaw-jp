@@ -11,6 +11,7 @@ from ..core.planner import build_law_timelines, law_versions_from_jsonl
 def create_timelines(
     config: RunConfig,
     *,
+    dataset_id: str,
     run_id: str,
     versions_jsonl: Path,
 ) -> TimelineManifest:
@@ -27,6 +28,7 @@ def create_timelines(
             f.write("\n")
 
     manifest = TimelineManifest(
+        dataset_id=dataset_id,
         run_id=run_id,
         source_versions_jsonl=serialize_path(versions_jsonl),
         timeline_count=len(timelines),

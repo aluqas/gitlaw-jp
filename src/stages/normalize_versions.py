@@ -12,6 +12,7 @@ from zipfile import ZipFile
 from ..config import RunConfig, serialize_path
 from ..contracts import IngestManifest, LawXmlParser, SnapshotManifest
 from ..core.models import LawVersion
+from ..law_types import normalize_law_type
 from ..xml_parser import XsdataLawXmlParser
 
 logger = logging.getLogger(__name__)
@@ -45,6 +46,22 @@ def _filter_rows_by_law_id(
         return rows
     allowed = {law_id for law_id in allowed_law_ids if law_id}
     return [row for row in rows if row.get("法令ID", "") in allowed]
+
+
+def _filter_rows_by_law_type(
+    rows: list[dict[str, str]], allowed_law_types: tuple[str, ...]
+) -> list[dict[str, str]]:
+    if not allowed_law_types:
+        return rows
+    allowed = {
+        normalize_law_type(law_type) for law_type in allowed_law_types if law_type
+    }
+    return [
+        row
+        for row in rows
+        if normalize_law_type(row.get("法令種別", ""), row.get("法令番号", ""))
+        in allowed
+    ]
 
 
 def _normalize_entries(entries: list[str]) -> list[str]:
@@ -157,6 +174,7 @@ def create_normalized_versions(
     parser = (law_xml_parser or XsdataLawXmlParser()) if need_xml_parse else None
     rows = _read_csv_rows(config.input_zip, ingest_manifest.csv_entry)
     rows = _filter_rows_by_law_id(rows, config.law_ids)
+    rows = _filter_rows_by_law_type(rows, config.law_types)
     records: list[LawVersion] = []
     started_at = time.perf_counter()
 
@@ -217,6 +235,7 @@ def create_normalized_versions(
             f.write("\n")
 
     manifest = SnapshotManifest(
+        dataset_id=ingest_manifest.dataset_id,
         run_id=ingest_manifest.run_id,
         source_csv_entry=ingest_manifest.csv_entry,
         record_count=len(records),

@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import json
 import logging
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zipfile import ZipFile
 
@@ -10,6 +11,7 @@ from ..config import RunConfig, serialize_path
 from ..contracts import IngestManifest
 
 logger = logging.getLogger(__name__)
+_JST = timezone(timedelta(hours=9))
 
 
 def _sha256_file(path: Path) -> str:
@@ -33,8 +35,11 @@ def ingest_zip(config: RunConfig) -> IngestManifest:
 
     logger.debug("Computing SHA256 hash of input ZIP...")
     input_sha = _sha256_file(zip_path)
-    run_id = input_sha[:12]
-    logger.debug(f"Input SHA256: {input_sha}, Run ID: {run_id}")
+    dataset_id = input_sha[:12]
+    run_id = f"{datetime.now(_JST).strftime('%Y%m%dT%H%M%S')}_{dataset_id}"
+    logger.debug(
+        f"Input SHA256: {input_sha}, Dataset ID: {dataset_id}, Run ID: {run_id}"
+    )
 
     logger.debug("Extracting file list from ZIP...")
     with ZipFile(zip_path, "r") as zf:
@@ -53,8 +58,14 @@ def ingest_zip(config: RunConfig) -> IngestManifest:
         logger.error("No XML files found in input ZIP")
         raise ValueError("no xml files found in input zip")
 
-    logger.info(f"Ingest complete: run_id={run_id}, XML entries={len(xml_entries)}")
+    logger.info(
+        "Ingest complete: dataset_id=%s, run_id=%s, XML entries=%s",
+        dataset_id,
+        run_id,
+        len(xml_entries),
+    )
     return IngestManifest(
+        dataset_id=dataset_id,
         run_id=run_id,
         input_zip=serialize_path(zip_path),
         input_sha256=input_sha,

@@ -80,6 +80,7 @@ class PipelineV3Tests(unittest.TestCase):
 
             run_manifest = json.loads(result.manifest_path.read_text(encoding="utf-8"))
             self.assertEqual(run_manifest["schema_version"], 3)
+            self.assertIn("dataset_id", run_manifest)
             self.assertIn("03_normalize_versions", run_manifest["stages"])
             self.assertIn("04_build_timelines", run_manifest["stages"])
             self.assertIn("05_graph_plan", run_manifest["stages"])
@@ -97,12 +98,8 @@ class PipelineV3Tests(unittest.TestCase):
                 commit["projection"] for commit in graph_plan["planned_commits"]
             }
             self.assertEqual(projections, {"promulgation", "enforcement"})
-            self.assertIn(
-                "refs/heads/promulgations/", graph_plan["metadata"]["promulgation_ref"]
-            )
-            self.assertIn(
-                "refs/heads/enforcements/", graph_plan["metadata"]["enforcement_ref"]
-            )
+            self.assertIn("/promulgations", graph_plan["metadata"]["promulgation_ref"])
+            self.assertIn("/enforcements", graph_plan["metadata"]["enforcement_ref"])
 
     def test_run_pipeline_replaces_existing_run_directory(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -136,6 +133,44 @@ class PipelineV3Tests(unittest.TestCase):
 
             self.assertTrue(stale_file.exists())
 
+    def test_run_pipeline_force_replaces_existing_run_directory(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            input_zip = tmp_path / "input.zip"
+            output_root = tmp_path / "runs"
+            xsd_path = tmp_path / "schema.xsd"
+            self._build_input_zip(input_zip)
+            self._build_xsd(xsd_path)
+
+            fake_now = datetime(
+                2026, 4, 2, 12, 0, 0, tzinfo=timezone(timedelta(hours=9))
+            )
+            with patch("src.stages.ingest.datetime") as mocked_datetime:
+                mocked_datetime.now.return_value = fake_now
+                mocked_datetime.strftime = datetime.strftime
+                result = run_plan(
+                    RunConfig(
+                        input_zip=input_zip, output_root=output_root, xsd_path=xsd_path
+                    )
+                )
+            stale_file = output_root / result.run_id / "stale.txt"
+            stale_file.write_text("stale\n", encoding="utf-8")
+
+            with patch("src.stages.ingest.datetime") as mocked_datetime:
+                mocked_datetime.now.return_value = fake_now
+                mocked_datetime.strftime = datetime.strftime
+                rerun = run_plan(
+                    RunConfig(
+                        input_zip=input_zip,
+                        output_root=output_root,
+                        xsd_path=xsd_path,
+                        force=True,
+                    )
+                )
+
+            self.assertFalse(stale_file.exists())
+            self.assertEqual(result.run_id, rerun.run_id)
+
     def test_run_pipeline_defaults_as_of_for_git_projection(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
             tmp_path = Path(tmpdir)
@@ -167,6 +202,23 @@ class PipelineV3Tests(unittest.TestCase):
             run_manifest = json.loads(result.manifest_path.read_text(encoding="utf-8"))
             expected = datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d")
             self.assertEqual(run_manifest["as_of"], expected)
+
+    def test_run_pipeline_defaults_to_laws_only(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            input_zip = tmp_path / "input.zip"
+            output_root = tmp_path / "runs"
+            xsd_path = tmp_path / "schema.xsd"
+            self._build_input_zip(input_zip)
+            self._build_xsd(xsd_path)
+
+            result = run_plan(
+                RunConfig(
+                    input_zip=input_zip, output_root=output_root, xsd_path=xsd_path
+                )
+            )
+            run_manifest = json.loads(result.manifest_path.read_text(encoding="utf-8"))
+            self.assertEqual(run_manifest["law_types"], ["法律"])
 
     def test_run_pipeline_filters_by_law_id(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:

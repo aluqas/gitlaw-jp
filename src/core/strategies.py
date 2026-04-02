@@ -7,6 +7,7 @@ from dataclasses import dataclass
 from datetime import datetime
 from typing import Protocol
 
+from ..law_types import law_category_from_num, normalize_law_type
 from .models import (
     AmendmentEvent,
     EnforcementUnit,
@@ -168,24 +169,11 @@ def _render_message(title: str, body_lines: list[str], trailers: dict[str, str])
 
 
 def _law_category_from_type(law_type: str) -> str:
-    normalized = law_type.strip()
-    if normalized:
-        return normalized
-    mapping = {
-        "Act": "法律",
-        "CabinetOrder": "政令",
-        "ImperialOrder": "勅令",
-        "MinisterialOrdinance": "省令",
-        "Rule": "規則",
-    }
-    return mapping.get(law_type, "法令")
+    return normalize_law_type(law_type)
 
 
 def _law_category_from_num(law_num: str) -> str:
-    for token in ("法律", "政令", "勅令", "府令", "省令", "規則", "告示"):
-        if token in law_num:
-            return token
-    return "法令"
+    return law_category_from_num(law_num) or "法令"
 
 
 def _display_title(name: str, num: str) -> str:
@@ -356,11 +344,11 @@ class DefaultMetadataEmissionStrategy:
         trailers = self.enforcement_trailers(unit)
         return _render_message(
             (
-                f"[gitlaw][施行][{_law_category_from_type(unit.law_type)}] "
+                f"[gitlaw][施行][{normalize_law_type(unit.law_type, unit.law_num)}] "
                 f"{_display_title(unit.law_name, unit.law_num)}"
             ),
             [
-                f"法令種別: {unit.law_type}",
+                f"法令種別: {normalize_law_type(unit.law_type, unit.law_num)}",
                 f"法令名: {unit.law_name}",
                 f"法令番号: {unit.law_num}",
                 f"法令ID: {unit.law_revision.law_id}",
@@ -379,11 +367,11 @@ class DefaultMetadataEmissionStrategy:
         trailers = self.promulgation_side_trailers(unit)
         return _render_message(
             (
-                f"[gitlaw][公布準備][{_law_category_from_type(unit.law_type)}] "
+                f"[gitlaw][公布準備][{normalize_law_type(unit.law_type, unit.law_num)}] "
                 f"{_display_title(unit.law_name, unit.law_num)}"
             ),
             [
-                f"法令種別: {unit.law_type}",
+                f"法令種別: {normalize_law_type(unit.law_type, unit.law_num)}",
                 f"法令名: {unit.law_name}",
                 f"法令番号: {unit.law_num}",
                 f"法令ID: {unit.law_revision.law_id}",
@@ -471,12 +459,53 @@ class DefaultMetadataEmissionStrategy:
 
 
 @dataclass(frozen=True)
+class CompactMetadataEmissionStrategy(DefaultMetadataEmissionStrategy):
+    def build_enforcement_message(self, unit: EnforcementUnit) -> str:
+        trailers = self.enforcement_trailers(unit)
+        return _render_message(
+            (
+                f"[gitlaw][施行][{normalize_law_type(unit.law_type, unit.law_num)}] "
+                f"{_display_title(unit.law_name, unit.law_num)}"
+            ),
+            [
+                f"改正法令: {_display_title(unit.amendment_event.amendment_law_name, unit.amendment_event.amendment_law_num)}",
+                f"施行日: {unit.effective_date}",
+                f"改正版ID: {unit.law_revision.revision_id}",
+            ],
+            trailers,
+        )
+
+    def build_promulgation_side_message(self, unit: EnforcementUnit) -> str:
+        trailers = self.promulgation_side_trailers(unit)
+        return _render_message(
+            (
+                f"[gitlaw][公布準備][{normalize_law_type(unit.law_type, unit.law_num)}] "
+                f"{_display_title(unit.law_name, unit.law_num)}"
+            ),
+            [
+                f"改正法令: {_display_title(unit.amendment_event.amendment_law_name, unit.amendment_event.amendment_law_num)}",
+                f"施行予定日: {unit.effective_date}",
+                f"改正版ID: {unit.law_revision.revision_id}",
+            ],
+            trailers,
+        )
+
+
+@dataclass(frozen=True)
 class DefaultRefLayoutStrategy:
     def promulgation_ref(self, *, run_id: str, branch_prefix: str) -> str:
-        return f"refs/heads/{branch_prefix}/{run_id}"
+        return f"refs/heads/{run_id}/{branch_prefix}"
 
     def enforcement_ref(self, *, run_id: str, branch_prefix: str) -> str:
-        return f"refs/heads/{branch_prefix}/{run_id}"
+        return f"refs/heads/{run_id}/{branch_prefix}"
+
+
+def build_metadata_strategy(template: str) -> MetadataEmissionStrategy:
+    if template == "compact":
+        return CompactMetadataEmissionStrategy()
+    if template == "default":
+        return DefaultMetadataEmissionStrategy()
+    raise ValueError(f"unsupported message template: {template}")
 
 
 def resolve_primary_amendment_event(
