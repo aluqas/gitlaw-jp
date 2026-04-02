@@ -1,1 +1,12 @@
-/payload
+all_xml.zip
+/payload/**
+/runs
+
+# Python
+**/__pycache__/**
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+.DS_Store
