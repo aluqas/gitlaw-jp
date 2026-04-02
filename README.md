@@ -4,34 +4,46 @@
 
 - `src/`: バルクデータをGitのコミット・ブランチデータへ直接変換するPythonスクリプト
 - `laws/`: ファイル実体が保管されています。
-  - `{law_id[:3]}/{law_id}/`: e-gov 法令APIの法令IDに基づいています。
+  - `{law_id[:3]}/{law_id}/`: e-gov 法令APIの法令IDに基づいています。先頭3文字は和暦になっています。
     - `current.json`:
     - `current.xml`: all_xml.zip内に存在する各法令・版のXMLをそのまま各コミットが適用しています。当ファイルの来歴を見ることで法令の差分を確認することが可能です。
+
+## ブランチについて
+
+1. 公布`promulgrations/<run_id>`と施行`endorcement/<run_id>`はブランチを分ける
+2. 公布ブランチでは改正法＝commitの単位としたい。
+    - 改正法は複数の法律の条文を一気に変える場合がある。
+     ![](https://laws.e-gov.go.jp/docs/_next/static/media/210-amendment-of-multiple-laws.a7d76cae.svg)
+    - 改正法＝commit単位は個人的に直感的だと思うので。
+3. 施行ブランチでは各法令の条文の溶け込み・各法令の版をcommitの単位としている。
+   - 同じ改正法の同じ方に対する変更はそのまま同じ時に適用されるわけではない
+   - 例えば、制度上緩和措置として「この業界だけは猶予を与える」ということは多いが、法律でも同じで、同じ改正法でも〇〇法は〇月から施行、〇〇法は〇月から施行が起きる。
+   - またN段ロケットと呼ばれるものもあり、同じ改正規定が同じ法に対しても、段階的に改正を適用することがある。
+4. 公布-施行ブランチの対応の両立
+   - これが一番の課題で、これについては今後どのような形であれば自然か、扱いやすいかなどは考えていくつもり。
+   - 今のところ、版単位のcommitを最も小さい単位として、公布ブランチ側では改正法ごとに束ねるmerge commit的なcommitを生成している。
 
 ## 使用方法
 
 - python: uvを利用することが一番簡単です
 - e-gov 法令APIから`all_xml.zip`と`XMLSchemaForJapanaeseLaw_v3.xsd`をダウンロードし、`payload/`ディレクトリに配置してください
+  - `--input-zip`と`--xsd-path`で変更が可能です。
 - main.pyがエントリーポイントになっています。
+  - `plan`: runs配下にapplyで適用されるcommit/branchに関する情報を構築し、jsonファイルを含むディレクトリとして`runs/<run_id>`配下に出力します。
+    - 詳細はパイプラインを確認してください。
+    - `run_id`はzipのhash値に基づきます。衝突した場合は実行できませんので、再生成する場合は手動で削除してください。
+  - `apply`: planで生成された`runs/<run_id>/manifest.json`を--run-manifestで渡し、実際にcommit/branchを生成します。
+  - `full`: plan/applyの両方をまとめて行います。この場合--run-manifestは必要ありません。
+  - 詳しくは`-h`または`--help`
 
 ## パイプライン
 
-- `01_ingest`: 入力 ZIP の識別と `run_id` の決定
-- `02_validate`: CSV / XSD 契約の検証
-- `03_normalize_versions`: CSV/XML から `LawVersion` を生成
-- `04_build_timelines`: 法令ごとの版列 (`LawTimeline`) を構築
-- `05_graph_plan`: `EnforcementUnit` / `AmendmentEvent` から commit graph plan を構築
-- `06_git_sink`: plan をそのまま Git object / refs に反映
-
-## コミット生成ロジック方針
-
-- 施行ブランチ (`enforcements/<run_id>`) は施行単位 (`EnforcementUnit`) の線形履歴。
-- 公布ブランチ (`promulgations/<run_id>`) は改正法ごとの side lineage を merge した PR 風 DAG。
-- 公布と施行の対応付けは SHA ではなく `Amendment-Id` / `Unit-Id` trailer と `graph_plan.json` で持つ。
-- `--as-of` 未指定で Git 反映を行う場合は、JST の当日を既定値として未来施行を除外する。
-- 日時は `YYYY-MM-DD` と和暦文字列（例: `令和六年七月一日`）を正規化して扱う。
-- 日時の優先順位は `amendment_promulgation_date` → `effective_date` → `revision_id` 先頭日付 → sentinel。
-- `diff` は補助出力であり、commit 生成の主要入力には使わない。
+- `01_ingest`: 入力Zipの識別と`run_id`の決定
+- `02_validate`: CSV / XSDスキーマの検証
+- `03_normalize_versions`: CSV / XML から`LawVersion`を生成
+- `04_build_timelines`: 法令ごとの版列(`LawTimeline`)を構築
+- `05_graph_plan`: `EnforcementUnit` / `AmendmentEvent`からcommit graph planを構築
+- `06_git_sink`: planをそのままGit object / refsに反映
 
 ## Appendix
 
